@@ -15,7 +15,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "3ade084b-d2bd-4ccb-bb89-32ec79363b9d.jpg"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -33,7 +34,8 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   },
   {
    "id": "632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
@@ -48,7 +50,8 @@
     "es-la",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "797fc185-074f-4aaa-b0bc-6bf52ff7f279.jpg"
   },
   {
    "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
@@ -62,7 +65,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "645449e1-ad9f-417a-8f23-6b21008bbc68.jpg"
   },
   {
    "id": "e3e9cba6-81ed-4ac9-ad39-e19d508e9659",
@@ -73,7 +77,8 @@
    "score": 0.37119427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8359eabb-2bbb-4a03-ac58-46542c67d5a0.png"
   },
   {
    "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
@@ -85,19 +90,21 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a6a89ed5-366c-495f-8789-3d5509b7625e.png"
   },
   {
    "id": "a77b83dd-16d4-4d0f-b01b-86e98c67c243",
    "title": {
-    "en": "Tomoe Koga’s Birthday | 2020"
+    "en": "Tomoe Koga\u2019s Birthday | 2020"
    },
    "contentRating": "safe",
    "score": 0.36245307,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ba298992-ca4a-40fe-9ae1-413f418d7e96.jpg"
   },
   {
    "id": "e0511fc5-c114-4447-824e-96cb3db37078",
@@ -114,7 +121,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ecff763c-302d-4e80-81ad-8afbdd43aa3e.jpg"
   },
   {
    "id": "a4e5418c-18d9-468a-8cac-8daa78617f83",
@@ -126,7 +134,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3de71bb8-5149-4135-b39f-62410093947b.jpg"
   },
   {
    "id": "3234c908-ae02-487a-a68a-7f8b2db8c78d",
@@ -141,7 +150,8 @@
     "vi",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "5016a0bb-69ba-4d37-a569-0736f2995d78.jpg"
   },
   {
    "id": "677fb60b-2deb-46db-9ece-704f6144faf0",
@@ -155,7 +165,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "5003967e-c8ea-4793-ad8a-168d2a319b3a.jpg"
   },
   {
    "id": "38fce5ab-d630-40b2-8b4b-6ea3bef2f760",
@@ -167,8 +178,10 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "e4f5c23f-449f-447d-a266-2efd5b22c351.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:33+00:00"
+ "updatedAt": "2021-07-18T06:34:33+00:00",
+ "coverFileName": "9c20d227-4ac9-45c8-ae71-f58329cafe75.jpg"
 }

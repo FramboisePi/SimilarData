@@ -1,7 +1,7 @@
 {
  "id": "f0ac48d3-c7e3-42af-8b7e-81d7f441ec97",
  "title": {
-  "en": "Shin☆Daa! Daa! Daa!"
+  "en": "Shin\u2606Daa! Daa! Daa!"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "17e7e506-d552-4e6b-8aae-04c7e9acbc63.jpg"
   },
   {
    "id": "7ace7a3b-31b3-44ea-b160-bcb66cbcc55b",
@@ -27,7 +28,8 @@
    "score": 0.54752576,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d271351-716b-4ea5-8442-aa05804eff26.jpg"
   },
   {
    "id": "e63c3723-77b6-4b2b-86b6-059d823acf7e",
@@ -38,7 +40,8 @@
    "score": 0.4627726,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "26e63893-9f1f-40e2-82a1-aae5e66d3456.jpg"
   },
   {
    "id": "072cd759-13eb-4395-b3c9-2348a0dadfae",
@@ -49,18 +52,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e266c0a-9f71-4c40-bc96-08446ebd10ae.jpg"
   },
   {
    "id": "f76ffb2d-a84e-4ae5-9268-0a40178f7d64",
    "title": {
-    "en": "Cake Ouji no Spécialité"
+    "en": "Cake Ouji no Sp\u00e9cialit\u00e9"
    },
    "contentRating": "safe",
    "score": 0.42255822,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ab1a648-2438-418b-ab65-aed42a4f9bac.png"
   },
   {
    "id": "ff21e8be-0278-4617-834a-1ee715da8981",
@@ -71,7 +76,8 @@
    "score": 0.42008522,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "089d487f-d5f4-4a46-97bf-22b44ba6f8df.png"
   },
   {
    "id": "6d06d6a7-243e-45a9-b3d4-4e09e6ff3274",
@@ -82,7 +88,8 @@
    "score": 0.41733244,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbc78e60-73df-4c7a-acb5-cc1efe7bd6b5.jpg"
   },
   {
    "id": "8eabc51f-d734-4a5d-a434-e67ea65a9a92",
@@ -93,7 +100,8 @@
    "score": 0.41385108,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5538c93-440b-4478-9ed1-362cc12fab13.jpg"
   },
   {
    "id": "d63030c1-63eb-4fc0-8aef-8f165f6587b1",
@@ -104,7 +112,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0d8d8cd-a88e-44c5-8589-e3eb98ee65e7.jpg"
   },
   {
    "id": "13e39275-7b8b-4b70-a758-1314392e0e48",
@@ -115,18 +124,20 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "174cc708-8ca8-43cb-a2bf-bbf7b22d8ede.jpg"
   },
   {
    "id": "d16b55b3-f523-4e5e-9a1f-b8e0a1930285",
    "title": {
-    "en": "I Don’t Care. Let Me Go Home!"
+    "en": "I Don\u2019t Care. Let Me Go Home!"
    },
    "contentRating": "safe",
    "score": 0.4091262,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3b86ff0-b722-4ae3-a2ba-e3921f103665.jpg"
   },
   {
    "id": "88b175b8-7e29-4750-bf37-d48a5ea6bc11",
@@ -138,8 +149,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "035e759d-24b4-4f71-8423-8895360cbea8.png"
   }
  ],
- "updatedAt": "2021-07-18T07:08:57+00:00"
+ "updatedAt": "2021-07-18T07:08:57+00:00",
+ "coverFileName": "02ff32b6-cc10-4ced-921e-9eea61e019d5.jpg"
 }

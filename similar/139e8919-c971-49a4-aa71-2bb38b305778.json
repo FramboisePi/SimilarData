@@ -1,7 +1,7 @@
 {
  "id": "139e8919-c971-49a4-aa71-2bb38b305778",
  "title": {
-  "en": "Ari \u0026 Kirigirisu ~Assortment~"
+  "en": "Ari & Kirigirisu ~Assortment~"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "61794c86-ae43-4b6a-9d5c-5d69c843f181.jpg"
   },
   {
    "id": "906ef751-0ce6-4f43-86f6-c508b95f3dec",
@@ -26,7 +27,8 @@
    "score": 0.4576838,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2104952d-9d42-4f7c-a6e4-a17e026d0043.jpg"
   },
   {
    "id": "5f835dcd-f1f4-4f7c-8792-679103f9cabb",
@@ -37,7 +39,8 @@
    "score": 0.4567634,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df934da7-3d76-4c69-8daf-20b0fe1a65f7.jpg"
   },
   {
    "id": "7d0d5da6-e1fa-49bc-bb5f-c3b7c1abc3a0",
@@ -48,7 +51,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0fbc8404-1327-4c1a-9b2f-00fea158e642.jpg"
   },
   {
    "id": "23a29f15-2510-4a6e-900d-97598e669195",
@@ -60,7 +64,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "5f4306e1-6a6e-4794-9dbf-64889eaf9ce2.jpg"
   },
   {
    "id": "4fc10e65-3686-4d75-a542-60d0deaf417a",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "eeb5d9ff-c506-4acb-be32-ef17efc94aa3.jpg"
   },
   {
    "id": "4601a2e6-5c89-4317-ab2c-2babfb39753c",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "e0cface0-524a-43ef-b4a8-018f1de7b324.jpg"
   },
   {
    "id": "1530a079-bb94-4981-98e3-c3f3d74a272d",
@@ -95,7 +102,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e223857-6d4e-4d06-ba6f-fcf668a46d93.jpg"
   },
   {
    "id": "4f0e089b-a9a4-4f4e-8d36-b1b0c4368228",
@@ -107,7 +115,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7a7b6ab5-0cd5-4cd6-90c0-fef56f87c80e.jpg"
   },
   {
    "id": "e77b1197-27f0-4bf4-bf14-300d873cd0d5",
@@ -118,7 +127,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "166c952f-0570-4cc8-8e5d-6a853c81644f.jpg"
   },
   {
    "id": "87a8538b-3f31-4f96-8d8e-196689b1b719",
@@ -130,7 +140,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "54ab81c7-2953-4d44-ad34-1dd12b0bd363.jpg"
   },
   {
    "id": "f8faf3bf-4c94-4a05-9e07-2771cb1dc66e",
@@ -142,8 +153,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "e43b7339-7fec-404e-bd8f-d312e2c78411.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:08+00:00"
+ "updatedAt": "2021-07-18T06:28:08+00:00",
+ "coverFileName": "a25410bf-146a-4cc3-a852-bff116e521b8.jpg"
 }

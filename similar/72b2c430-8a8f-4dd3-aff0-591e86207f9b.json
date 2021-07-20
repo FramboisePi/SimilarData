@@ -1,7 +1,7 @@
 {
  "id": "72b2c430-8a8f-4dd3-aff0-591e86207f9b",
  "title": {
-  "en": "The Devil’s Temptation"
+  "en": "The Devil\u2019s Temptation"
  },
  "contentRating": "erotica",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d0cba558-90b0-4255-b725-53c1e67d46ff.png"
   },
   {
    "id": "cf8c6777-240a-4ef5-a958-9d1a3c93d838",
@@ -28,7 +29,8 @@
     "fr",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "1ff82f89-ff16-4174-8d07-b4222922e2fc.jpg"
   },
   {
    "id": "07eadf44-b1be-45df-9e7f-4262bfabcd2b",
@@ -44,7 +46,8 @@
     "tr",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "f017866d-ad9e-4aec-b24c-04769159e860.jpg"
   },
   {
    "id": "d9d4b472-3bc2-4e74-afe4-383f16cca3f0",
@@ -57,7 +60,8 @@
     "tr",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "779e7327-394c-4031-a9b9-209ad9279c06.jpg"
   },
   {
    "id": "f2402f7b-0c60-4e15-93e4-a31074aeb46f",
@@ -72,7 +76,8 @@
     "pt-br",
     "hu",
     "es"
-   ]
+   ],
+   "coverFileName": "0ddd28f8-350f-4379-9d5e-d7e5634bc143.jpg"
   },
   {
    "id": "be7d74aa-3294-4d9b-ad0a-49dd17098956",
@@ -84,12 +89,13 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e37f8c22-73b1-4c7e-b1d0-1889e73dfb67.jpg"
   },
   {
    "id": "d6b9a456-d77f-4a56-b69b-85a3941c0dc1",
    "title": {
-    "en": "Hide \u0026 Seek"
+    "en": "Hide & Seek"
    },
    "contentRating": "erotica",
    "score": 0.34854305,
@@ -97,7 +103,8 @@
     "pt-br",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "7c29a750-2128-4855-8770-df4884692e6f.jpg"
   },
   {
    "id": "270d669d-dc26-4caa-b4a3-978d940ea2cb",
@@ -111,7 +118,8 @@
     "tr",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "6bc81ca1-8949-41e0-b2db-fa7ec6f29ad7.png"
   },
   {
    "id": "ce841813-2082-4e88-b055-9eb57f835199",
@@ -123,7 +131,8 @@
    "languages": [
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "17ac8109-0ec1-4f42-8603-d8dcf1867e20.jpg"
   },
   {
    "id": "cc008082-701c-46e9-a5e4-7ac47f0c613d",
@@ -136,7 +145,8 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "117fe207-b365-4a56-81f3-569fe0480250.jpg"
   },
   {
    "id": "3a53c292-b60c-41c6-8bdf-477e9cb1e91e",
@@ -148,7 +158,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1281d8d4-1057-48d2-9090-aff6a91a1c5d.jpg"
   },
   {
    "id": "173d4a8f-ade3-4b14-8981-1407edcf1cba",
@@ -160,8 +171,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "5541f59a-ebd4-4fc4-8e97-32aba00b9738.png"
   }
  ],
- "updatedAt": "2021-07-18T06:45:42+00:00"
+ "updatedAt": "2021-07-18T06:45:42+00:00",
+ "coverFileName": "17a4a125-d241-4a6c-bcb8-f0c416ceb2cf.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2ccf4341-f98f-4143-8bf4-c0f4bd83b282.png"
   },
   {
    "id": "45e775a8-b9b8-4554-9ad3-e5135a602cda",
@@ -26,7 +27,8 @@
    "score": 0.45469975,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "67b8635e-0747-4e3c-8004-0fe1c1211742.jpg"
   },
   {
    "id": "1c19fea0-b8dc-4d64-a191-f48e2a6db12d",
@@ -39,7 +41,8 @@
     "es-la",
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "f3be6145-8722-40da-bff0-6ba6d3ea4230.jpg"
   },
   {
    "id": "0177dc79-c099-4e57-a229-aaf36d880f34",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d3c4c125-5a11-45a9-a209-24ef3066770c.png"
   },
   {
    "id": "6647e90e-a71b-417a-9beb-cb854abc779a",
@@ -62,7 +66,8 @@
    "score": 0.34243742,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e91d9b07-cd58-4188-8be8-614bde75b3e2.jpg"
   },
   {
    "id": "a6f0d754-d58a-4671-8c0d-a5b85ded4e91",
@@ -73,7 +78,8 @@
    "score": 0.33974326,
    "languages": [
     "id"
-   ]
+   ],
+   "coverFileName": "7932709c-b4d6-4385-90e5-ea261f1eb9b9.jpg"
   },
   {
    "id": "e4cbc409-d540-48ef-a876-0b2a81e8a2ae",
@@ -85,19 +91,21 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "9a73122b-ef1d-4813-91ec-1e1f88e26e04.jpg"
   },
   {
    "id": "da9519ac-43ea-46e0-95c0-c457bd44cec5",
    "title": {
-    "en": "Salieri \u0026 Mozart"
+    "en": "Salieri & Mozart"
    },
    "contentRating": "safe",
    "score": 0.33807895,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "d3ead39b-560b-4a74-9a28-d4daa4a0c9d3.jpg"
   },
   {
    "id": "9b72abeb-b054-4db2-a871-a016bc59090c",
@@ -110,7 +118,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ef08ec14-5127-4030-b94c-5a86d8632824.jpg"
   },
   {
    "id": "d67ed460-f859-4cdd-bddf-72838faea6de",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9cd71710-4f7b-46d7-814e-b68cfe8fd954.jpg"
   },
   {
    "id": "4aa01495-a644-4f7d-8c99-9972d90d9bbf",
@@ -133,7 +143,8 @@
    "score": 0.33086234,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ca8e4f8-6794-447d-ade3-2c25632cfe11.png"
   },
   {
    "id": "5f117b78-aec7-4e5c-8364-366bd6d981ac",
@@ -146,8 +157,10 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "a28b0b0e-2389-46ed-a3d0-c9f81ad3f0d0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:27+00:00"
+ "updatedAt": "2021-07-18T06:59:27+00:00",
+ "coverFileName": "411dad99-603f-4bd2-a3e5-8316cbde119b.png"
 }

@@ -14,7 +14,8 @@
    "score": 0.5760553,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f3bbb55-03b1-4ac5-953e-0175e286a3e2.jpg"
   },
   {
    "id": "9356fa3f-9ecd-4ff7-a7fe-241884680079",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ffd10199-ae39-4395-b2cb-9d47ba3c2cff.jpg"
   },
   {
    "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
@@ -37,7 +39,8 @@
    "score": 0.49427745,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c52b8f9-e68e-428f-aca2-628db26100b4.jpg"
   },
   {
    "id": "9bf2768a-0d27-48ee-b4e9-efba19a3fbf1",
@@ -48,7 +51,8 @@
    "score": 0.48343888,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "70c92965-533b-467b-b544-cfd07c4dce61.png"
   },
   {
    "id": "18cabad5-9fa0-457f-998c-e3819893fb52",
@@ -61,7 +65,8 @@
     "tr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "60f3e8d4-5e62-4200-82ee-9bafadb48cae.jpg"
   },
   {
    "id": "90476ab5-f9ee-426e-b418-d2f04e94da0f",
@@ -73,7 +78,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "f473bed5-bc8d-4606-9bae-6e96fcd557b0.jpg"
   },
   {
    "id": "0973bc7d-0701-4fa6-bd17-86381c4ce742",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "afc0ea09-daa9-4d87-b055-3d13fe41b6ac.png"
   },
   {
    "id": "4fcb5119-352f-402a-829e-03f6b60c3132",
@@ -97,7 +104,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "61d5e3ec-4573-4359-8dac-df542a0655b8.jpg"
   },
   {
    "id": "c982a600-a93a-46a8-9d7a-df99e33cb2e8",
@@ -108,7 +116,8 @@
    "score": 0.44547945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ea47c52-6e7b-487f-8e8a-bd8f74d41237.jpg"
   },
   {
    "id": "ee62fd10-303a-4a0e-b722-86cf8f7f1fd9",
@@ -122,18 +131,20 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2682616b-640f-4961-acd6-6ddc09e70fab.jpg"
   },
   {
    "id": "793a65ef-068f-4547-b62b-a78ea7b649c9",
    "title": {
-    "en": "Teke Teke ★ Rendezvous"
+    "en": "Teke Teke \u2605 Rendezvous"
    },
    "contentRating": "safe",
    "score": 0.4411184,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9e00f4f-ce16-45d1-9c76-6ff1a26c2b91.jpg"
   },
   {
    "id": "c9b6c3d6-5798-4d3d-9179-72eeb0aafa90",
@@ -145,8 +156,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "9a48384a-1b47-46a1-a9e2-76293d428796.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:45+00:00"
+ "updatedAt": "2021-07-18T07:04:45+00:00",
+ "coverFileName": "ecfe4fd3-d97a-4977-bfbf-6f78f74ef3c8.jpg"
 }

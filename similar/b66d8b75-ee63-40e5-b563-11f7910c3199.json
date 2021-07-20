@@ -15,18 +15,20 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1748a82d-1262-48bc-bcd8-dad536f4b4aa.jpg"
   },
   {
    "id": "9fe53dd0-ce6d-4cb3-9cd8-acfcba8aea7f",
    "title": {
-    "en": "Cafe dé Hanadan"
+    "en": "Cafe d\u00e9 Hanadan"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "es"
-   ]
+   ],
+   "coverFileName": "48ac3f29-46af-4a69-a182-58e32a6b611c.jpg"
   },
   {
    "id": "39a74837-9878-4956-8069-a67f37dc31bb",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "ebc7da73-ffc9-4b6d-8295-1579821ccd19.jpg"
   },
   {
    "id": "34257de2-1ce1-4f92-89bb-ac2c70a6a032",
@@ -52,7 +55,8 @@
     "en",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "dbcbd9ba-bcfd-47e9-9f95-f38149dc0158.jpg"
   },
   {
    "id": "3cbb84b6-2510-4467-97eb-0bd0ea277ace",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "945df3c1-a9e3-4aec-a658-63b6755c1d47.jpg"
   },
   {
    "id": "78aa39b5-efff-4a83-924b-6be14cb44a2b",
@@ -79,7 +84,8 @@
     "pt-br",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "f18a5f75-94e5-48fe-8927-a1822d09fa03.jpg"
   },
   {
    "id": "cdef0118-62b1-4fba-9520-b7abca316845",
@@ -93,7 +99,8 @@
     "en",
     "it",
     "es"
-   ]
+   ],
+   "coverFileName": "643391dc-a977-47e2-933e-4f40046b56f4.jpg"
   },
   {
    "id": "041086e4-5120-4e3c-a811-f21938a2402a",
@@ -105,7 +112,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "dd9f74a4-b980-49d2-8066-f3aff2b3006f.png"
   },
   {
    "id": "ba8bc20d-e2b9-4205-8c39-decfbb1ea97c",
@@ -119,7 +127,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "eb6f4be1-5e3f-4b64-b879-1be39c1f56df.jpg"
   },
   {
    "id": "588ad724-f157-4b0f-9f3a-90628a43d0b7",
@@ -132,7 +141,8 @@
     "es-la",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "983f6c66-bf35-4e09-9ee4-098a8302542d.jpg"
   },
   {
    "id": "c00d67e2-f098-41b3-96e9-c78237ebaa12",
@@ -145,7 +155,8 @@
     "pl",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "9d6e78b1-e937-442b-9e7b-aa53aff752b6.jpg"
   },
   {
    "id": "ffaad2bc-e2ab-499a-a5cd-e96a4017ecdc",
@@ -158,8 +169,10 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "d389ca7f-a913-4f7b-8b30-e696eb82dfda.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:23+00:00"
+ "updatedAt": "2021-07-18T06:58:23+00:00",
+ "coverFileName": "ab49d636-42b1-4a9e-a82f-7339602f89cd.jpg"
 }

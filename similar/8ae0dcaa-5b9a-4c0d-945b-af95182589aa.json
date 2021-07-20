@@ -8,14 +8,15 @@
   {
    "id": "dd61e175-96e1-4f30-a765-1b064a3fe4d8",
    "title": {
-    "en": "Aoi-kun is a Suicidal Girl (♂)"
+    "en": "Aoi-kun is a Suicidal Girl (\u2642)"
    },
    "contentRating": "safe",
    "score": 0.3531213,
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "565dc7dd-66c9-4464-be64-69d8c1dcd34b.png"
   },
   {
    "id": "0cb8a8aa-dc30-43b6-8bf9-772f7ce57d87",
@@ -28,7 +29,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "940df720-202d-47fc-a7cd-f86fa3504688.jpg"
   },
   {
    "id": "c06bd689-8917-4c0e-a79d-66ff1890eb65",
@@ -44,7 +46,8 @@
     "it",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ec93e373-f366-4433-8eab-985038c1e066.png"
   },
   {
    "id": "c95339b0-c681-4462-9dd2-ad4f6f2e5028",
@@ -57,7 +60,8 @@
     "id",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "3d288734-ccff-435f-9843-ebf630338973.jpg"
   },
   {
    "id": "b0a9192d-0490-45f2-aa9e-0a7f9625be45",
@@ -71,7 +75,8 @@
     "en",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3242520b-01e2-4776-a5d5-6a67aa6dad48.png"
   },
   {
    "id": "0b0672c3-cda6-4045-bf2d-b50673b649da",
@@ -85,7 +90,8 @@
     "id",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "09e59f95-973b-491e-988a-34cdb09fdfe9.jpg"
   },
   {
    "id": "ec0ebb8d-b68b-4732-9b62-028c8f0afcaf",
@@ -98,7 +104,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "c94369cf-12c8-4370-a04a-a62444ef403e.png"
   },
   {
    "id": "251dc412-5587-4421-9000-073e86480d1a",
@@ -111,7 +118,8 @@
     "it",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f63061b6-2483-444b-9d6b-b1dea92523b2.png"
   },
   {
    "id": "270f39b2-ab4a-4900-93fd-6df5da534a34",
@@ -126,7 +134,8 @@
     "id",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "94afc17f-0ca3-465f-8045-29b98772b14f.png"
   },
   {
    "id": "082850d2-b970-4415-a8de-08e9c82b425c",
@@ -140,7 +149,8 @@
     "ar",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "6f195ada-dd65-475c-9610-a1d8f3ecb293.jpg"
   },
   {
    "id": "6f53eaef-aa6f-4eea-9b75-85da15e71316",
@@ -152,7 +162,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "ad8cd8f5-a91c-46ef-9b05-e05fc7a3cd59.jpg"
   },
   {
    "id": "23d6e974-c01f-4d12-af58-54f9053b9106",
@@ -164,8 +175,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "66725115-1cb9-4891-be95-44ac93f4c82a.png"
   }
  ],
- "updatedAt": "2021-07-18T06:50:19+00:00"
+ "updatedAt": "2021-07-18T06:50:19+00:00",
+ "coverFileName": "241837b6-231f-45d1-8a0a-16a7fa7c476a.png"
 }

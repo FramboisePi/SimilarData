@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "d2b3779b-80d1-4018-8bcc-fdfce583ea91.png"
   },
   {
    "id": "8a806d41-31f1-4660-b808-5be3ed08908e",
@@ -26,7 +27,8 @@
    "score": 0.5153957,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec2511a0-9894-4a5e-8184-d189c13b1bb1.jpg"
   },
   {
    "id": "7e9f8bc7-72c7-4f7a-9ef8-ffda7b1a968c",
@@ -37,7 +39,8 @@
    "score": 0.50097936,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f19cc31-dc70-4993-9c6a-7a95d7195bb9.jpg"
   },
   {
    "id": "88228c06-a554-40ce-912b-84ab6eac6c89",
@@ -48,7 +51,8 @@
    "score": 0.5007655,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0eba7f85-6ea4-49d3-a5eb-2d8379e633fc.jpg"
   },
   {
    "id": "f40fb22b-8e60-4184-8b72-7b716b043e22",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3e8804d3-5f0f-40e0-9313-59b148859dbc.jpg"
   },
   {
    "id": "7875d6b9-fcf1-43fd-b28c-2074a5bda715",
@@ -71,7 +76,8 @@
    "score": 0.49687403,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "68a720a3-e0de-46ca-8427-a42439822c05.jpg"
   },
   {
    "id": "94a7d0d5-18c6-4f24-826c-4157e36608e6",
@@ -85,7 +91,8 @@
     "pl",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "f2784608-5c8f-4575-b153-4d167036c90f.jpg"
   },
   {
    "id": "d4e0709f-2ac0-4dd0-a85b-236afb340fb5",
@@ -96,7 +103,8 @@
    "score": 0.49396357,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6353adb-935b-4106-a0b5-e2ca4a813a60.jpg"
   },
   {
    "id": "dc286019-1665-4595-8f8f-9dfe3df04da0",
@@ -108,7 +116,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1028b694-ed46-4967-b05a-1f51b9a3a660.jpg"
   },
   {
    "id": "0a15b7c4-dbc9-4565-a5c4-2171db421cb2",
@@ -119,19 +128,21 @@
    "score": 0.4923638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "77de46d2-7227-4d5f-b97f-5df714a7eb46.jpg"
   },
   {
    "id": "b62659e0-fb91-4cf1-a62f-c4e058f9917a",
    "title": {
-    "en": "Mahou Shoujo Suzune★Magica"
+    "en": "Mahou Shoujo Suzune\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.49064586,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6dabc76f-0135-469a-ad42-a7bc3051f6d7.jpg"
   },
   {
    "id": "175cf215-2122-4656-9fac-37ac092438af",
@@ -145,8 +156,10 @@
     "en",
     "pt-br",
     "bg"
-   ]
+   ],
+   "coverFileName": "e1a36807-4470-42ad-b911-29d14bb8e83f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:08+00:00"
+ "updatedAt": "2021-07-18T06:35:08+00:00",
+ "coverFileName": "80456a71-af95-4537-b1fa-070e23adac33.jpg"
 }

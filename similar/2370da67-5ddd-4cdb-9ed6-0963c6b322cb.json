@@ -14,7 +14,8 @@
    "score": 0.44094843,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0cc899e1-51d7-4454-92a8-9515c941fd28.jpg"
   },
   {
    "id": "f6fda5b9-7146-459d-91a9-e30b744c075f",
@@ -26,7 +27,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "23663299-e7e0-4adf-9773-d784c9da9898.jpg"
   },
   {
    "id": "2e75b854-6a72-412e-9668-5bd2bc0791ef",
@@ -39,7 +41,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "840fadef-87fb-4ca5-9d1a-2177ed6368aa.jpg"
   },
   {
    "id": "6b0161dc-2086-4d3e-9952-f351035c8d7d",
@@ -50,7 +53,8 @@
    "score": 0.37293825,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d26ccf9-79a6-4606-bea6-00ec9f20e9d7.png"
   },
   {
    "id": "ede48b14-8d83-41cb-9559-c7d859fd23fc",
@@ -64,7 +68,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "c6ef5c15-56a8-4258-a8d5-1d03f15ad18b.jpg"
   },
   {
    "id": "1377ee5e-828d-4efe-a2c6-5122c8faf8b5",
@@ -75,19 +80,21 @@
    "score": 0.35599405,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "db2285c7-83be-4657-ab26-d6c414e8af92.jpg"
   },
   {
    "id": "626f9a68-21fe-44f4-80e9-f11ecc092700",
    "title": {
-    "en": "Ryuu Majin Hime Valalice no Haiboku ～ Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai"
+    "en": "Ryuu Majin Hime Valalice no Haiboku \uff5e Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai"
    },
    "contentRating": "safe",
    "score": 0.35156295,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "1a73bd45-09c7-4fb7-966d-ac7a4507fa96.jpg"
   },
   {
    "id": "658b9adf-33c5-439d-9df3-9650c0649bf9",
@@ -99,7 +106,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f40f39f6-b88c-4ded-a702-f5ecee1210b1.jpg"
   },
   {
    "id": "3a0b5925-41ca-46c4-8aaf-121591b869b2",
@@ -111,12 +119,13 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "fc66de9e-3f31-4d73-aa45-800e54b72541.jpg"
   },
   {
    "id": "188e4f34-a80c-4a91-b54e-69572e8ed4d5",
    "title": {
-    "en": "Saint Cecilia \u0026 Pastor Lawrence"
+    "en": "Saint Cecilia & Pastor Lawrence"
    },
    "contentRating": "safe",
    "score": 0.3458243,
@@ -126,7 +135,8 @@
     "en",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "55fb4443-2b04-4872-9cb5-7ddc83aa2ca4.jpg"
   },
   {
    "id": "b4320039-9b91-44a7-a60d-c7ba8c0684e7",
@@ -140,7 +150,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ed566a45-c9f2-4f7e-84f8-ae7fc328ab15.jpg"
   },
   {
    "id": "1aaa0a4b-78bc-4f39-aa20-145766f83092",
@@ -154,8 +165,10 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "70bbb16e-e0df-44f2-8633-3c9efc6599a9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:05+00:00"
+ "updatedAt": "2021-07-18T06:31:05+00:00",
+ "coverFileName": "5f36301b-6f36-42e5-aaf5-1c3cd9ffc0e1.jpg"
 }

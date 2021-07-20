@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "e97cbd9b-53dd-4499-968b-6c1e71f226b0",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92278cf1-89f7-4080-aeb9-c7f9aacfa1a3.jpg"
   },
   {
    "id": "3c3ec507-7177-4770-9e59-a70dbf81aaa9",
@@ -39,7 +41,8 @@
    "score": 0.4166935,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "543be836-b46a-48a2-9fa3-027a3f877ecd.jpg"
   },
   {
    "id": "edba7b3c-b90c-487a-8449-3dfca3a71643",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "71cab178-f8df-4687-b1f2-c0cdc9d09c2e.jpg"
   },
   {
    "id": "256c04c1-3575-44c9-9b02-e9d593a6b86d",
@@ -67,7 +71,8 @@
     "en",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "96dd75a5-a5f2-44d3-84db-57527c17b11b.jpg"
   },
   {
    "id": "25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4",
@@ -81,7 +86,8 @@
     "fr",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "18ec280c-58e5-445e-91b7-03b801205fc6.jpg"
   },
   {
    "id": "584dfcc9-7ff9-49dd-84c5-add2fd9aec75",
@@ -92,7 +98,8 @@
    "score": 0.38923013,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1be45ecb-a120-4215-9bee-779409fb2167.png"
   },
   {
    "id": "8848b6bd-dfae-4fec-8bc4-8a130394c9a1",
@@ -105,7 +112,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "e1a36ca1-266d-41a4-86e1-f430dd246dee.jpg"
   },
   {
    "id": "39a7252d-f080-4c28-9894-e08384f6723b",
@@ -116,7 +124,8 @@
    "score": 0.3879785,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "458136f3-354b-4499-addd-809ec1b3819d.jpg"
   },
   {
    "id": "05ad90c1-e9e0-46bf-8f72-34b2dabf6eb9",
@@ -127,32 +136,36 @@
    "score": 0.3879785,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8598ff7f-49b9-4c9e-855c-f4fdbf304598.jpg"
   },
   {
    "id": "3e75643e-4942-4ca0-8d96-c7f4b127286c",
    "title": {
-    "en": "Diphylleia’s Coup Is Being Planned"
+    "en": "Diphylleia\u2019s Coup Is Being Planned"
    },
    "contentRating": "safe",
    "score": 0.3877669,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "51c97954-0b60-4cba-9944-6cb00bde03af.png"
   },
   {
    "id": "0f66d44c-7577-4a14-a7ce-76c8872afb86",
    "title": {
-    "en": "Fox Concubine, Don’t Play With Fire"
+    "en": "Fox Concubine, Don\u2019t Play With Fire"
    },
    "contentRating": "safe",
    "score": 0.3877669,
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "0cf65994-95df-4b3d-93e9-85581e4b2807.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:00+00:00"
+ "updatedAt": "2021-07-18T07:06:00+00:00",
+ "coverFileName": "33b07536-a97d-46de-9f96-e5a3aa484a22.png"
 }

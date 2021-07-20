@@ -8,25 +8,27 @@
   {
    "id": "4e1ab66d-5377-4fd7-a197-a07b74591fa1",
    "title": {
-    "en": "Love Live! Comic Anthology µ's Sweet Memories"
+    "en": "Love Live! Comic Anthology \u00b5's Sweet Memories"
    },
    "contentRating": "safe",
    "score": 0.5470509,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "73831aad-2e16-4a19-974a-686803470250.jpg"
   },
   {
    "id": "a53e69fc-ddb5-4817-9909-043d644c7ba7",
    "title": {
-    "en": "Love Live! Comic Anthology µ's Precious Days"
+    "en": "Love Live! Comic Anthology \u00b5's Precious Days"
    },
    "contentRating": "safe",
    "score": 0.5038271,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dbeda18d-eaca-4176-b0f2-d225be4f1d28.jpg"
   },
   {
    "id": "084b1a87-72ef-4bd6-b725-3c2a9a0ab5da",
@@ -39,7 +41,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6c33f369-b546-46b4-8200-bcb9e6e0ae0e.png"
   },
   {
    "id": "47ec4f48-bbb1-43df-8104-c1860415f412",
@@ -50,7 +53,8 @@
    "score": 0.38499898,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef6adfb6-ff92-4ad3-9da2-748f05be8cc3.jpg"
   },
   {
    "id": "32e0b8d5-f7de-4d6a-871b-2dc69dfe4251",
@@ -65,7 +69,8 @@
     "pl",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "65490546-5856-41b4-8e0f-fd6328771f1a.jpg"
   },
   {
    "id": "fa2a617c-f4ae-4eba-ab94-c2a2521d2b01",
@@ -76,7 +81,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c27e2e8f-593a-4268-b2ad-a0d5bb793f79.jpg"
   },
   {
    "id": "f4a58bbb-6bc1-415a-a8db-bfa802279394",
@@ -87,7 +93,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40aaee1c-1d7e-47ab-af97-5208676231f8.png"
   },
   {
    "id": "3d63774d-952a-4dcb-b92a-1242879a4287",
@@ -98,7 +105,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29a05034-4498-43d2-81a7-e28a5a644886.jpg"
   },
   {
    "id": "ef04c9f8-9b50-4b24-88a4-d00d1623ccc0",
@@ -109,7 +117,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cbe4f792-de0b-4997-8ba4-10c96fab5f7e.jpg"
   },
   {
    "id": "d3f0620d-2f65-4179-afbc-038f7d3bdd6c",
@@ -120,7 +129,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa8a3fe4-35ce-4e5f-a14d-3a3e2407a924.jpg"
   },
   {
    "id": "215488b4-be05-40bd-919b-c5a11117f7c8",
@@ -131,7 +141,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7cb9471e-ce6c-40da-8161-682fc8b8aa6b.jpg"
   },
   {
    "id": "23ce48c7-cd21-43d2-b9b5-fe317f1f5c49",
@@ -143,8 +154,10 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "f17f01c0-3bec-47a0-9cfd-8ef8ecc19307.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:13+00:00"
+ "updatedAt": "2021-07-18T06:40:13+00:00",
+ "coverFileName": "98be292b-518c-43ba-9530-382ab4f3c578.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 1.1294047,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0befd072-18e5-4280-a9a3-48dc91421519.jpg"
   },
   {
    "id": "8bf5248e-70d0-49aa-a722-697df5fb40f0",
@@ -25,7 +26,8 @@
    "score": 0.39676702,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fb43cf12-1ddf-4962-98aa-7f2c818cbe9f.jpg"
   },
   {
    "id": "aec1e443-e89e-4f35-8fdc-dd1beb234913",
@@ -40,7 +42,8 @@
     "en",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "bc15a1a6-3983-4d30-9841-1c7751fd12e3.png"
   },
   {
    "id": "45a4f34b-ed6e-49d2-9ba2-d60b471dcefe",
@@ -53,7 +56,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92c3e1a0-1c11-4f7c-8c32-6c5c9731a939.jpg"
   },
   {
    "id": "bfe0ab22-61fd-4ba1-8667-40c516c2dddd",
@@ -65,7 +69,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e3590478-f5c2-4d92-acaa-42544ed1b9dd.png"
   },
   {
    "id": "a28036e8-cdd4-4f43-8fa8-1f5469e40d3f",
@@ -78,7 +83,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "c37ff55c-3853-437d-8a1a-22f27e76eda5.jpg"
   },
   {
    "id": "f81026af-1b41-465c-932b-291ce4760c00",
@@ -94,7 +100,8 @@
     "pt-br",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "025c2f15-aaac-41b5-8143-57be86c5ed25.jpg"
   },
   {
    "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
@@ -107,7 +114,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f5e8b9e-e8fd-472c-a990-819c2a1f371a.png"
   },
   {
    "id": "de3f1db5-8de4-4f19-b218-0c62f0a63ea7",
@@ -121,24 +129,26 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "0088cb05-315e-4d72-abb0-54cff40b016f.jpg"
   },
   {
    "id": "75c82d70-45ba-4a07-a438-6754c9536fda",
    "title": {
-    "en": "Re:Zero Kara Hajimeru Isekai Seikatsu – Hyouketsu no Kizuna"
+    "en": "Re:Zero Kara Hajimeru Isekai Seikatsu \u2013 Hyouketsu no Kizuna"
    },
    "contentRating": "safe",
    "score": 0.37485132,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0e37f337-cf77-4c13-96d3-873e10de63cc.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.37353784,
@@ -151,7 +161,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "558c2122-7342-4649-85e9-a866727bb2e8",
@@ -167,8 +178,10 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cbe549cf-e55d-4330-9b14-2f1f21974cdb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:22+00:00"
+ "updatedAt": "2021-07-18T06:25:22+00:00",
+ "coverFileName": "5dc53058-b3c9-419c-92ad-e2ae626c9edd.jpg"
 }

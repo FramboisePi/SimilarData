@@ -8,7 +8,7 @@
   {
    "id": "924b3c32-f9ac-41dc-8e3c-44e9a3d482bc",
    "title": {
-    "en": "We Swore to Meet in the Next Life and That’s When Things Got Weird!"
+    "en": "We Swore to Meet in the Next Life and That\u2019s When Things Got Weird!"
    },
    "contentRating": "safe",
    "score": 0.44222045,
@@ -16,7 +16,8 @@
     "es-la",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "c3153846-d881-4e56-991b-6c5fc49b048b.jpg"
   },
   {
    "id": "ff06540b-378d-4dba-8430-e26063a64907",
@@ -29,7 +30,8 @@
     "en",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "ce7b9bda-e053-4ec6-8a07-242b22670e1a.jpg"
   },
   {
    "id": "11b451fd-e0d7-4fbe-9466-60dd4b8fcdbd",
@@ -40,7 +42,8 @@
    "score": 0.40249047,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d69d6ab-c64f-4db7-b56e-ac07481323a8.jpg"
   },
   {
    "id": "65cad851-8d05-40bd-8e5b-7dada5fb0fe8",
@@ -51,7 +54,8 @@
    "score": 0.40189725,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81eb48f4-ee72-46fe-8c36-c80aecedd4c3.jpg"
   },
   {
    "id": "25d6f19f-eaa4-4e74-8687-348e8204cd6c",
@@ -64,7 +68,8 @@
     "es-la",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cac1edef-16d5-45a2-939a-0fb9c536c2fc.jpg"
   },
   {
    "id": "62984994-35e8-4d64-a519-22815715f447",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "73d27764-ffba-47cd-8175-5d6713429b6d.jpg"
   },
   {
    "id": "673b691d-e687-45f6-9ff5-8b3e0448ba7f",
@@ -88,7 +94,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "196976bf-212e-4c05-b143-d01fba3541c1.jpg"
   },
   {
    "id": "afd3bfdd-1c68-4fc6-9ae2-b39c0323fc6b",
@@ -99,7 +106,8 @@
    "score": 0.36150655,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7c93c0d-0211-4656-b705-aba04def00b1.jpg"
   },
   {
    "id": "85e284be-1316-48d7-a086-14e17dd85462",
@@ -110,7 +118,8 @@
    "score": 0.3548515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48844d57-056c-430d-b155-76d4176af508.jpg"
   },
   {
    "id": "ec5eccdd-723b-43eb-a10a-8a2c40bf9141",
@@ -123,7 +132,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "69902289-1d2e-4620-a953-32a26fff62ca.jpg"
   },
   {
    "id": "a966365a-d1a3-4178-b1a9-1c10fa3357ba",
@@ -135,7 +145,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "36409ae3-c4bb-4eed-9765-f36f661fe9a4.jpg"
   },
   {
    "id": "6294a2e4-315d-4258-bca5-b4f309827759",
@@ -147,8 +158,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3ce7aee1-0a51-4999-b3e4-6244ca1a46cf.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:56+00:00"
+ "updatedAt": "2021-07-18T06:48:56+00:00",
+ "coverFileName": "8d400a47-42ac-4ecc-a80c-0a9c74fa557b.jpg"
 }

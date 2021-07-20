@@ -1,7 +1,7 @@
 {
  "id": "279cbf3f-97c0-4664-9277-2bd1f5d5233a",
  "title": {
-  "en": "Dash \u0026 Spin Chousoku Sonic"
+  "en": "Dash & Spin Chousoku Sonic"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "f760cc21-b956-45bf-bc32-e10a2cf9b884.jpg"
   },
   {
    "id": "e23bb1e1-5377-4c21-94af-c996014d3806",
@@ -26,7 +27,8 @@
    "score": 1.0126292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "120481ec-5160-4275-bb43-22c3c842566b.jpg"
   },
   {
    "id": "acae3f0d-216c-477c-9db8-185992a55a85",
@@ -37,7 +39,8 @@
    "score": 0.9336492,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "15941c3e-739a-4b94-b5af-8fa31d86a969.jpg"
   },
   {
    "id": "6541dd65-cd50-4d25-8990-af5d5b3cfc8d",
@@ -48,7 +51,8 @@
    "score": 0.67238295,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9eda99e-11bf-4693-b747-97f4fd666d2b.jpg"
   },
   {
    "id": "b57303a2-ae06-4a50-bd25-7701d4c517ec",
@@ -60,7 +64,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a98f1674-1ec6-4198-8f60-3f100bd198f3.jpg"
   },
   {
    "id": "fbcd7f77-64c1-4844-a0e1-83ddbfccd1c2",
@@ -71,7 +76,8 @@
    "score": 0.5380523,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e7adeea-c7d9-45f9-8333-216b482dfd7b.jpg"
   },
   {
    "id": "10ac3ce4-de88-49c6-b9f9-001a5bf08351",
@@ -84,7 +90,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "0e748c08-6d8f-426c-957f-ec78eb4c8898.jpg"
   },
   {
    "id": "78fa40bc-59eb-499f-a485-774f0bf5d446",
@@ -99,7 +106,8 @@
     "en",
     "fa",
     "pl"
-   ]
+   ],
+   "coverFileName": "0badfc21-d6a6-4f09-a855-aee621dad149.jpg"
   },
   {
    "id": "10f7e161-8e7c-474a-a964-be871b10231c",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "dd3450b2-9363-474f-b60e-9a450b6ab191.jpg"
   },
   {
    "id": "8046acb6-47f7-4954-805f-21bec5253c34",
@@ -123,7 +132,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "de7abfba-49c3-4fd6-9b0b-d48db5e3d6a3.jpg"
   },
   {
    "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
@@ -135,7 +145,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "da255034-328f-4ce6-a3f1-e56e3d08a51e.jpg"
   },
   {
    "id": "02c072ca-05d9-4c38-8c9f-0464f75e62a6",
@@ -148,8 +159,10 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "12bff76f-d9c6-4420-bfd1-c804adc09cf5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:52+00:00"
+ "updatedAt": "2021-07-18T06:31:52+00:00",
+ "coverFileName": "fbdd3139-1bcd-48eb-8417-66547a356ae6.jpg"
 }

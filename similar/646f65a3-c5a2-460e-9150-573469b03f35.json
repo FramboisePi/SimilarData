@@ -16,7 +16,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ded59e67-8f60-4775-82b7-c59375117700.jpg"
   },
   {
    "id": "7e5e180e-50d0-474b-aa5d-1c42f5c9d0d6",
@@ -29,7 +30,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "e51b61a3-8196-4d7b-94e2-64f0bd202454.jpg"
   },
   {
    "id": "75d0d637-e355-49be-81a6-69064f74784b",
@@ -40,7 +42,8 @@
    "score": 0.2309401,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "3336ae4e-7d7f-4099-98df-58119be34b9c.jpg"
   },
   {
    "id": "2e3067c6-670d-4c8e-91ed-64516212c50e",
@@ -54,7 +57,8 @@
     "en",
     "es-la",
     "es"
-   ]
+   ],
+   "coverFileName": "d76edbda-b49a-4923-997f-b8d25c185d4c.jpg"
   },
   {
    "id": "00893d86-c910-4247-b5cb-a2a0e0380012",
@@ -70,7 +74,8 @@
     "pl",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "0a5369ae-3b58-4ff7-bc7a-413dc2eccf85.jpg"
   },
   {
    "id": "d1d993bf-3655-49c3-bb79-c019c4ba900b",
@@ -81,19 +86,21 @@
    "score": 0.20207259,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "8261d8f2-b33e-42a0-b18b-aa4b6ce8a5d4.jpg"
   },
   {
    "id": "5d4de0de-110f-421f-a991-33f25b6abac0",
    "title": {
-    "en": "Houkago☆Idol"
+    "en": "Houkago\u2606Idol"
    },
    "contentRating": "safe",
    "score": 0.20207259,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "be452f2a-38c8-4417-be06-8032feae6a51.jpg"
   },
   {
    "id": "07ad9e94-40fd-4a9c-af4f-594f93fd842b",
@@ -105,7 +112,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f6e58748-b0a4-4486-acbe-1faef7a7c45b.png"
   },
   {
    "id": "ec6a3bbd-90a7-412d-aedf-15ead0ec26da",
@@ -122,7 +130,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "c9382ff3-f921-4a81-b18d-9969db67d174.png"
   },
   {
    "id": "e4a18133-b5d5-4252-af53-195b5d26ddad",
@@ -133,7 +142,8 @@
    "score": 0.18073922,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "87018c08-d255-4ba6-8487-ab9f97692f9e.jpg"
   },
   {
    "id": "3e9f5040-7de8-4c9d-b2d2-73bcbb68b316",
@@ -148,7 +158,8 @@
     "vi",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8564775a-47f1-4e98-98a7-5476d84b1ea9.jpg"
   },
   {
    "id": "195991a7-68c9-4130-8a27-1f64114de8d2",
@@ -162,8 +173,10 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "86bd4444-7e51-4ab0-93aa-3cabd2872454.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:07+00:00"
+ "updatedAt": "2021-07-18T06:43:07+00:00",
+ "coverFileName": "4a6ecf6c-01cc-4149-a2e9-2b702aaa3f08.jpg"
 }

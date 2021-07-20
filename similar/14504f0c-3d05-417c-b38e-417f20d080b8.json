@@ -18,7 +18,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "c7d65b36-eada-4047-b06f-b76ef292743f.jpg"
   },
   {
    "id": "af564c3a-582c-4c60-9787-cbc17309c3ad",
@@ -31,7 +32,8 @@
     "en",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "e38a4b8a-23e0-45c3-a60e-b2add63708ca.jpg"
   },
   {
    "id": "651d14cc-2d2f-4efa-88cd-f82c2568fd08",
@@ -43,7 +45,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "2ff61168-ac51-4ffb-a1cb-26b12dced3d3.jpg"
   },
   {
    "id": "df146fc5-6780-431c-b695-78e93bd2982f",
@@ -57,7 +60,8 @@
     "pt-br",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "c1e2a51e-e56a-4a5c-8015-a15d4871d424.jpg"
   },
   {
    "id": "1546ea98-a01b-4b30-ac21-16bf8b8ada71",
@@ -72,7 +76,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d9adf91f-9037-4dcc-bc68-bf735792c6c6.jpg"
   },
   {
    "id": "c01c7b75-f445-4369-bc5f-d6f668e89392",
@@ -84,7 +89,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f4b1e27f-f493-4059-a043-df7a1a3b9f62.png"
   },
   {
    "id": "0a224e89-8796-4fa2-8281-28f3e8cc9fc7",
@@ -96,7 +102,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "62525381-042b-402d-b48d-4f6151e856e6.jpg"
   },
   {
    "id": "5acc7c01-6d67-443c-9803-3a0fc27c0050",
@@ -107,7 +114,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3804de23-e803-4250-ab78-10523fab8272.jpg"
   },
   {
    "id": "43e16040-b56b-4c30-990d-319e2a896216",
@@ -120,7 +128,8 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "07d792f4-99ae-46de-afdf-48920df114ca.png"
   },
   {
    "id": "bfd3bf36-f2c8-4dca-82e3-84a160a77f07",
@@ -131,18 +140,20 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9cfb963-0d50-41f8-ba1b-a7315d571f53.png"
   },
   {
    "id": "50c83b60-0a4e-4b44-9948-0c7287a9bea7",
    "title": {
-    "en": "Tekito na Maid no Onee-san \u0026 Erasou de Ichizu na Botchan (Pre-Serialization)"
+    "en": "Tekito na Maid no Onee-san & Erasou de Ichizu na Botchan (Pre-Serialization)"
    },
    "contentRating": "safe",
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f098f9b2-9783-40b7-beb0-80851df23ba7.jpg"
   },
   {
    "id": "385bb812-36ff-4d83-a64f-aaac21484ac8",
@@ -153,8 +164,10 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ce48179-f79a-49b9-8fee-a048e6abdc8e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:17+00:00"
+ "updatedAt": "2021-07-18T06:28:17+00:00",
+ "coverFileName": "bd74c0f6-c207-4dc9-94e0-e13ff80a0a67.jpg"
 }

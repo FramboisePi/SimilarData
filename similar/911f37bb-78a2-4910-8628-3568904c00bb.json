@@ -8,13 +8,14 @@
   {
    "id": "4d221eb0-9831-4efe-af16-3e6ce0936171",
    "title": {
-    "en": "Asuka²"
+    "en": "Asuka\u00b2"
    },
    "contentRating": "safe",
    "score": 0.46063006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "27fba68d-d277-435e-84c6-ab08f576307f.jpg"
   },
   {
    "id": "08af1135-b321-4cb2-9d29-e9e17a9458aa",
@@ -25,7 +26,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6c3d591-513f-45f4-a65e-1746b7a9b790.jpg"
   },
   {
    "id": "9103a1c9-e6f8-42f6-9055-ae06c5834028",
@@ -36,7 +38,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81eb430a-912e-4480-9941-e080011d1fba.png"
   },
   {
    "id": "089c7fb5-aa32-4f5d-89eb-69d90ea0188d",
@@ -47,7 +50,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8e6d82f-7c95-46d8-a4ca-e5805bb94eb7.jpg"
   },
   {
    "id": "dc87c101-a3aa-42ce-9000-c7dc3c4d0591",
@@ -58,7 +62,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "922939cd-7b0d-4ec4-8532-f7046fd536d9.jpg"
   },
   {
    "id": "ed288fbc-1ee4-460f-b86d-7ee60ac904c3",
@@ -69,7 +74,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6176f3fd-920a-4de9-9e5d-8ce2dc33de26.jpg"
   },
   {
    "id": "80bba71d-079c-4187-9058-6f06bee2311e",
@@ -80,7 +86,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "707fb2a7-f704-4be3-84f3-71825d0ee1d8.jpg"
   },
   {
    "id": "b13dceb8-3b68-45a2-92eb-5a54cd667faa",
@@ -92,7 +99,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b63d9be4-7182-4c58-a58a-fa5878779a39.jpg"
   },
   {
    "id": "69337aff-1505-4457-810e-7f085a2a4adc",
@@ -103,7 +111,8 @@
    "score": 0.38798067,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16643aaa-b35f-4bee-8d6e-99b6766548fd.png"
   },
   {
    "id": "535c876b-8292-4288-aea0-6c05cefa0964",
@@ -114,7 +123,8 @@
    "score": 0.38385808,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f21ec38c-f502-4fa2-9801-72727a6ad955.jpg"
   },
   {
    "id": "e6efc92a-04d9-4d0c-af20-ac2dcad835a2",
@@ -126,7 +136,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "16720d00-b646-4ec7-bf26-f225fe946503.jpg"
   },
   {
    "id": "7239d015-e8f7-422e-b38c-9b021d48db7d",
@@ -138,8 +149,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "4e704421-b7a0-4666-aaa4-1c57251b2480.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:31+00:00"
+ "updatedAt": "2021-07-18T06:51:31+00:00",
+ "coverFileName": "3927b308-04cc-4761-aaed-de595fc47b1d.jpg"
 }

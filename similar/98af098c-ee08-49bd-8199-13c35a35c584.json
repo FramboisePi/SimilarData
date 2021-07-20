@@ -15,7 +15,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "a0b2ac31-c33e-47ff-8f31-30a618dcacc1.jpg"
   },
   {
    "id": "1c1c5d8a-1ea1-4515-ab7e-30796036e588",
@@ -26,7 +27,8 @@
    "score": 0.634273,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb39f4d4-44ba-4cde-9f84-89d6b6df8880.png"
   },
   {
    "id": "fe5bdb56-5262-4ee9-8114-262a6a6b4c82",
@@ -37,7 +39,8 @@
    "score": 0.46589178,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3eaefb04-41f6-4c74-ac74-568b9ee01e22.jpg"
   },
   {
    "id": "43013b63-12f1-4a21-bdae-12b9f955addb",
@@ -51,7 +54,8 @@
     "hu",
     "de",
     "ro"
-   ]
+   ],
+   "coverFileName": "cbd97217-c1cb-49ca-ba67-be32df69db2d.jpg"
   },
   {
    "id": "96f69304-ab9a-43ce-83cc-8fe90958c5b3",
@@ -63,7 +67,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "2079d5c8-0650-43e7-8bf9-4cd569ea562c.jpg"
   },
   {
    "id": "d0071eca-700f-4f98-9309-a1a839655a57",
@@ -75,19 +80,21 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "c16ad99c-b001-4dec-8cdf-8059112d2ce8.png"
   },
   {
    "id": "4fabddac-6de4-4e56-8440-8cbfe8305b32",
    "title": {
-    "en": "Toshokan Sensou - Love \u0026 War"
+    "en": "Toshokan Sensou - Love & War"
    },
    "contentRating": "safe",
    "score": 0.44533354,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0e2db20e-8755-44fd-bfed-ff9dcbf89aeb.jpg"
   },
   {
    "id": "a98ae2b9-6a32-478b-a678-3826348547db",
@@ -98,7 +105,8 @@
    "score": 0.43181607,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "57f33bee-85c5-4e3d-b230-b33daf9bbad2.jpg"
   },
   {
    "id": "83b69e82-a8e6-42e5-ad81-b265e5a3953d",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "233c7469-1a9a-4939-8833-c23557d96b9b.jpg"
   },
   {
    "id": "35949cc6-91b4-4300-bf44-2391c371e8bc",
@@ -121,7 +130,8 @@
    "score": 0.43035966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bd8d7a50-90ef-443e-8738-ab068418533f.png"
   },
   {
    "id": "f4b5e5d4-cb62-4f79-9b9d-f3f2b87d8931",
@@ -132,7 +142,8 @@
    "score": 0.42904457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6913e1e0-8b24-45e4-8d5e-c8070834fc67.png"
   },
   {
    "id": "7261f19a-1db1-4a17-9649-82a7309149c8",
@@ -143,8 +154,10 @@
    "score": 0.42821226,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1be7ee28-4c63-460b-bd53-768b1452ea8c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:53+00:00"
+ "updatedAt": "2021-07-18T06:52:53+00:00",
+ "coverFileName": "c68a83e3-e9a3-4fcc-825b-0f8b84b70c8d.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.5428499,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4640998e-088a-40f5-ae73-6bb3575d465a.jpg"
   },
   {
    "id": "8cd2efcd-d8b0-491d-a992-10529d1e2e40",
@@ -25,7 +26,8 @@
    "score": 0.53169334,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56cfc140-519d-45c3-b6d4-0298856f99c0.jpg"
   },
   {
    "id": "fd9caf16-9b4b-452b-b753-3d9bd1269fe4",
@@ -38,24 +40,26 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "78734fd7-1120-4c05-90d0-bd6e8814df1b.jpg"
   },
   {
    "id": "27589628-3704-468f-a464-361a8a76c3aa",
    "title": {
-    "en": "I Opened a Café in Another World"
+    "en": "I Opened a Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.47427493,
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b6044354-bf23-43a8-9397-b54ccd0e5ff6.jpg"
   },
   {
    "id": "5353e8c5-8a6c-402a-895b-0d09feec17d4",
    "title": {
-    "en": "The Savior's Book Café in Another World"
+    "en": "The Savior's Book Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.44888577,
@@ -64,7 +68,8 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "36d955f3-56fb-4a77-9d26-eff42d3dffbd.jpg"
   },
   {
    "id": "ba210374-7967-4c3e-972d-891a530c992a",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "6adefee7-bf65-407a-8696-7417115870ed",
@@ -87,7 +93,8 @@
    "score": 0.4062605,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51072215-ed91-4399-b4b6-66c011e48193.jpg"
   },
   {
    "id": "3b001f9b-47bf-4b5e-8476-80d9b193e373",
@@ -98,7 +105,8 @@
    "score": 0.3847794,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "708c0d78-e4b7-4aa9-8e3e-95821bba3621.jpg"
   },
   {
    "id": "4d73682d-ea8e-4b73-b90b-11006b051fb5",
@@ -109,7 +117,8 @@
    "score": 0.37629518,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff106efa-6892-4dd0-b48f-9e74e567a6f7.jpg"
   },
   {
    "id": "8bd50e0c-f9ce-4f84-bc9a-95c597a7aed4",
@@ -123,7 +132,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4f18ea56-a81c-488c-8069-88d1d23fdcc8.jpg"
   },
   {
    "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
@@ -136,7 +146,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "d259656a-57b5-4199-94f1-cb579da1e9ed.jpg"
   },
   {
    "id": "092d4920-0bf3-4b3c-8c84-5027ade69e35",
@@ -151,8 +162,10 @@
     "tr",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "b5fafcce-4989-4ee3-a0a6-c592353de5e9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:46+00:00"
+ "updatedAt": "2021-07-18T06:50:46+00:00",
+ "coverFileName": "65162860-429a-479c-9c20-3da1c2efff12.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "6b958848-c885-4735-9201-12ee77abcb3c",
  "title": {
-  "en": "SPY×FAMILY"
+  "en": "SPY\u00d7FAMILY"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4283733,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "010360fa-b058-4b6d-9c77-5cb6f80e3a61.jpg"
   },
   {
    "id": "77b4152b-53b3-4a9e-992d-5754009f4a61",
@@ -25,7 +26,8 @@
    "score": 0.4282984,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3674fbde-3a0f-4a00-8169-735b4497c03f.jpg"
   },
   {
    "id": "a7750865-9876-41db-b805-9f96776b9fbf",
@@ -37,18 +39,20 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "109abdbd-4a56-49d8-9973-f17cee3feb4f.jpg"
   },
   {
    "id": "f3bb3623-3068-4743-b9fc-f53450fed621",
    "title": {
-    "en": "Darkrai Mission Story: Pokémon Ranger Vatonage - the Comic"
+    "en": "Darkrai Mission Story: Pok\u00e9mon Ranger Vatonage - the Comic"
    },
    "contentRating": "safe",
    "score": 0.41681454,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43ea503e-d57b-4ef1-89ad-58d45dc62eb8.jpg"
   },
   {
    "id": "ce7cd7b0-e595-4f0d-98e8-447da10d652d",
@@ -62,7 +66,8 @@
     "it",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "672f787a-2d91-4ad5-94a8-b511dd3a73d5.jpg"
   },
   {
    "id": "1bc9283b-af5d-4ac6-8268-4f9c014e250d",
@@ -73,7 +78,8 @@
    "score": 0.4135559,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fbaa6a70-2acf-4a9d-8869-a8d7ea44daab.jpg"
   },
   {
    "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
@@ -84,7 +90,8 @@
    "score": 0.40558943,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40a5bd84-8571-4794-bd7e-eddd2120be82.jpg"
   },
   {
    "id": "513813e6-df42-449b-9af8-abc11399296c",
@@ -95,7 +102,8 @@
    "score": 0.40451863,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "193db297-f5f2-4c52-8136-7afbf641beee.jpg"
   },
   {
    "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
@@ -107,7 +115,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "413f14f2-c954-43bf-b993-49815a43cc21.png"
   },
   {
    "id": "359441d4-63f7-426c-b914-c636578ddcb0",
@@ -119,7 +128,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "6ee0afdd-a2b5-445b-9d29-8df7e560b42f.jpg"
   },
   {
    "id": "0a9d24be-7f8f-4238-adb6-8bd0a89c064c",
@@ -131,7 +141,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "76a6fecc-d26d-421e-9fe5-ebff3008a536.jpg"
   },
   {
    "id": "a36a4f27-f6d5-4cdf-a60c-55ac62266598",
@@ -142,8 +153,10 @@
    "score": 0.389978,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd557de7-a73d-4335-87f6-e2061cb3f06a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:25+00:00"
+ "updatedAt": "2021-07-18T06:44:25+00:00",
+ "coverFileName": "f28f1354-a78a-4d81-9a3c-645dd1290eb3.jpg"
 }

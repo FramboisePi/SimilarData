@@ -8,14 +8,15 @@
   {
    "id": "a0fa04dd-604d-4374-b1fc-e5537a70069d",
    "title": {
-    "en": "Saint Seiya Ω"
+    "en": "Saint Seiya \u03a9"
    },
    "contentRating": "safe",
    "score": 0.38909334,
    "languages": [
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fdff538e-23cb-449f-a3ea-1c782c7c4ca3.jpg"
   },
   {
    "id": "db3271a2-e4e1-4c6b-b17a-0107f15ae876",
@@ -28,7 +29,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9ab9d7fb-46b4-4bad-a26e-1e9828fc09b6.jpg"
   },
   {
    "id": "3cd57982-fe12-4631-94ed-ff85d80d6f72",
@@ -42,7 +44,8 @@
     "ru",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "bbd2f9b3-70b7-4330-93d7-b96b4351e24b.jpg"
   },
   {
    "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
@@ -54,7 +57,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4942638d-7438-43ea-8aff-482cdea4e4d0.jpg"
   },
   {
    "id": "174c9c71-2786-497c-8596-156911d43b36",
@@ -71,7 +75,8 @@
     "pt-br",
     "de",
     "tr"
-   ]
+   ],
+   "coverFileName": "c7a403b4-ea4b-4469-aad6-0c0ea60ade0b.jpg"
   },
   {
    "id": "081e148a-218e-44af-bbbf-b8de0eefba2c",
@@ -84,7 +89,8 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "6a9ac707-eb8d-4cfb-96fb-0f62b7c8b579.jpg"
   },
   {
    "id": "f2560480-8b67-457b-8895-9de643f681e9",
@@ -100,19 +106,21 @@
     "en",
     "vi",
     "fr"
-   ]
+   ],
+   "coverFileName": "9c8797ee-0e79-4aeb-8fe3-5e2b8205e235.jpg"
   },
   {
    "id": "34d2b318-999d-42d2-aee7-10a12c80eb5e",
    "title": {
-    "en": "Pokémon Diamond and Pearl: Regigigas"
+    "en": "Pok\u00e9mon Diamond and Pearl: Regigigas"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cab2289c-01c8-4d25-9fec-d4126ea548a1.jpg"
   },
   {
    "id": "89f24355-1d6a-4780-9ce6-6777c6b4498b",
@@ -125,7 +133,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ed21bb9d-9d0e-4046-bc31-b0eee5b2526c.png"
   },
   {
    "id": "3a50bc58-faf3-4400-b5f3-10e3d3bed612",
@@ -137,7 +146,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e9a5218f-4fda-492d-be39-8ace915ffe7d.jpg"
   },
   {
    "id": "d1ae3ac8-bd1d-46fd-a073-53d9ba8ce415",
@@ -151,7 +161,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "51a58249-e6ec-4554-8348-4f142e0f64c7.jpg"
   },
   {
    "id": "d16f9dfb-569f-4d29-aa05-ce8712e36997",
@@ -164,8 +175,10 @@
     "ca",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "b966a11f-096c-450f-a8b4-dc9d19cf483e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:03+00:00"
+ "updatedAt": "2021-07-18T06:47:03+00:00",
+ "coverFileName": "c8aac7d1-e258-48c6-ab02-75e82c7461f4.jpg"
 }

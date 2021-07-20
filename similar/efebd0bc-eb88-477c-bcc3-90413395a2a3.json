@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "5deb7b8e-be78-48f4-9ada-a27fc5037017.jpg"
   },
   {
    "id": "4b0f9f26-cc2b-4f0c-9b0c-e60f3422a369",
@@ -26,7 +27,8 @@
    "score": 0.5527188,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c30cfabc-c569-4e6b-b7b6-570c2005f35b.jpg"
   },
   {
    "id": "161e8bde-914f-4464-a009-071ad6d981ac",
@@ -41,7 +43,8 @@
     "es",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "1a8d5e19-e9e2-4a36-9350-60697e01b227.jpg"
   },
   {
    "id": "784541d1-1dc4-4309-8a10-e312107f6423",
@@ -52,7 +55,8 @@
    "score": 0.51696324,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "d4af9739-af88-469f-91ae-22d3235ae1f3.jpg"
   },
   {
    "id": "d5cdc845-fd5d-4497-a993-131d65e00e97",
@@ -67,12 +71,13 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "cf41398d-f5db-4cfc-8b43-31cf2d8a068d.jpg"
   },
   {
    "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
    "title": {
-    "en": "Father, I Don’t Want to Get Married!"
+    "en": "Father, I Don\u2019t Want to Get Married!"
    },
    "contentRating": "safe",
    "score": 0.5126007,
@@ -84,7 +89,8 @@
     "ru",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "3f828bd7-20ab-4813-9335-96282f145122.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -97,7 +103,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "46d26d3b-4165-485c-bd6a-a47366810255",
@@ -111,7 +118,8 @@
     "tr",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "b7b007e3-7772-4087-ae3e-7323cdf64291.jpg"
   },
   {
    "id": "99786169-6285-45d2-b3c7-3290a9f38315",
@@ -125,12 +133,13 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3db13d65-6c23-4d84-9fc6-552ced64e05b.jpg"
   },
   {
    "id": "b00ca6fd-4fab-4c8f-a981-4a89cefc5d89",
    "title": {
-    "en": "I’ll Just Live on as a Villainess"
+    "en": "I\u2019ll Just Live on as a Villainess"
    },
    "contentRating": "safe",
    "score": 0.4829619,
@@ -139,19 +148,21 @@
     "fa",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "d19bee61-1ce2-4828-9f2f-76ea25a44596.jpg"
   },
   {
    "id": "b82d55e4-01ba-498e-a9aa-715f7ffb5a1d",
    "title": {
-    "en": "I Am the Male Lead’s Ex-Girlfriend"
+    "en": "I Am the Male Lead\u2019s Ex-Girlfriend"
    },
    "contentRating": "safe",
    "score": 0.48248625,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c2ecfba3-dd02-483f-a1c7-a8369ce0ef08.jpg"
   },
   {
    "id": "96d061e1-a143-4168-8132-0bd6a09135c5",
@@ -166,8 +177,10 @@
     "es-la",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "a70d67f4-fc42-4f19-9fc7-d406e0ee9b2b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:49+00:00"
+ "updatedAt": "2021-07-18T07:08:49+00:00",
+ "coverFileName": "d75506b6-490c-455d-a9d6-3377934fff2e.jpg"
 }

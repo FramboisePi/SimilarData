@@ -1,7 +1,7 @@
 {
  "id": "2e1fe680-4703-4064-8030-5b2ee0e0dc34",
  "title": {
-  "en": "Good job, working people ♪"
+  "en": "Good job, working people \u266a"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "33676ac0-89bb-43ac-995e-96190c8028c5.jpg"
   },
   {
    "id": "197b3d77-7c1a-47ba-b497-9e4d29137f20",
@@ -26,7 +27,8 @@
    "score": 0.46348605,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6ce0d0e-4aed-4b5f-afaa-e835c7cc4082.png"
   },
   {
    "id": "275ffacb-1f15-4f6c-8ae3-d08bb70eb534",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "be7637ac-7021-4d41-adfb-d472133def1c.jpg"
   },
   {
    "id": "6525b46d-77bc-4858-bdbb-be1f797d26ef",
@@ -49,7 +52,8 @@
    "score": 0.39350232,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7e6c1ed-4280-4fbf-a41d-abd2e82ec49d.jpg"
   },
   {
    "id": "a75fd897-83bf-4825-a4ea-0632071e000e",
@@ -65,7 +69,8 @@
     "es-la",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "9b6f616d-f8a7-45b7-b418-df357ffbb7e2.jpg"
   },
   {
    "id": "71e4ddee-693e-4c50-8490-3f41dc7c1ce1",
@@ -78,7 +83,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "68ab85c3-b617-47ca-82aa-318f6ecb4fb0.jpg"
   },
   {
    "id": "fb0f33ca-5b0e-4915-b1b5-ad03482714a5",
@@ -89,7 +95,8 @@
    "score": 0.36656457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4519dc85-00be-47cf-b842-8d24c1fa921f.jpg"
   },
   {
    "id": "ba254637-b695-4b52-8a43-759924c488ef",
@@ -100,7 +107,8 @@
    "score": 0.35938898,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f46145e7-d71b-4d75-8171-8082423ddb5a.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -111,7 +119,8 @@
    "score": 0.35433868,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "41c95fe4-1fab-494e-8043-8d744baf19a8",
@@ -122,7 +131,8 @@
    "score": 0.35071054,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "790c7d38-475a-4bf4-b162-1254b759c6c4.jpg"
   },
   {
    "id": "7aa9f32a-4934-44b6-9557-73c4089c969b",
@@ -133,7 +143,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f03b74e9-f572-4ff5-95af-f44016917bf9.jpg"
   },
   {
    "id": "623e8602-ffa4-4538-86fc-5e776fdf5831",
@@ -146,8 +157,10 @@
     "en",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e9ee4728-dedf-4530-96d1-4c266a1f5dfd.png"
   }
  ],
- "updatedAt": "2021-07-18T06:33:03+00:00"
+ "updatedAt": "2021-07-18T06:33:03+00:00",
+ "coverFileName": "7c24c111-bb81-4932-a0cb-d5a65245132f.jpg"
 }

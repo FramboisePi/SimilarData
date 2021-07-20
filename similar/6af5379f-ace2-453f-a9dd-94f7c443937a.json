@@ -1,7 +1,7 @@
 {
  "id": "6af5379f-ace2-453f-a9dd-94f7c443937a",
  "title": {
-  "en": "Shinozaki Himeno's Love Q\u0026A"
+  "en": "Shinozaki Himeno's Love Q&A"
  },
  "contentRating": "safe",
  "matches": [
@@ -21,7 +21,8 @@
     "ru",
     "it",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0cba3828-1341-48f9-9619-60f4fc13a4ab.jpg"
   },
   {
    "id": "af7ba309-f7f4-41e7-bbb5-30f93939c498",
@@ -32,7 +33,8 @@
    "score": 0.46955946,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "acbb0c4f-c1ec-4538-89f2-7a7516459a4d.jpg"
   },
   {
    "id": "f444f209-e72b-460e-9e3c-37ed9ac2e615",
@@ -44,7 +46,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "962b326e-057d-410d-bdd8-702bf680e83d.jpg"
   },
   {
    "id": "5962b357-25ca-46dc-8ea6-8927a9ad8155",
@@ -57,7 +60,8 @@
     "en",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "bfa8a4e6-91bd-4cd3-bd1b-9549a3a523a7.jpg"
   },
   {
    "id": "a4c07e8e-2dfc-4f77-8579-466b20129b14",
@@ -69,7 +73,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "97600e1f-cdc9-43f7-8fa7-72b34bdf23ba.jpg"
   },
   {
    "id": "0fc21af7-f1ed-4715-a8ac-46c3fe83b099",
@@ -81,7 +86,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e2a3ebbd-81af-4783-900d-b7f316482cb9.jpg"
   },
   {
    "id": "c9a68c3d-cb2f-4d86-aff5-14eb3218d493",
@@ -94,7 +100,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5440e5d1-78c1-4d61-9c44-329c3b8c75e1.jpg"
   },
   {
    "id": "201d4cf7-d8bf-40cb-a0b0-9a9939f86cfb",
@@ -105,7 +112,8 @@
    "score": 0.43888807,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d019198-b18a-493e-b363-4ec416a8f253.jpg"
   },
   {
    "id": "ba253006-84cb-479b-949d-66267c0a7cf7",
@@ -116,7 +124,8 @@
    "score": 0.43864635,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "741ed1f7-5119-4b02-9042-afe9f833d400.jpg"
   },
   {
    "id": "bc634b22-0c05-4a55-9b7e-3f55438a1ad3",
@@ -133,7 +142,8 @@
     "tr",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "dd9c6ef8-d335-4b6d-b9c2-808e0efc91c3.jpg"
   },
   {
    "id": "76ee7069-23b4-493c-bc44-34ccbf3051a8",
@@ -152,7 +162,8 @@
     "ru",
     "ca",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4dc7b90-8728-4a23-8a80-95aa4ce472b3.jpg"
   },
   {
    "id": "93e5a33c-e695-4d6f-9c76-5273dfd62832",
@@ -163,8 +174,10 @@
    "score": 0.4292343,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a2d7f82-eb0f-4a48-9feb-0ab7dad906dd.png"
   }
  ],
- "updatedAt": "2021-07-18T06:44:19+00:00"
+ "updatedAt": "2021-07-18T06:44:19+00:00",
+ "coverFileName": "33ff339d-e981-4f89-9fbe-583e9085397e.jpg"
 }

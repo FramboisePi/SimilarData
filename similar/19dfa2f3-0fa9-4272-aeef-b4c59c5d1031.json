@@ -1,21 +1,22 @@
 {
  "id": "19dfa2f3-0fa9-4272-aeef-b4c59c5d1031",
  "title": {
-  "en": "I went from the strongest job, \u003cDragon Knight\u003e, to a beginner level job, \u003cCarrier\u003e, yet for some reason the Heroes rely on me"
+  "en": "I went from the strongest job, <Dragon Knight>, to a beginner level job, <Carrier>, yet for some reason the Heroes rely on me"
  },
  "contentRating": "suggestive",
  "matches": [
   {
    "id": "07382196-5d12-4b4f-93d9-50c521f65a7e",
    "title": {
-    "en": "Blue Dragon - Ral Ω Grado"
+    "en": "Blue Dragon - Ral \u03a9 Grado"
    },
    "contentRating": "suggestive",
    "score": 0.47430962,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "36b31606-40dc-430a-9d27-db4ba316c5ad.jpg"
   },
   {
    "id": "a782eb42-52ad-42be-8619-f5603827bc63",
@@ -29,7 +30,8 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "7e1b322a-3b93-4824-a4ed-60d60e20706a.jpg"
   },
   {
    "id": "12422cc8-4b00-44c6-a8eb-719f55261bd9",
@@ -40,7 +42,8 @@
    "score": 0.46517363,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e1190c9-08c6-4272-b552-21ea665386c4.jpg"
   },
   {
    "id": "fe840e8f-1267-4611-869b-9ab290dc205b",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6a8a3632-9374-42ee-aad4-3268dc4ab49e.jpg"
   },
   {
    "id": "c4233597-a027-4cae-b7f6-f07145a74022",
@@ -63,7 +67,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba461451-a3c2-44a5-8deb-d62a6ac3e3cb.jpg"
   },
   {
    "id": "b3fd63a7-a226-403c-ad2c-4c0d1942d186",
@@ -80,7 +85,8 @@
     "tr",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8b7ee733-c764-4c78-a103-d0bfb1412fce.jpg"
   },
   {
    "id": "cfc66fdf-bb7e-4980-8117-bfa8391e64c0",
@@ -91,7 +97,8 @@
    "score": 0.43307066,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9320232d-a54d-4a99-b232-a476d414c479.jpg"
   },
   {
    "id": "8057d101-3426-4863-8685-e224905264a9",
@@ -102,7 +109,8 @@
    "score": 0.42900276,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "35288061-a361-48f7-9b29-239db9d023da.jpg"
   },
   {
    "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
@@ -114,7 +122,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "2f20ecb0-b731-4d83-abbd-d1ea399c553d.jpg"
   },
   {
    "id": "32326094-c35b-45c5-a0ec-e61010e6a20e",
@@ -128,7 +137,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "901bb56d-cfba-476a-9fe9-867793293eb4.jpg"
   },
   {
    "id": "06aa99db-35ef-4da9-8f03-883f02c7837b",
@@ -141,7 +151,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9495906e-0b2e-4d97-b8b2-5ada7d5d82c7.jpg"
   },
   {
    "id": "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
@@ -158,8 +169,10 @@
     "ru",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d4727bbf-7fcf-445f-9e6d-c618f9ebc2ab.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:18+00:00"
+ "updatedAt": "2021-07-18T06:29:18+00:00",
+ "coverFileName": "52a09fd4-f5cb-4d83-bb9f-8ad716d7d3e2.jpg"
 }

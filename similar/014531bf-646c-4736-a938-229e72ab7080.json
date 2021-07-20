@@ -8,13 +8,14 @@
   {
    "id": "18e028a4-7026-46e3-9e8c-86c60584edb9",
    "title": {
-    "en": "Blind Märchen"
+    "en": "Blind M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.42092323,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de8605e3-8601-4f35-9ad8-91b0f882c8cf.jpg"
   },
   {
    "id": "3c0ad938-f76b-452b-a385-01a59720f777",
@@ -27,7 +28,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "2bc8dffe-7a08-463d-98dd-d87e82bf512f.jpg"
   },
   {
    "id": "150962af-8516-4223-b0f3-077cc5697584",
@@ -38,7 +40,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ef80ab1-c4cf-4e43-b7c4-47a34d54c8b0.jpg"
   },
   {
    "id": "d6d92722-27c1-48ee-b3a2-5f04b7284fe9",
@@ -49,7 +52,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f769e812-be75-4f84-9f59-8a4a0ec19f63.jpg"
   },
   {
    "id": "5ee4397c-783b-416b-989a-f77ce68f8458",
@@ -62,7 +66,8 @@
     "bg",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a8301c74-aa06-4ecf-9462-2472c0226f03.jpg"
   },
   {
    "id": "49358383-284c-41ca-878a-14d45f4b6295",
@@ -73,7 +78,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "955115c7-e59a-4a4a-b32a-0635e281fde2.jpg"
   },
   {
    "id": "3d92de13-8b8d-4709-98df-09fe14aaf1e8",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c6d0b271-b736-42c7-9e08-803a2503e707.jpg"
   },
   {
    "id": "75cba0a1-50aa-4c15-ae49-cb99435404f2",
@@ -96,7 +103,8 @@
    "score": 0.3950958,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df191da7-1f65-413d-b4e9-5d57165909d4.jpg"
   },
   {
    "id": "c8d341c9-a1b5-4224-98d6-637dc8554925",
@@ -107,7 +115,8 @@
    "score": 0.39167428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "593e2f0e-3ab7-474c-a1ed-7c855c4c25dd.jpg"
   },
   {
    "id": "747ce12d-c746-46fa-9e82-85d452fccc2a",
@@ -119,7 +128,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "8648bb72-b3e7-4340-8305-5c643734d1ec.jpg"
   },
   {
    "id": "288bdd84-2e15-4386-b9f7-b94b0d3486f7",
@@ -130,19 +140,22 @@
    "score": 0.38882032,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2c38a45-68b8-4e1e-bdbe-d0375fb8d881.jpg"
   },
   {
    "id": "4af2e78d-7d6c-4a9f-ad25-87f6d98a6e0d",
    "title": {
-    "en": "Uroboros’ Circle"
+    "en": "Uroboros\u2019 Circle"
    },
    "contentRating": "safe",
    "score": 0.3850032,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6cf9a7b5-cadf-4f4a-ae0e-f3e2f2adf277.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:43+00:00"
+ "updatedAt": "2021-07-18T06:24:43+00:00",
+ "coverFileName": "d9b56817-e36a-4bde-96be-aac0acec74d2.jpg"
 }

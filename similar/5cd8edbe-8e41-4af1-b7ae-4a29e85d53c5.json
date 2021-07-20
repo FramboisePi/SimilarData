@@ -14,7 +14,8 @@
    "score": 0.40004888,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3790d11-a2f5-4a85-a8ed-3467d3e9f29c.jpg"
   },
   {
    "id": "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97",
@@ -28,7 +29,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cff372bb-0fdd-4a9b-a440-71203d922839.jpg"
   },
   {
    "id": "29c42e49-d6f5-4084-9cec-771f5660c90f",
@@ -42,7 +44,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "13b1d592-bc88-4bbf-8c4d-99a080bd834c.jpg"
   },
   {
    "id": "7dc523b0-8ecd-40b0-b86c-1ea57c07773c",
@@ -56,7 +59,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5657cc26-67cf-4c2f-a338-dcb0a54500c3.jpg"
   },
   {
    "id": "07823fcd-f2c9-458c-9824-3eae62b2a006",
@@ -73,7 +77,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5b4367ab-2fbd-4e90-aefe-a47855e03743.jpg"
   },
   {
    "id": "0f237a5f-07ad-4e43-bbd9-2a320694434d",
@@ -92,7 +97,8 @@
     "ar",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8060cee1-db91-4c7f-8827-fbf370a93a91.jpg"
   },
   {
    "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
@@ -104,7 +110,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4d66cc0f-7429-4244-ae15-59704a35245e.jpg"
   },
   {
    "id": "47f2da50-d26f-4438-89d4-e5b21c8326db",
@@ -115,7 +122,8 @@
    "score": 0.31518134,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0a3b113-6f8c-4ba2-807e-ee81934ca230.jpg"
   },
   {
    "id": "72b7a112-9f87-4b78-a19f-90a2748ccd80",
@@ -128,7 +136,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f3f788c7-3629-4cf7-91b3-49af8b7afd1e.jpg"
   },
   {
    "id": "50ced036-edd9-43e6-aff9-14a691071456",
@@ -140,7 +149,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0c0b8d98-1d75-4746-bc86-0f2c65fb8bf5.jpg"
   },
   {
    "id": "079a694e-4a5e-4e66-8d3f-6294c3706ef8",
@@ -154,12 +164,13 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d192b392-8683-4cad-87f5-e0e8dec1ab38.jpg"
   },
   {
    "id": "c8aebcc7-678e-4682-a727-48febbc325fd",
    "title": {
-    "en": "86 — Eighty Six —"
+    "en": "86 \u2014 Eighty Six \u2014"
    },
    "contentRating": "safe",
    "score": 0.30856323,
@@ -168,8 +179,10 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "19ed0552-b74b-4d81-9dc2-ec2f1e0d57d5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:46+00:00"
+ "updatedAt": "2021-07-18T06:41:46+00:00",
+ "coverFileName": "4c045445-4bd3-4f20-9d4e-696793ca67a0.jpg"
 }

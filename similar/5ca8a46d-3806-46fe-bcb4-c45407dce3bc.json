@@ -1,7 +1,7 @@
 {
  "id": "5ca8a46d-3806-46fe-bcb4-c45407dce3bc",
  "title": {
-  "en": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - Be the One 『Katou Asuka Won't Hang Her Head』 (Doujinshi)"
+  "en": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - Be the One \u300eKatou Asuka Won't Hang Her Head\u300f (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "fr",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "c9be5e48-ea5b-4cee-a72c-d12c6d3b4d0e.jpg"
   },
   {
    "id": "0346b0eb-d56a-4b69-af71-5cf283792372",
@@ -30,7 +31,8 @@
    "score": 0.6336441,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50302849-adf8-43f1-b899-76b0a53f0084.jpg"
   },
   {
    "id": "768552d2-bdd2-449d-86fe-d785ba5406c4",
@@ -41,18 +43,20 @@
    "score": 0.62099195,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9d36fbab-b5b0-4bdf-96de-49468750b892.png"
   },
   {
    "id": "4d221eb0-9831-4efe-af16-3e6ce0936171",
    "title": {
-    "en": "Asuka²"
+    "en": "Asuka\u00b2"
    },
    "contentRating": "safe",
    "score": 0.6207143,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "27fba68d-d277-435e-84c6-ab08f576307f.jpg"
   },
   {
    "id": "a3431853-9d5e-4e6e-a2ad-427de76e5247",
@@ -63,7 +67,8 @@
    "score": 0.6067408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a82e4bb9-07a2-4081-861f-57f67267380f.jpg"
   },
   {
    "id": "f6fcadec-7262-4c63-ab34-985bdcfb684a",
@@ -74,7 +79,8 @@
    "score": 0.60274607,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7fceb91b-f8da-4467-84c9-b50ed919b3b8.jpg"
   },
   {
    "id": "6bc4a8dc-106b-46e7-b7d9-c38bbf99b9da",
@@ -85,7 +91,8 @@
    "score": 0.6026647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19dc7e67-6848-4955-8e22-3416d0150aa5.jpg"
   },
   {
    "id": "34fcb142-d575-4558-93de-91a948f9aec4",
@@ -96,7 +103,8 @@
    "score": 0.5886608,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "67496dc9-25c2-4f22-b572-68aaa5cf3d1d.jpg"
   },
   {
    "id": "f85397e0-3b29-4cbd-89e0-59a6bd0f75e9",
@@ -107,7 +115,8 @@
    "score": 0.57498217,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a46624e-df51-4feb-a3ab-bedf9f6a89f4.jpg"
   },
   {
    "id": "fec54be1-17e7-44c7-8a3e-8825dbefe4a7",
@@ -119,7 +128,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "33f24269-a689-4cc8-8b2b-bb6d07902885.jpg"
   },
   {
    "id": "658eb912-1508-42a3-b3c1-a9838ebe7718",
@@ -131,7 +141,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3c47b2c9-f1e3-46e8-b49d-7dd82beb0a09.jpg"
   },
   {
    "id": "2ac9f4cf-22d5-474f-90a7-0517e750d6ae",
@@ -142,8 +153,10 @@
    "score": 0.5636412,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c48d238-8616-47e8-9608-d726d282631f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:41:44+00:00"
+ "updatedAt": "2021-07-18T06:41:44+00:00",
+ "coverFileName": "dfc3fdae-a1bf-4054-b537-87dfac138b8d.png"
 }

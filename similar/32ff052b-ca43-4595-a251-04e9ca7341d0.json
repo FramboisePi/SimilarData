@@ -16,7 +16,8 @@
     "en",
     "fr",
     "hu"
-   ]
+   ],
+   "coverFileName": "b29652ce-d9f1-428c-bfe1-0da6a66c0065.jpg"
   },
   {
    "id": "f439d590-c766-4874-9a92-4389a96b50dc",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "657d28b2-edbf-4b54-84ff-f1f0bb15331c.jpg"
   },
   {
    "id": "bf5478e4-2c09-487f-8618-1f5e219bee77",
@@ -39,7 +41,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab149e0f-e1a3-4144-ba50-a306dac1cf6a.jpg"
   },
   {
    "id": "2ac9f4cf-22d5-474f-90a7-0517e750d6ae",
@@ -50,7 +53,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c48d238-8616-47e8-9608-d726d282631f.png"
   },
   {
    "id": "cce6ac2e-96c3-4b7a-b81d-69bc5be8a2c9",
@@ -63,12 +67,13 @@
     "en",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "f6309fbd-c98f-402a-bcc3-c395e67f6a00.jpg"
   },
   {
    "id": "2b04d592-caef-465b-81d3-3bf770e9f5f4",
    "title": {
-    "en": "Arcana 03 - Prince \u0026 Princess"
+    "en": "Arcana 03 - Prince & Princess"
    },
    "contentRating": "safe",
    "score": 0.3325556,
@@ -77,7 +82,8 @@
     "it",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1e708913-6da3-4a0e-979f-ea5349a6344d.png"
   },
   {
    "id": "068348af-37d7-45df-827a-e6f4ebbc4a80",
@@ -88,7 +94,8 @@
    "score": 0.3182355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6a5683c-ed18-4fc5-bf13-911f3a8af7ca.jpg"
   },
   {
    "id": "a3e7e9d8-a955-4236-a511-6de20f8b8874",
@@ -99,7 +106,8 @@
    "score": 0.312555,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc377cdb-70f2-4cc9-a125-24e2f51e0547.jpg"
   },
   {
    "id": "7d24ea7b-d4e1-4aa5-a26a-9dd1b32edb2b",
@@ -110,7 +118,8 @@
    "score": 0.30365208,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "12048014-bd88-411e-b052-e86d493152fc.jpg"
   },
   {
    "id": "e537404d-a04b-4722-9f8d-3e597c1ea9f4",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5fcd517d-7545-4357-af82-3b80f73f7add.jpg"
   },
   {
    "id": "2dff1466-363d-43c3-bdec-50c1ab870998",
@@ -133,7 +143,8 @@
    "score": 0.3,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "478b109d-c976-411c-8ef0-1f2994280cc6.png"
   },
   {
    "id": "c09971b9-0a6c-47cf-a566-41f3c6fe575f",
@@ -144,8 +155,10 @@
    "score": 0.3,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef697460-0743-4849-9965-18c5651e7ee2.png"
   }
  ],
- "updatedAt": "2021-07-18T06:33:57+00:00"
+ "updatedAt": "2021-07-18T06:33:57+00:00",
+ "coverFileName": "49a10f05-6b4a-499b-869c-795fb71fbba2.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.3939577,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e5face86-3b89-428f-af2e-b717c7e9f15c.jpg"
   },
   {
    "id": "74f35178-19f9-43fa-a2a6-3d10ff1fa0ab",
@@ -27,7 +28,8 @@
     "en",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "42c18088-261c-4f6a-b966-ca5dfad46203.jpg"
   },
   {
    "id": "88af9957-ca28-4159-bc3a-27d3af317e4c",
@@ -40,7 +42,8 @@
     "es",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0a266d59-38b0-47c0-8d1a-e49205608064.jpg"
   },
   {
    "id": "a31a3214-1e1c-4079-b216-e894d20e26cd",
@@ -51,7 +54,8 @@
    "score": 0.3907094,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b917ec6-e605-4252-ac97-fbddd2edf683.jpg"
   },
   {
    "id": "b4bd1b16-4424-41ae-af54-6cca7e59d165",
@@ -62,7 +66,8 @@
    "score": 0.3907094,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "66da99d0-6379-42c6-85fc-60488ffe14f0.gif"
   },
   {
    "id": "04976d19-0417-4144-9251-c9269abf0387",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "9530ac5f-0d79-4e78-adfc-6e42c35db4f3.jpg"
   },
   {
    "id": "4ecdf624-7c90-4043-b222-52edbacd7ad7",
@@ -85,7 +91,8 @@
    "score": 0.37712014,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9121396-c5bd-4d8e-bd39-e1e9c26ee744.jpg"
   },
   {
    "id": "66c4539a-a581-479b-a00d-e1c8ec6c69e3",
@@ -98,7 +105,8 @@
     "en",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "1f2c5634-338c-4f5f-ba68-573d15f23043.jpg"
   },
   {
    "id": "a6bef360-180a-45a3-b367-cd66bb71da23",
@@ -109,7 +117,8 @@
    "score": 0.37269172,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "402b030c-fcb7-471f-b5d8-ec90138868c1.jpg"
   },
   {
    "id": "edb3393f-4823-4504-a48d-5475dff0d1cc",
@@ -120,18 +129,20 @@
    "score": 0.3700865,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a26cb9c-184e-4b6c-913b-2d2fe129c37d.jpg"
   },
   {
    "id": "b7077310-757a-47d0-ae86-ac7ae70c2974",
    "title": {
-    "en": "Aisareru yori ￮ Saretai"
+    "en": "Aisareru yori \uffee Saretai"
    },
    "contentRating": "safe",
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94571e82-66b7-4e7d-b4a1-973d376dbf7e.jpg"
   },
   {
    "id": "f4f3c1b5-a16e-4eca-9bc9-7a9c373a6370",
@@ -144,8 +155,10 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "21be2c0c-12c5-4869-885c-1706ab2fcd0d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:16+00:00"
+ "updatedAt": "2021-07-18T06:26:16+00:00",
+ "coverFileName": "91c02a4a-d9c8-48e1-9f68-de441f9c2373.jpg"
 }

@@ -17,7 +17,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "874db6ab-1698-4baa-be72-504dc0e450cb.jpg"
   },
   {
    "id": "04fe6d31-460f-41f3-b56a-5e4f7659afa5",
@@ -32,7 +33,8 @@
     "en",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "aae1195d-a03c-4bd4-92dc-2a06f9e5ad78.jpg"
   },
   {
    "id": "9f796e48-f4e1-42f9-8971-80273cf46277",
@@ -44,7 +46,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "61c4c0c3-04fe-4da1-aac9-6f1b9aade8a7.jpg"
   },
   {
    "id": "f736cce8-888e-49ff-9505-afc5853ebc04",
@@ -60,7 +63,8 @@
     "id",
     "it",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4c3374cc-246a-49f4-a5f9-e13e2650447b.jpg"
   },
   {
    "id": "91b5911c-7112-4944-baa3-c53370da096d",
@@ -74,19 +78,21 @@
     "es-la",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "71689cb3-5d7b-4138-b156-7f51236935c3.jpg"
   },
   {
    "id": "5eb514bc-bb37-4f37-a2e9-def530b08c29",
    "title": {
-    "en": "Gift±"
+    "en": "Gift\u00b1"
    },
    "contentRating": "suggestive",
    "score": 0.21652028,
    "languages": [
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4538e5fb-2fb0-481b-a174-25844b9d84f2.jpg"
   },
   {
    "id": "743c3648-a027-493c-a266-814de86336be",
@@ -101,12 +107,13 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2ce21cc7-585e-48a0-936e-53ba324cd3b3.jpg"
   },
   {
    "id": "cbce49c7-6311-4955-8b10-1005775d5cee",
    "title": {
-    "en": "The Strongest Dull Prince’s Secret Battle for the Throne"
+    "en": "The Strongest Dull Prince\u2019s Secret Battle for the Throne"
    },
    "contentRating": "suggestive",
    "score": 0.17862011,
@@ -117,7 +124,8 @@
     "fr",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e721705f-31f1-4938-b9f0-06de52121d42.jpg"
   },
   {
    "id": "0b7e315e-7977-425e-a601-243ddb9f3126",
@@ -133,7 +141,8 @@
     "ru",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "06550bac-512d-44f2-af83-42c356171491.jpg"
   },
   {
    "id": "91503d4c-16d6-4962-9eca-93557667066c",
@@ -148,7 +157,8 @@
     "ru",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "f356ef0e-a893-412d-ae9c-fec90f9669b9.jpg"
   },
   {
    "id": "e7e950c1-bbc3-4579-a659-ac9ffacc4ab2",
@@ -162,7 +172,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e8471bd3-aa8c-4489-8a11-4aa83e7776ef.jpg"
   },
   {
    "id": "32326094-c35b-45c5-a0ec-e61010e6a20e",
@@ -176,8 +187,10 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "901bb56d-cfba-476a-9fe9-867793293eb4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:09+00:00"
+ "updatedAt": "2021-07-18T07:01:09+00:00",
+ "coverFileName": "9d538e7f-e3d1-40e1-8653-23e140bbce2d.jpg"
 }

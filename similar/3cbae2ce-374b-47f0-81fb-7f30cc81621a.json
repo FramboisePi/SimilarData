@@ -1,20 +1,21 @@
 {
  "id": "3cbae2ce-374b-47f0-81fb-7f30cc81621a",
  "title": {
-  "en": "Cool Girl \u0026 Cute Girl"
+  "en": "Cool Girl & Cute Girl"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "f92e0740-0212-4fa3-afcd-7decf083edff",
    "title": {
-    "en": "Mahou Shoujo Lyrical Nanoha - めきめき王国 - 猫き下ろし　前編 (Doujinshi)"
+    "en": "Mahou Shoujo Lyrical Nanoha - \u3081\u304d\u3081\u304d\u738b\u56fd - \u732b\u304d\u4e0b\u308d\u3057\u3000\u524d\u7de8 (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44055095,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ccd4fc0-dda5-43d0-8078-ca9b97621789.jpg"
   },
   {
    "id": "bc68bee8-ae2d-4a4f-bc77-70cc2a227fbe",
@@ -25,7 +26,8 @@
    "score": 0.40865216,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c011b4e-db24-4a0f-bb5d-9559422b3e35.jpg"
   },
   {
    "id": "08955a3e-63f9-4605-a14c-2d528d7608d7",
@@ -36,7 +38,8 @@
    "score": 0.39704943,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "477650bd-f36b-4538-a613-7fbc4c213d1f.png"
   },
   {
    "id": "406933c0-71da-41af-8d6b-d7270dd97957",
@@ -47,7 +50,8 @@
    "score": 0.3857752,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5aee04c-022c-4030-b168-db4063cbbca0.jpg"
   },
   {
    "id": "89bf2017-0be7-4bdd-b83d-66cc146b04fd",
@@ -59,7 +63,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9a4a744c-b04b-46e5-867e-ddf1f0f266f8.jpg"
   },
   {
    "id": "a98c4e59-cbb0-40c4-9705-59877cd1c965",
@@ -70,7 +75,8 @@
    "score": 0.38394588,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d531726-b2b9-46af-a7a9-93da1779eb0b.jpg"
   },
   {
    "id": "40e8c3e1-6de5-4ce4-ba02-8f37c6844775",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "190727e0-4725-4f3a-8bf8-aa751e912809.jpg"
   },
   {
    "id": "27cc4285-acce-4350-8d38-32a2c3d0bb89",
@@ -94,7 +101,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "179c2e38-7f43-4545-8ac2-6a16311f6330.jpg"
   },
   {
    "id": "521fdbc8-4a0c-48df-a277-d6c228eafa61",
@@ -105,7 +113,8 @@
    "score": 0.37646952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31a8e6e5-4c1c-49fe-8fd8-a876ec1dbb7c.jpg"
   },
   {
    "id": "4122b725-9a26-41da-beba-35980aeaa2f0",
@@ -118,7 +127,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ffc6cc1c-6973-4817-9402-a4f0e470fce3.png"
   },
   {
    "id": "84367b12-ca13-4cdf-a623-deff6c12a338",
@@ -129,7 +139,8 @@
    "score": 0.37646952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8991785-81fe-4ff7-a26e-be98c5caf81f.jpg"
   },
   {
    "id": "c0bc5404-6e9c-415e-a43a-845775d44a5e",
@@ -142,8 +153,10 @@
     "fr",
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "11534947-e3ce-4512-a819-b9bb1da46a2e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:46+00:00"
+ "updatedAt": "2021-07-18T06:35:46+00:00",
+ "coverFileName": "f2900c6e-692a-4c43-8c03-1d074b2b9ba9.png"
 }

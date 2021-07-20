@@ -8,7 +8,7 @@
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.39312062,
@@ -21,7 +21,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "02e472cb-e833-4031-b158-a5e645e6a56b",
@@ -33,7 +34,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "aa6c8567-59d4-444e-8ea2-289817300836.jpg"
   },
   {
    "id": "fcf1aa35-4891-46a3-9874-f1823ddac415",
@@ -49,7 +51,8 @@
     "pt-br",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "379d2b7a-88a1-46b1-aac4-d1fc42e7699c.jpg"
   },
   {
    "id": "b46d7513-9255-4cbb-b1c9-15bb758a74ca",
@@ -62,7 +65,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "9941212b-b029-44cb-acd9-9fb846e6b89f.jpg"
   },
   {
    "id": "bd41c78f-b7c2-417e-8d06-d061873c2a15",
@@ -76,7 +80,8 @@
     "id",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1a3179c7-f82e-4888-a3bb-cc134e8c863c.jpg"
   },
   {
    "id": "10a4985d-0713-462e-a9d6-767bf91e4fd7",
@@ -91,7 +96,8 @@
     "en",
     "vi",
     "ru"
-   ]
+   ],
+   "coverFileName": "19c2a286-966f-4a7c-858e-655cb9610bd6.jpg"
   },
   {
    "id": "e30589cb-ff3b-4129-b175-ba163e3694ce",
@@ -102,7 +108,8 @@
    "score": 0.30425555,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f73b4624-0d10-44fa-896f-8765a7124445.jpg"
   },
   {
    "id": "55ace2fb-e157-4d76-9e72-67c6bd762a39",
@@ -120,7 +127,8 @@
     "zh-hk",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "af6c85d9-0891-40da-a0a9-1b9ccc6bc2fd.jpg"
   },
   {
    "id": "a9a125c7-7090-4a1e-8a87-9b63227b651f",
@@ -134,7 +142,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "cfe7b629-09f0-4d88-b673-918ca01fbd86.jpg"
   },
   {
    "id": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
@@ -151,7 +160,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "106a87ab-21ce-4d7b-980e-ecc03d0584bf.png"
   },
   {
    "id": "f5fb287d-e168-4d6a-ae72-92011dbd173b",
@@ -165,7 +175,8 @@
     "fr",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "c4678a42-1102-4ce3-905a-75901c306314.png"
   },
   {
    "id": "8fe61dfd-ca48-4aba-94fc-dbe8d3cb490a",
@@ -183,8 +194,10 @@
     "de",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "0e8d3cea-10cf-45ff-8437-3e0a3c745a24.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:22+00:00"
+ "updatedAt": "2021-07-18T06:40:22+00:00",
+ "coverFileName": "cee793cd-4ab1-4469-9b63-55d59282b043.png"
 }

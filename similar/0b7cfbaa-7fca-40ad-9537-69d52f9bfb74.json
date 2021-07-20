@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "e97cbd9b-53dd-4499-968b-6c1e71f226b0",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92278cf1-89f7-4080-aeb9-c7f9aacfa1a3.jpg"
   },
   {
    "id": "da89755c-f069-48b1-90d4-cebf5f0b2a54",
@@ -42,7 +44,8 @@
     "id",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "cc0d8794-393c-4ff2-8f4e-658fb2942e9d.jpg"
   },
   {
    "id": "247bd517-846e-41cb-b6ec-f368e9272d7c",
@@ -58,7 +61,8 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "836a14a3-4d57-454c-ab01-a2baa50ba437.png"
   },
   {
    "id": "7f2ae1ec-84f0-423d-ae28-1c10f22824bb",
@@ -69,7 +73,8 @@
    "score": 0.5381972,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "0d00a476-68be-4a8f-8a54-2df471b30f13.jpg"
   },
   {
    "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
@@ -85,7 +90,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4d4e3d89-da27-4961-82a0-e64c6cfc163d.jpg"
   },
   {
    "id": "c899a40c-00f9-471a-bd09-5b76068beca3",
@@ -99,7 +105,8 @@
     "ru",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "8c6554f0-08ef-4698-9fc2-a7da65986a51.jpg"
   },
   {
    "id": "f3b20d87-847d-4c51-84e5-ce9886693c85",
@@ -113,7 +120,8 @@
     "ru",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "590b9c15-3541-4a79-9a44-1aa209de70fc.jpg"
   },
   {
    "id": "784541d1-1dc4-4309-8a10-e312107f6423",
@@ -124,7 +132,8 @@
    "score": 0.49126104,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "d4af9739-af88-469f-91ae-22d3235ae1f3.jpg"
   },
   {
    "id": "511d0530-d743-431b-be39-842065d4d011",
@@ -137,19 +146,21 @@
     "en",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2ff42524-6952-4192-9e16-dec1cde33615.jpg"
   },
   {
    "id": "d42d0e05-2a04-4a1e-ba09-3cb020676279",
    "title": {
-    "en": "I Don’t Want the Obsession of a Twisted Archduke"
+    "en": "I Don\u2019t Want the Obsession of a Twisted Archduke"
    },
    "contentRating": "safe",
    "score": 0.48646665,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "622eb1f5-c26a-48ab-8eeb-3af59dd3172c.jpg"
   },
   {
    "id": "4106c8cb-7917-41c5-bd55-072f6687076d",
@@ -166,8 +177,10 @@
     "pl",
     "tl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7b02a3fb-260a-4d85-9248-3f26c389f9c2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:36+00:00"
+ "updatedAt": "2021-07-18T06:26:36+00:00",
+ "coverFileName": "a79283a8-fea7-43d7-adbf-de6e938e1acb.jpg"
 }

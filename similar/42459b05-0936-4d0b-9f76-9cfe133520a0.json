@@ -1,7 +1,7 @@
 {
  "id": "42459b05-0936-4d0b-9f76-9cfe133520a0",
  "title": {
-  "en": "Senyuu. - Alba・Ross-hen"
+  "en": "Senyuu. - Alba\u30fbRoss-hen"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "8bfce0e0-2d0d-4c76-bc2e-b02bb7719e83.jpg"
   },
   {
    "id": "3f4dc1d3-7c2d-464a-99fc-85c1aadb31bd",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a6b64a4a-0c38-4c19-9a82-df1aeb42c12d.png"
   },
   {
    "id": "ec8646e5-5830-41f6-acdf-66b6566454f9",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "11904c1f-b5a9-41de-9c22-c53563be526e.png"
   },
   {
    "id": "66236cfd-3050-405e-9c7a-4150f5fae170",
@@ -50,7 +53,8 @@
    "score": 0.60621035,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4685f4c0-72ff-40b1-a399-9ac794eb13e3.jpg"
   },
   {
    "id": "23a6c600-ee04-4836-8015-465f809ade19",
@@ -63,7 +67,8 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "12f4dd3b-9acb-4b43-a882-10c89c7f4656.jpg"
   },
   {
    "id": "7bf8ce0d-88e1-4afb-93ac-598121771bc9",
@@ -75,7 +80,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "13ccc59a-671d-4870-b961-f18ab1c9919c.jpg"
   },
   {
    "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
@@ -88,7 +94,8 @@
     "en",
     "ca",
     "it"
-   ]
+   ],
+   "coverFileName": "b2385195-2397-473e-ac1f-235f0958dc1d.jpg"
   },
   {
    "id": "8a6bd8df-82a0-4b37-abba-0c97e6959b11",
@@ -100,7 +107,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "b4275939-e5bd-49d5-84c8-bf6d1cbc8b66",
@@ -111,7 +119,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c201003-96e7-4bc0-9ce0-63fc4f882083.jpg"
   },
   {
    "id": "fcb5111f-be88-4f5a-b456-22135f3eda49",
@@ -125,7 +134,8 @@
     "en",
     "ru",
     "ca"
-   ]
+   ],
+   "coverFileName": "5919a775-29dc-42b9-b3dd-8bee6fa83414.jpg"
   },
   {
    "id": "40747a6a-7373-49b9-b84d-3e01b702ae4b",
@@ -136,7 +146,8 @@
    "score": 0.38810956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "682394d0-de99-49ab-81cd-f584cecd122a.jpg"
   },
   {
    "id": "92b03d20-0f80-4af3-8f25-52013f446af9",
@@ -147,8 +158,10 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e56366d-1b77-4a43-955b-4d994b65e61f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:49+00:00"
+ "updatedAt": "2021-07-18T06:36:49+00:00",
+ "coverFileName": "e96aa7f4-94dd-441a-946f-343011e11072.jpg"
 }

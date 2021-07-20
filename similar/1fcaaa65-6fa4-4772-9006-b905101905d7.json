@@ -14,7 +14,8 @@
    "score": 0.51637363,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2fc42609-52ce-4531-bd3f-4189ac172b19.jpg"
   },
   {
    "id": "f806a542-50f2-4980-aded-f5940044f8e7",
@@ -25,7 +26,8 @@
    "score": 0.37022376,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9f8d78d9-8607-4a18-9906-8af0d1a7acc1.jpg"
   },
   {
    "id": "95f2df15-d39e-4b5e-85cc-a85337e0a1d0",
@@ -36,7 +38,8 @@
    "score": 0.36529437,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bfbdb22f-247c-4758-ad62-535d28c6a556.png"
   },
   {
    "id": "32bf273c-6b4f-40b0-9a63-f4a057c84e42",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "b068b120-08c2-4b21-9a7f-bb51e6f9f6a1.png"
   },
   {
    "id": "15d88ad6-19e7-48b6-b5db-8107fcccb220",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "de9d03ed-4dbc-4c1d-bffb-7609fa149257.jpg"
   },
   {
    "id": "5317b973-a422-4d9c-b2b4-3d7eaf1336fe",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d8f98625-9f6d-4747-9115-818bb71463be.png"
   },
   {
    "id": "974aabfb-dc1c-4753-816c-4ac120d91399",
@@ -85,7 +91,8 @@
     "pt-br",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "09c6f0f7-6287-4d40-b62e-60b18393ddbb.jpg"
   },
   {
    "id": "018c2577-f29d-42e2-9e74-979e03bd8930",
@@ -101,12 +108,13 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "197ae7b6-2603-4df1-a85d-1a0c23eca9a4.jpg"
   },
   {
    "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
    "title": {
-    "en": "Father, I Don’t Want to Get Married!"
+    "en": "Father, I Don\u2019t Want to Get Married!"
    },
    "contentRating": "safe",
    "score": 0.3022669,
@@ -118,7 +126,8 @@
     "ru",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "3f828bd7-20ab-4813-9335-96282f145122.jpg"
   },
   {
    "id": "0495e9fc-9557-4f53-be80-79ce5feea7cf",
@@ -129,7 +138,8 @@
    "score": 0.30012903,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe19cc62-947a-4a2f-9514-49f8953ff8e9.jpg"
   },
   {
    "id": "3a1ac999-ed22-4e81-ae73-539f0353d0f5",
@@ -142,7 +152,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "cdd6d328-7f37-41f5-bf51-c26a55269d8e.png"
   },
   {
    "id": "d77d82aa-4d63-4d97-bd37-8578820024af",
@@ -157,8 +168,10 @@
     "ru",
     "my",
     "tr"
-   ]
+   ],
+   "coverFileName": "905d8c7c-4b90-4107-b59a-073850951175.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:25+00:00"
+ "updatedAt": "2021-07-18T06:30:25+00:00",
+ "coverFileName": "acf93035-aedc-401e-a777-b620708a90ef.jpg"
 }

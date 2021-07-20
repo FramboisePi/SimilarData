@@ -16,7 +16,8 @@
     "es",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "d8cd4b4a-b0a0-40b1-95ad-67a766d6da30.jpg"
   },
   {
    "id": "180861c8-38af-4f5f-8e87-91cb16bd146d",
@@ -27,7 +28,8 @@
    "score": 0.48986182,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c45ef1a6-c5b0-4fc2-8033-7efd205f37e6.jpg"
   },
   {
    "id": "1fcbaeb6-add2-49a8-8504-9baf38e51ce5",
@@ -39,7 +41,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "1d436c5e-b8f2-41e8-9c17-a45735b5560a.jpg"
   },
   {
    "id": "10a4985d-0713-462e-a9d6-767bf91e4fd7",
@@ -54,7 +57,8 @@
     "en",
     "vi",
     "ru"
-   ]
+   ],
+   "coverFileName": "19c2a286-966f-4a7c-858e-655cb9610bd6.jpg"
   },
   {
    "id": "7962d3f4-fcf4-46ca-986b-d8ab54ba87f8",
@@ -66,18 +70,20 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "ed3511fd-4d6a-4449-9e8e-a190f6b5abbe.jpg"
   },
   {
    "id": "6f3543ca-873b-463f-9a1d-47bc261d274a",
    "title": {
-    "en": "Pocket Monsters RéBURST"
+    "en": "Pocket Monsters R\u00e9BURST"
    },
    "contentRating": "safe",
    "score": 0.46963593,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ba10aae-2f05-42ee-a240-9756b845ec26.png"
   },
   {
    "id": "2d6b1de7-37a9-4620-a565-1fd97c39821a",
@@ -90,7 +96,8 @@
     "ru",
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "73733e31-2cb1-4d10-a4ca-ff7e6fbbfb01.png"
   },
   {
    "id": "aa8b06df-f622-4d84-851a-2dd6a06cbfe0",
@@ -101,7 +108,8 @@
    "score": 0.46302846,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "832901a3-9dc6-4be2-b1df-940b84701a23.jpg"
   },
   {
    "id": "d9178d54-f78e-4316-b6da-567950b56c6f",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a556e76e-a6aa-47c0-bb30-3e7611f1475c.jpg"
   },
   {
    "id": "031838d6-be82-4a57-a83e-6fee93fdc463",
@@ -124,7 +133,8 @@
    "score": 0.45080304,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c837d7f-0069-472a-83cb-fa02169ee0fa.jpg"
   },
   {
    "id": "a787b10a-02d0-46c0-8236-0d01d69ad4a3",
@@ -137,7 +147,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "a2b399c6-a938-4971-89f3-870b30038e5a.jpg"
   },
   {
    "id": "d720f17c-473b-410e-adab-a1c5543fcc09",
@@ -148,8 +159,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7814c7b5-8238-4617-a93f-b4592202129b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:42+00:00"
+ "updatedAt": "2021-07-18T06:43:42+00:00",
+ "coverFileName": "3b984f9c-7298-464c-8d39-0eed5ee22e4d.jpg"
 }

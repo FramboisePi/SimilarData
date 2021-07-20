@@ -18,7 +18,8 @@
     "ar",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "d011a119-2c6a-4028-a540-0a3292ac9e7f.jpg"
   },
   {
    "id": "5f3d8a01-3e20-4925-a8cc-79c891a0b687",
@@ -29,7 +30,8 @@
    "score": 0.41121775,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2724e01e-bd3d-4844-a87a-8e71d3de3cc9.jpg"
   },
   {
    "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
@@ -41,7 +43,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "83e063b0-cb44-4644-ad46-4b6a5234a19f.jpg"
   },
   {
    "id": "efad9362-a6bc-47f6-a0a7-80fc00572bcc",
@@ -54,7 +57,8 @@
     "es-la",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "0bf634a3-574a-43cf-b16b-ea6de3940ca1.jpg"
   },
   {
    "id": "942c4d26-67a3-4a83-8a27-dbb68fe6ccad",
@@ -66,7 +70,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3d237918-0983-4697-b9a6-4242165b33a6.jpg"
   },
   {
    "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
@@ -78,7 +83,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "310057f9-2619-47ed-a760-e77d794611d0.png"
   },
   {
    "id": "854cf05b-5366-48b4-84bd-0806aa0348f0",
@@ -89,19 +95,21 @@
    "score": 0.38031942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a50db41c-ef5e-40d1-8249-87fccbaded71.jpg"
   },
   {
    "id": "e7ba68e6-0e13-43c8-8c0c-17431ae5a911",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica ~The different story~"
+    "en": "Mahou Shoujo Madoka\u2605Magica ~The different story~"
    },
    "contentRating": "safe",
    "score": 0.38031942,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "543b6a80-e5d1-41c8-a60a-a198ac35bb14.jpg"
   },
   {
    "id": "853e1ec2-cee3-4670-85af-899e79e3635c",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "506efd98-88a1-4e20-aa49-c41bfd3d30fe.jpg"
   },
   {
    "id": "cf051c84-8ae1-4623-8fe3-ae8b28c621f2",
@@ -128,7 +137,8 @@
     "ru",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "a3896731-d7aa-41a4-a12e-4c8bc9254cb8.jpg"
   },
   {
    "id": "c3e37161-3c45-4e81-89cc-7b2353617ca9",
@@ -142,7 +152,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "dd6265a5-58ea-49c5-a3b1-6a022f740806.jpg"
   },
   {
    "id": "efbd716a-f610-4653-8cd4-450c379cbb96",
@@ -155,8 +166,10 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a1392785-522a-4893-b483-7bc07c78700e.png"
   }
  ],
- "updatedAt": "2021-07-18T06:54:08+00:00"
+ "updatedAt": "2021-07-18T06:54:08+00:00",
+ "coverFileName": "9f81c1d4-97b5-4fd5-8331-3e6f04a9533b.jpg"
 }

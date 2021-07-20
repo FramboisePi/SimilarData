@@ -8,13 +8,14 @@
   {
    "id": "5715958f-4f5d-49c2-b563-8bccc34c5979",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Beginning"
+    "en": "Tiger & Bunny - The Beginning"
    },
    "contentRating": "safe",
    "score": 0.4092541,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18dfd05f-97ac-431c-bc79-64be8905a609.png"
   },
   {
    "id": "77e56fca-b10c-4067-8013-0a29259f0889",
@@ -25,7 +26,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e98fd7a4-5cf8-4b86-a258-35f146e40199.jpg"
   },
   {
    "id": "48680ee2-afd4-4e73-9d20-c108900a4b3b",
@@ -37,7 +39,8 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "c51fac06-7b65-4344-97d2-dfc61c7018a2.jpg"
   },
   {
    "id": "60217e03-c0ef-474e-8c19-0922840b6bc9",
@@ -48,7 +51,8 @@
    "score": 0.3388833,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "410c974c-29cc-47d1-b825-a585d5747f66.jpg"
   },
   {
    "id": "f882a5a1-fde4-4d54-ac7d-e759edeb8879",
@@ -59,7 +63,8 @@
    "score": 0.33770314,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc731254-0064-46d2-a715-17402dee22f5.jpg"
   },
   {
    "id": "de5c2320-0f47-4249-80e8-7bc78da12e5e",
@@ -70,7 +75,8 @@
    "score": 0.33430895,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb571d7b-8655-40f4-a87b-6545287f6ec3.jpg"
   },
   {
    "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
@@ -81,7 +87,8 @@
    "score": 0.3298139,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d815528-b802-4445-b617-62b92cce8375.jpg"
   },
   {
    "id": "e7db82d2-81af-4e3e-b2c8-64d79747bb64",
@@ -92,7 +99,8 @@
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "302f30fc-ff37-46a7-8b90-4b9e2dad94f7.jpg"
   },
   {
    "id": "61cb55bb-03e1-4496-9bd4-460c2c7143b4",
@@ -106,7 +114,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "9ec61c1f-1826-416f-8489-f37eb9689ec4.jpg"
   },
   {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
@@ -125,7 +134,8 @@
     "ru",
     "es-la",
     "th"
-   ]
+   ],
+   "coverFileName": "a3beca8c-977d-4e88-b978-5ee7beebfb44.jpg"
   },
   {
    "id": "3ac27305-58ee-4723-a030-e77e551ced2c",
@@ -137,7 +147,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "7c35552b-b538-4ecf-957e-18387f347e1b.jpg"
   },
   {
    "id": "e8b3afad-96d5-48d0-9be4-5760d4672c45",
@@ -148,8 +159,10 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b5d166f-e8ab-4dd8-952e-7d9de1d921aa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:58+00:00"
+ "updatedAt": "2021-07-18T06:26:58+00:00",
+ "coverFileName": "5782d323-92e9-4d35-9012-71c5a63580e9.jpg"
 }

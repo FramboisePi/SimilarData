@@ -17,7 +17,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "88856054-1e14-4534-b764-e24d7711419b.jpg"
   },
   {
    "id": "b0dae504-a591-4d5a-b6c8-916eefa33ce5",
@@ -30,7 +31,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ddec05e1-bbf2-4fe6-bd4f-a57ece3143a1.jpg"
   },
   {
    "id": "b1893ea4-2983-438e-af8e-464283d75728",
@@ -43,7 +45,8 @@
     "fr",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "d82e12cf-81d2-4164-8b41-1dcf508c361c.jpg"
   },
   {
    "id": "0bbc5d7e-a0c9-4e56-83ca-017cc6bca891",
@@ -57,7 +60,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4aac552-ba86-4c54-ad37-c714df204ff0.jpg"
   },
   {
    "id": "223f8713-30d6-4f28-98c0-6b5f9687586d",
@@ -70,7 +74,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "dd511c5a-4ba7-498a-8d51-cb72d4f94c20.jpg"
   },
   {
    "id": "3c89c8f4-ea5a-494d-b5b3-3f7b78057221",
@@ -82,7 +87,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8d13b849-ff3e-4fc9-ac4e-28a7082c41d9.jpg"
   },
   {
    "id": "60668183-6fb7-4219-9d02-4e08b76f393a",
@@ -94,7 +100,8 @@
    "languages": [
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "59a1478d-fb25-44c1-8e88-5b3b8cec6a5f.jpg"
   },
   {
    "id": "dd4c96d3-d69c-4fca-8296-60dcbca27cb5",
@@ -108,19 +115,21 @@
     "fr",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "e100228d-295c-42d5-a7fa-c8df2a6e1b3b.png"
   },
   {
    "id": "d5f5a29f-9ace-4bb5-8179-39fceb2074fd",
    "title": {
-    "en": "Hell \u0026 Heaven"
+    "en": "Hell & Heaven"
    },
    "contentRating": "safe",
    "score": 0.39574215,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "c108fc5d-a2d6-4710-8ce3-ed0d03c811f3.png"
   },
   {
    "id": "8bea6fb0-876c-45d7-9988-8d4f9dd050dd",
@@ -131,7 +140,8 @@
    "score": 0.39574215,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "36337bc5-f377-451f-b7ec-1afddfab3c78.jpg"
   },
   {
    "id": "9540456f-a33e-4e3d-9a04-9837235fb5a4",
@@ -143,7 +153,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "bde793b3-8302-40a2-ad20-074096242003.jpg"
   },
   {
    "id": "af1d1423-9946-4ff2-80d8-379c17b5efc3",
@@ -155,8 +166,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "39befffb-320d-4497-89b7-c448348c589a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:08+00:00"
+ "updatedAt": "2021-07-18T06:50:08+00:00",
+ "coverFileName": "796d8da9-bb5a-4ad4-98f5-122cbd1fb484.jpg"
 }

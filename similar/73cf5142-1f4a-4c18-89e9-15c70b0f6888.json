@@ -1,7 +1,7 @@
 {
  "id": "73cf5142-1f4a-4c18-89e9-15c70b0f6888",
  "title": {
-  "en": "Kurasumeito ga Yūrei Taiji Shi Teta Hanashi"
+  "en": "Kurasumeito ga Y\u016brei Taiji Shi Teta Hanashi"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e270cef8-ad88-4316-96ca-64a77894a147.jpg"
   },
   {
    "id": "4d35562a-94a9-43e3-a23f-b3e21bca1779",
@@ -25,7 +26,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6730c5e-cace-4566-90f1-ba6f52e98e1d.jpg"
   },
   {
    "id": "1055dced-6eb0-42a8-8f82-cd9f52b4de36",
@@ -38,7 +40,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "81048854-0aba-438c-bf0f-471080fc9b8b.jpg"
   },
   {
    "id": "c7d873e5-c7d7-4430-81a8-f745ac93f70b",
@@ -49,7 +52,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3c76f8b-3415-4290-9440-82eef531a16d.jpg"
   },
   {
    "id": "19854049-66cb-4af6-b663-0aecdb6105a9",
@@ -61,7 +65,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "95adeb66-840f-4b13-a41e-a88e2f4bbec1.jpg"
   },
   {
    "id": "09d1a69e-87a5-415e-8302-94982521b7eb",
@@ -75,7 +80,8 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "aa6279d8-55f8-498a-bd6a-279bba59ecfc.jpg"
   },
   {
    "id": "5ab3071c-967a-42f3-b4a3-584fb8c75fef",
@@ -87,7 +93,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "9229ea61-f70a-46f8-8988-3a40b6e46525.jpg"
   },
   {
    "id": "f2a0df11-6705-4748-b035-4e4e0724ed2f",
@@ -98,7 +105,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe6b71df-45eb-461f-929c-cada81044c7f.jpg"
   },
   {
    "id": "e61725ac-2f53-4038-b887-a1e852f81a5f",
@@ -112,7 +120,8 @@
     "en",
     "es-la",
     "ca"
-   ]
+   ],
+   "coverFileName": "a1f7b0f4-9913-48ca-909b-92e46ffe6f40.jpg"
   },
   {
    "id": "cd37dec0-2a85-48d2-b7a5-a092161965b6",
@@ -123,7 +132,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c19d2171-a5ba-4deb-a8c5-8da69441c3f5.png"
   },
   {
    "id": "cf67aa7f-0bcc-4bdf-97fa-ec4e82616647",
@@ -134,7 +144,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e40d254d-1a4a-4336-84c2-e9635031c058.png"
   },
   {
    "id": "84a2945e-0018-4301-9a54-f305971477a9",
@@ -146,8 +157,10 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "84b80c34-80cb-4c97-acd5-c44f110313a2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:54+00:00"
+ "updatedAt": "2021-07-18T06:45:54+00:00",
+ "coverFileName": "f81e63a8-70a0-4916-bb93-f9397bdfd532.jpg"
 }

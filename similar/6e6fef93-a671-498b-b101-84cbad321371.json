@@ -1,7 +1,7 @@
 {
  "id": "6e6fef93-a671-498b-b101-84cbad321371",
  "title": {
-  "en": "Kikenchitai Danshi - Kedamono Black \u0026 White"
+  "en": "Kikenchitai Danshi - Kedamono Black & White"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.5611058,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f09c6750-0a69-40e7-b88d-fc74362494b6.jpg"
   },
   {
    "id": "93173fd8-5039-41f0-a3af-0565b184be5e",
@@ -25,7 +26,8 @@
    "score": 0.5297475,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de4f2c6f-c123-4131-9180-b6cc90668211.jpg"
   },
   {
    "id": "c907ee29-37aa-45d1-8351-0de616bcb037",
@@ -36,7 +38,8 @@
    "score": 0.5202216,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "89089276-df72-46a9-ab2a-b1bff0c22bd8.jpg"
   },
   {
    "id": "bec0f8cd-bc82-4e3e-b445-d2a642030ec6",
@@ -49,7 +52,8 @@
     "de",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "8682e3d0-0713-4cac-a4e4-a7a96431726a.jpg"
   },
   {
    "id": "0785258c-57c4-4994-a77e-0206aa536821",
@@ -60,7 +64,8 @@
    "score": 0.51237434,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38bf3b4d-f4ba-4228-82ba-970968566e3a.jpg"
   },
   {
    "id": "3ae1f85c-6010-4b2a-9b02-200e133bf16b",
@@ -73,7 +78,8 @@
     "en",
     "id",
     "vi"
-   ]
+   ],
+   "coverFileName": "ab400617-beb0-494c-8dd5-91c98e8d8c08.jpg"
   },
   {
    "id": "3cbb84b6-2510-4467-97eb-0bd0ea277ace",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "945df3c1-a9e3-4aec-a658-63b6755c1d47.jpg"
   },
   {
    "id": "2aec1634-1aee-4d43-a345-21bf36a8df3a",
@@ -97,7 +104,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "d8591aea-ff00-4e76-b87e-e03738b49735.jpg"
   },
   {
    "id": "f20144da-4965-409e-ac25-c836793fb86a",
@@ -109,7 +117,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "5d2c2ed9-fb91-4a23-89cf-8a90ddfb37a4.jpg"
   },
   {
    "id": "5ef80bbd-7593-448d-bf4b-726f91f3e53f",
@@ -123,7 +132,8 @@
     "fr",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "43789b1d-46de-48b1-9d16-9fcf1c5c7695.jpg"
   },
   {
    "id": "1a39491c-289c-40bf-bba2-5414e2ada850",
@@ -135,7 +145,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c3cfb5f6-0e1d-4a0f-b913-345bddd36c99.jpg"
   },
   {
    "id": "9a1632f0-94b6-4809-b156-8f5e256fcd16",
@@ -147,8 +158,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dd93f698-9e2a-46b4-b6ec-8bc86a5549c7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:56+00:00"
+ "updatedAt": "2021-07-18T06:44:56+00:00",
+ "coverFileName": "2e340b4f-e1e5-42b3-9398-1b413b63e7e8.jpg"
 }

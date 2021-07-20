@@ -1,7 +1,7 @@
 {
  "id": "c10a6f2f-dd44-4be4-94b3-9cb447c4fa39",
  "title": {
-  "en": "Missy’s Geek Raising Plan"
+  "en": "Missy\u2019s Geek Raising Plan"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.5148017,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "11b19a55-027d-478b-b765-9cb4c449c6eb.png"
   },
   {
    "id": "56b1e70a-b06a-4ed5-8ccb-df362a7336e9",
@@ -27,7 +28,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "21c20e14-986e-4314-a63c-b0472812a854.png"
   },
   {
    "id": "d9bbca04-6ed2-47d8-a8e2-d981563232af",
@@ -38,7 +40,8 @@
    "score": 0.44671094,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5173a0d5-e833-476e-85e5-4a123682b63c.jpg"
   },
   {
    "id": "04de6bc7-3679-4203-b728-ac57f49678da",
@@ -49,7 +52,8 @@
    "score": 0.43714988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d17f31b-03ce-4071-80f1-0f5a0d7f24ec.png"
   },
   {
    "id": "30068342-34e3-43b1-a30f-75b5a485d004",
@@ -62,7 +66,8 @@
     "en",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "594f83ef-c8e3-4314-8aa4-98cd208caf11.jpg"
   },
   {
    "id": "0a6084b6-3191-4645-82cb-27bf9647b6ba",
@@ -73,7 +78,8 @@
    "score": 0.42024887,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "693d6af4-217d-4d6b-9f24-89bed0ec547a.jpg"
   },
   {
    "id": "3a57573d-84f2-4eab-9f5e-ee5100518c5c",
@@ -84,7 +90,8 @@
    "score": 0.41867507,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e2be8948-e5b3-42cf-a4c6-26a07759aa6d.jpg"
   },
   {
    "id": "79fb4e9b-2a94-480a-bddb-34b24fb03bf0",
@@ -98,7 +105,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cee41ac6-5965-44f1-82fd-ee56fe8cf10b.jpg"
   },
   {
    "id": "51a0cd0c-3254-47f0-a7fd-4b9bb178f813",
@@ -113,7 +121,8 @@
     "pt-br",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "22679123-1072-4cc2-baf0-95603e0e2a1a.jpg"
   },
   {
    "id": "c79e017d-3e56-4704-b0a5-fb15112b4e84",
@@ -124,7 +133,8 @@
    "score": 0.41310683,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f54a2a2-9188-434d-bb2b-c38535df95a1.png"
   },
   {
    "id": "67e56a7a-c7ea-4db8-84f0-db19c2034729",
@@ -137,7 +147,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "86f85502-4640-4947-b740-69a2149c2eb3.jpg"
   },
   {
    "id": "e94d0d45-41a8-4692-8d27-d7af3cb1ae62",
@@ -152,8 +163,10 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "ef6d25b5-daf0-4630-bf19-94fa13f15ba4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:17+00:00"
+ "updatedAt": "2021-07-18T07:00:17+00:00",
+ "coverFileName": "7355107f-a6d6-450e-b1e1-f7be7c9db71a.jpg"
 }

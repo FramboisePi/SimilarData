@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3b8ce218-ac56-4407-9d50-bc07787a6391.jpg"
   },
   {
    "id": "2a045681-d08e-41d7-b028-dd2981667584",
@@ -27,12 +28,13 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "250c1cd4-153b-4d1c-af7d-06165e0a163d.jpg"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.48267546,
@@ -43,7 +45,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "f9bfc73a-d017-424c-92ed-bb79d67fa881",
@@ -58,7 +61,8 @@
     "es",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "ee5f36c6-dcd3-4476-89f9-83e1fc4bd85a.jpg"
   },
   {
    "id": "a9927dc3-b703-4ca0-8941-5f7ccbe61886",
@@ -70,7 +74,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "95026d41-e74c-406a-8b1d-767f813acd33.jpg"
   },
   {
    "id": "49c130f1-69f2-41ed-8b44-5223c1569b4b",
@@ -81,7 +86,8 @@
    "score": 0.45858654,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2950be03-819e-42ab-aba5-96c6b46574ae.jpg"
   },
   {
    "id": "0e4ae2e2-17c4-4b34-a605-aaff1d815d6f",
@@ -92,7 +98,8 @@
    "score": 0.45462683,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7642722-a9ca-422a-97e7-f3211bda2fbe.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -103,7 +110,8 @@
    "score": 0.45403087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "8a6ba3db-aff7-4c4f-a16d-0c2087298f9b",
@@ -114,18 +122,20 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3e4d34ce-18d1-48fd-968b-8a9d0e984a63.png"
   },
   {
    "id": "dc82fe4f-b16b-404a-9e6c-e8489833cc5c",
    "title": {
-    "en": "Hokenshitsu Sensei to Mōsōsuki-chan"
+    "en": "Hokenshitsu Sensei to M\u014ds\u014dsuki-chan"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18fdcbee-6abb-47c0-ba54-e1a71b02238b.jpg"
   },
   {
    "id": "11aa77ec-aaa9-472b-b844-d433994cb5a1",
@@ -136,7 +146,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a28b6b87-8167-43e5-abf5-2a8e8df4d7f0.jpg"
   },
   {
    "id": "4ae8d458-993e-4ad7-9bf3-d51548f31e8f",
@@ -147,8 +158,10 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5468440e-deb2-4d88-b51c-fb07244681f2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:15+00:00"
+ "updatedAt": "2021-07-18T06:26:15+00:00",
+ "coverFileName": "cd347aef-0397-4871-a606-1fe934a88cbd.jpg"
 }

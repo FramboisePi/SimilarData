@@ -1,7 +1,7 @@
 {
  "id": "effc7592-6cbc-4e34-b859-d51f330aeac4",
  "title": {
-  "en": "Touhou - U.S.C. Yuka’s Flower Shop (Doujinshi)"
+  "en": "Touhou - U.S.C. Yuka\u2019s Flower Shop (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.46026888,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f5d8409a-3da7-4fa6-88a4-8aae5cdad48d.jpg"
   },
   {
    "id": "a4a87c3d-8dfc-4934-b616-4b63d6200bfd",
@@ -27,7 +28,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "de0bd09d-2658-4e34-9e5a-89afe325ea59.jpg"
   },
   {
    "id": "a04d18cd-8274-4078-961b-5533b094620c",
@@ -38,7 +40,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ee2ca5c-bd85-4d18-961e-ffb2a2352ee7.jpg"
   },
   {
    "id": "78c9b3d4-6d2f-4465-a224-5b31afe58c7d",
@@ -49,7 +52,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65f09052-31a3-4469-a5c9-5f8f31145917.jpg"
   },
   {
    "id": "e288b27c-0472-4bb9-8e9a-47ca311d4155",
@@ -60,7 +64,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "25b68b43-f223-402c-b689-40ceb0e2c98f.jpg"
   },
   {
    "id": "30152e61-a281-45b8-9391-ecd675473cff",
@@ -71,7 +76,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "986518f4-d7a2-4096-a36e-c8877dc0cd55.jpg"
   },
   {
    "id": "a0c4534f-acd8-4052-8888-34b806559555",
@@ -82,7 +88,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c0fbe07d-5667-4a5d-be4b-8d814939236d.jpg"
   },
   {
    "id": "3ba794a0-0243-47ae-950f-88a19a62bafa",
@@ -93,7 +100,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47269564-1083-4be1-9722-a29842f9aa98.jpg"
   },
   {
    "id": "6a0ccf67-f930-4aa2-b095-c60dc4cd2451",
@@ -104,30 +112,33 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4dad70c-028a-41a4-8545-4bd80b384519.jpg"
   },
   {
    "id": "0c7cdcfd-69db-4b16-8a85-5a8bd7b02dce",
    "title": {
-    "en": "Shingeki no Kyojin - Hey Corporal, Don’t Think You’ve Won (Doujinshi)"
+    "en": "Shingeki no Kyojin - Hey Corporal, Don\u2019t Think You\u2019ve Won (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "509130d3-89a9-4336-8429-b41f63bf202e.jpg"
   },
   {
    "id": "0e4165cc-c66e-4c54-b48c-ac15c76bb539",
    "title": {
-    "en": "Hokuto no Ken \u0026 K-ON! - KEN-OH! THE MOVIE (Doujinshi)"
+    "en": "Hokuto no Ken & K-ON! - KEN-OH! THE MOVIE (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "e1b1fea1-bfa2-4f07-9087-9ad18a37f9f9.jpg"
   },
   {
    "id": "b0054c84-b001-47ea-a20e-fdf06aa944d6",
@@ -138,8 +149,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f442bd85-cd11-4754-8da1-3b2c398e4034.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:50+00:00"
+ "updatedAt": "2021-07-18T07:08:50+00:00",
+ "coverFileName": "596d5ce0-6484-40da-82ac-34efa2241ef4.jpg"
 }

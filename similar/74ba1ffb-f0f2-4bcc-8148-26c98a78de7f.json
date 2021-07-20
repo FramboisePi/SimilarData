@@ -1,7 +1,7 @@
 {
  "id": "74ba1ffb-f0f2-4bcc-8148-26c98a78de7f",
  "title": {
-  "en": "Pokémon Ultra Sun Ultra Moon 4Koma"
+  "en": "Pok\u00e9mon Ultra Sun Ultra Moon 4Koma"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.6785891,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c54be072-f08e-4607-ab7d-8b4bdd95f301.jpg"
   },
   {
    "id": "e3e3076a-bee7-40e0-87db-f9c79e4ac9d5",
    "title": {
-    "en": "Pokémon SPECIAL Sun \u0026 Moon"
+    "en": "Pok\u00e9mon SPECIAL Sun & Moon"
    },
    "contentRating": "safe",
    "score": 0.66833115,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "880eeb50-64d6-4438-88f9-abd860af2e1a.png"
   },
   {
    "id": "f840471a-5271-4f62-a8ff-b6c01507509b",
@@ -36,7 +38,8 @@
    "score": 0.60184735,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb8ce9c3-c779-4099-b852-53506d595ea3.jpg"
   },
   {
    "id": "7a5d463f-5d4f-41aa-a34f-c6a5d4412061",
@@ -47,7 +50,8 @@
    "score": 0.6014016,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52df86c7-4cc2-4690-ab7e-7cc507d880b1.jpg"
   },
   {
    "id": "0d49dde7-3d69-423a-965f-572fd8db13f5",
@@ -58,7 +62,8 @@
    "score": 0.594642,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "121f4129-0130-4bfc-aeb7-bd920dd09c7f.jpg"
   },
   {
    "id": "029d34e5-b083-40e4-b896-93777e84f3d9",
@@ -69,7 +74,8 @@
    "score": 0.588256,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "06df7487-dd95-4c8b-b49e-379a279a64ca.jpg"
   },
   {
    "id": "e1102c82-3879-4fb4-b7bf-140cdcad11d5",
@@ -83,7 +89,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6ba64ca5-2d5d-4701-a391-e2be23d0adc8.jpg"
   },
   {
    "id": "94a0ad41-39b1-456e-9fa9-05644f925844",
@@ -94,7 +101,8 @@
    "score": 0.570739,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1a35f0d-4218-4ac1-892e-5a816bd16774.jpg"
   },
   {
    "id": "2afa0331-8e5d-4847-b929-e19a7c15d274",
@@ -105,7 +113,8 @@
    "score": 0.56751823,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "824b68b6-8506-4e5e-a8d7-063d8ddad69c.jpg"
   },
   {
    "id": "88510172-1e4c-4273-8f07-8503224f505c",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "90f74b92-dfb6-4c80-aa10-bc681ab75022.jpg"
   },
   {
    "id": "e39944f5-15bf-4464-9556-a4e9b3945571",
@@ -128,7 +138,8 @@
    "score": 0.5608549,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19e896c8-a94a-402d-bc69-20c3eafe0621.jpg"
   },
   {
    "id": "2f8d5499-8e6b-402a-b297-fea5a605acf1",
@@ -139,8 +150,10 @@
    "score": 0.55477697,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d1823f2b-50c0-4e2b-a500-146e752a69d9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:05+00:00"
+ "updatedAt": "2021-07-18T06:46:05+00:00",
+ "coverFileName": "8347240f-d0cc-4864-abb2-a1ceec419d39.jpg"
 }

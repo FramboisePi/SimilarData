@@ -1,7 +1,7 @@
 {
  "id": "9751bd61-0548-45a1-9f6c-4048bbcee434",
  "title": {
-  "en": "Henkei Shoujo: School☆Days"
+  "en": "Henkei Shoujo: School\u2606Days"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04cd192f-bd47-4655-b483-bf84ccbd2126.jpg"
   },
   {
    "id": "d355c3a8-ed1c-4f47-bc8a-40ff9b7ad953",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "90f9fa3f-bd51-4805-b63b-f6fbf4db4a7c.jpg"
   },
   {
    "id": "1bdcb77a-e857-4a30-87d1-8137daac96d9",
@@ -37,7 +39,8 @@
    "score": 0.3,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "e2b2d041-3c55-49d8-b8eb-b6a4c3a3e36c.jpg"
   },
   {
    "id": "394382f4-8335-46a7-9f36-7b89bcac01e9",
@@ -52,7 +55,8 @@
     "pt-br",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "cdcb9c3a-4981-4d10-8a47-dcbaa52be087.jpg"
   },
   {
    "id": "0c5cb802-a42c-422f-843e-033fabf82d01",
@@ -64,18 +68,20 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "af842e9f-63e2-43da-969a-a208985e7291.jpg"
   },
   {
    "id": "7c71eb97-5a02-41cf-b116-92b20ba832ce",
    "title": {
-    "en": "Code Geass: Lelouch of the Rebellion: Lancelot \u0026 Guren"
+    "en": "Code Geass: Lelouch of the Rebellion: Lancelot & Guren"
    },
    "contentRating": "safe",
    "score": 0.29459414,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4f0d787-345e-44fe-a769-ca0a0d9977d8.jpg"
   },
   {
    "id": "d8a5c945-70e4-45f7-b633-3468320e5cc7",
@@ -86,7 +92,8 @@
    "score": 0.2755676,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7376adb5-324f-4e59-9a05-6ee3085593d4.jpg"
   },
   {
    "id": "e3f6fd44-d500-4aa6-854c-02ac3440bcda",
@@ -99,7 +106,8 @@
     "en",
     "pl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b3b3def6-2d6b-41fb-9d3e-166da07949a5.jpg"
   },
   {
    "id": "ff7fe7d3-f884-4df9-9348-c3f68116b7d6",
@@ -110,7 +118,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc7f5d67-b02b-40f4-967b-3dbe1c836e84.jpg"
   },
   {
    "id": "89db77e5-df02-4ae6-95fc-8fc37070072c",
@@ -121,7 +130,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "508c98a4-87b6-429e-95c1-df3df468dd99.jpg"
   },
   {
    "id": "673d090c-1169-4f23-bbfb-e0c712db04c9",
@@ -132,7 +142,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29b6a846-b197-4d64-8718-44ff810131ad.jpg"
   },
   {
    "id": "f9a57ff6-dd0a-4b82-a7a5-caf276ef53e8",
@@ -143,8 +154,10 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c3f6178-2d27-4f78-a3b1-cde8c8d5b13a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:39+00:00"
+ "updatedAt": "2021-07-18T06:52:39+00:00",
+ "coverFileName": "b83db46f-6a52-44d3-9af9-c12063e326b3.jpg"
 }

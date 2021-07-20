@@ -16,7 +16,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "0487d933-72db-4091-a775-a6654046c85a.jpg"
   },
   {
    "id": "a41b29d4-6914-4498-a2ea-49bb0d41f5af",
@@ -29,12 +30,13 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "d491c249-434e-4f67-b847-efedc10cd76f.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.4352393,
@@ -47,7 +49,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
@@ -60,7 +63,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f5e8b9e-e8fd-472c-a990-819c2a1f371a.png"
   },
   {
    "id": "2f6abdb5-5743-44e1-af11-dd8d52e24191",
@@ -75,7 +79,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "16e1fe25-3f9f-494d-8f8b-2b058ac2c954.jpg"
   },
   {
    "id": "558c2122-7342-4649-85e9-a866727bb2e8",
@@ -91,7 +96,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cbe549cf-e55d-4330-9b14-2f1f21974cdb.jpg"
   },
   {
    "id": "dfffa880-4154-40d1-abd2-0dff94248908",
@@ -104,7 +110,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0877a985-6ebd-4ba6-8334-e67acb2449c6.jpg"
   },
   {
    "id": "70fe972b-3c88-4165-b9a5-3db96d6d2c14",
@@ -120,7 +127,8 @@
     "pt-br",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "93ee98a6-9415-4a46-b430-de6aa2de781c.jpg"
   },
   {
    "id": "92bdc011-ba50-47c1-a917-733c21c07273",
@@ -134,7 +142,8 @@
     "en",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "7b9bbb63-4b7d-4144-ac56-44323d156fa6.jpg"
   },
   {
    "id": "04db6969-ad71-45f9-85e8-5bcbef10c029",
@@ -145,7 +154,8 @@
    "score": 0.39040977,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5dc53058-b3c9-419c-92ad-e2ae626c9edd.jpg"
   },
   {
    "id": "9ac39d76-7c31-49a2-88a0-55c75b039626",
@@ -156,7 +166,8 @@
    "score": 0.38994217,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5264c766-cdc7-4cd9-88fb-f3141df464cb.jpg"
   },
   {
    "id": "2598241b-1b99-4a58-bf15-ce5a64014d16",
@@ -168,8 +179,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "060c1abd-0a2f-4449-83e1-57eeea59891f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:26+00:00"
+ "updatedAt": "2021-07-18T06:37:26+00:00",
+ "coverFileName": "92c3e1a0-1c11-4f7c-8c32-6c5c9731a939.jpg"
 }

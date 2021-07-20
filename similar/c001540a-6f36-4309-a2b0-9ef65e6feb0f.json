@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "0c3378a1-a4df-474b-addb-82f1202a2ab4.jpg"
   },
   {
    "id": "d69d9c47-a3ab-41ac-bdcc-9cfcf226c88d",
@@ -26,7 +27,8 @@
    "score": 0.375,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "46ede945-c85a-434a-a012-f8d7c035905d.jpg"
   },
   {
    "id": "ca402d6d-e3ce-4e22-9c2b-ec3933e5899a",
@@ -37,7 +39,8 @@
    "score": 0.375,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "5369f3ba-9f45-4d87-9dbf-cd871fd67b2a.jpg"
   },
   {
    "id": "35c070fe-bf8c-4ece-8e25-3e5ba743b614",
@@ -48,7 +51,8 @@
    "score": 0.375,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "6681693b-6d1c-4040-90a2-371165bbedb6.jpg"
   },
   {
    "id": "1515d3bb-f8d3-4154-9423-e15f9e3088be",
@@ -59,7 +63,8 @@
    "score": 0.375,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "9dbf0479-272b-40be-8fce-e690f8e453c5.jpg"
   },
   {
    "id": "a437b0fd-afea-4dfb-b53c-2572e6583266",
@@ -70,18 +75,20 @@
    "score": 0.35,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "38fac3c8-ccd6-4845-8bd8-76c092235424.jpg"
   },
   {
    "id": "2f4b1dea-3720-49d3-9cca-262c76dd665f",
    "title": {
-    "en": "Boku to chōrui hyakka-ten"
+    "en": "Boku to ch\u014drui hyakka-ten"
    },
    "contentRating": "safe",
    "score": 0.35,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "7ab2a84e-bed5-4bcf-8871-8532c5b9258d.jpg"
   },
   {
    "id": "769b4f22-ef4d-4d80-8175-18d1a3a386dc",
@@ -97,7 +104,8 @@
     "tr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "f95cef40-9096-4e47-a3cc-79787c02cb56.png"
   },
   {
    "id": "2d2b4976-0a94-49ca-9c6e-570df91a1072",
@@ -110,7 +118,8 @@
     "pt-br",
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "bc2c53de-cf6b-4d4f-abed-29df433e9fd0.jpg"
   },
   {
    "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
@@ -125,7 +134,8 @@
     "zh-hk",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5951267f-f863-4e1b-b1fc-a5cfb56faaf8.jpg"
   },
   {
    "id": "212e9236-c0e3-4e85-ae92-087495820251",
@@ -137,7 +147,8 @@
    "languages": [
     "zh-hk",
     "vi"
-   ]
+   ],
+   "coverFileName": "cd61306f-8cc9-4fad-a971-23cebf35eb30.jpg"
   },
   {
    "id": "37b487b3-c60d-461a-a0e5-941017c15584",
@@ -148,8 +159,10 @@
    "score": 0.30618623,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "7b07f4ba-f2c7-48aa-be11-f66d326af29d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:06+00:00"
+ "updatedAt": "2021-07-18T07:00:06+00:00",
+ "coverFileName": "fd0b2fb8-f313-4bbb-8cea-9e14b2dbbc94.jpg"
 }

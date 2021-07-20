@@ -18,7 +18,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2ac2deb9-9dca-43df-b3ec-c7dc29c53d77.jpg"
   },
   {
    "id": "c49feee4-126f-48d0-9a6c-418d7da05265",
@@ -32,7 +33,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "cf54c018-bd5c-42a6-ab8a-2fb6c3e266e0.jpg"
   },
   {
    "id": "a2a9783e-ce5c-442a-af53-f23a0c43ef32",
@@ -44,7 +46,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "e1adf743-03e9-430a-b271-e4749cade766.jpg"
   },
   {
    "id": "9f7530e3-3fc0-4d2b-a1f9-00caadbf2d05",
@@ -61,12 +64,13 @@
     "ru",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "9f81c1d4-97b5-4fd5-8331-3e6f04a9533b.jpg"
   },
   {
    "id": "020dc431-58d2-4a31-9221-b26b2dce149d",
    "title": {
-    "en": "Gekijouban Madoka★Magica - [Shinpen] Hangyaku no Monogatari"
+    "en": "Gekijouban Madoka\u2605Magica - [Shinpen] Hangyaku no Monogatari"
    },
    "contentRating": "safe",
    "score": 0.24972402,
@@ -74,7 +78,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "28688318-5021-4bca-bc5e-efaea6e0580d.jpg"
   },
   {
    "id": "331deec0-fb1a-4680-9248-8a0fc55b5b07",
@@ -89,19 +94,21 @@
     "tr",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4ffb70f9-6c17-4222-8d56-5ed3519c3fba.jpg"
   },
   {
    "id": "3ee094bc-be5b-484c-aa7c-6ce7cc8146bd",
    "title": {
-    "en": "Eisen Flügel"
+    "en": "Eisen Fl\u00fcgel"
    },
    "contentRating": "safe",
    "score": 0.23832546,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "06977c8b-38c0-421b-87fb-ccd9ecba2f0f.jpg"
   },
   {
    "id": "cf051c84-8ae1-4623-8fe3-ae8b28c621f2",
@@ -116,7 +123,8 @@
     "ru",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "a3896731-d7aa-41a4-a12e-4c8bc9254cb8.jpg"
   },
   {
    "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
@@ -128,7 +136,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "83e063b0-cb44-4644-ad46-4b6a5234a19f.jpg"
   },
   {
    "id": "342df7f0-6607-4e64-8801-0280ccb07d61",
@@ -141,12 +150,13 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "40cb2099-8e39-47de-afb0-1ecb695141fa.jpg"
   },
   {
    "id": "633efa03-dc62-4543-be42-a8de0a7a8d11",
    "title": {
-    "en": "ChäoS;Child  ～Children's Collapse～"
+    "en": "Ch\u00e4oS;Child  \uff5eChildren's Collapse\uff5e"
    },
    "contentRating": "safe",
    "score": 0.22335994,
@@ -154,7 +164,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "bdec893c-d28e-4161-9dee-1eeafa6058b5.jpg"
   },
   {
    "id": "2be829dc-af2d-4071-89e2-23627a741f30",
@@ -169,8 +180,10 @@
     "id",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e7160d7e-01db-4b2c-b21d-e410e833febf.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:00+00:00"
+ "updatedAt": "2021-07-18T06:35:00+00:00",
+ "coverFileName": "aeebba7b-dd2a-468e-9486-3dbd09f8d57d.jpg"
 }

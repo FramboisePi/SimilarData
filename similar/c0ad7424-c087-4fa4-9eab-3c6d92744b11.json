@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8021296b-d3e1-4c3c-80b8-dfbf5aca04b4.png"
   },
   {
    "id": "108f20d5-ea83-4a31-8a10-730fa3879875",
@@ -26,7 +27,8 @@
    "score": 0.36058986,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bdab217-d27d-4768-b886-cf4808edb4a7.jpg"
   },
   {
    "id": "550ac818-2a7f-413b-b96d-56d0f0a77863",
@@ -40,7 +42,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4cf187bb-fe65-4a22-8076-3bd1e1950e12.jpg"
   },
   {
    "id": "52edc4f9-e2c3-41fc-914e-2dd7353b2245",
@@ -54,7 +57,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "6734903c-17ce-4102-ac12-e069f7af54e2.jpg"
   },
   {
    "id": "ea7ea94e-2b1d-447b-b6fe-a35f6353494a",
@@ -66,7 +70,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "bdb871cc-ff89-4bad-aeec-1ccb1e8f6f11.jpg"
   },
   {
    "id": "5ef3cf9c-cb7a-4f19-9719-13b4a5f05bba",
@@ -77,18 +82,20 @@
    "score": 0.34169167,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "909df842-990d-462d-8b0a-43b77f08051d.jpg"
   },
   {
    "id": "aa9d695d-c884-446d-a4d8-cc9ef78f826c",
    "title": {
-    "en": "Hayashitate Matsuri♪"
+    "en": "Hayashitate Matsuri\u266a"
    },
    "contentRating": "safe",
    "score": 0.33935857,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40e83603-18c0-4f70-b242-a84b63e4f8cc.jpg"
   },
   {
    "id": "d017bdb3-7009-4060-99a2-94985e915e27",
@@ -99,7 +106,8 @@
    "score": 0.33909154,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0142d395-66cf-4501-ab5c-4f5f1320959f.png"
   },
   {
    "id": "d5fcf4ce-5634-48a4-aa27-1576ac725760",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e277339f-a84b-4f7a-9fde-9a2de2f427b4.jpg"
   },
   {
    "id": "cc077710-3f9a-4acb-8319-a80f80ca4c45",
@@ -123,7 +132,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "11b847d8-b086-4cb1-85b6-1ad544f1a575.png"
   },
   {
    "id": "6e22e1d2-b45e-4e55-b306-51c9e12e34f6",
@@ -135,7 +145,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a578d989-249b-42d7-8aa0-d74ad7eded3d.jpg"
   },
   {
    "id": "768be7b3-0b09-4d76-bb5c-3ec673f9c7dc",
@@ -146,8 +157,10 @@
    "score": 0.32805172,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5855c30-1ad1-4968-b9bd-a9c62cee17c5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:13+00:00"
+ "updatedAt": "2021-07-18T07:00:13+00:00",
+ "coverFileName": "d8d55c3b-15c4-4258-9753-135d60bb8460.png"
 }

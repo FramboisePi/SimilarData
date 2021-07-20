@@ -1,7 +1,7 @@
 {
  "id": "5f709f1b-e481-4e73-86d8-92369545d6f4",
  "title": {
-  "en": "Didn’t I Say to Make My Abilities Average in the Next Life?!"
+  "en": "Didn\u2019t I Say to Make My Abilities Average in the Next Life?!"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "37b4faf6-56f8-4b9d-82fb-b5ca7377b2c1.png"
   },
   {
    "id": "10a8f059-fd50-4dfb-bc56-b58f9f3bb4e4",
@@ -30,7 +31,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "efd02641-5c31-4f96-97a6-3cf4550679b7.jpg"
   },
   {
    "id": "fa3c24af-fea0-4d44-b8da-131c69646bb1",
@@ -43,7 +45,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4562ae44-d7e5-4593-8349-f080fde1f4af.jpg"
   },
   {
    "id": "ec19b836-df48-43ba-b62f-0864d801a1ca",
@@ -54,7 +57,8 @@
    "score": 0.4470504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6e707f8-fe35-42a7-ab09-3fec2d6bd014.jpg"
   },
   {
    "id": "fbf95c63-dc64-4518-9ed8-362805165fd6",
@@ -70,7 +74,8 @@
     "fr",
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "1ea0f3ca-af53-4ca2-98c2-145b094213cf.jpg"
   },
   {
    "id": "77a51837-c2d0-479d-9de8-25942b404d4f",
@@ -81,7 +86,8 @@
    "score": 0.43346852,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "01c932b6-b45a-44ac-bd22-dbea6e005404.jpg"
   },
   {
    "id": "fe0ca912-db5a-4073-a8b6-e303a1d30459",
@@ -95,7 +101,8 @@
     "tr",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "a1af9473-b786-47d4-bd93-9e6bb6ca727e.jpg"
   },
   {
    "id": "062f098a-88bb-48f4-b022-3b7afa87bc47",
@@ -107,7 +114,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "f4effef6-fb36-48ab-ba07-5864ff4d4acf.jpg"
   },
   {
    "id": "d68ceffd-ac56-45db-9129-3413dd0d7063",
@@ -119,7 +127,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7c6ea9a0-3373-47a7-881e-cd26b588c0a6.jpg"
   },
   {
    "id": "381f7cdf-8eae-4b2c-a8ca-f4298407b6c2",
@@ -133,7 +142,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "c1fa899f-bde3-40f3-bc15-d3abe7efab51.jpg"
   },
   {
    "id": "645514e1-45d4-4a2f-a989-cead86ae8fd1",
@@ -149,7 +159,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "b570c615-b01e-4b3e-b18b-5bb2c4da1092.jpg"
   },
   {
    "id": "4fb1e3b5-2324-4550-a22f-3a1a9e314fae",
@@ -164,8 +175,10 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c7f72369-dda4-4414-ba1a-0c820d561352.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:15+00:00"
+ "updatedAt": "2021-07-18T06:42:15+00:00",
+ "coverFileName": "628482a3-42d1-4466-8fd0-cc95f79ae31f.jpg"
 }

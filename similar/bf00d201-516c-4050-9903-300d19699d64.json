@@ -16,7 +16,8 @@
     "hu",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5502f532-d5a6-4c0b-a1fc-387259be0654.jpg"
   },
   {
    "id": "bf3932ba-260c-4d91-a1a5-6343809b3d7e",
@@ -27,7 +28,8 @@
    "score": 0.3945637,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "49a4643c-7892-4ed6-a470-3c359f00ac0d.jpg"
   },
   {
    "id": "13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9",
@@ -40,7 +42,8 @@
     "uk",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6919c1f6-f135-4a46-bfa4-3c649e2161df.png"
   },
   {
    "id": "5211a6d5-38ed-43cf-ba00-afa0a0549087",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "0c14c2f0-5e1e-40fd-b515-25833bdb19ba.png"
   },
   {
    "id": "b1b91829-0830-4f14-af40-f41de3db4cfc",
@@ -63,7 +67,8 @@
    "score": 0.37859374,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9eccf22e-0364-4e7d-9451-d53763e4312c.jpg"
   },
   {
    "id": "7821e27b-e5fc-432f-b433-d74715c10c76",
@@ -75,7 +80,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "2b3c971d-8ece-424e-9aca-764f5973f62e.jpg"
   },
   {
    "id": "abc0cd00-6672-4ed9-9139-274701536fca",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "7f3e5094-fe39-4680-a155-25adc7ee28be.jpg"
   },
   {
    "id": "8ab66599-1cd9-4ed9-ad40-bc8c1857042a",
@@ -98,29 +105,32 @@
    "score": 0.37163168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69e8ed43-9ac8-4547-b0d6-eb918c7d2eb9.jpg"
   },
   {
    "id": "d6601215-1cab-46d3-b493-9c5fcd9efb2f",
    "title": {
-    "en": "White \u0026 Black"
+    "en": "White & Black"
    },
    "contentRating": "safe",
    "score": 0.37117535,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "464f31c5-9341-482c-ab54-992e2e3637a0.jpg"
   },
   {
    "id": "890518a8-1890-4346-8076-9ddeb0cfb3bb",
    "title": {
-    "en": "Akuma★Game"
+    "en": "Akuma\u2605Game"
    },
    "contentRating": "safe",
    "score": 0.36529502,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e449a46-b19c-40af-b600-b9b9fce3067e.jpg"
   },
   {
    "id": "c83a0d46-6fe5-45bf-8345-93c6869a9436",
@@ -131,7 +141,8 @@
    "score": 0.36529502,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31505002-bb74-4ef1-a2b1-b15b7b916fcb.jpg"
   },
   {
    "id": "fc6e4ca2-6b93-48d8-a757-8d442fd92959",
@@ -144,8 +155,10 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8b135a77-d106-4db4-ad37-582d0f7d458f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:55+00:00"
+ "updatedAt": "2021-07-18T06:59:55+00:00",
+ "coverFileName": "ac588090-8c5b-4c22-adf3-6a181c639ca6.jpg"
 }

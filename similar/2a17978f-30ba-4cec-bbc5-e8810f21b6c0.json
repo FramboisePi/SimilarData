@@ -1,7 +1,7 @@
 {
  "id": "2a17978f-30ba-4cec-bbc5-e8810f21b6c0",
  "title": {
-  "en": "Galge no Sekai de Shinyuu ♂ ga Ore o Sukida to Iidashite!?"
+  "en": "Galge no Sekai de Shinyuu \u2642 ga Ore o Sukida to Iidashite!?"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.9083526,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff1d5706-7ed0-4ace-849b-86c6265a2d43.jpg"
   },
   {
    "id": "6ee7edc1-d8e3-4b3d-b495-e8265979c30d",
@@ -25,7 +26,8 @@
    "score": 0.8679764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "643029c3-654f-4a47-94aa-17ee7b1fa3d6.png"
   },
   {
    "id": "ad9fbc52-b21c-4be0-8a04-9927d356d256",
@@ -37,7 +39,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "85794621-66d0-4f4c-8842-415de1e32eea.jpg"
   },
   {
    "id": "b8d56c14-562d-445f-bff8-4a56924a08f1",
@@ -48,18 +51,20 @@
    "score": 0.42218313,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "069d441b-814d-43a9-bec7-b963ffdf3d6d.jpg"
   },
   {
    "id": "5b0eb606-f38f-40cc-b6dc-8e481f19db2d",
    "title": {
-    "en": "I ♂ Tripped into an Otome Game"
+    "en": "I \u2642 Tripped into an Otome Game"
    },
    "contentRating": "safe",
    "score": 0.4091461,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ecfdef63-d9b6-4b63-a33a-1017b669287e.jpg"
   },
   {
    "id": "8b0da767-1762-4d35-b094-d61f1035b572",
@@ -70,7 +75,8 @@
    "score": 0.38934296,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "88ed2185-852f-4c76-a10a-b5972a1f98f5.jpg"
   },
   {
    "id": "afb21d8a-06cd-4df3-a3ec-3f8086a87134",
@@ -81,7 +87,8 @@
    "score": 0.3812524,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b74cfd0-1db3-4c8c-87a6-bfa4ffa16fc2.jpg"
   },
   {
    "id": "0dce2b44-f78a-4b7a-bf90-78534fc4625e",
@@ -92,7 +99,8 @@
    "score": 0.37314218,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c29f3ee0-1e71-4533-907e-a08f1eb63d1b.jpg"
   },
   {
    "id": "e535be75-ca03-4207-84d8-381c2de9246c",
@@ -105,7 +113,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "91747367-30a2-489f-b268-845ac0d41b40.jpg"
   },
   {
    "id": "7bde2cb4-4dc9-4dc3-9e49-e931225cf091",
@@ -118,7 +127,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "29815108-f958-4018-8958-f287c868c4e7.jpg"
   },
   {
    "id": "7f5b524e-9464-46f0-919b-2521ec499335",
@@ -129,7 +139,8 @@
    "score": 0.36533403,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae4babe8-62e4-48d4-bbc5-34b249ad6766.jpg"
   },
   {
    "id": "75094878-1321-4277-b486-c9383f6dfb85",
@@ -140,8 +151,10 @@
    "score": 0.36456674,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8bb6a98-d7c5-44db-b48b-3b64c0528680.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:20+00:00"
+ "updatedAt": "2021-07-18T06:32:20+00:00",
+ "coverFileName": "6286795a-8e54-44c4-b16b-5c506fe076dc.jpg"
 }

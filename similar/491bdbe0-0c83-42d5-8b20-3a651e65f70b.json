@@ -16,7 +16,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6c33f369-b546-46b4-8200-bcb9e6e0ae0e.png"
   },
   {
    "id": "9bf2768a-0d27-48ee-b4e9-efba19a3fbf1",
@@ -27,7 +28,8 @@
    "score": 0.43476033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "70c92965-533b-467b-b544-cfd07c4dce61.png"
   },
   {
    "id": "01e1c180-7fb3-4715-999c-5f197bd27a8c",
@@ -39,7 +41,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "9437193d-fd19-480c-9041-e11ffbe661df.jpg"
   },
   {
    "id": "42093ce6-b64b-43da-91c6-b1e0eaaae0ff",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "2032e041-cacc-480b-8e09-73d50df2500d.jpg"
   },
   {
    "id": "71a1c9e4-9894-4199-93d8-69773b120b68",
@@ -62,7 +66,8 @@
    "score": 0.39312828,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8237244c-257b-4c37-85a1-74c57fcc47dc.jpg"
   },
   {
    "id": "bcf501ce-c96d-4d38-a0af-d2010624694b",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "db32e7ce-a569-4e3b-af1f-e736a9a4069d.jpg"
   },
   {
    "id": "162ebd58-0b43-4d95-9b3a-da6ff4e34edd",
@@ -86,7 +92,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "8eb92b68-bf87-4262-af77-56b574092ab3.png"
   },
   {
    "id": "13e9bb3a-757b-4064-9291-94feecfa8c4d",
@@ -100,7 +107,8 @@
     "id",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "af91b671-dedc-41d4-b0fd-397f4242b917.jpg"
   },
   {
    "id": "270e95b1-6b6f-4a19-9030-9ba9d4626088",
@@ -111,19 +119,21 @@
    "score": 0.36843625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab382561-771a-4d9c-8eec-b092353a1d9a.jpg"
   },
   {
    "id": "4e1ab66d-5377-4fd7-a197-a07b74591fa1",
    "title": {
-    "en": "Love Live! Comic Anthology µ's Sweet Memories"
+    "en": "Love Live! Comic Anthology \u00b5's Sweet Memories"
    },
    "contentRating": "safe",
    "score": 0.36333302,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "73831aad-2e16-4a19-974a-686803470250.jpg"
   },
   {
    "id": "32d0b857-24b2-4c3b-8dc6-aa6d0739aa79",
@@ -136,7 +146,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "66e53651-8560-4702-80d5-bd5e4741aaa5.jpg"
   },
   {
    "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
@@ -153,8 +164,10 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "23175562-866e-45a4-827f-540bf82a9d9c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:05+00:00"
+ "updatedAt": "2021-07-18T06:38:05+00:00",
+ "coverFileName": "daddc1eb-45d2-4449-bdc1-88708ee8d527.jpg"
 }

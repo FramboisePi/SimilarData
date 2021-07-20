@@ -1,7 +1,7 @@
 {
  "id": "ab468776-27a5-456d-8f58-e058059531c9",
  "title": {
-  "en": "“It’s Too Precious and Hard to Read!!” 4P Short Stories"
+  "en": "\u201cIt\u2019s Too Precious and Hard to Read!!\u201d 4P Short Stories"
  },
  "contentRating": "safe",
  "matches": [
@@ -20,7 +20,8 @@
     "it",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "31616f14-95a8-41e5-bf42-0292087c4158.jpg"
   },
   {
    "id": "578f47b3-348b-48d8-9342-4718828a48c4",
@@ -33,7 +34,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "e965cbef-5958-46f0-beeb-40f2899575d7.jpg"
   },
   {
    "id": "356dfa2b-05e3-45c2-91d6-eb02da8907c6",
@@ -44,7 +46,8 @@
    "score": 0.52897024,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ccbe839e-ac1b-4d41-85f1-da2a07e31736.jpg"
   },
   {
    "id": "5aaf631d-627b-4c9f-8d62-eceb931ef67c",
@@ -55,7 +58,8 @@
    "score": 0.49574628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3f6e33a8-1574-4338-83c4-922e0b9c784b.jpg"
   },
   {
    "id": "a3d77995-faf8-44f6-87cc-22746f6872fe",
@@ -67,7 +71,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b3c17f56-bd61-45c3-8c5e-4615f152d11c.jpg"
   },
   {
    "id": "a4ce9279-0228-41eb-890a-c57380f52fbe",
@@ -80,7 +85,8 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "7cb12527-71d3-40b0-aefc-6cef49ccf104.jpg"
   },
   {
    "id": "7d48dc46-c77b-4da3-b029-b0ec94153f00",
@@ -92,7 +98,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "58b1a1b1-8822-492d-a015-6d4734644c8d.jpg"
   },
   {
    "id": "d43d5010-3171-4ba1-a41f-709d71cd938a",
@@ -104,7 +111,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "293ca03a-3a51-474f-b568-e7582720f864.jpg"
   },
   {
    "id": "8a256cd0-ef2c-42bf-8fbb-b599e1a5b2ed",
@@ -115,7 +123,8 @@
    "score": 0.4379106,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "564d0cb4-9a6c-499f-80dc-e0736886829a.jpg"
   },
   {
    "id": "c93298c7-dbfd-4d60-b742-42b432f0243a",
@@ -127,7 +136,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3d8ddc08-1b71-4a6d-a9a1-bc93e689a299.jpg"
   },
   {
    "id": "2d282b5e-599d-4915-83ba-42b69c42954b",
@@ -141,7 +151,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "e6f140d7-b620-4132-8e4d-cc20ec63dc01.png"
   },
   {
    "id": "3a723ca7-05be-4b00-a92c-5685288caa9b",
@@ -154,8 +165,10 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ab78c53f-f9b1-46a5-b61d-13bdfcc89419.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:17+00:00"
+ "updatedAt": "2021-07-18T06:56:17+00:00",
+ "coverFileName": "4a18ccf6-3038-4fcb-a44d-598d1c4bc7b3.jpg"
 }

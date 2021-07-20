@@ -14,7 +14,8 @@
    "score": 0.5754179,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe19cc62-947a-4a2f-9514-49f8953ff8e9.jpg"
   },
   {
    "id": "8fa4d0ee-562f-4e6e-af96-a62c99de5478",
@@ -28,7 +29,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "07b21eef-36db-4a93-88d0-f29c40d0364d.jpg"
   },
   {
    "id": "8b550e44-f59e-464e-a298-aeb200bfb560",
@@ -41,7 +43,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "280d1e55-1234-4a38-b938-d8ed204ac5ac.png"
   },
   {
    "id": "2508b0a0-e91f-4b93-9671-5467dd804302",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ceda5abe-a3b6-4c40-a854-e6888fda6f20.jpg"
   },
   {
    "id": "697b62e7-c8d1-4087-a914-bdb2f2b3bd6e",
@@ -64,7 +68,8 @@
    "score": 0.3856555,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9f99ad44-2015-4c23-83c9-1b218ea5147b.jpg"
   },
   {
    "id": "e9858c9c-e57d-411a-9155-cb0ca4982fd8",
@@ -76,7 +81,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "f179c866-5085-4e53-b759-049f66015452.png"
   },
   {
    "id": "4ec3fe20-f21a-4c6c-b76b-f94abbc62e8b",
@@ -88,7 +94,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "c97f0ec2-d3ef-4223-b7b4-09791e9d0102.jpg"
   },
   {
    "id": "fb983259-a877-440e-a468-58446cf6a2cf",
@@ -99,7 +106,8 @@
    "score": 0.3782682,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d118a65b-a77d-4418-bc1c-4bb97e568646.jpg"
   },
   {
    "id": "6fe9349a-8eeb-42cf-bead-e6f40b2653de",
@@ -110,7 +118,8 @@
    "score": 0.37785354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe89ab4d-2b7d-4f24-b6a0-6fbaf3de3050.jpg"
   },
   {
    "id": "e499ff53-68d3-4c1a-8dbf-3cea42fca501",
@@ -128,19 +137,21 @@
     "it",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "3d8ed27b-e38a-4cc3-aa3a-54e13af1f60d.jpg"
   },
   {
    "id": "928a9445-3211-41ab-a53d-922fcdae4366",
    "title": {
-    "en": "Fairy’s Armament"
+    "en": "Fairy\u2019s Armament"
    },
    "contentRating": "safe",
    "score": 0.37123105,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "55c43cfa-abc7-4d5c-881a-70b1115071ec.jpg"
   },
   {
    "id": "9e4ab6ae-f730-4ce2-a528-97986beb8549",
@@ -153,8 +164,10 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cca3a586-ea05-497c-b899-966bbde92c36.png"
   }
  ],
- "updatedAt": "2021-07-18T06:29:05+00:00"
+ "updatedAt": "2021-07-18T06:29:05+00:00",
+ "coverFileName": "fc528521-df9f-4d03-b46b-7b82bacd8627.jpg"
 }

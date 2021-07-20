@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ced7fda8-d392-4234-8105-e55b0bb3a4d0.jpg"
   },
   {
    "id": "2fc07ee2-7f4d-4359-ac19-e31102f7bc68",
@@ -29,7 +30,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "de99568b-490b-4feb-b6a3-48155f0b083c.jpg"
   },
   {
    "id": "5e803167-8f82-484f-be40-016fff057520",
@@ -41,12 +43,13 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "eb6aca50-5d28-4bb5-93fe-749a73e348ec.jpg"
   },
   {
    "id": "2f00f00d-1b13-41f0-8680-ec04c92a2633",
    "title": {
-    "en": "I’m Looking for the Princess"
+    "en": "I\u2019m Looking for the Princess"
    },
    "contentRating": "safe",
    "score": 0.4667922,
@@ -54,7 +57,8 @@
     "pl",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c0e0d433-aad6-4d4c-ae06-3bdbeb03f7e7.jpg"
   },
   {
    "id": "54850b13-2084-4d60-9e6b-22245350b617",
@@ -66,7 +70,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b1358a11-56b8-4579-84a0-a644ff358189.jpg"
   },
   {
    "id": "6cc14b57-500e-42ff-9753-3f02ac0cf9b4",
@@ -77,7 +82,8 @@
    "score": 0.44739318,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "15a3b5e0-6167-4f14-8ae9-33f30108f1fa.jpg"
   },
   {
    "id": "283c8548-55d3-4fed-90cc-75e8c05e2fab",
@@ -90,7 +96,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ea939fdc-946d-44d1-a2e1-e01f18543c30.jpg"
   },
   {
    "id": "f5106114-30a0-4981-9e9b-f62bdcc15cea",
@@ -102,7 +109,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "1be7fc23-26bd-4cb1-b2c4-08ebd8f5ef49.png"
   },
   {
    "id": "269d6958-05fc-4a3c-bd7a-b7cbfae693f6",
@@ -114,7 +122,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "c8dc69e7-2b82-4386-ac3b-58079ec806c5.png"
   },
   {
    "id": "73b876fc-3a85-49b2-8b88-8ad87c699f25",
@@ -125,7 +134,8 @@
    "score": 0.44315934,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdd47e81-c5da-496e-82cb-a60a9169ffdc.jpg"
   },
   {
    "id": "5ea59fc9-b13d-4e5a-8cf9-daf4d3160e4c",
@@ -137,7 +147,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "9789f2da-09ed-4c95-b506-6c4612f09fc8.jpg"
   },
   {
    "id": "1f123a74-64d7-4a0d-9c65-5dba1ddbc9a8",
@@ -148,8 +159,10 @@
    "score": 0.4390133,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "861051f3-9ca3-47c1-ac80-f07664f1e962.png"
   }
  ],
- "updatedAt": "2021-07-18T06:44:59+00:00"
+ "updatedAt": "2021-07-18T06:44:59+00:00",
+ "coverFileName": "b772791c-0935-48dd-a260-41ec3e34b717.jpg"
 }

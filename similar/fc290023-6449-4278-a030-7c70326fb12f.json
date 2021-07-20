@@ -16,7 +16,8 @@
     "es-la",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "08ac8fe9-a9bc-4816-aadb-64f655fcaabb.jpg"
   },
   {
    "id": "313a75c4-2432-46bb-99eb-c080d8dd0010",
@@ -31,7 +32,8 @@
     "es-la",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2bec57c0-bcd2-4689-8315-06826f674f4e.jpg"
   },
   {
    "id": "b9ec8d51-f28e-481b-944e-af128aae42d2",
@@ -44,7 +46,8 @@
     "en",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "1ac86b38-4dcd-4567-a50c-6e550a0ff285.jpg"
   },
   {
    "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
@@ -58,18 +61,20 @@
     "vi",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a06f8a72-c1c3-4911-a108-23ad60c328a7.jpg"
   },
   {
    "id": "364eed6a-fc06-49aa-a759-784bd61c3435",
    "title": {
-    "en": "Carole \u0026 Tuesday"
+    "en": "Carole & Tuesday"
    },
    "contentRating": "safe",
    "score": 0.31028682,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "37f3d7fd-ee4f-47e9-95e1-77416f98df5c.jpg"
   },
   {
    "id": "20e1a522-4623-4d7f-a561-7207ceb4143e",
@@ -80,7 +85,8 @@
    "score": 0.30983287,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "fb0225f5-2725-4142-a7ee-b63345a75de1.jpg"
   },
   {
    "id": "1c9e393b-8104-479b-ac1e-bce87d7383d3",
@@ -92,7 +98,8 @@
    "languages": [
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "22748456-315f-4b12-af07-814d6694a36b.jpg"
   },
   {
    "id": "35561235-27de-48a9-89d2-5aa2161f676f",
@@ -103,19 +110,21 @@
    "score": 0.3,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "263ae585-d8d2-4c34-a80f-aec54dd22ee5.jpg"
   },
   {
    "id": "1a5e7c73-e707-4e4b-879e-a3da39ab2e6d",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - [Majuu Hen]"
+    "en": "Mahou Shoujo Madoka\u2605Magica - [Majuu Hen]"
    },
    "contentRating": "safe",
    "score": 0.3,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4987c4a3-9cd2-4332-82cb-42e5d94ab03c.jpg"
   },
   {
    "id": "83acc901-c42e-4468-a6dd-f5d8b9d48567",
@@ -128,7 +137,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2e540010-be80-4615-a492-ab733aece7b2.jpg"
   },
   {
    "id": "d7a3d410-3b96-477a-912b-d2476477f5b5",
@@ -140,7 +150,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "49816115-69af-4e0c-ae7e-08beaaaee13b.jpg"
   },
   {
    "id": "9dd9c852-8b01-4fc3-9d24-3404da2f50bc",
@@ -152,8 +163,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "09c98d9b-7046-4337-a61f-b1cdd2eb4dd5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:05+00:00"
+ "updatedAt": "2021-07-18T07:11:05+00:00",
+ "coverFileName": "13011e7b-21f2-4010-8d1c-40cb748431df.jpg"
 }

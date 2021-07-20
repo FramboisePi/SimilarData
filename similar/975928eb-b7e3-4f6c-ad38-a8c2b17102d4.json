@@ -14,7 +14,8 @@
    "score": 0.33643678,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff648a3f-acf6-4c13-90fd-0668e649486b.jpg"
   },
   {
    "id": "3e11670e-1e34-4d67-8dea-a40ee6b73c6c",
@@ -27,7 +28,8 @@
     "pl",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "b147a33d-b627-4650-b196-9238a5c33637.jpg"
   },
   {
    "id": "08ea21d7-0a1d-43c8-939a-019967408f69",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "9b9a3619-f8cd-4bb0-8521-673a2eda7123.jpg"
   },
   {
    "id": "863ed97e-045a-4df0-8831-769fb26379ce",
@@ -51,7 +54,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f3e21ef8-44c9-4386-a732-7969b959682b.jpg"
   },
   {
    "id": "ec514ef4-fb77-43b9-b9b4-528229de1308",
@@ -69,7 +73,8 @@
     "ar",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8f378882-20e4-4715-b65c-5a1985226041.jpg"
   },
   {
    "id": "aeccf180-8e12-4dc9-90a5-d9b5898e9933",
@@ -81,7 +86,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "482412f3-e937-431c-bc28-298e27936007.jpg"
   },
   {
    "id": "5cef8d7b-4e31-4b88-93c2-0c381aa32411",
@@ -92,12 +98,13 @@
    "score": 0.29781327,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "64783a32-c77b-4001-8d28-fac5f10822e6.jpg"
   },
   {
    "id": "9ba697ca-fc8a-4c74-9e14-a48c6e911753",
    "title": {
-    "en": "Grimm \u0026 Gritty"
+    "en": "Grimm & Gritty"
    },
    "contentRating": "suggestive",
    "score": 0.29430255,
@@ -105,7 +112,8 @@
     "es",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "067f6e57-47f0-4664-9942-9ee7d6f3de8d.jpg"
   },
   {
    "id": "7fa3acf5-acc2-4cb0-954f-02678b47f731",
@@ -118,7 +126,8 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "03c0cc8f-5194-4e35-8320-335f3ff93f51.png"
   },
   {
    "id": "8589d1a7-01a3-469e-a1ae-8a682f8c987a",
@@ -130,7 +139,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "d7dd7093-59d8-4aef-bc20-f369d3aa9ff5.jpg"
   },
   {
    "id": "d8d2b98b-184c-4767-b738-7739f38c18ab",
@@ -141,7 +151,8 @@
    "score": 0.28417474,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32634730-4310-4708-b56f-8c680a3bed30.jpg"
   },
   {
    "id": "b6507dcb-d981-4a55-a4a5-bea32e9f10e4",
@@ -152,8 +163,10 @@
    "score": 0.28023148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48bb5828-c007-4211-831f-3e5c8a4404d0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:40+00:00"
+ "updatedAt": "2021-07-18T06:52:40+00:00",
+ "coverFileName": "19c206a2-906a-4bf9-b12f-62f0e7b0cb1a.jpg"
 }

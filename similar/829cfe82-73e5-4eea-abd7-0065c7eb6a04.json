@@ -14,7 +14,8 @@
    "score": 0.36,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e885243-2c39-4fcd-b22e-42b6422b6f4c.jpg"
   },
   {
    "id": "a494a27a-119f-4c89-8787-ed93d640144d",
@@ -26,7 +27,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "d03f0308-f99d-4156-ac3b-6f327f5b9cc4.jpg"
   },
   {
    "id": "1806aef6-ee6b-4e76-926e-afc5efb288e6",
@@ -39,7 +41,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9c6e3c60-bbc8-429e-bbe8-a3f57f9da2cf.jpg"
   },
   {
    "id": "fe7f3f02-3758-4380-8411-cbb9cd121ba3",
@@ -51,7 +54,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ed156565-874e-4545-b195-93b33be56720.jpg"
   },
   {
    "id": "9fdcba2a-fa31-41e5-a1f0-6db9d02a2ddf",
@@ -62,7 +66,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "42f28ca0-96a7-4929-9a72-483bdcbe6017.jpg"
   },
   {
    "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
@@ -73,7 +78,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec81ebc9-ec3f-401f-b9fa-b681ff44c798.jpg"
   },
   {
    "id": "a7bad70b-e8f1-42f7-8eee-0363e41deeef",
@@ -88,7 +94,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "3f6dbeb3-e0c3-4aeb-aaef-4e418729d6df.jpg"
   },
   {
    "id": "a5e920a7-81c3-4703-bdb7-c8d0b24920b1",
@@ -99,7 +106,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c067a38b-146e-48b9-88e9-f4ee544d3221.jpg"
   },
   {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
@@ -113,7 +121,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
   },
   {
    "id": "2eae6543-1d3c-4d3e-938f-6b499fd8ee0e",
@@ -124,7 +133,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9d556da4-1ff6-4ec4-a50b-f1eabe9adb61.jpg"
   },
   {
    "id": "f31cae03-d1ee-4f38-bd9e-45f910775ca4",
@@ -135,20 +145,23 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff6e8201-d8e8-41ae-a635-f4d5d8e16a75.png"
   },
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.3485685,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   }
  ],
- "updatedAt": "2021-07-18T06:48:42+00:00"
+ "updatedAt": "2021-07-18T06:48:42+00:00",
+ "coverFileName": "2d41b5bd-5f5e-493f-b21f-fb19810866c4.png"
 }

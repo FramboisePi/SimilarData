@@ -8,13 +8,14 @@
   {
    "id": "3f7b78b3-d0fe-4bf6-a689-d8173cea6f9b",
    "title": {
-    "en": "Brother \u0026 Brother"
+    "en": "Brother & Brother"
    },
    "contentRating": "safe",
    "score": 0.43915766,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0b57b50-cfc8-4df0-9e0e-8780e1931704.jpg"
   },
   {
    "id": "344e5ef5-7b0a-43ce-8a85-46f6879b6e91",
@@ -25,7 +26,8 @@
    "score": 0.4286345,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf4710c4-b7bd-4c1a-a865-490b72a7719d.jpg"
   },
   {
    "id": "75206ead-9209-4908-8fee-5f2adc649005",
@@ -36,7 +38,8 @@
    "score": 0.42520073,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b3f21e94-38fb-46f5-b7e9-74a1f65107c4.jpg"
   },
   {
    "id": "df7a0fb0-bb37-4be5-8ef7-bab443b88f65",
@@ -47,7 +50,8 @@
    "score": 0.42146242,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "313805f2-7bda-4a2a-95ca-db5bcd09a989.jpg"
   },
   {
    "id": "314809c6-589d-452d-a8d7-e4bf768067fd",
@@ -58,7 +62,8 @@
    "score": 0.4187892,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "144c5844-0c12-4ef5-a5f3-1753cf68d386.jpg"
   },
   {
    "id": "68edfdab-8b24-4418-b19f-027bd0165a89",
@@ -69,7 +74,8 @@
    "score": 0.41858283,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d534a461-53b9-4e46-8355-d68a2b7dcc83.jpg"
   },
   {
    "id": "2d1cbf95-d511-4a51-a8a8-87d7a431671e",
@@ -81,7 +87,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "d213131c-2931-42b0-831a-b131255f2d73.jpg"
   },
   {
    "id": "bcde7d65-86fc-4ed6-94d9-57c8c39d4286",
@@ -92,7 +99,8 @@
    "score": 0.4170102,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e88d17fe-31a8-4ea0-b2ee-639ccd5fc286.jpg"
   },
   {
    "id": "0520352d-fa83-4846-a034-54c8a44704de",
@@ -103,7 +111,8 @@
    "score": 0.415834,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5439d65e-d476-4de2-b36e-c7e061697dbe.jpg"
   },
   {
    "id": "7a8ef4b5-d592-4f87-b311-4f14bbdd1c9f",
@@ -114,7 +123,8 @@
    "score": 0.41579568,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43011918-7231-431a-85f6-c06b0a7a055c.jpg"
   },
   {
    "id": "38efab33-352e-4275-a46f-a11b16ff6776",
@@ -126,7 +136,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9220a527-3c6a-48de-9b58-0da4f1a83f4b.jpg"
   },
   {
    "id": "79ce03c3-daca-418f-b4f1-3cf127df6e2f",
@@ -139,8 +150,10 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "d562d591-0501-4823-8e21-eb4f8b83ec6f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:31+00:00"
+ "updatedAt": "2021-07-18T07:11:31+00:00",
+ "coverFileName": "f68d1e01-5561-4a8c-8999-879272e45b80.jpg"
 }

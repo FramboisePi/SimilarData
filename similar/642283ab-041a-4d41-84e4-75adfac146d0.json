@@ -17,7 +17,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "9fcdfb5d-33f2-48e7-96cf-55e3ee9afe72.jpg"
   },
   {
    "id": "356a389d-6a14-4c33-ba66-bdecdbed0458",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "9650aaca-42a2-4ec8-90d1-17d21d550cf3.jpg"
   },
   {
    "id": "c338da62-8241-4eec-9f5b-e6370520fbc0",
@@ -42,7 +44,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "22548686-e0ef-41ba-a2f7-65c8a882681a.jpg"
   },
   {
    "id": "f8f28e32-a130-4d09-ba02-d27ab91a17b3",
@@ -54,7 +57,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "29d0feb9-90c2-4739-8f13-494d2fe08977.png"
   },
   {
    "id": "0be7131f-ff71-4b2a-9412-aabf47cc5a36",
@@ -65,18 +69,20 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f8ca635-dc95-49b7-8bbf-f0d01bee7c7e.jpg"
   },
   {
    "id": "1ef7e6e3-cf07-4862-abad-b9960c30807e",
    "title": {
-    "en": "H₂O - Footprints in the Sand"
+    "en": "H\u2082O - Footprints in the Sand"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4194f5c-91af-42e4-94a2-7374c4a55517.jpg"
   },
   {
    "id": "61cb55bb-03e1-4496-9bd4-460c2c7143b4",
@@ -90,7 +96,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "9ec61c1f-1826-416f-8489-f37eb9689ec4.jpg"
   },
   {
    "id": "d1a04156-400d-4032-b885-007c29a8a3c0",
@@ -104,7 +111,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "49a5f61c-66af-4f66-8b5b-50ba66389e79.jpg"
   },
   {
    "id": "b06e3213-de46-41d8-bcea-cea6830af20f",
@@ -117,7 +125,8 @@
     "vi",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "aab9663c-f420-4434-b39f-09217a032720.jpg"
   },
   {
    "id": "2c9365e9-f5ab-48e9-b655-37df857f132f",
@@ -129,7 +138,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "36aff516-703a-468a-938c-edc9c8e19594.jpg"
   },
   {
    "id": "817057d3-27df-43ec-8ef3-ee7c2ba0b45d",
@@ -142,7 +152,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c85d728e-5c05-4ebb-84d2-2f4115f36478.png"
   },
   {
    "id": "66c4539a-a581-479b-a00d-e1c8ec6c69e3",
@@ -155,8 +166,10 @@
     "en",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "1f2c5634-338c-4f5f-ba68-573d15f23043.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:04+00:00"
+ "updatedAt": "2021-07-18T06:43:04+00:00",
+ "coverFileName": "0292f36b-a2be-48e1-b78a-f323e436877f.jpg"
 }

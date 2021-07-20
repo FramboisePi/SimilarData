@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "45d12b64-a292-4d85-8b4c-a704fa3fe281.jpg"
   },
   {
    "id": "bdf777c3-64ba-47ff-b936-7d4aad8ccdf8",
@@ -26,7 +27,8 @@
    "score": 0.44028637,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9bd7ddc-6807-4ad2-8a0e-88905e8a2ecd.png"
   },
   {
    "id": "e1102c82-3879-4fb4-b7bf-140cdcad11d5",
@@ -40,7 +42,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6ba64ca5-2d5d-4701-a391-e2be23d0adc8.jpg"
   },
   {
    "id": "df146fc5-6780-431c-b695-78e93bd2982f",
@@ -54,19 +57,21 @@
     "pt-br",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "c1e2a51e-e56a-4a5c-8015-a15d4871d424.jpg"
   },
   {
    "id": "5b2b9db9-3f12-446c-afa1-3e4c909efea9",
    "title": {
-    "en": "Shuukatsu!! – Kimi ni Naitei"
+    "en": "Shuukatsu!! \u2013 Kimi ni Naitei"
    },
    "contentRating": "safe",
    "score": 0.42914817,
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "96de5488-cbe9-4810-90ee-164b37da0bfc.jpg"
   },
   {
    "id": "0ef0a945-fed5-45eb-a655-703cdac9057e",
@@ -77,7 +82,8 @@
    "score": 0.4210321,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2827b73f-b005-4d77-9cd2-a848aa6e5db8.jpg"
   },
   {
    "id": "5c0bad9b-7777-4725-9367-bb41287b1365",
@@ -88,7 +94,8 @@
    "score": 0.40974936,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69d66a35-befc-4a70-8ebe-d5dc9323098b.png"
   },
   {
    "id": "c994ae64-8cf9-45fd-8375-43b4d8e218b0",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "fabc59ff-dd7c-4161-b9dd-c35169a298fa.jpg"
   },
   {
    "id": "fa28e1dc-a886-49aa-9c32-f0d76221bd85",
@@ -111,7 +119,8 @@
    "score": 0.4064355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "032b707d-df58-4027-b0de-64f289c0d45d.png"
   },
   {
    "id": "c982a600-a93a-46a8-9d7a-df99e33cb2e8",
@@ -122,7 +131,8 @@
    "score": 0.40464577,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ea47c52-6e7b-487f-8e8a-bd8f74d41237.jpg"
   },
   {
    "id": "77135fc1-0bb2-4d3c-8b7c-fd1c4ba944e4",
@@ -133,7 +143,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5dcc9652-90cc-46d6-83a2-54e29cdc67be.jpg"
   },
   {
    "id": "46d54617-78ac-4ce6-9668-4c1a765cf357",
@@ -144,8 +155,10 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bb178a7-d02c-4a25-904a-aba584311ac4.png"
   }
  ],
- "updatedAt": "2021-07-18T06:35:50+00:00"
+ "updatedAt": "2021-07-18T06:35:50+00:00",
+ "coverFileName": "82b74d51-b0b0-4092-a865-b07475c977e7.jpg"
 }

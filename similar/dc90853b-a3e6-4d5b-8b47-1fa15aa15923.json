@@ -14,7 +14,8 @@
    "score": 0.52028126,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3d6417b-9a04-4322-8201-5240110124a0.jpg"
   },
   {
    "id": "edebb0bf-ab03-4c85-9619-1373087b98f6",
@@ -26,7 +27,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cf6bd848-320f-43e9-8627-38938be2369d.jpg"
   },
   {
    "id": "6236e459-a437-43d9-a4fe-f5dca83b9416",
@@ -37,7 +39,8 @@
    "score": 0.46964565,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3351b526-1502-425f-a94a-8aa25992ddb9.jpg"
   },
   {
    "id": "7ee8027c-9904-47ac-9212-ae2501f56b4b",
@@ -48,7 +51,8 @@
    "score": 0.46711427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "420f7a6a-5237-4ae3-8fd4-ce8b6e2ec2d3.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -59,7 +63,8 @@
    "score": 0.46323234,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "a6e58c97-9968-4146-960c-ce10c82a139b",
@@ -70,7 +75,8 @@
    "score": 0.44782934,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "507208fd-1e78-4349-b02a-007087d4befb.jpg"
   },
   {
    "id": "ae963192-cf23-44d0-b11a-a93c1c6a08d8",
@@ -82,7 +88,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "0b6c61d7-8a79-4447-a10f-c93501c0d4c1.jpg"
   },
   {
    "id": "639e1bd7-a9a4-46ff-9713-63268497ce43",
@@ -95,7 +102,8 @@
     "tr",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "883d6d19-47e5-4d4b-9918-5f467b4018e1.jpg"
   },
   {
    "id": "f9bfc73a-d017-424c-92ed-bb79d67fa881",
@@ -110,7 +118,8 @@
     "es",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "ee5f36c6-dcd3-4476-89f9-83e1fc4bd85a.jpg"
   },
   {
    "id": "fb28d9e6-778b-4cfe-babe-6289c699b153",
@@ -124,12 +133,13 @@
     "vi",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "14b75d6b-c056-4719-95ff-69c790558cb0.jpg"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.4266781,
@@ -140,7 +150,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "b100cd89-688d-4ed2-821a-ba8a7947e1ff",
@@ -155,8 +166,10 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "362aefaa-08da-41ac-99fb-ef25307e6ed0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:21+00:00"
+ "updatedAt": "2021-07-18T07:05:21+00:00",
+ "coverFileName": "457d51ae-42c4-4bdc-b251-e10789cb8ebd.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "a636841c-6ee3-47a9-8372-e67f857a95b2",
  "title": {
-  "en": "A Snowman’s Gratitude"
+  "en": "A Snowman\u2019s Gratitude"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.3665448,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fd123fc-da00-48fa-a81e-8641e449dac4.jpg"
   },
   {
    "id": "81f7546e-c9a4-465d-9dbd-b0ce7fc327c0",
@@ -25,7 +26,8 @@
    "score": 0.36399457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1715df5-8b2d-4d08-a8e9-f1044d3bfc76.jpg"
   },
   {
    "id": "c26269c7-0f5d-4966-8cd5-b79acb86fb7a",
@@ -40,7 +42,8 @@
     "fr",
     "cs",
     "ru"
-   ]
+   ],
+   "coverFileName": "1748c6f2-b650-4450-88dd-278f55be6de8.jpg"
   },
   {
    "id": "c8dcfca4-874f-45e2-ba01-959ea0b6f141",
@@ -54,7 +57,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d85157ef-48b6-4767-8cca-571b8b9ad4a3.jpg"
   },
   {
    "id": "8878b189-90b1-4228-abf0-9c800224e598",
@@ -65,7 +69,8 @@
    "score": 0.3317893,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c5b634a9-c099-4ce7-8f0b-c432e9be7ad6.jpg"
   },
   {
    "id": "551c6469-4750-446d-b6b1-23c35c3cbc7c",
@@ -76,7 +81,8 @@
    "score": 0.32863972,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6cfe58bc-8cc6-4e4f-8724-cb20743f7e01.jpg"
   },
   {
    "id": "7e9f8bc7-72c7-4f7a-9ef8-ffda7b1a968c",
@@ -87,7 +93,8 @@
    "score": 0.31820098,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f19cc31-dc70-4993-9c6a-7a95d7195bb9.jpg"
   },
   {
    "id": "6cbaad21-4fbe-44eb-b690-837a49b610ad",
@@ -98,7 +105,8 @@
    "score": 0.31522852,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9bd235e-d902-4b38-bdd6-cf9a4957f8f0.jpg"
   },
   {
    "id": "d9f978bd-ecc7-4df7-ba56-de22fede8874",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "313f3337-e3e4-43c2-a73d-4c4ecbcdcb1c.png"
   },
   {
    "id": "cef6253d-6a55-4438-921c-46968b426f2f",
@@ -123,7 +132,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1861b291-ddd9-4972-b02b-3857bcdbe305.jpg"
   },
   {
    "id": "18ef1e92-f574-4c8c-99af-555e44ba418e",
@@ -140,7 +150,8 @@
     "vi",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "4a3696b4-e339-45c3-9f62-a6f8e10757e5.jpg"
   },
   {
    "id": "0b49a24b-e5a0-42bb-a5f1-c886f4321045",
@@ -152,8 +163,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ecb14a0a-c771-4b90-9677-961a5b8c2c5f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:21+00:00"
+ "updatedAt": "2021-07-18T06:55:21+00:00",
+ "coverFileName": "13fa397c-3882-49a6-94ea-812021c09994.jpg"
 }

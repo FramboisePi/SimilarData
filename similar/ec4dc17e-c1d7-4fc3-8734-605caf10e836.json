@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "8235f687-4c62-47be-ab8a-6ee71a89c3a5.jpg"
   },
   {
    "id": "17687de0-a810-413e-8433-6e3cfda5a636",
@@ -26,7 +27,8 @@
    "score": 0.4348906,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "03dfa931-7591-4a63-9f75-d2b5e24f40d8.jpg"
   },
   {
    "id": "b4dd9d36-65a2-400c-8466-2df0c949590e",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "bfa26419-9bec-4d36-a2b3-c2e186bee509.jpg"
   },
   {
    "id": "18d277e8-e76a-4af6-ad48-bc5fceaf53b7",
@@ -49,7 +52,8 @@
    "score": 0.418187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ad7418c-d4bc-46cf-9791-cf539ceccbdf.png"
   },
   {
    "id": "8e0da1d1-1018-47ca-a872-041f24876e2a",
@@ -64,7 +68,8 @@
     "id",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "408262af-e82e-4b53-81b2-645128e75e83.jpg"
   },
   {
    "id": "8a806d41-31f1-4660-b808-5be3ed08908e",
@@ -75,7 +80,8 @@
    "score": 0.4132766,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec2511a0-9894-4a5e-8184-d189c13b1bb1.jpg"
   },
   {
    "id": "248e9198-c381-43ce-a0de-ff489974b56d",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "4b4cd99b-8485-4bb6-91e8-6ae797c3acfa.jpg"
   },
   {
    "id": "cffdc4f4-0cd9-409b-b88c-62aaf2882e07",
@@ -101,7 +108,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bf79fae6-20eb-42bd-b139-809b835b8e72.jpg"
   },
   {
    "id": "c4626c98-3f5b-4389-a3c1-8f953b786ba0",
@@ -114,7 +122,8 @@
     "fr",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "79723d6f-5737-4136-8132-948db3e15252.jpg"
   },
   {
    "id": "6d0d13bd-d4f2-4826-9e65-df118e957e97",
@@ -125,12 +134,13 @@
    "score": 0.41015944,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10b9458e-7404-4a90-ab7f-6fc001a13870.jpg"
   },
   {
    "id": "5d45f791-69ec-4288-908c-2293afdee640",
    "title": {
-    "en": "Ka「」Ku「」Shi「」Go「」To「"
+    "en": "Ka\u300c\u300dKu\u300c\u300dShi\u300c\u300dGo\u300c\u300dTo\u300c"
    },
    "contentRating": "safe",
    "score": 0.41015944,
@@ -139,7 +149,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ad5eff81-21c4-4886-9958-e6f3c8a81c65.jpg"
   },
   {
    "id": "c071276e-abd4-4711-8b14-544431eb152a",
@@ -153,8 +164,10 @@
     "tr",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "d6860e8a-d13e-49d8-a6ad-1fa87f937a7a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:11+00:00"
+ "updatedAt": "2021-07-18T07:08:11+00:00",
+ "coverFileName": "98dd60e7-6e4d-45da-bd55-d630e83c32bc.jpg"
 }

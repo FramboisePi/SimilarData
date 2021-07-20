@@ -18,7 +18,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9d4e31d8-e0bc-4b21-b77e-a32ed97c8ca0.jpg"
   },
   {
    "id": "c6a51a13-74fd-46bd-989e-5cdaa26542f6",
@@ -29,7 +30,8 @@
    "score": 0.4298072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fb23c3d-5fd3-441f-a2e7-bcadc0777199.jpg"
   },
   {
    "id": "28c3b97b-6d2f-4a6c-9f97-a826f0b16f05",
@@ -42,7 +44,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "f74bb2d5-a3a4-4e14-8a59-3de25a669342.jpg"
   },
   {
    "id": "1dcf228a-3a6a-45d5-bd30-b34631ee8ec2",
@@ -53,7 +56,8 @@
    "score": 0.40342677,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e01dfe9b-2f4a-40bb-b0f7-31b214d07f46.jpg"
   },
   {
    "id": "5abb6ff9-5766-44ad-b50b-e5a7988e7e80",
@@ -64,7 +68,8 @@
    "score": 0.3925398,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d974d9ce-21cb-437a-a605-7b83fb94ad6c.jpg"
   },
   {
    "id": "5b2bb40b-4a59-4be4-a134-8b75786b9490",
@@ -77,7 +82,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5ae8d19c-bdc6-484b-a033-a7827fa74230.png"
   },
   {
    "id": "c18c7dbe-6805-4669-b541-67e143e1ab6d",
@@ -92,12 +98,13 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ca7a5e43-25ef-40f5-9a9f-de59f2cfffc4.png"
   },
   {
    "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
    "title": {
-    "en": "Ore wa Subete wo “Parry” Suru"
+    "en": "Ore wa Subete wo \u201cParry\u201d Suru"
    },
    "contentRating": "safe",
    "score": 0.3860723,
@@ -105,7 +112,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8b497b88-3a61-4b97-9d49-ff3671e156ec.jpg"
   },
   {
    "id": "4b23eb66-11de-438a-ba08-10675dd084e8",
@@ -116,7 +124,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef05f3ef-d0cb-449e-b0a5-985220224d3c.jpg"
   },
   {
    "id": "401a7769-588f-4ea1-ae70-d83aea7fd965",
@@ -128,7 +137,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0599e23c-4b5c-4941-89d2-16c183f8ecaa.jpg"
   },
   {
    "id": "05c2917a-e0a4-4c55-abac-8be0f8b213e4",
@@ -143,7 +153,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "1884da41-0a46-42e8-a90e-08b5f5b2feeb.jpg"
   },
   {
    "id": "2598241b-1b99-4a58-bf15-ce5a64014d16",
@@ -155,8 +166,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "060c1abd-0a2f-4449-83e1-57eeea59891f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:56+00:00"
+ "updatedAt": "2021-07-18T06:39:56+00:00",
+ "coverFileName": "16d3d48c-1825-4965-8831-89ad5df40c97.jpg"
 }

@@ -23,7 +23,8 @@
     "en",
     "es-la",
     "uk"
-   ]
+   ],
+   "coverFileName": "4d2409a2-5e2d-41e8-b3fa-14cc30a70d10.jpg"
   },
   {
    "id": "52e56d01-12ef-476c-b4f2-df47d38abbf4",
@@ -34,7 +35,8 @@
    "score": 0.33296534,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d30469a-2f29-4281-8b4c-d279e86a543f.jpg"
   },
   {
    "id": "1a69d1cc-b060-4f35-8778-4621424fe5f4",
@@ -50,7 +52,8 @@
     "pt-br",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "00f3dbee-d988-4e5f-9053-10890ef7dad2.jpg"
   },
   {
    "id": "a887db23-0b0d-47b4-9cd5-74e15348ae6b",
@@ -61,7 +64,8 @@
    "score": 0.30856666,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b899182c-6dd7-41e6-9d49-bd32382d621b.jpg"
   },
   {
    "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
@@ -75,7 +79,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "54306c50-f441-493e-a1e4-dd51d78ca99f.jpg"
   },
   {
    "id": "b5e36871-1708-41e4-9a1b-b380abf1a19e",
@@ -87,7 +92,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7b4e99f5-9e24-427f-921a-730c6fd428ec.jpg"
   },
   {
    "id": "6c5a3310-c4c7-4231-b34b-1124332a2236",
@@ -98,7 +104,8 @@
    "score": 0.29781327,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f61a821-cf88-450d-809d-2e5d0c314f4b.jpg"
   },
   {
    "id": "c7fba486-9495-48eb-9ec3-0f747917fc0d",
@@ -109,7 +116,8 @@
    "score": 0.29771265,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5ac9871-69d0-4fba-9f96-39fdb59b59f4.jpg"
   },
   {
    "id": "00f5732b-8af2-4c5a-b2bb-e42bd8b25be5",
@@ -120,7 +128,8 @@
    "score": 0.29058546,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "83f69432-ad4d-4043-a0d7-d9c887472062.jpg"
   },
   {
    "id": "a437129d-18e9-48d7-9484-9fb9b9073ddd",
@@ -134,18 +143,20 @@
     "pl",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "dd437422-7348-4a0c-810e-910ea5850c09.jpg"
   },
   {
    "id": "4b756af9-9c23-4ef0-ab34-ff502c5fd14f",
    "title": {
-    "en": "Uchuu Senkan Tiramisù"
+    "en": "Uchuu Senkan Tiramis\u00f9"
    },
    "contentRating": "safe",
    "score": 0.28823617,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73f85ea2-8d43-48de-b325-156f56b5dc9a.jpg"
   },
   {
    "id": "4644da00-8f23-44a8-aa99-e3661dcee901",
@@ -158,8 +169,10 @@
     "pl",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2b577664-f5f8-490c-ac78-019d1abd2d31.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:36+00:00"
+ "updatedAt": "2021-07-18T06:34:36+00:00",
+ "coverFileName": "b8cce184-08a3-42b8-9818-392c10e563d9.jpg"
 }

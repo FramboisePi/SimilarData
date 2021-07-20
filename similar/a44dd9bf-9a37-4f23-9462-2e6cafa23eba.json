@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "2f1eaaed-bdb8-47ab-a37f-e3149ede3615.jpg"
   },
   {
    "id": "d77d6f24-01fb-4a76-b6bf-c28ca12c6caa",
@@ -28,7 +29,8 @@
     "tr",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f9522200-f99f-4264-a8b4-0484e6339d25.jpg"
   },
   {
    "id": "30f768d2-50c2-4a6c-a8c8-d8c28fe519e3",
@@ -41,7 +43,8 @@
     "ru",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "c38194db-e1a0-42ae-9690-ec1821f5aef5.png"
   },
   {
    "id": "bd0e9a8f-5993-4935-a66f-f698c6814809",
@@ -54,7 +57,8 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ddbce89a-b6a6-4fc5-972f-6979dda2257e.jpg"
   },
   {
    "id": "2f9ea945-af3a-47d7-a248-d05309983dcc",
@@ -67,7 +71,8 @@
     "es-la",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "889f1478-18ed-4805-b579-bffe85737604.jpg"
   },
   {
    "id": "a2ef451b-e9e0-430d-a7a8-cbc456a732fd",
@@ -78,7 +83,8 @@
    "score": 0.35101283,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "22b90612-d9ef-4b14-857f-f821f6327166.jpg"
   },
   {
    "id": "7c8be28b-c642-4ecd-b2f3-0066e526eca0",
@@ -90,7 +96,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "e8f93c2f-0b7a-4c64-8c1d-39513ccd7e80.jpg"
   },
   {
    "id": "994d2033-0611-4e09-8ab7-96bf10d5fdc6",
@@ -104,7 +111,8 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "f1933c01-1458-470c-b8e4-01fea334396d.png"
   },
   {
    "id": "3ca2753f-7e98-4bd5-b76d-95b1debbd2ed",
@@ -116,7 +124,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "2ce019bd-512b-4773-9039-454ad2824af2.png"
   },
   {
    "id": "5d429d3d-d849-4eab-b9c1-dbd857c959a0",
@@ -127,7 +136,8 @@
    "score": 0.35101283,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "a28d11fb-6574-4727-83e2-c2c01cce5a0c.png"
   },
   {
    "id": "065ef689-b7cb-43a7-9b97-786e8daffdbd",
@@ -140,12 +150,13 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "df0426f5-b891-4a53-a980-cf4b6f246030.jpg"
   },
   {
    "id": "5c7c8f12-c9a9-487b-a197-6b56c35be07b",
    "title": {
-    "en": "Glen (글렌)"
+    "en": "Glen (\uae00\ub80c)"
    },
    "contentRating": "safe",
    "score": 0.32497472,
@@ -153,8 +164,10 @@
     "en",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "24f9c614-e84e-42a8-b293-a6f673fd053a.png"
   }
  ],
- "updatedAt": "2021-07-18T06:55:02+00:00"
+ "updatedAt": "2021-07-18T06:55:02+00:00",
+ "coverFileName": "5bef4d4e-9857-4478-a2c5-44928f064b5c.png"
 }

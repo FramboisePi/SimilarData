@@ -8,13 +8,14 @@
   {
    "id": "4cb3c803-6e2e-448d-8f89-2891528d2efc",
    "title": {
-    "en": "“Ou no Saien” no Kishi to, “Yasai” no Ojou-sama"
+    "en": "\u201cOu no Saien\u201d no Kishi to, \u201cYasai\u201d no Ojou-sama"
    },
    "contentRating": "safe",
    "score": 0.44243354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba51893f-7858-4a09-a7e3-1a2374182973.jpg"
   },
   {
    "id": "53282330-8754-44db-943f-958a6620b401",
@@ -25,7 +26,8 @@
    "score": 0.43856445,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16d3d48c-1825-4965-8831-89ad5df40c97.jpg"
   },
   {
    "id": "560e41b7-2910-4788-b399-bc290b934cf3",
@@ -36,7 +38,8 @@
    "score": 0.41000947,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "09da5e9f-a9b8-47c2-804c-036dc43eadfc.jpg"
   },
   {
    "id": "606fdb31-c7bd-4fda-b92f-6e8be05cc6fe",
@@ -47,7 +50,8 @@
    "score": 0.379163,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f12f7d16-e13c-435f-b33c-74a3b90ee283.jpg"
   },
   {
    "id": "f97150c3-49a9-44ef-bef7-6973ae6e0462",
@@ -59,7 +63,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "a4ef4d10-fd2e-4038-9341-596fe51a28bc.jpg"
   },
   {
    "id": "b787bfae-7b1c-4964-a910-718529bbd377",
@@ -74,7 +79,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d79c4aed-f96c-48fa-851d-2a01de0214a6.jpg"
   },
   {
    "id": "157c43dd-0cb5-47da-a382-f04a6a5d3e2f",
@@ -87,7 +93,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "cb93a2b8-762b-435a-b49a-ecda4c269b88.jpg"
   },
   {
    "id": "ef529f45-4887-489d-8247-4f96914f5d00",
@@ -99,7 +106,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "2d1632af-07bf-4ea4-a206-7afc08f6d0c5.jpg"
   },
   {
    "id": "32a90765-87fc-4f22-9dc5-b77e9d20be19",
@@ -110,7 +118,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "622a376d-fccf-4f7d-a0d4-34838bdf16b1.png"
   },
   {
    "id": "6bedd7df-3c25-4ac7-9746-b95534c67b77",
@@ -123,12 +132,13 @@
     "ru",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "813a4a7f-0bac-491d-91de-4b4e2e41fae5.jpg"
   },
   {
    "id": "f5912053-d5aa-406b-8b69-74c88cc6cd5b",
    "title": {
-    "en": "Escha \u0026 Logy no Atelier - Tasogare no Sora no Renkinjutsushi"
+    "en": "Escha & Logy no Atelier - Tasogare no Sora no Renkinjutsushi"
    },
    "contentRating": "safe",
    "score": 0.36742347,
@@ -136,7 +146,8 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "0244170b-24a0-4b13-b348-243200e0e513.jpg"
   },
   {
    "id": "ebfbcff1-014c-4ab7-9ddb-858377df7642",
@@ -147,8 +158,10 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "280d2b5e-3ac5-40c0-b8a6-af091579445e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:35+00:00"
+ "updatedAt": "2021-07-18T06:25:35+00:00",
+ "coverFileName": "4629e7d3-72a5-4647-a019-a9f38569e268.jpg"
 }

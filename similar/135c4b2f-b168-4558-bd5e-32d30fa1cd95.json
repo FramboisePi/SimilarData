@@ -8,14 +8,15 @@
   {
    "id": "34d2b318-999d-42d2-aee7-10a12c80eb5e",
    "title": {
-    "en": "Pokémon Diamond and Pearl: Regigigas"
+    "en": "Pok\u00e9mon Diamond and Pearl: Regigigas"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cab2289c-01c8-4d25-9fec-d4126ea548a1.jpg"
   },
   {
    "id": "f31cae03-d1ee-4f38-bd9e-45f910775ca4",
@@ -26,7 +27,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff6e8201-d8e8-41ae-a635-f4d5d8e16a75.png"
   },
   {
    "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
@@ -38,7 +40,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4942638d-7438-43ea-8aff-482cdea4e4d0.jpg"
   },
   {
    "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
@@ -49,7 +52,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a26858b-f8e8-4349-81e1-61463b2c9d1b.png"
   },
   {
    "id": "2a197071-3453-4de2-9599-a513c21260c4",
@@ -60,7 +64,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d576c44-1099-438f-8aed-071154febd82.png"
   },
   {
    "id": "4a9fd1f5-cf4c-4bc6-b2fe-953a6a796d06",
@@ -71,7 +76,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c3f7882-cf3b-4553-b804-0a972e60df4b.jpg"
   },
   {
    "id": "efe4fd60-c53a-4f79-a92f-55dd694d762d",
@@ -82,18 +88,20 @@
    "score": 0.40919402,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "85b7b9e1-f603-4518-b84f-7f7e00848b2e.jpg"
   },
   {
    "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
    "title": {
-    "en": "Bear Hunter — Fubuki-gō"
+    "en": "Bear Hunter \u2014 Fubuki-g\u014d"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16e09ce8-4dc6-4656-8c2d-677c39d811a8.png"
   },
   {
    "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
@@ -106,7 +114,8 @@
     "en",
     "ca",
     "it"
-   ]
+   ],
+   "coverFileName": "b2385195-2397-473e-ac1f-235f0958dc1d.jpg"
   },
   {
    "id": "057f5360-c37c-4619-a6a4-cb5aea7f5f6a",
@@ -119,18 +128,20 @@
     "pt-br",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "7027fdee-ddda-4352-9263-a5a92a97b92b.jpg"
   },
   {
    "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
    "title": {
-    "en": "Hakugin no Teiō"
+    "en": "Hakugin no Tei\u014d"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "932a9c1b-8327-44c6-8165-98dae6bb279a.png"
   },
   {
    "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
@@ -141,8 +152,10 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1d3c1af-425e-4095-9221-73e49a375bad.png"
   }
  ],
- "updatedAt": "2021-07-18T06:28:05+00:00"
+ "updatedAt": "2021-07-18T06:28:05+00:00",
+ "coverFileName": "b1c50112-1bf1-4a82-94d8-27b04caf9bb5.jpg"
 }

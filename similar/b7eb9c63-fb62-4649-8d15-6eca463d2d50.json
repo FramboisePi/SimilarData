@@ -1,7 +1,7 @@
 {
  "id": "b7eb9c63-fb62-4649-8d15-6eca463d2d50",
  "title": {
-  "en": "Elf Boyfriend \u0026 Boyish Girlfriend"
+  "en": "Elf Boyfriend & Boyish Girlfriend"
  },
  "contentRating": "safe",
  "matches": [
@@ -21,7 +21,8 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   },
   {
    "id": "1aaa0a4b-78bc-4f39-aa20-145766f83092",
@@ -35,7 +36,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "70bbb16e-e0df-44f2-8633-3c9efc6599a9.jpg"
   },
   {
    "id": "10fab94e-2227-47e2-b059-f4762eb5ca4e",
@@ -53,7 +55,8 @@
     "pt-br",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a80d2f61-5a20-45a1-b98a-99d7174b3d42.jpg"
   },
   {
    "id": "632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
@@ -68,7 +71,8 @@
     "es-la",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "797fc185-074f-4aaa-b0bc-6bf52ff7f279.jpg"
   },
   {
    "id": "11f236fa-3aa3-45f5-bf55-bcd59c9c3165",
@@ -79,7 +83,8 @@
    "score": 0.51811194,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1dcbe706-016f-49c9-a89e-042ec51b76d1.jpg"
   },
   {
    "id": "42d592d2-dc0d-4189-9d18-e24fd6b4d983",
@@ -91,7 +96,8 @@
    "languages": [
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "44de418d-613c-4234-ac25-3e15544a4e79.jpg"
   },
   {
    "id": "c3a0a73f-646e-4b46-9aac-7cd080b7ab03",
@@ -109,7 +115,8 @@
     "tr",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "1b8a3dd7-0338-4115-adc0-6648bbb0881d.jpg"
   },
   {
    "id": "0ce96a27-1c3b-4a90-ae33-3c5696e96703",
@@ -120,7 +127,8 @@
    "score": 0.48446658,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c72f8d21-35ef-4f0a-8240-f5aa43c4fe90.jpg"
   },
   {
    "id": "c23accf2-46ac-4e03-96d2-a98176d62b48",
@@ -131,7 +139,8 @@
    "score": 0.4806256,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5cfe096-48d5-40a5-896e-0e430c4ae4f6.jpg"
   },
   {
    "id": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
@@ -146,7 +155,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e6abc3e7-2ce7-4af9-88c7-503a516b666e.png"
   },
   {
    "id": "12571b60-3b83-4a14-99c5-6c7c3a717d5d",
@@ -160,7 +170,8 @@
     "es-la",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "327625d4-5a51-4b76-9126-0da63dcc3da9.jpg"
   },
   {
    "id": "dfa50c60-4a9c-4ff7-9270-31860bb82ad2",
@@ -171,8 +182,10 @@
    "score": 0.4723875,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0cc899e1-51d7-4454-92a8-9515c941fd28.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:40+00:00"
+ "updatedAt": "2021-07-18T06:58:40+00:00",
+ "coverFileName": "f02eeeb2-7e8c-4dee-aeea-d8aec6d47648.jpg"
 }

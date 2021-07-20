@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "d9cf6209-cd16-4e26-8b44-e3a674c148ec.jpg"
   },
   {
    "id": "79ff4e61-ff73-48ef-b165-019a5adba2c5",
@@ -28,7 +29,8 @@
     "es-la",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "7c58694b-b878-4855-8d12-4e4b43df5fe1.png"
   },
   {
    "id": "bacf834a-7b1a-4071-bd93-b803edcaad6d",
@@ -40,7 +42,8 @@
    "languages": [
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "7e1777ff-8d25-400e-9537-398f046529c3.jpg"
   },
   {
    "id": "20266484-d4e7-4e59-a01a-e3d2fa6b4eb7",
@@ -51,7 +54,8 @@
    "score": 0.33296534,
    "languages": [
     "zh"
-   ]
+   ],
+   "coverFileName": "efceb9b5-04ee-42a3-b2a6-98fc923858c9.jpg"
   },
   {
    "id": "dd32e50b-148f-451d-a8e0-8a1e9ceeb0da",
@@ -62,7 +66,8 @@
    "score": 0.33296534,
    "languages": [
     "zh"
-   ]
+   ],
+   "coverFileName": "afbf8a52-1ccd-4ac7-b4f9-f7aee7800282.jpg"
   },
   {
    "id": "cf584d9f-6899-4262-8b02-647e38824862",
@@ -75,18 +80,20 @@
     "zh",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "764015ae-e3e3-4dca-bf6c-3a9b37396129.jpg"
   },
   {
    "id": "f3dd4ed6-b660-4c28-be43-c9eb6423cbde",
    "title": {
-    "en": "inaka musume 、tokai kowasa wo shiru"
+    "en": "inaka musume \u3001tokai kowasa wo shiru"
    },
    "contentRating": "safe",
    "score": 0.27186507,
    "languages": [
     "zh"
-   ]
+   ],
+   "coverFileName": "05df6d4f-4988-4754-8a05-e629f2f06c70.jpg"
   },
   {
    "id": "d2746874-023e-4a24-9257-dd8130f98281",
@@ -99,7 +106,8 @@
     "id",
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "40d3f5d6-59e5-446e-a8d7-d9080c53f1d2.png"
   },
   {
    "id": "ba6b128b-6acd-49c5-995b-1d2c2b826ef6",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "b65dee67-44f9-49c7-acfa-8389c290253d.jpg"
   },
   {
    "id": "8a48c0d2-f25b-4297-9651-aa26c480ec27",
@@ -122,7 +131,8 @@
    "score": 0.27186507,
    "languages": [
     "zh"
-   ]
+   ],
+   "coverFileName": "4ef674a3-6195-4d82-a4c2-12b210fd3537.jpg"
   },
   {
    "id": "e5a4d5a3-4b3d-4ecf-bc71-083ce3ca8ed9",
@@ -133,7 +143,8 @@
    "score": 0.27186507,
    "languages": [
     "zh"
-   ]
+   ],
+   "coverFileName": "b78389f0-8509-4849-b5d0-b270563c61b7.jpg"
   },
   {
    "id": "67c5c106-32ed-472f-837b-fd0928909a61",
@@ -149,8 +160,10 @@
     "en",
     "es-la",
     "zh"
-   ]
+   ],
+   "coverFileName": "7fa9ef55-c434-4774-a2c7-6cf8804c16db.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:32+00:00"
+ "updatedAt": "2021-07-18T06:57:32+00:00",
+ "coverFileName": "86480bb0-e250-43b3-944f-7c0260575010.jpg"
 }

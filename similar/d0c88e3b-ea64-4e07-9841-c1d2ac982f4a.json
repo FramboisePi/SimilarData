@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "aa18e23d-096c-4d29-bae4-b0596cc83e04.jpg"
   },
   {
    "id": "4af56a6b-5baf-4fb3-a693-4530cb50bfbe",
@@ -29,7 +30,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5d4fdc1c-56da-44ba-b3da-fb4fc22d9de6.jpg"
   },
   {
    "id": "f880d7fe-358f-4c81-ae0f-7186951606b7",
@@ -40,7 +42,8 @@
    "score": 0.3694212,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8979bec4-8e1a-480e-8d4c-796048a709da.jpg"
   },
   {
    "id": "20e4c17d-3741-46dd-a8bb-cbc132ee52d1",
@@ -54,7 +57,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c93750e0-7770-472e-96b0-56aa4a73c6d1.jpg"
   },
   {
    "id": "42101e94-77f0-465e-8044-e8efe802b0f8",
@@ -66,12 +70,13 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "96d3544b-218d-4d70-89af-f9edc4cc82f5.jpg"
   },
   {
    "id": "7215e726-9e7d-4ad2-9fdd-2f7b142c6e3e",
    "title": {
-    "en": "Cohabitation with My Fiancée"
+    "en": "Cohabitation with My Fianc\u00e9e"
    },
    "contentRating": "suggestive",
    "score": 0.35193232,
@@ -80,7 +85,8 @@
     "pt-br",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "6bca78bd-9ca5-4e63-ad25-1da705961570.jpg"
   },
   {
    "id": "18649fc7-410f-4509-9283-2e5d2a4cf2d4",
@@ -93,7 +99,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6e3af228-69f8-45b3-99f3-0f1b28fb79ba.jpg"
   },
   {
    "id": "8f6c0971-2add-4a63-b238-74c033064502",
@@ -107,7 +114,8 @@
     "pl",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bc0955cb-f9dd-4ef4-b790-b92f06f07991.png"
   },
   {
    "id": "e4d0095c-1066-4075-ac63-6805ca011661",
@@ -118,7 +126,8 @@
    "score": 0.35193232,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d201dbab-8fff-4406-a312-b17e1d6b1291.jpg"
   },
   {
    "id": "4280a53c-817d-4d5c-8276-55dfbd9e4a51",
@@ -133,7 +142,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "d389179e-0c65-4d91-b772-7dcc1662310e.jpg"
   },
   {
    "id": "a9f8d67c-fa3d-43b5-baa6-fe89f05ff4d2",
@@ -146,7 +156,8 @@
     "es",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "bbff37dc-619f-47bc-a915-7c679a90f015.jpg"
   },
   {
    "id": "8410f7e4-deda-4e72-aa6b-b1953eace585",
@@ -158,8 +169,10 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "69362578-b9b4-4ca5-baee-669837f225b7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:09+00:00"
+ "updatedAt": "2021-07-18T07:03:09+00:00",
+ "coverFileName": "6a9c54f6-d6c3-4edb-af61-f60311e25a26.jpg"
 }

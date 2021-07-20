@@ -18,7 +18,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "a122b278-359c-4cf7-a328-60ba908f368c.jpg"
   },
   {
    "id": "9b4d679c-1e6d-4b27-b97f-2f90aa371874",
@@ -33,7 +34,8 @@
     "it",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "a9684b9b-13a0-43c9-9177-07c8bba21456.jpg"
   },
   {
    "id": "db619da0-eed0-41d4-92f6-fc3d2f65f10c",
@@ -44,7 +46,8 @@
    "score": 0.41265908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d9c2c6e6-b96c-45ce-89f5-2a85656d0901.jpg"
   },
   {
    "id": "f360c86b-f466-4d17-bd9f-14eea3f1fe1f",
@@ -55,7 +58,8 @@
    "score": 0.40646985,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "527042d0-dd97-4d69-b17b-2f80cf61148d.png"
   },
   {
    "id": "c5fad8d5-9b20-434d-b431-8e370625da89",
@@ -66,7 +70,8 @@
    "score": 0.4047654,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "89e53a5c-046e-4a46-a80e-27571e603e17.jpg"
   },
   {
    "id": "9f05de10-737d-42d8-8764-8cf47d175f43",
@@ -79,18 +84,20 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "29d98380-e0c3-4046-a5ca-e00d5a28cbb8.jpg"
   },
   {
    "id": "5c1e5575-c70c-4949-9074-6b4ca597091d",
    "title": {
-    "en": "Kira Kira☆Labyrinth"
+    "en": "Kira Kira\u2606Labyrinth"
    },
    "contentRating": "safe",
    "score": 0.40290856,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7bf379c-7f17-4164-85ae-5172a09a7b5d.jpg"
   },
   {
    "id": "d05da86d-cdcb-4364-b21b-8d242ccaf254",
@@ -103,7 +110,8 @@
     "hu",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "a3c4254c-8079-4ebd-aec0-584eb2848e35.jpg"
   },
   {
    "id": "7bdb54d8-ad0e-4b81-9060-c352bcc5cd4d",
@@ -114,7 +122,8 @@
    "score": 0.40053323,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "db8cdab3-e32f-4173-a1d3-79683ca4438a.jpg"
   },
   {
    "id": "1d68e358-7838-4484-aebf-19c0f40e9312",
@@ -125,7 +134,8 @@
    "score": 0.39808688,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc96c459-2a19-4697-bf9e-66b914b5bbaf.jpg"
   },
   {
    "id": "d47104f8-f77b-4dfd-8b35-b9d5f1bf4c83",
@@ -136,7 +146,8 @@
    "score": 0.39711347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0991998-a624-496a-bbfa-722a543402dd.jpg"
   },
   {
    "id": "d8ae0376-17ad-4002-96ee-151127877386",
@@ -147,8 +158,10 @@
    "score": 0.39380673,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fdb8c0f0-5286-42dc-b089-cad7176e6886.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:44+00:00"
+ "updatedAt": "2021-07-18T07:03:44+00:00",
+ "coverFileName": "def592eb-8bcf-4c38-8f45-3dcd0690da86.jpg"
 }

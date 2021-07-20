@@ -14,7 +14,8 @@
    "score": 0.55792207,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "408cdb99-1b6f-4971-9dfb-93280c3b0d81.jpg"
   },
   {
    "id": "13efca80-21b0-46aa-a991-d3333ff1b2dd",
@@ -25,7 +26,8 @@
    "score": 0.49917403,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3f87c04-2b49-4d7d-9222-e22754631d9f.jpg"
   },
   {
    "id": "58a992ce-6043-473f-8987-5ce81b3ca177",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "fd5e3bba-c405-4a15-a611-8ce17251ab3e.jpg"
   },
   {
    "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
@@ -49,7 +52,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cd0644d0-ebe6-419c-b5da-3daf78ea361b.png"
   },
   {
    "id": "26ef63fb-d977-4ac0-8d29-6bb05aa1402e",
@@ -60,7 +64,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9555f75c-dfda-4716-b9b9-acc20ca7bbb3.jpg"
   },
   {
    "id": "7014040d-cb00-4215-bde0-516a28f4fc5a",
@@ -71,7 +76,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97c18765-03ed-4454-9a0c-e84a7abb5696.png"
   },
   {
    "id": "b621ea46-3a3e-423d-9c06-3449706c97ce",
@@ -84,7 +90,8 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "0066a5c8-bc19-4dba-962a-07aae3f81e1b.jpg"
   },
   {
    "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
@@ -97,7 +104,8 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "05a9f16a-a5f3-4fcb-a263-023579d36278.jpg"
   },
   {
    "id": "b3126401-cfac-4eaa-bc28-bef2d20fde2c",
@@ -108,7 +116,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af1ea57b-0d84-4439-a33a-73d6a209d688.jpg"
   },
   {
    "id": "5a969542-19a7-47e4-8319-fcc29926f8d8",
@@ -121,18 +130,20 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "365f259b-cd7a-4378-b245-b0f4edab1ada.jpg"
   },
   {
    "id": "13ced7ab-6744-4247-8a55-26fc674e1ad9",
    "title": {
-    "en": "Cucumber × Sandwich"
+    "en": "Cucumber \u00d7 Sandwich"
    },
    "contentRating": "safe",
    "score": 0.41629645,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1e90dcf-c1ca-4194-826a-6ce7b5db713b.jpg"
   },
   {
    "id": "e7dc705f-a916-4c98-a7d9-23a8891faffb",
@@ -145,8 +156,10 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "d8017e5d-16c7-401a-9577-9668b2cbda51.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:17+00:00"
+ "updatedAt": "2021-07-18T06:41:17+00:00",
+ "coverFileName": "7c8ae2bf-a91d-4115-b885-27f0623dce9d.jpg"
 }

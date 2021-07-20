@@ -8,14 +8,15 @@
   {
    "id": "d42d0e05-2a04-4a1e-ba09-3cb020676279",
    "title": {
-    "en": "I Don’t Want the Obsession of a Twisted Archduke"
+    "en": "I Don\u2019t Want the Obsession of a Twisted Archduke"
    },
    "contentRating": "safe",
    "score": 0.5774147,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "622eb1f5-c26a-48ab-8eeb-3af59dd3172c.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -28,7 +29,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "29a480b7-573f-45cf-967a-9c68e95356ea",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "5deb7b8e-be78-48f4-9ada-a27fc5037017.jpg"
   },
   {
    "id": "6a234f64-8001-45ad-9158-af8ae1407a5a",
@@ -51,7 +54,8 @@
    "score": 0.53057086,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "325c5410-5f58-404c-9cd2-88e7f6bd04d4.jpg"
   },
   {
    "id": "4b0f9f26-cc2b-4f0c-9b0c-e60f3422a369",
@@ -62,7 +66,8 @@
    "score": 0.5033098,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c30cfabc-c569-4e6b-b7b6-570c2005f35b.jpg"
   },
   {
    "id": "5ad7b910-d5dc-4368-9554-c04bd09c4c53",
@@ -75,7 +80,8 @@
     "id",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1efb4fb5-10d9-472f-bfc1-8403ed57f3fa.jpg"
   },
   {
    "id": "6678b794-63fe-4f46-b94e-4bd55a21e594",
@@ -88,7 +94,8 @@
     "es",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "51344c0b-c1b5-475e-b8ad-8125c7905a3d.jpg"
   },
   {
    "id": "99786169-6285-45d2-b3c7-3290a9f38315",
@@ -102,7 +109,8 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3db13d65-6c23-4d84-9fc6-552ced64e05b.jpg"
   },
   {
    "id": "57be8062-ba85-4812-9cd8-dc89bb1549a1",
@@ -114,7 +122,8 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "98ddf20f-514a-4ee4-b874-fc3424583340.jpg"
   },
   {
    "id": "5274c33a-5486-4f50-a48a-c495bfe5ff87",
@@ -125,12 +134,13 @@
    "score": 0.4758242,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90ba933f-74f6-491f-9646-09320caf2696.png"
   },
   {
    "id": "60faa457-51f8-4117-805e-4b335e1f3e67",
    "title": {
-    "en": "You’ve Come to the Wrong House, Villain"
+    "en": "You\u2019ve Come to the Wrong House, Villain"
    },
    "contentRating": "safe",
    "score": 0.47580418,
@@ -139,7 +149,8 @@
     "ru",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "1c56957a-3141-4898-8b56-48387753a088.png"
   },
   {
    "id": "3536695a-12f0-4cac-b319-91c83deb932f",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "20e73d7c-3481-4b1c-8262-628b7aefee36.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:04+00:00"
+ "updatedAt": "2021-07-18T06:49:04+00:00",
+ "coverFileName": "99a244a6-00ed-410f-9d5f-ed9b553be286.jpg"
 }

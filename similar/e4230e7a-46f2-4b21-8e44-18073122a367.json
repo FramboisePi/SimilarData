@@ -8,13 +8,14 @@
   {
    "id": "84530ac5-91a8-4942-aeba-6d54b6a48997",
    "title": {
-    "en": "Manga Time Kirara★Magica"
+    "en": "Manga Time Kirara\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.41306117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d8d92b4f-79e3-46fa-b37b-ad4ea429e518.jpg"
   },
   {
    "id": "ad6c7ce1-1522-46dd-aec8-6de53351123d",
@@ -26,7 +27,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "dce090bc-b761-4085-9159-7b2925b43be2.jpg"
   },
   {
    "id": "7bbfcba2-e3ae-4f1f-8630-1a2fee7e2d99",
@@ -37,7 +39,8 @@
    "score": 0.3477206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ab0fedf-94e5-49c5-8f5f-50c32b97ed24.jpg"
   },
   {
    "id": "0bb7aa99-4400-4cdf-96e7-1a0c0a98c0e0",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a6c09271-c50a-4cc0-a122-74662852051f.jpg"
   },
   {
    "id": "2d501d2e-72d5-4c3f-9741-117511622a48",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2f28ddc4-5524-44ce-a944-accb1f7b576c.png"
   },
   {
    "id": "c491a66d-2afe-407f-b19e-55c28256a154",
@@ -72,7 +77,8 @@
    "score": 0.31742403,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1b9e3028-0c8b-49c5-a50d-2f40ebe28a2f.png"
   },
   {
    "id": "4699775f-57f7-4896-987c-fe5e57403d8f",
@@ -86,7 +92,8 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "6b8a4ac8-2478-44df-8643-095b5ce4ec69.jpg"
   },
   {
    "id": "5de2a027-12b5-4106-9c3d-497bd23d3b6f",
@@ -98,7 +105,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0e194774-f496-4fed-9546-bfa134d2f770.jpg"
   },
   {
    "id": "3365dc3d-5afa-405f-af1b-df14c29b00e6",
@@ -109,7 +117,8 @@
    "score": 0.30862245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "903d23b9-2264-4257-a086-98bc1c7d3518.jpg"
   },
   {
    "id": "4be81834-703d-4e66-8f45-61328baa3e67",
@@ -120,7 +129,8 @@
    "score": 0.30862245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0cb839f4-ce9a-4a41-905e-a635a7220abe.jpg"
   },
   {
    "id": "f7d4291a-0cd3-4572-bf0c-b95eb631aea9",
@@ -131,7 +141,8 @@
    "score": 0.30862245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1887078f-85c6-47bb-943f-b16bcf098937.jpg"
   },
   {
    "id": "21a8efa7-8b64-41de-b61c-b4f94e2aed62",
@@ -142,8 +153,10 @@
    "score": 0.30862245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b49e49c1-fe84-4f26-aae2-676ae5f907d5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:43+00:00"
+ "updatedAt": "2021-07-18T07:06:43+00:00",
+ "coverFileName": "d924bc40-52fc-43b3-bdd5-d14f00d0aedc.jpg"
 }

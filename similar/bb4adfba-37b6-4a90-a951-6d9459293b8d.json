@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "70016e28-5b7a-4b46-b3dd-4fffb8429bea.jpg"
   },
   {
    "id": "b9ec8d51-f28e-481b-944e-af128aae42d2",
@@ -28,7 +29,8 @@
     "en",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "1ac86b38-4dcd-4567-a50c-6e550a0ff285.jpg"
   },
   {
    "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
@@ -40,7 +42,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "ec821882-4d73-4550-aef0-db1eac3c32c0.png"
   },
   {
    "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
@@ -51,7 +54,8 @@
    "score": 0.4267058,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "930d2662-59dc-40c2-a23c-9fe5d61021db.jpg"
   },
   {
    "id": "ddfc910b-9923-4048-a260-e5606f9e112d",
@@ -62,7 +66,8 @@
    "score": 0.4236706,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef5c22f1-c51c-4e5d-a0b0-ee6294dec524.jpg"
   },
   {
    "id": "4ce79663-bea0-448b-87dd-a17e3d126f42",
@@ -79,7 +84,8 @@
     "ar",
     "fa",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bb522a5d-ffe4-40f3-b858-df220e6cb565.jpg"
   },
   {
    "id": "995c1c87-db62-4575-9300-b8d47363a3b1",
@@ -90,7 +96,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b740099a-b0e6-44be-8324-d6a7ac29a2b6.jpg"
   },
   {
    "id": "bfc50914-d741-43fd-91fe-ea5847cc081f",
@@ -101,43 +108,47 @@
    "score": 0.40184522,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c50b2bef-3b4d-4ed9-8de2-cbcd5e9da6ab.png"
   },
   {
    "id": "9a1a2636-9854-4bf3-966c-6135d574c4c6",
    "title": {
-    "en": "Tokoshie × Bullet - Shin Minato Koubou-sen"
+    "en": "Tokoshie \u00d7 Bullet - Shin Minato Koubou-sen"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "11ef4938-44a4-48b2-a242-4486a4d1fbe5.jpg"
   },
   {
    "id": "b3031a63-32d3-4cd8-82e4-bc9b80736ece",
    "title": {
-    "en": "Black★Rock Shooter - Innocent Soul"
+    "en": "Black\u2605Rock Shooter - Innocent Soul"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c7ce1c8c-d1d0-4eae-8891-2b54daea810f.jpg"
   },
   {
    "id": "1a5e7c73-e707-4e4b-879e-a3da39ab2e6d",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - [Majuu Hen]"
+    "en": "Mahou Shoujo Madoka\u2605Magica - [Majuu Hen]"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4987c4a3-9cd2-4332-82cb-42e5d94ab03c.jpg"
   },
   {
    "id": "3079fabf-eb51-498a-8e63-f6e43afd8ba8",
@@ -148,8 +159,10 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c6130e9-d24a-4faf-942c-103810d286dc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:16+00:00"
+ "updatedAt": "2021-07-18T06:59:16+00:00",
+ "coverFileName": "8bcd067e-dbe7-4a0e-bddc-fe2eec5c13a2.jpg"
 }

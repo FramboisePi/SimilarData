@@ -8,14 +8,15 @@
   {
    "id": "36bad9cb-6310-4048-a48e-a1ab7b7dcb3e",
    "title": {
-    "en": "Demon X Angel, Can’t Get Along!"
+    "en": "Demon X Angel, Can\u2019t Get Along!"
    },
    "contentRating": "safe",
    "score": 0.47022173,
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f9b2bc85-6938-477c-8507-1f654ccae743.jpg"
   },
   {
    "id": "b6afbe38-6574-44b7-a299-e50188dd7a42",
@@ -28,7 +29,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "3b104d69-1544-4eeb-8510-8b7b65d1790e.jpg"
   },
   {
    "id": "01d06d0c-68d5-4975-9b22-06900a1c13e7",
@@ -40,7 +42,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f16c09c1-f59f-4e0f-92bc-759a03a3f6b6.png"
   },
   {
    "id": "1e604865-cc19-4e3f-8663-89ea46f544b8",
@@ -51,7 +54,8 @@
    "score": 0.3971789,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac11494d-0b53-4d15-b65b-f63d0af39f34.jpg"
   },
   {
    "id": "8a82a15e-3030-4244-90d0-aa6b135d04df",
@@ -62,7 +66,8 @@
    "score": 0.38906068,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c98cc380-573a-4272-beaa-d7f59206a615.jpg"
   },
   {
    "id": "5f98109f-ca2d-4744-91d0-7f8a8be74776",
@@ -73,7 +78,8 @@
    "score": 0.38723874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b9206671-6fd2-4dfe-8c4e-2abc48daf963.jpg"
   },
   {
    "id": "66ebc4f9-8776-4854-be08-dc65c46db49a",
@@ -84,7 +90,8 @@
    "score": 0.38723874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f0350cae-b2e4-4b84-91fc-360f29564b7f.jpg"
   },
   {
    "id": "9bb8e401-aa2e-4d41-85cd-a7d2f0281ac3",
@@ -95,7 +102,8 @@
    "score": 0.37848485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e1e37a80-eed9-4199-ae2d-9255618b26ff.png"
   },
   {
    "id": "d30f2711-26f9-48ef-a117-336a2dd87863",
@@ -110,7 +118,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "d95ee7ea-7f58-41a2-bd9b-4a29e1ce5760.jpg"
   },
   {
    "id": "db387aed-4dfd-4899-918a-947cb2604737",
@@ -121,7 +130,8 @@
    "score": 0.37736374,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f5347f2a-3d09-4bcc-9593-ba5d91ff6755.jpg"
   },
   {
    "id": "045026a0-a9f0-425c-bb61-90c71887428b",
@@ -133,7 +143,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "b8856bf9-975d-4235-b1f1-49f10376a35e.png"
   },
   {
    "id": "1cfa0301-c996-4db1-96b9-263774c6184b",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "bd61751e-4109-471a-a9b6-0298bb7970af.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:26+00:00"
+ "updatedAt": "2021-07-18T06:59:26+00:00",
+ "coverFileName": "442e7f7a-4285-4d8a-a447-13a310b7d357.jpg"
 }

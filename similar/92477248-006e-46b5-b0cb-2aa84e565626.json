@@ -1,7 +1,7 @@
 {
  "id": "92477248-006e-46b5-b0cb-2aa84e565626",
  "title": {
-  "en": "The Legend of New World’s Boss"
+  "en": "The Legend of New World\u2019s Boss"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "12bff76f-d9c6-4420-bfd1-c804adc09cf5.jpg"
   },
   {
    "id": "16a74443-06a2-4fb7-8996-2c45dd829ea5",
@@ -29,7 +30,8 @@
     "en",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "0db362aa-6c11-4b3e-8598-a0c33a50ec7d.png"
   },
   {
    "id": "cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
@@ -44,7 +46,8 @@
     "es-la",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "a64c01f2-de63-4cb1-9352-0b419a26762d.jpg"
   },
   {
    "id": "4e7cbb61-230a-486c-9473-92fdefb59fc0",
@@ -58,7 +61,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "f4f93569-f815-45e8-97f0-fc3c89a230a7.png"
   },
   {
    "id": "e6e0b418-ca33-4919-8b62-50aa28908dc7",
@@ -69,7 +73,8 @@
    "score": 0.3453066,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "760a19bc-d7b4-400e-be7a-37120f574913.png"
   },
   {
    "id": "6fe9349a-8eeb-42cf-bead-e6f40b2653de",
@@ -80,7 +85,8 @@
    "score": 0.3430881,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe89ab4d-2b7d-4f24-b6a0-6fbaf3de3050.jpg"
   },
   {
    "id": "9b46337d-8ad4-45de-8857-7cbe8bddec0b",
@@ -93,7 +99,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5f18dadc-7ca6-4d03-b065-2ecf90cc5959.jpg"
   },
   {
    "id": "907276d5-2b48-4c76-8a86-481f11fcb069",
@@ -107,7 +114,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3e32b62a-142a-4fae-9713-e0c4d91f8376.jpg"
   },
   {
    "id": "023ff19e-782b-4fa5-afd3-3e9d695294f8",
@@ -118,7 +126,8 @@
    "score": 0.3289931,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "072c8d78-dc3e-4f43-be13-34d2b2bee843.jpg"
   },
   {
    "id": "ee9ca8f1-1218-47a8-88f4-f30ffdd24c0d",
@@ -129,7 +138,8 @@
    "score": 0.32631016,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b397c40e-9e30-4da1-806b-91150011c67d.jpg"
   },
   {
    "id": "3b3fd6eb-b46d-4ba7-a57e-67e1899b206d",
@@ -145,7 +155,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "846bf2ac-5611-4913-9fcc-c79219e74717.png"
   },
   {
    "id": "5baf4d30-a736-4904-8354-27ddcbef8360",
@@ -157,8 +168,10 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "c08141ef-977a-4450-b521-962ef8038d63.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:43+00:00"
+ "updatedAt": "2021-07-18T06:51:43+00:00",
+ "coverFileName": "f99c7a76-f4e0-45d7-9729-41f5f34a81cc.jpg"
 }

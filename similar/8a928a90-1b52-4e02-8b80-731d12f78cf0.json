@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6290f749-2742-435c-a3d9-348d5c612b9b.jpg"
   },
   {
    "id": "6aa22251-e861-4511-bf3c-e53227e4c307",
@@ -26,7 +27,8 @@
    "score": 0.4351884,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d77cd9ed-5654-4533-b8d0-34bd167261b9.jpg"
   },
   {
    "id": "3b10ed48-6d71-46ff-905e-1b578070bd84",
@@ -39,7 +41,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b428bc0d-3bb9-450e-a276-2d042faccac6.jpg"
   },
   {
    "id": "aa59228a-6bb7-4a22-ba93-7609dd44090c",
@@ -50,7 +53,8 @@
    "score": 0.41640678,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a5a1530-f5b1-491a-8392-3f3e0ca23a26.jpg"
   },
   {
    "id": "a7591666-23f9-4515-ae40-a90f7fd715da",
@@ -61,7 +65,8 @@
    "score": 0.4104639,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b4f69047-685c-41eb-a745-f66b214ea64d.jpg"
   },
   {
    "id": "53f2b915-e38c-4c7d-a95f-6cbe369dde1f",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4c614161-a460-4964-b0b1-eca6cf215db2.jpg"
   },
   {
    "id": "01ff32eb-c886-4bd3-9b78-6eb01a157a85",
@@ -86,7 +92,8 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "52267047-f1e9-4de1-91cb-817a8d910001.jpg"
   },
   {
    "id": "ab6c02b9-b842-4f88-8b42-6b777b2238f8",
@@ -97,7 +104,8 @@
    "score": 0.4095937,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f3fa1e98-ecce-4602-8540-5f2a88a04400.jpg"
   },
   {
    "id": "0244f24a-39a4-4b72-b803-24904eccb716",
@@ -108,7 +116,8 @@
    "score": 0.4095937,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "486cfd77-a15b-48af-8628-0bcbfc4d1251.jpg"
   },
   {
    "id": "c5449193-55c4-4cc7-a1e8-4906e711eafe",
@@ -119,19 +128,21 @@
    "score": 0.40741354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8acb516f-64a7-4daf-8137-84eaf8312a7e.jpg"
   },
   {
    "id": "d87dd658-2741-493c-905b-fd3fae4fda0c",
    "title": {
-    "en": "Kimi ni Todoke Special ～Soulmate～"
+    "en": "Kimi ni Todoke Special \uff5eSoulmate\uff5e"
    },
    "contentRating": "safe",
    "score": 0.40649706,
    "languages": [
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "65b7bf3b-546e-4720-ba4e-2fffbfc4abaa.jpg"
   },
   {
    "id": "73b3d656-6a1f-4657-8ffe-338e9f441466",
@@ -143,8 +154,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "4f362725-5bba-4964-bd0e-f4bf4de65022.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:15+00:00"
+ "updatedAt": "2021-07-18T06:50:15+00:00",
+ "coverFileName": "1bae11be-a15c-4f25-853a-37c1972c544b.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "7f42a32f-9903-4704-920d-5e227ff98280.jpg"
   },
   {
    "id": "ce841813-2082-4e88-b055-9eb57f835199",
@@ -27,18 +28,20 @@
    "languages": [
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "17ac8109-0ec1-4f42-8603-d8dcf1867e20.jpg"
   },
   {
    "id": "72b2c430-8a8f-4dd3-aff0-591e86207f9b",
    "title": {
-    "en": "The Devil’s Temptation"
+    "en": "The Devil\u2019s Temptation"
    },
    "contentRating": "erotica",
    "score": 0.32411146,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "17a4a125-d241-4a6c-bcb8-f0c416ceb2cf.jpg"
   },
   {
    "id": "95ea5f08-d62a-491f-9270-f1e7044a0696",
@@ -51,7 +54,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "da8b9cdb-1838-45c8-a15e-365fc7d2b4f1.jpg"
   },
   {
    "id": "360bb077-f5cd-4503-8868-54f69a9c1821",
@@ -64,7 +68,8 @@
     "en",
     "tr",
     "es"
-   ]
+   ],
+   "coverFileName": "95f762b6-3531-4593-9b7b-4741aad70ce9.png"
   },
   {
    "id": "f2402f7b-0c60-4e15-93e4-a31074aeb46f",
@@ -79,7 +84,8 @@
     "pt-br",
     "hu",
     "es"
-   ]
+   ],
+   "coverFileName": "0ddd28f8-350f-4379-9d5e-d7e5634bc143.jpg"
   },
   {
    "id": "0126f354-22b3-460c-98a3-f9b8d7b01369",
@@ -90,7 +96,8 @@
    "score": 0.30707693,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "4a7b3e0d-4ca5-4bf3-8dd0-0807a76ffef4.jpg"
   },
   {
    "id": "3a53c292-b60c-41c6-8bdf-477e9cb1e91e",
@@ -102,7 +109,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1281d8d4-1057-48d2-9090-aff6a91a1c5d.jpg"
   },
   {
    "id": "270d669d-dc26-4caa-b4a3-978d940ea2cb",
@@ -116,7 +124,8 @@
     "tr",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "6bc81ca1-8949-41e0-b2db-fa7ec6f29ad7.png"
   },
   {
    "id": "eae40d4c-fa03-489b-9e9b-686f02b3153a",
@@ -129,7 +138,8 @@
     "es",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c4bdce7a-07ed-4fc2-9ffa-5ac26185c910.png"
   },
   {
    "id": "3d7dace4-2121-4387-9088-78753a517c92",
@@ -141,7 +151,8 @@
    "languages": [
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "2617aee3-0c08-4d34-8bc5-7010cbbdf895.png"
   },
   {
    "id": "81057c75-09da-4f48-a22d-0cba875477cf",
@@ -155,8 +166,10 @@
     "fr",
     "vi",
     "es-la"
-   ]
+   ],
+   "coverFileName": "69d14700-0ab1-4a5c-8a4f-de20c71a5fa6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:32+00:00"
+ "updatedAt": "2021-07-18T06:52:32+00:00",
+ "coverFileName": "5bcb3305-dd6d-4311-b08f-59acf398ddb2.png"
 }

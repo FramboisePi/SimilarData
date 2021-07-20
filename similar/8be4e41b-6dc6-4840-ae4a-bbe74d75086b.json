@@ -1,7 +1,7 @@
 {
  "id": "8be4e41b-6dc6-4840-ae4a-bbe74d75086b",
  "title": {
-  "en": "Hokuto no Ken \u0026 Pocket Monsters - Pokémon Tougijou (Doujinshi)"
+  "en": "Hokuto no Ken & Pocket Monsters - Pok\u00e9mon Tougijou (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.50615376,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "526e7dbe-d75a-42f7-b919-70b9b2cfcb0d.jpg"
   },
   {
    "id": "947690be-e9e5-4175-83c0-7d38af449fb8",
@@ -25,12 +26,13 @@
    "score": 0.4873659,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a46b54fd-68ac-4fc8-857c-e6c0f4b9d1f4.jpg"
   },
   {
    "id": "47d08a45-2dd0-4771-985a-0276572c2d19",
    "title": {
-    "en": "Hokuto no Ken \u0026 Chuunibyou demo Koi ga Shitai! - Kenpouka Demo Koi ga Shitai! (Doujinshi)"
+    "en": "Hokuto no Ken & Chuunibyou demo Koi ga Shitai! - Kenpouka Demo Koi ga Shitai! (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.4734516,
@@ -38,7 +40,8 @@
     "pl",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b86d9abd-9aa6-42ff-815e-1a972cc59d8f.jpg"
   },
   {
    "id": "89f4150c-1c23-406c-a76c-a82dd3f55709",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "85722d09-c33d-4d3a-a8fd-165aff1f87da.jpg"
   },
   {
    "id": "7e52445d-ea1e-4fc9-90ec-1120c49fddcd",
@@ -62,7 +66,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d2b5a58a-8872-41f1-b188-675ee1c5136c.jpg"
   },
   {
    "id": "10bc74e0-b336-4dc8-ace4-580e59433183",
@@ -75,7 +80,8 @@
     "en",
     "es",
     "pl"
-   ]
+   ],
+   "coverFileName": "8c7614bb-a66c-49a3-a17d-9476828f7679.jpg"
   },
   {
    "id": "24657ac0-5152-4008-ac2b-b5b794160551",
@@ -86,7 +92,8 @@
    "score": 0.4339579,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bf153b6-692b-4b09-8f78-2823fa768d8d.jpg"
   },
   {
    "id": "b75a0d42-ce8c-461e-8e00-3a4863511ec3",
@@ -98,7 +105,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "673f69dd-5320-40a6-a04e-ca2043e54d62.jpg"
   },
   {
    "id": "eac73a7e-5dc2-46d1-98aa-c8a398686fcf",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f5d0b1f6-66d6-40f2-8ebf-b6194a003afc.jpg"
   },
   {
    "id": "080ccf1d-3512-4b57-a94e-cc2c9456ac60",
@@ -121,18 +130,20 @@
    "score": 0.40973085,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e85a6311-0d97-407b-bb86-9e0fe5cdcb8f.jpg"
   },
   {
    "id": "a7b370a7-be03-49c2-a4d4-7f4b7bce4c7b",
    "title": {
-    "en": "Hokuto no Ken \u0026 Azumanga DaiOH - Azumanga Kennoh (Doujinshi)"
+    "en": "Hokuto no Ken & Azumanga DaiOH - Azumanga Kennoh (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10761b72-dd9d-4f73-9fc0-9e3ef2a6fee1.jpg"
   },
   {
    "id": "a07921a0-cd13-4069-8a83-a884d01b4137",
@@ -143,8 +154,10 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6597247-985f-4d0b-8eb9-b9bd868de530.png"
   }
  ],
- "updatedAt": "2021-07-18T06:50:31+00:00"
+ "updatedAt": "2021-07-18T06:50:31+00:00",
+ "coverFileName": "eca950c5-e52d-475d-8b33-24897e826e7c.jpg"
 }

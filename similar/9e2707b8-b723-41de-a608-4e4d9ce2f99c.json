@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1eee2bdc-941e-46ae-9ace-112d9acacc4b.jpg"
   },
   {
    "id": "e041b8a8-d631-47af-a5fe-763506f51ea1",
@@ -28,7 +29,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "aeee12c6-c442-46e2-9b47-aa966f0631e1.jpg"
   },
   {
    "id": "77a92f95-7fe2-45e4-a449-72080ed4e3e3",
@@ -39,7 +41,8 @@
    "score": 0.41385847,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e26f1c2-2f1b-4ac0-a596-bff65d860131.jpg"
   },
   {
    "id": "6f3408d0-645d-4515-ade1-fccf4e2da04f",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "177bd604-bd04-4545-8dc8-cee36ad31b17.jpg"
   },
   {
    "id": "773e5993-821a-4cea-8b44-f4450112a8f5",
@@ -67,18 +71,20 @@
     "es-la",
     "th",
     "ru"
-   ]
+   ],
+   "coverFileName": "6cb24a58-383d-4c36-8730-5807b9b11a21.jpg"
   },
   {
    "id": "862018db-a3fb-4cc6-8769-5a33f5bf5c7d",
    "title": {
-    "en": "Drop!! ～A Tale of the Fragrance Princess～"
+    "en": "Drop!! \uff5eA Tale of the Fragrance Princess\uff5e"
    },
    "contentRating": "safe",
    "score": 0.39005116,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9bcd843b-a6ed-440c-b7cf-ba749a9f3e4a.jpg"
   },
   {
    "id": "2ea8f5bc-31a7-472e-9c60-705d586f0c83",
@@ -91,7 +97,8 @@
     "en",
     "pt-br",
     "vi"
-   ]
+   ],
+   "coverFileName": "04d32c17-2ce2-4892-8948-c2a474b49ec7.jpg"
   },
   {
    "id": "fd4f1147-c090-4a28-923e-eb4918f94d5a",
@@ -102,7 +109,8 @@
    "score": 0.38592178,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6460f7cb-8c1b-42cc-8a6b-a285cd9e96a6.jpg"
   },
   {
    "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
@@ -114,7 +122,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "48994da0-9683-41cc-8eeb-440fa140a75a.jpg"
   },
   {
    "id": "b64a0204-24fe-4ee1-b5e7-5c737ed05497",
@@ -127,7 +136,8 @@
     "id",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "ea1d0d07-fd34-4d0a-9c45-5f48d2819ba7.jpg"
   },
   {
    "id": "7895cbd9-2ce9-4826-823f-6811fef7179e",
@@ -142,7 +152,8 @@
     "ru",
     "id",
     "hu"
-   ]
+   ],
+   "coverFileName": "c8d33c0d-1680-4a88-8450-cfad3f7dd0e2.jpg"
   },
   {
    "id": "565fdcb1-95e8-4034-a6cc-45faa2aac1e3",
@@ -153,8 +164,10 @@
    "score": 0.37669104,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6605a2c2-b948-4710-99ac-056d07f00952.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:53+00:00"
+ "updatedAt": "2021-07-18T06:53:53+00:00",
+ "coverFileName": "0b65e5fa-b176-4a6c-8a2a-3652a0b14b1b.jpg"
 }

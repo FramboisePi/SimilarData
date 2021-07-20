@@ -17,7 +17,8 @@
     "de",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "f1663d4d-1927-4dae-a1fb-ac2f8007eb68.jpg"
   },
   {
    "id": "01882116-3e45-4d67-b932-34f60d360086",
@@ -35,7 +36,8 @@
     "uk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e76d3289-9c62-460e-8a6d-553365df56d2.jpg"
   },
   {
    "id": "5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29",
@@ -48,7 +50,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1c04d728-5dee-448f-8c1f-12d58e5a3bc5.jpg"
   },
   {
    "id": "ac68cc75-7ba8-4387-8586-f6d046795e4a",
@@ -59,7 +62,8 @@
    "score": 0.330285,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "30db1741-cb13-433f-a5c8-3ec6177103e0.jpg"
   },
   {
    "id": "8f8b7cb0-7109-46e8-b12c-0448a6453dfa",
@@ -74,7 +78,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f0ef6e6-d99c-476c-9265-c04a9a0b0c12.jpg"
   },
   {
    "id": "00b5305f-7770-4338-8e61-9871e57e3193",
@@ -86,7 +91,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "a7914ba0-479d-49d5-851f-b68cd3f299f0.jpg"
   },
   {
    "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
@@ -99,12 +105,13 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1f62c44c-a24c-42ad-b667-3f363527b5d6.jpg"
   },
   {
    "id": "8cdbb977-4774-4360-a91c-feeea846f97f",
    "title": {
-    "en": "Robot × Laserbeam"
+    "en": "Robot \u00d7 Laserbeam"
    },
    "contentRating": "safe",
    "score": 0.3300076,
@@ -112,7 +119,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "9b7a254c-fec3-4544-8f2c-beaf2f3571ab.jpg"
   },
   {
    "id": "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
@@ -125,7 +133,8 @@
     "en",
     "es-la",
     "hi"
-   ]
+   ],
+   "coverFileName": "46fe0559-79c6-4ba4-9915-d251e6ea4cbd.jpg"
   },
   {
    "id": "a44673b0-3287-469a-a540-8e4457bd68a4",
@@ -136,7 +145,8 @@
    "score": 0.3300076,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0838f2a0-61b4-4737-aa24-2989c3ed8fdd.jpg"
   },
   {
    "id": "ce1b8042-ae8f-4a2c-84ea-3e2ec6dd126c",
@@ -148,7 +158,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a603453f-b4f1-4f4f-8449-1a7231f2d045.jpg"
   },
   {
    "id": "f2e7e6df-7fc3-45cb-ab29-e8513a7edf35",
@@ -159,8 +170,10 @@
    "score": 0.3219612,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ed2dea0-b6fe-43ea-bf78-bd94d212836c.png"
   }
  ],
- "updatedAt": "2021-07-18T07:07:58+00:00"
+ "updatedAt": "2021-07-18T07:07:58+00:00",
+ "coverFileName": "58f1258e-94d2-4ef5-83c4-251574433aca.jpg"
 }

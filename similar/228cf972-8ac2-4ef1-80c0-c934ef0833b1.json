@@ -1,20 +1,21 @@
 {
  "id": "228cf972-8ac2-4ef1-80c0-c934ef0833b1",
  "title": {
-  "en": "Mahou Shoujo Lyrical Nanoha \u0026 Madoka★Magica - Mado Nano CROSSOVER (Doujinshi)"
+  "en": "Mahou Shoujo Lyrical Nanoha & Madoka\u2605Magica - Mado Nano CROSSOVER (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "c690c2fe-a0fc-4201-82ce-f880938fc97c",
    "title": {
-    "en": "Mahou Shoujo Oriko★Magica"
+    "en": "Mahou Shoujo Oriko\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.48197684,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5edbf0ca-67d0-4950-969a-48be42d4f4d0.jpg"
   },
   {
    "id": "87e76e34-f6ba-49bb-a0c2-20d702ee696f",
@@ -25,7 +26,8 @@
    "score": 0.4723236,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51c3a2a5-23b6-4851-a631-6ded1b763805.jpg"
   },
   {
    "id": "7dc64e44-86dd-4ed0-a4a3-629fe7b8f308",
@@ -36,7 +38,8 @@
    "score": 0.46192205,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f69c79ff-fcf5-43ab-ad48-faccf4656eef.jpg"
   },
   {
    "id": "deb7d87f-d579-4de7-ad35-6b87b9c86ca9",
@@ -47,7 +50,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "99ce2a23-f18c-493a-b76a-225fa949f5a2.jpg"
   },
   {
    "id": "2b23aff8-9e06-4556-b2f5-eacdaa8fda57",
@@ -58,7 +62,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "34a09159-2ab6-480a-b76a-baa2a0626f21.jpg"
   },
   {
    "id": "c143327a-118d-4b5a-88f9-dbb0e323eb71",
@@ -70,7 +75,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a79fe99d-3e57-4620-a062-d2be7a44659b.jpg"
   },
   {
    "id": "9126b6c5-0a8d-4e24-b81a-5c009bc64996",
@@ -81,7 +87,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5541e2e-4ac3-46ce-b1df-cae404639e38.jpg"
   },
   {
    "id": "c63518a0-690f-4c25-8c6c-a9125dffa658",
@@ -92,7 +99,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "730e778a-2a85-4aff-84dd-069186aebb6b.jpg"
   },
   {
    "id": "af77858a-1d75-40af-9577-ac13975c3b37",
@@ -104,7 +112,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "30f66421-b973-4bff-9936-e0599caaae54.jpg"
   },
   {
    "id": "a795b996-7fe1-44af-8e83-372486d4d33e",
@@ -117,7 +126,8 @@
     "fr",
     "ms",
     "en"
-   ]
+   ],
+   "coverFileName": "03797c37-9baf-47c0-bef8-51afdf8b7cab.jpg"
   },
   {
    "id": "c4c85893-ac9d-41bb-acb8-c1e4c77098c9",
@@ -129,7 +139,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "531ac0de-b056-4e0e-803c-4762d985cdd7.jpg"
   },
   {
    "id": "5312f0e8-4416-4eeb-9761-4b1912c9a9f7",
@@ -140,8 +151,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7dad01a8-570f-4430-83fe-0799eac82ef1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:55+00:00"
+ "updatedAt": "2021-07-18T06:30:55+00:00",
+ "coverFileName": "d5e5d0a3-b734-44eb-8451-6b38ee4edbf3.jpg"
 }

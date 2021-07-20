@@ -1,7 +1,7 @@
 {
  "id": "d1e8d6c7-a256-4cb4-8ae9-74411f3fc828",
  "title": {
-  "en": "Hokuto no Ken \u0026 Mahou Shoujo Madoka★Magica - Kenpou Shoujo Kubiha Bujica (Doujinshi)"
+  "en": "Hokuto no Ken & Mahou Shoujo Madoka\u2605Magica - Kenpou Shoujo Kubiha Bujica (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.44843957,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51c3a2a5-23b6-4851-a631-6ded1b763805.jpg"
   },
   {
    "id": "947690be-e9e5-4175-83c0-7d38af449fb8",
@@ -25,23 +26,25 @@
    "score": 0.43988764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a46b54fd-68ac-4fc8-857c-e6c0f4b9d1f4.jpg"
   },
   {
    "id": "c690c2fe-a0fc-4201-82ce-f880938fc97c",
    "title": {
-    "en": "Mahou Shoujo Oriko★Magica"
+    "en": "Mahou Shoujo Oriko\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.4222654,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5edbf0ca-67d0-4950-969a-48be42d4f4d0.jpg"
   },
   {
    "id": "47d08a45-2dd0-4771-985a-0276572c2d19",
    "title": {
-    "en": "Hokuto no Ken \u0026 Chuunibyou demo Koi ga Shitai! - Kenpouka Demo Koi ga Shitai! (Doujinshi)"
+    "en": "Hokuto no Ken & Chuunibyou demo Koi ga Shitai! - Kenpouka Demo Koi ga Shitai! (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.4218589,
@@ -49,7 +52,8 @@
     "pl",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b86d9abd-9aa6-42ff-815e-1a972cc59d8f.jpg"
   },
   {
    "id": "405c5c9d-4021-47f5-a52e-b3bbab5e2fd2",
@@ -60,7 +64,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "272e04f0-5ade-4b1d-a19a-8cc59105627d.jpg"
   },
   {
    "id": "0f77e5d7-7a2a-4581-90b2-3207bc40f704",
@@ -71,7 +76,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41c6fcd5-9b59-40e3-be51-cc135cd445f8.jpg"
   },
   {
    "id": "96d284b6-6cb6-4c0d-a061-891d4775f3aa",
@@ -82,7 +88,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50e97bbb-efe4-471f-985e-5acf8513ee24.jpg"
   },
   {
    "id": "d71ebb4f-12e2-4445-97df-a1a4126a3ce1",
@@ -93,7 +100,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6f96fe7-7c13-4118-b2bd-f8b40c007594.jpg"
   },
   {
    "id": "4c3e41c6-da40-4df1-9978-1c26f7130166",
@@ -106,7 +114,8 @@
     "en",
     "ar",
     "fr"
-   ]
+   ],
+   "coverFileName": "b4a470e9-a1fb-4daf-acfd-5e1ccacc8516.jpg"
   },
   {
    "id": "494e05b4-9319-4e36-a63a-fab112862921",
@@ -119,7 +128,8 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "f01604bb-af48-4192-9334-8d1cf886de0c.jpg"
   },
   {
    "id": "d4ad9513-115e-477f-b366-d27b440261b2",
@@ -134,7 +144,8 @@
     "pl",
     "ar",
     "es"
-   ]
+   ],
+   "coverFileName": "4c3a856f-f59c-43aa-a8fe-cd83fcad1c85.jpg"
   },
   {
    "id": "b75a0d42-ce8c-461e-8e00-3a4863511ec3",
@@ -146,8 +157,10 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "673f69dd-5320-40a6-a04e-ca2043e54d62.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:21+00:00"
+ "updatedAt": "2021-07-18T07:03:21+00:00",
+ "coverFileName": "f3fbaec0-67a7-42a8-9556-6a8da6bf0665.jpg"
 }

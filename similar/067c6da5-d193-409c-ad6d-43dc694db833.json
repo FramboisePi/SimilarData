@@ -1,7 +1,7 @@
 {
  "id": "067c6da5-d193-409c-ad6d-43dc694db833",
  "title": {
-  "en": "Tōkyō Dragons"
+  "en": "T\u014dky\u014d Dragons"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "94ce6985-7a5e-4fd9-b88f-8a72fe0bd125.jpg"
   },
   {
    "id": "db0c5ab7-adb6-4082-9cb3-513ffb508b02",
@@ -29,7 +30,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3a86e7c6-6fe0-44bf-8c48-98c8b39843fd.jpg"
   },
   {
    "id": "e92ad47e-5efe-4c08-9816-b342aea7f518",
@@ -46,7 +48,8 @@
     "pl",
     "ro",
     "en"
-   ]
+   ],
+   "coverFileName": "5d5ba273-e002-480e-a6d1-453bd14f6a72.jpg"
   },
   {
    "id": "aaf765ea-8305-4394-96ab-ca91fad83306",
@@ -57,7 +60,8 @@
    "score": 0.32205513,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "11f0ad0d-8f9d-4701-b1f3-1c4660c02356.png"
   },
   {
    "id": "9a502e35-1051-4e4c-b055-5ab211954fa4",
@@ -71,7 +75,8 @@
     "en",
     "ar",
     "fr"
-   ]
+   ],
+   "coverFileName": "4a876981-02be-438a-984b-b9daa817c735.jpg"
   },
   {
    "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
@@ -82,7 +87,8 @@
    "score": 0.31755066,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d4eb4f8-7ea3-4c90-a820-197803b311be.jpg"
   },
   {
    "id": "85b93023-8d5a-44ad-887a-51060aed0303",
@@ -95,7 +101,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "867357f7-72dc-482c-8f23-604cd4045215.jpg"
   },
   {
    "id": "360833ab-f929-422d-a105-1f98d1686d46",
@@ -106,7 +113,8 @@
    "score": 0.31755066,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f0a5566b-a2f9-4f8e-8f89-8cd772be7b00.jpg"
   },
   {
    "id": "d67d5c53-7480-484a-a59a-bca4ebbccb5f",
@@ -117,7 +125,8 @@
    "score": 0.31755066,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "126d4792-b9a7-4a54-b7e2-8d5403042526.png"
   },
   {
    "id": "cddaf134-5f37-462c-a3d4-caf0c5c0f980",
@@ -128,7 +137,8 @@
    "score": 0.3144573,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d8e73586-cfd4-40f0-87b0-8b2c51ed047d.jpg"
   },
   {
    "id": "2647469c-137f-4a3f-9603-6a04bc582ec2",
@@ -139,7 +149,8 @@
    "score": 0.3043135,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2a3b2ca-c778-4a60-9a26-7e30e35fa4a3.jpg"
   },
   {
    "id": "31f2b319-b581-4cf1-9b95-fb4d11e4032d",
@@ -150,8 +161,10 @@
    "score": 0.30295178,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65bb2b88-3855-44b8-a5bd-edd9695a3c25.png"
   }
  ],
- "updatedAt": "2021-07-18T06:25:40+00:00"
+ "updatedAt": "2021-07-18T06:25:40+00:00",
+ "coverFileName": "500bb327-3b5d-48b7-9ddd-311f1ad7380e.png"
 }

@@ -1,7 +1,7 @@
 {
  "id": "c8bf71c6-beb4-4dc2-8331-29282161351f",
  "title": {
-  "en": "The Saintess of Another World Is a Pâtissière"
+  "en": "The Saintess of Another World Is a P\u00e2tissi\u00e8re"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.41589868,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a80a7440-6209-4ded-b27e-d3e3fdd39266.png"
   },
   {
    "id": "bfd76e18-140e-4a54-979f-e88ea0b3d3c0",
@@ -25,7 +26,8 @@
    "score": 0.40246382,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9bf2b418-1eef-4540-9f9a-113e3ea170c4.jpg"
   },
   {
    "id": "2a7ccd70-60e7-4ce6-820b-9adf4a9a0e40",
@@ -36,12 +38,13 @@
    "score": 0.38319984,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "913f902c-3669-4522-b098-fcbf17406a81.jpg"
   },
   {
    "id": "bc20fa98-b707-43cc-b195-bcee8e518ed9",
    "title": {
-    "en": "I'll Become a Villainess That Will Go Down in History ― The More of a Villainess I Become, the More the Prince Will Dote on Me"
+    "en": "I'll Become a Villainess That Will Go Down in History \u2015 The More of a Villainess I Become, the More the Prince Will Dote on Me"
    },
    "contentRating": "safe",
    "score": 0.36273718,
@@ -50,7 +53,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "2f613a2f-8921-4b3a-ad29-4a9ed53de5fe.jpg"
   },
   {
    "id": "700bd275-d17e-4fd6-be65-1994eceaf52d",
@@ -61,7 +65,8 @@
    "score": 0.36132568,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f522f491-50c0-4e7a-aa36-a79693282af3.jpg"
   },
   {
    "id": "0346b0eb-d56a-4b69-af71-5cf283792372",
@@ -72,7 +77,8 @@
    "score": 0.34079093,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50302849-adf8-43f1-b899-76b0a53f0084.jpg"
   },
   {
    "id": "7350be91-b5e1-467d-89df-a089d014d20b",
@@ -89,7 +95,8 @@
     "pt-br",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "539e571b-b9ef-4f12-be48-c370a37dcd82.jpg"
   },
   {
    "id": "5ec706c1-7613-42e4-8123-816193b7d2c5",
@@ -100,7 +107,8 @@
    "score": 0.33443725,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5e00541-7cef-46c4-844b-ba23e7898f3d.png"
   },
   {
    "id": "1fb6e5d7-35b8-4741-9fca-2426f6c37e31",
@@ -113,7 +121,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "458782b0-c574-4aab-921c-d34092f0e0b5.jpg"
   },
   {
    "id": "8eb0ff3d-d0db-44d1-b6df-6fa363c73f21",
@@ -124,7 +133,8 @@
    "score": 0.32739642,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bfcb3cd7-b781-4f75-9c33-3ba946135c3b.jpg"
   },
   {
    "id": "1d65c987-2d48-40e6-b169-d7d28c3d3585",
@@ -137,7 +147,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "b68d617f-30ec-47e4-9535-fc6e8104c067.png"
   },
   {
    "id": "578ca54a-0aaa-4928-8dd1-219a706299f9",
@@ -150,8 +161,10 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d3dbfd79-4b02-4c7a-8cf9-da07a1907b23.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:39+00:00"
+ "updatedAt": "2021-07-18T07:01:39+00:00",
+ "coverFileName": "7c247501-7a6f-400c-a434-2dcf1daaa30e.jpg"
 }

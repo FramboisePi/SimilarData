@@ -1,7 +1,7 @@
 {
  "id": "db4b9cf3-aada-4dd1-9719-a5db419dd0ec",
  "title": {
-  "en": "Touhou \u0026 Jojo's Bizarre Adventure - A NEET's Bizarre Adventure (Doujinshi)"
+  "en": "Touhou & Jojo's Bizarre Adventure - A NEET's Bizarre Adventure (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c7ddd149-71ad-4f11-b486-c95c99800f31.jpg"
   },
   {
    "id": "4e0116d2-8ac1-41ee-a47f-cae681350c9c",
@@ -26,7 +27,8 @@
    "score": 0.611258,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "09a9817b-8dba-44ad-81bf-f1854a043739.jpg"
   },
   {
    "id": "849eb10a-7092-40d1-b9e2-bdc450f43109",
@@ -37,7 +39,8 @@
    "score": 0.6102402,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "966ce177-44a8-4eb6-a684-108960ce36a1.jpg"
   },
   {
    "id": "4c32270a-dd47-433d-90ad-b0dbaaa55965",
@@ -48,7 +51,8 @@
    "score": 0.59842324,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46713221-6752-4cb5-b749-98b05810a296.png"
   },
   {
    "id": "4877b97f-aca8-4611-a316-a84e49217577",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "479f7129-faaa-4d34-8173-9838a71dc7ac.jpg"
   },
   {
    "id": "05d3d865-85fd-42db-8fa9-530c1db83fb6",
@@ -71,7 +76,8 @@
    "score": 0.48031846,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "87268a7c-8120-475c-82da-abe1dfcc51e1.png"
   },
   {
    "id": "61079efc-d1c4-4565-bbe6-de58e1d75fdf",
@@ -85,7 +91,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "a49e8c13-377f-4cfe-843b-e0e37b9dd481.jpg"
   },
   {
    "id": "3148976a-e0b0-4a9c-a1eb-58783a11ff99",
@@ -101,7 +108,8 @@
     "it",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "56139c71-c132-4e8c-a34f-4e331a4d8756.jpg"
   },
   {
    "id": "9e6a9200-4349-4ff7-835b-211e80108527",
@@ -113,7 +121,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7b409fb8-ccab-4417-b829-5ae8c32b0e21.jpg"
   },
   {
    "id": "8858d626-a009-4c76-9138-c937362ca85f",
@@ -124,7 +133,8 @@
    "score": 0.41908273,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91be4387-4bf5-411e-8746-1771c8f0f809.png"
   },
   {
    "id": "ea57752d-acb7-469e-aa60-43e694ded9a9",
@@ -137,7 +147,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "c0ff2fd5-a806-4f4e-bf24-0295e7815f21.jpg"
   },
   {
    "id": "ec24bafb-411b-4717-889a-e21da0f227e9",
@@ -148,8 +159,10 @@
    "score": 0.39291218,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f32ae40-f8e4-442f-949d-05e2eb12d150.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:08+00:00"
+ "updatedAt": "2021-07-18T07:05:08+00:00",
+ "coverFileName": "7bab5ade-49dc-4517-9a64-108991ec2db5.jpg"
 }

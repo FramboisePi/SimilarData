@@ -1,7 +1,7 @@
 {
  "id": "f878e79c-3b3c-456d-8037-765fc85c1bb2",
  "title": {
-  "en": "Bonnou☆Saiyuuki"
+  "en": "Bonnou\u2606Saiyuuki"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.27343526,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "704d2805-fc09-43e7-bf1d-d9a2bc5a1a60.jpg"
   },
   {
    "id": "3c1d3411-7ac4-4901-876f-29f45aca4d95",
@@ -25,7 +26,8 @@
    "score": 0.2682884,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29281c8e-6aba-4cb3-b3f3-2de063f8d33e.png"
   },
   {
    "id": "60449946-9a58-4274-a566-fbe4235414aa",
@@ -39,12 +41,13 @@
     "es-la",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "6852516e-ef51-4fcc-be0d-83953d68c1cc.jpg"
   },
   {
    "id": "54dce902-6873-4033-8828-176fe5ce8f9f",
    "title": {
-    "en": "Save \u0026 Load no Dekiru Yadoya-san"
+    "en": "Save & Load no Dekiru Yadoya-san"
    },
    "contentRating": "suggestive",
    "score": 0.26559198,
@@ -54,7 +57,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a77f5e22-cc5c-423b-a607-33648263523b.jpg"
   },
   {
    "id": "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
@@ -71,7 +75,8 @@
     "ru",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d4727bbf-7fcf-445f-9e6d-c618f9ebc2ab.jpg"
   },
   {
    "id": "125a4bc0-500b-4aaf-9299-e3aa44d0fd38",
@@ -83,7 +88,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5b513b55-b2a1-40ea-b187-f9248208771b.jpg"
   },
   {
    "id": "20df8f80-b91d-48d5-abb5-9d24ddb85565",
@@ -96,7 +102,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "dff0eab7-8050-49ab-b2e3-b1751978c85e.jpg"
   },
   {
    "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
@@ -107,7 +114,8 @@
    "score": 0.25759947,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "54011d29-279f-4c7a-b964-6f9b9b24a0d3.jpg"
   },
   {
    "id": "f20282e5-c54c-441b-a5f2-a5ae5da3df81",
@@ -118,7 +126,8 @@
    "score": 0.2504025,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9603885-8b7d-4063-a0c6-9d4d3cba34eb.jpg"
   },
   {
    "id": "555cc886-20d4-446e-a3d6-08c539c1d990",
@@ -129,7 +138,8 @@
    "score": 0.2504025,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2471ef9-96a6-48b3-89ec-045e8c7e1911.jpg"
   },
   {
    "id": "3c157222-4425-46d4-a7e7-321bc0bb61de",
@@ -140,7 +150,8 @@
    "score": 0.2504025,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1c75a2c-ba28-41dd-8bba-b9139c3bc6df.jpg"
   },
   {
    "id": "a0eb2f52-05be-48ec-b778-4fd1500afe61",
@@ -151,8 +162,10 @@
    "score": 0.2504025,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c1c25dd-c338-4c89-aa4e-b27505ec3943.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:21+00:00"
+ "updatedAt": "2021-07-18T07:10:21+00:00",
+ "coverFileName": "8a73a4c1-6152-4253-a91a-f7908c94a287.jpg"
 }

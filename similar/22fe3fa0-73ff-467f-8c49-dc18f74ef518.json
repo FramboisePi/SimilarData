@@ -14,7 +14,8 @@
    "score": 0.42221102,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af6cea80-95c1-4f09-bb55-9a59664b051d.jpg"
   },
   {
    "id": "a8dfe734-b8fd-4884-9696-831805c1c25f",
@@ -27,7 +28,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "bb1dfcff-165c-4485-ad56-bebbcc178930.jpg"
   },
   {
    "id": "cc94caf4-bde9-42e9-9278-90d08a75c503",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "b4b972dc-b84a-4d66-9c94-7e1697a13420.jpg"
   },
   {
    "id": "9ef560c3-e1b9-4451-9103-1fc5af45c09e",
@@ -52,7 +55,8 @@
     "pt-br",
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "9b926d22-4294-471c-b8d0-f8982cfb9e11.jpg"
   },
   {
    "id": "d9414237-832b-46a7-9fb4-1c66f4b97736",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "20341627-f206-41cc-ae0b-67c24a7108e8.png"
   },
   {
    "id": "f5907d17-1c43-4486-a16f-fd480068237a",
@@ -75,7 +80,8 @@
    "score": 0.38126054,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eeb85afc-87aa-48f9-a873-6f65556fa3ea.jpg"
   },
   {
    "id": "760ef322-4c63-4709-b005-caafac6a2b71",
@@ -87,7 +93,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "adee7055-a542-42ec-a6ba-35c10eac2a11.jpg"
   },
   {
    "id": "885d548d-d238-472a-a1bd-44d51d484685",
@@ -100,7 +107,8 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "25d1366e-255e-4ff3-b66b-0f9fce5800d9.png"
   },
   {
    "id": "7a418606-2fae-479d-be87-290fc704ec81",
@@ -111,7 +119,8 @@
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d1c3fcf-d81c-4f1b-9c84-370b0efb52fd.jpg"
   },
   {
    "id": "c97478bb-e328-481a-a15d-08042a8fffe7",
@@ -122,19 +131,21 @@
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "245754ba-a0ab-40bf-8d51-5e0007d35719.png"
   },
   {
    "id": "f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
    "title": {
-    "en": "HE∀DS"
+    "en": "HE\u2200DS"
    },
    "contentRating": "safe",
    "score": 0.36676988,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9f2777dc-0e05-42bc-8a32-5f5296d46e26.jpg"
   },
   {
    "id": "d7ccd695-044b-47df-b92b-56943c80deaa",
@@ -146,8 +157,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "65aae182-4299-4cdb-bca9-c2318567182f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:31:00+00:00"
+ "updatedAt": "2021-07-18T06:31:00+00:00",
+ "coverFileName": "1ff4160d-32cc-42e8-8d04-8c4421a8a375.jpg"
 }

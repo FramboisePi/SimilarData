@@ -15,18 +15,20 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b0f46636-75f2-4833-88dd-c1913d5c95a7.jpg"
   },
   {
    "id": "bd9b2aa1-4397-4700-b658-e4a3ca8ebb26",
    "title": {
-    "en": "Bread \u0026 Butter"
+    "en": "Bread & Butter"
    },
    "contentRating": "safe",
    "score": 0.4842421,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f041f891-a99a-4acb-b95f-5ba41eb8c7e8.jpg"
   },
   {
    "id": "0cc9358f-d0f3-42ed-a146-95604b01c7f0",
@@ -39,7 +41,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "59ad7c3f-f805-4fed-86ca-b3aca39c6bfa.png"
   },
   {
    "id": "a5bfed68-8f57-4399-8765-aced075c95d7",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ce31e737-641f-4af2-8a01-68b571936f7e.png"
   },
   {
    "id": "88569c5f-0164-47c6-aa02-3737b592e532",
@@ -62,7 +66,8 @@
    "score": 0.44583967,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e5a001b9-1acd-4f1f-930d-b0d8ef25e818.jpg"
   },
   {
    "id": "687abfb8-6b36-42e5-bf97-a3853de172eb",
@@ -73,7 +78,8 @@
    "score": 0.43533444,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c093372c-a10c-4d48-880e-7984af2f2638.jpg"
   },
   {
    "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a2434820-b719-4075-bbe8-7428c7bad5a9.jpg"
   },
   {
    "id": "53a84ca6-a6ef-4273-92f4-8f894d86fafe",
@@ -96,7 +103,8 @@
    "score": 0.4262657,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "490a970e-bd80-4be3-baaa-042217e088a6.jpg"
   },
   {
    "id": "26c4a83f-4078-431b-b862-820c452bb278",
@@ -109,7 +117,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9467b41b-a57d-46e0-9007-0338282715ba.jpg"
   },
   {
    "id": "5a630c5f-8557-40a2-8c06-a86fc83563f1",
@@ -121,7 +130,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "000bfaab-9b67-4273-8f37-876c75cde449.jpg"
   },
   {
    "id": "66fe4763-8999-49bb-825b-40a6efee7699",
@@ -132,12 +142,13 @@
    "score": 0.42349774,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1711ec55-9da1-4af2-9f55-807abe0910da.jpg"
   },
   {
    "id": "9ef97eba-e0bc-452c-9ed0-bfb645d9b536",
    "title": {
-    "en": "Hitoribocchi no ○○ Seikatsu"
+    "en": "Hitoribocchi no \u25cb\u25cb Seikatsu"
    },
    "contentRating": "safe",
    "score": 0.42322603,
@@ -148,8 +159,10 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "625a18b4-1b16-4077-84e1-fedce5aed568.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:15+00:00"
+ "updatedAt": "2021-07-18T07:03:15+00:00",
+ "coverFileName": "68faf810-1785-49b6-bedd-6baeb5559f8f.jpg"
 }

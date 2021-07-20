@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
   },
   {
    "id": "6c894f65-57eb-4ea0-9aeb-eda31322238d",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "eae011c8-1b30-4c3c-b4c4-2f380596e3a1.png"
   },
   {
    "id": "e223d106-0db3-430c-b7e4-f232f0c3fc75",
@@ -39,7 +41,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "4dc335c7-7b4c-4780-b584-36d84c0d379a.jpg"
   },
   {
    "id": "0d600eb1-396d-489b-bae0-bb244f772443",
@@ -51,7 +54,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b93d84e0-e25f-4e37-8d7a-377d72d5d9a7.jpg"
   },
   {
    "id": "f7be773a-687e-443a-b751-e7062b8c9877",
@@ -62,7 +66,8 @@
    "score": 0.5615935,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e827ae81-33e0-4c18-9e79-01c93ce148b7.png"
   },
   {
    "id": "80614a58-3695-49f1-89da-7007d1325bcb",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "eb0acddc-f8c3-444a-b1f7-bd1790f7fa6c.jpg"
   },
   {
    "id": "1ca5d703-a2ef-4612-9d26-d1f9797156c6",
@@ -85,7 +91,8 @@
    "score": 0.55096155,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "528373a4-ab9a-4293-8621-7c3e3c4621c0.jpg"
   },
   {
    "id": "0a708d9f-0b44-4ea7-93d2-d4a7a7671cde",
@@ -98,7 +105,8 @@
     "it",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ebee2119-99a5-49f0-b24b-31c0a0189d6d.jpg"
   },
   {
    "id": "d566f291-3861-4383-a53b-8af8b9925e5a",
@@ -109,7 +117,8 @@
    "score": 0.5500414,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f549ea9a-4df4-449e-884d-f85882380ff5.jpg"
   },
   {
    "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
@@ -120,18 +129,20 @@
    "score": 0.5498689,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "abe3b509-2a85-4e44-b1be-d7737a31732b.png"
   },
   {
    "id": "484f7218-6d03-4072-814f-9654192352d1",
    "title": {
-    "en": "Kamakura Deco \u0026 Kofu Life"
+    "en": "Kamakura Deco & Kofu Life"
    },
    "contentRating": "safe",
    "score": 0.54331744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df0c87bd-31c2-4cb3-9510-feece38791e6.jpg"
   },
   {
    "id": "b9ef03f8-22e4-4e9b-ba9d-7c1b289ac4e6",
@@ -142,8 +153,10 @@
    "score": 0.54249877,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba5a170c-dea5-45c9-8ce8-f834a24ba2f4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:42+00:00"
+ "updatedAt": "2021-07-18T06:40:42+00:00",
+ "coverFileName": "4378780f-27ee-488b-9347-6cb7087b6542.jpg"
 }

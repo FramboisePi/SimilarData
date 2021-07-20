@@ -8,7 +8,7 @@
   {
    "id": "adbd4534-3183-4913-b8d2-f9f8850b1a48",
    "title": {
-    "en": "Le Théâtre de A"
+    "en": "Le Th\u00e9\u00e2tre de A"
    },
    "contentRating": "safe",
    "score": 0.24783188,
@@ -21,7 +21,8 @@
     "de",
     "bg",
     "pl"
-   ]
+   ],
+   "coverFileName": "c59450d5-57fe-4a12-be83-eadcd086f31a.jpg"
   },
   {
    "id": "3d435d02-e649-489d-9ad8-d2418cdd786b",
@@ -34,7 +35,8 @@
     "es",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "f313d67a-68a9-469d-8431-94ffa297b6e8.jpg"
   },
   {
    "id": "fe840243-5b68-447a-ab4b-c094eed7d6af",
@@ -48,7 +50,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "26477ffc-f3b7-48ee-8441-23bb3047e752.png"
   },
   {
    "id": "7fd01936-334d-41a9-bf3e-2388aa7e514f",
@@ -62,7 +65,8 @@
     "de",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "13e10e11-5812-407d-bd44-f763b8168ba2.jpg"
   },
   {
    "id": "93fdaa7e-1686-454d-a701-ba02f2f1a7db",
@@ -77,8 +81,10 @@
     "en",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "c6bc0615-2f23-4dd0-a72d-ee4299cdbff2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:46+00:00"
+ "updatedAt": "2021-07-18T06:53:46+00:00",
+ "coverFileName": "8b57db36-9a1d-4832-a103-d9e8c17110a6.jpg"
 }

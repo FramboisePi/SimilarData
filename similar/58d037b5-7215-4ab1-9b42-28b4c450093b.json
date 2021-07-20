@@ -1,7 +1,7 @@
 {
  "id": "58d037b5-7215-4ab1-9b42-28b4c450093b",
  "title": {
-  "en": "Living as an Emperor's Fiancée"
+  "en": "Living as an Emperor's Fianc\u00e9e"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.6243413,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6b18b0b-8bdf-4cc3-a48e-c794843959b2.jpg"
   },
   {
    "id": "8d322b36-fdeb-41eb-bac0-5735aa69129d",
@@ -25,7 +26,8 @@
    "score": 0.58471936,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc24282d-a5bb-491a-a843-320db0c2ae55.jpg"
   },
   {
    "id": "0ce2f37a-0984-42e9-8b1e-78cb56e0ea91",
@@ -38,7 +40,8 @@
     "en",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "6879e3df-9568-4720-aed4-d4d9b689f673.jpg"
   },
   {
    "id": "a8857597-bb91-4ae9-b01e-467a302b7e0d",
@@ -51,7 +54,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6f333a6c-be85-47ce-99d3-5543a6074d17.jpg"
   },
   {
    "id": "e2c79235-d8bf-4994-b2b5-52e7fa673c37",
@@ -63,7 +67,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "a50036d3-f95f-45c8-9f13-22d85d563e6c.jpg"
   },
   {
    "id": "99b9c598-3e9f-49ab-bd4d-181f080d3ef5",
@@ -74,7 +79,8 @@
    "score": 0.5353427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bcc90fb5-711d-4473-9c64-4150b9a725d2.jpg"
   },
   {
    "id": "5c4ed3a8-7806-4bae-bdc3-87965eea0c31",
@@ -87,7 +93,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "039cdac8-8b1a-40f4-a1ad-45280bba6db2.jpg"
   },
   {
    "id": "722a45c0-5e55-40f2-929b-ff69b0989edb",
@@ -102,7 +109,8 @@
     "id",
     "tr",
     "ar"
-   ]
+   ],
+   "coverFileName": "42756364-56a5-43c2-bc46-9702984dd6bf.jpg"
   },
   {
    "id": "be87e5b7-a0f5-4bac-b873-c1dd848cec3d",
@@ -113,7 +121,8 @@
    "score": 0.5146669,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "56e736f0-9204-4f0c-b20e-562dce71395f.jpg"
   },
   {
    "id": "f6685a30-6a98-4ec1-b04a-0482315cebea",
@@ -124,7 +133,8 @@
    "score": 0.51028734,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e47f1c05-48b4-4bc0-ac02-4be201fb6475.jpg"
   },
   {
    "id": "91a7184d-40df-4169-aa58-bf541e11733b",
@@ -135,7 +145,8 @@
    "score": 0.51014477,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ecd56d43-f7d1-44ed-97bf-d011531f7190.png"
   },
   {
    "id": "8700c047-0a64-4268-94af-96d48a44e1a7",
@@ -150,8 +161,10 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "de90bce8-217f-40ee-a842-88144d9d4fd1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:00+00:00"
+ "updatedAt": "2021-07-18T06:41:00+00:00",
+ "coverFileName": "7704add4-dd4e-428c-b583-3190d10c8b1b.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.49626818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b4b22af2-82cb-490f-b38c-7d2ca15f71c1.jpg"
   },
   {
    "id": "3a1c1aa8-de86-498a-9c6f-87ad80640857",
@@ -25,7 +26,8 @@
    "score": 0.46583074,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e690bb41-aff5-4204-b4e2-abcc29a95484.jpg"
   },
   {
    "id": "1090afe3-3b91-4325-a9b4-d92875aa815e",
@@ -41,7 +43,8 @@
     "ru",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a48ed2d7-8760-4076-89cb-03dc63de5ef1.png"
   },
   {
    "id": "9f3991e0-8e03-4745-b0db-428187b2b0c7",
@@ -52,7 +55,8 @@
    "score": 0.4389257,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "470defe3-b968-46d0-ba32-df04ada1ad44.jpg"
   },
   {
    "id": "ec86fe52-2294-4244-99ce-1981cfc950ad",
@@ -63,7 +67,8 @@
    "score": 0.43247148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "898b7824-15f7-435b-8b7b-bc2dd94ad7b1.jpg"
   },
   {
    "id": "9c141f57-1756-4275-9d39-e94adab92650",
@@ -74,7 +79,8 @@
    "score": 0.42451832,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e1181960-2fc1-447c-9c2a-2523b9bf764d.jpg"
   },
   {
    "id": "92f68774-cc7e-4779-bae5-903e0ce30015",
@@ -86,7 +92,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "dab5c66e-f823-48c9-8f05-cd744053b04b.jpg"
   },
   {
    "id": "81632138-0230-45fe-8707-c70a75cf2bc4",
@@ -99,7 +106,8 @@
     "pl",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "411d91e2-7953-4128-9504-f288bbf54e72.jpg"
   },
   {
    "id": "e5639948-6e7f-4096-9203-797271bfb0c0",
@@ -112,7 +120,8 @@
     "en",
     "fr",
     "vi"
-   ]
+   ],
+   "coverFileName": "00c74bd1-ba1a-491e-a579-b52347a0bd83.jpg"
   },
   {
    "id": "0ca1627e-95dd-4118-892a-f144adf02256",
@@ -125,18 +134,20 @@
     "pt-br",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "f9f862d1-44e5-4cd8-baae-34e9f645b414.jpg"
   },
   {
    "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
    "title": {
-    "en": "Saint☆Onii-san"
+    "en": "Saint\u2606Onii-san"
    },
    "contentRating": "safe",
    "score": 0.38645208,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da5567b7-de52-429a-97a3-f2a7f7f8c165.jpg"
   },
   {
    "id": "668c06ad-e622-49a8-85a9-db29e1f91968",
@@ -147,8 +158,10 @@
    "score": 0.38413787,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af256b58-41b9-41ae-8e8d-3dddff76b8f5.png"
   }
  ],
- "updatedAt": "2021-07-18T06:40:19+00:00"
+ "updatedAt": "2021-07-18T06:40:19+00:00",
+ "coverFileName": "24a1acb5-1f56-4f36-ba56-c82d0ae785b4.jpg"
 }

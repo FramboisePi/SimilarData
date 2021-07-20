@@ -1,7 +1,7 @@
 {
  "id": "6fc509dc-8678-483c-ba17-7afd3593f06a",
  "title": {
-  "en": "Macross Δ - White Knight of the Black Wing"
+  "en": "Macross \u0394 - White Knight of the Black Wing"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.19552515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3bb1f108-1c01-425a-8f41-0cdb5add1e7a.jpg"
   },
   {
    "id": "6ef36fa9-c074-48e4-8a1d-4ef157893b8b",
@@ -25,7 +26,8 @@
    "score": 0.18152654,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "076a164c-d6ce-4708-bfae-471020221c5c.jpg"
   },
   {
    "id": "7ecd5064-76fb-40c9-a72d-7e76896a0d94",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b9d9fde2-8b23-4481-8384-6826ca04ef49.jpg"
   },
   {
    "id": "9a152e4d-789c-4fd7-b3a2-46df4aaa6131",
@@ -48,7 +51,8 @@
    "score": 0.17108451,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7108a3b-99e8-4545-a9b1-78f1d971e53a.jpg"
   },
   {
    "id": "a218a7be-4a6a-4b0f-a530-cc945b47ad1d",
@@ -59,7 +63,8 @@
    "score": 0.17108451,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91cbb521-57d9-4850-8b62-5bd5cafc90bb.jpg"
   },
   {
    "id": "a41e5721-d0dc-4c5a-b995-b899956f1aa8",
@@ -70,7 +75,8 @@
    "score": 0.16706148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "646a3119-c00d-4bb4-9cf5-cb531d074790.jpg"
   },
   {
    "id": "2b5ef364-a7d2-42b1-915e-93c5e7140952",
@@ -81,18 +87,20 @@
    "score": 0.1483524,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2a278a7d-4cac-4f09-9525-c19780a02071.png"
   },
   {
    "id": "4bff177d-23af-45cc-ab14-ae503d11fdeb",
    "title": {
-    "en": "JOKE:ЯR'S"
+    "en": "JOKE:\u042fR'S"
    },
    "contentRating": "safe",
    "score": 0.14816354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ebfe4e9-3b21-496b-9108-63f88f244101.jpg"
   },
   {
    "id": "5dd43613-b040-47e6-9640-0fca57a362b2",
@@ -103,7 +111,8 @@
    "score": 0.14816354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3f90d8d6-8048-4010-a4a8-207846c20c45.jpg"
   },
   {
    "id": "b6d9b931-83fe-434f-b01d-60302ca3a353",
@@ -114,7 +123,8 @@
    "score": 0.14816354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4e2b2af-b9e0-4c6f-85ae-dee69dcdad55.png"
   },
   {
    "id": "33979b34-2ad0-4a1e-bc71-61adaed49afe",
@@ -127,7 +137,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0be217a8-2378-4dd1-9ec8-e045d962ee23.jpg"
   },
   {
    "id": "22a86d7c-6827-402c-80af-dbdee3c6c6aa",
@@ -139,8 +150,10 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "d2dacee4-3b34-4fc5-9feb-ad850a49b5b9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:11+00:00"
+ "updatedAt": "2021-07-18T06:45:11+00:00",
+ "coverFileName": "9b61babb-a9e9-4532-b34c-b2bf12b23cad.jpg"
 }

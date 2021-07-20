@@ -18,7 +18,8 @@
     "es-la",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2bec57c0-bcd2-4689-8315-06826f674f4e.jpg"
   },
   {
    "id": "a242f848-d891-40cc-988b-da67e650eea6",
@@ -30,7 +31,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "a535d8a8-d141-4463-821a-8c78eb9d360f.jpg"
   },
   {
    "id": "88510172-1e4c-4273-8f07-8503224f505c",
@@ -42,7 +44,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "90f74b92-dfb6-4c80-aa10-bc681ab75022.jpg"
   },
   {
    "id": "c48e5173-7e70-4791-b35a-008077c99645",
@@ -56,7 +59,8 @@
     "tr",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "f8c41b34-6371-47f2-83f5-481f9d881b92.jpg"
   },
   {
    "id": "f55dd1f4-8561-46f1-8f74-9710240b8a67",
@@ -69,7 +73,8 @@
     "en",
     "id",
     "de"
-   ]
+   ],
+   "coverFileName": "2df97257-48d2-4b38-979f-e42fa141654d.jpg"
   },
   {
    "id": "f1e0fed4-2f72-43ab-8c00-58867312288d",
@@ -85,7 +90,8 @@
     "es-la",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "13e50e38-2ccf-44b7-af07-ab3830b708e6.jpg"
   },
   {
    "id": "de8beb3e-e88f-42de-a976-334b75a85f96",
@@ -97,7 +103,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "dd906868-9500-454b-9201-d40bfcb2438f.jpg"
   },
   {
    "id": "e7ab59c3-36e9-4966-999b-0436c2a039a2",
@@ -108,19 +115,21 @@
    "score": 0.30655897,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "4b89a313-64c4-4f31-8265-f68149494efc.jpg"
   },
   {
    "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Tiger & Bunny"
    },
    "contentRating": "safe",
    "score": 0.30425555,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "43583370-710b-43d6-94b4-92acd892f9b0.jpg"
   },
   {
    "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
@@ -134,7 +143,8 @@
     "vi",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a06f8a72-c1c3-4911-a108-23ad60c328a7.jpg"
   },
   {
    "id": "a1f9462a-a340-4098-81de-1f2536b2f782",
@@ -147,7 +157,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "6c282deb-3e37-44ff-81f3-16eef1654510.jpg"
   },
   {
    "id": "6e3553b9-ddb5-4d37-b7a3-99998044774e",
@@ -161,8 +172,10 @@
     "it",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9bcdc4ac-becf-4336-baee-0a7f0e95cae5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:19+00:00"
+ "updatedAt": "2021-07-18T06:43:19+00:00",
+ "coverFileName": "1ad3a1ad-e3e5-4f8b-a550-97122644bdca.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.46531048,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0dab2b4-98fd-4622-9444-a9e223744b22.jpg"
   },
   {
    "id": "048a257f-9c44-40f3-b6fc-5cbe2042c31d",
@@ -25,7 +26,8 @@
    "score": 0.3887974,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc165770-6182-42c9-bc60-bdab36ddd586.jpg"
   },
   {
    "id": "684f3eea-f5e2-47b9-826a-f113d4dca0b7",
@@ -37,7 +39,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4109c636-62a9-4027-a5bd-c63a817ac679.jpg"
   },
   {
    "id": "873f93ae-96ac-4482-91ac-023a6ccecfd3",
@@ -50,7 +53,8 @@
     "es",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "334628d0-75f6-4b67-8fe5-d23b7689d18b.jpg"
   },
   {
    "id": "15588d53-d6e9-4c07-813f-5a4c65e51c0a",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "facde981-0657-4b8e-8809-9662fd386b14.png"
   },
   {
    "id": "e4956872-28ff-4c7f-8d3e-d95575ec69e8",
@@ -75,7 +80,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "94e426d4-a870-4d1c-bec0-5545d471a6e5.jpg"
   },
   {
    "id": "154b12df-1669-4c0d-9f55-7c7eaa601744",
@@ -86,7 +92,8 @@
    "score": 0.35197708,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "887704ae-19fa-4c11-8f9a-cefe283b874b.jpg"
   },
   {
    "id": "c615dd55-dbfd-4416-b631-01232984aa71",
@@ -99,7 +106,8 @@
     "id",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5d85a10b-3f94-4c09-b166-a9d10fd8e32b.png"
   },
   {
    "id": "94bfc769-f5e5-4f88-838c-4f69e7a663c2",
@@ -113,7 +121,8 @@
     "fr",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "11a7b722-0824-424f-a3bb-1d2fa483cfb0.jpg"
   },
   {
    "id": "3a57573d-84f2-4eab-9f5e-ee5100518c5c",
@@ -124,19 +133,21 @@
    "score": 0.34693587,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e2be8948-e5b3-42cf-a4c6-26a07759aa6d.jpg"
   },
   {
    "id": "35c15c68-5268-4bc9-a6e2-b189e1882604",
    "title": {
-    "en": "Gyon-Woo \u0026 Jik-Nyu"
+    "en": "Gyon-Woo & Jik-Nyu"
    },
    "contentRating": "safe",
    "score": 0.34691086,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4aba7226-e47f-4806-bd56-bef74c9ddd49.jpg"
   },
   {
    "id": "ba78b8c3-b5cc-4bc7-9acd-c237b9f9b6a7",
@@ -149,8 +160,10 @@
     "en",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "869cd005-7627-4410-b5a9-496e89d042bd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:48+00:00"
+ "updatedAt": "2021-07-18T06:33:48+00:00",
+ "coverFileName": "cf0b0c16-b5d3-40c3-8f3b-2f171069717c.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.55647445,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dfd8b114-bb2a-4835-8490-c238880be09d.jpg"
   },
   {
    "id": "8772a20d-3456-4876-9d3f-ed0dcf489a42",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1fcb52ca-7467-4137-af24-98da60fe7b6f.jpg"
   },
   {
    "id": "b37dc5a5-35fc-4ceb-965b-58d878ced716",
@@ -37,7 +39,8 @@
    "score": 0.5534654,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58fd5b7b-15aa-445b-bf44-1fa35cf5e628.jpg"
   },
   {
    "id": "d4f8e457-23f9-4876-9667-e9a5a9424db8",
@@ -48,7 +51,8 @@
    "score": 0.50370157,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "72462c77-89d0-41f4-aa45-b03d1f02c8fa.png"
   },
   {
    "id": "c4395d6d-20a1-49d5-b696-bf9244d077b6",
@@ -61,7 +65,8 @@
     "it",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "78b66c65-c1c6-477d-8953-c67570ad8072.jpg"
   },
   {
    "id": "0ab760df-0bca-446e-9360-375010be42db",
@@ -72,7 +77,8 @@
    "score": 0.5013988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6205205f-69f1-4bfb-8a5d-988cc875fa1f.jpg"
   },
   {
    "id": "d47104f8-f77b-4dfd-8b35-b9d5f1bf4c83",
@@ -83,7 +89,8 @@
    "score": 0.49915683,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0991998-a624-496a-bbfa-722a543402dd.jpg"
   },
   {
    "id": "2c0d8af0-df86-40d4-91f8-35c3a75c50e8",
@@ -94,7 +101,8 @@
    "score": 0.4955683,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a0ba49d-5a81-4658-a395-c69510e132cc.jpg"
   },
   {
    "id": "026a196d-4876-498e-aa9b-324ddd63c0fd",
@@ -109,7 +117,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "af30be6b-8a7f-4e69-bf66-a103c80c06cc.jpg"
   },
   {
    "id": "487aac5d-dfd8-45b3-8044-0570a035318f",
@@ -121,18 +130,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a50703ec-96ef-4198-9551-0c9a1569fe40.jpg"
   },
   {
    "id": "b822f432-2e1e-4371-8bd3-b6a9a425cf63",
    "title": {
-    "en": "ZIG★ZAG"
+    "en": "ZIG\u2605ZAG"
    },
    "contentRating": "safe",
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6239536-19f1-4499-a3c8-840f0d128498.jpg"
   },
   {
    "id": "73f9347d-6336-403a-b805-2a93a16081e6",
@@ -146,8 +157,10 @@
     "tr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a8f784af-eacd-4b34-a876-1cdd32b7279b.png"
   }
  ],
- "updatedAt": "2021-07-18T06:58:09+00:00"
+ "updatedAt": "2021-07-18T06:58:09+00:00",
+ "coverFileName": "c093d51b-6657-4392-b48b-01849fd0e0ac.jpg"
 }

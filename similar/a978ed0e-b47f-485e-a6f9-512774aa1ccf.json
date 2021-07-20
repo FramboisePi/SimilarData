@@ -18,7 +18,8 @@
     "it",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b98d2d31-cdc2-423e-a0c7-134c2215281b.jpg"
   },
   {
    "id": "69060a67-1d4e-4110-9d29-838bfd99917f",
@@ -34,7 +35,8 @@
     "hu",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c8b1ecf2-e913-4aec-ace6-b2dc53879204.jpg"
   },
   {
    "id": "43df19d5-0990-46ec-9367-ea29c502e7bb",
@@ -46,7 +48,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "58494c16-2880-4dd0-970a-724c573e51c9.jpg"
   },
   {
    "id": "90fab1f9-1beb-4a6e-986f-eaf8a0616409",
@@ -57,7 +60,8 @@
    "score": 0.3376649,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55feac0f-0af8-4c9c-aa87-a70901a361fe.jpg"
   },
   {
    "id": "4a4c9ce3-cfef-477a-af85-8bfc55b593f8",
@@ -70,7 +74,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "17a191a9-7a77-4b64-b70c-5a976ab20ebf.jpg"
   },
   {
    "id": "9fb4859e-1833-43ac-afcf-131f2e2916c2",
@@ -83,7 +88,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c35b1bf1-449f-420d-96e4-ff5943ab94c1.jpg"
   },
   {
    "id": "d86cf65b-5f6c-437d-a0af-19a31f94ec55",
@@ -103,12 +109,13 @@
     "ru",
     "es-la",
     "hu"
-   ]
+   ],
+   "coverFileName": "12c68751-2d18-494c-8c65-c5ce524197a7.png"
   },
   {
    "id": "862aa027-38e1-470f-bf9b-c6d228d9168f",
    "title": {
-    "en": "Doujima-kun Won’t Be Disturbed"
+    "en": "Doujima-kun Won\u2019t Be Disturbed"
    },
    "contentRating": "safe",
    "score": 0.31604457,
@@ -117,7 +124,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f856ee26-0690-4f2e-8e7b-4e17d9cccb1b.png"
   },
   {
    "id": "7b7d7198-b53c-40b7-b76b-399a7f41fd20",
@@ -131,7 +139,8 @@
     "es-la",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "92035b81-0efc-4aad-8e39-63ca1eea794f.jpg"
   },
   {
    "id": "253a0989-6a20-4737-a127-d753eefc4f67",
@@ -143,7 +152,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "40c55c0e-285d-4cdd-86df-c38c504d3e1d.jpg"
   },
   {
    "id": "2e5d5d75-bfd6-4e1d-9abd-db039f88520a",
@@ -155,7 +165,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "90a94b6f-5307-43ab-b0dc-3fa8366ad3dd.png"
   },
   {
    "id": "27cec489-fea0-43ff-9b52-2b0cdc70a462",
@@ -169,8 +180,10 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "35bd3cb0-80ec-4a16-b540-c1b8a2f48ff3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:57+00:00"
+ "updatedAt": "2021-07-18T06:55:57+00:00",
+ "coverFileName": "695420cc-9db2-4911-a4c7-50c1f9e61346.jpg"
 }

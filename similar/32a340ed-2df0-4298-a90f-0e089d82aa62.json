@@ -16,7 +16,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "761ad770-339e-4b10-98ea-7af80199d52f.jpg"
   },
   {
    "id": "f0041879-9652-4863-9564-ce569f7de083",
@@ -27,7 +28,8 @@
    "score": 0.9170043,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4cfab8be-5aa0-4d5f-be35-9c08adffcf6d.jpg"
   },
   {
    "id": "ced910fb-8542-48bd-b87a-5ff662185295",
@@ -38,7 +40,8 @@
    "score": 0.85821146,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "569bc0ef-8e38-41bb-b2e6-e30821e910bf.jpg"
   },
   {
    "id": "f378234a-298a-4b78-bef5-205ab688566f",
@@ -49,7 +52,8 @@
    "score": 0.5520175,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41a53ad8-834c-40bf-bfc5-68fd12cca317.jpg"
   },
   {
    "id": "53aba86a-ea26-4e7a-bba6-68b15bf76a0a",
@@ -63,7 +67,8 @@
     "es",
     "en",
     "ro"
-   ]
+   ],
+   "coverFileName": "0634c994-095a-410b-b7d4-df8ee8d89b48.png"
   },
   {
    "id": "83234da2-ee54-4065-9e72-c6977dac4f2e",
@@ -74,7 +79,8 @@
    "score": 0.44652814,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ddefdddd-8409-4b0f-bce2-15c9a0e6ba72.jpg"
   },
   {
    "id": "fb094fad-39e1-495c-b2cb-d202389d430c",
@@ -85,7 +91,8 @@
    "score": 0.44202286,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "746cf2a8-eb90-4c0a-9ac0-59f1cca293ce.jpg"
   },
   {
    "id": "a259fe9f-64ab-40b4-9697-8d1ca4f0e663",
@@ -96,7 +103,8 @@
    "score": 0.43142772,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a64239c9-27b6-4279-9e96-86355d007224.jpg"
   },
   {
    "id": "01eca861-048f-465b-94cd-46fb862b4dc6",
@@ -109,7 +117,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "82a8c4fe-a930-47b2-b64d-177b725b6de2.jpg"
   },
   {
    "id": "745939d4-1db5-4e6c-9109-c7a5187045e9",
@@ -120,12 +129,13 @@
    "score": 0.4121457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e76c695-8563-4ad7-8fbf-dfbe3903cc72.jpg"
   },
   {
    "id": "5f518b39-298d-430c-89ae-963aba99928d",
    "title": {
-    "en": "ChäoS;HEAd"
+    "en": "Ch\u00e4oS;HEAd"
    },
    "contentRating": "safe",
    "score": 0.4075151,
@@ -135,7 +145,8 @@
     "pl",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7d8606e1-8ce0-4c66-85b8-bbd0c09dfcdb.jpg"
   },
   {
    "id": "a30563ce-6d29-4638-b3a8-947b03d599c2",
@@ -148,8 +159,10 @@
     "en",
     "bg",
     "ru"
-   ]
+   ],
+   "coverFileName": "b9fd1506-31bc-480a-96b9-6e9daeace789.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:53+00:00"
+ "updatedAt": "2021-07-18T06:33:53+00:00",
+ "coverFileName": "ab3a5462-8dae-40af-b606-0a1df03b5e7f.jpg"
 }

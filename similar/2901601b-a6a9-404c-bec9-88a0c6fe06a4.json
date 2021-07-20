@@ -1,7 +1,7 @@
 {
  "id": "2901601b-a6a9-404c-bec9-88a0c6fe06a4",
  "title": {
-  "en": "Baka \u0026 Test \u0026 Shokanjudya"
+  "en": "Baka & Test & Shokanjudya"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.42933837,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a14db572-83a8-4c5a-a784-101716444809.jpg"
   },
   {
    "id": "5976e234-6a8f-4074-80c3-d26fcde2f39f",
@@ -27,7 +28,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8c8d54ec-f99b-4153-8776-b493b915eada.jpg"
   },
   {
    "id": "392afdba-74dc-4518-90ed-2ac286f40950",
@@ -38,7 +40,8 @@
    "score": 0.39551598,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c24ca26-b744-44ca-9aff-00825f12765f.jpg"
   },
   {
    "id": "83ec97e7-391a-47a2-8a7c-1510a1b1b84f",
@@ -51,7 +54,8 @@
     "en",
     "es",
     "ru"
-   ]
+   ],
+   "coverFileName": "e87923a2-415b-4df2-91db-0af65709e62e.jpg"
   },
   {
    "id": "cd3e705d-e07e-43d8-bb2d-233ee0deee0f",
@@ -65,7 +69,8 @@
     "it",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8eddb8c5-c911-4766-a087-3a43c6cfc894.jpg"
   },
   {
    "id": "201d4cf7-d8bf-40cb-a0b0-9a9939f86cfb",
@@ -76,7 +81,8 @@
    "score": 0.39390495,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d019198-b18a-493e-b363-4ec416a8f253.jpg"
   },
   {
    "id": "13284a00-4eff-4f6a-83df-7c34079ca443",
@@ -89,7 +95,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "48c29c3a-4019-4ae3-a009-4b97628f3260.jpg"
   },
   {
    "id": "e301f6f3-025a-4385-bdd4-ec7fb04664fc",
@@ -102,7 +109,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b617cd96-b297-47ca-888a-861d8bea0376.jpg"
   },
   {
    "id": "4ce77c9d-608c-4759-a0d4-7ccc83f270fb",
@@ -113,7 +121,8 @@
    "score": 0.3706371,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b4b8ea8-0daa-4110-a6e7-46404d564150.jpg"
   },
   {
    "id": "020f68ad-6548-4882-ac8c-132814b7f1bb",
@@ -128,7 +137,8 @@
     "tl",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "230445af-d988-4a83-9d2f-a7311fa1a574.jpg"
   },
   {
    "id": "4b0854c0-050b-47b8-b24c-ad1619efca4b",
@@ -139,7 +149,8 @@
    "score": 0.3699988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f3df21c2-2533-4c04-bd54-88fe944762b2.jpg"
   },
   {
    "id": "2d61581c-0ec5-450e-82f6-ea2b96671e6a",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "9ff52273-79b7-44ff-9df7-00b3c96fcedd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:08+00:00"
+ "updatedAt": "2021-07-18T06:32:08+00:00",
+ "coverFileName": "ffdc7613-6d24-4b35-b037-457e18042518.jpg"
 }

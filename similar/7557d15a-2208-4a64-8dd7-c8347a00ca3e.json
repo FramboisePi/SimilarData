@@ -18,7 +18,8 @@
     "fr",
     "de",
     "ru"
-   ]
+   ],
+   "coverFileName": "a3de95f5-c53c-457c-9618-e2be7eb7af4f.png"
   },
   {
    "id": "4de9282d-dbfc-4aa5-9b73-1a36b2c4a566",
@@ -29,7 +30,8 @@
    "score": 0.36000627,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b400c248-0ac1-42ea-bbe4-1b1698a67fec.png"
   },
   {
    "id": "1b1ea715-c8f2-437d-ab86-6dec2b2b77ab",
@@ -46,7 +48,8 @@
     "hu",
     "ru",
     "ar"
-   ]
+   ],
+   "coverFileName": "52fb8a25-8339-4a74-8abb-7f76ae588037.jpg"
   },
   {
    "id": "ddcade63-f406-4fa9-a623-821a31b13256",
@@ -59,7 +62,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "99876045-43ea-48b5-b7d2-2af4dad170ad.jpg"
   },
   {
    "id": "aaa893b6-a6b3-4384-b47f-1f75044acad5",
@@ -70,7 +74,8 @@
    "score": 0.33562273,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "08fbfb5d-cee0-4f64-a106-e0092f8481c7.jpg"
   },
   {
    "id": "7bf35439-3b59-41dc-8251-e935b2ec6eb8",
@@ -83,7 +88,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "29a5ec08-1670-48ec-a7fb-01f23fba4bf1.jpg"
   },
   {
    "id": "865f2c6d-bff5-417a-9082-bdea319502a1",
@@ -97,7 +103,8 @@
     "fr",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "85e99d07-8a84-41ef-a902-ff8dd1f386fe.jpg"
   },
   {
    "id": "9d49a908-358b-4f02-801b-bfb83f6b83a4",
@@ -109,7 +116,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "7f89fec3-aad0-4d94-bdb1-a8fcd6751363.jpg"
   },
   {
    "id": "aa5a9e13-b1c6-4863-be3a-5c891a8f3fbf",
@@ -121,7 +129,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f0528278-8fce-4044-a168-d881c6776e5d.jpg"
   },
   {
    "id": "bb7aa4bc-2b5e-406b-a0b3-ec70cc27f4e3",
@@ -133,18 +142,20 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "768f5ab7-cb6e-4beb-98f1-e1823a86f754.jpg"
   },
   {
    "id": "50115e6f-bff4-46dc-be3b-0743cdfdb500",
    "title": {
-    "en": "Queen's Blade - Hide \u0026 Seek"
+    "en": "Queen's Blade - Hide & Seek"
    },
    "contentRating": "suggestive",
    "score": 0.30960616,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31472e11-aeae-4456-a4a6-d298528ca33d.jpg"
   },
   {
    "id": "7f72200e-8c2f-409b-8384-656d6bb8fa1b",
@@ -155,8 +166,10 @@
    "score": 0.30920273,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b6e2e5c-efcc-467c-a2eb-3be73ec27e52.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:11+00:00"
+ "updatedAt": "2021-07-18T06:46:11+00:00",
+ "coverFileName": "2a623bae-eeb6-4eb7-a070-321c7bccf642.jpg"
 }

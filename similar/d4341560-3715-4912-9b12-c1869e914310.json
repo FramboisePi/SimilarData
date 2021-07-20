@@ -16,7 +16,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "277cc99d-eebd-487e-96af-73c966e0be39.jpg"
   },
   {
    "id": "b3fd63a7-a226-403c-ad2c-4c0d1942d186",
@@ -33,7 +34,8 @@
     "tr",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8b7ee733-c764-4c78-a103-d0bfb1412fce.jpg"
   },
   {
    "id": "4d4db0c2-3c43-45c8-aac1-af2af63e85ff",
@@ -49,7 +51,8 @@
     "ru",
     "es-la",
     "es"
-   ]
+   ],
+   "coverFileName": "42eb1d90-880f-49ee-8533-f48a89f335b3.jpg"
   },
   {
    "id": "e758b82c-084e-4e35-acc0-dbd2b491a699",
@@ -60,7 +63,8 @@
    "score": 0.41083598,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9838ec6-d0cf-4974-aa05-feca3830a761.jpg"
   },
   {
    "id": "9c0f9689-d775-48de-8222-c81571f0ed0e",
@@ -71,12 +75,13 @@
    "score": 0.41076288,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e5fbca44-bdde-4871-9244-df784e67bbf4.jpg"
   },
   {
    "id": "54dce902-6873-4033-8828-176fe5ce8f9f",
    "title": {
-    "en": "Save \u0026 Load no Dekiru Yadoya-san"
+    "en": "Save & Load no Dekiru Yadoya-san"
    },
    "contentRating": "suggestive",
    "score": 0.40841073,
@@ -86,7 +91,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a77f5e22-cc5c-423b-a607-33648263523b.jpg"
   },
   {
    "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
@@ -98,7 +104,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "2f20ecb0-b731-4d83-abbd-d1ea399c553d.jpg"
   },
   {
    "id": "e881168f-ef99-41ff-88cf-1cf21c152635",
@@ -111,7 +118,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8293e114-49da-48f0-ac9c-ec2c062e9181.jpg"
   },
   {
    "id": "96fe1639-b55c-4b0c-8bec-fd941260728e",
@@ -122,7 +130,8 @@
    "score": 0.3687408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b49b4f7-09fc-4ece-91f9-af1add6ef9aa.jpg"
   },
   {
    "id": "71a621f8-c2bc-496e-aa34-f4b91e9874ac",
@@ -138,7 +147,8 @@
     "id",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6d5892ad-d655-40b6-bab7-4a446b05f883.png"
   },
   {
    "id": "f89ed64d-e0ce-4aba-802c-f45e83cec306",
@@ -149,7 +159,8 @@
    "score": 0.36533538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e6ab1aa-d577-4f25-807e-17f041e50379.jpg"
   },
   {
    "id": "6e018caf-86c6-4740-b1db-d5a040430d2b",
@@ -164,8 +175,10 @@
     "fr",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "5b804bc1-c627-4ee5-bcf3-c43ac38076be.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:46+00:00"
+ "updatedAt": "2021-07-18T07:03:46+00:00",
+ "coverFileName": "a705f216-1c2d-4950-a189-60ff098ab16d.jpg"
 }

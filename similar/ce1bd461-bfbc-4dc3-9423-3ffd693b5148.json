@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a8826caa-fdd3-49d2-93e7-e19947bae332.jpg"
   },
   {
    "id": "76391a81-567f-4cbe-b331-4c00a7060462",
@@ -26,7 +27,8 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7cece079-e864-400a-8597-6cb41596b32a.png"
   },
   {
    "id": "1e2278b9-bf4e-40bf-bc3d-02e6a7e071f2",
@@ -37,7 +39,8 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a47cc55-dedd-4e6e-be6a-487f3a4f20db.jpg"
   },
   {
    "id": "3a7995d2-4896-4215-b2c8-213c6bd22306",
@@ -49,7 +52,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "d0d6a81e-ca72-417c-a00a-ffd48e8f60cb.jpg"
   },
   {
    "id": "0515dcf5-c6e3-40e6-8654-3dd5d61be4eb",
@@ -63,18 +67,20 @@
     "pl",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "4c5fc3fb-3598-4735-8b0a-d3d87d8a3a19.jpg"
   },
   {
    "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
    "title": {
-    "en": "Café Velomano"
+    "en": "Caf\u00e9 Velomano"
    },
    "contentRating": "safe",
    "score": 0.4385068,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "994afbcc-3661-496c-b1a6-52fac61ae643.jpg"
   },
   {
    "id": "4c304cd0-dd8e-49c1-aa47-f6b56ebf1d16",
@@ -85,7 +91,8 @@
    "score": 0.43738186,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "627c2b8d-4699-433d-8396-43c46096bbc7.jpg"
   },
   {
    "id": "911a12ae-1022-448e-9219-b7b294d7fb3e",
@@ -99,7 +106,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "07481590-a698-4a36-bbdb-9c45ecde8bdd.jpg"
   },
   {
    "id": "0a6da361-ba58-4146-b5ac-3e32794a03cd",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5762e399-5fa9-4dc4-b67c-292e2efbb42a.jpg"
   },
   {
    "id": "64d554d2-1ae8-49ea-8136-896eff558ac1",
@@ -123,7 +132,8 @@
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "acaaf029-46ef-4666-9b89-1af3f7db9fe6.jpg"
   },
   {
    "id": "c3ffcb40-f4c0-4046-9d29-f4f82cf32515",
@@ -137,7 +147,8 @@
     "ru",
     "ro",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "91dd4123-62d9-42fd-8d6a-caada7ecbc0b.jpg"
   },
   {
    "id": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
@@ -148,8 +159,10 @@
    "score": 0.42988306,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32195536-05ff-44f4-af71-6fb119865d8c.png"
   }
  ],
- "updatedAt": "2021-07-18T07:02:38+00:00"
+ "updatedAt": "2021-07-18T07:02:38+00:00",
+ "coverFileName": "a7808eed-cf08-4357-8bb7-250fd91c7bed.jpg"
 }

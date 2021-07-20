@@ -8,13 +8,14 @@
   {
    "id": "82480993-9490-42ef-80dd-232248725ed2",
    "title": {
-    "en": "An ♡ Lucky Sukebe ga Tomaranai !"
+    "en": "An \u2661 Lucky Sukebe ga Tomaranai !"
    },
    "contentRating": "suggestive",
    "score": 0.11040744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16856067-6149-4cc4-93a2-40a6e2a5b300.jpg"
   },
   {
    "id": "4b90ffd1-d6e6-4b74-8faf-9b9029dd73b9",
@@ -26,7 +27,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "501cac48-d4c2-4574-ad95-956c26994c90.jpg"
   },
   {
    "id": "ba323648-4457-4c25-914b-27d52c360f01",
@@ -38,7 +40,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "5d425b50-389b-4e67-8304-03974bf7e835.jpg"
   },
   {
    "id": "200c5195-d3d1-4d0e-bb3f-439447b82f32",
@@ -49,7 +52,8 @@
    "score": 0.08792074,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d3cd887-55ce-4db8-96fd-b7b3f0b01e73.jpg"
   },
   {
    "id": "5ec9f8c8-5bb1-4b20-b4a0-912e5ae3a2f5",
@@ -61,8 +65,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b11033af-add1-404d-b272-89e4ea29e2db.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:24+00:00"
+ "updatedAt": "2021-07-18T06:41:24+00:00",
+ "coverFileName": "700d1c61-407c-4fdb-a706-ac72d554ab5e.png"
 }

@@ -8,14 +8,15 @@
   {
    "id": "722525a8-202b-4951-ba10-390fe492c977",
    "title": {
-    "en": "KISS×DEATH"
+    "en": "KISS\u00d7DEATH"
    },
    "contentRating": "suggestive",
    "score": 0.34979528,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "caa87a93-0c77-4ded-87e9-877f689fb2e8.jpg"
   },
   {
    "id": "380da075-2030-48d0-9c5f-86742be4ff10",
@@ -34,7 +35,8 @@
     "pt-br",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "a2f07b20-c004-482f-886e-5ac56b309146.jpg"
   },
   {
    "id": "984562b1-04be-4059-8f12-e22904f11a70",
@@ -47,7 +49,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "50922a60-3548-4a09-a4d3-60ca723c0421.jpg"
   },
   {
    "id": "d8d2b98b-184c-4767-b738-7739f38c18ab",
@@ -58,18 +61,20 @@
    "score": 0.2817534,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32634730-4310-4708-b56f-8c680a3bed30.jpg"
   },
   {
    "id": "2de71485-9930-46bd-982e-cd4b1a8ff91c",
    "title": {
-    "en": "Burn-Up: Excess \u0026 W"
+    "en": "Burn-Up: Excess & W"
    },
    "contentRating": "suggestive",
    "score": 0.2660193,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9caee55f-10ca-4f39-b070-46b850486585.png"
   },
   {
    "id": "b5b98b0e-911f-4740-a007-2ee29e133af3",
@@ -82,7 +87,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "bd10c257-40b6-407b-bbfa-2de0419fc497.jpg"
   },
   {
    "id": "55d93808-1b8e-41c6-98e2-1a8bf1126532",
@@ -94,7 +100,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1ef1dd3d-a654-4e46-a7aa-cf25de19eaa7.jpg"
   },
   {
    "id": "9a3236e1-3d8f-4341-8445-2dda6186b8ae",
@@ -105,7 +112,8 @@
    "score": 0.24393697,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b41deba3-6019-43d4-85bc-fb0779af74dd.jpg"
   },
   {
    "id": "a2faddae-151f-4a48-8e0d-754f2f729008",
@@ -117,7 +125,8 @@
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "7a295297-c2dd-43f8-adbe-811b36e39167.png"
   },
   {
    "id": "c7626a89-c104-4f4c-919e-21c978eec995",
@@ -128,7 +137,8 @@
    "score": 0.2421285,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "becbde2d-9f0c-44e2-93d3-8e587f57a0c4.jpg"
   },
   {
    "id": "b5a53d6b-c0f0-40b7-b5a6-f61a1ad2c5cb",
@@ -139,7 +149,8 @@
    "score": 0.23946458,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aced5dc0-1c81-4066-beb0-7428d7c09da0.jpg"
   },
   {
    "id": "769a5e79-0670-4188-8582-035f0a3cc051",
@@ -153,8 +164,10 @@
     "vi",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "68829fd3-7724-4a07-9234-08938101b42f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:39+00:00"
+ "updatedAt": "2021-07-18T07:02:39+00:00",
+ "coverFileName": "287c71b8-526e-476b-b576-5c8b83b70046.jpg"
 }

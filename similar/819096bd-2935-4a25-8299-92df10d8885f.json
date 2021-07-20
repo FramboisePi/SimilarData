@@ -16,7 +16,8 @@
     "es-la",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b60a7cce-0a60-4b2c-9cb6-1735fa443a30.jpg"
   },
   {
    "id": "9a39dbe4-183e-40db-ad5b-3f6eab45cbab",
@@ -27,7 +28,8 @@
    "score": 0.39674792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a1a35ed-4cbd-46d9-ba09-b0aaa730adc4.jpg"
   },
   {
    "id": "153da395-e969-4cf3-b537-7654b048cdeb",
@@ -38,7 +40,8 @@
    "score": 0.39674792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2c82a9d-d7a9-4f76-8770-f25f2bce9ce8.jpg"
   },
   {
    "id": "f39110e3-6965-4d21-b1fa-4418ddc251ae",
@@ -51,7 +54,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "45f377cc-c5dc-4566-a902-6e851900a24b.jpg"
   },
   {
    "id": "521079f1-51bd-48c3-b23b-79340cc848dc",
@@ -62,7 +66,8 @@
    "score": 0.3667183,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2443e676-0738-465a-a4b1-0b4e3d87ef88.jpg"
   },
   {
    "id": "6541dd65-cd50-4d25-8990-af5d5b3cfc8d",
@@ -73,7 +78,8 @@
    "score": 0.36341596,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9eda99e-11bf-4693-b747-97f4fd666d2b.jpg"
   },
   {
    "id": "b7ef7ad2-52db-49e0-b733-6af5ac48064c",
@@ -85,7 +91,8 @@
    "languages": [
     "ja",
     "en"
-   ]
+   ],
+   "coverFileName": "ca103729-313a-4b43-b1a3-5e3dc44a0973.jpg"
   },
   {
    "id": "94a0ad41-39b1-456e-9fa9-05644f925844",
@@ -96,7 +103,8 @@
    "score": 0.3563992,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1a35f0d-4218-4ac1-892e-5a816bd16774.jpg"
   },
   {
    "id": "fcc4b5be-cb5a-4fae-afc5-71b6e54ccec6",
@@ -108,19 +116,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5803dca8-97f7-4bb4-b5ab-54d12138bad7.png"
   },
   {
    "id": "0bb17e2f-77ba-434c-aa6b-45bb0fe39f48",
    "title": {
-    "en": "We Love ♡ Pocket Monsters"
+    "en": "We Love \u2661 Pocket Monsters"
    },
    "contentRating": "safe",
    "score": 0.34418976,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "56a1c7ca-b472-490c-8927-2d25cc551f6a.jpg"
   },
   {
    "id": "7e205249-2d25-4c3a-adf5-1c8cc7146688",
@@ -132,7 +142,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "30df0aa8-494d-49e7-bb64-6bf808f7e293.jpg"
   },
   {
    "id": "0a193e46-dc40-4b26-93a4-2bacb08814ed",
@@ -143,8 +154,10 @@
    "score": 0.34418976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c846d51e-7feb-4511-8c7d-c4a656443658.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:31+00:00"
+ "updatedAt": "2021-07-18T06:48:31+00:00",
+ "coverFileName": "1d91ac1f-846a-4460-be89-6102f0444639.png"
 }

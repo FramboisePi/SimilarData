@@ -1,21 +1,22 @@
 {
  "id": "f89cd213-f2f9-4df4-8eab-9a6ff5dc3166",
  "title": {
-  "en": "Didn’t I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!"
+  "en": "Didn\u2019t I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "5f709f1b-e481-4e73-86d8-92369545d6f4",
    "title": {
-    "en": "Didn’t I Say to Make My Abilities Average in the Next Life?!"
+    "en": "Didn\u2019t I Say to Make My Abilities Average in the Next Life?!"
    },
    "contentRating": "safe",
    "score": 0.67214596,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "628482a3-42d1-4466-8fd0-cc95f79ae31f.jpg"
   },
   {
    "id": "605ad5b4-f04f-41df-8424-35c397db2a3b",
@@ -28,7 +29,8 @@
     "en",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "54cee74a-f86e-4fc0-aa5f-5beb4bb6ebfd.png"
   },
   {
    "id": "c1de44c5-0efc-4eb5-9117-c791774eb8a8",
@@ -41,7 +43,8 @@
     "es",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "19410a00-c393-4f54-a6cc-832c7570a76d.jpg"
   },
   {
    "id": "10a8f059-fd50-4dfb-bc56-b58f9f3bb4e4",
@@ -54,7 +57,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "efd02641-5c31-4f96-97a6-3cf4550679b7.jpg"
   },
   {
    "id": "5137687f-a925-4b18-a474-b143f9e3ec01",
@@ -69,7 +73,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5e3f4301-d4f5-4035-a5ee-a622483993b4.jpg"
   },
   {
    "id": "5127bc3e-6b87-4fa2-82eb-fd363cd4c10a",
@@ -81,7 +86,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "814f6d39-caf7-44cb-aec1-fef5c8be5e62.jpg"
   },
   {
    "id": "e64ba108-bbd7-40ce-9243-21791d9489bf",
@@ -93,7 +99,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7276e643-c2ef-4a77-99cc-59c2b679c12b.jpg"
   },
   {
    "id": "f922f8d4-dee5-40d8-a726-792f93e7f435",
@@ -104,7 +111,8 @@
    "score": 0.39826897,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24b907e2-997e-48a7-8f2d-a8b27f1a448e.jpg"
   },
   {
    "id": "dfe09869-3e6d-4b1d-a8f7-9b9756b4c038",
@@ -115,18 +123,20 @@
    "score": 0.39562273,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc3a9371-6263-4dd3-b847-7380628578bf.jpg"
   },
   {
    "id": "84b2fad4-cd1a-4a37-831a-582e8137970f",
    "title": {
-    "en": "MÄR"
+    "en": "M\u00c4R"
    },
    "contentRating": "safe",
    "score": 0.3950682,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c23b49f-ef01-4e90-8fdd-245f33482816.jpg"
   },
   {
    "id": "384706bc-ba47-4ab6-993d-122232f0330f",
@@ -138,7 +148,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "2deffdcc-4e71-4c3d-88cd-7ac157420c7a.jpg"
   },
   {
    "id": "0308b627-23e3-496b-bd13-8fd7c7265b64",
@@ -149,8 +160,10 @@
    "score": 0.3938587,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e71cd4a-22ca-4371-afb7-2b739bb9849d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:23+00:00"
+ "updatedAt": "2021-07-18T07:10:23+00:00",
+ "coverFileName": "b666a23a-8c96-4d51-882a-f48287a2a56d.jpg"
 }

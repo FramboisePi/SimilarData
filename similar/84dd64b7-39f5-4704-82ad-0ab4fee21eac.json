@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3d7271ea-5f1e-43e8-9a63-98027f63217b.jpg"
   },
   {
    "id": "3055b213-aaee-469c-a233-b97a8eff9494",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "72a2cdbc-ba29-41c0-b35e-b9fdec087301.jpg"
   },
   {
    "id": "0ecebfbe-ba61-4528-adbb-1ec95d08169e",
@@ -38,7 +40,8 @@
    "score": 0.47909543,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5ce6637f-2cd6-4494-a756-bcfa4785c285.jpg"
   },
   {
    "id": "8bd77fe2-1d5d-4b60-b2e8-a428fa6cd5e7",
@@ -51,7 +54,8 @@
     "en",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "4ae6c50b-7dd6-4cca-bf63-c470cdf30e25.jpg"
   },
   {
    "id": "c9837a61-a9e5-4aeb-b8ce-fc9de9fd5f1b",
@@ -66,7 +70,8 @@
     "tr",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "4a79517f-a357-4d09-badd-9c9df84de3b8.jpg"
   },
   {
    "id": "068348af-37d7-45df-827a-e6f4ebbc4a80",
@@ -77,12 +82,13 @@
    "score": 0.4607513,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6a5683c-ed18-4fc5-bf13-911f3a8af7ca.jpg"
   },
   {
    "id": "440ea178-2267-4d01-88bf-39d3c85b4c6f",
    "title": {
-    "en": "Deep Sea’s Song"
+    "en": "Deep Sea\u2019s Song"
    },
    "contentRating": "safe",
    "score": 0.45345894,
@@ -90,7 +96,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "494ac0d2-902c-4904-9dc9-c9599e962727.png"
   },
   {
    "id": "d493f760-957a-489f-97f3-c24cedc2cf21",
@@ -101,7 +108,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "caaaff5d-ae71-42ac-9340-898307db0be4.png"
   },
   {
    "id": "7d98da47-53c6-47c9-9fd4-5bbb3e117291",
@@ -112,7 +120,8 @@
    "score": 0.44228768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae47a02a-dcbc-4498-8f72-f1b581fbf573.jpg"
   },
   {
    "id": "3ffdd2b1-a218-4e35-8013-84d371529181",
@@ -125,7 +134,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "5ab17d5a-8460-4839-9ef1-1b4e16f7aec2.jpg"
   },
   {
    "id": "3a57573d-84f2-4eab-9f5e-ee5100518c5c",
@@ -136,7 +146,8 @@
    "score": 0.44146487,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e2be8948-e5b3-42cf-a4c6-26a07759aa6d.jpg"
   },
   {
    "id": "8129c71a-7495-44de-9dba-9291b10d953d",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "58b3d701-6660-4e2e-8b41-5db6232a913d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:08+00:00"
+ "updatedAt": "2021-07-18T06:49:08+00:00",
+ "coverFileName": "e1975db5-681a-45d9-858b-ccbf35e52e11.jpg"
 }

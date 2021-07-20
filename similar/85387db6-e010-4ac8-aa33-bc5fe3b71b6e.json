@@ -1,7 +1,7 @@
 {
  "id": "85387db6-e010-4ac8-aa33-bc5fe3b71b6e",
  "title": {
-  "en": "One of Those Manga Where a Girl Goes \"Oh No, I'm Gonna Be Late☆\" With Bread in Her Mouth"
+  "en": "One of Those Manga Where a Girl Goes \"Oh No, I'm Gonna Be Late\u2606\" With Bread in Her Mouth"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b0f46636-75f2-4833-88dd-c1913d5c95a7.jpg"
   },
   {
    "id": "0cc9358f-d0f3-42ed-a146-95604b01c7f0",
@@ -28,7 +29,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "59ad7c3f-f805-4fed-86ca-b3aca39c6bfa.png"
   },
   {
    "id": "411707e3-cc42-4c01-bc5a-16fe79d3fa28",
@@ -39,7 +41,8 @@
    "score": 0.34419638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1b6e1f4-2c71-4ace-8cda-534af2ec989f.jpg"
   },
   {
    "id": "029b43db-16f5-4842-a61f-a5dee1e4fa4d",
@@ -50,7 +53,8 @@
    "score": 0.34419638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51fcddd7-c69d-4138-a7f8-d7909ca42860.jpg"
   },
   {
    "id": "7cad64d2-83d8-48b7-9b37-dec096ed9355",
@@ -63,7 +67,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "df7f243d-3e13-4626-8ab3-5f17db839043.jpg"
   },
   {
    "id": "6a474c3b-b6a4-48a5-a4a6-06dfae1bdc1e",
@@ -75,7 +80,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "21ca7f1d-89d7-4e22-ad29-97b771567916.jpg"
   },
   {
    "id": "d667637e-9e6d-4c5a-89c4-0faba6f96338",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1be82a70-946a-48df-80b7-f3d2f84cc6a0.jpg"
   },
   {
    "id": "4ba78f9f-1739-4f75-bad9-919e529c1975",
@@ -98,7 +105,8 @@
    "score": 0.34179953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b09e5a83-9d96-4240-8d54-a1322d58fb83.jpg"
   },
   {
    "id": "904d4790-0258-40d9-8bf7-c1776c443f9a",
@@ -109,7 +117,8 @@
    "score": 0.34179953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2672cf1f-d85c-4eb0-bed6-6bb3dcee31e9.png"
   },
   {
    "id": "99ce6071-831d-4be7-925c-7c18a7c13086",
@@ -121,7 +130,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "493d0203-726e-4be6-add6-24059f686c22.jpg"
   },
   {
    "id": "2440ce57-e151-442b-b88a-a814ffa17654",
@@ -132,7 +142,8 @@
    "score": 0.34179953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d652146-d6cc-4452-8146-6d4c8c3ab6f7.png"
   },
   {
    "id": "f9a2a3de-8556-4d4b-af98-2bf2bd6d84eb",
@@ -145,8 +156,10 @@
     "pt-br",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "b684228a-7a75-4ca7-9916-37057d450e50.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:12+00:00"
+ "updatedAt": "2021-07-18T06:49:12+00:00",
+ "coverFileName": "7a590419-bfd2-4513-91f1-87280e712c64.png"
 }

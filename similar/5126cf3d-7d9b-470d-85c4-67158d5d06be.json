@@ -8,14 +8,15 @@
   {
    "id": "a0fa04dd-604d-4374-b1fc-e5537a70069d",
    "title": {
-    "en": "Saint Seiya Ω"
+    "en": "Saint Seiya \u03a9"
    },
    "contentRating": "safe",
    "score": 0.48795673,
    "languages": [
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fdff538e-23cb-449f-a3ea-1c782c7c4ca3.jpg"
   },
   {
    "id": "1784f612-9a81-4ed6-a596-ef3e2d2e814f",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9c665cca-3278-4117-a46a-516d9df1312f.jpg"
   },
   {
    "id": "9774e575-4009-4ec4-a2f8-a325a6e5dce7",
@@ -38,7 +40,8 @@
    "score": 0.45819584,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5dc75fb0-e0f5-4cdd-a095-a2f1085f2417.jpg"
   },
   {
    "id": "101b9672-f73f-41f5-8de1-97ef1a732de1",
@@ -51,7 +54,8 @@
     "es",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0bd048e9-1145-4f35-a930-8ea749c773f1.jpg"
   },
   {
    "id": "0f8a5ff6-4f0c-4fe4-98b3-e269532ac1bc",
@@ -64,7 +68,8 @@
     "es",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e5c2e7d2-8fef-45f8-855a-32fbf45543d3.jpg"
   },
   {
    "id": "28ad7e03-dd5b-4c83-84d1-d4238f454a43",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1408f66d-a1b8-421b-85d4-6f0b73086119.jpg"
   },
   {
    "id": "f27a23c7-d321-430b-ae44-e1795a68b835",
@@ -88,7 +94,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a7510a3f-d283-4080-9059-f4ac782a6a67.jpg"
   },
   {
    "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
@@ -101,7 +108,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "15dfeef7-47af-45de-b4b2-6f805d6acaa8.jpg"
   },
   {
    "id": "f486a183-6660-492b-b94b-aa80960d8326",
@@ -114,12 +122,13 @@
     "pt-br",
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "5b6557ce-6875-4e59-b6d4-736d3b5108df.jpg"
   },
   {
    "id": "2a5be63f-a85c-4626-bb54-435dab4167f7",
    "title": {
-    "en": "Endeavor’s Cross"
+    "en": "Endeavor\u2019s Cross"
    },
    "contentRating": "safe",
    "score": 0.31819806,
@@ -127,7 +136,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "a5dc4504-3776-40fc-a071-33229ada7232.jpg"
   },
   {
    "id": "cab91d47-c2d0-46d4-ba81-51dd530b13d1",
@@ -140,7 +150,8 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "1341b179-bc13-4111-bc19-189d9fc2bba9.jpg"
   },
   {
    "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
@@ -153,8 +164,10 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "37d9b42b-b5e1-4158-9fed-18bda5703fc0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:32+00:00"
+ "updatedAt": "2021-07-18T06:39:32+00:00",
+ "coverFileName": "c30f8185-2680-4ac6-a39e-0ee13b72ad1d.jpg"
 }

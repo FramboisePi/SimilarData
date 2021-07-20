@@ -1,7 +1,7 @@
 {
  "id": "e930da70-7dad-462e-a9f7-ffb87e41377a",
  "title": {
-  "en": "Slime \u0026 Dragons (Oneshot)"
+  "en": "Slime & Dragons (Oneshot)"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0bf34fa4-876a-4139-9685-001fa18ef094.jpg"
   },
   {
    "id": "4187856d-65a9-4fb4-98ec-84c0bf16631f",
@@ -38,7 +39,8 @@
     "tr",
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "ba890ff4-acce-4a30-a87b-29921ca3a9bc.jpg"
   },
   {
    "id": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
@@ -53,7 +55,8 @@
     "ru",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "69cffbff-69e5-4551-b8fe-db3ed61c44c2.jpg"
   },
   {
    "id": "e0511fc5-c114-4447-824e-96cb3db37078",
@@ -70,7 +73,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ecff763c-302d-4e80-81ad-8afbdd43aa3e.jpg"
   },
   {
    "id": "f2e91f99-6c3b-4a66-a3f7-9da13f68c416",
@@ -86,7 +90,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "3ffd7f0a-64b5-4d81-9833-3807f209c4f6.jpg"
   },
   {
    "id": "9a247f6f-09f0-4310-ac19-b186147042f8",
@@ -101,7 +106,8 @@
     "zh-hk",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "419ce2c4-2e1c-4b62-a5da-65d5897ab028.jpg"
   },
   {
    "id": "3ff5e5b9-cc54-49c5-a601-c5d74ed7e023",
@@ -113,7 +119,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "79b45d3d-a05f-4eba-8cf5-76838d3b5c55.jpg"
   },
   {
    "id": "545ea920-12fc-423a-afe9-70415b9954ae",
@@ -124,7 +131,8 @@
    "score": 0.28052902,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "3fcc2811-df63-4432-ae1c-a5c487c08289.jpg"
   },
   {
    "id": "7e1fc7a1-f644-4f4c-a0c2-d3738b6aef9b",
@@ -137,7 +145,8 @@
     "th",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0a27b7af-2a4c-48ee-beae-47395ca3be41.png"
   },
   {
    "id": "34bb9d07-d5ee-40e5-9524-550230685ace",
@@ -153,7 +162,8 @@
     "es",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4f4bedb3-5c31-4d06-a974-50579186470d.jpg"
   },
   {
    "id": "a770e341-89df-4f21-a57c-30155b430af6",
@@ -164,7 +174,8 @@
    "score": 0.27186507,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "a4e519db-bfd6-4b0b-8b05-d1bd37f327d0.jpg"
   },
   {
    "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
@@ -183,8 +194,10 @@
     "tr",
     "fr",
     "vi"
-   ]
+   ],
+   "coverFileName": "c9836595-5aa4-4062-b8f9-0c7d32275dee.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:39+00:00"
+ "updatedAt": "2021-07-18T07:07:39+00:00",
+ "coverFileName": "ce8726cd-cf96-4c50-bc39-c2e488ac10e2.jpg"
 }

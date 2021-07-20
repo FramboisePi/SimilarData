@@ -1,20 +1,21 @@
 {
  "id": "30a22535-534c-4901-a16b-aa8f4317eca3",
  "title": {
-  "en": "Gochuumon wa Usagi desu ka? \u0026 Kin-iro Mosaic - Pyonpyon Parade (Doujinshi)"
+  "en": "Gochuumon wa Usagi desu ka? & Kin-iro Mosaic - Pyonpyon Parade (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "8b2ae8c9-6eba-4128-8a63-565ea177d551",
    "title": {
-    "en": "Senyuu. - Foyfoy・Rudolf-hen"
+    "en": "Senyuu. - Foyfoy\u30fbRudolf-hen"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8cda20bb-d225-467f-947b-1c4319f9ad7c.jpg"
   },
   {
    "id": "350874a9-574f-494d-9cdb-8efa9556fd0c",
@@ -25,7 +26,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e768ce1-2e84-46df-af06-18e80bf6fdb8.png"
   },
   {
    "id": "7cbbd1f8-e67e-41a1-a5d7-7c994b862ee7",
@@ -40,7 +42,8 @@
     "uk",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d4c452d7-c561-4f36-811f-86de04705aa6.png"
   },
   {
    "id": "eeb46920-bef3-4065-ae62-d2c11b152575",
@@ -51,7 +54,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c829b940-7173-439c-8d80-52c28a4337c7.jpg"
   },
   {
    "id": "e5bf6c64-e9e3-4e87-97a2-2d4eaa51bfee",
@@ -63,7 +67,8 @@
    "languages": [
     "ca",
     "en"
-   ]
+   ],
+   "coverFileName": "fc3b2cb3-8e3d-452e-b142-6fc8570f86c7.jpg"
   },
   {
    "id": "df366369-53f2-462a-bcd9-5dd932df2dc4",
@@ -74,7 +79,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "49be5e7f-7fe7-4872-8490-78d972304c86.jpg"
   },
   {
    "id": "184cdbab-e7f3-4970-bcca-878504889d6f",
@@ -85,7 +91,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98701000-14ca-47d9-8f7e-ef4c1e6e69c1.png"
   },
   {
    "id": "7bf8ce0d-88e1-4afb-93ac-598121771bc9",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "13ccc59a-671d-4870-b961-f18ab1c9919c.jpg"
   },
   {
    "id": "4c26ce69-f83b-412a-8648-569f1d35aa4a",
@@ -109,7 +117,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "dbc33e08-5079-4d08-b3ef-c5cccb2c9b55.png"
   },
   {
    "id": "434b37d0-b96c-40b8-8f74-132e72859c36",
@@ -121,7 +130,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "48afa095-ed2f-4167-bd75-633bd7d84ded.jpg"
   },
   {
    "id": "c957b7c1-a003-42db-9b96-87ac4fa72e79",
@@ -133,7 +143,8 @@
    "languages": [
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "86be72d7-b6d0-489f-b4fb-4844fe5dc341.png"
   },
   {
    "id": "23d5471b-9408-425e-9f7a-dab2639bc3d3",
@@ -146,8 +157,10 @@
     "tr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "69f6243d-d000-4749-964d-128363fc36ff.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:30+00:00"
+ "updatedAt": "2021-07-18T06:33:30+00:00",
+ "coverFileName": "f6cf7421-1e1d-4331-9440-ac1ab554de1e.jpg"
 }

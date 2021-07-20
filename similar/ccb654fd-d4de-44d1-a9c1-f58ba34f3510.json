@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "507455ec-3c5f-4e4a-9ab6-7593763bb37b.jpg"
   },
   {
    "id": "f7db26fa-59dd-451c-adc2-666de23f8b3a",
@@ -26,7 +27,8 @@
    "score": 0.35833976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "448b5fee-ede5-4fa9-8644-2f74b9c3347a.jpg"
   },
   {
    "id": "4d4d2141-0b76-4094-b3ca-05ada838a98a",
@@ -37,7 +39,8 @@
    "score": 0.355903,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "868e5778-3bb4-47d7-b849-0f2f83628c19.jpg"
   },
   {
    "id": "317ecfa2-ca15-4d6a-b1f2-2f6e3b47dcaa",
@@ -48,7 +51,8 @@
    "score": 0.34768197,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ba567e2-fb33-498d-baa7-2f9d3deffddd.jpg"
   },
   {
    "id": "7c886fca-7d38-4260-a9f1-6881921fceeb",
@@ -59,19 +63,21 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4280624-1706-4077-b382-e2bb98c9df2f.jpg"
   },
   {
    "id": "c1328e21-01ce-481d-9951-0a839e0b24f9",
    "title": {
-    "en": "Mon amie étourdie"
+    "en": "Mon amie \u00e9tourdie"
    },
    "contentRating": "safe",
    "score": 0.34077206,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f420360d-0067-4df0-9792-d3e2354311de.jpg"
   },
   {
    "id": "5f6e9917-9bbb-41c2-8b76-d97f9bd4a7d1",
@@ -82,7 +88,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4067e35f-0127-447e-be92-9a2c7e93e8ea.png"
   },
   {
    "id": "bfd3bf36-f2c8-4dca-82e3-84a160a77f07",
@@ -93,7 +100,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9cfb963-0d50-41f8-ba1b-a7315d571f53.png"
   },
   {
    "id": "6da102e6-34da-4e56-b502-6bd095e9e4b5",
@@ -105,7 +113,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "0a23ce97-b3b9-44f9-b9c1-a86b36eb0442.png"
   },
   {
    "id": "14ee1a55-4547-43d1-a059-84001cdb52d6",
@@ -118,7 +127,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "a20e304e-3630-4953-b641-d8366c2adfb0.png"
   },
   {
    "id": "87c00aa7-a6a2-4896-96bb-68d55bb807d7",
@@ -129,7 +139,8 @@
    "score": 0.33956292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cfeb8cc8-9559-46a6-8dad-06cb5bb85c1b.png"
   },
   {
    "id": "83371cc0-a25c-4042-918c-c97d7dec35ab",
@@ -141,8 +152,10 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "52d9d7a9-300e-41ef-a59b-8352acd537e1.png"
   }
  ],
- "updatedAt": "2021-07-18T07:02:23+00:00"
+ "updatedAt": "2021-07-18T07:02:23+00:00",
+ "coverFileName": "2d382969-ce9d-4027-9b5c-94526c8876c6.jpg"
 }

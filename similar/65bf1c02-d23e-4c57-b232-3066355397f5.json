@@ -1,7 +1,7 @@
 {
  "id": "65bf1c02-d23e-4c57-b232-3066355397f5",
  "title": {
-  "en": "Flaming Heaven：Valkyrie"
+  "en": "Flaming Heaven\uff1aValkyrie"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "879f6c06-28de-4388-b4c4-d3f8da8c365b.jpg"
   },
   {
    "id": "2203c703-47b4-4483-86aa-09be729b5a86",
@@ -30,7 +31,8 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3d4c477b-5a0d-40ab-a2c7-08cde68ed61f.png"
   },
   {
    "id": "d9a729a0-70d4-4eb2-95f0-493f1b1e02bf",
@@ -44,7 +46,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "9757d699-7739-4eaa-9187-17be96501511.jpg"
   },
   {
    "id": "081e148a-218e-44af-bbbf-b8de0eefba2c",
@@ -57,7 +60,8 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "6a9ac707-eb8d-4cfb-96fb-0f62b7c8b579.jpg"
   },
   {
    "id": "c60708de-bb4a-4baf-8a80-7713e4551909",
@@ -70,7 +74,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "151f1ba6-7a4a-4ce4-9a24-ef12435f07db.jpg"
   },
   {
    "id": "8f270e6d-b9c8-47e1-bcec-988af2235b6c",
@@ -83,7 +88,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b34fc500-73be-4c66-95e1-3a850178fc9c.jpg"
   },
   {
    "id": "1873d8af-59bf-467c-843e-47032d6888c8",
@@ -98,19 +104,21 @@
     "ru",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e233fffc-6c82-4775-80eb-9d3c180c6f2a.jpg"
   },
   {
    "id": "a0fa04dd-604d-4374-b1fc-e5537a70069d",
    "title": {
-    "en": "Saint Seiya Ω"
+    "en": "Saint Seiya \u03a9"
    },
    "contentRating": "safe",
    "score": 0.33836427,
    "languages": [
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fdff538e-23cb-449f-a3ea-1c782c7c4ca3.jpg"
   },
   {
    "id": "3a50bc58-faf3-4400-b5f3-10e3d3bed612",
@@ -122,7 +130,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e9a5218f-4fda-492d-be39-8ace915ffe7d.jpg"
   },
   {
    "id": "db3271a2-e4e1-4c6b-b17a-0107f15ae876",
@@ -135,7 +144,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9ab9d7fb-46b4-4bad-a26e-1e9828fc09b6.jpg"
   },
   {
    "id": "73b19a68-3cf1-4048-b4b1-15445e99cd7d",
@@ -148,7 +158,8 @@
     "de",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1268c9a3-6409-4419-a62e-7fe8c548c6f9.png"
   },
   {
    "id": "3cdd2eeb-087e-4e30-86cf-c04ec65b60cc",
@@ -161,8 +172,10 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5c917514-9de5-408f-86f2-c6423aa4401e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:21+00:00"
+ "updatedAt": "2021-07-18T06:43:21+00:00",
+ "coverFileName": "ff06b9b8-0221-48d7-bbe6-094882d1c674.jpg"
 }

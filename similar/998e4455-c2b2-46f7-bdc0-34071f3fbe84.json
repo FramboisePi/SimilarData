@@ -16,7 +16,8 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "186db447-13f4-4989-b76f-a49bbbfd2b08.jpg"
   },
   {
    "id": "1044d8df-d550-4c43-aab1-43441976199f",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "de9c7992-14db-4bd0-a52c-995e0d20afc4.jpg"
   },
   {
    "id": "c8d341c9-a1b5-4224-98d6-637dc8554925",
@@ -39,7 +41,8 @@
    "score": 0.37814003,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "593e2f0e-3ab7-474c-a1ed-7c855c4c25dd.jpg"
   },
   {
    "id": "c517f829-8bb8-44ab-972a-6ec4267f5c35",
@@ -50,7 +53,8 @@
    "score": 0.36883113,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8626d859-20ba-4b8b-b75e-b2d2c601063f.png"
   },
   {
    "id": "e9080e7a-d6b0-4224-8145-8bcba8bc9747",
@@ -64,7 +68,8 @@
     "en",
     "pl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c2e7c8e9-2550-451e-8195-a8512d3a773b.jpg"
   },
   {
    "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
@@ -75,7 +80,8 @@
    "score": 0.36,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f61e9ad2-12e6-4728-80a8-f062c2e843af.jpg"
   },
   {
    "id": "bacf6a9f-daeb-426b-b2bf-ad17ae2ddd95",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "45cb5032-f462-4743-8d1a-40ee25bbc683.jpg"
   },
   {
    "id": "4f81740f-5164-4a39-9e95-e138108de3f1",
@@ -98,7 +105,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6aafee78-719c-45df-b38f-c03880e92f8f.jpg"
   },
   {
    "id": "842c1d46-7c7b-4b99-9007-8a2b150627cd",
@@ -109,7 +117,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2fddc8aa-bbc8-498f-a026-714cc288e28a.jpg"
   },
   {
    "id": "ce562869-701e-482c-bf94-dff01efda7e4",
@@ -121,18 +130,20 @@
    "languages": [
     "ca",
     "en"
-   ]
+   ],
+   "coverFileName": "8dc0cc1e-94af-4ec4-8cab-4f1ca26b65f3.jpg"
   },
   {
    "id": "3538e09c-0d4a-4d9a-8f41-746ba1046583",
    "title": {
-    "en": "Bokura wa Minna Shinde Iru ♪"
+    "en": "Bokura wa Minna Shinde Iru \u266a"
    },
    "contentRating": "safe",
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b0087f8-1849-4dfc-b80f-be2900a3c252.jpg"
   },
   {
    "id": "1cd2ff34-bbfc-4687-97a2-9bda85ad734a",
@@ -143,8 +154,10 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "07a5bf7c-8b3c-4fed-8104-ea0e2666f934.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:03+00:00"
+ "updatedAt": "2021-07-18T06:53:03+00:00",
+ "coverFileName": "4f8945a5-8fdf-4e87-a2c8-81ef39389e65.jpg"
 }

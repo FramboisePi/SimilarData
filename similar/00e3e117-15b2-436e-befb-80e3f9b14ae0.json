@@ -14,7 +14,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bac72cf-4362-44bd-8dbe-5f29cd9c6c2c.jpg"
   },
   {
    "id": "472b3a3d-fe51-4018-bfce-39dfcc4d5e95",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "9eb90f6f-a94b-4cdb-bafd-07ef61e3e7a3.png"
   },
   {
    "id": "61a599a5-7149-4aa2-859c-84e2378cd36f",
@@ -37,7 +39,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bb4e5d2-3ff7-490b-a351-18b3e978cc41.jpg"
   },
   {
    "id": "36df43ef-dd98-4e46-92c7-cfd243f6c635",
@@ -49,19 +52,21 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3ea45f98-e667-4f6e-8057-3b68f1ec0638.jpg"
   },
   {
    "id": "f56228ad-ba71-41bc-a438-977578d4d68f",
    "title": {
-    "en": "Sora no Kiseki Gaiden - Löwe Monogatari"
+    "en": "Sora no Kiseki Gaiden - L\u00f6we Monogatari"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7ddfccc2-7caf-490b-8132-11608009148e.jpg"
   },
   {
    "id": "caddfaef-9f94-49e2-9fb6-7514b3d2e2ca",
@@ -73,7 +78,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "cd0cfb42-0e5e-4df0-979a-820a2fd56efc.jpg"
   },
   {
    "id": "c7d7cc98-1e9c-467d-892e-8cc4a2129ed5",
@@ -86,7 +92,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "dd8e3d53-e116-4375-ab99-bf440b2cf6d2.jpg"
   },
   {
    "id": "62940a51-3ae7-4909-adf9-5b4793d78566",
@@ -98,7 +105,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "356b97dd-6ea4-416c-8f87-15616592a908.jpg"
   },
   {
    "id": "f7e56139-06b6-43b2-8be9-480ff2db2e33",
@@ -111,7 +119,8 @@
     "it",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "09bf5da1-aaa4-4c48-b68b-535a6e383dfc.jpg"
   },
   {
    "id": "ff2f35ff-2641-4a1b-8477-df933efd4eba",
@@ -122,19 +131,21 @@
    "score": 0.38031942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e644f9af-2ecf-401c-b248-f5fbe48559e8.jpg"
   },
   {
    "id": "a161eb17-806c-4771-9055-621d351dd542",
    "title": {
-    "en": "Weiß"
+    "en": "Wei\u00df"
    },
    "contentRating": "safe",
    "score": 0.3798868,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "86031770-919a-4cdb-bb70-2aaed3678a85.jpg"
   },
   {
    "id": "99bad780-a6c5-493e-9349-281eea194ec8",
@@ -145,8 +156,10 @@
    "score": 0.3790105,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9c5c9fc-2cd4-44fb-941e-6e9d0cea41cc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:38+00:00"
+ "updatedAt": "2021-07-18T06:24:38+00:00",
+ "coverFileName": "75f96b3c-d67b-4fc4-8699-5698bd2ed458.jpg"
 }

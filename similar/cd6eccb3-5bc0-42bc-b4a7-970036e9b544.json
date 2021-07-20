@@ -14,7 +14,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1bc23e16-4f9e-47c7-b0af-9f09a974d2b6.jpg"
   },
   {
    "id": "0ed6225d-8724-4af4-980a-f8c37a7f6449",
@@ -27,7 +28,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bd599504-1d36-4633-859d-1e78752e0449.png"
   },
   {
    "id": "00a2a2fe-c93d-4950-9ed4-9ebdd84b1fdd",
@@ -38,7 +40,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c81a3538-c383-4410-be4a-3e3c790ef3f3.png"
   },
   {
    "id": "e9520969-83c9-40fd-a68c-200aad36eb13",
@@ -52,7 +55,8 @@
     "zh-hk",
     "vi",
     "ar"
-   ]
+   ],
+   "coverFileName": "1d3ee8bc-77bd-4540-b397-bf03eb38c2b6.jpg"
   },
   {
    "id": "9496f98c-78b9-46d0-a092-d4ccc6759cc9",
@@ -64,18 +68,20 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "f425777a-d12b-49a4-9e2a-fc1bec62086f.jpg"
   },
   {
    "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
    "title": {
-    "en": "Saint☆Onii-san"
+    "en": "Saint\u2606Onii-san"
    },
    "contentRating": "safe",
    "score": 0.36873752,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da5567b7-de52-429a-97a3-f2a7f7f8c165.jpg"
   },
   {
    "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
@@ -86,7 +92,8 @@
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7add99b3-818a-4585-9197-697c3c863b74.jpg"
   },
   {
    "id": "fea614e7-a24d-4352-a755-905fa2c63dbe",
@@ -97,7 +104,8 @@
    "score": 0.35270146,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "733f76d5-455d-490f-a81a-902129e9ed0e.jpg"
   },
   {
    "id": "2fd69f1c-c09a-41ff-aaaa-49bd3302a78e",
@@ -108,7 +116,8 @@
    "score": 0.35232222,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6f0f65f-8982-4ae0-9565-0590c990893c.jpg"
   },
   {
    "id": "851d53fd-5e67-4e90-9d5a-3eba5cf73a97",
@@ -121,7 +130,8 @@
     "en",
     "bg",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8856db54-ae7b-4c64-b3c2-d782a8f5da40.jpg"
   },
   {
    "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
@@ -134,7 +144,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "c4e6f2d9-d2a6-47f9-ad22-54ff9c2620fb.jpg"
   },
   {
    "id": "ba968be9-0124-4e0d-b3a3-63c42de8e05b",
@@ -148,8 +159,10 @@
     "hu",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "90d02555-1eb0-430d-9cd0-fd77fbc5093e.gif"
   }
  ],
- "updatedAt": "2021-07-18T07:02:31+00:00"
+ "updatedAt": "2021-07-18T07:02:31+00:00",
+ "coverFileName": "0e2459fe-98da-416d-96d4-5c65ca0a5c2f.png"
 }

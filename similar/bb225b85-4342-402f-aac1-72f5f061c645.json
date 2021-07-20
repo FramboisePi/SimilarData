@@ -1,7 +1,7 @@
 {
  "id": "bb225b85-4342-402f-aac1-72f5f061c645",
  "title": {
-  "en": "Touhou - Shoujo-tachi no Spécialités - Spécialités Filles (Doujinshi)"
+  "en": "Touhou - Shoujo-tachi no Sp\u00e9cialit\u00e9s - Sp\u00e9cialit\u00e9s Filles (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.39748937,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4104f2a3-b352-476e-b549-4008775be1b1.jpg"
   },
   {
    "id": "eadb9e8c-07e0-4889-863e-4960bd43024b",
@@ -25,7 +26,8 @@
    "score": 0.39345467,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "500ad823-3f4c-49b4-aef4-22e25f34b2fa.jpg"
   },
   {
    "id": "b34f25c1-048d-49de-b8da-d2cc0b122566",
@@ -38,7 +40,8 @@
     "ru",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "9d37b59a-a602-4362-ab16-5b3a6b0a4744.jpg"
   },
   {
    "id": "230020d5-c718-45c6-94e3-3ececbf573b8",
@@ -49,7 +52,8 @@
    "score": 0.34423587,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "024ee191-88fd-4d3c-9767-dfcef1859416.jpg"
   },
   {
    "id": "08669292-e4e0-48a1-a6bc-d45eaa98ee1f",
@@ -60,7 +64,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81484e4e-ef83-4f1c-be3c-2d83ce23a031.jpg"
   },
   {
    "id": "bb0ec1d7-2606-4ff6-9e6e-a4a87901d85f",
@@ -71,7 +76,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "afb38879-52e5-422d-8fde-b41878f0343f.jpg"
   },
   {
    "id": "ea57a5b2-f905-44cf-8ebc-76764fcd7ada",
@@ -84,7 +90,8 @@
     "vi",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "eaa52373-7509-40c9-b42e-2e84c4161e19.jpg"
   },
   {
    "id": "c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b",
@@ -98,7 +105,8 @@
     "zh-hk",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "e5bd7b66-2daf-43c9-8ab2-7af4fed0a054.jpg"
   },
   {
    "id": "77566ea5-33a0-43e2-ba5b-ff7af8c397c9",
@@ -109,7 +117,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdc1ac26-bcaa-4a20-9a28-f842f50ef527.jpg"
   },
   {
    "id": "f75cafe1-3824-416e-9b40-761c6c00a832",
@@ -122,7 +131,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c8ad5d62-cfc6-4fd1-95d0-f176b368c90e.jpg"
   },
   {
    "id": "6317bf2a-24b5-4e03-a318-3446ab5eed37",
@@ -133,7 +143,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f2c0f90-2951-49b7-bd12-30738c440372.jpg"
   },
   {
    "id": "5accdd22-7ef4-4f7a-8681-a0a620ff4168",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "51edf7e9-cd04-473d-b576-b017a842dd7c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:14+00:00"
+ "updatedAt": "2021-07-18T06:59:14+00:00",
+ "coverFileName": "b1c823aa-8ec7-446c-9805-be8f4ac39919.jpg"
 }

@@ -16,7 +16,8 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "9c4ca1ae-e34e-4452-980b-60301ef93695.jpg"
   },
   {
    "id": "b79d0c9d-66a1-423b-a688-1953d87863ea",
@@ -30,7 +31,8 @@
     "en",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "0cf34a89-e8ac-4ff2-adab-7248f432015f.jpg"
   },
   {
    "id": "f66c2b61-7eda-4047-a5ff-97945db0589c",
@@ -42,7 +44,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "81eb29b3-6200-486b-a5b8-6d75ba9cc8ad.jpg"
   },
   {
    "id": "94d664e2-fe6f-4f8a-a3e8-6c7a9ecba025",
@@ -54,7 +57,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "265939f7-b700-44fd-9cc1-852f53073c51.jpg"
   },
   {
    "id": "9cc9fced-fe83-45e9-938f-f20ef33e0594",
@@ -69,7 +73,8 @@
     "pl",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "6b9b3cb8-6465-491d-bb96-890e6d9e4b40.jpg"
   },
   {
    "id": "9ca81e9a-791e-4e03-b7b5-709673131772",
@@ -80,7 +85,8 @@
    "score": 0.3997168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c48f7b1-5af8-4f10-812e-156140db4e73.jpg"
   },
   {
    "id": "06895469-47c3-4378-8504-1aaa9ac24071",
@@ -91,7 +97,8 @@
    "score": 0.3992786,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97058da5-1e5b-4aad-99bb-8ad50c1a0386.jpg"
   },
   {
    "id": "9dba8d1f-9fe7-48e7-9c1b-868ca4144068",
@@ -104,7 +111,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e3f91d2c-03ed-445b-a81d-eef7c74f253d.jpg"
   },
   {
    "id": "dca1f947-b416-4d31-9023-518239d38e3a",
@@ -117,7 +125,8 @@
     "ru",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "dffdf531-977f-4e57-949f-6c43518ec75f.jpg"
   },
   {
    "id": "b3949b7e-a3c1-4532-b571-279b0f44a01d",
@@ -131,7 +140,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "3953d5b4-4818-4d62-aa58-0582b3b10235.jpg"
   },
   {
    "id": "83b2fefd-3595-4a9d-9df3-72918194a9a3",
@@ -146,7 +156,8 @@
     "fr",
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "8fb7481a-8631-4395-bffc-a8d643e823eb.jpg"
   },
   {
    "id": "f1c716b5-e82f-4625-a646-280cfa66abad",
@@ -160,8 +171,10 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "7f60460b-25d6-4c52-94ed-e8296b38f096.png"
   }
  ],
- "updatedAt": "2021-07-18T06:57:30+00:00"
+ "updatedAt": "2021-07-18T06:57:30+00:00",
+ "coverFileName": "e623a7fb-44aa-4cad-bf36-2e11843c8f84.jpg"
 }

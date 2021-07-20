@@ -8,13 +8,14 @@
   {
    "id": "8cab2d11-5060-4a6c-b467-cfea81682e95",
    "title": {
-    "en": "Wolf \u0026 Mary"
+    "en": "Wolf & Mary"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da8911c9-d623-4a47-9cd1-9b182fca284e.jpg"
   },
   {
    "id": "4e2a9621-24d6-4b7f-9041-8e39e84dd38e",
@@ -25,7 +26,8 @@
    "score": 0.43043762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "835ac505-3c6b-42ea-ae26-50ae24287280.png"
   },
   {
    "id": "019dd911-cd1f-4bfb-839c-642be1472ba4",
@@ -36,7 +38,8 @@
    "score": 0.40639266,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b396b0a-37af-48c7-ad85-06c529adc6fa.jpg"
   },
   {
    "id": "5aedd994-75d6-4ed5-a5a2-7bc3b98a5bc1",
@@ -49,7 +52,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "c5d8a8b9-cd53-4b4c-a619-4e517060a1c3.jpg"
   },
   {
    "id": "aea945b9-1e08-48bf-9b9e-32a49f5ec85a",
@@ -60,7 +64,8 @@
    "score": 0.40013233,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d01ec437-4129-4b2c-a474-9157378c1dfe.jpg"
   },
   {
    "id": "6606dab5-2af7-4392-97b1-655bf080e993",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b606d9b7-0190-4bfb-90f4-c35742c2ac35.jpg"
   },
   {
    "id": "c221c779-992d-4c75-b8d0-896cc5fea891",
@@ -85,7 +91,8 @@
     "it",
     "en",
     "uk"
-   ]
+   ],
+   "coverFileName": "3bdfb1b4-4565-4972-9333-a24fe94b9cc0.jpg"
   },
   {
    "id": "eb966da2-b928-4bc5-9914-60df341894ca",
@@ -96,7 +103,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52f9cc55-dfe9-4539-a177-57ad78399d02.jpg"
   },
   {
    "id": "dad03f85-c84e-4201-8a7e-5d7db1a69f45",
@@ -107,7 +115,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2f9234d2-d2b7-4690-84fe-eb97e54034ff.jpg"
   },
   {
    "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
@@ -121,7 +130,8 @@
     "fr",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "dba5b95e-627b-45fa-bbb2-df4a273ceef9.jpg"
   },
   {
    "id": "29905c15-be0a-49ea-bda0-a029b75a956d",
@@ -132,7 +142,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "533dc50b-1913-4761-80d5-37d6a0afa81c.jpg"
   },
   {
    "id": "cd63f488-ab7d-4c38-b405-d5595a10ce5d",
@@ -144,8 +155,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "9f1f9534-4895-4b26-981c-f0f53fb94b99.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:29+00:00"
+ "updatedAt": "2021-07-18T07:01:29+00:00",
+ "coverFileName": "b5ac9871-69d0-4fba-9f96-39fdb59b59f4.jpg"
 }

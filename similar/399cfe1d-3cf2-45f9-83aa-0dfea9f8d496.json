@@ -1,7 +1,7 @@
 {
  "id": "399cfe1d-3cf2-45f9-83aa-0dfea9f8d496",
  "title": {
-  "en": "After the Holy Sword Reincarnates Into a Human Being, It’s Troubled Because It Is Favored by the Hero"
+  "en": "After the Holy Sword Reincarnates Into a Human Being, It\u2019s Troubled Because It Is Favored by the Hero"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6d25791d-e57c-4f73-ae72-b9ea3c0782f9.jpg"
   },
   {
    "id": "f885eaba-50ef-403a-868c-8315e2ebc315",
@@ -26,7 +27,8 @@
    "score": 0.43405038,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "213db5a6-fa67-4ece-93cb-41c9385400f4.jpg"
   },
   {
    "id": "f4676132-d3af-4027-8266-074c69035e98",
@@ -38,7 +40,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "38f15454-7abb-4ef5-8380-278ed8d125d4.jpg"
   },
   {
    "id": "b008fe69-1b64-4e2b-820a-ce513979ab17",
@@ -49,7 +52,8 @@
    "score": 0.42406568,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be25a770-d616-45ad-9687-15b101b62cac.jpg"
   },
   {
    "id": "996ddfec-3ce9-4a7a-bc3d-aad609ce138c",
@@ -60,7 +64,8 @@
    "score": 0.42093647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a7f99a5b-56b4-4a05-8978-08096db8a753.jpg"
   },
   {
    "id": "e8b6d229-8feb-4994-ac77-9dd3af12aa6a",
@@ -72,19 +77,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1eee2bdc-941e-46ae-9ace-112d9acacc4b.jpg"
   },
   {
    "id": "9a9e1b5f-88de-47dc-90e7-9f4f6bdfb804",
    "title": {
-    "en": "The Hero Suddenly Proposed to Me, but…"
+    "en": "The Hero Suddenly Proposed to Me, but\u2026"
    },
    "contentRating": "safe",
    "score": 0.40737644,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "7b4a2f02-dcab-46d4-9739-e1569c083f8c.jpg"
   },
   {
    "id": "46b5534d-ef35-46ed-b169-c83a4f207c7e",
@@ -98,7 +105,8 @@
     "en",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "4f9178a1-9b5e-4533-8121-4bc1836a3f49.jpg"
   },
   {
    "id": "4f5f8ff2-ce7e-4314-b638-0d202786e0d1",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f4b605a9-763e-4365-a219-805fb20d3284.jpg"
   },
   {
    "id": "e041b8a8-d631-47af-a5fe-763506f51ea1",
@@ -123,7 +132,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "aeee12c6-c442-46e2-9b47-aa966f0631e1.jpg"
   },
   {
    "id": "6f3408d0-645d-4515-ade1-fccf4e2da04f",
@@ -135,7 +145,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "177bd604-bd04-4545-8dc8-cee36ad31b17.jpg"
   },
   {
    "id": "896a437a-6f12-4728-a6c7-2961b1e300c6",
@@ -147,8 +158,10 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "dfe61cb9-7947-47e6-92e9-aad5c2c9ee51.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:12+00:00"
+ "updatedAt": "2021-07-18T06:35:12+00:00",
+ "coverFileName": "229048ee-9c0e-4eba-9ff8-f00a0e44ffd4.jpg"
 }

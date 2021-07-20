@@ -1,7 +1,7 @@
 {
  "id": "cf6a6afe-c79a-424c-97ac-aabb0e9562ec",
  "title": {
-  "en": "Seikimatsu★Darling"
+  "en": "Seikimatsu\u2605Darling"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "tr",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "2c020420-a613-4df4-a5da-a9fc135216f5.jpg"
   },
   {
    "id": "8927f5f1-843e-4cf5-8d6a-c93299366ad7",
@@ -28,7 +29,8 @@
    "score": 0.40020826,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0d0773c-e706-4999-be39-7579c672614f.jpg"
   },
   {
    "id": "5ebab464-509a-4c38-a4e5-e38fd1e83700",
@@ -39,7 +41,8 @@
    "score": 0.4,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8cefc089-fa52-4ef8-b415-b2f6bf472c81.jpg"
   },
   {
    "id": "600d0942-e672-41b4-8015-8cc037e7a512",
@@ -50,7 +53,8 @@
    "score": 0.4,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbf3161b-c90a-4168-a42e-078518acff4c.jpg"
   },
   {
    "id": "98fdfcfb-8248-40fe-92dc-2d4fedbcaf87",
@@ -62,18 +66,20 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "0946352b-2eb7-43f2-be13-e8d126b0f24f.png"
   },
   {
    "id": "13ced7ab-6744-4247-8a55-26fc674e1ad9",
    "title": {
-    "en": "Cucumber × Sandwich"
+    "en": "Cucumber \u00d7 Sandwich"
    },
    "contentRating": "safe",
    "score": 0.4,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1e90dcf-c1ca-4194-826a-6ce7b5db713b.jpg"
   },
   {
    "id": "88224f71-2927-4f47-bd8e-31de07ac0fac",
@@ -84,7 +90,8 @@
    "score": 0.4,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "deefcc6b-87e1-4029-93e6-dbbcecf69a41.jpg"
   },
   {
    "id": "cd6a54f9-1806-442d-8469-8916aada0d20",
@@ -95,7 +102,8 @@
    "score": 0.3909289,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d057fd5-5817-4ade-a85f-ce77129e9382.jpg"
   },
   {
    "id": "f6c4075d-a516-4928-87a9-5639fb7255e6",
@@ -106,7 +114,8 @@
    "score": 0.3829736,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3f2b19f-6d26-4eac-8ac3-8bd2d73bae43.jpg"
   },
   {
    "id": "28f1eca4-39d3-42d6-a55d-d943101cc042",
@@ -117,7 +126,8 @@
    "score": 0.3802165,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "724f3aaf-e41f-4b0d-8b8c-f9852fade486.jpg"
   },
   {
    "id": "5701576b-d17d-4ef4-950f-4db6907acdbe",
@@ -128,7 +138,8 @@
    "score": 0.37964025,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a652ead-163e-42a3-9eb1-b0c359f868b2.jpg"
   },
   {
    "id": "b2ca4e0e-a7d7-4c98-bfa3-c771c643bb68",
@@ -143,8 +154,10 @@
     "pl",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "1f779ab8-73d0-4479-b36d-64e663a3bc0c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:53+00:00"
+ "updatedAt": "2021-07-18T07:02:53+00:00",
+ "coverFileName": "e0e03b9c-5bd0-484b-9ca3-27d67c3a6468.jpg"
 }

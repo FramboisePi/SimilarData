@@ -8,14 +8,15 @@
   {
    "id": "0195ac7a-9974-4f3d-a825-b5612ca2c3ee",
    "title": {
-    "en": "Infinite Stratos - Sugar \u0026 Honey"
+    "en": "Infinite Stratos - Sugar & Honey"
    },
    "contentRating": "suggestive",
    "score": 0.48787695,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "9c39b38f-6f53-4854-8595-0d4c8b76aa43.jpg"
   },
   {
    "id": "9b52ad26-3034-4b34-8820-4c26e2487d98",
@@ -26,7 +27,8 @@
    "score": 0.38360685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cea3f94c-ff9d-4dbe-acab-f8ecff674a27.jpg"
   },
   {
    "id": "356d6cfe-5fbf-47da-9e2c-5e7abeb23dfe",
@@ -37,7 +39,8 @@
    "score": 0.37037933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02352748-6e3a-4cea-9294-73790f3c26fb.jpg"
   },
   {
    "id": "99c18328-e686-4156-a267-d94b6b838013",
@@ -48,7 +51,8 @@
    "score": 0.3457563,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28d22358-6630-4292-bd1d-dd1abc216eb4.jpg"
   },
   {
    "id": "629c14e6-822b-4620-8592-1766dbf80a98",
@@ -63,7 +67,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "711044e8-4722-49ac-994b-ef891b2e28ba.png"
   },
   {
    "id": "ea4fa22d-4d70-4b04-9566-f860d7659a7e",
@@ -80,7 +85,8 @@
     "es",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "41ed7e17-bbdf-422f-9c79-3d86bbb1c489.jpg"
   },
   {
    "id": "dbc748a0-054b-4d8e-86b3-a5000498373e",
@@ -92,7 +98,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "648a8f9f-5a97-48d6-bb54-23223458c677.jpg"
   },
   {
    "id": "c824574c-ea15-470f-bee4-515a4f13f1c0",
@@ -104,7 +111,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "05065e86-1c27-4871-b204-6280a4f04cca.jpg"
   },
   {
    "id": "c645ae63-367f-48a6-a675-71ec6836df2d",
@@ -116,7 +124,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "e8e72a13-4445-4540-a07b-814df79dd07f.jpg"
   },
   {
    "id": "83b2fefd-3595-4a9d-9df3-72918194a9a3",
@@ -131,7 +140,8 @@
     "fr",
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "8fb7481a-8631-4395-bffc-a8d643e823eb.jpg"
   },
   {
    "id": "06895469-47c3-4378-8504-1aaa9ac24071",
@@ -142,7 +152,8 @@
    "score": 0.32010812,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97058da5-1e5b-4aad-99bb-8ad50c1a0386.jpg"
   },
   {
    "id": "9cc9fced-fe83-45e9-938f-f20ef33e0594",
@@ -157,8 +168,10 @@
     "pl",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "6b9b3cb8-6465-491d-bb96-890e6d9e4b40.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:13+00:00"
+ "updatedAt": "2021-07-18T07:09:13+00:00",
+ "coverFileName": "40b4e56d-3f11-469d-b583-bf811434579c.jpg"
 }

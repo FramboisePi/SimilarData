@@ -16,7 +16,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "151f1ba6-7a4a-4ce4-9a24-ef12435f07db.jpg"
   },
   {
    "id": "c0124bf4-879e-4f69-9a44-d26b67c66553",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "87cff56a-5693-4ee1-b75b-641b3dcfa510.jpg"
   },
   {
    "id": "1db44cd6-0140-4507-9a92-d891d733ce75",
@@ -40,7 +42,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "044e578b-642a-421d-b476-90f1dc12bf6b.png"
   },
   {
    "id": "7244463a-ebd5-4fb4-b71a-96d93008c1d6",
@@ -54,7 +57,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "83ab572d-4dbb-4d37-abde-f409602e5cc5.jpg"
   },
   {
    "id": "03eb6c43-9006-477b-9297-7c4bacb6f694",
@@ -68,7 +72,8 @@
     "es-la",
     "fr",
     "fa"
-   ]
+   ],
+   "coverFileName": "0b4c3c50-3932-4aea-9c42-d3d4b40b608f.jpg"
   },
   {
    "id": "29d477df-76a0-4cce-a6fd-9a083b6e7610",
@@ -80,7 +85,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "9dd5b005-7c07-41c1-999d-db9fa7e54052.jpg"
   },
   {
    "id": "438b7cbc-09c3-4464-a491-daf0764c0eb1",
@@ -95,7 +101,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b80eeed9-9c9d-4f7a-bbd7-a5b52b74a60d.jpg"
   },
   {
    "id": "3cdd2eeb-087e-4e30-86cf-c04ec65b60cc",
@@ -108,7 +115,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5c917514-9de5-408f-86f2-c6423aa4401e.jpg"
   },
   {
    "id": "90563486-6a11-4963-8900-8a737c023c7a",
@@ -120,7 +128,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ff061e01-9c08-4b54-a299-8b51ca5ee2d6.jpg"
   },
   {
    "id": "09b6ed5b-3120-4b58-9842-a42f3e1cea60",
@@ -131,18 +140,20 @@
    "score": 0.33445638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "befc4e1c-fe23-4c9a-8af9-f779b75b308a.png"
   },
   {
    "id": "2dc02303-1644-4be2-88a5-62d59c505083",
    "title": {
-    "en": "Succuba \u0026 Siren"
+    "en": "Succuba & Siren"
    },
    "contentRating": "safe",
    "score": 0.33437976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c8a16d1-9fc4-47ba-9dfa-e215a1123fe0.jpg"
   },
   {
    "id": "5425a397-014c-4fbf-a2d9-18ba8de6aedd",
@@ -153,8 +164,10 @@
    "score": 0.33437976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "630e473f-d348-4938-8f09-603647eef471.png"
   }
  ],
- "updatedAt": "2021-07-18T06:40:04+00:00"
+ "updatedAt": "2021-07-18T06:40:04+00:00",
+ "coverFileName": "820d7207-cbd3-4904-874d-39103100ab89.png"
 }

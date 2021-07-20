@@ -8,13 +8,14 @@
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.4916177,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "e460e77b-c73a-4e7c-8240-4ee20288e928",
@@ -27,7 +28,8 @@
     "tr",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1d8d5795-b3d3-4ae2-b1e0-9e23271e10c1.jpg"
   },
   {
    "id": "9fecbee0-370c-4c20-a54b-32fe40854b14",
@@ -40,7 +42,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "57a3c8db-4d19-4a00-8820-d514765a2b3a.jpg"
   },
   {
    "id": "a5a26473-1432-4663-bd78-f71d75db052e",
@@ -51,7 +54,8 @@
    "score": 0.4088232,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a39bfe1-9cb7-417b-8c86-5a8d1da5f03a.jpg"
   },
   {
    "id": "c7138005-ceec-4600-af78-fad356064661",
@@ -62,7 +66,8 @@
    "score": 0.40651163,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1498a069-0fe6-49b3-be40-4f54375cdf95.jpg"
   },
   {
    "id": "bee954f7-316e-4fe9-853e-d66d6149c2cf",
@@ -73,7 +78,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f84b3eb8-c29c-4c56-8ca9-1afacb30d7d5.png"
   },
   {
    "id": "876a93c5-3895-49f2-b2ec-dcb9bf345ce3",
@@ -84,18 +90,20 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2c5a7c7-a1a1-4b53-a2ec-ee6ccda2f0e7.jpg"
   },
   {
    "id": "5e01ae63-c739-47fe-b0df-00e86bec9ecf",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - A Certain Day With Elegance (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - A Certain Day With Elegance (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "53cf123e-c0d8-4925-8dd3-cd398679273d.jpg"
   },
   {
    "id": "93e69961-a3b0-44a5-9a9d-ed938b79f24a",
@@ -106,7 +114,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a67979f-e09b-4fe9-b39d-172c009432ba.jpg"
   },
   {
    "id": "d321450b-0f02-4261-8da1-9af8db9617cd",
@@ -117,7 +126,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "814d555c-8778-4a1c-94b6-552d1fc5faba.jpg"
   },
   {
    "id": "28fc76bd-845a-4c83-aef0-0c7a209bf570",
@@ -128,7 +138,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "594dc75b-847c-4691-ba54-d7d62abb1bf3.jpg"
   },
   {
    "id": "79021771-3ca1-4739-9344-33020baab8e2",
@@ -139,8 +150,10 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ca77761e-ef5e-4259-8888-f98ef55e6f1c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:54+00:00"
+ "updatedAt": "2021-07-18T06:45:54+00:00",
+ "coverFileName": "619c978e-47cc-478b-b3b1-d4c007d41d3e.jpg"
 }

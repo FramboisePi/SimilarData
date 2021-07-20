@@ -17,7 +17,8 @@
     "es-la",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "48bd33f2-6c1d-4fb9-8781-6f488e8690b2.jpg"
   },
   {
    "id": "4ad6175e-1f27-4abf-a605-6f560a20f899",
@@ -30,7 +31,8 @@
     "it",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "09175d63-288d-41d0-92be-3220af75e5a9.png"
   },
   {
    "id": "c1de44c5-0efc-4eb5-9117-c791774eb8a8",
@@ -43,7 +45,8 @@
     "es",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "19410a00-c393-4f54-a6cc-832c7570a76d.jpg"
   },
   {
    "id": "384706bc-ba47-4ab6-993d-122232f0330f",
@@ -55,7 +58,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "2deffdcc-4e71-4c3d-88cd-7ac157420c7a.jpg"
   },
   {
    "id": "301bc2f1-a338-4eb2-bad6-d714df3d8802",
@@ -66,7 +70,8 @@
    "score": 0.42637312,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0cec3fc-dd7f-40a7-a9d6-a1f54e2a16ec.png"
   },
   {
    "id": "77c8cc57-95c1-4f9b-8843-493eb2697566",
@@ -80,7 +85,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "835a1d47-e037-4a43-8719-471645ad1f02.jpg"
   },
   {
    "id": "002871dd-5d07-4204-a6fd-a33a44af2630",
@@ -93,7 +99,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2daaea99-8313-4184-a589-ebc93e5959e8.jpg"
   },
   {
    "id": "062f098a-88bb-48f4-b022-3b7afa87bc47",
@@ -105,7 +112,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "f4effef6-fb36-48ab-ba07-5864ff4d4acf.jpg"
   },
   {
    "id": "64038043-6bfb-4f81-b98c-91ed15ef1f56",
@@ -116,7 +124,8 @@
    "score": 0.41278562,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fc9f835-9057-43aa-a3f1-5ee6f3b88cf7.jpg"
   },
   {
    "id": "258d2691-ffea-4e77-8968-ce5c24ffc6f7",
@@ -129,18 +138,20 @@
     "es-la",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f332f529-2f98-4a17-8e3a-c5a0296ba39c.jpg"
   },
   {
    "id": "9edece6b-def1-4e57-94f7-d90ec6ef130d",
    "title": {
-    "en": "Slayers Light•Magic"
+    "en": "Slayers Light\u2022Magic"
    },
    "contentRating": "safe",
    "score": 0.41099975,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8dcf5e6-de1e-4a0e-8654-716fc597d1f5.jpg"
   },
   {
    "id": "d9185681-0e7f-4e17-af63-cce7b3410445",
@@ -153,8 +164,10 @@
     "ru",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "49f606b0-7574-425b-962a-9f6c8ac2944b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:14+00:00"
+ "updatedAt": "2021-07-18T07:10:14+00:00",
+ "coverFileName": "e85371ed-2aec-4edc-a8ab-942aa0533e16.jpg"
 }

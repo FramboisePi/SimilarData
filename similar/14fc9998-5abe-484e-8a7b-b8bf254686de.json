@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1baf81e3-2677-42b2-bb3d-b6c3658b1f84.jpg"
   },
   {
    "id": "b48a41e8-7072-49eb-a5ed-aab1d98f47af",
@@ -30,7 +31,8 @@
     "fr",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "f8b3acc8-d95e-4e1c-80f1-2efe0cb36540.jpg"
   },
   {
    "id": "4dcd72f0-4cd4-463e-9c22-d97a628fa36e",
@@ -42,7 +44,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "6afbd7be-7848-4da5-96ad-de832f8523e5.jpg"
   },
   {
    "id": "dc08b4a3-5b52-4aab-aa73-c1d2107f635e",
@@ -53,7 +56,8 @@
    "score": 0.43574828,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "108c2010-c55f-4f24-a528-7e651a220133.jpg"
   },
   {
    "id": "4ef4b17f-e138-4b58-87f7-7f2c46e1ad01",
@@ -65,7 +69,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6e71b6e1-a749-468f-8ce4-2c570825fb75.jpg"
   },
   {
    "id": "fc9fc6f6-2197-4951-b36c-9e3880023b29",
@@ -76,7 +81,8 @@
    "score": 0.42801008,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "abd37d69-986b-4c4d-af1e-3134fedcaf41.jpg"
   },
   {
    "id": "0ece7494-c860-4d20-8507-baf4975e84f1",
@@ -87,7 +93,8 @@
    "score": 0.41478652,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c403c62-07f5-4bfd-853a-172c46071fef.jpg"
   },
   {
    "id": "338f3cec-45bd-4aa7-8175-f051580a2b17",
@@ -98,12 +105,13 @@
    "score": 0.41322327,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc9ccfa0-a541-44ec-ad52-8d2e80514da5.jpg"
   },
   {
    "id": "2d50d5c2-4124-44c6-9ef9-bae36dda3796",
    "title": {
-    "en": "Anti-Magic Academy “The 35th Test Platoon”"
+    "en": "Anti-Magic Academy \u201cThe 35th Test Platoon\u201d"
    },
    "contentRating": "suggestive",
    "score": 0.4121457,
@@ -111,7 +119,8 @@
     "en",
     "es",
     "de"
-   ]
+   ],
+   "coverFileName": "1a5bfc87-813f-468f-b395-8a6185f1df88.jpg"
   },
   {
    "id": "9585b6ff-7834-4e71-b47c-5a6c1440efb6",
@@ -126,7 +135,8 @@
     "it",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "7f16ad38-6d4a-48eb-92ce-bd929fa446f6.jpg"
   },
   {
    "id": "ce3560f9-ce30-4ab9-a124-836270014857",
@@ -141,7 +151,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c22c3bfc-9863-45af-8b80-3a1a0ee54e67.jpg"
   },
   {
    "id": "878da22c-787f-4a94-b249-73a2d7ff5e9e",
@@ -154,8 +165,10 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "95c4383e-e714-4a9e-9fdc-449e5f959d22.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:24+00:00"
+ "updatedAt": "2021-07-18T06:28:24+00:00",
+ "coverFileName": "00e3a9cb-7478-4b93-9dee-b1ecb6b0e0e2.jpg"
 }

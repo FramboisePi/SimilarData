@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "b78bf55a-c5b4-4d3b-8a0f-af0239757389.jpg"
   },
   {
    "id": "366e544c-9474-4042-b767-d222fc51f001",
@@ -30,7 +31,8 @@
     "ru",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "9bb53a3d-dc55-4197-b3ee-7e5801b83cae.png"
   },
   {
    "id": "8dc1675c-fc40-48d9-b776-ca1ac5e66fc1",
@@ -43,7 +45,8 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3d33ce21-4ba7-407b-98cb-9d71c65f6e1c.jpg"
   },
   {
    "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
@@ -60,7 +63,8 @@
     "ms",
     "ar",
     "es-la"
-   ]
+   ],
+   "coverFileName": "24a2aaa3-53fb-4c89-8785-692a2883f3b5.jpg"
   },
   {
    "id": "77b1fb34-f891-4c8e-b48b-2d425a304c37",
@@ -75,7 +79,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "864325e1-1bdd-4252-b748-e9d750680979.jpg"
   },
   {
    "id": "98df5987-adac-4232-be58-8718b43aa5e8",
@@ -87,18 +92,20 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "21c352ec-090b-41f4-9413-892b265d4099.jpg"
   },
   {
    "id": "bd71b35f-efb7-4736-a145-6c32a1cc49f7",
    "title": {
-    "en": "Pokémon Hard-Mode"
+    "en": "Pok\u00e9mon Hard-Mode"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "1865e341-d4dc-4acf-abee-d1a00a0771cc.jpg"
   },
   {
    "id": "fb46f285-bdd6-49d1-ae0b-fd8daea34597",
@@ -111,7 +118,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "2063f1d4-9e20-4b0e-b6b0-b2cc5566bf68.jpg"
   },
   {
    "id": "c3be92d8-e8f5-4ff7-82d6-2f1c68de4907",
@@ -124,7 +132,8 @@
     "it",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "d73c89a1-365e-49f6-8fa7-ead03eb46b6c.jpg"
   },
   {
    "id": "650dec11-364b-4c0e-a33a-1edb4ca28bc9",
@@ -139,7 +148,8 @@
     "it",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "04fa13dd-3c86-4e8b-a78e-83fbb47f5993.jpg"
   },
   {
    "id": "b34fd04a-eadb-4462-8d97-94980083ed25",
@@ -152,7 +162,8 @@
     "pl",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b56cb74c-af0b-44cf-a149-0d312ae22890.jpg"
   },
   {
    "id": "48910afe-3676-4a64-93c1-066b2cce4aa2",
@@ -164,8 +175,10 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "436c41c9-02b2-44b8-a8f4-9ab2a3d0f9ad.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:52+00:00"
+ "updatedAt": "2021-07-18T06:50:52+00:00",
+ "coverFileName": "eb272556-e18c-4049-9db8-ba14181b1b05.jpg"
 }

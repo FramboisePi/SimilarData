@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "bfe217c4-e4c6-4050-83ed-f992df73cabf.jpg"
   },
   {
    "id": "f62228b9-135c-47ab-a68f-8125438078b5",
@@ -26,7 +27,8 @@
    "score": 0.27152482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "017836b0-7cd5-4346-a53b-c0f0dca18b6d.jpg"
   },
   {
    "id": "31248326-0448-49ef-824d-413c17d7d285",
@@ -37,7 +39,8 @@
    "score": 0.27152482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b62b19aa-c405-459a-8e9c-839b51214c69.png"
   },
   {
    "id": "9743f3f6-b905-4812-9990-c2fe85376fa0",
@@ -48,7 +51,8 @@
    "score": 0.27152482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a197dc86-6105-4bfc-97a5-ab6ae03fd998.jpg"
   },
   {
    "id": "3950ae0d-8f10-4256-88b1-fd159ed09e52",
@@ -60,18 +64,20 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "b96db3ce-d65a-4c3f-94e9-47f9f2b1a226.jpg"
   },
   {
    "id": "be14e82e-3613-43a4-aff1-bba4f94fa0c2",
    "title": {
-    "en": "Pearl \u0026 Weiss"
+    "en": "Pearl & Weiss"
    },
    "contentRating": "safe",
    "score": 0.27152482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "60ba0e9b-4eb2-46c5-ae93-9c453348c4a7.jpg"
   },
   {
    "id": "d21944b5-fd8b-4d00-9ea1-7f528362bc1b",
@@ -82,7 +88,8 @@
    "score": 0.26879585,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "00db0d78-fd59-41cd-af22-db6b2bf4d2fe.jpg"
   },
   {
    "id": "b99c6033-150c-4b59-bb8c-966a4d2f2937",
@@ -95,7 +102,8 @@
     "en",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5d40ecbb-0eca-4d1a-8d5e-eed912a470e5.jpg"
   },
   {
    "id": "846bd240-ba67-4064-8ae8-f6f858be213f",
@@ -106,7 +114,8 @@
    "score": 0.262474,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "89800fce-fed8-43a3-92bd-e039e0fdb43d.jpg"
   },
   {
    "id": "e279d973-e1dd-4cfc-b643-fda857b6f4a0",
@@ -117,7 +126,8 @@
    "score": 0.262474,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f8f25e7-73da-4ce1-bded-50b3c8d84b18.jpg"
   },
   {
    "id": "6c0c2bd6-65c7-4982-baf1-10fa0b332e30",
@@ -130,7 +140,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ba50d18e-2b25-4d0c-a924-62a95c59e2bd.jpg"
   },
   {
    "id": "91ee504c-f455-469b-bfbc-f1d78cb8f487",
@@ -142,8 +153,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "e6ee62e2-3642-40ab-9f9c-2c6185979f16.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:36+00:00"
+ "updatedAt": "2021-07-18T06:50:36+00:00",
+ "coverFileName": "5dea2b7f-7a63-46cd-9999-845f455addd7.jpg"
 }

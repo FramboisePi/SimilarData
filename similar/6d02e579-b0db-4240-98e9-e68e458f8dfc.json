@@ -1,7 +1,7 @@
 {
  "id": "6d02e579-b0db-4240-98e9-e68e458f8dfc",
  "title": {
-  "en": "Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou"
+  "en": "Ore no Ie ga Maryoku Spot datta Ken \u2013 Sundeiru dake de Sekai Saikyou"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -20,7 +20,8 @@
     "tr",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8b7ee733-c764-4c78-a103-d0bfb1412fce.jpg"
   },
   {
    "id": "6e018caf-86c6-4740-b1db-d5a040430d2b",
@@ -35,7 +36,8 @@
     "fr",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "5b804bc1-c627-4ee5-bcf3-c43ac38076be.jpg"
   },
   {
    "id": "fac7bdc7-c1f3-4595-82f5-b5bfb002b933",
@@ -51,7 +53,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "ea01ea9f-224b-45c9-96da-384c515ba774.jpg"
   },
   {
    "id": "60773286-5af5-4ebe-98ae-5495bfcc1fcb",
@@ -66,7 +69,8 @@
     "fr",
     "es",
     "tr"
-   ]
+   ],
+   "coverFileName": "92d2e6c3-3252-420f-b102-445bd5c10a85.jpg"
   },
   {
    "id": "e881168f-ef99-41ff-88cf-1cf21c152635",
@@ -79,7 +83,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8293e114-49da-48f0-ac9c-ec2c062e9181.jpg"
   },
   {
    "id": "d506f85f-f318-42bc-84fa-a651a3bae4e4",
@@ -91,7 +96,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "5c427c94-aee6-4bb2-b224-414e06b7dcc3.jpg"
   },
   {
    "id": "e52367ac-5799-46d0-93db-67ef336de6dd",
@@ -102,7 +108,8 @@
    "score": 0.42715758,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ce593aff-80d4-40ef-8883-50b8857f68eb.jpg"
   },
   {
    "id": "18f5549a-9d1a-44a2-a8ca-aed2448e37c0",
@@ -113,7 +120,8 @@
    "score": 0.4253949,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6856260-3399-4dd3-98ea-c9c1096b4b37.jpg"
   },
   {
    "id": "96fe1639-b55c-4b0c-8bec-fd941260728e",
@@ -124,7 +132,8 @@
    "score": 0.42163876,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b49b4f7-09fc-4ece-91f9-af1add6ef9aa.jpg"
   },
   {
    "id": "4d4db0c2-3c43-45c8-aac1-af2af63e85ff",
@@ -140,7 +149,8 @@
     "ru",
     "es-la",
     "es"
-   ]
+   ],
+   "coverFileName": "42eb1d90-880f-49ee-8533-f48a89f335b3.jpg"
   },
   {
    "id": "e7e950c1-bbc3-4579-a659-ac9ffacc4ab2",
@@ -154,7 +164,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e8471bd3-aa8c-4489-8a11-4aa83e7776ef.jpg"
   },
   {
    "id": "b49fd121-19bf-4344-a8e1-d1be7ca04e08",
@@ -171,8 +182,10 @@
     "pt-br",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "a2b71cb7-fcbc-4848-a83b-515597fdcd3e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:42+00:00"
+ "updatedAt": "2021-07-18T06:44:42+00:00",
+ "coverFileName": "db4d90c6-7f91-450e-97f0-08b587b8732a.jpg"
 }

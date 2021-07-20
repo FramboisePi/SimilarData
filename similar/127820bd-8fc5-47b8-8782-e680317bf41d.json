@@ -18,7 +18,8 @@
     "id",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "111397dd-3510-4c9c-bbf8-5d9a5cf67eb6.jpg"
   },
   {
    "id": "8c2923cb-8b42-4e76-8f8d-5fec8c2a1840",
@@ -29,12 +30,13 @@
    "score": 0.4745727,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b39301f6-94c3-4d5b-b3f9-c0b90720d542.jpg"
   },
   {
    "id": "00c76090-a70f-4d96-a663-00c2e088ba16",
    "title": {
-    "en": "Shinshi Doumei †"
+    "en": "Shinshi Doumei \u2020"
    },
    "contentRating": "safe",
    "score": 0.46963397,
@@ -42,7 +44,8 @@
     "en",
     "bg",
     "pl"
-   ]
+   ],
+   "coverFileName": "19250867-f701-4778-925d-7073b6fd791a.jpg"
   },
   {
    "id": "f8d085b9-8a5f-4a1f-be1f-8686b132ded9",
@@ -54,18 +57,20 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "abbf2e0d-0a5e-4cb8-886d-5a5d5e27f3c8.jpg"
   },
   {
    "id": "6e6fef93-a671-498b-b101-84cbad321371",
    "title": {
-    "en": "Kikenchitai Danshi - Kedamono Black \u0026 White"
+    "en": "Kikenchitai Danshi - Kedamono Black & White"
    },
    "contentRating": "safe",
    "score": 0.46353748,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e340b4f-e1e5-42b3-9398-1b413b63e7e8.jpg"
   },
   {
    "id": "f4851f25-71fc-4a14-91b2-8ede85ca12ad",
@@ -76,7 +81,8 @@
    "score": 0.46146318,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f09c6750-0a69-40e7-b88d-fc74362494b6.jpg"
   },
   {
    "id": "07a5b8a8-5452-4751-bbad-d93b703122e6",
@@ -89,7 +95,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "63e38e32-4e45-4de9-8a09-05adea08830f.jpg"
   },
   {
    "id": "543b5255-47d0-425f-b9bd-727507223da2",
@@ -101,7 +108,8 @@
    "languages": [
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5bcd0d15-3716-41ed-a89a-febd5d7703e7.png"
   },
   {
    "id": "f97eead0-9626-4e74-801e-c2d63b5d108b",
@@ -112,7 +120,8 @@
    "score": 0.4567631,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ecef73f-766d-45a0-9c23-80df9143a9d2.jpg"
   },
   {
    "id": "3660766f-d3c6-47e1-b72d-d8ca51cc2820",
@@ -124,7 +133,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dd7880b3-2208-4db0-b585-846281f59f7a.jpg"
   },
   {
    "id": "54c2de19-889c-4b04-b9f0-39e28a769a98",
@@ -135,7 +145,8 @@
    "score": 0.45570463,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b003512-3ac5-41e2-a503-e5bf80fc7aff.jpg"
   },
   {
    "id": "5aa5fb6a-42b2-431c-bfef-a2d8e0abb6fa",
@@ -146,8 +157,10 @@
    "score": 0.4554738,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0dfd24af-9df9-4f81-8b82-7a71e38e9cfc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:55+00:00"
+ "updatedAt": "2021-07-18T06:27:55+00:00",
+ "coverFileName": "32e6d981-2b7e-4386-827a-75fc4274ea4b.jpg"
 }

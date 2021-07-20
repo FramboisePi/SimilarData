@@ -1,7 +1,7 @@
 {
  "id": "06d5d0c2-e6c8-4b7c-bbfc-aad4b9e5bb10",
  "title": {
-  "en": "Kyoushi × Seito no Yuri Anthology Comic"
+  "en": "Kyoushi \u00d7 Seito no Yuri Anthology Comic"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.42128724,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a96e019d-33c8-4baa-b425-fa91714c01cc.jpg"
   },
   {
    "id": "9df3e369-291e-4a3b-a13e-b2e5a1f788dc",
@@ -26,7 +27,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6b4f0b6d-89bf-48da-8e15-3c7effaca57a.jpg"
   },
   {
    "id": "6c731547-5918-4d6a-bb55-f9781df1377e",
@@ -37,7 +39,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "116ae707-eab9-4dd7-b388-79f236a47923.jpg"
   },
   {
    "id": "d8ee38bd-8054-4699-9090-2e58b7587bcc",
@@ -50,7 +53,8 @@
     "id",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "0dd528d3-39d6-4a87-9f08-4f7c5bb70b7e.jpg"
   },
   {
    "id": "fa8beb17-13df-492b-b134-9c651aa01cfa",
@@ -63,7 +67,8 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "472a245e-2962-434c-af72-31aaa2671328.jpg"
   },
   {
    "id": "6f54e58f-2349-4331-b49c-bd384c7532d9",
@@ -75,7 +80,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "033ad889-3fd1-4c1e-ab6f-16b425640439.png"
   },
   {
    "id": "cd5ca3ed-b379-44af-b8ab-66b851933351",
@@ -86,7 +92,8 @@
    "score": 0.3607643,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "86724f6a-5907-4fb5-89f3-13630e769a23.jpg"
   },
   {
    "id": "8f3e1818-a015-491d-bd81-3addc4d7d56a",
@@ -99,7 +106,8 @@
     "zh",
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "3358e8b4-b4f6-4df1-a42e-36d8af330765.jpg"
   },
   {
    "id": "91bbcc02-bc0f-4492-bf5d-e42cfe03dfe5",
@@ -112,7 +120,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9cb7c981-a4d6-4b50-bafe-65e20ba46449.jpg"
   },
   {
    "id": "8daf9c81-5d7d-4bbd-a9ec-3ff0ea9b95e6",
@@ -124,7 +133,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "68187b4f-1b3e-49e2-922f-19d6961cf99d.jpg"
   },
   {
    "id": "17fad723-635d-4f18-8727-d46c56b679fe",
@@ -136,7 +146,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a28d2bfc-3ccb-483c-8e64-cca26b613740.jpg"
   },
   {
    "id": "4a6ed936-66fb-4524-92f5-6a778269a9b5",
@@ -149,8 +160,10 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cc39c16c-877b-4cea-8fb1-225426e2744c.png"
   }
  ],
- "updatedAt": "2021-07-18T06:25:43+00:00"
+ "updatedAt": "2021-07-18T06:25:43+00:00",
+ "coverFileName": "9dd14d6c-4d65-41df-b4dc-fa2a7a299158.jpg"
 }

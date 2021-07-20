@@ -8,13 +8,14 @@
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.5012479,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "858cae86-3766-47fd-b68c-f37fcb538740",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "c8e83ae3-9a70-4edb-8d94-9f1c5538fcff.jpg"
   },
   {
    "id": "8a8e1de3-aa39-422a-a1b6-002ef0886cb0",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
   },
   {
    "id": "b5ba4db3-1bac-491e-8ce0-ce133ea780ed",
@@ -49,7 +52,8 @@
    "score": 0.44428942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "09591845-f8e7-4996-9ff6-15c5c5a73ecf.jpg"
   },
   {
    "id": "4a848b5f-4039-493e-a709-5677a804af65",
@@ -60,18 +64,20 @@
    "score": 0.43549663,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6100b1d9-f57a-4cd4-ae25-3303b6780368.jpg"
   },
   {
    "id": "c7ab2ddd-5899-4d44-9c84-1958f2ea3858",
    "title": {
-    "en": "Welcome to Cafe Schrödinger"
+    "en": "Welcome to Cafe Schr\u00f6dinger"
    },
    "contentRating": "safe",
    "score": 0.43423933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d62abe63-5ad9-4242-b1bd-a09f03ea316a.jpg"
   },
   {
    "id": "e675297b-8b2a-4612-a956-5eee26269606",
@@ -83,7 +89,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "0c3378a1-a4df-474b-addb-82f1202a2ab4.jpg"
   },
   {
    "id": "2084e90e-6206-44a1-b1a5-d6f6d3fe87f0",
@@ -95,7 +102,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7a5b855d-53e4-4e8a-a880-2109f291fd1f.jpg"
   },
   {
    "id": "0d600eb1-396d-489b-bae0-bb244f772443",
@@ -107,7 +115,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b93d84e0-e25f-4e37-8d7a-377d72d5d9a7.jpg"
   },
   {
    "id": "6515cc43-70b2-4a8e-9514-61c2d05383c2",
@@ -118,7 +127,8 @@
    "score": 0.40605056,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0521e292-b4d6-49d2-9994-15586bd2c49b.png"
   },
   {
    "id": "4e5a0434-b2af-4f96-84bf-320441eef2b9",
@@ -129,7 +139,8 @@
    "score": 0.40157816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bf2aba7-0f84-48fe-9a83-9f56566638cc.png"
   },
   {
    "id": "a39a4b05-9e69-4061-9951-499eaf3b60ca",
@@ -141,8 +152,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b7da93cf-54b1-41bd-a1fe-c61c1744d969.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:49+00:00"
+ "updatedAt": "2021-07-18T06:53:49+00:00",
+ "coverFileName": "61c04084-66cd-4173-b31d-2e7b022f677c.jpg"
 }

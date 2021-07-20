@@ -8,7 +8,7 @@
   {
    "id": "adbd4534-3183-4913-b8d2-f9f8850b1a48",
    "title": {
-    "en": "Le Théâtre de A"
+    "en": "Le Th\u00e9\u00e2tre de A"
    },
    "contentRating": "safe",
    "score": 0.3485685,
@@ -21,7 +21,8 @@
     "de",
     "bg",
     "pl"
-   ]
+   ],
+   "coverFileName": "c59450d5-57fe-4a12-be83-eadcd086f31a.jpg"
   },
   {
    "id": "e1102c82-3879-4fb4-b7bf-140cdcad11d5",
@@ -35,7 +36,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6ba64ca5-2d5d-4701-a391-e2be23d0adc8.jpg"
   },
   {
    "id": "d10f9b37-2497-46ce-a15c-c00dc0d1da4c",
@@ -48,7 +50,8 @@
     "en",
     "vi",
     "tr"
-   ]
+   ],
+   "coverFileName": "a3df74b1-0b40-4bab-93bb-ef2550cfcb41.jpg"
   },
   {
    "id": "6a3ec62c-14c6-45a1-8ba2-e6a644795752",
@@ -61,7 +64,8 @@
     "tr",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0fdffd1c-e472-42ee-a47e-5d116b5cfdc4.jpg"
   },
   {
    "id": "dce307fd-0e9b-4b9a-ae16-8452b2267b70",
@@ -73,7 +77,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "f307f4fe-85a6-441d-a92c-7351154c0910.jpg"
   },
   {
    "id": "91d50d21-9536-47a7-aee6-c84c2886a974",
@@ -88,7 +93,8 @@
     "tr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "b406068f-a58f-4674-a1cd-9275363d03cd.jpg"
   },
   {
    "id": "d77d82aa-4d63-4d97-bd37-8578820024af",
@@ -103,7 +109,8 @@
     "ru",
     "my",
     "tr"
-   ]
+   ],
+   "coverFileName": "905d8c7c-4b90-4107-b59a-073850951175.jpg"
   },
   {
    "id": "7f659336-95bb-4873-96ca-3996a63564b0",
@@ -118,7 +125,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "65b6c0b1-ce22-43ba-ac60-4a2fb30a27b4.jpg"
   },
   {
    "id": "658eb912-1508-42a3-b3c1-a9838ebe7718",
@@ -130,7 +138,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3c47b2c9-f1e3-46e8-b49d-7dd82beb0a09.jpg"
   },
   {
    "id": "9bf41378-6360-4360-8822-c40592c22c9b",
@@ -142,12 +151,13 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "54c79f09-835e-4358-8429-bc64ad3c4912.jpg"
   },
   {
    "id": "7b59a2b3-fe70-46a5-8050-15a8a4a17d41",
    "title": {
-    "en": "Le Théâtre de B"
+    "en": "Le Th\u00e9\u00e2tre de B"
    },
    "contentRating": "safe",
    "score": 0.25177273,
@@ -158,7 +168,8 @@
     "bg",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "12c4e080-7f73-4f33-a2b7-ada90448044c.jpg"
   },
   {
    "id": "6315a033-2f68-472c-86dd-dab446b2371d",
@@ -171,8 +182,10 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "38ccbf2b-4ca0-4167-9697-b88fb412baec.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:10+00:00"
+ "updatedAt": "2021-07-18T06:46:10+00:00",
+ "coverFileName": "cd9011b0-8c55-46bc-a7c8-f89b4d886ccf.jpg"
 }

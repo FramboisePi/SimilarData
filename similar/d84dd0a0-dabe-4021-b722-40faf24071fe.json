@@ -8,13 +8,14 @@
   {
    "id": "f36158a6-de56-41d4-b3d3-aef2af5ad1ea",
    "title": {
-    "en": "Hana \u0026 Mr. Arrogant"
+    "en": "Hana & Mr. Arrogant"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "11f071d9-39d7-4179-b742-0b4892bcb585.jpg"
   },
   {
    "id": "40f917a8-a984-4e89-8336-8b0e1233ae98",
@@ -26,7 +27,8 @@
    "languages": [
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "06c23f25-71fa-46e5-846f-d3e32112fb13.jpg"
   },
   {
    "id": "a2cae001-a83a-4b00-b74b-acb958bec356",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2ee19af4-4b27-4cd3-81a9-4f1281d1955d.png"
   },
   {
    "id": "f72b1592-248a-4d99-9007-ac46bd398ece",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a4c57bf4-98fe-4df9-84d5-1431efcdd145.png"
   },
   {
    "id": "bae119f6-977f-406a-b443-c3bb380edd2d",
@@ -62,7 +66,8 @@
    "languages": [
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "861f567a-1f10-4438-a2f1-8e261e454c92.jpg"
   },
   {
    "id": "43686548-c742-46bf-9f91-0c088e2254c8",
@@ -73,7 +78,8 @@
    "score": 0.36742347,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "cfa87f4a-5471-4e5f-8cb9-8058df78ad0a.jpg"
   },
   {
    "id": "b47d0512-0685-462a-aff4-ee08908f19fd",
@@ -84,7 +90,8 @@
    "score": 0.36742347,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "ee31b319-619e-409f-bddc-c6cbdc494318.jpg"
   },
   {
    "id": "845a5d9b-aded-4ba9-8ada-c4baefc3783f",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2b473a32-b36c-4046-af2c-825692155445.png"
   },
   {
    "id": "22d5a76e-de4d-4cf5-8508-d61e978ededa",
@@ -108,7 +116,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "02bf5bf5-40b3-4033-9d73-44a0c7f2e554.jpg"
   },
   {
    "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
@@ -119,7 +128,8 @@
    "score": 0.36742347,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "206cf422-55dd-4d5c-82f0-a80ec131b4d7.jpg"
   },
   {
    "id": "49bdd489-f5ba-44fd-bad6-2960248c9c46",
@@ -131,7 +141,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a33e2308-454b-4875-a12e-c350f3073a83.jpg"
   },
   {
    "id": "5c5030b1-0a34-4527-82e9-690a4818d577",
@@ -144,8 +155,10 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "77cb2040-dd6d-4c25-97d0-34949958a70d.png"
   }
  ],
- "updatedAt": "2021-07-18T07:04:34+00:00"
+ "updatedAt": "2021-07-18T07:04:34+00:00",
+ "coverFileName": "3df88fcb-b2b5-4c94-8f54-e7a539ffbfcc.jpg"
 }

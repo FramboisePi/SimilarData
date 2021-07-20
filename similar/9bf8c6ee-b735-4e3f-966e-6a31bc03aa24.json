@@ -17,7 +17,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "79ee7192-92cd-45e0-b245-57020bf67c4d.jpg"
   },
   {
    "id": "527a2da3-7248-4a4d-b14d-791970e00a61",
@@ -31,7 +32,8 @@
     "en",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0d3fc3b0-4f7c-44ba-bfb5-3ce248f2160c.jpg"
   },
   {
    "id": "4867fc04-7726-47ca-bf2c-9d36a071555a",
@@ -42,7 +44,8 @@
    "score": 0.46045995,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3291c41d-07d4-43ba-b586-8ba80f1e8303.jpg"
   },
   {
    "id": "d5265ecd-29ef-42a5-bf18-532fb204c1e5",
@@ -55,7 +58,8 @@
     "en",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "89425610-76df-44ec-a6cc-4384b20e9afb.jpg"
   },
   {
    "id": "c759d2a0-20c0-4500-94d1-29251242327c",
@@ -67,7 +71,8 @@
    "languages": [
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8bab8340-2625-4c4b-ae75-5b9c277e99ec.png"
   },
   {
    "id": "c9ed8b00-67f2-4f49-b7e8-fe5ef20d79f0",
@@ -78,7 +83,8 @@
    "score": 0.42917567,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e625b225-42c1-487c-9bf6-630ff496ef6a.jpg"
   },
   {
    "id": "50a8407c-7aaa-402b-8fd8-bb6e647911a5",
@@ -90,7 +96,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3e2b46ea-2b25-4aa2-9cfd-12a474db21e9.jpg"
   },
   {
    "id": "0a6a965d-3cc3-445d-beed-310ded6c3edc",
@@ -103,7 +110,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "fcd37ab8-bb78-49cf-91a0-0a77a2ea94d0.jpg"
   },
   {
    "id": "ba8bc20d-e2b9-4205-8c39-decfbb1ea97c",
@@ -117,7 +125,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "eb6f4be1-5e3f-4b64-b879-1be39c1f56df.jpg"
   },
   {
    "id": "2885e71b-e422-466e-929d-6f3a05203047",
@@ -130,7 +139,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f4373a99-e191-4358-b368-6a58c0d2943d.jpg"
   },
   {
    "id": "3ffdd2b1-a218-4e35-8013-84d371529181",
@@ -143,12 +153,13 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "5ab17d5a-8460-4839-9ef1-1b4e16f7aec2.jpg"
   },
   {
    "id": "642aaf08-7aba-42d1-aa8d-f7b6995527aa",
    "title": {
-    "en": "The Reincarnated Snow White Doesn’t Want to Eat the Poisoned Apple"
+    "en": "The Reincarnated Snow White Doesn\u2019t Want to Eat the Poisoned Apple"
    },
    "contentRating": "safe",
    "score": 0.37145358,
@@ -156,8 +167,10 @@
     "pt-br",
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "aebdd57d-79fe-41de-9bdd-9e44ebb2b19a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:31+00:00"
+ "updatedAt": "2021-07-18T06:53:31+00:00",
+ "coverFileName": "f18b1b21-3c0a-4c15-9a45-46154b645650.png"
 }

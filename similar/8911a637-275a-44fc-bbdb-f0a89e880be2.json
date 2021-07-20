@@ -1,7 +1,7 @@
 {
  "id": "8911a637-275a-44fc-bbdb-f0a89e880be2",
  "title": {
-  "en": "Ōkami ni Naritai"
+  "en": "\u014ckami ni Naritai"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "zh-hk",
     "bg"
-   ]
+   ],
+   "coverFileName": "b8314f8c-cf18-4f1f-b995-0b83c3c8ed6e.jpg"
   },
   {
    "id": "11afa5c2-41dc-4cf3-8451-f306a3caf1ab",
@@ -33,7 +34,8 @@
     "it",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "31616f14-95a8-41e5-bf42-0292087c4158.jpg"
   },
   {
    "id": "34ff0e60-f22f-48c9-8cb3-4b3ea6d86afa",
@@ -45,7 +47,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "af3e6886-b9d0-4649-9077-0f82dd4ce3bb.jpg"
   },
   {
    "id": "b7308e26-f9bf-44df-a152-a38d014ecdb0",
@@ -58,7 +61,8 @@
     "zh-hk",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "7274b44e-0e42-4f27-8ce7-eb40cb48ad17.jpg"
   },
   {
    "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
@@ -72,7 +76,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "391f012f-07bb-4b28-8492-5a34f50e955e.jpg"
   },
   {
    "id": "04b35203-e080-4142-884b-e1c8bf5b3bc9",
@@ -85,7 +90,8 @@
     "zh-hk",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "877caabd-fb2e-4048-97f2-ae37d97f7b0b.jpg"
   },
   {
    "id": "dc4d5ca0-9c35-4f8d-8683-53fa100ce659",
@@ -97,7 +103,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "b52f7280-ea9d-47a0-8cc1-827b17065ebc.png"
   },
   {
    "id": "fccf8436-e642-4a5e-8c62-60eb99aea92e",
@@ -112,7 +119,8 @@
     "ru",
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "83539cbd-46ec-4ed0-9f28-dc56dd3faaf7.jpg"
   },
   {
    "id": "60296233-d377-4df8-bb2f-b4090999498c",
@@ -124,12 +132,13 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "c4113495-7dc2-40e6-9687-751dc1a09a87.jpg"
   },
   {
    "id": "f24b0bae-74f8-4773-8ec7-79c9f09540ca",
    "title": {
-    "en": "Ōkami-kun wa Hayakawa-san ni katenai"
+    "en": "\u014ckami-kun wa Hayakawa-san ni katenai"
    },
    "contentRating": "safe",
    "score": 0.46912852,
@@ -139,7 +148,8 @@
     "pt-br",
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "885479e2-9b92-4d89-9727-aab62eb615c1.jpg"
   },
   {
    "id": "0fa5dab2-250a-4f69-bd15-9ceea54176fa",
@@ -156,7 +166,8 @@
     "en",
     "zh-hk",
     "tr"
-   ]
+   ],
+   "coverFileName": "2ead88f8-711c-4b54-92ec-727193b2d8ea.jpg"
   },
   {
    "id": "885d548d-d238-472a-a1bd-44d51d484685",
@@ -169,8 +180,10 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "25d1366e-255e-4ff3-b66b-0f9fce5800d9.png"
   }
  ],
- "updatedAt": "2021-07-18T06:49:57+00:00"
+ "updatedAt": "2021-07-18T06:49:57+00:00",
+ "coverFileName": "32979e6a-0449-4d39-b91c-30de40a2dc0c.jpg"
 }

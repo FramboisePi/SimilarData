@@ -1,7 +1,7 @@
 {
  "id": "cfca339a-8053-459b-85ab-047e094a06c5",
  "title": {
-  "en": "Lamento – Nobody Knows"
+  "en": "Lamento \u2013 Nobody Knows"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "c8539089-7dee-4cbf-b7fa-b835f43e17b7.jpg"
   },
   {
    "id": "b62e7568-ebab-4441-b5cf-25c22754015d",
    "title": {
-    "en": "Lamento – Scraps"
+    "en": "Lamento \u2013 Scraps"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "4b850f35-9c68-41c1-bff2-2b771680761e.jpg"
   },
   {
    "id": "3ba371da-486b-48e5-993c-1d6916005491",
@@ -36,40 +38,44 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "e5416034-0b13-4ae6-82ff-1d93dd62b2b0.png"
   },
   {
    "id": "e39b29e1-5b03-48f6-a7ca-e1a203288c5a",
    "title": {
-    "en": "Lamento – Overflow"
+    "en": "Lamento \u2013 Overflow"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "fbd4d9e4-56af-4615-8877-71ef7a2f15cc.png"
   },
   {
    "id": "7b1d603e-f5bb-4894-86f8-ba49271d2ab3",
    "title": {
-    "en": "Psycho-Pass – Platonic Garden"
+    "en": "Psycho-Pass \u2013 Platonic Garden"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "34f16328-00a4-4371-b8e0-54849b89c49e.jpg"
   },
   {
    "id": "27db706f-0a8b-400f-928e-60ee1e544eb9",
    "title": {
-    "en": "Lamento – Come into Blossom"
+    "en": "Lamento \u2013 Come into Blossom"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "eb961da1-09d2-4a31-8ecd-4a4577f13283.jpg"
   },
   {
    "id": "09f7eab5-9595-436f-86cc-df48fa0e5ca7",
@@ -81,29 +87,32 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "9b4749d8-3077-459e-8a67-75a0ff9f58fa.jpg"
   },
   {
    "id": "5c740a42-b2bd-4df4-b9ae-ed1da5efdd5c",
    "title": {
-    "en": "Togainu no Chi – Mekakushi Oni"
+    "en": "Togainu no Chi \u2013 Mekakushi Oni"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "b7ab17a6-2daa-461c-9640-3d4eeff77519.jpg"
   },
   {
    "id": "25357fc2-9f57-4e7d-8332-e038ee7c4ec4",
    "title": {
-    "en": "Lamento – My Wish"
+    "en": "Lamento \u2013 My Wish"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "09d13da3-62df-454d-9c8d-695fd03e89be.jpg"
   },
   {
    "id": "7f698377-e110-4860-807b-340f2e2f7d1e",
@@ -115,18 +124,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "bb03421b-dec9-44a3-bb35-c9b989b9ab4d.jpg"
   },
   {
    "id": "510b6556-40cb-4611-8483-f89e317fec26",
    "title": {
-    "en": "Togainu no Chi – Domestic Vermillion"
+    "en": "Togainu no Chi \u2013 Domestic Vermillion"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "302bbd3a-5660-4607-89f9-2d9e63446b13.jpg"
   },
   {
    "id": "f0600194-5833-4ed8-aef4-aff0c5f394b2",
@@ -137,8 +148,10 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "87e691ed-9d19-4fd4-a030-51356cf16c42.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:58+00:00"
+ "updatedAt": "2021-07-18T07:02:58+00:00",
+ "coverFileName": "91b5bb88-c237-4183-8a38-0dea3bdc36dc.png"
 }

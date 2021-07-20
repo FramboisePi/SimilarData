@@ -16,7 +16,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "840fadef-87fb-4ca5-9d1a-2177ed6368aa.jpg"
   },
   {
    "id": "b4320039-9b91-44a7-a60d-c7ba8c0684e7",
@@ -30,7 +31,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ed566a45-c9f2-4f7e-84f8-ae7fc328ab15.jpg"
   },
   {
    "id": "6e90e8b0-2d75-416a-ac46-6815b5afa70d",
@@ -41,7 +43,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55a16167-6b20-4805-97c7-57c93b67ef47.jpg"
   },
   {
    "id": "5501d637-dba4-4d5a-bb18-73219958ca6a",
@@ -52,12 +55,13 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bc92774-1053-4dad-841d-a29e29626512.jpg"
   },
   {
    "id": "188e4f34-a80c-4a91-b54e-69572e8ed4d5",
    "title": {
-    "en": "Saint Cecilia \u0026 Pastor Lawrence"
+    "en": "Saint Cecilia & Pastor Lawrence"
    },
    "contentRating": "safe",
    "score": 0.44919953,
@@ -67,7 +71,8 @@
     "en",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "55fb4443-2b04-4872-9cb5-7ddc83aa2ca4.jpg"
   },
   {
    "id": "3a0b5925-41ca-46c4-8aaf-121591b869b2",
@@ -79,12 +84,13 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "fc66de9e-3f31-4d73-aa45-800e54b72541.jpg"
   },
   {
    "id": "b7eb9c63-fb62-4649-8d15-6eca463d2d50",
    "title": {
-    "en": "Elf Boyfriend \u0026 Boyish Girlfriend"
+    "en": "Elf Boyfriend & Boyish Girlfriend"
    },
    "contentRating": "safe",
    "score": 0.44919953,
@@ -92,7 +98,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f02eeeb2-7e8c-4dee-aeea-d8aec6d47648.jpg"
   },
   {
    "id": "b4c13fd4-ec22-4bb2-a01e-921c97bfb4a4",
@@ -103,7 +110,8 @@
    "score": 0.4456323,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ebb8573-15f7-4b97-9564-95ea571f710d.png"
   },
   {
    "id": "bda927f7-df67-4842-b830-19c931159e41",
@@ -114,7 +122,8 @@
    "score": 0.43607128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "437192d3-fb8a-4b1a-b2c7-7f5b85e9153a.jpg"
   },
   {
    "id": "8ae8fb30-1e7a-4ccf-be64-f390b13267e8",
@@ -125,7 +134,8 @@
    "score": 0.42579135,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fba94d06-5c7d-42a5-92d7-13fd99ab5106.jpg"
   },
   {
    "id": "720c050d-7cf5-40a3-87c6-7ce43c4085d5",
@@ -136,7 +146,8 @@
    "score": 0.42424616,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2769212a-6656-418a-ab1e-31f94a10f692.jpg"
   },
   {
    "id": "cc5d6c5f-d302-4da3-9a31-a8d8592ca658",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a0e9aa67-f61d-4618-9f2f-c99c9841e283.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:37+00:00"
+ "updatedAt": "2021-07-18T06:27:37+00:00",
+ "coverFileName": "dd3450b2-9363-474f-b60e-9a450b6ab191.jpg"
 }

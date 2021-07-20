@@ -16,7 +16,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "33ad7ebb-d94e-4f53-a643-f17d13129597.png"
   },
   {
    "id": "3b3fd6eb-b46d-4ba7-a57e-67e1899b206d",
@@ -32,12 +33,13 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "846bf2ac-5611-4913-9fcc-c79219e74717.png"
   },
   {
    "id": "de943512-1206-4a99-8c54-113e63468c4a",
    "title": {
-    "en": "Ranker’s Return"
+    "en": "Ranker\u2019s Return"
    },
    "contentRating": "safe",
    "score": 0.405,
@@ -48,7 +50,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "bad75d2d-a06c-48b5-abdf-f5aaccfc644c.jpg"
   },
   {
    "id": "e29133fe-0e5e-4a4f-b91d-7232a07c8348",
@@ -60,7 +63,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9dfc603e-1cb9-40a6-89c1-58ddd3c29367.jpg"
   },
   {
    "id": "c1eaf6e9-6091-43d4-b368-4b09b1544640",
@@ -73,7 +77,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "75ef837e-9c3e-44a7-97bf-fdb1eefd5ed6.jpg"
   },
   {
    "id": "ae7c0556-7643-410d-a74a-ea782c1055e6",
@@ -84,19 +89,21 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e4d863a-a483-4e22-9164-0e054f06903d.jpg"
   },
   {
    "id": "928a9445-3211-41ab-a53d-922fcdae4366",
    "title": {
-    "en": "Fairy’s Armament"
+    "en": "Fairy\u2019s Armament"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "55c43cfa-abc7-4d5c-881a-70b1115071ec.jpg"
   },
   {
    "id": "fc84b02b-3b16-40af-89a5-a5f849f20721",
@@ -111,7 +118,8 @@
     "ru",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "500bc78c-5f2b-4652-8978-b5946a5d0ff4.jpg"
   },
   {
    "id": "70849850-f057-47a7-8a7d-06694e958806",
@@ -125,7 +133,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "0f1aea59-879b-4139-9b1d-00b5cb0e13f1.jpg"
   },
   {
    "id": "5ed2558b-66e8-4413-aff8-0ff317f9f1d0",
@@ -141,7 +150,8 @@
     "ru",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "94b410d4-ebaf-45c2-aadc-5e3388e14a6a.jpg"
   },
   {
    "id": "907276d5-2b48-4c76-8a86-481f11fcb069",
@@ -155,7 +165,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3e32b62a-142a-4fae-9713-e0c4d91f8376.jpg"
   },
   {
    "id": "8cfccbc9-1b2a-4e90-a691-aa43be33136b",
@@ -172,8 +183,10 @@
     "fa",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "907aa532-f5b6-450f-9210-a94c0b0f76f3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:48+00:00"
+ "updatedAt": "2021-07-18T06:43:48+00:00",
+ "coverFileName": "b1a64912-3809-412a-bed1-7a784b9a8998.jpg"
 }

@@ -1,20 +1,21 @@
 {
  "id": "92e93403-a22f-4488-bb40-f7388c781ef9",
  "title": {
-  "en": "MÄR Omega"
+  "en": "M\u00c4R Omega"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "84b2fad4-cd1a-4a37-831a-582e8137970f",
    "title": {
-    "en": "MÄR"
+    "en": "M\u00c4R"
    },
    "contentRating": "safe",
    "score": 0.60409975,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c23b49f-ef01-4e90-8fdd-245f33482816.jpg"
   },
   {
    "id": "cb75d066-b1c3-4054-b468-e4d896225ec3",
@@ -25,7 +26,8 @@
    "score": 0.4808711,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea31bdbf-b468-4ed7-9e79-b35849694eb8.jpg"
   },
   {
    "id": "63d5b8cb-a545-492f-a56a-cd0eede1fefb",
@@ -36,7 +38,8 @@
    "score": 0.47358513,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d35ddd97-467b-4dfa-9a07-ef4f0e90da62.jpg"
   },
   {
    "id": "f34f2b36-4a30-4ac9-bee1-630b3a37d7d9",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "24548f04-385a-4439-b763-5a78ee448083.jpg"
   },
   {
    "id": "1c914312-1c6a-4b6d-89b5-ad77904caa70",
@@ -59,7 +63,8 @@
    "score": 0.4640911,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3aec6a38-5362-42d5-b58d-37bc9ce39073.jpg"
   },
   {
    "id": "aae2b42a-4e9f-4083-9e0a-0c33ba608d03",
@@ -70,18 +75,20 @@
    "score": 0.46397823,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4e387a8-f901-49d0-ad75-f6731c6e1995.jpg"
   },
   {
    "id": "f3b2f974-0df3-449f-a157-a885cdbf84d3",
    "title": {
-    "en": "Black★Rock Shooter THE GAME"
+    "en": "Black\u2605Rock Shooter THE GAME"
    },
    "contentRating": "safe",
    "score": 0.46357563,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a91bb4f2-3c9a-43cf-a8eb-60d4a2620bb8.jpg"
   },
   {
    "id": "0a544768-b23c-4ef5-ad65-980c36c7b985",
@@ -92,7 +99,8 @@
    "score": 0.46136135,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f976492-abe3-4865-a78d-8484bf444309.jpg"
   },
   {
    "id": "55e57f87-bf70-4a15-97f1-2a5ad884e027",
@@ -103,7 +111,8 @@
    "score": 0.46095324,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46c38cd1-e4e5-469c-95f9-084c274ee81c.jpg"
   },
   {
    "id": "53cd425f-115c-49c5-89c2-8ebe52ff3463",
@@ -114,7 +123,8 @@
    "score": 0.46023193,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18251210-ee27-409d-8107-4247825b4d16.jpg"
   },
   {
    "id": "42edfd41-7102-4556-86d6-25bd6fdfaf5d",
@@ -126,7 +136,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "8527dc3f-1980-44c6-a702-6e1cd16160ef.jpg"
   },
   {
    "id": "1beedc69-1f7f-4ddd-9469-f216e6ecb279",
@@ -137,8 +148,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "285d91bc-36a5-4c53-b0df-9fd165a1d0a6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:51+00:00"
+ "updatedAt": "2021-07-18T06:51:51+00:00",
+ "coverFileName": "d1544476-7d01-4fce-9d96-55fff2e5081d.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a2434820-b719-4075-bbe8-7428c7bad5a9.jpg"
   },
   {
    "id": "40660a4b-1b11-404b-bbc6-290c28d7cd9a",
@@ -26,12 +27,13 @@
    "score": 0.39921093,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7be13bb3-24df-446f-b523-d46f517b1783.png"
   },
   {
    "id": "9ef97eba-e0bc-452c-9ed0-bfb645d9b536",
    "title": {
-    "en": "Hitoribocchi no ○○ Seikatsu"
+    "en": "Hitoribocchi no \u25cb\u25cb Seikatsu"
    },
    "contentRating": "safe",
    "score": 0.39129475,
@@ -42,7 +44,8 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "625a18b4-1b16-4077-84e1-fedce5aed568.jpg"
   },
   {
    "id": "107be290-6a4b-4974-a9c5-3761a2514823",
@@ -53,7 +56,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5e98892-12ac-4dc0-b35b-0d8cad28b926.jpg"
   },
   {
    "id": "6b89c9ae-2d73-40cc-ada9-286e87e35aad",
@@ -64,7 +68,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "965bc6d6-2b28-4aa6-b01c-7521295c5568.jpg"
   },
   {
    "id": "c9f4570e-4def-4149-8738-1918d6814da1",
@@ -75,7 +80,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4999d6be-f3f4-4379-8a06-6cf911e0ac4e.jpg"
   },
   {
    "id": "c9362728-b80d-476f-8cda-223bcf0932cc",
@@ -86,7 +92,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb7b657a-3f20-4124-bdd5-f9161f50039a.jpg"
   },
   {
    "id": "832a7b1c-9d08-4218-beb0-cdfe94af6e4a",
@@ -97,7 +104,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b621e95-a26e-4fab-9582-20fe4718d5ce.jpg"
   },
   {
    "id": "814b682b-4405-47f7-b568-19929304df47",
@@ -108,7 +116,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2fc379fa-79c0-46e1-9234-40443fb07cc0.png"
   },
   {
    "id": "d8adcc66-b2a3-4c0c-a8b4-c6f2f0538b90",
@@ -120,7 +129,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "856102c8-f3d7-4c48-b1c9-56aed457eae5.jpg"
   },
   {
    "id": "3ae903b6-b74c-44df-b979-2ca406fcb342",
@@ -134,7 +144,8 @@
     "ru",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "9e795812-486c-4188-9d49-5f12af3a1f76.jpg"
   },
   {
    "id": "a4e5418c-18d9-468a-8cac-8daa78617f83",
@@ -146,8 +157,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3de71bb8-5149-4135-b39f-62410093947b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:36+00:00"
+ "updatedAt": "2021-07-18T06:47:36+00:00",
+ "coverFileName": "2140bdb5-e763-415c-b44b-e9f9d2dc55ce.jpg"
 }

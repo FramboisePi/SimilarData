@@ -1,20 +1,21 @@
 {
  "id": "22454c95-5bd1-4167-a63e-5e1bb07bfc3b",
  "title": {
-  "en": "Petite Pêche!"
+  "en": "Petite P\u00eache!"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "484f7218-6d03-4072-814f-9654192352d1",
    "title": {
-    "en": "Kamakura Deco \u0026 Kofu Life"
+    "en": "Kamakura Deco & Kofu Life"
    },
    "contentRating": "safe",
    "score": 0.5696228,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df0c87bd-31c2-4cb3-9510-feece38791e6.jpg"
   },
   {
    "id": "d8f9bdcf-b3e9-4cdd-a13a-d42b49300590",
@@ -25,7 +26,8 @@
    "score": 0.4926117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de876cf3-a385-43d0-9ae2-c3b702a7f159.png"
   },
   {
    "id": "9c64299a-5aa8-4da1-8cc0-7aa69f049709",
@@ -36,7 +38,8 @@
    "score": 0.4924535,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90bb784e-4b53-4332-be2d-8723b3f342c4.jpg"
   },
   {
    "id": "c1c07f2a-bbc0-4609-9747-2f3b3e29b91d",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "11a1a14c-c752-4c8c-8e2b-294f9ed8d53c.jpg"
   },
   {
    "id": "b04c36ae-866b-410b-917e-932e958caaa9",
@@ -59,7 +63,8 @@
    "score": 0.46766776,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "747e5325-6cb1-431b-a0bb-f9fe4a66daad.jpg"
   },
   {
    "id": "73863977-abb1-4ae7-91e8-b3c16d44e15c",
@@ -70,7 +75,8 @@
    "score": 0.4603899,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdf81f61-ba16-46a3-9742-e7caee0e1858.jpg"
   },
   {
    "id": "ed969584-fb83-46dd-8e1d-76375f0c1512",
@@ -81,7 +87,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "735f5f95-3b28-47ab-901a-e2ad332460f6.jpg"
   },
   {
    "id": "944f8f69-9a9c-4678-9e0d-c8202de70cb3",
@@ -94,7 +101,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d28ed404-6455-44c1-b7b8-cd2ff161c99f.jpg"
   },
   {
    "id": "917a7307-2da5-4c7e-be23-33982be0c561",
@@ -105,7 +113,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9a43f16-e2c9-4df0-adea-2a66329cc54c.png"
   },
   {
    "id": "5409c5b4-353b-41b7-bd06-3220e844d0ac",
@@ -116,7 +125,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "799ca24e-e056-4628-bbde-1b5282a05c7b.jpg"
   },
   {
    "id": "633a5e39-ed38-4c23-bc00-977acd681780",
@@ -127,20 +137,23 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab3107b9-a483-4859-9ef4-4331d9ba4f4d.jpg"
   },
   {
    "id": "537818a6-928d-46e7-a53a-fe0889497d30",
    "title": {
-    "en": "Cat \u0026 Me"
+    "en": "Cat & Me"
    },
    "contentRating": "safe",
    "score": 0.4490033,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "0ef1cb38-2717-4742-8650-a2948ee1c2a9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:52+00:00"
+ "updatedAt": "2021-07-18T06:30:52+00:00",
+ "coverFileName": "4755299c-84c9-48eb-9518-38c7936fd63c.jpg"
 }

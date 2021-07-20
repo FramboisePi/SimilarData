@@ -1,7 +1,7 @@
 {
  "id": "eabe065f-5fe8-433f-b397-41d237f174e2",
  "title": {
-  "en": "Shaman King: \u0026 a garden"
+  "en": "Shaman King: & a garden"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "d9d82732-aca4-41b2-837f-919443f0ae8e.png"
   },
   {
    "id": "043f3e96-1878-4978-bf33-f22751da81d1",
@@ -26,7 +27,8 @@
    "score": 0.580534,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "017b2d15-2cab-40ee-bb2d-b1d53e774758.jpg"
   },
   {
    "id": "daa6f76d-b7b4-4328-8d31-65aedbf1e071",
@@ -37,7 +39,8 @@
    "score": 0.5766666,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c283462-62d2-4b35-a91f-2a831753fb7d.jpg"
   },
   {
    "id": "4ac183ba-044e-4b41-bcfb-f66664fc4307",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "25f54ad6-b1f5-4768-aa09-51edf3c5134a.jpg"
   },
   {
    "id": "4d9178ec-fd17-44d9-9855-f4a2616991e5",
@@ -60,7 +64,8 @@
    "score": 0.56309134,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "821bbb32-9f0f-4b07-a434-eaeaab2226b7.jpg"
   },
   {
    "id": "4ad4b480-aacc-4835-b413-0dbb1cdf436e",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1aac5877-9e67-4c27-8004-0b5a84a9783a.jpg"
   },
   {
    "id": "6667894d-41b0-41b4-a147-bb86528b2379",
@@ -83,7 +89,8 @@
    "score": 0.54026717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac7ce126-033e-4cb5-baaf-637bcd7517e2.jpg"
   },
   {
    "id": "644696ed-471b-4797-a99d-1797378550f4",
@@ -95,7 +102,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cc3685b5-fdd8-4aba-bb65-33a1bd452200.jpg"
   },
   {
    "id": "72f47feb-5b5e-4c0a-91f3-405da5f58d77",
@@ -107,7 +115,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4276cb40-8f32-4ca2-bd2f-720ba1ee51f8.jpg"
   },
   {
    "id": "4e5e5a34-259d-4a35-b68c-f098eefcf612",
@@ -120,7 +129,8 @@
     "en",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "e094a123-ffa0-404d-99c2-bb739f2ca1ba.jpg"
   },
   {
    "id": "96a24520-7403-4f28-b821-922e1967e08a",
@@ -135,7 +145,8 @@
     "en",
     "hu",
     "pl"
-   ]
+   ],
+   "coverFileName": "f0035ca2-6933-45fe-b965-5ed612ec3663.jpg"
   },
   {
    "id": "ca3c2f1b-ca10-4b4f-ab01-5038f4210b67",
@@ -146,8 +157,10 @@
    "score": 0.5222657,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eabd89db-e0f6-44f7-8175-dbe8e2d138b5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:55+00:00"
+ "updatedAt": "2021-07-18T07:07:55+00:00",
+ "coverFileName": "9cde8b51-efcf-49b5-97c3-da63875b397a.jpg"
 }

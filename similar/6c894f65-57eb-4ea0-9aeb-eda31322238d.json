@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
   },
   {
    "id": "0d600eb1-396d-489b-bae0-bb244f772443",
@@ -27,7 +28,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b93d84e0-e25f-4e37-8d7a-377d72d5d9a7.jpg"
   },
   {
    "id": "b2ca4e0e-a7d7-4c98-bfa3-c771c643bb68",
@@ -42,7 +44,8 @@
     "pl",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "1f779ab8-73d0-4479-b36d-64e663a3bc0c.jpg"
   },
   {
    "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
@@ -53,7 +56,8 @@
    "score": 0.6523539,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "abe3b509-2a85-4e44-b1be-d7737a31732b.png"
   },
   {
    "id": "a39a4b05-9e69-4061-9951-499eaf3b60ca",
@@ -65,7 +69,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b7da93cf-54b1-41bd-a1fe-c61c1744d969.jpg"
   },
   {
    "id": "6515cc43-70b2-4a8e-9514-61c2d05383c2",
@@ -76,30 +81,33 @@
    "score": 0.644127,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0521e292-b4d6-49d2-9994-15586bd2c49b.png"
   },
   {
    "id": "484f7218-6d03-4072-814f-9654192352d1",
    "title": {
-    "en": "Kamakura Deco \u0026 Kofu Life"
+    "en": "Kamakura Deco & Kofu Life"
    },
    "contentRating": "safe",
    "score": 0.63907933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df0c87bd-31c2-4cb3-9510-feece38791e6.jpg"
   },
   {
    "id": "27589628-3704-468f-a464-361a8a76c3aa",
    "title": {
-    "en": "I Opened a Café in Another World"
+    "en": "I Opened a Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.63719785,
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b6044354-bf23-43a8-9397-b54ccd0e5ff6.jpg"
   },
   {
    "id": "e6477b27-6c4b-410f-9a29-fa60be616446",
@@ -112,23 +120,25 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4c8f152-584a-4e8e-b905-714196aa47b0.jpg"
   },
   {
    "id": "584dc44c-62af-4ab2-adb6-efcf7eee77da",
    "title": {
-    "en": "Café Café"
+    "en": "Caf\u00e9 Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.62921417,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f71275b7-b289-45d2-bbd8-f10a377a3513.jpg"
   },
   {
    "id": "5353e8c5-8a6c-402a-895b-0d09feec17d4",
    "title": {
-    "en": "The Savior's Book Café in Another World"
+    "en": "The Savior's Book Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.62685513,
@@ -137,7 +147,8 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "36d955f3-56fb-4a77-9d26-eff42d3dffbd.jpg"
   },
   {
    "id": "4a848b5f-4039-493e-a709-5677a804af65",
@@ -148,8 +159,10 @@
    "score": 0.6173217,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6100b1d9-f57a-4cd4-ae25-3303b6780368.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:37+00:00"
+ "updatedAt": "2021-07-18T06:44:37+00:00",
+ "coverFileName": "eae011c8-1b30-4c3c-b4c4-2f380596e3a1.png"
 }

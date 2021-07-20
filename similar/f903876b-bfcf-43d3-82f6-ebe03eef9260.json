@@ -1,7 +1,7 @@
 {
  "id": "f903876b-bfcf-43d3-82f6-ebe03eef9260",
  "title": {
-  "en": "\"Kouryakuhon\" o Kushi Suru Saikyou no Mahoutsukai ~\u003c Meirei sa sero \u003e to wa Iwa Senai Oreryuu Mao Tobatsu Saizen Ruuto ~"
+  "en": "\"Kouryakuhon\" o Kushi Suru Saikyou no Mahoutsukai ~< Meirei sa sero > to wa Iwa Senai Oreryuu Mao Tobatsu Saizen Ruuto ~"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "ba3c10a2-d62c-4c17-a00e-a0e12ef430d6.jpg"
   },
   {
    "id": "bfe0ab22-61fd-4ba1-8667-40c516c2dddd",
@@ -28,7 +29,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e3590478-f5c2-4d92-acaa-42544ed1b9dd.png"
   },
   {
    "id": "14a75df9-07d2-4181-acc0-5693be1aeb3e",
@@ -48,7 +50,8 @@
     "id",
     "pl",
     "vi"
-   ]
+   ],
+   "coverFileName": "8d73f54f-c54d-4e2f-b568-16e7145ee25a.jpg"
   },
   {
    "id": "f81026af-1b41-465c-932b-291ce4760c00",
@@ -64,7 +67,8 @@
     "pt-br",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "025c2f15-aaac-41b5-8143-57be86c5ed25.jpg"
   },
   {
    "id": "e531c6ca-0b07-4878-8ae8-87357375acd9",
@@ -82,7 +86,8 @@
     "pl",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "b73c3d7f-d756-440b-9b5d-673c7639dd15.jpg"
   },
   {
    "id": "9a26c98f-ce6d-4809-b69e-d8e23924ec1c",
@@ -96,7 +101,8 @@
     "en",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "14378106-9d60-413b-aee2-58faa1798e33.jpg"
   },
   {
    "id": "6a94c34b-d9cc-4919-a27e-99c1211fc647",
@@ -107,7 +113,8 @@
    "score": 0.40577403,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f869303-5228-430a-a213-5059ca7d018c.png"
   },
   {
    "id": "1c83c0e9-c74f-491c-97d8-db0e4e7dc707",
@@ -121,7 +128,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "37b4faf6-56f8-4b9d-82fb-b5ca7377b2c1.png"
   },
   {
    "id": "203deb52-91c9-48b4-90e9-6ca63fa58b69",
@@ -132,7 +140,8 @@
    "score": 0.39938548,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c8bf9dcf-e8a6-49cb-8531-1c87d490fcd9.jpg"
   },
   {
    "id": "a6cae56a-1be3-4a8f-8737-a3f3d24e17e3",
@@ -145,7 +154,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "40824bef-11a3-4555-9dbf-fb865e08e972.jpg"
   },
   {
    "id": "a28036e8-cdd4-4f43-8fa8-1f5469e40d3f",
@@ -158,7 +168,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "c37ff55c-3853-437d-8a1a-22f27e76eda5.jpg"
   },
   {
    "id": "18cee764-9066-4fc5-a30f-8cee54788c3a",
@@ -172,8 +183,10 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "95ef7058-fe9e-4704-a26b-ef28eea5bfa5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:28+00:00"
+ "updatedAt": "2021-07-18T07:10:28+00:00",
+ "coverFileName": "7ce5d30a-1b81-45a2-8aae-2855a0c93538.jpg"
 }

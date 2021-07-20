@@ -1,7 +1,7 @@
 {
  "id": "255c1715-9a68-4e69-9647-ec833116e3d5",
  "title": {
-  "en": "Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta"
+  "en": "Ore no Genjitsu wa Ren\u2019ai Game?? ka to Omottara Inochigake no Game datta"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ae008a72-43d1-42e7-8bb1-73155185cfd7.jpg"
   },
   {
    "id": "1421a9e8-fbf5-4e64-a72f-dbebdf570a1f",
@@ -26,7 +27,8 @@
    "score": 0.31854796,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c81bb1b-60f0-4be0-92e4-cb67dab35288.jpg"
   },
   {
    "id": "0d9c57ae-58f4-4fe6-8032-6d344457f3b3",
@@ -37,7 +39,8 @@
    "score": 0.30882397,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8f3c682d-5a50-431e-9874-f99114b69a54.jpg"
   },
   {
    "id": "48876664-b6fc-48da-b906-0994af9f9753",
@@ -54,7 +57,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "de18fc37-46b9-42df-822c-b46a4b01b9c8.jpg"
   },
   {
    "id": "58fbae24-2fe2-44b9-8c73-85fdc612d5c1",
@@ -66,7 +70,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "55d8bb23-bd1e-4dc5-8120-2b47033bd4ed.jpg"
   },
   {
    "id": "9643f5da-c7da-4705-ac5b-4b4a4c7a649e",
@@ -84,7 +89,8 @@
     "fa",
     "pl",
     "ar"
-   ]
+   ],
+   "coverFileName": "f13caa43-e41d-4453-932b-fe51a6ccc8fe.jpg"
   },
   {
    "id": "c4dd41fd-5cd4-4b43-a071-1e6b0c150a66",
@@ -97,7 +103,8 @@
     "es",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "801efa55-1039-4cb5-bbf9-1645bb7f74bd.jpg"
   },
   {
    "id": "33ee2df9-0085-47e6-8851-14eefcbd255f",
@@ -108,7 +115,8 @@
    "score": 0.2799313,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4205dd3f-7f37-4e58-9690-a6b1fd0602fc.jpg"
   },
   {
    "id": "c196dcc8-d942-4abf-987f-bfa244650585",
@@ -126,7 +134,8 @@
     "hu",
     "ro",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ac8b7b97-dcdc-487a-b511-f0f5a5673db0.jpg"
   },
   {
    "id": "517b19aa-0243-4c55-85dc-eafd6318bbc2",
@@ -138,7 +147,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2919f1bf-f5a4-49fc-b970-4972701df11b.jpg"
   },
   {
    "id": "c527f82a-7fef-45fa-931e-e93edc120612",
@@ -150,7 +160,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d7bc504d-37ae-4ba0-a249-6ee3ce58a61f.jpg"
   },
   {
    "id": "b35f67b6-bfb9-4cbd-86f0-621f37e6cb41",
@@ -163,8 +174,10 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c3a0a892-d034-4dba-9400-6a0c56296619.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:27+00:00"
+ "updatedAt": "2021-07-18T06:31:27+00:00",
+ "coverFileName": "dfb2f49f-d9a3-4cf8-9539-8c84d70a8786.jpg"
 }

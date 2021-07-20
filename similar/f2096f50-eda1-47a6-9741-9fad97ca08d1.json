@@ -14,7 +14,8 @@
    "score": 0.33949298,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbf635b6-be24-4779-a2e7-60d082760e35.jpg"
   },
   {
    "id": "3af8bbac-f7ed-435a-830e-2507992870c1",
@@ -25,7 +26,8 @@
    "score": 0.32454967,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73b95172-5f24-489c-8f48-5d0bfbaa7685.jpg"
   },
   {
    "id": "f390fd11-583a-4441-8d88-9c4ac0e5a2b6",
@@ -37,7 +39,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "0116a18f-0462-4a28-8275-627495d593c2.jpg"
   },
   {
    "id": "2750ed89-ea66-4c0c-ab05-7417a9e0de3e",
@@ -52,7 +55,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ace0b1dc-55d0-44ee-8ffe-613ab2453f7a.jpg"
   },
   {
    "id": "e01fae03-d4b6-49ae-a507-932ae6586e65",
@@ -64,7 +68,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "740ecca1-c2df-47e3-acc3-2c450a857bc0.jpg"
   },
   {
    "id": "d370a571-a362-43a6-b92a-07dbe866de49",
@@ -75,18 +80,20 @@
    "score": 0.28950074,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9bef4db9-3331-43dc-9da7-f73bbf0007d7.jpg"
   },
   {
    "id": "dc728906-9c33-4794-aba7-8f9361ef5f25",
    "title": {
-    "en": "Ragnarök: Into the Abyss"
+    "en": "Ragnar\u00f6k: Into the Abyss"
    },
    "contentRating": "suggestive",
    "score": 0.28354955,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69550581-ab3b-4b56-bd6b-6ef06ef08180.jpg"
   },
   {
    "id": "b0e6e187-bc12-4add-891f-9e8011e9c5d4",
@@ -99,7 +106,8 @@
     "en",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "c90ee576-cdf5-4d48-b571-7d3802ccaff1.jpg"
   },
   {
    "id": "02b92cb7-2af8-4861-9804-7b34b4232b40",
@@ -110,7 +118,8 @@
    "score": 0.282786,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9cb9f02-52ca-41cd-9951-13e767ec0ae2.jpg"
   },
   {
    "id": "deaaa7d0-eba1-46ab-8961-70be94759a2b",
@@ -121,12 +130,13 @@
    "score": 0.2813136,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b19d95f-2a81-4019-a9a4-4ed2333416a3.jpg"
   },
   {
    "id": "a8c6395b-aa04-426f-aa09-284ae1c3a1e5",
    "title": {
-    "en": "Tsui no Taimashi ―Ender Geisterー"
+    "en": "Tsui no Taimashi \u2015Ender Geister\u30fc"
    },
    "contentRating": "suggestive",
    "score": 0.2813136,
@@ -138,7 +148,8 @@
     "pt-br",
     "id",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "236fc2ac-0b6a-42db-9634-7329174ad1fa.jpg"
   },
   {
    "id": "9d49a908-358b-4f02-801b-bfb83f6b83a4",
@@ -150,8 +161,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "7f89fec3-aad0-4d94-bdb1-a8fcd6751363.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:12+00:00"
+ "updatedAt": "2021-07-18T07:09:12+00:00",
+ "coverFileName": "07397900-3b66-4fd0-ba7e-6afe319a28bc.png"
 }

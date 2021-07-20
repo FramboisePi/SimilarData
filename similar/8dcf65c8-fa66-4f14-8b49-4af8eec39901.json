@@ -1,7 +1,7 @@
 {
  "id": "8dcf65c8-fa66-4f14-8b49-4af8eec39901",
  "title": {
-  "en": "Gun \u0026 Girls"
+  "en": "Gun & Girls"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "d259ea3e-dafa-4ea4-bda2-5e61a7c6d128.jpg"
   },
   {
    "id": "ce2fe5b4-8b18-426b-9dbf-c2f216c8a82e",
@@ -28,18 +29,20 @@
    "score": 0.46490318,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0347b189-c970-42c3-a6c0-ec879add2ab8.jpg"
   },
   {
    "id": "1183a5f3-45f5-4eb9-a8aa-bc2021972279",
    "title": {
-    "en": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C³ Bu"
+    "en": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C\u00b3 Bu"
    },
    "contentRating": "safe",
    "score": 0.45457727,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "759a0a39-c212-4729-a1e6-5ecbcd6089a8.jpg"
   },
   {
    "id": "42a9a639-567d-46c0-a666-1278a4c7745a",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "0c5b059f-c294-403c-acb1-65630a30af90.jpg"
   },
   {
    "id": "cf46e7e3-68e8-417a-ae25-7eba4278e04f",
@@ -62,7 +66,8 @@
    "score": 0.43731257,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e408337c-c1d4-41f0-ab05-1782b2426c5d.jpg"
   },
   {
    "id": "7875d6b9-fcf1-43fd-b28c-2074a5bda715",
@@ -73,7 +78,8 @@
    "score": 0.43245345,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "68a720a3-e0de-46ca-8427-a42439822c05.jpg"
   },
   {
    "id": "0925b477-9e72-4b40-8488-afb7aab4583f",
@@ -84,7 +90,8 @@
    "score": 0.42776933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b747f234-4960-4b5c-9ab5-f33881367656.jpg"
   },
   {
    "id": "944570ea-1b4e-4f80-ada6-8b30aa5b9a2c",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ab61c3ef-79bd-4a23-bd1e-ebaf722e7299.jpg"
   },
   {
    "id": "e0106f16-1b82-421d-a4ef-38410437cbf0",
@@ -107,7 +115,8 @@
    "score": 0.41015944,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6d21452c-5b4b-40a3-9946-bd7789a66b88.jpg"
   },
   {
    "id": "ce14dd8a-d8e1-49ee-8d05-ec23e429a82d",
@@ -118,7 +127,8 @@
    "score": 0.40882087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da40cff9-e9ea-43a0-a766-45eae31a0ade.png"
   },
   {
    "id": "264b9c57-373b-48a6-9fc3-7f4e386ea8ca",
@@ -129,7 +139,8 @@
    "score": 0.3821954,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "95ba8242-4ee2-41d9-9f69-3aed6f3d0266.jpg"
   },
   {
    "id": "7e45964e-87d0-43bd-90c1-51d5165f371c",
@@ -142,8 +153,10 @@
     "en",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "d8e1e2a2-d42e-43d0-a6e2-0a7d307ca3c2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:51+00:00"
+ "updatedAt": "2021-07-18T06:50:51+00:00",
+ "coverFileName": "8dde9fdc-ba1b-47ed-b015-4b83dc805a75.jpg"
 }

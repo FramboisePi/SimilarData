@@ -1,7 +1,7 @@
 {
  "id": "7988395e-6f5e-480a-b589-d699c0985386",
  "title": {
-  "en": "Kantai Collection -KanColle-【KanColle Manga】(Doujinshi)"
+  "en": "Kantai Collection -KanColle-\u3010KanColle Manga\u3011(Doujinshi)"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -17,7 +17,8 @@
     "es-la",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "920003af-c1cd-4af4-9fec-8b3ac0c325e9.jpg"
   },
   {
    "id": "4f0f5006-b082-4b68-9955-5964b398725b",
@@ -28,7 +29,8 @@
    "score": 0.32954308,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "322c181f-98fe-4931-87f6-70ed91e42126.png"
   },
   {
    "id": "68262507-c506-4918-967a-25f1a8390dbb",
@@ -42,7 +44,8 @@
     "en",
     "it",
     "vi"
-   ]
+   ],
+   "coverFileName": "63b17758-d570-4c6c-a611-907b90b1e689.jpg"
   },
   {
    "id": "81d1492e-3603-4d65-9da6-4c79a2e5bdd6",
@@ -54,7 +57,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "bd71fc3f-b286-4a27-aa0e-780fd9234150.jpg"
   },
   {
    "id": "0ad1c29f-1634-411d-9615-1368991048f1",
@@ -65,7 +69,8 @@
    "score": 0.30369174,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b4b08235-c96f-4ec8-8715-fa5c49c75087.jpg"
   },
   {
    "id": "c3030470-332f-43c7-b65d-a2290689c1f1",
@@ -77,7 +82,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "fc3fd7d0-b387-4cd6-a61d-3ca5d9e1de00.png"
   },
   {
    "id": "e331e2a2-0a25-4800-81ba-c6c1ed260277",
@@ -88,7 +94,8 @@
    "score": 0.3035337,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82d0cfa3-6d37-4005-ab71-36afb63be09e.jpg"
   },
   {
    "id": "8e3b03c9-c0c8-4055-bf12-a980d0146e85",
@@ -99,7 +106,8 @@
    "score": 0.3035337,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91c148e0-fbc0-46dc-96cc-07017647342a.jpg"
   },
   {
    "id": "2dde8de5-85f4-4340-9b73-34e5d889abff",
@@ -110,7 +118,8 @@
    "score": 0.29511726,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "080b345c-ca12-40df-8585-6a8544e08167.png"
   },
   {
    "id": "2094340a-3993-4d4d-8a16-1ff8f9b3acd0",
@@ -121,7 +130,8 @@
    "score": 0.29152083,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b144b40-8322-4663-a0f1-16f4f29399e3.jpg"
   },
   {
    "id": "11746126-0290-46a0-abb3-701e5fa0a1a3",
@@ -132,7 +142,8 @@
    "score": 0.2861743,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2de6f59a-9174-4dcc-af88-dcc544fb031e.jpg"
   },
   {
    "id": "fdae76c8-38c1-4ba6-a96b-daf8a5611d7d",
@@ -144,8 +155,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ec07b436-55e2-4760-860d-ea9e3c9b8959.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:59+00:00"
+ "updatedAt": "2021-07-18T06:46:59+00:00",
+ "coverFileName": "32533413-b75e-4114-bf7c-7c977791b995.png"
 }

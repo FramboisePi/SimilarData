@@ -1,7 +1,7 @@
 {
  "id": "a90b8d56-4900-41fb-bdbe-49f812fe2807",
  "title": {
-  "en": "Succubus \u0026 Hitman"
+  "en": "Succubus & Hitman"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "356b97dd-6ea4-416c-8f87-15616592a908.jpg"
   },
   {
    "id": "85a99758-de39-471e-9f6d-800547f53d0a",
@@ -32,7 +33,8 @@
     "pt-br",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "eb6df13f-a1e9-4758-afd8-b7acda400c14.jpg"
   },
   {
    "id": "edf170db-288b-4773-90df-1c542c69d4e9",
@@ -48,7 +50,8 @@
     "lt",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "daad27b3-5553-44b2-8aef-84975d375df1.jpg"
   },
   {
    "id": "545ae8af-8afa-4b9e-841b-7ee3a6bb825d",
@@ -61,7 +64,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "5aa58d99-5c4e-4b97-9669-eae346203ab4.png"
   },
   {
    "id": "1146f753-a0f3-4baa-87d4-5c1a3d5de85c",
@@ -72,7 +76,8 @@
    "score": 0.2740285,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ab1ff84-9f09-43ca-a394-ce7da6b399bb.jpg"
   },
   {
    "id": "7e87b285-b6e3-4882-9c9e-22b4e8737a91",
@@ -83,7 +88,8 @@
    "score": 0.27397406,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c39351a-cd56-4102-8e7a-d032608859b2.png"
   },
   {
    "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
@@ -96,7 +102,8 @@
     "id",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1f95231d-3c10-47e3-a8d6-d0ce47c5d9e9.jpg"
   },
   {
    "id": "b6886009-e60b-44a7-abc2-a575765277ba",
@@ -113,7 +120,8 @@
     "bg",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "e6a03214-bbac-4a41-9aac-321cdade913e.jpg"
   },
   {
    "id": "6c97725d-7eaf-4963-8563-498852c373db",
@@ -124,7 +132,8 @@
    "score": 0.25931248,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a7bf35a-bd86-4030-bf45-92c6b67183d1.png"
   },
   {
    "id": "bb3f4319-accf-4114-b8a9-a73ad277824f",
@@ -136,7 +145,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "4807f1ef-f312-4542-a7e3-599571f54303.jpg"
   },
   {
    "id": "1caae7cb-9e28-48c4-96a2-9a24ead822ff",
@@ -150,7 +160,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "07c3154f-5e78-4dfc-b3fc-b47cf024020f.jpg"
   },
   {
    "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
@@ -161,8 +172,10 @@
    "score": 0.2547737,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf1b6ae3-d913-45ee-9d74-906c086d2330.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:53+00:00"
+ "updatedAt": "2021-07-18T06:55:53+00:00",
+ "coverFileName": "69f949a2-848c-4108-b4c7-40fe8aeba164.jpg"
 }

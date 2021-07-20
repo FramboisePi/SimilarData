@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "21a3f681-0fbf-442c-a640-5bc46b43c92b.jpg"
   },
   {
    "id": "ab0d6608-26f8-4f2d-9549-d0039903ec09",
@@ -27,7 +28,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "fdca6fbd-0309-4a8b-a9a0-26f26a9a33da.jpg"
   },
   {
    "id": "a6b47e30-4ff4-4c31-83bb-465c0201d9cd",
@@ -38,7 +40,8 @@
    "score": 0.5581843,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b215a4e-0885-4df0-bbab-dc73a1fc0014.jpg"
   },
   {
    "id": "db1dcc3b-0d0e-45b9-926b-0c584ab2d56e",
@@ -49,7 +52,8 @@
    "score": 0.5544027,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f2d4c498-6fef-47d7-90d2-956d1a5ed169.jpg"
   },
   {
    "id": "381f7cdf-8eae-4b2c-a8ca-f4298407b6c2",
@@ -63,7 +67,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "c1fa899f-bde3-40f3-bc15-d3abe7efab51.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -76,7 +81,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "d6768a93-cd94-4138-bb20-66af366681f4",
@@ -87,7 +93,8 @@
    "score": 0.5393768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3f55898-b68e-48c8-8471-9dd6957ff801.jpg"
   },
   {
    "id": "86bf4b92-4d04-412e-b9d4-27b6c6994f33",
@@ -98,7 +105,8 @@
    "score": 0.5392185,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d906514f-179b-461b-85a7-cf796266a132.jpg"
   },
   {
    "id": "fdc17dde-aa95-4b49-aca7-f1bcae223545",
@@ -109,12 +117,13 @@
    "score": 0.5331667,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6def3c0-96ec-4383-9e32-c97112a7df79.jpg"
   },
   {
    "id": "b00ca6fd-4fab-4c8f-a981-4a89cefc5d89",
    "title": {
-    "en": "I’ll Just Live on as a Villainess"
+    "en": "I\u2019ll Just Live on as a Villainess"
    },
    "contentRating": "safe",
    "score": 0.53029037,
@@ -123,7 +132,8 @@
     "fa",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "d19bee61-1ce2-4828-9f2f-76ea25a44596.jpg"
   },
   {
    "id": "4aecf422-7afe-405f-b2d4-e5b80a1872ac",
@@ -135,7 +145,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a5a93360-f2c2-48ec-87e1-1db03765ee65.jpg"
   },
   {
    "id": "dfa4aed9-37d6-4530-b479-62d8998640ba",
@@ -146,8 +157,10 @@
    "score": 0.5289258,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f87119fc-6ba7-4b80-b503-68fcec5431bc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:47+00:00"
+ "updatedAt": "2021-07-18T06:53:47+00:00",
+ "coverFileName": "c29bfaa6-37b1-47fa-b295-b1f530514140.jpg"
 }

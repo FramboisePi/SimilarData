@@ -14,7 +14,8 @@
    "score": 0.4275749,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "daf3efe6-e971-42f0-8f15-5bf683789c39.jpg"
   },
   {
    "id": "f525b12c-7137-44b3-8d17-bce4dccc6618",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b0dead81-dee6-4382-9b40-90015aadc529.jpg"
   },
   {
    "id": "6ef63fa1-e394-4255-8183-bf25aa7a3e25",
@@ -37,7 +39,8 @@
    "score": 0.42110384,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df39141a-c3f5-457a-875f-1891981ac556.png"
   },
   {
    "id": "bf791b79-9965-4b79-863e-2a02f01af252",
@@ -48,7 +51,8 @@
    "score": 0.4155447,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "695fb310-ee50-4a6e-b1d0-83e636ad4494.jpg"
   },
   {
    "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
@@ -59,7 +63,8 @@
    "score": 0.4153254,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ef42f29-2399-4800-a293-b6a43190b524.jpg"
   },
   {
    "id": "63e54dfd-f7a9-473e-a591-28558e229c5b",
@@ -71,7 +76,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "68ab8283-c31c-48f2-a20f-9d1bdf31882f.jpg"
   },
   {
    "id": "8564b613-cf71-4253-b5f7-a9e9618138ed",
@@ -83,7 +89,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "4bb4c159-8ee6-4df5-a19d-f0203c5d7ac8.jpg"
   },
   {
    "id": "722279a8-3519-46b3-ad2f-7cff75238aa6",
@@ -95,7 +102,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "5f0cbd55-ee01-4d2f-bd38-006fae8203b4.jpg"
   },
   {
    "id": "b85055fe-cfc1-4804-a6d4-930be3131b6c",
@@ -106,7 +114,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5954ff43-dad1-4c40-808a-507661c8ca0f.jpg"
   },
   {
    "id": "f29f2c48-af07-4c14-bc79-151fa430fbb3",
@@ -118,12 +127,13 @@
    "languages": [
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "1ca945ea-6ab3-4548-9158-392e0426e74a.jpg"
   },
   {
    "id": "9c4dd55b-e222-4964-951d-ed90593584c2",
    "title": {
-    "en": "CØDE:BREAKER"
+    "en": "C\u00d8DE:BREAKER"
    },
    "contentRating": "safe",
    "score": 0.40249223,
@@ -131,7 +141,8 @@
     "en",
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "a17b9c21-ac4f-4f9b-8fe6-d4f351720e12.jpg"
   },
   {
    "id": "590f3345-e715-4023-b1cb-75ea31b43bc4",
@@ -145,8 +156,10 @@
     "ru",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "af3bb698-12ec-4c2c-a3f5-fa2561fa1b30.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:44+00:00"
+ "updatedAt": "2021-07-18T06:52:44+00:00",
+ "coverFileName": "5ada07d7-48d3-4aaa-958b-c67be4085712.jpg"
 }

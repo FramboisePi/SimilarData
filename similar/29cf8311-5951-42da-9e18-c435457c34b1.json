@@ -17,7 +17,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "97b71b2c-a9d3-4d29-8f35-ba4908407c78.jpg"
   },
   {
    "id": "d539ab98-2774-4cea-a764-a6cc55fa8b68",
@@ -31,7 +32,8 @@
     "pt-br",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "139564a4-529c-47e5-9cf4-ed9a3ce6a046.jpg"
   },
   {
    "id": "d44a38c8-1ecd-43ee-be48-34ed3e3e098e",
@@ -43,7 +45,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7f1c7dcb-3808-45a3-bdd6-f3dea3fae372.jpg"
   },
   {
    "id": "fa7e1e08-44dc-4ef3-bf31-8ed7ae981c04",
@@ -57,7 +60,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "aa0ea215-7834-4a1a-bbde-92ad8bdfd7f8.jpg"
   },
   {
    "id": "e3d88382-a2c4-4958-8311-f8bd9a3f1e21",
@@ -73,7 +77,8 @@
     "pl",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "e7c0ca1b-47ad-474e-aee7-3d8896b80c1c.jpg"
   },
   {
    "id": "b9745d18-8556-48ea-a5c7-d43abdc5ab62",
@@ -87,7 +92,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "49c67fee-306a-4eb5-a47b-f0b617776784.jpg"
   },
   {
    "id": "12968534-b5e3-40df-9daf-a939f5586b16",
@@ -102,7 +108,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "d355f072-a978-469e-b568-5ef8be64a99c.jpg"
   },
   {
    "id": "360929d2-6101-46ff-b313-fd7fec3efcb0",
@@ -114,7 +121,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "34c2a874-205d-4e52-b2b1-c442330c8956.jpg"
   },
   {
    "id": "d320eeff-08d2-424d-9513-77b17b219354",
@@ -125,12 +133,13 @@
    "score": 0.39846942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "426b7485-5a9d-428c-be18-7bb449ae0416.jpg"
   },
   {
    "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
    "title": {
-    "en": "Ore wa Subete wo “Parry” Suru"
+    "en": "Ore wa Subete wo \u201cParry\u201d Suru"
    },
    "contentRating": "safe",
    "score": 0.38395312,
@@ -138,12 +147,13 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8b497b88-3a61-4b97-9d49-ff3671e156ec.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.3826882,
@@ -156,7 +166,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "f0fd2156-8ad6-4ba5-9ded-de62f93b2712",
@@ -168,8 +179,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9031802d-199a-476e-bd90-2c74143c2268.png"
   }
  ],
- "updatedAt": "2021-07-18T06:32:17+00:00"
+ "updatedAt": "2021-07-18T06:32:17+00:00",
+ "coverFileName": "be43f6b1-14fc-44e1-b73e-be1b1a569e7b.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "ca",
     "en"
-   ]
+   ],
+   "coverFileName": "8dc0cc1e-94af-4ec4-8cab-4f1ca26b65f3.jpg"
   },
   {
    "id": "842c1d46-7c7b-4b99-9007-8a2b150627cd",
@@ -26,7 +27,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2fddc8aa-bbc8-498f-a026-714cc288e28a.jpg"
   },
   {
    "id": "4f81740f-5164-4a39-9e95-e138108de3f1",
@@ -37,7 +39,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6aafee78-719c-45df-b38f-c03880e92f8f.jpg"
   },
   {
    "id": "4ad70bf0-369a-4720-8d06-7bf53f0c7d22",
@@ -51,7 +54,8 @@
     "tr",
     "en",
     "hi"
-   ]
+   ],
+   "coverFileName": "84a4ece9-bb17-415e-915a-72613d78cdcf.jpg"
   },
   {
    "id": "4fb83ee0-e9c5-483b-882b-099389f648ba",
@@ -62,7 +66,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3dfbd8af-82ea-4e29-9897-05d5899d0892.jpg"
   },
   {
    "id": "411a94f0-c3d6-40f7-b2bf-f006b01b724b",
@@ -75,7 +80,8 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "186db447-13f4-4989-b76f-a49bbbfd2b08.jpg"
   },
   {
    "id": "22db81d6-b0f2-48e7-a18e-de9f52398666",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "96668af2-0e6d-47ed-98f5-b81dfd681aa2.jpg"
   },
   {
    "id": "e96547cd-039c-4a0b-9f98-31e0996569c6",
@@ -98,7 +105,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29172ba5-9498-49b9-aae2-7a7730297553.jpg"
   },
   {
    "id": "807030b7-d15d-46b3-9a0d-236e5a7e8843",
@@ -109,7 +117,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "432d9df7-4c15-4cd0-9462-9edf9408d922.jpg"
   },
   {
    "id": "7001fbe2-bb36-4ed5-bfe0-be57e847cc56",
@@ -125,19 +134,21 @@
     "ru",
     "tr",
     "it"
-   ]
+   ],
+   "coverFileName": "d2a402dc-cbcc-4f5c-b4c5-2eb81d2ee029.jpg"
   },
   {
    "id": "8e5f7fcf-18d8-4da8-ae6c-f771cbd274b1",
    "title": {
-    "en": "Sunny \u0026 Rainy"
+    "en": "Sunny & Rainy"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "4576d98d-dd73-45b5-846b-3a12d8296942.jpg"
   },
   {
    "id": "998e4455-c2b2-46f7-bdc0-34071f3fbe84",
@@ -149,8 +160,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "4f8945a5-8fdf-4e87-a2c8-81ef39389e65.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:44+00:00"
+ "updatedAt": "2021-07-18T06:35:44+00:00",
+ "coverFileName": "67ba50b0-8a84-4d02-b377-50b76b8dba81.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "0a82f99a-9f55-4f51-b8a4-4960fe4ee98f",
  "title": {
-  "en": "King’s Favor"
+  "en": "King\u2019s Favor"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "661bbacb-6017-485f-bd93-619e79457494.png"
   },
   {
    "id": "7fe9f906-1ba3-46f2-954d-6523efdcbf52",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "ed82825b-8909-4c51-a4b6-64ced520ec56.png"
   },
   {
    "id": "39a7252d-f080-4c28-9894-e08384f6723b",
@@ -38,7 +40,8 @@
    "score": 0.4373315,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "458136f3-354b-4499-addd-809ec1b3819d.jpg"
   },
   {
    "id": "67e012b0-4f91-4de5-bad3-aaaed34ef420",
@@ -49,7 +52,8 @@
    "score": 0.43424848,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3bac4b3b-8deb-4f41-a481-f7265d0fa535.jpg"
   },
   {
    "id": "753f436f-c011-4dbf-b3a3-55c13fb9c73e",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ba188bda-3129-41c7-9a59-ef8a32a43dcb.jpg"
   },
   {
    "id": "f93839b2-79c1-434c-afb1-a2fae863e64e",
@@ -73,7 +78,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "83a7dcdd-67a3-4151-8503-7b66163307f0.jpg"
   },
   {
    "id": "e9bfb897-3718-4069-a144-1cc9e8ecea94",
@@ -88,7 +94,8 @@
     "id",
     "es",
     "tr"
-   ]
+   ],
+   "coverFileName": "81995d6c-e8fe-4e77-b443-e2368af7955f.jpg"
   },
   {
    "id": "05824537-9e1e-4a35-96a5-0a5ff8b0a8ac",
@@ -99,7 +106,8 @@
    "score": 0.4189887,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3418a3d-a9f3-465d-863e-75361f23315c.jpg"
   },
   {
    "id": "5057d42d-ee21-468b-97e6-ba66922b0449",
@@ -110,7 +118,8 @@
    "score": 0.41484052,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "576bd075-9391-4a8e-b469-c5405292db0f.jpg"
   },
   {
    "id": "ad004a13-f46a-4392-b786-97a6cab09fc2",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a338720d-8180-4f71-b063-c01984af9594.png"
   },
   {
    "id": "1b7ebe0a-19df-4186-8d2e-c9cbeb1283a5",
@@ -134,7 +144,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ef8579ca-7b90-4247-acb9-4ac0c180f544.jpg"
   },
   {
    "id": "8d322b36-fdeb-41eb-bac0-5735aa69129d",
@@ -145,8 +156,10 @@
    "score": 0.40121815,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc24282d-a5bb-491a-a843-320db0c2ae55.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:25+00:00"
+ "updatedAt": "2021-07-18T06:26:25+00:00",
+ "coverFileName": "889ead93-e5b5-47c0-8882-142b618e2a0c.jpg"
 }

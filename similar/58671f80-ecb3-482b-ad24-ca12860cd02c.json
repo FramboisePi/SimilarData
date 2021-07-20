@@ -1,7 +1,7 @@
 {
  "id": "58671f80-ecb3-482b-ad24-ca12860cd02c",
  "title": {
-  "en": "Hahazuka-san wo ×× ni Shitai"
+  "en": "Hahazuka-san wo \u00d7\u00d7 ni Shitai"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -16,7 +16,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b7d56fc3-b46f-4958-b3b3-ab45e37e894f.jpg"
   },
   {
    "id": "de975111-c6fe-4a5a-b5f5-9fd7418caacd",
@@ -31,7 +32,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "75f9ccf8-d408-4aea-85e5-c3431e0139cf.png"
   },
   {
    "id": "98a80ff2-e08a-456d-969f-81e0f61f2512",
@@ -45,7 +47,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e1a54d04-2241-4e87-88f2-2e1aebe35dff.jpg"
   },
   {
    "id": "79114838-f34f-486f-9404-425643f6c6da",
@@ -57,7 +60,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "5b8a1708-b37e-4c47-96b5-51eb5bad97b1.jpg"
   },
   {
    "id": "9adc2d47-234e-453e-b485-e6c793659b70",
@@ -69,7 +73,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0396f62d-e66a-46f5-8395-4290c27cdf47.jpg"
   },
   {
    "id": "7240d8fc-1131-44ce-ae14-ebd1a6132e27",
@@ -83,7 +88,8 @@
     "fr",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "71bae7ea-4dce-43d3-ba54-013314f2eb7b.jpg"
   },
   {
    "id": "56b81ba8-e792-4ac9-8cda-d615659159ce",
@@ -97,7 +103,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d8e38c92-a1be-46b9-8024-5a309e5c2893.jpg"
   },
   {
    "id": "5a90308a-8b12-4a4d-9c6d-2487028fe319",
@@ -113,7 +120,8 @@
     "pl",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "e3fe0960-a6ef-46c3-a17d-604ff420b74f.jpg"
   },
   {
    "id": "40fb9d1b-5496-4ecc-b62c-9cb4167f4e1c",
@@ -126,7 +134,8 @@
     "fr",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "9ea25a67-e83c-4ffd-9fe6-4c7f3aa00e16.jpg"
   },
   {
    "id": "df26bf01-110d-4b7c-9b7a-964ca39a784e",
@@ -137,7 +146,8 @@
    "score": 0.3495408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c74f3b5c-66d3-4230-bff4-44156d461293.jpg"
   },
   {
    "id": "8b3334fd-8ca0-49fc-a37d-719ded5d119e",
@@ -151,7 +161,8 @@
     "en",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a77feda2-b92d-4b48-ba58-274b86dc9395.jpg"
   },
   {
    "id": "388f639e-7cd1-4493-8242-ae480647479a",
@@ -164,8 +175,10 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f53ecc78-67fb-4226-9a90-cfef877b4ece.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:54+00:00"
+ "updatedAt": "2021-07-18T06:40:54+00:00",
+ "coverFileName": "9824c683-f8b4-493f-9f74-92c10416109d.jpg"
 }

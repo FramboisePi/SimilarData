@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "36409ae3-c4bb-4eed-9765-f36f661fe9a4.jpg"
   },
   {
    "id": "5deeb664-df75-4188-b731-3063e1ddb5df",
@@ -26,7 +27,8 @@
    "score": 0.40711382,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8a1251f0-5f40-4bad-b77d-ea79c12dd336.png"
   },
   {
    "id": "863bac15-0f6b-4438-99b0-59d60bdbefa3",
@@ -37,7 +39,8 @@
    "score": 0.40705967,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4a67163f-dee2-4330-a546-cf176cb1ef05.jpg"
   },
   {
    "id": "9f0ef69b-7d1a-4651-b8b5-b51e3a32b9ba",
@@ -48,7 +51,8 @@
    "score": 0.3929934,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3cc0c1c-e395-498d-999e-171ebce0ae0e.jpg"
   },
   {
    "id": "afd3bfdd-1c68-4fc6-9ae2-b39c0323fc6b",
@@ -59,7 +63,8 @@
    "score": 0.38689247,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7c93c0d-0211-4656-b705-aba04def00b1.jpg"
   },
   {
    "id": "0ecebfbe-ba61-4528-adbb-1ec95d08169e",
@@ -70,7 +75,8 @@
    "score": 0.38558817,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5ce6637f-2cd6-4494-a756-bcfa4785c285.jpg"
   },
   {
    "id": "79e3fe1d-1013-4f82-9600-306e3084ec66",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d006f6c7-b57d-4914-bf48-63a506158f78.jpg"
   },
   {
    "id": "8cc19cf5-d432-4681-8fcc-981801377f87",
@@ -94,7 +101,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "81cf02d1-cc6b-49e9-80be-1d3e391b0c09.jpg"
   },
   {
    "id": "673b691d-e687-45f6-9ff5-8b3e0448ba7f",
@@ -106,18 +114,20 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "196976bf-212e-4c05-b143-d01fba3541c1.jpg"
   },
   {
    "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
    "title": {
-    "en": "Café Velomano"
+    "en": "Caf\u00e9 Velomano"
    },
    "contentRating": "safe",
    "score": 0.36125758,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "994afbcc-3661-496c-b1a6-52fac61ae643.jpg"
   },
   {
    "id": "3cdf86c4-ff45-4506-b58a-a74f93e90e7e",
@@ -128,7 +138,8 @@
    "score": 0.35735258,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b9fa5a0e-f95e-4160-872c-62a660bdd5a3.jpg"
   },
   {
    "id": "ee42e97e-8e91-464a-8a8c-55a66da77623",
@@ -139,8 +150,10 @@
    "score": 0.3568584,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9d2d32d2-22cf-401e-87be-1f6cabe90409.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:48+00:00"
+ "updatedAt": "2021-07-18T06:30:48+00:00",
+ "coverFileName": "72690274-7317-4620-8daf-694827a891bd.jpg"
 }

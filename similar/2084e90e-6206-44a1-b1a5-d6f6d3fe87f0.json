@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "0c3378a1-a4df-474b-addb-82f1202a2ab4.jpg"
   },
   {
    "id": "b5ba4db3-1bac-491e-8ce0-ce133ea780ed",
@@ -26,7 +27,8 @@
    "score": 0.552816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "09591845-f8e7-4996-9ff6-15c5c5a73ecf.jpg"
   },
   {
    "id": "858cae86-3766-47fd-b68c-f37fcb538740",
@@ -38,18 +40,20 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "c8e83ae3-9a70-4edb-8d94-9f1c5538fcff.jpg"
   },
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.51989204,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "2016151b-e193-4a3f-876a-65532cd04a2d",
@@ -60,7 +64,8 @@
    "score": 0.5167685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "906c57f3-fa02-4e8d-86b6-213ca34efad8.jpg"
   },
   {
    "id": "cf074e6a-3364-48c5-a893-3d5f82ace253",
@@ -71,7 +76,8 @@
    "score": 0.45382613,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "17ac3fe1-4e5e-4034-a960-2942e00166bf.png"
   },
   {
    "id": "e1dbfa84-17d3-4cc7-b0bd-7659a6fa869e",
@@ -82,7 +88,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "273b4835-5555-40b9-8d57-08298f04bd7c.jpg"
   },
   {
    "id": "193f91a0-51ef-4653-b3d7-a3f75c42ee9b",
@@ -97,7 +104,8 @@
     "id",
     "vi",
     "ru"
-   ]
+   ],
+   "coverFileName": "8d7796df-646c-4c9b-81f3-a9a43276b211.jpg"
   },
   {
    "id": "1bed82d5-7260-4e4d-a861-4d126f88d8bf",
@@ -108,7 +116,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e278ea2-899b-4e45-8a45-5fde183b7072.jpg"
   },
   {
    "id": "a17aa454-b558-401e-ad91-98b108ff885a",
@@ -120,7 +129,8 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "2ec92739-5249-49f5-aff2-63eda88f34ad.jpg"
   },
   {
    "id": "487d62da-eb49-4e7a-a829-d2e28e6d6c46",
@@ -131,12 +141,13 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b19c6ffe-0d60-4b89-94c0-13b00b57e273.jpg"
   },
   {
    "id": "53c628b3-d1f5-43aa-8df3-080034285cb4",
    "title": {
-    "en": "Junji Ito’s Cat Diary: Yon \u0026 Mu"
+    "en": "Junji Ito\u2019s Cat Diary: Yon & Mu"
    },
    "contentRating": "safe",
    "score": 0.4490731,
@@ -144,8 +155,10 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "886b532b-388e-4b58-86c9-2fdc537c9706.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:34+00:00"
+ "updatedAt": "2021-07-18T06:30:34+00:00",
+ "coverFileName": "7a5b855d-53e4-4e8a-a880-2109f291fd1f.jpg"
 }

@@ -8,14 +8,15 @@
   {
    "id": "6af5379f-ace2-453f-a9dd-94f7c443937a",
    "title": {
-    "en": "Shinozaki Himeno's Love Q\u0026A"
+    "en": "Shinozaki Himeno's Love Q&A"
    },
    "contentRating": "safe",
    "score": 0.44435278,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "33ff339d-e981-4f89-9fbe-583e9085397e.jpg"
   },
   {
    "id": "f444f209-e72b-460e-9e3c-37ed9ac2e615",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "962b326e-057d-410d-bdd8-702bf680e83d.jpg"
   },
   {
    "id": "5962b357-25ca-46dc-8ea6-8927a9ad8155",
@@ -40,7 +42,8 @@
     "en",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "bfa8a4e6-91bd-4cd3-bd1b-9549a3a523a7.jpg"
   },
   {
    "id": "c9a68c3d-cb2f-4d86-aff5-14eb3218d493",
@@ -53,7 +56,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5440e5d1-78c1-4d61-9c44-329c3b8c75e1.jpg"
   },
   {
    "id": "93e5a33c-e695-4d6f-9c76-5273dfd62832",
@@ -64,7 +68,8 @@
    "score": 0.42361024,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a2d7f82-eb0f-4a48-9feb-0ab7dad906dd.png"
   },
   {
    "id": "a4c07e8e-2dfc-4f77-8579-466b20129b14",
@@ -76,7 +81,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "97600e1f-cdc9-43f7-8fa7-72b34bdf23ba.jpg"
   },
   {
    "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
@@ -88,7 +94,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a2434820-b719-4075-bbe8-7428c7bad5a9.jpg"
   },
   {
    "id": "d8adcc66-b2a3-4c0c-a8b4-c6f2f0538b90",
@@ -100,7 +107,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "856102c8-f3d7-4c48-b1c9-56aed457eae5.jpg"
   },
   {
    "id": "0fc21af7-f1ed-4715-a8ac-46c3fe83b099",
@@ -112,7 +120,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e2a3ebbd-81af-4783-900d-b7f316482cb9.jpg"
   },
   {
    "id": "ba253006-84cb-479b-949d-66267c0a7cf7",
@@ -123,7 +132,8 @@
    "score": 0.404665,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "741ed1f7-5119-4b02-9042-afe9f833d400.jpg"
   },
   {
    "id": "6df9969e-317f-46ff-86a9-6ff8664f568c",
@@ -134,12 +144,13 @@
    "score": 0.39862192,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa6c0373-3a9f-46ba-b7ff-5d1636a64ac6.jpg"
   },
   {
    "id": "9ef97eba-e0bc-452c-9ed0-bfb645d9b536",
    "title": {
-    "en": "Hitoribocchi no ○○ Seikatsu"
+    "en": "Hitoribocchi no \u25cb\u25cb Seikatsu"
    },
    "contentRating": "safe",
    "score": 0.39713478,
@@ -150,8 +161,10 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "625a18b4-1b16-4077-84e1-fedce5aed568.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:28+00:00"
+ "updatedAt": "2021-07-18T06:59:28+00:00",
+ "coverFileName": "dd9c6ef8-d335-4b6d-b9c2-808e0efc91c3.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "e8b511e5-4b76-47c0-af7b-8f5da7c7b1af.jpg"
   },
   {
    "id": "4eefb725-3325-4297-b717-6abc64de0ed9",
@@ -26,7 +27,8 @@
    "score": 0.42773953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55341d5e-fe73-406d-a5e2-ec9122fb2f77.jpg"
   },
   {
    "id": "85c929a2-247d-4635-b1fc-37ae352cfd25",
@@ -37,7 +39,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c23b950-29dc-4efa-a03e-8c42fd82367c.jpg"
   },
   {
    "id": "931f7c1c-4211-4c30-bc09-a5d40c470468",
@@ -48,7 +51,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ad04604d-07d7-4a08-bc44-24ade7efe930.jpg"
   },
   {
    "id": "b82b27ba-3072-4f5b-9f47-44947af099ff",
@@ -61,7 +65,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "0019cfd7-881a-4a59-977e-6d073f5125f5.jpg"
   },
   {
    "id": "8e2beb5c-c13a-4096-87ff-e7ae8adc493e",
@@ -72,7 +77,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a929800-eb75-4c25-b8d1-8f7f7c490b95.png"
   },
   {
    "id": "d727b6e5-7bd0-4062-946b-37f473b713bb",
@@ -83,7 +89,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "088fc0b2-000e-4f88-a564-37480cf91a1a.jpg"
   },
   {
    "id": "beeeb7c6-f320-48bb-be8d-671c1063fdb1",
@@ -96,7 +103,8 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "59d4dff9-97bc-4f2a-a527-d3aff2a9c91f.jpg"
   },
   {
    "id": "96ad2fa5-b8c3-449e-b431-471903949314",
@@ -108,18 +116,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "37ea0d51-9031-4af5-89b4-fa89c4ea3f80.jpg"
   },
   {
    "id": "4d17cc2b-c2fa-4cfd-937e-062190a5a94d",
    "title": {
-    "en": "My Lady and I ♂"
+    "en": "My Lady and I \u2642"
    },
    "contentRating": "safe",
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0ee4951-ba23-4416-b536-a59ad19070bd.jpg"
   },
   {
    "id": "a118d355-8ab2-4acd-ba13-8b73658a7660",
@@ -130,7 +140,8 @@
    "score": 0.38828334,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2884f8c2-e200-43d8-9b10-3fbc85dd65af.jpg"
   },
   {
    "id": "28dec83f-6d15-41d3-af8e-0b94c22b271f",
@@ -141,8 +152,10 @@
    "score": 0.38670018,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ccb0240-e4ff-4c78-bc65-bd45e6f2fe76.png"
   }
  ],
- "updatedAt": "2021-07-18T07:01:29+00:00"
+ "updatedAt": "2021-07-18T07:01:29+00:00",
+ "coverFileName": "0079db39-5c14-4804-a4b5-e9ccfbd3c3f8.png"
 }

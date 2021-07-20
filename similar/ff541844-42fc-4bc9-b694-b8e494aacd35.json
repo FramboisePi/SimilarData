@@ -8,13 +8,14 @@
   {
    "id": "a2d1e83c-1bd3-4f20-a3b1-1e30fab16567",
    "title": {
-    "en": "Dragon’s Heaven"
+    "en": "Dragon\u2019s Heaven"
    },
    "contentRating": "suggestive",
    "score": 0.46110538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31868fac-ef66-4969-9415-56915eb478e4.jpg"
   },
   {
    "id": "e912d16d-313f-469c-9381-9efb11e6a0b5",
@@ -25,7 +26,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0459330f-0b9f-4d2f-98b1-81962b655eee.png"
   },
   {
    "id": "05255927-1470-47c5-9e71-8ad6fa760824",
@@ -36,7 +38,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c61e16cc-797f-48bf-b000-56e711e20661.jpg"
   },
   {
    "id": "0680c463-4ef2-4faf-8a37-c06cf4b7d672",
@@ -47,7 +50,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8c3aa615-f2f3-4ca8-954f-6dee215e802e.jpg"
   },
   {
    "id": "afe0ec10-6d19-4abe-b1f8-d4f705bce689",
@@ -58,7 +62,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e830b4d-42db-4320-9061-5a1d6ebbeaad.jpg"
   },
   {
    "id": "de84eb83-3bbb-4dbf-a93a-9678580393af",
@@ -69,7 +74,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e65dbd64-8238-4bcb-aa5f-5a1c82906093.jpg"
   },
   {
    "id": "f4ab9476-c5b3-4228-bda7-ece5599b7fe0",
@@ -82,7 +88,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d3d017dd-f965-4324-80b4-22ece947410b.jpg"
   },
   {
    "id": "e280d1b4-db03-4fb2-ade8-1ddce45fabee",
@@ -93,7 +100,8 @@
    "score": 0.40946358,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbb17f68-ebe4-4d15-a579-2a174c36ff96.jpg"
   },
   {
    "id": "f92d21bf-a646-494b-ad65-65bc7be587c5",
@@ -104,7 +112,8 @@
    "score": 0.40398645,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b0a4935-9ee5-4f3c-88e9-6c57ab32a158.jpg"
   },
   {
    "id": "5e8f4f30-2dbe-4833-a5f1-c7c46a4839be",
@@ -115,7 +124,8 @@
    "score": 0.39565724,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6feefca1-0130-4fe8-be9b-c45c3c0500bd.jpg"
   },
   {
    "id": "dee46eca-4064-4d0c-8680-0be8e095aa78",
@@ -126,7 +136,8 @@
    "score": 0.3869806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9b6adc11-2080-42ce-b319-5c434b179350.jpg"
   },
   {
    "id": "6c11f1dc-cece-40c1-ac70-0d9ec72988fe",
@@ -138,8 +149,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "49f56a9a-ac05-4ae1-b55f-978f9fb37e92.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:42+00:00"
+ "updatedAt": "2021-07-18T07:11:42+00:00",
+ "coverFileName": "1e99d84d-e712-4446-9337-5cc12d95c215.jpg"
 }

@@ -8,7 +8,7 @@
   {
    "id": "34676e83-1d43-4f3e-af83-6bf48b01056a",
    "title": {
-    "en": "Tokimeki Gakuen♥Ouji Kumi"
+    "en": "Tokimeki Gakuen\u2665Ouji Kumi"
    },
    "contentRating": "safe",
    "score": 0.4730739,
@@ -17,7 +17,8 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "38beab50-b361-4bb7-9569-3648741d3fda.jpg"
   },
   {
    "id": "b47cbfa3-54cb-4324-85b4-8ab7949d1d11",
@@ -28,7 +29,8 @@
    "score": 0.46760172,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "921fb73e-71b9-474b-abc9-db5a64d99e7f.jpg"
   },
   {
    "id": "52f74905-2bf4-460e-9c1d-bf1d502718fb",
@@ -45,7 +47,8 @@
     "it",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "79a29221-5f77-4e8b-a6e5-83fd5e43bfed.jpg"
   },
   {
    "id": "05181bf1-4b76-4d45-8f55-2d7c28416994",
@@ -56,7 +59,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b4a44dd7-ca86-4768-87ea-936e4229fa82.jpg"
   },
   {
    "id": "786d3943-a0af-494e-b417-60cf57934e3b",
@@ -67,7 +71,8 @@
    "score": 0.43051308,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "87ae018f-5f9d-49dc-8e1a-81ecfe108b74.jpg"
   },
   {
    "id": "0cc9358f-d0f3-42ed-a146-95604b01c7f0",
@@ -80,7 +85,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "59ad7c3f-f805-4fed-86ca-b3aca39c6bfa.png"
   },
   {
    "id": "80d7454d-81bd-4e22-af42-29993c321306",
@@ -91,7 +97,8 @@
    "score": 0.41730732,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32e5f407-45b2-4178-9cbf-e8a0f575ecb8.jpg"
   },
   {
    "id": "3af9940f-9296-42d8-8246-3e5ee7fe7750",
@@ -102,7 +109,8 @@
    "score": 0.41543093,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "15b2a6a4-8e6e-48c8-ab1e-685e78b3ec69.jpg"
   },
   {
    "id": "2deea7ea-6991-461c-9f0d-be128851d409",
@@ -113,7 +121,8 @@
    "score": 0.4130752,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9b09bfb-564b-4817-be3c-4dc9f417ff9a.jpg"
   },
   {
    "id": "c1c07f2a-bbc0-4609-9747-2f3b3e29b91d",
@@ -125,7 +134,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "11a1a14c-c752-4c8c-8e2b-294f9ed8d53c.jpg"
   },
   {
    "id": "741528a3-c727-4696-97c1-3e4bf90c4246",
@@ -136,7 +146,8 @@
    "score": 0.40676385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "74fb3371-12ef-45ef-bb76-1d93e7e8e21a.jpg"
   },
   {
    "id": "7c8119b0-108c-4dd9-99d0-2c494b793fd2",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "59c49ad4-c4a4-4e84-ba61-a07018f71434.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:14+00:00"
+ "updatedAt": "2021-07-18T06:38:14+00:00",
+ "coverFileName": "3895483c-36e7-493a-9037-7fe1f76ff5b7.jpg"
 }

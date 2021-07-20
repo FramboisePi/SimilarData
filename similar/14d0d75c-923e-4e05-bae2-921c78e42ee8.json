@@ -14,7 +14,8 @@
    "score": 0.31819806,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "f89363fc-0450-45f3-926d-9763e6275bc1.jpg"
   },
   {
    "id": "0162ca10-b0ce-45f2-ade5-eaf05b901ab7",
@@ -30,7 +31,8 @@
     "zh-hk",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9c3ddb25-f341-447f-afca-1ff9197d9b6e.png"
   },
   {
    "id": "7c418a1c-9241-451e-995a-31f673b4340a",
@@ -44,7 +46,8 @@
     "zh-hk",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "beaf8b75-facb-470e-8981-505fd1ab4a9a.jpg"
   },
   {
    "id": "be8fe64b-37da-4fba-b14d-603aba19be1f",
@@ -60,7 +63,8 @@
     "es",
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "f0ddd3d1-8dd0-45fc-ac0f-d0c223969d80.jpg"
   },
   {
    "id": "817498a1-e1a0-4124-b876-7b9579fc3a01",
@@ -71,7 +75,8 @@
    "score": 0.225,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "2e90f577-def9-49bf-a220-1b040ba08d2e.jpg"
   },
   {
    "id": "261ff484-8ab5-45ba-8bcb-02517d1d1cc3",
@@ -88,12 +93,13 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "8f17fed1-839e-4a92-b0db-bce6acca6d8e.jpg"
   },
   {
    "id": "91843e85-5611-4f16-9181-c209265ff112",
    "title": {
-    "en": "Grün Bæla"
+    "en": "Gr\u00fcn B\u00e6la"
    },
    "contentRating": "safe",
    "score": 0.225,
@@ -101,7 +107,8 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1db5cd33-1804-4422-80bb-a338a2885af4.png"
   },
   {
    "id": "dd7d28b7-328a-47d2-9c34-4433c990d754",
@@ -112,7 +119,8 @@
    "score": 0.225,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "ada2823e-cceb-4a72-8daf-e32388dd651b.jpg"
   },
   {
    "id": "69ac042a-3c0b-4b2e-bc3e-9087e9acd3e1",
@@ -127,7 +135,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2ac2deb9-9dca-43df-b3ec-c7dc29c53d77.jpg"
   },
   {
    "id": "922aff3a-e4f3-4f44-ad9d-d1e1549b0d0b",
@@ -138,7 +147,8 @@
    "score": 0.225,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "c4b9b642-aea0-46ad-bbb9-6d0014e806a7.jpg"
   },
   {
    "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
@@ -152,7 +162,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "391f012f-07bb-4b28-8492-5a34f50e955e.jpg"
   },
   {
    "id": "f3f7f135-a648-498f-8ce7-04f135b78f3e",
@@ -165,8 +176,10 @@
     "zh-hk",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6ed5aefb-2266-4231-9dd2-7ac298974821.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:22+00:00"
+ "updatedAt": "2021-07-18T06:28:22+00:00",
+ "coverFileName": "6bcf8527-5902-4e8a-a5ee-ecd053b750d1.jpg"
 }

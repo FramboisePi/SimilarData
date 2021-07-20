@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "aa523a8d-7a47-488f-97eb-3d3c1f5bd9f8.jpg"
   },
   {
    "id": "1a4cde8f-93e6-4a20-bac9-934089daf54f",
@@ -27,7 +28,8 @@
    "languages": [
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "9d39a9e2-be4b-40f3-ad5a-7c1a231c0305.png"
   },
   {
    "id": "a1e94fa4-155a-4f2d-af82-2c1e29b72afa",
@@ -41,7 +43,8 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "cbd0fe3f-09c2-48de-863e-e7d680221dfe.jpg"
   },
   {
    "id": "69edf637-4258-4540-9fd2-6fa6e53ca68c",
@@ -59,7 +62,8 @@
     "tr",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "d126848f-bc44-48c2-95cd-204733fe37a0.jpg"
   },
   {
    "id": "3ffc37c7-8f02-42bf-881e-40825d94b402",
@@ -75,12 +79,13 @@
     "ru",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "44d1e0f7-ea90-41fd-9b7e-5cec2ebd6be8.jpg"
   },
   {
    "id": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
    "title": {
-    "en": "Nan Hao \u0026 Shang Feng"
+    "en": "Nan Hao & Shang Feng"
    },
    "contentRating": "safe",
    "score": 0.36742347,
@@ -97,7 +102,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dee49d8b-ff54-48b0-9e55-d8a9604c9086.png"
   },
   {
    "id": "132eff91-b4f1-42d1-982c-cb1aec6f0a8a",
@@ -110,7 +116,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "885de73c-38c0-465e-a083-d88fd641d0e7.jpg"
   },
   {
    "id": "4afe1ee7-ff18-4d9b-a1a4-7be02be3ab06",
@@ -124,7 +131,8 @@
     "",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "ed229785-72b1-4b4d-8732-61720fa2622c.jpg"
   },
   {
    "id": "8700c047-0a64-4268-94af-96d48a44e1a7",
@@ -139,7 +147,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "de90bce8-217f-40ee-a842-88144d9d4fd1.jpg"
   },
   {
    "id": "891cd333-f0f8-4220-9e4d-449227b1b21d",
@@ -151,7 +160,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b0c247f2-7a67-437c-bb6b-c795814c8420.jpg"
   },
   {
    "id": "2732d9c3-4fa4-4ac6-9e9d-76dad62dd962",
@@ -163,7 +173,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ebf3e4e2-9af4-4f9d-974f-d4149fec677e.jpg"
   },
   {
    "id": "73906dcd-cf61-4494-9d57-4be61d8a1a3d",
@@ -175,8 +186,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a14670bd-32c1-4cb9-a1a4-bbd6547b959e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:22+00:00"
+ "updatedAt": "2021-07-18T07:01:22+00:00",
+ "coverFileName": "68623f23-1517-4ada-b4e6-2e3012c61eca.jpg"
 }

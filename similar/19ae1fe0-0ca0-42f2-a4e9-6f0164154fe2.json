@@ -16,7 +16,8 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "f1c13edd-8341-42d6-b419-2f95cd5934b9.jpg"
   },
   {
    "id": "90476ab5-f9ee-426e-b418-d2f04e94da0f",
@@ -28,7 +29,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "f473bed5-bc8d-4606-9bae-6e96fcd557b0.jpg"
   },
   {
    "id": "36f0f00f-a28c-4b44-b543-fa747c59cfbc",
@@ -39,7 +41,8 @@
    "score": 0.34272274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "701bf890-8f9b-4a85-8683-deb17664374d.jpg"
   },
   {
    "id": "4cd749d5-0576-4978-96e8-1dca5f46a592",
@@ -50,7 +53,8 @@
    "score": 0.3371709,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d961651-d088-4b0a-82c2-032158555ff6.jpg"
   },
   {
    "id": "ea8c177e-42a5-441b-a946-9c550869f7e4",
@@ -62,7 +66,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "11b230bf-5f3d-4048-bfda-a7f59d850ec7.jpg"
   },
   {
    "id": "388393a1-e51d-4784-a4ba-adaecc183983",
@@ -74,7 +79,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "e615965d-5dea-4404-b0f2-80ef700a66ca.png"
   },
   {
    "id": "781dee86-5fab-48da-a1e8-c45023c8d0ee",
@@ -87,7 +93,8 @@
     "tr",
     "en",
     "ro"
-   ]
+   ],
+   "coverFileName": "d2246b26-1325-4edf-86f7-4b25eb98bcf6.jpg"
   },
   {
    "id": "bacf6a9f-daeb-426b-b2bf-ad17ae2ddd95",
@@ -99,7 +106,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "45cb5032-f462-4743-8d1a-40ee25bbc683.jpg"
   },
   {
    "id": "beb25ef5-a947-423c-948c-2a43c038f3b4",
@@ -110,7 +118,8 @@
    "score": 0.30705997,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d7ed84d-5ed5-46d3-98d1-beba5f1f28e4.jpg"
   },
   {
    "id": "fb0037e3-7b79-450a-8627-256aa7f78537",
@@ -122,12 +131,13 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "cc7f5424-92d5-4f55-a5ec-d3761f02da2c.jpg"
   },
   {
    "id": "384754ae-9079-433f-8abf-c7170538eff9",
    "title": {
-    "en": "Pietà"
+    "en": "Piet\u00e0"
    },
    "contentRating": "safe",
    "score": 0.28662398,
@@ -136,7 +146,8 @@
     "tr",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "c2b1cbc2-6044-4571-a353-3c86122f3f2a.jpg"
   },
   {
    "id": "022462bb-c4c1-4885-b9a3-145ccf1db400",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "07bd53ad-af30-4b7d-9cd9-40c12051c820.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:17+00:00"
+ "updatedAt": "2021-07-18T06:29:17+00:00",
+ "coverFileName": "ae35f7e4-8eed-4a57-903e-a7cdaaccb522.jpg"
 }

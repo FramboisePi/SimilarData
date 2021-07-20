@@ -1,7 +1,7 @@
 {
  "id": "7c71eb97-5a02-41cf-b116-92b20ba832ce",
  "title": {
-  "en": "Code Geass: Lelouch of the Rebellion: Lancelot \u0026 Guren"
+  "en": "Code Geass: Lelouch of the Rebellion: Lancelot & Guren"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.7150769,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "988ca3ea-0068-4329-abb8-57960873d85d.jpg"
   },
   {
    "id": "678b0682-b887-4de4-b774-addf10d16c8b",
@@ -25,7 +26,8 @@
    "score": 0.66828215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23cb45f4-872e-4387-a194-00a818af2dc7.jpg"
   },
   {
    "id": "138ba1fa-d79c-4635-baaa-1e05e931c588",
@@ -36,7 +38,8 @@
    "score": 0.47389907,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "878c68cc-95d6-4e73-82ad-66fe0d58513b.jpg"
   },
   {
    "id": "590666db-1beb-4830-8732-dc11dfbe0148",
@@ -48,7 +51,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "20cb65c7-4fbf-4c49-9998-756dfc7408b4.jpg"
   },
   {
    "id": "8a0e1c19-d214-4263-9172-435867d2a4ee",
@@ -63,7 +67,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "bf3d9902-3aba-4c70-bdde-721456d761a7.jpg"
   },
   {
    "id": "88c23163-760a-49a2-a4f2-9d7877eb6efb",
@@ -74,7 +79,8 @@
    "score": 0.41750705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9522309e-4ee4-42bb-965f-9ef205aca5d9.jpg"
   },
   {
    "id": "756fc7c9-8e7d-4e71-8033-982f1205e950",
@@ -88,7 +94,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "50b8968c-5b31-404c-bd34-e97fad06d5a9.jpg"
   },
   {
    "id": "0a012ab6-294d-48c6-be4f-18c7102dc6dd",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "aa07a77e-8300-4a8b-bc92-2841261f7cdf.jpg"
   },
   {
    "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
@@ -111,7 +119,8 @@
    "score": 0.38290277,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e939e51-c73f-412b-b923-75e867aa7d3f.jpg"
   },
   {
    "id": "a6c9ce9c-4106-4e36-9fe5-fa259187efe3",
@@ -122,7 +131,8 @@
    "score": 0.38290277,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6648f71c-116c-46a0-af1e-26b8b492f452.png"
   },
   {
    "id": "75c9afb9-3758-4ebe-85ca-16c75508b1ce",
@@ -135,7 +145,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "1a190b44-80e3-4fe9-9182-94481367b43e.jpg"
   },
   {
    "id": "f7255405-4e85-467b-83b7-3144189c14ec",
@@ -147,8 +158,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b135a8de-5b79-43b9-ada3-ddcb059bb0be.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:35+00:00"
+ "updatedAt": "2021-07-18T06:47:35+00:00",
+ "coverFileName": "f4f0d787-345e-44fe-a769-ca0a0d9977d8.jpg"
 }

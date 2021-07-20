@@ -1,7 +1,7 @@
 {
  "id": "a3125acb-3aba-4c29-bd4d-c1b88ec375b2",
  "title": {
-  "en": "My Fiancé is in Love with My Little Sister"
+  "en": "My Fianc\u00e9 is in Love with My Little Sister"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,12 +19,13 @@
     "uk",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "e1180257-83ad-4aca-a4cf-59b616d33e60.jpg"
   },
   {
    "id": "077d838d-8750-4588-abdb-d62f71963287",
    "title": {
-    "en": "I Was Told to Relinquish My Fiancé to My Little Sister, and the Greatest Dragon Took a Liking to Me and Unbelievably Took Over the Kingdom"
+    "en": "I Was Told to Relinquish My Fianc\u00e9 to My Little Sister, and the Greatest Dragon Took a Liking to Me and Unbelievably Took Over the Kingdom"
    },
    "contentRating": "safe",
    "score": 0.38187447,
@@ -34,7 +35,8 @@
     "fr",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cc789ec4-293b-49ce-ae11-305da9f752f9.jpg"
   },
   {
    "id": "71e83c98-0f07-4e6c-ab0e-0c6c786d8895",
@@ -46,7 +48,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "d84cb717-7096-446f-804d-5fb65022098d.jpg"
   },
   {
    "id": "a6661f41-6d4e-4320-876a-bbd44d445627",
@@ -58,12 +61,13 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "bc34b47d-1bbc-493f-9c73-3c92ebdb52b5.jpg"
   },
   {
    "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
    "title": {
-    "en": "Father, I Don’t Want to Get Married!"
+    "en": "Father, I Don\u2019t Want to Get Married!"
    },
    "contentRating": "safe",
    "score": 0.36154395,
@@ -75,24 +79,26 @@
     "ru",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "3f828bd7-20ab-4813-9335-96282f145122.jpg"
   },
   {
    "id": "b82d55e4-01ba-498e-a9aa-715f7ffb5a1d",
    "title": {
-    "en": "I Am the Male Lead’s Ex-Girlfriend"
+    "en": "I Am the Male Lead\u2019s Ex-Girlfriend"
    },
    "contentRating": "safe",
    "score": 0.35734499,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c2ecfba3-dd02-483f-a1c7-a8369ce0ef08.jpg"
   },
   {
    "id": "bc20fa98-b707-43cc-b195-bcee8e518ed9",
    "title": {
-    "en": "I'll Become a Villainess That Will Go Down in History ― The More of a Villainess I Become, the More the Prince Will Dote on Me"
+    "en": "I'll Become a Villainess That Will Go Down in History \u2015 The More of a Villainess I Become, the More the Prince Will Dote on Me"
    },
    "contentRating": "safe",
    "score": 0.32157305,
@@ -101,7 +107,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "2f613a2f-8921-4b3a-ad29-4a9ed53de5fe.jpg"
   },
   {
    "id": "67befa8e-adf4-42e3-9958-094e16c86ea7",
@@ -112,7 +119,8 @@
    "score": 0.31597096,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7caff409-904d-4a9c-9d21-63ab4dbbf3a9.png"
   },
   {
    "id": "c6bbbeca-f4fd-4595-9d4d-4ba31370d08c",
@@ -127,7 +135,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d2879712-28cf-4564-928c-3a342c598949.jpg"
   },
   {
    "id": "e66968c0-c42a-44ef-96d0-52047036352f",
@@ -138,7 +147,8 @@
    "score": 0.30577004,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fb6f9041-7bf5-472e-bffc-59def41d5839.jpg"
   },
   {
    "id": "1ddade3e-ff63-412f-b0cd-542d95c60236",
@@ -149,7 +159,8 @@
    "score": 0.30174965,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65bc9624-de32-4ae4-9e97-4e6db1a45d1d.jpg"
   },
   {
    "id": "184915ba-1df1-467f-bb78-849bf6e15481",
@@ -162,8 +173,10 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f8757c5b-a39f-4854-9caa-748b24265eeb.png"
   }
  ],
- "updatedAt": "2021-07-18T06:54:48+00:00"
+ "updatedAt": "2021-07-18T06:54:48+00:00",
+ "coverFileName": "bbe9f2a3-dcf9-481f-bb1f-8f8efae5367d.jpg"
 }

@@ -18,7 +18,8 @@
     "id",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "4c2e688e-12f6-4836-afe0-cd08ed03f36b.jpg"
   },
   {
    "id": "676fbea0-be6d-437e-be60-43800486842e",
@@ -32,7 +33,8 @@
     "ca",
     "ru",
     "hu"
-   ]
+   ],
+   "coverFileName": "5c54f0a5-b45c-49aa-b8f5-a62b99bd961a.jpg"
   },
   {
    "id": "56b81ba8-e792-4ac9-8cda-d615659159ce",
@@ -46,7 +48,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d8e38c92-a1be-46b9-8024-5a309e5c2893.jpg"
   },
   {
    "id": "7474ac29-84b4-4608-8150-878634bf969e",
@@ -61,7 +64,8 @@
     "ru",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c71bcdef-e7e7-4f20-8d28-29acc833a65e.jpg"
   },
   {
    "id": "ccb82067-e8e6-412e-83f4-2539b121bfc4",
@@ -73,7 +77,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ba0142da-8c6e-4553-957c-e91282fc5b6f.jpg"
   },
   {
    "id": "c4980c7e-a8df-4608-8ced-752e6642629d",
@@ -88,7 +93,8 @@
     "id",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "37b8c3b1-facc-4483-a29a-93c37f449bc2.jpg"
   },
   {
    "id": "f7d40a27-e289-45b3-9c68-d1cb251897e6",
@@ -101,7 +107,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ae6be56c-a898-4442-a8f8-819d8d60dc0a.jpg"
   },
   {
    "id": "d7d6829b-ceab-4346-a033-22387aeff297",
@@ -117,7 +124,8 @@
     "fr",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "166a835b-4ce1-418a-bfb3-8dbfb7aa7c9d.jpg"
   },
   {
    "id": "ddc6b72d-3565-4d75-ba1f-a9360ddb39ba",
@@ -130,7 +138,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a297bafd-7058-4a1e-8ed5-9a29da8cd487.jpg"
   },
   {
    "id": "29b8c90a-4e8e-4da6-a002-e74d2a3de2d4",
@@ -143,7 +152,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "534152da-4068-4b56-8f25-fad84ce78c49.jpg"
   },
   {
    "id": "4ef4b17f-e138-4b58-87f7-7f2c46e1ad01",
@@ -155,12 +165,13 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6e71b6e1-a749-468f-8ce4-2c570825fb75.jpg"
   },
   {
    "id": "977ff0dd-8e3a-4296-8643-0d2d4314e389",
    "title": {
-    "en": "Half \u0026 Half"
+    "en": "Half & Half"
    },
    "contentRating": "suggestive",
    "score": 0.47982994,
@@ -172,8 +183,10 @@
     "fr",
     "de",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d509ac27-59b8-4b74-ae74-e8fb16729a1a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:56+00:00"
+ "updatedAt": "2021-07-18T06:47:56+00:00",
+ "coverFileName": "40114515-8b2e-4dc1-a749-684955538706.jpg"
 }

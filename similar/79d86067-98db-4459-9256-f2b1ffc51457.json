@@ -18,7 +18,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4b8ebae7-323d-4126-941b-3054bac796bf.jpg"
   },
   {
    "id": "81dffa06-0879-48cd-b640-916c202cfa9f",
@@ -30,7 +31,8 @@
    "languages": [
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "4687281b-9553-4d07-bdf9-afba73adee3a.jpg"
   },
   {
    "id": "917a34d9-9c28-4d7c-bb4f-e74d5dd90434",
@@ -43,7 +45,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "48e0828e-b7ae-4f29-8dda-994d43288ccf.jpg"
   },
   {
    "id": "55e910f2-8ba5-427b-ae7e-a815d2d6bd71",
@@ -58,12 +61,13 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2c8c3560-9f41-4e81-9cf1-8d0672f44577.jpg"
   },
   {
    "id": "bcfa196d-d162-45f5-a224-61d26b04a077",
    "title": {
-    "en": "Konosuba: God’s Blessing on This Wonderful World!"
+    "en": "Konosuba: God\u2019s Blessing on This Wonderful World!"
    },
    "contentRating": "suggestive",
    "score": 0.34016803,
@@ -72,7 +76,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ef398ad1-8a0a-4a03-8df5-0f26018c52f5.jpg"
   },
   {
    "id": "56ac6264-787f-4866-b17c-b1e9e972a4d8",
@@ -86,7 +91,8 @@
     "pt-br",
     "es-la",
     "th"
-   ]
+   ],
+   "coverFileName": "7bae0318-7960-4844-9d0c-3a9eb9c75e2e.jpg"
   },
   {
    "id": "e551a018-4fc7-4174-b317-f1a3a4b1bfab",
@@ -99,7 +105,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3126d131-46e4-452e-803b-5088a9bebd98.jpg"
   },
   {
    "id": "c3ee1744-9db7-4e78-984a-0d05791104a7",
@@ -113,7 +120,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bba66b12-1385-4ea1-8788-ebc8d9d8c5d5.jpg"
   },
   {
    "id": "9585b6ff-7834-4e71-b47c-5a6c1440efb6",
@@ -128,7 +136,8 @@
     "it",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "7f16ad38-6d4a-48eb-92ce-bd929fa446f6.jpg"
   },
   {
    "id": "631f17a1-4ef9-4204-8cf8-cae5391ecca3",
@@ -140,12 +149,13 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "fa536233-e783-450d-9bc1-6cfae5cb127c.jpg"
   },
   {
    "id": "99b8eaeb-9041-4bfd-8eb7-d72addc88eb7",
    "title": {
-    "en": "Goddess Café Terrace"
+    "en": "Goddess Caf\u00e9 Terrace"
    },
    "contentRating": "suggestive",
    "score": 0.31754264,
@@ -157,7 +167,8 @@
     "en",
     "th",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c0120631-aa7a-427b-9172-aed6f25fb26d.jpg"
   },
   {
    "id": "69dcebee-7446-4eb2-8244-d903f12a6712",
@@ -175,8 +186,10 @@
     "pt-br",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "e0b88e92-a804-4220-9863-94bb4b7cc9f6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:03+00:00"
+ "updatedAt": "2021-07-18T06:47:03+00:00",
+ "coverFileName": "02d2b21b-d7a9-4aac-9d68-8f40206a4017.jpg"
 }

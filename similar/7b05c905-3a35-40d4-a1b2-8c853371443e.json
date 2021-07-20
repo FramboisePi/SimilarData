@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0e194774-f496-4fed-9546-bfa134d2f770.jpg"
   },
   {
    "id": "e63c3723-77b6-4b2b-86b6-059d823acf7e",
@@ -26,18 +27,20 @@
    "score": 0.6861831,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "26e63893-9f1f-40e2-82a1-aae5e66d3456.jpg"
   },
   {
    "id": "f76ffb2d-a84e-4ae5-9268-0a40178f7d64",
    "title": {
-    "en": "Cake Ouji no Spécialité"
+    "en": "Cake Ouji no Sp\u00e9cialit\u00e9"
    },
    "contentRating": "safe",
    "score": 0.49184185,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ab1a648-2438-418b-ab65-aed42a4f9bac.png"
   },
   {
    "id": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
@@ -50,7 +53,8 @@
     "en",
     "hu",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2de48b17-a29b-46c2-8a34-720edae1adb9.jpg"
   },
   {
    "id": "75226848-a988-4d04-8536-46e49a7d1735",
@@ -69,7 +73,8 @@
     "pt-br",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "214424ad-3f31-41e7-9f1b-267e2ad1d834.jpg"
   },
   {
    "id": "f03bc5c5-88b7-42aa-92a6-1a0f34adc47e",
@@ -82,7 +87,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6a0f45c9-6253-4fe2-8901-fe686f23ea04.jpg"
   },
   {
    "id": "8eabc51f-d734-4a5d-a434-e67ea65a9a92",
@@ -93,7 +99,8 @@
    "score": 0.47063515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5538c93-440b-4478-9ed1-362cc12fab13.jpg"
   },
   {
    "id": "a171aaf7-1614-4fab-8d5d-dbe829a055f4",
@@ -105,7 +112,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "c1fd9110-e59f-4d0a-9f3b-44a27f82eacc.jpg"
   },
   {
    "id": "d6ce3650-0e8e-462a-bdae-39c7ff6ec3b2",
@@ -116,7 +124,8 @@
    "score": 0.46724072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28eefe66-c8fc-4816-a008-50506c702770.png"
   },
   {
    "id": "b6be0ce7-ea4a-4aa8-b8b3-348fed8b2662",
@@ -127,7 +136,8 @@
    "score": 0.4642356,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4389221-38a9-489f-b452-f617ad088d84.jpg"
   },
   {
    "id": "913f10b8-be4e-4195-a1cd-c52aa8d6a728",
@@ -139,7 +149,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a42d1cf8-7fca-41d4-b22e-6de8cc701d96.jpg"
   },
   {
    "id": "fc4ee994-bf15-499c-818d-eec02194cfca",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a345115c-00e4-40fb-acde-b749c55386b3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:16+00:00"
+ "updatedAt": "2021-07-18T06:47:16+00:00",
+ "coverFileName": "138e28f8-71cb-40ac-8c8f-571907058628.jpg"
 }

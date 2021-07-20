@@ -16,7 +16,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "53b3f192-645c-4b64-873b-50964aef7aa2.jpg"
   },
   {
    "id": "5e803167-8f82-484f-be40-016fff057520",
@@ -28,7 +29,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "eb6aca50-5d28-4bb5-93fe-749a73e348ec.jpg"
   },
   {
    "id": "42ec9467-994d-4ba6-a243-6733eb310a43",
@@ -39,7 +41,8 @@
    "score": 0.48009133,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46b98455-841f-4e89-9ede-e5cb8a2db92c.jpg"
   },
   {
    "id": "595f11c4-b902-4b45-82bf-b3e2998d196d",
@@ -50,7 +53,8 @@
    "score": 0.47901136,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58aa95c5-ea50-486f-8a88-bef24e9715d3.jpg"
   },
   {
    "id": "c9a96eab-fdc5-4bae-a78c-84a80dc98208",
@@ -61,7 +65,8 @@
    "score": 0.47469798,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d13f2349-b63b-45b2-98da-e17c0c3ceede.png"
   },
   {
    "id": "b6143df6-e423-4408-ab6b-9e3602980e42",
@@ -72,7 +77,8 @@
    "score": 0.47226804,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ba77651-7f7b-473a-966e-29c386358f62.jpg"
   },
   {
    "id": "98e827f7-302d-477b-a6f4-a92ad42cc309",
@@ -83,7 +89,8 @@
    "score": 0.46620968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac51d019-96c0-438f-858d-45c6c5eed40c.jpg"
   },
   {
    "id": "efce5c3b-81ac-4cef-afee-d3730af5a392",
@@ -94,18 +101,20 @@
    "score": 0.46365142,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98015b6c-4057-428b-ac3c-20d1cf749d80.jpg"
   },
   {
    "id": "0f2bdb5c-2177-468d-a60b-4b79f3955218",
    "title": {
-    "en": "Snow \u0026 Sunflower"
+    "en": "Snow & Sunflower"
    },
    "contentRating": "safe",
    "score": 0.45972696,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b9fb8b1-4b04-425f-a2d4-3e57513e0599.jpg"
   },
   {
    "id": "51ebd014-189e-4ff4-bac8-968ff0c2b094",
@@ -118,7 +127,8 @@
     "es-la",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "9a2d61fe-bd4a-4988-8bd7-8661e0cabfc9.jpg"
   },
   {
    "id": "02f15da7-3fff-4bb8-a861-7537c0c568a0",
@@ -130,7 +140,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "647f2f4e-069b-4393-a127-b40ababf02cc.jpg"
   },
   {
    "id": "a0147b5d-506d-46d7-aa42-6e091daf037d",
@@ -143,8 +154,10 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "517c386f-7904-41ad-8710-cf9e96e2a5e0.png"
   }
  ],
- "updatedAt": "2021-07-18T07:06:10+00:00"
+ "updatedAt": "2021-07-18T07:06:10+00:00",
+ "coverFileName": "a0d3536f-4f0e-4e26-a555-5fea045e6c71.png"
 }

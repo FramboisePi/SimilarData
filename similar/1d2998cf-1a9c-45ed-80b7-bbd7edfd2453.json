@@ -21,7 +21,8 @@
     "fr",
     "it",
     "hu"
-   ]
+   ],
+   "coverFileName": "6d37908c-f43d-4f52-8fa5-4d867e241296.jpg"
   },
   {
    "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
@@ -33,7 +34,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6cbaf85b-dd20-4da2-a885-83405c4278e6.png"
   },
   {
    "id": "915e4b42-5516-4299-9be7-e0e20acc04e2",
@@ -47,7 +49,8 @@
     "pt-br",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f2fc11a2-5c7f-42cb-9108-f63f430b165a.png"
   },
   {
    "id": "12516ba2-94b0-4a20-abff-f1e488e0da39",
@@ -63,7 +66,8 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "7a87d701-9113-4c5c-9afe-0a7cb6c57ed8.png"
   },
   {
    "id": "1dc3ebf9-c86c-431c-bcca-5e35ac124f28",
@@ -80,12 +84,13 @@
     "id",
     "th",
     "ru"
-   ]
+   ],
+   "coverFileName": "d58c7bff-fddb-4d7c-b262-33e5a61e0443.png"
   },
   {
    "id": "2dab66cc-f819-4ac4-8566-717331348f4b",
    "title": {
-    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn’t Too Much of a Hassle"
+    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn\u2019t Too Much of a Hassle"
    },
    "contentRating": "safe",
    "score": 0.31383964,
@@ -94,7 +99,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "5cfe0c26-0ba4-4d2d-857c-69d6bddc978b.jpg"
   },
   {
    "id": "41edb570-19d6-4f01-86ef-081dbcbc1b2e",
@@ -109,7 +115,8 @@
     "pt-br",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5eb6bead-2eee-49e6-8df1-bb4a0a3bd31e.jpg"
   },
   {
    "id": "d993f789-e7e5-4832-92fd-37614220b427",
@@ -127,7 +134,8 @@
     "es-la",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "e7206f49-0c72-44e2-b2d2-59b95143d368.jpg"
   },
   {
    "id": "2b5c2f34-6de4-4a81-8671-bca8c9409f79",
@@ -142,7 +150,8 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "044cf087-ad78-4379-98a9-2587a08148f1.jpg"
   },
   {
    "id": "89c37252-b871-42fc-8043-9bca82c6a340",
@@ -158,7 +167,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "67f0ba8a-5ef8-48fc-a777-ee9baf27f160.png"
   },
   {
    "id": "b145fa37-e63a-4c1c-a1b8-dc2d3e2ef351",
@@ -171,7 +181,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "bf03703e-f6d9-4fdd-ae3a-a9eb768a239c.jpg"
   },
   {
    "id": "38bcbd61-1c76-436c-9e8c-8ee2e74831bf",
@@ -182,8 +193,10 @@
    "score": 0.284605,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "ba8c540d-eb91-4a9b-a0d5-22eba832fc9d.png"
   }
  ],
- "updatedAt": "2021-07-18T06:29:56+00:00"
+ "updatedAt": "2021-07-18T06:29:56+00:00",
+ "coverFileName": "22a00887-e607-4ab3-8dfd-02bb2e97f68f.jpg"
 }

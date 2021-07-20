@@ -14,7 +14,8 @@
    "score": 1.1413838,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32cd3e44-51e7-4d6a-981d-6e9d7ea02864.jpg"
   },
   {
    "id": "e698f41d-f116-4a36-8536-3a728f26885c",
@@ -25,18 +26,20 @@
    "score": 0.9385786,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b36ef64a-8d55-4259-b668-523138c73476.jpg"
   },
   {
    "id": "fb0ff419-912a-40f8-82c4-c7299e021275",
    "title": {
-    "en": "Aventurier ~Shinyaku Arsène Lupin~"
+    "en": "Aventurier ~Shinyaku Ars\u00e8ne Lupin~"
    },
    "contentRating": "safe",
    "score": 0.35775855,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "63ad105e-1783-47a9-a243-a7347a822e80.jpg"
   },
   {
    "id": "2647469c-137f-4a3f-9603-6a04bc582ec2",
@@ -47,7 +50,8 @@
    "score": 0.33130577,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2a3b2ca-c778-4a60-9a26-7e30e35fa4a3.jpg"
   },
   {
    "id": "080ccf1d-3512-4b57-a94e-cc2c9456ac60",
@@ -58,7 +62,8 @@
    "score": 0.3177258,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e85a6311-0d97-407b-bb86-9e0fe5cdcb8f.jpg"
   },
   {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
@@ -72,19 +77,21 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
   },
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.31712124,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "a396a4d0-1bb3-44c2-89af-5a11ea7990a3",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2bacefd4-7070-4a85-ba8c-b828d906c7b0.jpg"
   },
   {
    "id": "8d982591-4ebb-4a48-8e6c-aca543661e06",
@@ -107,7 +115,8 @@
    "score": 0.29898477,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e542b0f5-1313-449c-a204-b2a22a00cfd5.jpg"
   },
   {
    "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
@@ -118,7 +127,8 @@
    "score": 0.27463505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "593e0110-88e6-4ffd-aeb7-ed410e8c7c6d.jpg"
   },
   {
    "id": "d754b8d8-cba3-4928-a602-c0fcec60495f",
@@ -129,7 +139,8 @@
    "score": 0.27463505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e84786e6-c75a-4b58-9ba6-3d8b519e670c.jpg"
   },
   {
    "id": "cf5033f2-0a27-45be-95da-876971af682f",
@@ -140,8 +151,10 @@
    "score": 0.27463505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fad79d1-1ede-4d94-bb09-061d698c5044.png"
   }
  ],
- "updatedAt": "2021-07-18T07:03:08+00:00"
+ "updatedAt": "2021-07-18T07:03:08+00:00",
+ "coverFileName": "ef486878-8d28-433c-a95f-ca05c166c2bb.jpg"
 }

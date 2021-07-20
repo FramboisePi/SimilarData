@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "824d8006-4e77-4fb7-b409-f24c71a8803e.jpg"
   },
   {
    "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "c75252a3-91be-4e53-a8b7-770ace8512e9.jpg"
   },
   {
    "id": "0cedef8e-d734-4292-bfdd-461fa8930909",
@@ -38,7 +40,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "036c6d82-39b6-4270-953d-6d98f8d76904.jpg"
   },
   {
    "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
@@ -50,19 +53,21 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "74ca091f-4fed-4c56-85de-af310e70c7f6.jpg"
   },
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
@@ -76,7 +81,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
   },
   {
    "id": "aab94c3a-34b4-4051-84ff-7ba9cbab0da8",
@@ -89,7 +95,8 @@
     "en",
     "ca",
     "pl"
-   ]
+   ],
+   "coverFileName": "38b625cb-898b-4035-a96a-3bd0bddfd272.png"
   },
   {
    "id": "6c583845-8276-4f80-b90b-902959b5d240",
@@ -101,7 +108,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "55d979d3-a02c-4b26-a626-eb7abc2a7e6d.jpg"
   },
   {
    "id": "fcb5111f-be88-4f5a-b456-22135f3eda49",
@@ -115,7 +123,8 @@
     "en",
     "ru",
     "ca"
-   ]
+   ],
+   "coverFileName": "5919a775-29dc-42b9-b3dd-8bee6fa83414.jpg"
   },
   {
    "id": "37b1909b-3419-41bd-bffd-8b60d4708091",
@@ -126,7 +135,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b38c9b22-7cd4-4fb7-968c-ed1b163c6591.jpg"
   },
   {
    "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
@@ -137,7 +147,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "007f62a5-11c9-4a4a-9add-3fd150bc18c5.jpg"
   },
   {
    "id": "cf5033f2-0a27-45be-95da-876971af682f",
@@ -148,8 +159,10 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fad79d1-1ede-4d94-bb09-061d698c5044.png"
   }
  ],
- "updatedAt": "2021-07-18T06:51:58+00:00"
+ "updatedAt": "2021-07-18T06:51:58+00:00",
+ "coverFileName": "791c0be6-e7eb-4343-9399-30a0285ae0cc.jpg"
 }

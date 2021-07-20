@@ -1,20 +1,21 @@
 {
  "id": "18ef5b8d-4d47-4c05-92a8-ecf08cb67347",
  "title": {
-  "en": "Umibe no Étranger"
+  "en": "Umibe no \u00c9tranger"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "e7dc94e5-8276-4fe9-929c-65fa62c42160",
    "title": {
-    "en": "Harukaze no Étranger"
+    "en": "Harukaze no \u00c9tranger"
    },
    "contentRating": "safe",
    "score": 0.9511162,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "881d0a5b-0a9e-4d74-b078-4f43b9538997.jpg"
   },
   {
    "id": "920f1031-4203-46a7-9874-74661fc3071f",
@@ -27,7 +28,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "6bfb2b33-ee37-415c-b352-c45181a09070.jpg"
   },
   {
    "id": "4da5b8b2-f762-4df0-a263-0041934f977d",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "04d256b8-d998-4ccf-955e-d06a2e6b5b2d.jpg"
   },
   {
    "id": "f9a73335-f10a-4769-bc5d-4787670ea618",
@@ -51,7 +54,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "0a48edf6-586b-4fc8-96f4-64696d43edb1.jpg"
   },
   {
    "id": "eca0bd9a-96ae-4392-b816-c5511855a780",
@@ -62,7 +66,8 @@
    "score": 0.5869226,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43909696-6bc8-4c7d-93ae-1ec9ac6f18d1.jpg"
   },
   {
    "id": "aeabeead-b4fb-4694-97b7-a6b75a090e9b",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "74792246-0be0-4587-8330-32e927330c2f.jpg"
   },
   {
    "id": "a794fa64-481e-45b8-ae27-57ae1df2f321",
@@ -88,7 +94,8 @@
     "tr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b247adec-2f3b-40ad-9e26-3bd4cbe290ef.jpg"
   },
   {
    "id": "06d1602e-428e-456e-bbe3-e4820dd85486",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c66fd24c-69b3-42c2-a0cf-ada6eb70f23e.jpg"
   },
   {
    "id": "69ddf935-0f05-4030-bc5e-98b051da7904",
@@ -111,7 +119,8 @@
    "score": 0.5436593,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e07e2db6-0022-4db5-a6d5-035aa902bb88.jpg"
   },
   {
    "id": "b241648d-f56e-471a-a5b0-51d7053b043b",
@@ -122,18 +131,20 @@
    "score": 0.52834386,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f526c83a-b866-4285-bfda-752b252312d6.jpg"
   },
   {
    "id": "874310c1-750e-41e4-a1b3-f816dd158238",
    "title": {
-    "en": "360° Material"
+    "en": "360\u00b0 Material"
    },
    "contentRating": "safe",
    "score": 0.51909137,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f350c07-ae57-4a34-8bfb-c4a15dadcbf9.jpg"
   },
   {
    "id": "2c0d8af0-df86-40d4-91f8-35c3a75c50e8",
@@ -144,8 +155,10 @@
    "score": 0.50111663,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a0ba49d-5a81-4658-a395-c69510e132cc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:09+00:00"
+ "updatedAt": "2021-07-18T06:29:09+00:00",
+ "coverFileName": "8475d541-8b54-4637-8774-5141a37212aa.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "bd71fc3f-b286-4a27-aa0e-780fd9234150.jpg"
   },
   {
    "id": "c3030470-332f-43c7-b65d-a2290689c1f1",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "fc3fd7d0-b387-4cd6-a61d-3ca5d9e1de00.png"
   },
   {
    "id": "e523fe78-0cd5-4d46-b107-7b81d39da8de",
@@ -38,7 +40,8 @@
    "score": 0.37797114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f5ad5a64-2053-4f5c-bfe1-b63f070f82bd.jpg"
   },
   {
    "id": "a8592c33-5f7c-4fcb-b100-531153604486",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "7809964c-ef64-4ad4-8611-24bef844f257.jpg"
   },
   {
    "id": "e07ed8a5-56f1-487c-8c0b-3fa3ad44b3fc",
@@ -61,12 +65,13 @@
    "score": 0.3582191,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "68503759-deb4-4c5d-be89-abf4f27f932e.jpg"
   },
   {
    "id": "e4631dc7-87b9-4d6a-8b3b-5594664ecc27",
    "title": {
-    "en": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!"
+    "en": "Fate/kaleid liner PRISMA\u2606ILLYA 3rei!!"
    },
    "contentRating": "suggestive",
    "score": 0.35773566,
@@ -77,7 +82,8 @@
     "pt-br",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "8ae97b52-cece-4f4c-84f3-610e347f43d0.jpg"
   },
   {
    "id": "8b493efc-6b1f-4e0c-b714-10fbaf54f7cd",
@@ -88,7 +94,8 @@
    "score": 0.35666728,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c890032b-2629-4063-82a9-8592b6c671c6.png"
   },
   {
    "id": "a271a9bd-eb46-4c40-b773-a2b0070b3b63",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "fd508f75-2ed6-483c-aa06-059ba04f75bf.jpg"
   },
   {
    "id": "c4d5228c-846d-47c5-8659-0aa70d5c0d41",
@@ -112,7 +120,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "20ffdbe3-b2bd-4038-bc81-7aeb92a797f2.jpg"
   },
   {
    "id": "020baff7-1f49-4734-b199-c3451bc9d891",
@@ -123,7 +132,8 @@
    "score": 0.34222162,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4dcdbd4e-002d-486a-8674-a2f480212584.jpg"
   },
   {
    "id": "57182181-725b-4f36-9997-cb9ef1dceeba",
@@ -137,7 +147,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "db3e237d-cfcf-4e71-a005-98e2b3ece5b9.jpg"
   },
   {
    "id": "02adf3a3-210f-475a-889f-1db74c58e1f5",
@@ -154,8 +165,10 @@
     "es",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1770d141-8d41-4ce1-989a-3c32d12d5700.png"
   }
  ],
- "updatedAt": "2021-07-18T06:30:29+00:00"
+ "updatedAt": "2021-07-18T06:30:29+00:00",
+ "coverFileName": "5f4745af-84a3-446b-bb0c-158f10c3e761.jpg"
 }

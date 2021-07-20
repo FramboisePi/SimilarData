@@ -1,7 +1,7 @@
 {
  "id": "147cc408-196e-482a-a920-c8ff2f199ab0",
  "title": {
-  "en": "Touhou/Gravity Falls - Illusion Falls 「Fantastic Momentary Tour」 (Doujinshi)"
+  "en": "Touhou/Gravity Falls - Illusion Falls \u300cFantastic Momentary Tour\u300d (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "vi",
     "es-la",
     "zh"
-   ]
+   ],
+   "coverFileName": "56376216-7c94-4a7f-9140-ddf32364d48d.png"
   },
   {
    "id": "3ee3b476-0682-4563-96da-7018ff5e4bf7",
@@ -31,7 +32,8 @@
    "languages": [
     "en",
     "ja"
-   ]
+   ],
+   "coverFileName": "02d22bb9-a115-4961-a4c4-41f5af559b8a.jpg"
   },
   {
    "id": "64a36e9e-5d10-4397-9f92-d4c82dbaafb0",
@@ -42,7 +44,8 @@
    "score": 0.2956476,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62046da6-d02b-4e39-8b58-875917eb049f.jpg"
   },
   {
    "id": "425668e1-19e2-4d7d-b036-3e60f290259c",
@@ -55,7 +58,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "3e814321-afa4-406f-be14-cced78bcaa20.jpg"
   },
   {
    "id": "5977811a-0bc6-41c6-8dd0-3ef2441acec4",
@@ -67,7 +71,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "b04b90bb-d773-4275-8804-3cf5f7a1db9d.png"
   },
   {
    "id": "1a75c8a6-6a3f-4c2c-9c68-fe0a80df0845",
@@ -79,7 +84,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "9f0c8c2f-7a98-4bdd-995e-532955a40bc5.png"
   },
   {
    "id": "cd0df32f-efd5-40c5-b1ca-69aa9ce0fd95",
@@ -91,7 +97,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6c716fbf-e032-4d1c-8b98-1028a4dffbc7.png"
   },
   {
    "id": "e3e83c28-9abf-4ef0-8cf0-d5bdaa90d38a",
@@ -104,7 +111,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "c9638df2-5d28-464e-bc2b-b9a1fb63ff02.jpg"
   },
   {
    "id": "1cd53ff8-11ca-4907-b667-6946e4cfa46c",
@@ -115,7 +123,8 @@
    "score": 0.28522742,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "60834ab2-a391-4402-aa6e-3c8fd0a29e79.jpg"
   },
   {
    "id": "db237d31-d99a-4218-a8f9-950fa52abac9",
@@ -127,7 +136,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "30159bea-41f5-407f-9000-aa22b13fa5b8.jpg"
   },
   {
    "id": "dcbe56a5-d154-4709-8b00-bf263b083f7c",
@@ -138,7 +148,8 @@
    "score": 0.27480918,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a990d76d-1ede-4efc-8b6c-1580eb8d0ca9.jpg"
   },
   {
    "id": "feae68c5-11cd-4b88-a220-39d7fa653c11",
@@ -154,8 +165,10 @@
     "pt-br",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3fdf0e0f-5741-439c-b087-8891a8308741.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:19+00:00"
+ "updatedAt": "2021-07-18T06:28:19+00:00",
+ "coverFileName": "abb12c49-43aa-46f9-bff3-82ea8f7dfb74.png"
 }

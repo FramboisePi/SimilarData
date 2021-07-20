@@ -8,13 +8,14 @@
   {
    "id": "50115e6f-bff4-46dc-be3b-0743cdfdb500",
    "title": {
-    "en": "Queen's Blade - Hide \u0026 Seek"
+    "en": "Queen's Blade - Hide & Seek"
    },
    "contentRating": "suggestive",
    "score": 0.3406153,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31472e11-aeae-4456-a4a6-d298528ca33d.jpg"
   },
   {
    "id": "f121443c-b9f9-4e7a-ae3c-1a009bed5e62",
@@ -25,7 +26,8 @@
    "score": 0.33406478,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff648a3f-acf6-4c13-90fd-0668e649486b.jpg"
   },
   {
    "id": "1e52d6ac-ae67-4966-bd22-07151a594ea6",
@@ -38,7 +40,8 @@
     "es",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "1ba7388e-d559-4cfa-b72c-6cd50fd68b9a.jpg"
   },
   {
    "id": "7c5ba525-4888-4b80-8117-46fc7d9fe9ac",
@@ -49,18 +52,20 @@
    "score": 0.3234791,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d73fbe59-4d27-4f51-b380-d12ac68d2756.jpg"
   },
   {
    "id": "0b466aaa-d905-49ca-ab86-87acf757c252",
    "title": {
-    "en": "ω Labyrinth Dengeki Comic Anthology"
+    "en": "\u03c9 Labyrinth Dengeki Comic Anthology"
    },
    "contentRating": "suggestive",
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "727b985b-44d0-498a-96b7-407a0faf8dde.jpg"
   },
   {
    "id": "1494f314-ab51-4b40-9bae-c8e447726a1d",
@@ -71,7 +76,8 @@
    "score": 0.315919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "59bafbd4-15a4-42cc-98b2-0dafe50a48b5.jpg"
   },
   {
    "id": "94e58886-c425-408b-8114-8691cbdcb743",
@@ -82,7 +88,8 @@
    "score": 0.31185228,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d9acf27-c242-4d91-a691-2913cf34a7a7.jpg"
   },
   {
    "id": "4de9282d-dbfc-4aa5-9b73-1a36b2c4a566",
@@ -93,7 +100,8 @@
    "score": 0.3094061,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b400c248-0ac1-42ea-bbe4-1b1698a67fec.png"
   },
   {
    "id": "a2faddae-151f-4a48-8e0d-754f2f729008",
@@ -105,7 +113,8 @@
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "7a295297-c2dd-43f8-adbe-811b36e39167.png"
   },
   {
    "id": "1bc0428f-87c3-4cea-ba23-a065f367fe22",
@@ -116,7 +125,8 @@
    "score": 0.3035256,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f5ed8295-d38c-4e88-96ea-2a1afbfa07cd.jpg"
   },
   {
    "id": "1f0eea6e-7909-4ba2-8549-a699f206817c",
@@ -129,7 +139,8 @@
     "en",
     "ca",
     "fr"
-   ]
+   ],
+   "coverFileName": "2d167425-2b74-4af1-b785-6960c625d6de.jpg"
   },
   {
    "id": "8dd2f623-9d03-4f72-8849-c4208d659805",
@@ -140,8 +151,10 @@
    "score": 0.30175966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31672af3-399e-4040-9e4d-eef7a72ddfee.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:28+00:00"
+ "updatedAt": "2021-07-18T06:36:28+00:00",
+ "coverFileName": "7feda4e2-16a5-4312-8370-277a6719fbba.jpg"
 }

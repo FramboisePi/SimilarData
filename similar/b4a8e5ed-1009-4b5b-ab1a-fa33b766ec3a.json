@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "82c633b0-611e-4895-84e4-af06fcc8da17.jpg"
   },
   {
    "id": "3c48f4af-7d64-422c-8d04-e61de1676333",
@@ -28,7 +29,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "5083c390-bf4b-4011-b8d7-d28e4a25ad3d.jpg"
   },
   {
    "id": "7505fd0a-8ad7-4a51-a363-3fd5b08457d2",
@@ -41,7 +43,8 @@
     "tr",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "8fe83840-f149-4f2d-be9c-b70915dc2f3c.png"
   },
   {
    "id": "97b20185-5481-40c7-86b3-6d5a7e315d7f",
@@ -54,7 +57,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "24f44f7e-cb2f-45b3-8ed4-1df8f582e457.jpg"
   },
   {
    "id": "b757d730-1d01-4ab9-8909-c6a9b1f79a0c",
@@ -70,19 +74,21 @@
     "en",
     "es-la",
     "uk"
-   ]
+   ],
+   "coverFileName": "963ecc18-9601-45b7-b599-6d23c7f45da9.jpg"
   },
   {
    "id": "3ee094bc-be5b-484c-aa7c-6ce7cc8146bd",
    "title": {
-    "en": "Eisen Flügel"
+    "en": "Eisen Fl\u00fcgel"
    },
    "contentRating": "safe",
    "score": 0.32872203,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "06977c8b-38c0-421b-87fb-ccd9ecba2f0f.jpg"
   },
   {
    "id": "70f1cbbb-7ffc-4f38-9975-0ce9c60f0035",
@@ -95,7 +101,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "7efc1793-c330-4fc5-bea3-b30b5ebc9e2d.jpg"
   },
   {
    "id": "7b0ec2c9-5bbb-42d5-a426-f92cee63a69e",
@@ -107,7 +114,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f96e6362-f72e-4619-949c-bd9466f69abd.jpg"
   },
   {
    "id": "6a75e100-b8a6-4efc-8162-18461bb2ddef",
@@ -119,7 +127,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ce959fe8-d04c-4e8a-b2de-4ebee4946c5e.jpg"
   },
   {
    "id": "ef0f5191-c1ec-4b06-a063-d19708a4a50f",
@@ -133,7 +142,8 @@
     "es-la",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "59166a34-ec67-44c0-a89a-89b21731ff33.jpg"
   },
   {
    "id": "278e0e3b-eb2b-4095-83e8-b1590942398d",
@@ -145,7 +155,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e22b41a7-2cd4-485f-b2e1-f40e63f1ad18.jpg"
   },
   {
    "id": "2115ffb9-064c-43b4-8938-d8217c02d9e8",
@@ -159,8 +170,10 @@
     "ru",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "3ed665f1-5b92-427d-a05c-a3a5bdd13972.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:02+00:00"
+ "updatedAt": "2021-07-18T06:58:02+00:00",
+ "coverFileName": "a30df3eb-94dc-4d6e-b4c5-08835c491e61.jpg"
 }

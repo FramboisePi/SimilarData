@@ -8,14 +8,15 @@
   {
    "id": "68e7515a-e143-450f-8739-6d99bc08accb",
    "title": {
-    "en": "‘I Love You!’ Get It Across!"
+    "en": "\u2018I Love You!\u2019 Get It Across!"
    },
    "contentRating": "safe",
    "score": 0.3727064,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "355925eb-c823-45a3-9b14-a0970b4dccb9.png"
   },
   {
    "id": "86e7a702-e969-41ad-8b50-b99895d4961f",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "39501577-402b-4af6-a60f-87f51f185ea2.jpg"
   },
   {
    "id": "f62b6db1-8137-4ed3-b383-039269e56996",
@@ -38,7 +40,8 @@
    "score": 0.3727064,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eebf729b-5d7d-4f15-a232-df591830177a.jpg"
   },
   {
    "id": "1eecc1a2-929f-426d-b9ad-7fdfaed9912d",
@@ -49,7 +52,8 @@
    "score": 0.3727064,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c088f7fe-5ca4-4d1d-9c52-390f23348ed4.jpg"
   },
   {
    "id": "f36a2abd-6a17-41ab-81e5-385b3da6cae0",
@@ -61,7 +65,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ac1e8f67-50af-47a2-abf1-440c8e5abc4f.png"
   },
   {
    "id": "86e7afe8-da13-4f2b-b35a-bec15973de23",
@@ -72,18 +77,20 @@
    "score": 0.3363325,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22210728-1e93-4d2c-bec0-ea3c784710d6.jpg"
   },
   {
    "id": "fd42a589-7dda-43c8-9f93-caa1c4d1d099",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Melty Kiss (doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Melty Kiss (doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.33335873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ecc8c9fb-8e3f-4af6-ad08-e10fca83689f.jpg"
   },
   {
    "id": "6fa19d70-5d78-43e4-8411-c1844a3f5929",
@@ -95,7 +102,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "f1c372ba-eed8-4021-9b11-ab262567a79b.jpg"
   },
   {
    "id": "9b089d0a-2e27-4140-8b2e-65cef54401b0",
@@ -106,7 +114,8 @@
    "score": 0.33335873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9592ade2-0d04-436e-a753-4cc25c3a7264.jpg"
   },
   {
    "id": "92acddc1-8b10-4568-a12c-c72f60523afd",
@@ -117,7 +126,8 @@
    "score": 0.33335873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56366abb-a779-4ad4-a50b-e501425c47f6.png"
   },
   {
    "id": "8a4d7ae9-a4ab-494d-994e-81078f480811",
@@ -128,7 +138,8 @@
    "score": 0.33335873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50dade06-156e-406e-844f-881cb3d2e5cf.jpg"
   },
   {
    "id": "6d654c37-1d6d-45f9-b916-94a53ad3d66b",
@@ -139,8 +150,10 @@
    "score": 0.33335873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "799cb2e4-503c-4b79-bf66-53da950f148b.png"
   }
  ],
- "updatedAt": "2021-07-18T07:06:11+00:00"
+ "updatedAt": "2021-07-18T07:06:11+00:00",
+ "coverFileName": "5575d6d1-1472-470f-8149-67713bf82310.jpg"
 }

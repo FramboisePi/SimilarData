@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "e9f6b099-6fef-47a8-9e1a-b2579b56f0bd.jpg"
   },
   {
    "id": "bfd3d154-4544-4343-a690-fb4160bf986a",
@@ -29,7 +30,8 @@
     "en",
     "pl",
     "hu"
-   ]
+   ],
+   "coverFileName": "74b2ce3b-371e-4b44-8075-6b0c586fe5e6.jpg"
   },
   {
    "id": "1c239344-39f9-420e-9692-340932ff9195",
@@ -40,7 +42,8 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea7e97e8-d927-4d8f-b7cc-6621a7af4eb5.jpg"
   },
   {
    "id": "95429623-5a80-4ae4-9b61-2c6f3ae7e628",
@@ -51,7 +54,8 @@
    "score": 0.43877578,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cbdac327-e8e9-47b4-9d36-561e9f059c52.jpg"
   },
   {
    "id": "1c1dd76d-32ff-4a2d-b52a-0fd8cf7a262a",
@@ -63,7 +67,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "14925332-3ffa-4f2f-84e7-6ffcf491a6ad.jpg"
   },
   {
    "id": "6dac1111-1bed-48f9-9eaa-18a9dd611c77",
@@ -75,19 +80,21 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8b0f5de8-075a-4dcc-ab85-d194e7084831.png"
   },
   {
    "id": "5aa74836-e61a-4fd1-882b-b4362178bc70",
    "title": {
-    "en": "Papa★I Love You"
+    "en": "Papa\u2605I Love You"
    },
    "contentRating": "safe",
    "score": 0.42472586,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8936d5c3-7a29-48d7-8d03-cb1ca0495b81.jpg"
   },
   {
    "id": "293d8045-5827-4241-a546-11d2b8eee1dc",
@@ -98,7 +105,8 @@
    "score": 0.41841173,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec9260d0-6de5-4f01-808d-eafae59abe30.jpg"
   },
   {
    "id": "8cfb6113-99d3-4901-8f60-b5ed0b60acfc",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a3fe735f-dfa6-4f7c-86c1-32e9ebda18d5.jpg"
   },
   {
    "id": "c7800ec9-fd96-425e-9f27-1fa67639351d",
@@ -122,7 +131,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "1515f20e-e1a5-42e7-bdbd-3e02e8b2e87c.jpg"
   },
   {
    "id": "cb51656f-7133-407b-958a-83cbd5fefd23",
@@ -133,7 +143,8 @@
    "score": 0.3998355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b76dbcd9-9bd7-4125-8a31-12f715bd6c2f.jpg"
   },
   {
    "id": "54abaa64-b5f0-4936-a340-236ec7a93abe",
@@ -144,8 +155,10 @@
    "score": 0.39892566,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10c758fe-3213-4ed4-8205-b1ed752b8ce6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:22+00:00"
+ "updatedAt": "2021-07-18T07:02:22+00:00",
+ "coverFileName": "a5994ec3-48db-47b7-9d54-b9503c48b590.jpg"
 }

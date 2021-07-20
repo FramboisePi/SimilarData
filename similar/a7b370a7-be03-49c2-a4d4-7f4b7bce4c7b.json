@@ -1,7 +1,7 @@
 {
  "id": "a7b370a7-be03-49c2-a4d4-7f4b7bce4c7b",
  "title": {
-  "en": "Hokuto no Ken \u0026 Azumanga DaiOH - Azumanga Kennoh (Doujinshi)"
+  "en": "Hokuto no Ken & Azumanga DaiOH - Azumanga Kennoh (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.51616687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa6c0373-3a9f-46ba-b7ff-5d1636a64ac6.jpg"
   },
   {
    "id": "947690be-e9e5-4175-83c0-7d38af449fb8",
@@ -25,12 +26,13 @@
    "score": 0.43388787,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a46b54fd-68ac-4fc8-857c-e6c0f4b9d1f4.jpg"
   },
   {
    "id": "47d08a45-2dd0-4771-985a-0276572c2d19",
    "title": {
-    "en": "Hokuto no Ken \u0026 Chuunibyou demo Koi ga Shitai! - Kenpouka Demo Koi ga Shitai! (Doujinshi)"
+    "en": "Hokuto no Ken & Chuunibyou demo Koi ga Shitai! - Kenpouka Demo Koi ga Shitai! (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.41825688,
@@ -38,23 +40,25 @@
     "pl",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b86d9abd-9aa6-42ff-815e-1a972cc59d8f.jpg"
   },
   {
    "id": "1a4a9a81-1dd7-4688-886f-54002dfed273",
    "title": {
-    "en": "Hokuto no Ken \u0026 Suzumiya Haruhi - Suzumiya Haruoh no YOUtsu (Doujinshi)"
+    "en": "Hokuto no Ken & Suzumiya Haruhi - Suzumiya Haruoh no YOUtsu (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e2af53a-0d4d-4dbc-8418-9a000d973b72.jpg"
   },
   {
    "id": "8be4e41b-6dc6-4840-ae4a-bbe74d75086b",
    "title": {
-    "en": "Hokuto no Ken \u0026 Pocket Monsters - Pokémon Tougijou (Doujinshi)"
+    "en": "Hokuto no Ken & Pocket Monsters - Pok\u00e9mon Tougijou (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.40249223,
@@ -65,7 +69,8 @@
     "fr",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "eca950c5-e52d-475d-8b33-24897e826e7c.jpg"
   },
   {
    "id": "365ab5eb-34f2-4276-ab17-64ff0b17cde0",
@@ -76,7 +81,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6bb3bd17-c497-4fbe-b434-fc69c2c52e00.jpg"
   },
   {
    "id": "224e4616-6004-41de-9e5e-ed6219547e78",
@@ -87,7 +93,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "475aa03a-4d6c-4dab-b2fd-9c80932bc40a.jpg"
   },
   {
    "id": "781dff4e-9af1-4789-ab8d-cad564d67ca8",
@@ -98,7 +105,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23ca10f4-defc-4f8f-bfa5-d3c711de9ce0.jpg"
   },
   {
    "id": "621d5418-4e90-4f2a-b6cb-70e69ad8338b",
@@ -109,7 +117,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2f9b5402-00dc-49fa-8fad-dc2e5ef0b98c.jpg"
   },
   {
    "id": "ef1442fa-4d10-4992-b5af-b8ce3c565528",
@@ -120,18 +129,20 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0bc0c51-2c85-45fa-bcbb-623d769b3304.jpg"
   },
   {
    "id": "0082d63a-1b63-4d5b-8fc4-67c7a34ab773",
    "title": {
-    "en": "Touhou - The ⑨-Team (Doujinshi)"
+    "en": "Touhou - The \u2468-Team (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e547e69d-f09d-4c8e-ae3d-5488bd478c00.jpg"
   },
   {
    "id": "89f4150c-1c23-406c-a76c-a82dd3f55709",
@@ -143,8 +154,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "85722d09-c33d-4d3a-a8fd-165aff1f87da.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:38+00:00"
+ "updatedAt": "2021-07-18T06:55:38+00:00",
+ "coverFileName": "10761b72-dd9d-4f73-9fc0-9e3ef2a6fee1.jpg"
 }

@@ -1,25 +1,26 @@
 {
  "id": "bd91dbde-cd44-457e-978b-145e8a77dcb4",
  "title": {
-  "en": "Escape of the Duke’s Heartbroken Daughter"
+  "en": "Escape of the Duke\u2019s Heartbroken Daughter"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "5f56da4a-339f-4a28-83f2-f47d5081e001",
    "title": {
-    "en": "The Earl's Daughter Was Suddenly Employed as the Crown Prince's Fiancée"
+    "en": "The Earl's Daughter Was Suddenly Employed as the Crown Prince's Fianc\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.5776342,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39ca2f67-9c26-41ee-bda6-2b621fa3d79d.jpg"
   },
   {
    "id": "d8fc8d7f-25bb-4a78-8e41-f91988508092",
    "title": {
-    "en": "I Wouldn’t Date a Prince Even If You Asked!"
+    "en": "I Wouldn\u2019t Date a Prince Even If You Asked!"
    },
    "contentRating": "safe",
    "score": 0.5257448,
@@ -27,7 +28,8 @@
     "en",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "8ba47903-4461-48c8-8499-ccfc4690b1c9.jpg"
   },
   {
    "id": "2022a7a1-59fb-446b-a37c-8bb3fed9a632",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "d9cec654-4cb3-4618-a73a-b427436b2e5d.jpg"
   },
   {
    "id": "9c756e83-1032-4338-82ca-47ae9d7f999a",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ef45cfc6-2d7f-430e-895c-89314246eda4.jpg"
   },
   {
    "id": "01d3b5f5-1809-4b41-9184-69f33aa96f18",
@@ -63,7 +67,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e43769a8-0c54-4969-a221-26475244473a.jpg"
   },
   {
    "id": "c163b669-3a27-4bcf-943a-fd1eebebd4ec",
@@ -74,7 +79,8 @@
    "score": 0.47207093,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae108371-5453-409d-9c60-c232ff25e200.jpg"
   },
   {
    "id": "426f0648-3411-48f1-8ac9-c725e9110605",
@@ -87,7 +93,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92661c89-c07c-4cf7-a858-d08d4c482ad8.jpg"
   },
   {
    "id": "4c2112b6-348b-454d-b2a1-327d170a7ac4",
@@ -100,7 +107,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ab1b5b3f-8fb0-462b-b88e-c32b3b90e36f.jpg"
   },
   {
    "id": "1857b4ae-4ddf-45db-9296-f74c626a0e4c",
@@ -111,7 +119,8 @@
    "score": 0.44884506,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc0f74f0-8b8e-4b17-9d51-8bdcbf00b9f3.jpg"
   },
   {
    "id": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
@@ -122,7 +131,8 @@
    "score": 0.4478305,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1bb9f2e9-f208-4a05-8db1-17f42c666708.jpg"
   },
   {
    "id": "5c762221-7e9d-40bd-99a6-76a5a6a94d10",
@@ -134,7 +144,8 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "d57f2d6e-dec0-41f5-840c-769ae2676088.jpg"
   },
   {
    "id": "36ac51f2-c7ea-4d0b-8b96-8644ada092c9",
@@ -145,8 +156,10 @@
    "score": 0.43931285,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c04afec2-72d5-445c-9416-d3978cb7a125.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:40+00:00"
+ "updatedAt": "2021-07-18T06:59:40+00:00",
+ "coverFileName": "cb3a3d61-ba02-4ae0-98cd-33f6f60300a5.jpg"
 }

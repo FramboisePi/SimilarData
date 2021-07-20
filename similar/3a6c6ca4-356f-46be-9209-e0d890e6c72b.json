@@ -1,7 +1,7 @@
 {
  "id": "3a6c6ca4-356f-46be-9209-e0d890e6c72b",
  "title": {
-  "en": "Pieds mouillés"
+  "en": "Pieds mouill\u00e9s"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1cd2ce8f-5733-4655-9b95-8bc7fa5bbe96.png"
   },
   {
    "id": "fdae76c8-38c1-4ba6-a96b-daf8a5611d7d",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ec07b436-55e2-4760-860d-ea9e3c9b8959.jpg"
   },
   {
    "id": "c1389cb1-a8fb-4e17-b411-b5cb7daf7d61",
@@ -40,7 +42,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "fe5b0b07-faba-4f39-9610-c3a6ea484c8e.jpg"
   },
   {
    "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
@@ -56,7 +59,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "41b24ba0-2f64-44f7-9d07-2d087fafae11.jpg"
   },
   {
    "id": "e184bb10-6a2a-4541-9bbf-979b977dbb75",
@@ -68,7 +72,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "7cfd06e4-2c58-4e7d-9b13-e779425714cb.png"
   },
   {
    "id": "68262507-c506-4918-967a-25f1a8390dbb",
@@ -82,7 +87,8 @@
     "en",
     "it",
     "vi"
-   ]
+   ],
+   "coverFileName": "63b17758-d570-4c6c-a611-907b90b1e689.jpg"
   },
   {
    "id": "20a5847b-1279-4bc6-8665-ee9af2c9f03b",
@@ -96,7 +102,8 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "96289b16-f4c1-49a8-be66-0e2747cc6b79.jpg"
   },
   {
    "id": "420f304b-feac-40c3-880d-62cf22e89367",
@@ -112,7 +119,8 @@
     "tr",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "1b0b015e-f2a8-454b-8b7f-4e17c04c431d.jpg"
   },
   {
    "id": "50a4dbd0-c159-4b65-a28d-c47b0ef77709",
@@ -125,7 +133,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "64506254-a253-440b-955a-537445552802.jpg"
   },
   {
    "id": "a560ece4-24d5-429f-800b-ec794c2048f1",
@@ -138,7 +147,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f3547673-1433-4b0b-a881-cdb0b952a9c1.png"
   },
   {
    "id": "7ed4975a-6b39-4e3e-847a-664c6bdae582",
@@ -153,7 +163,8 @@
     "en",
     "fr",
     "th"
-   ]
+   ],
+   "coverFileName": "9754aa6b-a8d5-4a60-9b21-9132fb1b808b.jpg"
   },
   {
    "id": "0de39efd-86b2-4738-85ba-95c0ab402a0e",
@@ -165,8 +176,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "68c11127-b5f5-4dcd-b25b-992eccaadf0b.png"
   }
  ],
- "updatedAt": "2021-07-18T06:35:22+00:00"
+ "updatedAt": "2021-07-18T06:35:22+00:00",
+ "coverFileName": "3bbf4d60-1967-4a66-ae92-876569df4304.jpg"
 }

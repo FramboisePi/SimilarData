@@ -1,14 +1,14 @@
 {
  "id": "7b22b4b0-ca6a-4eab-bc78-33a144aaa9fa",
  "title": {
-  "en": "Fate/grand order comic à la carte plus showdown"
+  "en": "Fate/grand order comic \u00e0 la carte plus showdown"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "5fa08e64-ceee-41d9-b48e-39e848bedb82",
    "title": {
-    "en": "Arcana 09 - Transformation☆Personification"
+    "en": "Arcana 09 - Transformation\u2606Personification"
    },
    "contentRating": "safe",
    "score": 0.38971144,
@@ -17,7 +17,8 @@
     "hu",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0b4b7637-7f58-4027-9704-c5cd7f8568fb.jpg"
   },
   {
    "id": "badbd694-cde2-410f-b12d-45f3eadfea9c",
@@ -30,7 +31,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "1c30b1a2-62f6-4647-8167-d8293fed5d3b.jpg"
   },
   {
    "id": "7e1c6478-7e56-4f3d-90e7-51de3e25ad8c",
@@ -42,7 +44,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "82b9a517-a904-49b0-bb96-9d986b6e3ab9.jpg"
   },
   {
    "id": "f203c952-84f0-466d-aa68-9287448ec34b",
@@ -54,7 +57,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a44404a2-fd95-4305-9a22-696bbcc8e069.jpg"
   },
   {
    "id": "5667a8a0-ef39-4ad8-ba42-d2821df5ce8f",
@@ -67,7 +71,8 @@
     "en",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "81e1e00e-5d56-4831-a97a-29b500d574c6.jpg"
   },
   {
    "id": "3d464ea0-f4ce-40e4-a2f9-878631c9e84e",
@@ -78,7 +83,8 @@
    "score": 0.36742347,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ba7c127a-e1b3-4061-9d45-2a1e760987b3.jpg"
   },
   {
    "id": "f34f2b36-4a30-4ac9-bee1-630b3a37d7d9",
@@ -90,7 +96,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "24548f04-385a-4439-b763-5a78ee448083.jpg"
   },
   {
    "id": "26dcd966-82ea-4317-9074-7ec5730f1ea4",
@@ -101,7 +108,8 @@
    "score": 0.3485685,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "66f35ac0-73b6-4671-8738-4821bee9acd4.jpg"
   },
   {
    "id": "3ce2d473-dc22-4b93-8ad7-8b65bb466771",
@@ -119,7 +127,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "11987a46-cceb-474b-a099-ed7a890cd2c9.jpg"
   },
   {
    "id": "abaca089-38ec-4580-85f0-402205f225fc",
@@ -130,7 +139,8 @@
    "score": 0.3245984,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "42da5f14-a9a3-40ef-8c9f-edd23c321dcd.jpg"
   },
   {
    "id": "081e148a-218e-44af-bbbf-b8de0eefba2c",
@@ -143,20 +153,23 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "6a9ac707-eb8d-4cfb-96fb-0f62b7c8b579.jpg"
   },
   {
    "id": "a0fa04dd-604d-4374-b1fc-e5537a70069d",
    "title": {
-    "en": "Saint Seiya Ω"
+    "en": "Saint Seiya \u03a9"
    },
    "contentRating": "safe",
    "score": 0.31672245,
    "languages": [
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fdff538e-23cb-449f-a3ea-1c782c7c4ca3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:17+00:00"
+ "updatedAt": "2021-07-18T06:47:17+00:00",
+ "coverFileName": "7b24192c-3a75-4868-a14b-8755da0ef580.jpg"
 }

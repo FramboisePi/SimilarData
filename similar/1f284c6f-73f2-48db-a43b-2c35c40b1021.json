@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ef6f950e-027b-4238-adff-5ea076d3960a.jpg"
   },
   {
    "id": "b6e677ad-6d0e-4521-a9de-0da842e2ee5a",
@@ -28,7 +29,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "bc98c628-3bb2-4951-a748-84739230477a.jpg"
   },
   {
    "id": "b49fd121-19bf-4344-a8e1-d1be7ca04e08",
@@ -45,7 +47,8 @@
     "pt-br",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "a2b71cb7-fcbc-4848-a83b-515597fdcd3e.jpg"
   },
   {
    "id": "b3fd63a7-a226-403c-ad2c-4c0d1942d186",
@@ -62,7 +65,8 @@
     "tr",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8b7ee733-c764-4c78-a103-d0bfb1412fce.jpg"
   },
   {
    "id": "413d2279-f40f-4ba8-b35e-643431d8ad73",
@@ -76,7 +80,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "b0c15577-73b3-4e93-a53a-47adb3624a8d.jpg"
   },
   {
    "id": "d506f85f-f318-42bc-84fa-a651a3bae4e4",
@@ -88,7 +93,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "5c427c94-aee6-4bb2-b224-414e06b7dcc3.jpg"
   },
   {
    "id": "94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d",
@@ -103,12 +109,13 @@
     "pt-br",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "20224b67-4a90-4da8-b4f8-b532619f69d9.jpg"
   },
   {
    "id": "54dce902-6873-4033-8828-176fe5ce8f9f",
    "title": {
-    "en": "Save \u0026 Load no Dekiru Yadoya-san"
+    "en": "Save & Load no Dekiru Yadoya-san"
    },
    "contentRating": "suggestive",
    "score": 0.24196357,
@@ -118,7 +125,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a77f5e22-cc5c-423b-a607-33648263523b.jpg"
   },
   {
    "id": "125a4bc0-500b-4aaf-9299-e3aa44d0fd38",
@@ -130,7 +138,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5b513b55-b2a1-40ea-b187-f9248208771b.jpg"
   },
   {
    "id": "2cc32c16-fdd5-4325-898a-0e1ac9ddf4b4",
@@ -143,12 +152,13 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "277cc99d-eebd-487e-96af-73c966e0be39.jpg"
   },
   {
    "id": "6d02e579-b0db-4240-98e9-e68e458f8dfc",
    "title": {
-    "en": "Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou"
+    "en": "Ore no Ie ga Maryoku Spot datta Ken \u2013 Sundeiru dake de Sekai Saikyou"
    },
    "contentRating": "suggestive",
    "score": 0.23663573,
@@ -159,7 +169,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "db4d90c6-7f91-450e-97f0-08b587b8732a.jpg"
   },
   {
    "id": "96fe1639-b55c-4b0c-8bec-fd941260728e",
@@ -170,8 +181,10 @@
    "score": 0.22510672,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b49b4f7-09fc-4ece-91f9-af1add6ef9aa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:20+00:00"
+ "updatedAt": "2021-07-18T06:30:20+00:00",
+ "coverFileName": "ec3d2469-61b8-42bd-b870-e2336abff8b3.jpg"
 }

@@ -8,13 +8,14 @@
   {
    "id": "6f3543ca-873b-463f-9a1d-47bc261d274a",
    "title": {
-    "en": "Pocket Monsters RéBURST"
+    "en": "Pocket Monsters R\u00e9BURST"
    },
    "contentRating": "safe",
    "score": 0.5077177,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ba10aae-2f05-42ee-a240-9756b845ec26.png"
   },
   {
    "id": "c526840a-c803-4a5b-8ea1-9e85fea9298a",
@@ -25,7 +26,8 @@
    "score": 0.49719512,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c45323aa-5715-443a-b46c-da9345b61c6e.jpg"
   },
   {
    "id": "a9dd123c-6b19-4887-8960-817f4ec7dbdd",
@@ -38,7 +40,8 @@
     "en",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "a8008b21-1be6-4b84-8f41-890f6be78f5b.jpg"
   },
   {
    "id": "081e148a-218e-44af-bbbf-b8de0eefba2c",
@@ -51,7 +54,8 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "6a9ac707-eb8d-4cfb-96fb-0f62b7c8b579.jpg"
   },
   {
    "id": "3af202ab-de9f-402b-819c-f0597e608bf2",
@@ -62,7 +66,8 @@
    "score": 0.48403117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "493a0899-22ed-444a-8db7-4380e4922bdb.jpg"
   },
   {
    "id": "c94c22a2-49af-4e89-a11c-ea967fe9a382",
@@ -73,7 +78,8 @@
    "score": 0.48378217,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "430ea15a-ba21-4684-a4ca-7e7177ed7b12.jpg"
   },
   {
    "id": "49ae6f0a-a2b0-4cae-93c4-0d377a10163d",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "a60ef8e4-170b-4f8e-8c52-e0a8d58414aa.jpg"
   },
   {
    "id": "4f3ad467-b3af-4b46-bc9a-dac692cc255e",
@@ -96,7 +103,8 @@
    "score": 0.47966272,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "509234f5-c95c-498c-bc60-b804e387b00c.jpg"
   },
   {
    "id": "db3271a2-e4e1-4c6b-b17a-0107f15ae876",
@@ -109,7 +117,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9ab9d7fb-46b4-4bad-a26e-1e9828fc09b6.jpg"
   },
   {
    "id": "a373c624-cac2-48a2-b7aa-f49d99e3a219",
@@ -120,7 +129,8 @@
    "score": 0.47091764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da0a7794-d947-4f99-8728-eb868d42eaf3.jpg"
   },
   {
    "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
@@ -131,7 +141,8 @@
    "score": 0.4681083,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23765825-6baf-479d-b2cd-d6c0c37f1471.jpg"
   },
   {
    "id": "1d3900d5-0453-4c3c-9c99-37190ac10644",
@@ -143,8 +154,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ade3093b-6b48-425c-9dc2-e852e2bd2c98.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:53+00:00"
+ "updatedAt": "2021-07-18T06:47:53+00:00",
+ "coverFileName": "bfd0ca33-9988-417d-aa55-cf786e906c37.jpg"
 }

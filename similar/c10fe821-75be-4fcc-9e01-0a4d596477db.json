@@ -16,7 +16,8 @@
     "en",
     "pl",
     "ro"
-   ]
+   ],
+   "coverFileName": "9ba8045d-92e7-493c-aa9b-4493cb06e964.jpg"
   },
   {
    "id": "c3c32ff7-8c7b-4e08-8503-fa3b5a691d4a",
@@ -27,7 +28,8 @@
    "score": 0.4609856,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0dcd7800-1d27-4dfc-98a2-6f330df75746.jpg"
   },
   {
    "id": "2e6d5fd2-2b60-4590-b1d8-9aea673f3383",
@@ -39,7 +41,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ce7bdc08-bcc1-473c-b1b3-f5d2d91a54e6.jpg"
   },
   {
    "id": "5eeda7ba-bd6e-4f10-8c2d-0a70f5d68a6e",
@@ -52,7 +55,8 @@
     "en",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "9c875dfd-ab7e-4fbe-a1b5-0f009693975c.jpg"
   },
   {
    "id": "41f9c75a-36e0-4b4e-83bf-f92bb57591de",
@@ -64,7 +68,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "aa36fa1b-c709-4312-ad28-718d8430b7e4.jpg"
   },
   {
    "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
@@ -75,7 +80,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8defca33-86be-4f3b-ac34-648081b8255f.jpg"
   },
   {
    "id": "09b03732-cd52-4960-9a26-827219c5bb53",
@@ -86,7 +92,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d6409cf-8b20-4080-aa76-e633b18d16cd.jpg"
   },
   {
    "id": "16694e1a-a053-4407-83b4-3879aa58d634",
@@ -97,7 +104,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d087681-5869-4b4c-afb8-3a66e919256c.png"
   },
   {
    "id": "f5907d17-1c43-4486-a16f-fd480068237a",
@@ -108,18 +116,20 @@
    "score": 0.4258442,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eeb85afc-87aa-48f9-a873-6f65556fa3ea.jpg"
   },
   {
    "id": "f9fc84f7-d2ee-40d4-9a53-83d770acc8fe",
    "title": {
-    "en": "The Migratory Forest – A Collection of Walks"
+    "en": "The Migratory Forest \u2013 A Collection of Walks"
    },
    "contentRating": "safe",
    "score": 0.4251075,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e71110cb-5495-4706-9f65-85edf6a59a2c.jpg"
   },
   {
    "id": "06c77718-13c9-4b59-a0e4-59cc84c30187",
@@ -131,7 +141,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0d5b6dae-a276-49e9-affe-706e94490083.jpg"
   },
   {
    "id": "b69ac2ac-a439-4c13-bad5-ba27928f3bf5",
@@ -144,8 +155,10 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dc14925a-01a3-465c-b50a-3bd8873111c0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:17+00:00"
+ "updatedAt": "2021-07-18T07:00:17+00:00",
+ "coverFileName": "00e29394-c30e-4f0d-b011-298ce38e35b3.jpg"
 }

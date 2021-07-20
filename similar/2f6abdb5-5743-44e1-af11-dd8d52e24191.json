@@ -16,7 +16,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "08909056-63aa-4c9c-ba08-11339ea8049f.jpg"
   },
   {
    "id": "9a26c98f-ce6d-4809-b69e-d8e23924ec1c",
@@ -30,7 +31,8 @@
     "en",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "14378106-9d60-413b-aee2-58faa1798e33.jpg"
   },
   {
    "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
@@ -45,7 +47,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ece972fd-3406-4f16-8f83-681974865076.jpg"
   },
   {
    "id": "26657dd2-fa37-4fc0-a3f4-1feae4c571a2",
@@ -57,7 +60,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0413adde-3b38-4ad9-a09f-46fb94a5fe10.jpg"
   },
   {
    "id": "fcfb3ec9-147f-4d43-aaea-3a73f42c8318",
@@ -70,12 +74,13 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "0487d933-72db-4091-a775-a6654046c85a.jpg"
   },
   {
    "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
    "title": {
-    "en": "Ore wa Subete wo “Parry” Suru"
+    "en": "Ore wa Subete wo \u201cParry\u201d Suru"
    },
    "contentRating": "safe",
    "score": 0.42604625,
@@ -83,7 +88,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8b497b88-3a61-4b97-9d49-ff3671e156ec.jpg"
   },
   {
    "id": "0fa5dab2-250a-4f69-bd15-9ceea54176fa",
@@ -100,7 +106,8 @@
     "en",
     "zh-hk",
     "tr"
-   ]
+   ],
+   "coverFileName": "2ead88f8-711c-4b54-92ec-727193b2d8ea.jpg"
   },
   {
    "id": "45a4f34b-ed6e-49d2-9ba2-d60b471dcefe",
@@ -113,7 +120,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92c3e1a0-1c11-4f7c-8c32-6c5c9731a939.jpg"
   },
   {
    "id": "babc3f06-f618-487b-be06-c213ea75f489",
@@ -128,7 +136,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "b866ec74-3899-4b13-812a-05cdc80453d0.jpg"
   },
   {
    "id": "636933aa-976e-4455-8082-36751a554be0",
@@ -141,12 +150,13 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3edc6f77-20ff-4583-972f-644faec51eef.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.41191566,
@@ -159,7 +169,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
@@ -172,8 +183,10 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f5e8b9e-e8fd-472c-a990-819c2a1f371a.png"
   }
  ],
- "updatedAt": "2021-07-18T06:33:17+00:00"
+ "updatedAt": "2021-07-18T06:33:17+00:00",
+ "coverFileName": "16e1fe25-3f9f-494d-8f8b-2b058ac2c954.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "9f12ec69-d3bd-468b-ac2a-ec9d7ce80300.jpg"
   },
   {
    "id": "77b4152b-53b3-4a9e-992d-5754009f4a61",
@@ -26,7 +27,8 @@
    "score": 0.41703552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3674fbde-3a0f-4a00-8169-735b4497c03f.jpg"
   },
   {
    "id": "e2949aaa-1054-41c5-a727-30b4d7c9967d",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "7c5de08c-6221-46c4-b613-9ae715e9cbd9.jpg"
   },
   {
    "id": "62601b10-dfe8-47b2-b181-9a8fd121802f",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "2326db49-abf3-41b8-9d50-f8548b4aa3bf.jpg"
   },
   {
    "id": "9a32346c-00d4-4531-b656-8880367bf3d9",
@@ -61,7 +65,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a0683d5e-5ec6-40e9-b94f-6e7dfb1f8016.jpg"
   },
   {
    "id": "38109f1a-6b8c-49e9-a46f-8149967f4a3e",
@@ -75,7 +80,8 @@
     "es-la",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "c08fc2ad-0dd6-4955-bc32-b818ece00083.jpg"
   },
   {
    "id": "9175d86a-0646-41df-9ed7-97b8a36429ca",
@@ -86,7 +92,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "96ed97d1-7c8f-45fd-b13f-b73d2653721a.jpg"
   },
   {
    "id": "92701b20-044d-4795-b02e-f2b960639ce8",
@@ -98,7 +105,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "8fa5995d-581d-4536-9e70-f50127311b1f.jpg"
   },
   {
    "id": "65612868-e9a3-4e56-ab54-d72758b529e0",
@@ -109,7 +117,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee4d1b95-5ea5-4bc4-b45c-0addb109f3cd.jpg"
   },
   {
    "id": "92bbfcfe-a96a-409a-9b59-0573d7f27282",
@@ -120,19 +129,21 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e670e3f-f632-4d14-a840-3141d6513c7e.jpg"
   },
   {
    "id": "46852626-6b66-45c1-995d-0c5adf73cf47",
    "title": {
-    "en": "Deku \u0026 Bakugo: Rising"
+    "en": "Deku & Bakugo: Rising"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "caf04bfe-c251-42e4-b25c-ecee48e6cc5e.jpg"
   },
   {
    "id": "6513c799-aedc-445f-9218-5409928ad6f7",
@@ -143,8 +154,10 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b414d533-a3ef-4cd3-8ae9-bc60a36fba11.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:00+00:00"
+ "updatedAt": "2021-07-18T07:11:00+00:00",
+ "coverFileName": "80580839-9391-4049-bdaf-d7320de967a6.jpg"
 }

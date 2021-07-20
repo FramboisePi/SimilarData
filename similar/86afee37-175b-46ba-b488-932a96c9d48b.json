@@ -1,7 +1,7 @@
 {
  "id": "86afee37-175b-46ba-b488-932a96c9d48b",
  "title": {
-  "en": "Shirokuma Café"
+  "en": "Shirokuma Caf\u00e9"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.46285635,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31abc784-76c2-4c7f-a6e0-95a1d0057c41.jpg"
   },
   {
    "id": "42f11502-9df7-4125-a956-60ffc8fa84f4",
@@ -25,7 +26,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "518f0cb5-87d8-45de-b599-24c26e8b5c55.jpg"
   },
   {
    "id": "e1dbfa84-17d3-4cc7-b0bd-7659a6fa869e",
@@ -36,7 +38,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "273b4835-5555-40b9-8d57-08298f04bd7c.jpg"
   },
   {
    "id": "1bed82d5-7260-4e4d-a861-4d126f88d8bf",
@@ -47,7 +50,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e278ea2-899b-4e45-8a45-5fde183b7072.jpg"
   },
   {
    "id": "a0b8d5fe-e49c-4f43-a0b2-9ebeea920233",
@@ -58,7 +62,8 @@
    "score": 0.44523457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3851e71-d394-4216-b6d7-152f8535e569.jpg"
   },
   {
    "id": "cfd1a618-cb56-495e-a0aa-066c8c15c253",
@@ -69,7 +74,8 @@
    "score": 0.4114351,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae2fb084-f8b8-47a7-a7bd-d534e0161e9e.png"
   },
   {
    "id": "0536d3e3-670c-4b1e-b5ae-4c6dd9d83c96",
@@ -80,7 +86,8 @@
    "score": 0.38890874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd7159b9-04ec-4db9-a2e2-d0143b4c5136.jpg"
   },
   {
    "id": "5e39f490-a489-46ec-afbd-4af0eee72842",
@@ -91,7 +98,8 @@
    "score": 0.38890874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eee0afb8-34a4-4482-9b3b-2e4aecb0a0ba.jpg"
   },
   {
    "id": "a8a66a16-a771-44ae-9f86-92b08ca8e54d",
@@ -103,7 +111,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6e501e4f-2d40-47b6-b7a1-118fd1af3d32.jpg"
   },
   {
    "id": "f09f5515-dec7-434f-b38e-dc3bba107efb",
@@ -114,7 +123,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e49cef56-ba51-42e2-846c-f9849fe5eb10.jpg"
   },
   {
    "id": "3e9fefd8-d316-4e9c-9fb7-143814c04c17",
@@ -125,7 +135,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b128b36-c233-4d0c-87a4-69b814d683f4.jpg"
   },
   {
    "id": "f1889360-c765-4f2b-9ab4-d69c7e74e22f",
@@ -136,8 +147,10 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69e9b81f-2df2-40bc-9657-446cbaf89f72.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:29+00:00"
+ "updatedAt": "2021-07-18T06:49:29+00:00",
+ "coverFileName": "e6d95cb8-26e1-4e79-9863-4b723f4079f1.jpg"
 }

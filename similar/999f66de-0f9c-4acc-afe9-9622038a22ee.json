@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "0678fd27-5711-458f-94e1-b72b4c90611b.png"
   },
   {
    "id": "6af90f17-efbb-42b1-b959-f43ee07edb20",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "494ccd0b-a23b-4165-8875-4037cb3de5e4.jpg"
   },
   {
    "id": "d590e65a-c3c8-4fd2-a754-1d0c34cf0e91",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "8fcb4684-5da8-4d67-905e-243a66068445.jpg"
   },
   {
    "id": "73a9cba4-d556-45b9-b80e-0501246933b5",
@@ -50,7 +53,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab760735-af00-48dc-becd-d5354d6f75ca.jpg"
   },
   {
    "id": "8e1c8d4e-ef55-4a34-9c79-6358f7c01c3e",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "1ff7330d-0730-4cd7-9621-d2a67c7bc88c.jpg"
   },
   {
    "id": "d316df12-d178-4340-8516-66cb1fd9b795",
@@ -74,7 +79,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "eb758eeb-35d2-4ce8-8248-528ac63022dd.jpg"
   },
   {
    "id": "dbfb0976-c8d6-4ab1-a2a9-001542b04c29",
@@ -85,7 +91,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d50a6efa-09f2-4a63-98b9-609a878fa593.png"
   },
   {
    "id": "51a29af2-0fc8-4c78-9d4f-75ceedbca1d6",
@@ -96,7 +103,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0298b2c5-5210-4856-b6fa-fb1c18800f3c.jpg"
   },
   {
    "id": "b5a53d6b-c0f0-40b7-b5a6-f61a1ad2c5cb",
@@ -107,7 +115,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aced5dc0-1c81-4066-beb0-7428d7c09da0.jpg"
   },
   {
    "id": "29364c41-1d60-44dc-8247-2256ae63bc75",
@@ -118,18 +127,20 @@
    "score": 0.31383798,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28977631-d5bb-4145-a0c4-d1010637aa62.jpg"
   },
   {
    "id": "2de71485-9930-46bd-982e-cd4b1a8ff91c",
    "title": {
-    "en": "Burn-Up: Excess \u0026 W"
+    "en": "Burn-Up: Excess & W"
    },
    "contentRating": "suggestive",
    "score": 0.3,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9caee55f-10ca-4f39-b070-46b850486585.png"
   },
   {
    "id": "6b70f157-ff5a-45d7-bcbd-199c0ddc5ca8",
@@ -140,8 +151,10 @@
    "score": 0.3,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac82c7d5-eec0-456f-b257-c81531c50763.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:04+00:00"
+ "updatedAt": "2021-07-18T06:53:04+00:00",
+ "coverFileName": "3bb55c1e-5c37-4c8f-802e-50bb9d98cccd.jpg"
 }

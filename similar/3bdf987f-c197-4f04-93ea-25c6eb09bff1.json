@@ -1,21 +1,22 @@
 {
  "id": "3bdf987f-c197-4f04-93ea-25c6eb09bff1",
  "title": {
-  "en": "Punch ↑ x P.B.B."
+  "en": "Punch \u2191 x P.B.B."
  },
  "contentRating": "erotica",
  "matches": [
   {
    "id": "1979f339-def0-430f-965a-3dac67483c31",
    "title": {
-    "en": "Punch ↑"
+    "en": "Punch \u2191"
    },
    "contentRating": "erotica",
    "score": 0.5503789,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1e665c23-659e-42b8-b8d4-25d3cdefe79a.jpg"
   },
   {
    "id": "eb6c448c-619a-4b6c-8cd4-6e31da5541fa",
@@ -26,7 +27,8 @@
    "score": 0.53754914,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be0c123a-88ae-4bd5-9860-cfed1906f0cc.jpg"
   },
   {
    "id": "de2bfdef-d07a-4855-b5bc-a34aed675243",
@@ -39,7 +41,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "3cea3fb1-870e-4932-bf23-ca1fb56d3fed.jpg"
   },
   {
    "id": "545345f0-00c1-4f08-bf00-dc5d8aeb556b",
@@ -50,7 +53,8 @@
    "score": 0.46249205,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ecaf1b04-743e-408e-9f46-34a1cc7d4d02.png"
   },
   {
    "id": "97b485a7-9caa-432b-9b92-ec43918fc863",
@@ -61,7 +65,8 @@
    "score": 0.44767913,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29a8a229-a8d5-4b8f-befc-4241ca439559.jpg"
   },
   {
    "id": "90765684-dc04-4b63-b2c9-dc2b12485f33",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "dfb1899d-bb8e-4bdb-bbe2-ade30dd13c21.jpg"
   },
   {
    "id": "3d805bd3-5342-46df-98f8-ca3244c36a04",
@@ -84,7 +90,8 @@
    "score": 0.4090513,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c63de8c0-8cb3-43d0-ac72-db870678936a.jpg"
   },
   {
    "id": "b5896a61-0be1-4315-8569-6aef163f1faa",
@@ -95,7 +102,8 @@
    "score": 0.4075208,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c8eb74ca-ee43-4d6e-886b-872046554ebb.jpg"
   },
   {
    "id": "9daddaa6-df9d-49fe-9b4f-f0edb5befccd",
@@ -106,7 +114,8 @@
    "score": 0.40190172,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d5577e8-3d0b-43fc-aaa1-d1ad6235277b.jpg"
   },
   {
    "id": "1c631434-b7d9-4370-83f0-b715fb8461a0",
@@ -117,7 +126,8 @@
    "score": 0.3998355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e77c3fb-bd8a-45c5-9634-f6d926e15106.jpg"
   },
   {
    "id": "e0d0b8b5-375a-4e82-893c-6d9cf40cac64",
@@ -128,7 +138,8 @@
    "score": 0.3998355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b8f82981-5df5-4ec6-9b11-aece40e39248.jpg"
   },
   {
    "id": "8ff28331-8296-4f4e-94e1-f51ec80cce6c",
@@ -140,8 +151,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "bdd376a9-3b2f-4187-b39c-049004c4eeaf.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:37+00:00"
+ "updatedAt": "2021-07-18T06:35:37+00:00",
+ "coverFileName": "ec31fbe1-a8d1-4fda-9b4c-96b0df0ac655.jpg"
 }

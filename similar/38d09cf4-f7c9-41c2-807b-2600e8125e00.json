@@ -1,7 +1,7 @@
 {
  "id": "38d09cf4-f7c9-41c2-807b-2600e8125e00",
  "title": {
-  "en": "Kimetsu no Yaiba - Kanao →Tanjirou (Doujinshi)"
+  "en": "Kimetsu no Yaiba - Kanao \u2192Tanjirou (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "vi",
     "es-la",
     "zh"
-   ]
+   ],
+   "coverFileName": "56376216-7c94-4a7f-9140-ddf32364d48d.png"
   },
   {
    "id": "07fbc3ff-5063-46ba-88fa-1523577c9338",
@@ -31,7 +32,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "aacd8399-8e0d-48ff-9e4a-2c3c0bcbf185.png"
   },
   {
    "id": "bdf87086-cb52-4fb4-a694-6dd0ea2f17bb",
@@ -42,7 +44,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "00d3031f-3e54-4612-93f4-6fa91d926ee2.jpg"
   },
   {
    "id": "fa2ab678-6f72-460a-8545-e3da763f46bc",
@@ -53,7 +56,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24f1a4b4-bea9-4257-8ccd-5476b573dd08.png"
   },
   {
    "id": "ef3b3d04-1136-4d88-b0fe-5f952f27348b",
@@ -66,7 +70,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "555f6965-b337-4cd8-8d6c-53b82db15cef.png"
   },
   {
    "id": "79040a02-ff09-4736-b8bd-fd9e99b21e8f",
@@ -77,7 +82,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d8d8502f-d79c-4d8f-9022-4855f135e51b.jpg"
   },
   {
    "id": "7879eba1-4ad9-4c01-a6b9-1c6d7b55418d",
@@ -93,7 +99,8 @@
     "pt",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "8055e627-1752-42c2-9316-a416ceaea1d6.jpg"
   },
   {
    "id": "5605f8cf-a9a4-44e6-b717-1914eee41dbd",
@@ -105,7 +112,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c98e1e4e-75cf-4a1c-a933-1d876a1341a0.jpg"
   },
   {
    "id": "1555ebef-189e-4d12-b2fe-17d68195e01d",
@@ -121,7 +129,8 @@
     "it",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "98315230-c09d-4475-87d2-819d1ba92997.jpg"
   },
   {
    "id": "f1b7cc89-85aa-4650-9c01-c452d8da02b7",
@@ -132,7 +141,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "33da0f81-4b2b-40ea-9de5-e74d7ea29d57.jpg"
   },
   {
    "id": "c6d07a79-5db4-4873-8805-ac157141a245",
@@ -143,7 +153,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8fa830b6-bcab-499e-90bd-3c42c9971523.jpg"
   },
   {
    "id": "cc6965cd-9416-4adf-b50e-ad004f67dfe4",
@@ -161,8 +172,10 @@
     "pt-br",
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "3fc3d98c-e3d5-40d6-b6e7-5ef9fe0f5377.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:02+00:00"
+ "updatedAt": "2021-07-18T06:35:02+00:00",
+ "coverFileName": "108f770d-7a24-44ca-8032-b9895041a8ae.png"
 }

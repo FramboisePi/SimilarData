@@ -1,7 +1,7 @@
 {
  "id": "d8b55050-314a-4b06-8a3a-a37180512edf",
  "title": {
-  "en": "Dragon Ball: Ossu! Kaette Kita Son Gokū to Nakama-tachi!!"
+  "en": "Dragon Ball: Ossu! Kaette Kita Son Gok\u016b to Nakama-tachi!!"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "b78bf55a-c5b4-4d3b-8a0f-af0239757389.jpg"
   },
   {
    "id": "c3be71c6-014a-4bca-ba10-5137ffed90a3",
@@ -26,7 +27,8 @@
    "score": 0.53608406,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "623e9275-6f9e-498d-9233-afac7ef314e5.jpg"
   },
   {
    "id": "8dc1675c-fc40-48d9-b776-ca1ac5e66fc1",
@@ -39,7 +41,8 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3d33ce21-4ba7-407b-98cb-9d71c65f6e1c.jpg"
   },
   {
    "id": "e0bf46fe-740c-4897-94a1-6cba23f49433",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e505eb0d-13be-45e2-a0f9-aab18868eff7.jpg"
   },
   {
    "id": "ba4e50be-4e54-435d-8908-8b65f3db4cfa",
@@ -63,7 +67,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "3543843a-a120-44f5-aebc-52bb60bbc149.jpg"
   },
   {
    "id": "f7255405-4e85-467b-83b7-3144189c14ec",
@@ -75,7 +80,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b135a8de-5b79-43b9-ada3-ddcb059bb0be.jpg"
   },
   {
    "id": "0176936e-eda3-4ba5-9de1-9a74d8048f24",
@@ -86,7 +92,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bae8f807-98c3-4ae4-bf1c-d0bfec469515.jpg"
   },
   {
    "id": "976322f5-4f8a-4617-b850-c054b710ff24",
@@ -97,7 +104,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2630f4a3-5d4d-4288-b25f-ca52d5d55303.jpg"
   },
   {
    "id": "4e03d445-02ca-4322-8027-7326ec118e73",
@@ -110,7 +118,8 @@
     "ru",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "21040746-6a23-4fa3-8766-32132e8167c6.jpg"
   },
   {
    "id": "8e23ce64-92af-435f-a6f7-3ebf3ce802d2",
@@ -123,7 +132,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6ec4ceb1-5256-4568-9a07-1b5315c3121a.jpg"
   },
   {
    "id": "b34fd04a-eadb-4462-8d97-94980083ed25",
@@ -136,7 +146,8 @@
     "pl",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b56cb74c-af0b-44cf-a149-0d312ae22890.jpg"
   },
   {
    "id": "bf5312c1-e5db-4b4e-b822-9c133ea96f4a",
@@ -148,8 +159,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d03b0473-bbec-4b8a-82cb-191bda14981e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:39+00:00"
+ "updatedAt": "2021-07-18T07:04:39+00:00",
+ "coverFileName": "b71c91ab-b4e7-4621-8532-af04718ca06a.jpg"
 }

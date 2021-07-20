@@ -8,13 +8,14 @@
   {
    "id": "5e5ad0a9-2827-431e-a09b-7699c9ab69d2",
    "title": {
-    "en": "A Cool Idol’s Private Account Uncovered"
+    "en": "A Cool Idol\u2019s Private Account Uncovered"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24419f59-56ce-4020-8a13-82918b89d51b.jpg"
   },
   {
    "id": "31890a01-7957-4c8d-b82b-e06ca6f04383",
@@ -25,7 +26,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e0f4a6c-9bbd-4681-9a87-20e7dff04bb9.png"
   },
   {
    "id": "41369134-bab1-469b-9822-52d50013b816",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8d76d9bc-44aa-4704-a9a7-2a2928de23ea.jpg"
   },
   {
    "id": "a939331f-aed8-43cb-b766-6717bf44dd26",
@@ -48,7 +51,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4adf140-73b0-406f-ab2e-11673c0f4aeb.jpg"
   },
   {
    "id": "bacf834a-7b1a-4071-bd93-b803edcaad6d",
@@ -60,7 +64,8 @@
    "languages": [
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "7e1777ff-8d25-400e-9537-398f046529c3.jpg"
   },
   {
    "id": "58cd7075-f139-4a1e-96cd-1b29280cb28f",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8813fa38-9a7c-43e9-a24f-158eda76a423.jpg"
   },
   {
    "id": "b23c9bb1-870e-483d-a496-0c55021c1bed",
@@ -89,7 +95,8 @@
     "id",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "65616b89-09fa-4312-8938-3e79b81e874c.jpg"
   },
   {
    "id": "787e365d-7254-4509-820a-b63cc44331a9",
@@ -101,7 +108,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "2db45733-1ed6-4675-8d74-4a36f154a086.jpg"
   },
   {
    "id": "5ee61241-4ac2-4168-b425-4cdcd63f2c7c",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "ja"
-   ]
+   ],
+   "coverFileName": "280801cc-21bf-4256-b6d9-d0d3de62f810.jpg"
   },
   {
    "id": "700ca48a-57fc-46ce-8a1f-c35d56c4dd71",
@@ -124,7 +133,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38551a25-f31a-4863-b7c5-99d27d9f7e75.jpg"
   },
   {
    "id": "23f10779-468b-47bf-9940-c3bb95d63199",
@@ -135,7 +145,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d19d87e0-3072-4de4-b240-9cbf1b9dbf7d.png"
   },
   {
    "id": "ba6b128b-6acd-49c5-995b-1d2c2b826ef6",
@@ -147,8 +158,10 @@
    "languages": [
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "b65dee67-44f9-49c7-acfa-8389c290253d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:23+00:00"
+ "updatedAt": "2021-07-18T06:32:23+00:00",
+ "coverFileName": "c1e538a5-5762-4b87-9fc2-6e3e6012e00f.jpg"
 }

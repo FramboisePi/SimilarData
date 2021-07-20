@@ -1,7 +1,7 @@
 {
  "id": "44ffd2b4-cffd-4e08-94b4-5e9b348f3650",
  "title": {
-  "en": "Twinkle Loop☆Story"
+  "en": "Twinkle Loop\u2606Story"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "be753106-51f2-454e-a3c4-eca1a00efedb.jpg"
   },
   {
    "id": "5f78f0b5-d807-47c7-ae08-dc0cb91484c8",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1a8bf3f8-127d-46fd-9ba0-800d290c3fa9.jpg"
   },
   {
    "id": "9e3948ae-49ca-4c73-96ba-6c3f8fa49000",
@@ -39,7 +41,8 @@
    "score": 0.46236354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16d85dce-22a3-472f-b1a1-957e59912dd6.jpg"
   },
   {
    "id": "5e2dc4f4-e31b-4c34-a799-3601f1548778",
@@ -50,7 +53,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52739f11-3d3a-4f24-bc52-26cd0f99068f.jpg"
   },
   {
    "id": "b40ce67d-5470-459d-90ea-c4b09903b995",
@@ -61,7 +65,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32a54e91-fc48-4758-935a-95b6d9230865.jpg"
   },
   {
    "id": "e655a7d2-fd95-4183-8bb5-f0095eaaa492",
@@ -72,7 +77,8 @@
    "score": 0.44826022,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f64bc0d7-6c7c-419f-b799-4a1f439988ae.jpg"
   },
   {
    "id": "7e17da9b-6a00-48af-a637-ad0029c97098",
@@ -83,7 +89,8 @@
    "score": 0.42372343,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e346ce51-e667-4c84-b4ba-a8c0d71ce4d8.jpg"
   },
   {
    "id": "3773301c-f0e8-4fdc-9b71-3846b802dcde",
@@ -94,7 +101,8 @@
    "score": 0.42239332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5a1bfe35-ed1d-4376-a4c4-c0302a1ce7be.jpg"
   },
   {
    "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
@@ -105,7 +113,8 @@
    "score": 0.421956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a45168f2-a70b-48c2-9b12-8768f16dbecb.jpg"
   },
   {
    "id": "6dafaa93-8e9c-498e-918b-36036a27efa7",
@@ -117,7 +126,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "dc8e1b47-81de-4a0c-9a4b-899bf8ed36f1.jpg"
   },
   {
    "id": "3e1f12de-d97d-4baa-b701-0987ab2e1bb3",
@@ -128,7 +138,8 @@
    "score": 0.41967416,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "54297f82-9d43-43bb-869c-dd84d475bb1f.jpg"
   },
   {
    "id": "347d14d4-bc3d-4734-b6ee-67ce74ada5b8",
@@ -139,8 +150,10 @@
    "score": 0.4129199,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "935ad2f1-4e98-4c50-ad4c-169b11dbdcd3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:20+00:00"
+ "updatedAt": "2021-07-18T06:37:20+00:00",
+ "coverFileName": "03e6b93d-e25c-4f9c-a810-a280f77fec60.jpg"
 }

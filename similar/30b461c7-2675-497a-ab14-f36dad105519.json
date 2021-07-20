@@ -1,7 +1,7 @@
 {
  "id": "30b461c7-2675-497a-ab14-f36dad105519",
  "title": {
-  "en": "2nd Period Health \u0026 PE"
+  "en": "2nd Period Health & PE"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.5865704,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ba14289-5531-463c-8a5f-e21d6646b894.jpg"
   },
   {
    "id": "e5d839cc-963e-4856-a6bd-f3552e4c0d3a",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3c6124ca-adaf-400f-9f62-67f216e90f66.png"
   },
   {
    "id": "61e87d66-7950-430e-944a-9334e379b09a",
@@ -40,18 +42,20 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "64690a23-d6c3-412c-8b50-2e350d6b09e2.jpg"
   },
   {
    "id": "ef9981e1-6f2f-46bc-937d-0ac282e3a57b",
    "title": {
-    "en": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C³ Bu VS Anime Tenchou"
+    "en": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C\u00b3 Bu VS Anime Tenchou"
    },
    "contentRating": "safe",
    "score": 0.4085348,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "156e677a-25ae-499b-9454-a67fd2629698.jpg"
   },
   {
    "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
@@ -63,7 +67,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "54370e4e-e78a-4f7e-ab43-34b31d8173cc.jpg"
   },
   {
    "id": "67047cf9-9624-4b9d-903e-c82f4f58f973",
@@ -76,7 +81,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "476dcc89-e4a6-40c8-8a36-ca67fad8a923.jpg"
   },
   {
    "id": "29bf265f-cf22-4be8-8bad-28b36f191d50",
@@ -87,7 +93,8 @@
    "score": 0.408181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "acf8291d-43b4-4c26-9083-f2f389cbb3a5.jpg"
   },
   {
    "id": "b943adeb-a17f-41e1-8c4f-6b7c2af1e846",
@@ -99,7 +106,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9040f091-2dfa-4cef-8509-92ec8b206dcb.jpg"
   },
   {
    "id": "f91db61f-5a94-4fe3-bf7e-ea541942ad12",
@@ -110,7 +118,8 @@
    "score": 0.408181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa7dee47-6e92-4435-b1d0-e1cbb6fb3516.jpg"
   },
   {
    "id": "2da15c49-61bc-4b9e-938a-fba26fc45c67",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "773ca5f5-a2f5-474e-855f-32a0eeed6786.jpg"
   },
   {
    "id": "33a103ce-d6c4-4da8-af5a-42f80ae4fe41",
@@ -136,7 +146,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b46d6e64-ff9f-4e95-937d-15891c2f514a.jpg"
   },
   {
    "id": "965ee142-a6fd-4d61-a0ce-9b6e7ca882ba",
@@ -147,8 +158,10 @@
    "score": 0.408181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "61514657-63b2-446d-8508-f78a8b9952b5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:31+00:00"
+ "updatedAt": "2021-07-18T06:33:31+00:00",
+ "coverFileName": "f0be7b59-7994-44ce-a5cf-2272b3ee5fd5.png"
 }

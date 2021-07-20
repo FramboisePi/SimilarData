@@ -8,14 +8,15 @@
   {
    "id": "34d2b318-999d-42d2-aee7-10a12c80eb5e",
    "title": {
-    "en": "Pokémon Diamond and Pearl: Regigigas"
+    "en": "Pok\u00e9mon Diamond and Pearl: Regigigas"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cab2289c-01c8-4d25-9fec-d4126ea548a1.jpg"
   },
   {
    "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
@@ -27,7 +28,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4942638d-7438-43ea-8aff-482cdea4e4d0.jpg"
   },
   {
    "id": "4a9fd1f5-cf4c-4bc6-b2fe-953a6a796d06",
@@ -38,7 +40,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c3f7882-cf3b-4553-b804-0a972e60df4b.jpg"
   },
   {
    "id": "2a197071-3453-4de2-9599-a513c21260c4",
@@ -49,18 +52,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d576c44-1099-438f-8aed-071154febd82.png"
   },
   {
    "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
    "title": {
-    "en": "Bear Hunter — Fubuki-gō"
+    "en": "Bear Hunter \u2014 Fubuki-g\u014d"
    },
    "contentRating": "safe",
    "score": 0.42734188,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16e09ce8-4dc6-4656-8c2d-677c39d811a8.png"
   },
   {
    "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
@@ -73,7 +78,8 @@
     "en",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "b2fb6c53-40d2-491f-8161-ac4ad8978b04.jpg"
   },
   {
    "id": "206bdb87-3163-4510-9f4d-5a9fa6421d73",
@@ -84,7 +90,8 @@
    "score": 0.39361364,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e189615-9e04-4573-a919-ee4a06ca02ed.jpg"
   },
   {
    "id": "fcb5111f-be88-4f5a-b456-22135f3eda49",
@@ -98,7 +105,8 @@
     "en",
     "ru",
     "ca"
-   ]
+   ],
+   "coverFileName": "5919a775-29dc-42b9-b3dd-8bee6fa83414.jpg"
   },
   {
    "id": "cc52d4fd-dafd-45b0-bb98-3eff8bdd6836",
@@ -109,7 +117,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45d8679e-5444-4989-8a2f-5132a9d6c4d8.png"
   },
   {
    "id": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
@@ -125,7 +134,8 @@
     "it",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "3c3921b0-8c25-44e0-b776-64eeffb9bb36.jpg"
   },
   {
    "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
@@ -138,7 +148,8 @@
     "en",
     "ca",
     "it"
-   ]
+   ],
+   "coverFileName": "b2385195-2397-473e-ac1f-235f0958dc1d.jpg"
   },
   {
    "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
@@ -149,8 +160,10 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91a2f797-0b77-403d-b520-8d9f2e0f3beb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:27+00:00"
+ "updatedAt": "2021-07-18T07:04:27+00:00",
+ "coverFileName": "9a26858b-f8e8-4349-81e1-61463b2c9d1b.png"
 }

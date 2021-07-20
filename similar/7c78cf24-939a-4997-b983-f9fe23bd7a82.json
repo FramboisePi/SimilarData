@@ -18,7 +18,8 @@
     "hu",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d9467163-118e-437c-8d9b-894c0a329331.jpg"
   },
   {
    "id": "d3c3e7fd-4456-42b4-86fc-166184832277",
@@ -32,7 +33,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "a8f29344-4bbe-48c8-a1d3-c0d957b0a80e.jpg"
   },
   {
    "id": "3080a5e2-abc1-4682-92f5-7429428bc198",
@@ -49,7 +51,8 @@
     "tr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "9d9fa54b-4cff-4d5f-93de-a7390a571aae.png"
   },
   {
    "id": "e78ffac1-6f8b-43f9-bf75-3ed938e9ed03",
@@ -62,7 +65,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "98c4235f-9524-46bb-b29f-9473817d3f31.jpg"
   },
   {
    "id": "0f13d05a-dacf-43ff-93ca-165523e55a46",
@@ -78,18 +82,20 @@
     "it",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "dca251b4-b20a-4dc1-9c2b-5c146d8c050f.png"
   },
   {
    "id": "1e7fb2db-b5cc-4d4d-a492-57d40d491204",
    "title": {
-    "en": "Rot \u0026 Ruin"
+    "en": "Rot & Ruin"
    },
    "contentRating": "safe",
    "score": 0.28614017,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "2871d64d-3225-4ef1-a5ad-a225c4a30caa.jpg"
   },
   {
    "id": "0b25b09c-1ee8-49a4-b863-78beef1c98ea",
@@ -102,7 +108,8 @@
     "id",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "bc1154c9-013c-4d94-8aac-b73a08922879.jpg"
   },
   {
    "id": "392b28bc-ee22-4218-bb7b-adb631dc6a5c",
@@ -114,7 +121,8 @@
    "languages": [
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "5a0164eb-b78e-4e7c-a534-d208d396de7c.jpg"
   },
   {
    "id": "b4faf821-d2d3-4bdd-a58c-9e0ae87731b6",
@@ -127,7 +135,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "f7ef0921-1220-4487-a0bd-8422f9fb6e97.png"
   },
   {
    "id": "5cffd9cc-2c96-4099-9d2a-e20238d0d500",
@@ -144,7 +153,8 @@
     "pt-br",
     "id",
     "de"
-   ]
+   ],
+   "coverFileName": "b2818e0b-fc1d-49fc-aa17-76434effbb06.jpg"
   },
   {
    "id": "65610a37-fcf7-4749-a981-4ec2ac335d22",
@@ -157,7 +167,8 @@
     "ar",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "81d35a2f-5f85-4778-a2c7-b051d01ad571.jpg"
   },
   {
    "id": "0c4fc52c-a093-464d-937d-f245c70ee530",
@@ -169,8 +180,10 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ce3836ac-7c44-44c3-ae2c-4808776ef446.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:35+00:00"
+ "updatedAt": "2021-07-18T06:47:35+00:00",
+ "coverFileName": "3b115a06-b694-4ef4-8e0f-ec4f1409006f.jpg"
 }

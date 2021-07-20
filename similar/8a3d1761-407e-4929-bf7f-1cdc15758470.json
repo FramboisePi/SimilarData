@@ -16,7 +16,8 @@
     "it",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "24a89aec-cc63-45ba-89bb-639f0706ccf5.png"
   },
   {
    "id": "2ab11b28-0203-47cc-8a78-1edf6bd5a3ae",
@@ -39,7 +40,8 @@
     "he",
     "pl",
     "th"
-   ]
+   ],
+   "coverFileName": "b36cb3f9-7fe8-4181-a15d-bc65537fb971.jpg"
   },
   {
    "id": "bd1c17ac-919b-40e7-82a4-57e00cb6fd01",
@@ -53,7 +55,8 @@
     "it",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b1e6341c-6c12-4e34-9a05-eb7bca2af915.jpg"
   },
   {
    "id": "ab5a8b56-af2e-458a-822a-4722c1d0b123",
@@ -64,7 +67,8 @@
    "score": 0.46083075,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "434b5c11-0b27-4586-adad-593e6f85082c.jpg"
   },
   {
    "id": "5362dd4e-e178-4bdc-b56a-5eb9b6cda90c",
@@ -75,7 +79,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04af88f2-cda2-400e-b870-697c2adc3853.jpg"
   },
   {
    "id": "20c7867b-790b-42fb-b2da-b55b90f30fab",
@@ -86,7 +91,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6def0397-22bd-4dc7-8423-b51fa158106d.jpg"
   },
   {
    "id": "b293c820-3cbf-4115-be3e-a55b8ee9bff3",
@@ -97,7 +103,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6267490-2d31-45c6-989a-94547821bcf9.jpg"
   },
   {
    "id": "0a2fecf1-d816-407d-b041-8e1c42277ffb",
@@ -109,7 +116,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "56319a8b-26b4-448f-b7bf-2881ca39c80c.jpg"
   },
   {
    "id": "558c2122-7342-4649-85e9-a866727bb2e8",
@@ -125,7 +133,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cbe549cf-e55d-4330-9b14-2f1f21974cdb.jpg"
   },
   {
    "id": "09ffee50-f5ad-4997-86a6-ac797b94b3e4",
@@ -139,18 +148,20 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a4fc9aa3-d6bc-402f-8c30-dc98d3cff317.jpg"
   },
   {
    "id": "82213ce1-5d4c-4357-98cf-cbd33a148522",
    "title": {
-    "en": "Juhou Kaikin!! Hyde \u0026 Closer"
+    "en": "Juhou Kaikin!! Hyde & Closer"
    },
    "contentRating": "safe",
    "score": 0.4244383,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0dae541-0e2b-4700-8b6e-f0111d63ba98.jpg"
   },
   {
    "id": "1b53e5a1-9213-4f8f-94d5-1877ca5a5cd1",
@@ -161,8 +172,10 @@
    "score": 0.42424825,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e0c2246-ebf5-45f7-8ef7-8071fc258ab5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:11+00:00"
+ "updatedAt": "2021-07-18T06:50:11+00:00",
+ "coverFileName": "83b11e5a-4ec7-4302-80e7-d4da33bdfc37.jpg"
 }

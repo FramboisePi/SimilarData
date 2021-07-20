@@ -16,7 +16,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "0dba5399-974e-4717-8050-92a021a80785.jpg"
   },
   {
    "id": "41edb570-19d6-4f01-86ef-081dbcbc1b2e",
@@ -31,7 +32,8 @@
     "pt-br",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5eb6bead-2eee-49e6-8df1-bb4a0a3bd31e.jpg"
   },
   {
    "id": "87d16991-715f-4a8a-b096-d1f933891ffd",
@@ -44,7 +46,8 @@
     "fr",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "03c1823b-7a2e-4c35-af5f-45035856340f.jpg"
   },
   {
    "id": "e1cb49f7-935b-4cb6-b575-ebd8e90e4566",
@@ -57,7 +60,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "98336c31-b6fd-4bf7-83d5-3fc8af79e6f0.jpg"
   },
   {
    "id": "6c9814ca-7512-432c-a7e0-6177aec2e610",
@@ -68,7 +72,8 @@
    "score": 0.3787129,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8044c94d-78c4-4f36-b825-0f10b97b90d3.jpg"
   },
   {
    "id": "8b5c31a3-9ca8-4284-ac7f-6ed30cd3e504",
@@ -79,7 +84,8 @@
    "score": 0.3748297,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a65002ac-0a4d-440d-9363-d76644f7c10a.jpg"
   },
   {
    "id": "5c3e27c4-2ff1-4b66-968e-8b813653192e",
@@ -94,7 +100,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "be82941f-a9d1-4bc9-8612-2c05a4a5637a.jpg"
   },
   {
    "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
@@ -114,7 +121,8 @@
     "fr",
     "vi",
     "ar"
-   ]
+   ],
+   "coverFileName": "d5b67cf3-f614-4754-b785-6b5d231c535b.jpg"
   },
   {
    "id": "8e67e13e-fdeb-44f5-8ecb-c4609df6b02c",
@@ -128,19 +136,21 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5eb40d31-f81e-463d-a046-570109496794.jpg"
   },
   {
    "id": "8b387e46-23ac-4b48-aaea-30462ce81098",
    "title": {
-    "en": "Have a Coffee After School, In Another World’s Café"
+    "en": "Have a Coffee After School, In Another World\u2019s Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.35305658,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3bd56be3-fe74-4234-8bf8-6cd3717aa77f.jpg"
   },
   {
    "id": "42e8facc-00b0-4eff-bb8e-f01af83c6c0b",
@@ -151,7 +161,8 @@
    "score": 0.35270515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea2e3e13-e925-4ade-a485-58938783d505.jpg"
   },
   {
    "id": "9ed8c4a9-aa21-48ba-9389-359c984ae2d2",
@@ -164,8 +175,10 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ecac3007-c0e6-4042-add2-0080f454e024.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:57+00:00"
+ "updatedAt": "2021-07-18T06:40:57+00:00",
+ "coverFileName": "c1ab1c6a-b77f-49cd-9c27-f9e26e19e872.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.40031117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c9d5128-955c-4989-ac98-0f630bbc6038.png"
   },
   {
    "id": "be956a5c-3d6d-4ca9-b518-6f1dccf6a6cb",
@@ -25,7 +26,8 @@
    "score": 0.3868652,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "361f6813-d8fd-4a6d-a329-104164d858a2.png"
   },
   {
    "id": "03730769-f30b-4133-b2e2-afb1b4985f4a",
@@ -39,7 +41,8 @@
     "ru",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fd7b6ca3-e238-40ed-a812-5a0645eb28fe.jpg"
   },
   {
    "id": "0177dc79-c099-4e57-a229-aaf36d880f34",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d3c4c125-5a11-45a9-a209-24ef3066770c.png"
   },
   {
    "id": "dfa29246-675f-481f-9870-392d2fb23ba0",
@@ -62,7 +66,8 @@
    "score": 0.33003187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "13ea0464-8564-4bc5-a33b-45498aa30e93.jpg"
   },
   {
    "id": "d3c3e7fd-4456-42b4-86fc-166184832277",
@@ -76,7 +81,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "a8f29344-4bbe-48c8-a1d3-c0d957b0a80e.jpg"
   },
   {
    "id": "43a154ef-783f-49ab-b5b2-aea594b03760",
@@ -91,7 +97,8 @@
     "hu",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d9467163-118e-437c-8d9b-894c0a329331.jpg"
   },
   {
    "id": "8b16ea4a-30a7-43c6-8833-3e12d3e56329",
@@ -102,7 +109,8 @@
    "score": 0.28857842,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4803a888-37e2-4a70-b32a-e6338aac0023.jpg"
   },
   {
    "id": "f48398c1-264f-4b42-82b8-9bb979cf8a7b",
@@ -115,7 +123,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "68555da8-8bc8-4a53-908d-1b7ffe6d2f80.jpg"
   },
   {
    "id": "ab949b43-aa6a-4448-a60f-1fa957f2a1ce",
@@ -129,19 +138,21 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "72e51cd5-ac42-4b9a-95e1-e7d9074ba2f5.jpg"
   },
   {
    "id": "f1517c9d-2191-4533-898a-e92618e88d2e",
    "title": {
-    "en": "Game of Doppelgänger"
+    "en": "Game of Doppelg\u00e4nger"
    },
    "contentRating": "safe",
    "score": 0.273555,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "2b63756a-2f32-41b9-8da7-66f63b0a4751.jpg"
   },
   {
    "id": "58b1465a-182b-47fa-b78f-f2887d5f7346",
@@ -152,8 +163,10 @@
    "score": 0.2691236,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94df09ae-d0db-4500-95bc-1eace5440b8f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:27:35+00:00"
+ "updatedAt": "2021-07-18T06:27:35+00:00",
+ "coverFileName": "9ea701e4-4dab-49a3-aea3-c44b1910648f.jpg"
 }

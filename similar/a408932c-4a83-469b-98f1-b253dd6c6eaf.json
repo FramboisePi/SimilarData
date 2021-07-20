@@ -8,14 +8,15 @@
   {
    "id": "2454e858-70ab-4383-b7d0-6d4df49cbb9a",
    "title": {
-    "en": "Ikoku Meiro no Croisée"
+    "en": "Ikoku Meiro no Crois\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.62203133,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0bd96932-8b32-430a-bd90-ec550d99e0b1.jpg"
   },
   {
    "id": "413d6683-5e0b-4168-83fc-008f35ec2288",
@@ -27,7 +28,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "a1481935-187e-43d0-852d-b1136f4e8698.jpg"
   },
   {
    "id": "26162a41-fab0-4b5f-b435-708dcf3bbb9c",
@@ -38,7 +40,8 @@
    "score": 0.40130156,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "197c26e7-0308-4365-8295-1f218c858e37.jpg"
   },
   {
    "id": "c948484d-7c1f-413e-afc2-94de8a920b1d",
@@ -49,7 +52,8 @@
    "score": 0.39101866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d7d14a6-8d12-43a5-8af6-77ae96b6925a.jpg"
   },
   {
    "id": "38777055-6792-401d-a7c2-98dc49d21641",
@@ -62,7 +66,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "b52a8651-6b31-450e-a6a5-926821c61e4e.jpg"
   },
   {
    "id": "1e1c034e-64df-4ad7-a715-8c59a2a410d6",
@@ -73,7 +78,8 @@
    "score": 0.3889768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "210da498-c42b-44ea-bf7e-441fbf898e4a.jpg"
   },
   {
    "id": "e242133d-3fef-4d68-a3cc-fbb198170863",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "uk"
-   ]
+   ],
+   "coverFileName": "9425bcf2-64f6-47df-8c25-9f94391ee036.png"
   },
   {
    "id": "fbcd7f77-64c1-4844-a0e1-83ddbfccd1c2",
@@ -96,7 +103,8 @@
    "score": 0.37164548,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e7adeea-c7d9-45f9-8333-216b482dfd7b.jpg"
   },
   {
    "id": "bb0e8341-3b05-42b3-8bd4-0754b88c24ee",
@@ -109,7 +117,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3839738b-dcd0-447a-8210-df3b06cac0e4.jpg"
   },
   {
    "id": "d39b22a8-13ab-486f-bb44-0da2a1b02de3",
@@ -120,7 +129,8 @@
    "score": 0.35875845,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aa1cd5c7-0900-49ab-8650-99586f56399f.jpg"
   },
   {
    "id": "bd2dd893-6bbc-4d6c-8c06-921318ef9ac0",
@@ -135,7 +145,8 @@
     "id",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8e0428b0-ba09-412d-976a-f18c73396c28.jpg"
   },
   {
    "id": "ccf36f5b-006d-4ac6-8978-8ba4db182e22",
@@ -147,8 +158,10 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "f3aab7ce-0b8a-43d2-a584-87ac793d18d8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:54:58+00:00"
+ "updatedAt": "2021-07-18T06:54:58+00:00",
+ "coverFileName": "110f7c45-b978-4694-b013-398b7531a7e6.png"
 }

@@ -16,7 +16,8 @@
     "en",
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "c5336f29-85ac-4ebc-9c3c-41197cc89ae1.jpg"
   },
   {
    "id": "11ace508-aa11-4bef-86dc-654dab3b585b",
@@ -37,7 +38,8 @@
     "hi",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "0d2ca45e-284e-4722-9327-9b2194d65f44.png"
   },
   {
    "id": "f59ec379-06c5-41b5-94b5-70d9d76a00d1",
@@ -49,7 +51,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f1774176-f51d-4b7b-8de9-f885c1f9fa63.jpg"
   },
   {
    "id": "e8d7f941-ea6a-47d3-9ef8-a2bf857f578c",
@@ -60,7 +63,8 @@
    "score": 0.29098454,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3562b026-62f9-4fc8-a0e7-846becdd89d3.png"
   },
   {
    "id": "48f48046-191d-4c6c-8118-d672419e5dae",
@@ -73,18 +77,20 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "f3b23652-8230-4e14-821e-8a1a6992b7e2.jpg"
   },
   {
    "id": "79188eb0-6927-4f27-9ca8-dbc1d2858fd0",
    "title": {
-    "en": "La clé de la cage"
+    "en": "La cl\u00e9 de la cage"
    },
    "contentRating": "safe",
    "score": 0.28174457,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "0d5f5821-17ad-4351-ac5c-4a7913921677.jpg"
   },
   {
    "id": "85e4956e-2c6b-472f-83ec-ca7a184d7b68",
@@ -96,7 +102,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "01f288e0-8549-442b-8d2a-5ab8a1e37e63.png"
   },
   {
    "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
@@ -111,7 +118,8 @@
     "hu",
     "pl",
     "fa"
-   ]
+   ],
+   "coverFileName": "71d7146e-c71e-4967-b534-79f70ba076d0.png"
   },
   {
    "id": "f1e1b66e-4b36-446b-a9f4-de71637aada8",
@@ -122,7 +130,8 @@
    "score": 0.27616942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "26b86886-24aa-41a9-ac01-9933a5fb00d5.png"
   },
   {
    "id": "639f847b-1e80-4009-9146-ab78e70eb565",
@@ -136,7 +145,8 @@
     "tr",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "990bc4b9-5fed-4c72-97ca-488cf78f4144.jpg"
   },
   {
    "id": "50271b50-fd34-4d77-9f6e-3396ae04b7a6",
@@ -147,7 +157,8 @@
    "score": 0.26723585,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f52be0f-4780-4e67-83bb-de7d19b1659a.png"
   },
   {
    "id": "8c7e9a02-b6de-4fe8-b604-e9b7fb3a19fd",
@@ -158,8 +169,10 @@
    "score": 0.25625795,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d157e986-090e-4374-8e23-2ae2d1cb46e9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:12+00:00"
+ "updatedAt": "2021-07-18T06:42:12+00:00",
+ "coverFileName": "f48f8536-8186-4be7-a639-f136931033b8.png"
 }

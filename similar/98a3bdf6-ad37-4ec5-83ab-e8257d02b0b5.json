@@ -18,7 +18,8 @@
     "it",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "ab95f387-1d7f-4189-ad02-17a8001828b1.jpg"
   },
   {
    "id": "b15632d7-88d0-4233-9815-c01e75cabda8",
@@ -33,7 +34,8 @@
     "en",
     "pt-br",
     "ar"
-   ]
+   ],
+   "coverFileName": "970e953a-351c-4d8a-a83d-e2c162e50255.jpg"
   },
   {
    "id": "a464f3f8-16da-4844-8bbd-f6770bbd0a01",
@@ -44,7 +46,8 @@
    "score": 0.42111772,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e28753c3-676a-4a37-84dd-f89a16d69fda.jpg"
   },
   {
    "id": "8ae4d0f6-152a-4956-8664-4405758d26ae",
@@ -60,7 +63,8 @@
     "ru",
     "zh",
     "id"
-   ]
+   ],
+   "coverFileName": "317141fa-31be-4550-ab35-a0a7417d1d1b.jpg"
   },
   {
    "id": "dbe15246-3721-450c-9c91-cebcb6f6f15b",
@@ -71,7 +75,8 @@
    "score": 0.4121457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "804c4100-ecf1-441c-b6a2-5e451497ab3a.png"
   },
   {
    "id": "4539cb6c-762a-42d3-9cfd-847dff6f2101",
@@ -83,7 +88,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "abd841ee-eb46-4a01-8b5c-93489129ba9c.jpg"
   },
   {
    "id": "46562115-2e80-4e41-8a0b-42f1d59c1cde",
@@ -94,12 +100,13 @@
    "score": 0.4121457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b876702-16e4-415d-8c17-e6d066343d81.jpg"
   },
   {
    "id": "7f0a4f30-d434-4a22-8aae-3998897c9c20",
    "title": {
-    "en": "Migi \u0026 Dali"
+    "en": "Migi & Dali"
    },
    "contentRating": "safe",
    "score": 0.4121457,
@@ -107,7 +114,8 @@
     "en",
     "zh-hk",
     "it"
-   ]
+   ],
+   "coverFileName": "53b57c7f-f70f-43ba-8d10-3cfa70301317.jpg"
   },
   {
    "id": "40f32f24-ba52-41f1-b9fb-4a2be9f74a5b",
@@ -119,7 +127,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "4673dc08-9d6a-4237-a77d-98acf13e90e4.jpg"
   },
   {
    "id": "8325137c-32bf-464c-b716-b4c9b17c0002",
@@ -132,7 +141,8 @@
     "pt-br",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "ea208cc3-ab57-4f86-b34b-886f854a91b9.jpg"
   },
   {
    "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
@@ -144,7 +154,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c7e97f6a-2dc1-49d7-8b70-696940a71578.jpg"
   },
   {
    "id": "5d3b7c48-3d36-4a30-9879-5ce2d7d8c671",
@@ -156,8 +167,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8eb3770e-9d46-4ed7-a243-fc3feafd35c3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:53+00:00"
+ "updatedAt": "2021-07-18T06:52:53+00:00",
+ "coverFileName": "2815e35d-6afd-44aa-a8ee-128a87172300.jpg"
 }

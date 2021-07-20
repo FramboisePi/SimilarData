@@ -8,14 +8,15 @@
   {
    "id": "a785d9d8-2563-4a16-b61d-c4c62251f6fd",
    "title": {
-    "en": "Are ← Nochi Kareshi"
+    "en": "Are \u2190 Nochi Kareshi"
    },
    "contentRating": "safe",
    "score": 0.46786726,
    "languages": [
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "b8c34aae-7a2a-4427-8722-4d32002e2aaa.jpg"
   },
   {
    "id": "b8b657a6-fd1d-4124-930e-cb020ac63fba",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6030482e-084f-4710-9387-cd327d846787.jpg"
   },
   {
    "id": "88706864-a794-4528-b9a8-b0f27a4326dd",
@@ -40,7 +42,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "79a82bee-ea94-4011-99f1-2fd2995fe9fe.jpg"
   },
   {
    "id": "c6f7fdb5-8b9c-4f07-a895-474837001744",
@@ -53,7 +56,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "53b3f192-645c-4b64-873b-50964aef7aa2.jpg"
   },
   {
    "id": "043fb287-26b7-4089-87e8-5d72e8ea6c8f",
@@ -65,7 +69,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a24979bf-c573-4fc4-92d2-07b8f4d6989f.png"
   },
   {
    "id": "89e9cf30-7cef-485f-89af-99ea0b86b8ec",
@@ -77,7 +82,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "611e2d6c-9af6-4e77-82d3-8d03d66cd9a5.png"
   },
   {
    "id": "7d080778-75c5-4b5b-a66e-b9e6a776daa7",
@@ -89,7 +95,8 @@
    "languages": [
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "da4005c7-430c-4095-9335-cf678fb97c9f.jpg"
   },
   {
    "id": "e96064cb-0f58-40ae-a19c-d70deca1fa77",
@@ -101,7 +108,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d44de7fa-6408-4035-a4b3-828ce590a483.jpg"
   },
   {
    "id": "e6eab668-0407-47e4-a052-aa55cf2bdf18",
@@ -113,7 +121,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "121a7a7e-c71c-4295-bae2-8e320b1fe229.jpg"
   },
   {
    "id": "a8fa64e3-1760-42bd-a015-1e0ac0bee3c9",
@@ -124,7 +133,8 @@
    "score": 0.44078353,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "f228bc78-3166-43dc-b1c3-d87fbb332e50.jpg"
   },
   {
    "id": "797d60d1-2a28-4c6c-91ca-882168431a38",
@@ -136,7 +146,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "77015f02-4d7a-4db3-8394-fecbb6408ccc.jpg"
   },
   {
    "id": "476d3294-31e0-4f1c-b071-bdc5d818dd32",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "338ded15-848e-4595-beae-3be95c2912c4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:03+00:00"
+ "updatedAt": "2021-07-18T06:41:03+00:00",
+ "coverFileName": "6ec15c42-a3b0-4811-8d34-c91706d1c988.jpg"
 }

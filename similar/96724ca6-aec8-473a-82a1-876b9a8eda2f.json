@@ -1,7 +1,7 @@
 {
  "id": "96724ca6-aec8-473a-82a1-876b9a8eda2f",
  "title": {
-  "en": "When I Woke Up, Twenty Years Passed! ~The Villainous Daughter’s Afterlife~"
+  "en": "When I Woke Up, Twenty Years Passed! ~The Villainous Daughter\u2019s Afterlife~"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e31a08c9-8a17-4809-8619-056afc5c903a.jpg"
   },
   {
    "id": "896a437a-6f12-4728-a6c7-2961b1e300c6",
@@ -28,7 +29,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "dfe61cb9-7947-47e6-92e9-aad5c2c9ee51.jpg"
   },
   {
    "id": "773e5993-821a-4cea-8b44-f4450112a8f5",
@@ -44,7 +46,8 @@
     "es-la",
     "th",
     "ru"
-   ]
+   ],
+   "coverFileName": "6cb24a58-383d-4c36-8730-5807b9b11a21.jpg"
   },
   {
    "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
@@ -55,7 +58,8 @@
    "score": 0.44288376,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b05efa20-3408-4f72-b0ea-33f0e57d5561.jpg"
   },
   {
    "id": "5c762221-7e9d-40bd-99a6-76a5a6a94d10",
@@ -67,7 +71,8 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "d57f2d6e-dec0-41f5-840c-769ae2676088.jpg"
   },
   {
    "id": "4e3da75b-1deb-41ff-9f5d-ef26f15efa11",
@@ -81,7 +86,8 @@
     "id",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "429553df-7f86-4f98-943b-ab8a6e15810c.jpg"
   },
   {
    "id": "6f3408d0-645d-4515-ade1-fccf4e2da04f",
@@ -93,7 +99,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "177bd604-bd04-4545-8dc8-cee36ad31b17.jpg"
   },
   {
    "id": "3521c5e8-a737-43a3-97b6-c25d2f23d24e",
@@ -104,7 +111,8 @@
    "score": 0.41793922,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb1d0e15-b0c1-4796-bcab-125c158f8847.jpg"
   },
   {
    "id": "1857b4ae-4ddf-45db-9296-f74c626a0e4c",
@@ -115,7 +123,8 @@
    "score": 0.41186005,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc0f74f0-8b8e-4b17-9d51-8bdcbf00b9f3.jpg"
   },
   {
    "id": "265500fb-380c-46ec-ab14-81d61f5bbe2c",
@@ -128,7 +137,8 @@
     "id",
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "047764be-293a-4975-9a8d-5a5bced2ae76.jpg"
   },
   {
    "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
@@ -139,7 +149,8 @@
    "score": 0.40983495,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6441aea1-b9bf-457d-b84a-ebbcff99f3f0.jpg"
   },
   {
    "id": "8848b6bd-dfae-4fec-8bc4-8a130394c9a1",
@@ -152,8 +163,10 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "e1a36ca1-266d-41a4-86e1-f430dd246dee.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:30+00:00"
+ "updatedAt": "2021-07-18T06:52:30+00:00",
+ "coverFileName": "5f91c6f7-166f-45ef-a7bf-3d7738917c01.jpg"
 }

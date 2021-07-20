@@ -14,7 +14,8 @@
    "score": 0.5141806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "426a9538-e406-414e-bf80-3174dcdd8120.jpg"
   },
   {
    "id": "5478b614-8fff-494a-ba31-64ccc68114e3",
@@ -25,7 +26,8 @@
    "score": 0.5101547,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d545e67-688c-4fa6-b1c9-27b637f5f82c.png"
   },
   {
    "id": "dd4c96d3-d69c-4fca-8296-60dcbca27cb5",
@@ -39,7 +41,8 @@
     "fr",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "e100228d-295c-42d5-a7fa-c8df2a6e1b3b.png"
   },
   {
    "id": "0d48e200-916b-4449-91a4-918ee2fab5f3",
@@ -53,7 +56,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "88856054-1e14-4534-b764-e24d7711419b.jpg"
   },
   {
    "id": "00f9a938-2f38-44b8-896b-aea6ce49da2c",
@@ -64,7 +68,8 @@
    "score": 0.4740137,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29719f93-4ae5-43ab-afb6-9d04ae0beeba.jpg"
   },
   {
    "id": "bd0e9a8f-5993-4935-a66f-f698c6814809",
@@ -77,7 +82,8 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ddbce89a-b6a6-4fc5-972f-6979dda2257e.jpg"
   },
   {
    "id": "d09d840b-8bb8-467d-a87d-2f9654b017b9",
@@ -88,19 +94,21 @@
    "score": 0.44643292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ac3527c-bb5d-4337-b769-685bd463795a.jpg"
   },
   {
    "id": "bd2e1fa1-8538-4c42-bb7a-e23edacc30f4",
    "title": {
-    "en": "Peach \u0026 Musk"
+    "en": "Peach & Musk"
    },
    "contentRating": "safe",
    "score": 0.43977365,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "40627748-3e32-48b5-a8a5-f708e4b6c2bb.png"
   },
   {
    "id": "01d06d0c-68d5-4975-9b22-06900a1c13e7",
@@ -112,7 +120,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f16c09c1-f59f-4e0f-92bc-759a03a3f6b6.png"
   },
   {
    "id": "083e15cf-f800-4dac-99ac-3a75e5db72ee",
@@ -124,7 +133,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "e4d4f08b-479b-44a3-946c-c229a175a437.jpg"
   },
   {
    "id": "6646d4d5-a22c-4605-871c-41db69195902",
@@ -136,7 +146,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "8f912723-926d-4d4b-9068-9b821727690d.jpg"
   },
   {
    "id": "925c5d41-7cef-48eb-b2fa-5766dee846a6",
@@ -148,8 +159,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "bc1017a1-94e4-4f72-b054-ecc8034bfeea.png"
   }
  ],
- "updatedAt": "2021-07-18T07:11:03+00:00"
+ "updatedAt": "2021-07-18T07:11:03+00:00",
+ "coverFileName": "8ba250a9-3f1f-4b89-9926-f04065e2c5b8.jpg"
 }

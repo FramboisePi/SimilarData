@@ -1,7 +1,7 @@
 {
  "id": "8b61fe01-6818-41ca-9df0-ad85792cee9b",
  "title": {
-  "en": "Lady \u0026 Oldman"
+  "en": "Lady & Oldman"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e40c9887-fa99-4690-8adf-3237448c4318.jpg"
   },
   {
    "id": "e0029e2e-62e4-4bfc-8342-2110591812a5",
@@ -26,7 +27,8 @@
    "score": 0.36781043,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5894565d-0014-4d7f-9837-46fd3d748868.jpg"
   },
   {
    "id": "0bd1bde1-0975-4308-ba12-aea13dba5dd0",
@@ -37,7 +39,8 @@
    "score": 0.3628087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6474380-a26b-4293-a1b7-dbbe567f8a22.png"
   },
   {
    "id": "96bfa6c4-23c2-4a1f-afb2-e1a6b85da65b",
@@ -51,7 +54,8 @@
     "ru",
     "tr",
     "it"
-   ]
+   ],
+   "coverFileName": "c991b332-15aa-47b8-980b-c454e2f41e10.jpg"
   },
   {
    "id": "482d6268-21dd-4e5d-9c7a-ef5817c4742c",
@@ -62,7 +66,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9611439d-b379-4c93-b033-bac5cf5854bf.jpg"
   },
   {
    "id": "ee9e9071-93c6-45fc-a31b-406e11fcf3d8",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "764c745a-2c34-4327-b75d-f9976f282cb5.jpg"
   },
   {
    "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
@@ -85,7 +91,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "99117ecb-706b-4f9e-815e-072e1302d232.jpg"
   },
   {
    "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c7e97f6a-2dc1-49d7-8b70-696940a71578.jpg"
   },
   {
    "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
@@ -112,18 +120,20 @@
     "id",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "d3b2f604-0627-4d60-9f5a-f4df77b40db3.jpg"
   },
   {
    "id": "128c4bf0-4bae-4554-a41f-da474c0341ed",
    "title": {
-    "en": "Nein ～9th Story～"
+    "en": "Nein \uff5e9th Story\uff5e"
    },
    "contentRating": "safe",
    "score": 0.34444112,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bc8b7aa-04d5-4c67-a995-0eba14b63a45.jpg"
   },
   {
    "id": "cd8d860b-de2d-408f-ab98-701369ce55e2",
@@ -134,7 +144,8 @@
    "score": 0.34038597,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7263b31b-1009-40eb-a9f6-bc5c81c868ad.jpg"
   },
   {
    "id": "cffdc4f4-0cd9-409b-b88c-62aaf2882e07",
@@ -148,8 +159,10 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bf79fae6-20eb-42bd-b139-809b835b8e72.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:25+00:00"
+ "updatedAt": "2021-07-18T06:50:25+00:00",
+ "coverFileName": "6603f201-ce95-4395-907c-eb308792d769.jpg"
 }

@@ -16,7 +16,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "467c41fe-1b38-421f-97da-11d71d88418a.jpg"
   },
   {
    "id": "c5422fa5-6d79-432e-ba66-9540a6f5ff6c",
@@ -33,7 +34,8 @@
     "pt-br",
     "en",
     "he"
-   ]
+   ],
+   "coverFileName": "8bf09dfd-9905-46d8-92f8-6e78e137b44c.jpg"
   },
   {
    "id": "b90f2953-d492-44cd-aee4-a7e4ab357b45",
@@ -45,7 +47,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d561a9d2-786c-4a58-9762-791ad4283fe1.jpg"
   },
   {
    "id": "6439c33f-1f77-4aef-ac54-b3632bb17d0f",
@@ -59,7 +62,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "e9996db8-71c5-46da-8f9d-421b3379be28.png"
   },
   {
    "id": "618f543e-f561-42d7-a5ae-274429ca46cf",
@@ -71,7 +75,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "fa32565f-df21-4073-99c2-ce0e7880889e.png"
   },
   {
    "id": "3b3fd6eb-b46d-4ba7-a57e-67e1899b206d",
@@ -87,7 +92,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "846bf2ac-5611-4913-9fcc-c79219e74717.png"
   },
   {
    "id": "c1eaf6e9-6091-43d4-b368-4b09b1544640",
@@ -100,19 +106,21 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "75ef837e-9c3e-44a7-97bf-fdb1eefd5ed6.jpg"
   },
   {
    "id": "928a9445-3211-41ab-a53d-922fcdae4366",
    "title": {
-    "en": "Fairy’s Armament"
+    "en": "Fairy\u2019s Armament"
    },
    "contentRating": "safe",
    "score": 0.39375,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "55c43cfa-abc7-4d5c-881a-70b1115071ec.jpg"
   },
   {
    "id": "cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
@@ -127,7 +135,8 @@
     "es-la",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "a64c01f2-de63-4cb1-9352-0b419a26762d.jpg"
   },
   {
    "id": "9e4ab6ae-f730-4ce2-a528-97986beb8549",
@@ -140,7 +149,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cca3a586-ea05-497c-b899-966bbde92c36.png"
   },
   {
    "id": "3cdd2eeb-087e-4e30-86cf-c04ec65b60cc",
@@ -153,7 +163,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5c917514-9de5-408f-86f2-c6423aa4401e.jpg"
   },
   {
    "id": "69e218ec-93eb-4025-ae39-33d47b1160e0",
@@ -170,8 +181,10 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "b60fd7d0-d3b0-492b-8542-f22d2a9f2205.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:21+00:00"
+ "updatedAt": "2021-07-18T06:41:21+00:00",
+ "coverFileName": "eb89cc2f-b0e5-4b9c-a79b-2a24c873e9b8.png"
 }

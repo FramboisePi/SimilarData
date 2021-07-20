@@ -1,7 +1,7 @@
 {
  "id": "f9d5f882-8b00-4c14-8ff7-9925237d7606",
  "title": {
-  "en": "Aikatsu! Manga \u0026 12 Seiza Uranai"
+  "en": "Aikatsu! Manga & 12 Seiza Uranai"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.31310377,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0550db06-ac18-4622-91b7-cbf8ad1193ca.jpg"
   },
   {
    "id": "46430ceb-3162-4bce-8b7f-8f38865b68a6",
@@ -27,7 +28,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "fd4b0ce8-5dc8-4185-96cd-5459e22b6fb1.jpg"
   },
   {
    "id": "a4a86e4f-02ef-4eec-b8ae-daae69a5f76a",
@@ -38,7 +40,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7df546ff-1793-424a-ba43-ed56dcdd356f.jpg"
   },
   {
    "id": "f3e8cdf6-0d32-4fb4-b749-7cbab50a2bd9",
@@ -49,7 +52,8 @@
    "score": 0.24497198,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1f8c37e-06cf-499b-ba62-aee37ea50578.jpg"
   },
   {
    "id": "b0f80453-d43c-481d-84e2-02b1d1f95b13",
@@ -60,7 +64,8 @@
    "score": 0.24064045,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3641ed1b-d49a-43d5-b5b3-b0f39a9cf4c0.jpg"
   },
   {
    "id": "881d3673-f101-4848-a56d-f2dd08a3383d",
@@ -72,7 +77,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "fb5c3fed-f856-46a4-bf6e-947cb7adbdfa.jpg"
   },
   {
    "id": "9fcd2b7d-d703-4164-b027-6c5e0ec284a3",
@@ -83,7 +89,8 @@
    "score": 0.225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c358a50-1f8b-4f43-807f-807d26086073.jpg"
   },
   {
    "id": "31248326-0448-49ef-824d-413c17d7d285",
@@ -94,7 +101,8 @@
    "score": 0.225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b62b19aa-c405-459a-8e9c-839b51214c69.png"
   },
   {
    "id": "be9f4d62-459a-489a-895d-b6ca6c5fd81b",
@@ -105,7 +113,8 @@
    "score": 0.225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "66172178-6263-4b83-8269-03e5a5ad5026.jpg"
   },
   {
    "id": "3a95c6af-a9da-4c37-a48d-f397e836af7c",
@@ -116,7 +125,8 @@
    "score": 0.225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8c4871c8-684c-4fa4-84d0-50c61bb8ae85.jpg"
   },
   {
    "id": "c7693794-9d96-43b5-9284-9b02e4baafb0",
@@ -127,7 +137,8 @@
    "score": 0.21213204,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a13f8ab2-329b-4c5d-b348-82b8cf10d928.jpg"
   },
   {
    "id": "3de50f9c-8943-4853-a081-a8925303a30a",
@@ -138,8 +149,10 @@
    "score": 0.21213204,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7e72483b-8278-4d30-b94f-64998e4ca7c8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:38+00:00"
+ "updatedAt": "2021-07-18T07:10:38+00:00",
+ "coverFileName": "9ad81c30-6b62-4415-9e1a-35ec2cbcf81b.jpg"
 }

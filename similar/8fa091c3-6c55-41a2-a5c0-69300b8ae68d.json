@@ -1,20 +1,21 @@
 {
  "id": "8fa091c3-6c55-41a2-a5c0-69300b8ae68d",
  "title": {
-  "en": "Mahou Shoujo Madoka★Magica - Kirakira (Doujinshi)"
+  "en": "Mahou Shoujo Madoka\u2605Magica - Kirakira (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "f92e0740-0212-4fa3-afcd-7decf083edff",
    "title": {
-    "en": "Mahou Shoujo Lyrical Nanoha - めきめき王国 - 猫き下ろし　前編 (Doujinshi)"
+    "en": "Mahou Shoujo Lyrical Nanoha - \u3081\u304d\u3081\u304d\u738b\u56fd - \u732b\u304d\u4e0b\u308d\u3057\u3000\u524d\u7de8 (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.50424993,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ccd4fc0-dda5-43d0-8078-ca9b97621789.jpg"
   },
   {
    "id": "7be2c3e1-638b-43b5-a6f3-860bf46ebdbd",
@@ -25,7 +26,8 @@
    "score": 0.46962437,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc5660ea-901e-4efa-b304-7340416467ce.jpg"
   },
   {
    "id": "722bb776-2592-446a-9f9a-07ee35bd396f",
@@ -36,7 +38,8 @@
    "score": 0.4671947,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "580b364a-6203-49c2-ad6e-206b2efc6679.jpg"
   },
   {
    "id": "5f2c7c76-d6d1-4a1e-84a9-8ec1217a04de",
@@ -47,7 +50,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e344171-bebf-41a2-b74a-08395f9b404b.jpg"
   },
   {
    "id": "b817f904-ea55-432b-9687-8594086cfd85",
@@ -58,7 +62,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a21f048f-ca7b-4199-b0e1-7f0c4a740199.jpg"
   },
   {
    "id": "db186bee-fea0-4fba-a883-3d8fb4e4911d",
@@ -69,7 +74,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3903c433-40ae-471d-8cb3-44f6afbfa794.jpg"
   },
   {
    "id": "349403d6-26ea-4b36-bf50-036b961be534",
@@ -80,29 +86,32 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e82c4f5-9a63-4381-9b67-553237f94344.jpg"
   },
   {
    "id": "cce1a59e-922c-400f-a6ad-f47039db4219",
    "title": {
-    "en": "Touhou - little bug \u0026 little flower (Doujinshi)"
+    "en": "Touhou - little bug & little flower (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "414d88cc-8ffa-42cf-a113-41dfd56b82a6.jpg"
   },
   {
    "id": "b335e054-2fa3-49cf-bc02-7da5409cb7e4",
    "title": {
-    "en": "Touhou — Behind My MInd (Doujinshi)"
+    "en": "Touhou \u2014 Behind My MInd (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "21fa4338-2f5d-4d02-9971-f548e9e834b6.png"
   },
   {
    "id": "3103cb5f-3041-4ea7-a323-300fa426abaa",
@@ -113,7 +122,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c5f3200-eda9-490e-bae8-7be72aeaa223.png"
   },
   {
    "id": "47722435-33cb-4e56-bce0-929bc67c9679",
@@ -124,7 +134,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c25689c-aa21-4c98-8f9b-af4f59155011.jpg"
   },
   {
    "id": "4ee405b7-fcaf-417b-b539-46d20cfcb90f",
@@ -135,8 +146,10 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82530a3a-c9b7-478a-8a24-d6be5557156a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:12+00:00"
+ "updatedAt": "2021-07-18T06:51:12+00:00",
+ "coverFileName": "95e82697-617c-4379-9fa0-7e8cfd70dd4f.jpg"
 }

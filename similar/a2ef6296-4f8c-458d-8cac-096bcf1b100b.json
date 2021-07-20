@@ -1,7 +1,7 @@
 {
  "id": "a2ef6296-4f8c-458d-8cac-096bcf1b100b",
  "title": {
-  "en": "The iDOLM@STER Cinderella Girls Gekijou Wide☆"
+  "en": "The iDOLM@STER Cinderella Girls Gekijou Wide\u2606"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45037487,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3d2911be-47cb-4b0b-b624-d532928b14b0.jpg"
   },
   {
    "id": "208a6c92-bd13-4de0-b38d-deade1aea045",
@@ -25,7 +26,8 @@
    "score": 0.43019387,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c8c6453-4a9b-460c-8285-4b9679a98b59.jpg"
   },
   {
    "id": "95876c02-60d4-4c07-bc85-dd0cd329900e",
@@ -36,7 +38,8 @@
    "score": 0.41365746,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d991faa-5401-471c-8dfb-85369be0f48c.jpg"
   },
   {
    "id": "cfeb5c6c-8202-4106-891f-d2ac74431f0a",
@@ -50,7 +53,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "da11b2ff-919e-4688-a444-49a7cb0103a9.jpg"
   },
   {
    "id": "d2b02bb0-a8ec-405f-9c2d-d63df7cff785",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "9642e676-8ad9-4765-9d39-d3e99df82729.jpg"
   },
   {
    "id": "83d429da-e807-4e72-9892-b6c7c617d446",
@@ -73,7 +78,8 @@
    "score": 0.3915155,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd0db279-646d-4bd1-a6ba-41eba5ffdc41.jpg"
   },
   {
    "id": "a47a3949-930d-4237-85a8-ceaa33701edd",
@@ -84,7 +90,8 @@
    "score": 0.38723016,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "feee14ab-5923-4b08-b331-6ca76dcbba33.jpg"
   },
   {
    "id": "c9a52848-be81-4bf6-803e-274328380884",
@@ -95,7 +102,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8effde46-2dc8-4b8c-97cb-55ea7862a2b0.jpg"
   },
   {
    "id": "b0c38271-c50e-4b05-a94e-3c0b5254b640",
@@ -107,7 +115,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "12dbd22d-b22b-4ca3-a34d-2e7b830c12d8.jpg"
   },
   {
    "id": "0fe716b8-ad54-48b1-9c81-13d0894ecebb",
@@ -118,7 +127,8 @@
    "score": 0.37947333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6470a0cd-c011-4093-9e09-a9131496a173.jpg"
   },
   {
    "id": "84b9fe52-7d87-42cb-99db-0a44e21d275c",
@@ -131,7 +141,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "6c88af08-0ba9-4dce-89d2-b231dc288dc0.jpg"
   },
   {
    "id": "86880e33-c888-4543-bf94-fb14a27afe80",
@@ -144,8 +155,10 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2755e098-289e-4fb1-9d1b-04b956d7f84d.png"
   }
  ],
- "updatedAt": "2021-07-18T06:54:46+00:00"
+ "updatedAt": "2021-07-18T06:54:46+00:00",
+ "coverFileName": "3ba46e95-2ed9-4905-b802-5e27faea2c5b.png"
 }

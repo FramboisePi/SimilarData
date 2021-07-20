@@ -1,7 +1,7 @@
 {
  "id": "77066dd5-83a3-423c-8568-ef38340672ba",
  "title": {
-  "en": "Punch ↑ + Jinan Joutou"
+  "en": "Punch \u2191 + Jinan Joutou"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.48114964,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ee2fbc5-9e2d-423a-b3ce-8f9e208573f4.jpg"
   },
   {
    "id": "316391c1-de84-4d38-84e9-7f4d27219e30",
@@ -25,7 +26,8 @@
    "score": 0.44752747,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40c7bbed-162d-427b-9c48-a956a42f1318.jpg"
   },
   {
    "id": "158bd1fc-da64-467b-952a-87803a2325cc",
@@ -37,7 +39,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "926e1f68-208f-4ef7-8762-60548b67647f.png"
   },
   {
    "id": "2f0978eb-1e77-40da-ace6-30e1a04a0b7b",
@@ -48,7 +51,8 @@
    "score": 0.44752747,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a62abcea-1122-4251-8181-b09749d1589d.jpg"
   },
   {
    "id": "bb2d6941-cf7e-4823-a85b-9c8e3cf96f68",
@@ -61,7 +65,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "8832b2a6-734f-4c24-b8e8-c2449f4fa3f8.jpg"
   },
   {
    "id": "dc1fe50d-2817-452f-853d-62bc3cba5029",
@@ -72,7 +77,8 @@
    "score": 0.43238074,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9542a565-08b9-4be4-a9ef-962a628fb62c.jpg"
   },
   {
    "id": "6d30d885-5eb0-4c11-b001-51a902be0d13",
@@ -83,7 +89,8 @@
    "score": 0.43221462,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e498354-9e77-4e5a-83db-11c558bf0465.jpg"
   },
   {
    "id": "379a135e-d62e-42bd-a6ca-22b7e21d30c7",
@@ -94,7 +101,8 @@
    "score": 0.42564726,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d33df21-cec9-4ebb-9705-a758b1a2c460.jpg"
   },
   {
    "id": "6a57863d-14db-4753-a040-3411e816c764",
@@ -105,7 +113,8 @@
    "score": 0.42382956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "776d4438-3dd6-42ac-896c-63daba2c23b7.jpg"
   },
   {
    "id": "498115d0-b32c-4c6d-8546-143d2f4883aa",
@@ -118,7 +127,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "35c4f484-b909-413a-826a-fce86a2c1302.jpg"
   },
   {
    "id": "c67eeabf-aec2-4eb6-860c-b53e33704c21",
@@ -129,7 +139,8 @@
    "score": 0.4192134,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9775391c-dcbd-40f9-8948-5aaf83587598.jpg"
   },
   {
    "id": "2eaa2ebf-9f6f-4102-90e3-a7ac0cda11f6",
@@ -141,8 +152,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "e4d09a16-822a-4f6b-a7db-40b0aa711040.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:30+00:00"
+ "updatedAt": "2021-07-18T06:46:30+00:00",
+ "coverFileName": "064608d9-2926-4683-949c-b7569ef08007.jpg"
 }

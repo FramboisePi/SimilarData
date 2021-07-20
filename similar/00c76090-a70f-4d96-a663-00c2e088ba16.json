@@ -1,7 +1,7 @@
 {
  "id": "00c76090-a70f-4d96-a663-00c2e088ba16",
  "title": {
-  "en": "Shinshi Doumei †"
+  "en": "Shinshi Doumei \u2020"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "293ca03a-3a51-474f-b568-e7582720f864.jpg"
   },
   {
    "id": "3c656386-202d-48ae-aa56-5017adc9e81b",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "703c460e-d7e5-453f-9d20-055a31daa6bd.jpg"
   },
   {
    "id": "28425868-a1bf-4eda-be9c-3ad77ec37649",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "122fdc8b-4ed5-45d7-a54e-286bcad443bc.jpg"
   },
   {
    "id": "d5e2bd89-e300-4262-a799-fb4f79bdb777",
@@ -52,7 +55,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "1e3d60d7-7950-4336-a0dc-017ad7a6c378.jpg"
   },
   {
    "id": "adf8e9e8-b975-465f-9230-47084f8385e9",
@@ -63,7 +67,8 @@
    "score": 0.48413295,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c5cbfe3-e3b1-4307-b10a-13e86bd6298a.jpg"
   },
   {
    "id": "7dab8f66-748e-4d83-a8a0-9f7440e254fc",
@@ -77,7 +82,8 @@
     "en",
     "fr",
     "hu"
-   ]
+   ],
+   "coverFileName": "79f16c4f-92dd-4f60-ba4d-581f4b51b20b.jpg"
   },
   {
    "id": "161c7304-dbfc-4c9b-9670-d8ddd352db1b",
@@ -88,7 +94,8 @@
    "score": 0.45118392,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98f2a142-42af-4715-adac-723f1095dbf8.jpg"
   },
   {
    "id": "0c7020e7-923c-40ef-9de0-a90b3faec14a",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "859229c2-c0ad-445e-a609-848eaf7ef809.jpg"
   },
   {
    "id": "f65e76c4-e4fb-40be-bc9b-bf6285d72d0b",
@@ -111,7 +119,8 @@
    "score": 0.44954574,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bd32cbd5-e3bc-4fc5-b038-d6ebd209b7f9.jpg"
   },
   {
    "id": "25b7a0b9-6653-4a69-86b6-2cc71d0069ab",
@@ -124,7 +133,8 @@
     "pt-br",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "0d9bc885-ae84-48c0-9b20-c43862e4a641.jpg"
   },
   {
    "id": "8c2923cb-8b42-4e76-8f8d-5fec8c2a1840",
@@ -135,7 +145,8 @@
    "score": 0.44498926,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b39301f6-94c3-4d5b-b3f9-c0b90720d542.jpg"
   },
   {
    "id": "776f2efa-1520-4fb3-afb8-03abc0046c7b",
@@ -149,8 +160,10 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "268a087f-7095-42a5-975f-5ba84f186089.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:38+00:00"
+ "updatedAt": "2021-07-18T06:24:38+00:00",
+ "coverFileName": "19250867-f701-4778-925d-7073b6fd791a.jpg"
 }

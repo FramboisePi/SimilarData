@@ -1,7 +1,7 @@
 {
  "id": "7b156795-3aa5-4cb6-bc7d-e8de7f7f6a33",
  "title": {
-  "en": "Biyaku Café"
+  "en": "Biyaku Caf\u00e9"
  },
  "contentRating": "erotica",
  "matches": [
@@ -16,12 +16,13 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "55b065f1-d486-4377-af02-a32732eadf78.jpg"
   },
   {
    "id": "b010f623-6a0d-4945-8b31-1e90d4dc7314",
    "title": {
-    "en": "Coffee \u0026 Vanilla"
+    "en": "Coffee & Vanilla"
    },
    "contentRating": "erotica",
    "score": 0.40279204,
@@ -29,7 +30,8 @@
     "pt-br",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "ab6f34c7-bf8f-40b6-946e-17085786b8c4.jpg"
   },
   {
    "id": "b7ecf14a-f9f7-402e-915e-03dce779c506",
@@ -40,7 +42,8 @@
    "score": 0.3802072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da6ec742-30e4-4923-a5e2-e49ac26af8e7.jpg"
   },
   {
    "id": "abf3e3d0-0fd8-400d-9fab-024e5462777c",
@@ -51,7 +54,8 @@
    "score": 0.3802072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f68cd305-8274-485b-a9a1-5359209629d1.jpg"
   },
   {
    "id": "7abf0d65-f212-4555-8d5a-723772b20223",
@@ -66,18 +70,20 @@
     "pt-br",
     "pl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ba4df0be-5282-4af2-95c0-3870b991b3b0.jpg"
   },
   {
    "id": "c6058115-25c6-4e64-bfa7-faf4543a2413",
    "title": {
-    "en": "Kaichou-sama ga Fiancé de"
+    "en": "Kaichou-sama ga Fianc\u00e9 de"
    },
    "contentRating": "erotica",
    "score": 0.35571283,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6494b8f3-9944-4748-987d-43470b02eb11.jpg"
   },
   {
    "id": "6e65e30f-a25d-4f75-8e8e-4b6ebf23c9eb",
@@ -89,7 +95,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "395c95de-0fe2-4d22-a9e3-656212a2c343.png"
   },
   {
    "id": "49d11064-d5ae-4b40-b9a4-30247e6c4acc",
@@ -102,7 +109,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "126e011d-29f4-4764-bf58-f014ed191bd0.jpg"
   },
   {
    "id": "3b5195f7-078c-481c-8ede-14aa8fc0f8ad",
@@ -114,7 +122,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4da6480b-b203-4cfc-b5bb-d88cd3de0909.png"
   },
   {
    "id": "b9f23680-983c-4c69-9869-5b40b215a6f2",
@@ -125,7 +134,8 @@
    "score": 0.3292691,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b9cc2f9a-0d36-4bf3-9da4-9495c1b4ac34.jpg"
   },
   {
    "id": "6f278244-6a59-4888-8e1b-352f4f1e30d5",
@@ -139,7 +149,8 @@
     "it",
     "zh-hk",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "18e05db3-7818-4e14-aa85-ea3800019ac1.jpg"
   },
   {
    "id": "b7ce7907-8d2b-40c9-9b3c-e532afbdbe49",
@@ -150,8 +161,10 @@
    "score": 0.3292691,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cfe83279-6f2a-47cf-931c-8ec766e80771.png"
   }
  ],
- "updatedAt": "2021-07-18T06:47:17+00:00"
+ "updatedAt": "2021-07-18T06:47:17+00:00",
+ "coverFileName": "a2f30f89-f6e5-4565-afd1-f5d05dbe2e47.jpg"
 }

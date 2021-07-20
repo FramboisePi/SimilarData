@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ed2b6618-0bb6-4ba4-83ff-1c96c76561c5.jpg"
   },
   {
    "id": "afde77ef-bbf9-4051-a905-456993901d59",
@@ -29,7 +30,8 @@
     "ca",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "d8ec7eca-f772-4d90-a9ec-53727d23bc01.jpg"
   },
   {
    "id": "e833c108-6342-4efa-bb82-738d075f277c",
@@ -40,7 +42,8 @@
    "score": 0.54906875,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5256f127-fdb2-4c3e-aed5-dd228e1eb47f.jpg"
   },
   {
    "id": "30f21c9d-0953-415a-b9d2-ab6f0e7d43c9",
@@ -51,7 +54,8 @@
    "score": 0.49413648,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6bf9c3e-80e9-4d5f-b141-dc91cfe1e33f.png"
   },
   {
    "id": "002835a6-c7e5-4ec2-a907-dbe32117b104",
@@ -63,19 +67,21 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5d9f9cef-b159-4304-8b36-3e0cfd8b5ce2.jpg"
   },
   {
    "id": "0039eb9b-f6ee-408f-875f-7c5380232861",
    "title": {
-    "en": "I’m the Grand Duke's Consort Candidate, However, I Believe I Can Certainly Surpass It!"
+    "en": "I\u2019m the Grand Duke's Consort Candidate, However, I Believe I Can Certainly Surpass It!"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "5dfab596-33cb-4659-a5c8-66816e90d4b5.jpg"
   },
   {
    "id": "003e1cfd-b4f9-4d66-9080-34455ac19a96",
@@ -87,7 +93,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "5e893bd3-3215-4381-a81a-6182279233ba.jpg"
   },
   {
    "id": "0056e7a5-33fc-4aa3-97e1-6a74170c7f50",
@@ -100,7 +107,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7bcf7eb6-3700-4c98-a250-9bbaac8b9bdd.png"
   },
   {
    "id": "0059301b-9aa5-4dbe-98a0-a1cdde873332",
@@ -111,7 +119,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac587c6a-6271-40ba-9101-0622e97a143b.jpg"
   },
   {
    "id": "00686876-f413-49a5-a39e-8bd905d53c12",
@@ -122,7 +131,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd2f7e27-8d30-4baa-abf6-714f9d9bcdff.jpg"
   },
   {
    "id": "00a52d8a-5148-4198-b2bb-cd8ce619519e",
@@ -133,7 +143,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "548e47c6-d0c0-4617-aac6-c115b6f15a1e.jpg"
   },
   {
    "id": "00af0a04-1535-4f25-85b6-7d1b119dc48d",
@@ -144,8 +155,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52dece53-416b-4061-becb-fd5dc370e845.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:48+00:00"
+ "updatedAt": "2021-07-18T06:44:48+00:00",
+ "coverFileName": "327a9519-6558-4d1e-a652-5e6d244aafef.jpg"
 }

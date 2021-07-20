@@ -8,13 +8,14 @@
   {
    "id": "7231545b-39ce-4d51-a825-b905b16691a3",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Comic"
+    "en": "Tiger & Bunny - The Comic"
    },
    "contentRating": "safe",
    "score": 0.41173965,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "628c2146-e792-4fd8-9962-77f90386d227.jpg"
   },
   {
    "id": "e8bed0c1-1536-45a2-a52d-5183732d2c81",
@@ -25,7 +26,8 @@
    "score": 0.41156542,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c048d261-ca42-4dd3-b3e9-49b40488c739.jpg"
   },
   {
    "id": "88510172-1e4c-4273-8f07-8503224f505c",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "90f74b92-dfb6-4c80-aa10-bc681ab75022.jpg"
   },
   {
    "id": "3859c524-5950-4b51-be15-c737abe63d0c",
@@ -48,7 +51,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d177efc9-c16c-418a-9dbc-db04f2139475.jpg"
   },
   {
    "id": "ad391b10-bece-43b0-9ee8-0af1828d6c15",
@@ -59,7 +63,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6d774f94-6542-4836-b63d-7f9a45c0e55e.jpg"
   },
   {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
@@ -73,7 +78,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
   },
   {
    "id": "8f883600-9655-4498-b87c-65328cada285",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "526c2b04-846c-4dad-875f-873096c0236b.jpg"
   },
   {
    "id": "54803845-a56b-4921-9d9a-9f848c837f52",
@@ -96,19 +103,21 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d9c69d0-dbdd-4b04-9740-28de726edaa1.jpg"
   },
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "83acc901-c42e-4468-a6dd-f5d8b9d48567",
@@ -121,7 +130,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2e540010-be80-4615-a492-ab733aece7b2.jpg"
   },
   {
    "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
@@ -134,7 +144,8 @@
     "en",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "2b9cb391-73c0-46cb-9ba2-b731c2b3785d.jpg"
   },
   {
    "id": "2a367346-1617-4e4a-9ae5-44cd321ab7ab",
@@ -146,8 +157,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4fc49e1e-0552-4737-abee-0c39d972bb36.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:04+00:00"
+ "updatedAt": "2021-07-18T06:58:04+00:00",
+ "coverFileName": "593e0110-88e6-4ffd-aeb7-ed410e8c7c6d.jpg"
 }

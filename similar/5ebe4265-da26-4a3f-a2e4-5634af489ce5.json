@@ -1,7 +1,7 @@
 {
  "id": "5ebe4265-da26-4a3f-a2e4-5634af489ce5",
  "title": {
-  "en": "●REC"
+  "en": "\u25cfREC"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "a0cbc3c0-1f12-4b5f-b467-be3d0c638b13.jpg"
   },
   {
    "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
@@ -31,18 +32,20 @@
     "it",
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "d5163d01-ed1d-4a63-ba30-190b7dda59be.png"
   },
   {
    "id": "1f952cb2-6b5d-4a0a-b278-8378a55a38a5",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Maguro Homura (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Maguro Homura (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.38184676,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b64f040e-a47c-4359-9ea5-ab5de5355995.jpg"
   },
   {
    "id": "28fc76bd-845a-4c83-aef0-0c7a209bf570",
@@ -53,7 +56,8 @@
    "score": 0.38184676,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "594dc75b-847c-4691-ba54-d7d62abb1bf3.jpg"
   },
   {
    "id": "2dcef7b2-555a-433a-a3b2-2491023c8b16",
@@ -64,7 +68,8 @@
    "score": 0.3650882,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd6e8def-cc64-42b2-a530-91a3a38ae69f.jpg"
   },
   {
    "id": "abd3495e-106e-4112-9252-36bcb98d0633",
@@ -75,7 +80,8 @@
    "score": 0.3415341,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71345696-f0d1-409e-8393-023a2c257eae.jpg"
   },
   {
    "id": "665f2501-a702-43b2-b763-6fa35c97b651",
@@ -86,7 +92,8 @@
    "score": 0.3415341,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af003ee9-c5c5-4823-a33f-cb513d6f7682.jpg"
   },
   {
    "id": "417d171f-d665-4b39-9904-689ec9eec584",
@@ -100,7 +107,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "87cb7a9c-c19f-4593-8ad9-0bac2a9aa246.jpg"
   },
   {
    "id": "1c2d0d82-a113-4f2e-87cb-c53ab25b092d",
@@ -112,7 +120,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "d661ef88-fd24-4bd4-9257-60e405596502.jpg"
   },
   {
    "id": "d41ccf6c-2494-4cfd-87d7-79bdee0db340",
@@ -123,7 +132,8 @@
    "score": 0.3415341,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52fb99ef-6db3-4c7f-b3f8-e2b28e3412cf.jpg"
   },
   {
    "id": "73d218c0-ee92-4d4c-94f1-72fb06a380b0",
@@ -134,7 +144,8 @@
    "score": 0.3415341,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "619c978e-47cc-478b-b3b1-d4c007d41d3e.jpg"
   },
   {
    "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
@@ -145,8 +156,10 @@
    "score": 0.3391247,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "904ba646-8851-4a4a-a739-5c2c1f4008c9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:07+00:00"
+ "updatedAt": "2021-07-18T06:42:07+00:00",
+ "coverFileName": "a96f964a-4e1c-4bae-9198-bc5c68b36a23.jpg"
 }

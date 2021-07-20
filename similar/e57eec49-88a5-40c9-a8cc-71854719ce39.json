@@ -1,7 +1,7 @@
 {
  "id": "e57eec49-88a5-40c9-a8cc-71854719ce39",
  "title": {
-  "en": "The Three Little 〇"
+  "en": "The Three Little \u3007"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45134252,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e647b0c8-9a57-4490-b836-d7b306434243.jpg"
   },
   {
    "id": "5097e216-426e-4b02-ab28-9c1cf75eccf3",
@@ -25,7 +26,8 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "14b3f92c-0006-4b9b-855f-266f9870c128.jpg"
   },
   {
    "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
@@ -38,7 +40,8 @@
     "en",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "2b9cb391-73c0-46cb-9ba2-b731c2b3785d.jpg"
   },
   {
    "id": "7e9358b1-3f54-4cb4-a2c9-81999abb6bf9",
@@ -49,7 +52,8 @@
    "score": 0.40779832,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c285d705-49e8-46e9-a256-f0eb891d89d1.jpg"
   },
   {
    "id": "9e6a9200-4349-4ff7-835b-211e80108527",
@@ -61,7 +65,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7b409fb8-ccab-4417-b829-5ae8c32b0e21.jpg"
   },
   {
    "id": "d08e05bf-0b18-49f5-9469-78d72c72b920",
@@ -73,7 +78,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "d5da826c-155e-4749-835f-2d236d88d625.jpg"
   },
   {
    "id": "15931821-1a3a-4aee-b27c-1c95d8d5dcf1",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7a67bb76-b4db-462b-b9d4-55528afb9edc.jpg"
   },
   {
    "id": "4cce38c8-339d-4f72-8fb5-b23c43cefe01",
@@ -96,7 +103,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4276206e-70c4-4b75-88e3-599cd3ec4312.png"
   },
   {
    "id": "4cca7663-9ca8-45aa-8fcf-6201c0920f0e",
@@ -107,7 +115,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8f5a2659-4e0e-4b46-9ffb-781e616e10a8.jpg"
   },
   {
    "id": "38bf7431-6311-4597-bf49-d472c96d94f5",
@@ -118,7 +127,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef090a94-6d2c-464a-b168-c69eb63a8d96.jpg"
   },
   {
    "id": "4cb7f50e-14c3-4594-97ad-b869a8299646",
@@ -129,7 +139,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "30614f9a-363f-4148-b29f-f3e3691382f1.png"
   },
   {
    "id": "5199e0dd-7fb5-4ada-8dd1-8e4a6867a984",
@@ -140,8 +151,10 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9df31dc8-09e0-43e1-8b3d-620e97bcfdd5.png"
   }
  ],
- "updatedAt": "2021-07-18T07:06:59+00:00"
+ "updatedAt": "2021-07-18T07:06:59+00:00",
+ "coverFileName": "97a1a18f-acb3-4b98-8cac-54ca4f017e69.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8470e6d7-c005-4485-9066-ef80228d2cf1.jpg"
   },
   {
    "id": "21adfa02-30d5-4064-8848-a7b386c23dca",
@@ -30,7 +31,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4470f259-0ad0-4c84-8e05-770521897ce7.jpg"
   },
   {
    "id": "122d0951-7b64-41ba-bf27-6c26459c3b88",
@@ -41,7 +43,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be9df8d6-b956-4229-a172-a60bcbc7ed48.jpg"
   },
   {
    "id": "1be38692-c92d-4d9e-81f5-105112a4ad1c",
@@ -52,7 +55,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e44e944d-49ee-4978-8a01-06472cc7d960.jpg"
   },
   {
    "id": "d7542a22-2dda-4652-ab26-87271d90bdec",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "094ac5bd-609a-430d-902a-cbafb9d489f7.png"
   },
   {
    "id": "7bee1e18-fb98-4b8f-9a13-7e22d6df37df",
@@ -75,7 +80,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "432c9d97-54dd-406b-8b4b-42874145c47d.png"
   },
   {
    "id": "eacbf5c4-1891-468b-813f-f35351880d7a",
@@ -90,7 +96,8 @@
     "zh",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3678e82f-d1b8-4922-8460-e5c88dbbe4a1.jpg"
   },
   {
    "id": "425e34fc-4e98-4d0f-abb1-de699304a2f1",
@@ -101,7 +108,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f27e62d-8d53-45ca-8aa2-e2ca2b23355a.jpg"
   },
   {
    "id": "d2bcc144-28d9-457b-b957-383263dc2ae4",
@@ -113,19 +121,21 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "894441d9-7173-499b-9697-dd442c24d2fb.png"
   },
   {
    "id": "7261a92f-c549-45cf-a1b5-15ad88d3046f",
    "title": {
-    "en": "A Married Couple's Brutal Valentine’s"
+    "en": "A Married Couple's Brutal Valentine\u2019s"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "1c5cc033-a99a-40b1-aed1-6e3e24816b69.png"
   },
   {
    "id": "9277cf92-588b-4198-b6a9-16f8a06320d9",
@@ -138,7 +148,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "d661c25e-141c-485d-aafd-a3ab1bb95d9d.jpg"
   },
   {
    "id": "9d07f4f5-00df-4795-9ab0-95e824b3b000",
@@ -149,8 +160,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e860a8e8-db56-43ce-8535-79ea35d0ee66.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:00+00:00"
+ "updatedAt": "2021-07-18T06:55:00+00:00",
+ "coverFileName": "00dcf4c5-d5db-4cf2-b382-6b70587cbc27.png"
 }

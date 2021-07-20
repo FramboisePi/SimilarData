@@ -1,7 +1,7 @@
 {
  "id": "acb71b54-9140-4c8a-8af7-cc385b5260a1",
  "title": {
-  "en": "Fate/Grand Order: Ordú Beag"
+  "en": "Fate/Grand Order: Ord\u00fa Beag"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e08d189f-d5b9-427b-b8f4-f2f883635e3b.jpg"
   },
   {
    "id": "5f00327c-db5b-4948-a539-d5a377905720",
@@ -25,7 +26,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b9c5238-0321-4b38-84ca-d1ceabd3b68c.jpg"
   },
   {
    "id": "d652aa74-7584-4223-9a07-dad380e25936",
@@ -36,7 +38,8 @@
    "score": 0.38211122,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4a0b3ec3-809b-4dff-97c3-662bf94cc2ea.jpg"
   },
   {
    "id": "571ce299-85cc-4a6c-8830-32cf37172974",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "75b4fcf9-050d-49e8-80a4-93c676d98671.jpg"
   },
   {
    "id": "e9885e39-48c4-4977-9c44-3c711a470da0",
@@ -59,7 +63,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6a3f79f4-d33c-4fec-8819-70ca382d2983.jpg"
   },
   {
    "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
@@ -71,7 +76,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "2ea7422a-7dab-4ac3-aab7-9b2bb2017411.jpg"
   },
   {
    "id": "9005951f-bfb4-49d9-bbca-c68d462ec5d2",
@@ -82,7 +88,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b4443591-7750-4f35-a48d-487d083f3524.jpg"
   },
   {
    "id": "40d96cfe-0392-453a-852f-6a6098de798e",
@@ -95,7 +102,8 @@
     "ar",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "7bbadf12-4db0-46db-b5ce-3c0ecca60158.png"
   },
   {
    "id": "5b78b883-2de4-4b79-be67-2d37041413a8",
@@ -106,7 +114,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0bb4c634-e9ae-4916-bcd8-02b6cf6b7e8f.jpg"
   },
   {
    "id": "8f3f0cb3-14f4-462e-9a36-6592ad4ba9fa",
@@ -117,7 +126,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc50616f-7a73-4faa-af94-543348776801.jpg"
   },
   {
    "id": "2f82155c-85ef-4598-bcbb-d48a3e33818d",
@@ -128,7 +138,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1f5f5f2-e74a-43a7-a772-d7344e3cc3f4.png"
   },
   {
    "id": "e8580bc7-bcb0-4fab-8781-fb315547a9a9",
@@ -139,8 +150,10 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac043fd6-bccc-4ffd-9115-0ef948f1239c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:33+00:00"
+ "updatedAt": "2021-07-18T06:56:33+00:00",
+ "coverFileName": "878b3308-dc26-4ed7-a079-6b3fc93ffc0c.jpg"
 }

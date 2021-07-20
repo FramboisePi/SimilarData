@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "15e318c7-cccc-4c92-9f8f-b789c9a3908e.jpg"
   },
   {
    "id": "403fbf31-a966-4341-8fd9-11653095a89f",
@@ -26,7 +27,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "224fbadd-86b4-45d0-847c-cbf39976ee5e.png"
   },
   {
    "id": "ea0028c0-a040-4d05-88c7-151432600f81",
@@ -37,7 +39,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94355235-d8c5-41c5-92cf-1b0c7cdc7c6e.png"
   },
   {
    "id": "70a0c755-0e96-4755-8eeb-a2d1a1861f7a",
@@ -48,7 +51,8 @@
    "score": 0.35828587,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1e2039c-d67a-4ece-832b-1fbeef565b0d.png"
   },
   {
    "id": "7a9ffd6b-fe96-420a-9b58-13638d47a728",
@@ -61,7 +65,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "ad68f748-0c77-4916-bad4-e678f83ff109.jpg"
   },
   {
    "id": "42e2c9da-fc0f-4255-a011-61804bc05961",
@@ -72,7 +77,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6321a9f8-912b-4207-a573-cc925243722d.png"
   },
   {
    "id": "5d1e17f3-4ec3-421a-88f4-850ead811b22",
@@ -83,7 +89,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1c89d12-f37f-4d52-8303-0da583bec159.jpg"
   },
   {
    "id": "af114f0e-a4fa-4f43-ae6a-8f7f40f614cc",
@@ -94,7 +101,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ad5174a8-f68c-4465-87a8-95f41579f4e0.jpg"
   },
   {
    "id": "1d7ad2ba-ceb6-4c71-a8b1-f180805e0d5b",
@@ -106,7 +114,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "8f1fdf3a-441f-4ace-89c2-32123b1a2baa.jpg"
   },
   {
    "id": "ca409f5d-a24f-41bb-89eb-5035d0b62101",
@@ -117,18 +126,20 @@
    "score": 0.32424378,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a95cc88c-e8a8-4fc8-ae4b-335a9054388f.jpg"
   },
   {
    "id": "860c7fbe-7aae-40a8-95da-18d0845d7c3f",
    "title": {
-    "en": "Hazel \u0026 Gretel"
+    "en": "Hazel & Gretel"
    },
    "contentRating": "safe",
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94c5f7af-2ade-4a90-ab0f-db5f1bc0a710.jpg"
   },
   {
    "id": "21c84a22-b8be-426b-9c07-d3435843432f",
@@ -139,8 +150,10 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a722bca-b3c3-41f7-b281-557d4fdf3489.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:05+00:00"
+ "updatedAt": "2021-07-18T07:10:05+00:00",
+ "coverFileName": "1c9a7501-bfef-42e8-b80e-9ab74ad90654.png"
 }

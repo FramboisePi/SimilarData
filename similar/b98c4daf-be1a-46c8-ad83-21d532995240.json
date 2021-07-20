@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "35d2282a-eb08-4be5-baf2-cc12cbd4b257.jpg"
   },
   {
    "id": "56baff6c-06a0-4a56-ae92-ec6b1277e9c1",
@@ -26,7 +27,8 @@
    "score": 0.3725619,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "491995e4-2bde-4e3e-8f39-ad86a07c9bc5.jpg"
   },
   {
    "id": "cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
@@ -41,7 +43,8 @@
     "es-la",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "a64c01f2-de63-4cb1-9352-0b419a26762d.jpg"
   },
   {
    "id": "644696ed-471b-4797-a99d-1797378550f4",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cc3685b5-fdd8-4aba-bb65-33a1bd452200.jpg"
   },
   {
    "id": "073f4fcf-1e12-4ee0-ba98-fb36fe5527a6",
@@ -64,7 +68,8 @@
    "score": 0.3595636,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9beecd42-820f-4124-8218-31f8a8b96487.jpg"
   },
   {
    "id": "873f93ae-96ac-4482-91ac-023a6ccecfd3",
@@ -77,7 +82,8 @@
     "es",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "334628d0-75f6-4b67-8fe5-d23b7689d18b.jpg"
   },
   {
    "id": "c0f9ec5c-52bf-4e5c-aca1-b8948c918fec",
@@ -88,7 +94,8 @@
    "score": 0.34594762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f16c25d-91d1-4cb9-8cfa-624068bb1b3e.png"
   },
   {
    "id": "656ff561-3721-4c3b-89ab-9b1e1a27a0d4",
@@ -100,7 +107,8 @@
    "languages": [
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "e7b8da96-d7c3-4a1e-a9e3-a90848a119de.jpg"
   },
   {
    "id": "e4956872-28ff-4c7f-8d3e-d95575ec69e8",
@@ -113,7 +121,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "94e426d4-a870-4d1c-bec0-5545d471a6e5.jpg"
   },
   {
    "id": "f2e6002b-0da9-4b7a-b5b1-8414f50a7b22",
@@ -124,18 +133,20 @@
    "score": 0.33725545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a54227d-f8d5-456c-a72d-e3e1a921f928.jpg"
   },
   {
    "id": "2dc02303-1644-4be2-88a5-62d59c505083",
    "title": {
-    "en": "Succuba \u0026 Siren"
+    "en": "Succuba & Siren"
    },
    "contentRating": "safe",
    "score": 0.3370694,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c8a16d1-9fc4-47ba-9dfa-e215a1123fe0.jpg"
   },
   {
    "id": "7816c595-56ed-4d5a-9c71-d19c5183f9b9",
@@ -146,8 +157,10 @@
    "score": 0.3370694,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a4711f13-f346-4439-bf9f-75393ff7b1cf.png"
   }
  ],
- "updatedAt": "2021-07-18T06:58:57+00:00"
+ "updatedAt": "2021-07-18T06:58:57+00:00",
+ "coverFileName": "037aea38-40ef-4c40-bc0a-b21ba93d6f09.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "5c740a42-b2bd-4df4-b9ae-ed1da5efdd5c",
  "title": {
-  "en": "Togainu no Chi – Mekakushi Oni"
+  "en": "Togainu no Chi \u2013 Mekakushi Oni"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,18 +15,20 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "7e5d925b-36f2-42fe-b027-7ff7835feffe.jpg"
   },
   {
    "id": "d4f3f65e-4b71-4228-b613-48bee18c65b6",
    "title": {
-    "en": "Togainu no Chi – Acid Color"
+    "en": "Togainu no Chi \u2013 Acid Color"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "3f878da1-5df0-4f20-9b23-23ddda108e92.jpg"
   },
   {
    "id": "c0ef621c-97fd-442e-b44f-62318f5913b1",
@@ -37,7 +39,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "03ba5be1-c104-473c-af6c-3b3680fe5a65.jpg"
   },
   {
    "id": "7f698377-e110-4860-807b-340f2e2f7d1e",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "bb03421b-dec9-44a3-bb35-c9b989b9ab4d.jpg"
   },
   {
    "id": "d6083584-cb42-41db-8123-8d7a847f5482",
@@ -60,7 +64,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "5b564a83-51c5-4202-9c11-535db5d812ec.jpg"
   },
   {
    "id": "f1c0267f-1812-4dd7-988b-da46a43ffce6",
@@ -71,40 +76,44 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "e569edd2-4b77-49d1-83aa-3f4a0382dccb.png"
   },
   {
    "id": "510b6556-40cb-4611-8483-f89e317fec26",
    "title": {
-    "en": "Togainu no Chi – Domestic Vermillion"
+    "en": "Togainu no Chi \u2013 Domestic Vermillion"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "302bbd3a-5660-4607-89f9-2d9e63446b13.jpg"
   },
   {
    "id": "d2b92655-768f-48a0-a974-f31f5b4df156",
    "title": {
-    "en": "Togainu no Chi – Blip Noise"
+    "en": "Togainu no Chi \u2013 Blip Noise"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "250ec3a3-b7d8-4518-a5fd-31e7ee3ba4f1.jpg"
   },
   {
    "id": "44fb9289-7e48-4c32-9b71-4cf0fef775b4",
    "title": {
-    "en": "Lamento – Flawed"
+    "en": "Lamento \u2013 Flawed"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "5eac7aac-fd5e-4751-a234-e1d5fcec4955.png"
   },
   {
    "id": "36eeac92-5ba2-4db3-89d5-a0d947d96ce3",
@@ -115,7 +124,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "c8539089-7dee-4cbf-b7fa-b835f43e17b7.jpg"
   },
   {
    "id": "1b5dfd90-031a-4462-bf24-ddcabdc478c6",
@@ -126,7 +136,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "d9c2ea71-b869-4190-867c-3503f3a9bae9.jpg"
   },
   {
    "id": "1b4c13c6-5a8c-4351-87ce-c336e296026a",
@@ -138,8 +149,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ba5fb354-23cb-47c4-84f0-2488f8245262.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:42+00:00"
+ "updatedAt": "2021-07-18T06:41:42+00:00",
+ "coverFileName": "b7ab17a6-2daa-461c-9640-3d4eeff77519.jpg"
 }

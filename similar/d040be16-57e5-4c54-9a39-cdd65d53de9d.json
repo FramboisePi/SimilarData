@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8c478e69-9041-4ef3-9ae1-d65182cce62d.jpg"
   },
   {
    "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
@@ -26,7 +27,8 @@
    "score": 0.5661745,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7baf42a0-d7a2-4cf6-98bc-abcaff1cf119.jpg"
   },
   {
    "id": "90f33e51-c6e9-4d8f-8f6d-a461b954ac0a",
@@ -39,7 +41,8 @@
     "en",
     "it",
     "es"
-   ]
+   ],
+   "coverFileName": "031d1678-92f8-4e48-b649-3422c72c5797.jpg"
   },
   {
    "id": "28b9bf3a-9481-4d59-a20f-e4538a356bc0",
@@ -52,7 +55,8 @@
     "it",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "d57282c5-3f47-4dbf-b747-ea8143a6f2ec.jpg"
   },
   {
    "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
@@ -63,7 +67,8 @@
    "score": 0.4748086,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aeba307d-c3e6-4a79-9586-60ca5e8ab771.jpg"
   },
   {
    "id": "97f5faa3-538f-4a03-91e3-0ea92a72fa7e",
@@ -74,7 +79,8 @@
    "score": 0.47083446,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "afcae8a7-9078-42b2-a058-9b9990c35af3.jpg"
   },
   {
    "id": "c94c22a2-49af-4e89-a11c-ea967fe9a382",
@@ -85,7 +91,8 @@
    "score": 0.46432868,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "430ea15a-ba21-4684-a4ca-7e7177ed7b12.jpg"
   },
   {
    "id": "6c098026-971d-4f5f-b076-06ebe0fe9a30",
@@ -96,7 +103,8 @@
    "score": 0.46344352,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69337003-669d-40f7-899a-7e0482255efa.jpg"
   },
   {
    "id": "a36a4f27-f6d5-4cdf-a60c-55ac62266598",
@@ -107,7 +115,8 @@
    "score": 0.45792702,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd557de7-a73d-4335-87f6-e2061cb3f06a.jpg"
   },
   {
    "id": "bb1792a0-5887-4dcf-abc4-a733934f6eb1",
@@ -118,18 +127,20 @@
    "score": 0.45685598,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da8f50f0-ab56-4147-9cd3-79943ac89f81.jpg"
   },
   {
    "id": "339d4bcc-88f1-4660-aa5a-542a2c88a384",
    "title": {
-    "en": "Pokémon Zensho"
+    "en": "Pok\u00e9mon Zensho"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e0e3202-c7a2-4c77-80fd-260615f7a5ac.jpg"
   },
   {
    "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
@@ -140,8 +151,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9058436-59c6-42f6-87a0-47d68b9f4ad8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:03+00:00"
+ "updatedAt": "2021-07-18T07:03:03+00:00",
+ "coverFileName": "d4ab1bfd-c3ac-4407-ab6c-bcd66c6a8b9b.jpg"
 }

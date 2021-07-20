@@ -17,7 +17,8 @@
     "es-la",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "9ace7b53-0f71-41cc-acd9-f233149b94c0.jpg"
   },
   {
    "id": "b40cd833-07d3-42ae-bbef-a93db044dc09",
@@ -28,7 +29,8 @@
    "score": 0.46024314,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2909304-039f-4703-853d-2b7bbaca4e8f.jpg"
   },
   {
    "id": "b09b1d58-68a4-4162-928d-6b00902b288b",
@@ -39,7 +41,8 @@
    "score": 0.45363766,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5afc65cd-d0e2-4d92-acff-f4654924c1cd.jpg"
   },
   {
    "id": "fa03ae6a-4d98-433a-9631-41c42a88d7d5",
@@ -50,7 +53,8 @@
    "score": 0.4484114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9daf7552-5cd2-421d-bb9a-1ec8bf2f45dd.jpg"
   },
   {
    "id": "1cfa0301-c996-4db1-96b9-263774c6184b",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "bd61751e-4109-471a-a9b6-0298bb7970af.jpg"
   },
   {
    "id": "083e15cf-f800-4dac-99ac-3a75e5db72ee",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "e4d4f08b-479b-44a3-946c-c229a175a437.jpg"
   },
   {
    "id": "0d0aad75-3df7-44cc-adcb-b0583b95816a",
@@ -85,7 +91,8 @@
    "score": 0.43884748,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3274846a-53fa-4811-bf79-2497003d49f0.png"
   },
   {
    "id": "2c2c0b91-e096-45c2-89d0-9c70c4413de4",
@@ -96,7 +103,8 @@
    "score": 0.43579486,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3546a2b5-a5e2-4b09-b283-b1c536b1565c.jpg"
   },
   {
    "id": "362f9551-8351-4f66-b88b-6288e013b57d",
@@ -108,18 +116,20 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "00a638fb-e047-490d-9f35-87c4a0b4ed61.png"
   },
   {
    "id": "f6925fba-6320-4abb-993b-c7302e32893b",
    "title": {
-    "en": "You’d better destroy the Earth"
+    "en": "You\u2019d better destroy the Earth"
    },
    "contentRating": "safe",
    "score": 0.42740473,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8958319e-d8ab-478c-96fa-a7ad56c1a233.png"
   },
   {
    "id": "6255f0bf-c1c1-411d-bd19-658b4a36ab54",
@@ -131,7 +141,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4a09b4f6-e9ec-409e-b272-e2a61162e920.jpg"
   },
   {
    "id": "11286799-7832-4aae-a0db-e5be67a63027",
@@ -142,8 +153,10 @@
    "score": 0.42563087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "147af27a-92dd-4c82-8026-2f26bd830586.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:16+00:00"
+ "updatedAt": "2021-07-18T06:25:16+00:00",
+ "coverFileName": "b8856bf9-975d-4235-b1f1-49f10376a35e.png"
 }

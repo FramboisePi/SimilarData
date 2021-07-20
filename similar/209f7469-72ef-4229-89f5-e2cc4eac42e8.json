@@ -1,7 +1,7 @@
 {
  "id": "209f7469-72ef-4229-89f5-e2cc4eac42e8",
  "title": {
-  "en": "Touhou - Touhou Doki Doki BOX – Christmas (Doujinshi)"
+  "en": "Touhou - Touhou Doki Doki BOX \u2013 Christmas (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dbdd5852-be85-46ae-92a9-1d2754edaa27.png"
   },
   {
    "id": "5fced3fb-7b61-456e-9a04-cc1bc8a4740c",
@@ -26,18 +27,20 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "c7e79d27-db3c-42bb-adea-b7c0758e4a8e.jpg"
   },
   {
    "id": "5fa63892-5e95-445b-a725-1edf6d21ee78",
    "title": {
-    "en": "Love Live! - µ'sical Days (Doujinshi)"
+    "en": "Love Live! - \u00b5'sical Days (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29f55a81-e6d9-43f1-a262-e5db0a567499.jpg"
   },
   {
    "id": "8a1b6598-4d40-4c5c-b21e-9ff3f3cb177d",
@@ -48,7 +51,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a729f58f-4e2d-417f-825c-4de4b73c3558.jpg"
   },
   {
    "id": "0bfaccce-f100-42bd-a890-c83ad044ded4",
@@ -60,18 +64,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4abe54ab-fcf9-44e3-b021-6204f170fccc.jpg"
   },
   {
    "id": "a144dbfa-f00c-42d4-ae22-4565cd59a47d",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Less Than Friends, More Than Lovers (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Less Than Friends, More Than Lovers (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28e74684-cbee-4d61-91f8-05c55ea8734f.jpg"
   },
   {
    "id": "5f7e133f-71b9-49c3-a270-836fe991e2fa",
@@ -82,7 +88,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d983382-d1aa-48a0-9530-b651144e751b.png"
   },
   {
    "id": "89a66799-736f-46a3-a161-640c322b9f5d",
@@ -93,7 +100,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45c26c6b-4510-4b34-89f1-5771335e6534.jpg"
   },
   {
    "id": "3d1f1514-ed1f-4bc0-af88-43bcf44632d5",
@@ -104,7 +112,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24d5aad8-8928-4a2b-8fa2-a977a2fee36b.jpg"
   },
   {
    "id": "60b3d97d-6100-4013-a929-6afff396793d",
@@ -116,7 +125,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "a35b8403-bea3-4b5f-9fa4-88310cb7c1ac.jpg"
   },
   {
    "id": "8a67920d-2835-404d-8377-c52172793712",
@@ -128,7 +138,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c47c2dc7-64cc-4740-a4c7-31c2efbef057.png"
   },
   {
    "id": "ad7bc139-62b6-4e40-8a7f-6c4d40ef010c",
@@ -139,8 +150,10 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "651bf5de-cb8e-4a4e-ac3f-87d65bef3c15.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:35+00:00"
+ "updatedAt": "2021-07-18T06:30:35+00:00",
+ "coverFileName": "642fb538-2176-4484-a5bf-03625da7c498.png"
 }

@@ -8,14 +8,15 @@
   {
    "id": "6af5379f-ace2-453f-a9dd-94f7c443937a",
    "title": {
-    "en": "Shinozaki Himeno's Love Q\u0026A"
+    "en": "Shinozaki Himeno's Love Q&A"
    },
    "contentRating": "safe",
    "score": 0.4284704,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "33ff339d-e981-4f89-9fbe-583e9085397e.jpg"
   },
   {
    "id": "f444f209-e72b-460e-9e3c-37ed9ac2e615",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "962b326e-057d-410d-bdd8-702bf680e83d.jpg"
   },
   {
    "id": "5962b357-25ca-46dc-8ea6-8927a9ad8155",
@@ -40,7 +42,8 @@
     "en",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "bfa8a4e6-91bd-4cd3-bd1b-9549a3a523a7.jpg"
   },
   {
    "id": "13284a00-4eff-4f6a-83df-7c34079ca443",
@@ -53,7 +56,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "48c29c3a-4019-4ae3-a009-4b97628f3260.jpg"
   },
   {
    "id": "c9a68c3d-cb2f-4d86-aff5-14eb3218d493",
@@ -66,7 +70,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5440e5d1-78c1-4d61-9c44-329c3b8c75e1.jpg"
   },
   {
    "id": "0fc21af7-f1ed-4715-a8ac-46c3fe83b099",
@@ -78,18 +83,20 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e2a3ebbd-81af-4783-900d-b7f316482cb9.jpg"
   },
   {
    "id": "2901601b-a6a9-404c-bec9-88a0c6fe06a4",
    "title": {
-    "en": "Baka \u0026 Test \u0026 Shokanjudya"
+    "en": "Baka & Test & Shokanjudya"
    },
    "contentRating": "safe",
    "score": 0.38609168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ffdc7613-6d24-4b35-b037-457e18042518.jpg"
   },
   {
    "id": "bc634b22-0c05-4a55-9b7e-3f55438a1ad3",
@@ -106,7 +113,8 @@
     "tr",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "dd9c6ef8-d335-4b6d-b9c2-808e0efc91c3.jpg"
   },
   {
    "id": "a4c07e8e-2dfc-4f77-8579-466b20129b14",
@@ -118,7 +126,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "97600e1f-cdc9-43f7-8fa7-72b34bdf23ba.jpg"
   },
   {
    "id": "76ee7069-23b4-493c-bc44-34ccbf3051a8",
@@ -137,7 +146,8 @@
     "ru",
     "ca",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4dc7b90-8728-4a23-8a80-95aa4ce472b3.jpg"
   },
   {
    "id": "253a0989-6a20-4737-a127-d753eefc4f67",
@@ -149,7 +159,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "40c55c0e-285d-4cdd-86df-c38c504d3e1d.jpg"
   },
   {
    "id": "40660a4b-1b11-404b-bbc6-290c28d7cd9a",
@@ -160,8 +171,10 @@
    "score": 0.37375247,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7be13bb3-24df-446f-b523-d46f517b1783.png"
   }
  ],
- "updatedAt": "2021-07-18T06:30:29+00:00"
+ "updatedAt": "2021-07-18T06:30:29+00:00",
+ "coverFileName": "4d019198-b18a-493e-b363-4ec416a8f253.jpg"
 }

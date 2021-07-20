@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "2e29d2ae-fb22-42ba-982d-fd9eb3dba8c0.jpg"
   },
   {
    "id": "2ea96ba0-8a6a-441d-bb93-3276abaf91d3",
@@ -34,7 +35,8 @@
     "ru",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "2cbebce7-40c7-4cac-adde-ce191301ce56.jpg"
   },
   {
    "id": "f65444dc-3694-4e31-a166-8afb2938ed55",
@@ -51,7 +53,8 @@
     "ar",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "e122de64-be6c-4096-9039-d9db18d17933.jpg"
   },
   {
    "id": "6a09bb1b-8970-43f5-ada6-9afdd25d612f",
@@ -62,7 +65,8 @@
    "score": 0.43328348,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "055a01c1-d401-4d15-aba7-b6dfa249f347.jpg"
   },
   {
    "id": "f263bb25-bc48-465d-bc1b-e29b1b2b9383",
@@ -74,7 +78,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3cc65b05-a4e1-4be5-bae1-64d362e8ab4f.jpg"
   },
   {
    "id": "5c8ca79d-a120-4dec-8000-e06e177f78bf",
@@ -86,7 +91,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7a77804d-0cc8-4ea0-b6ee-f82e42b917d6.jpg"
   },
   {
    "id": "96a105c5-48ed-47aa-8220-bef33b79791c",
@@ -98,7 +104,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "6b229744-30f5-4198-987b-005afdb70200.png"
   },
   {
    "id": "4dc4e8ab-a841-4db5-a1be-ab155558a67f",
@@ -112,7 +119,8 @@
     "ru",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "3a54e753-4208-422d-9007-095f2dfb59b3.jpg"
   },
   {
    "id": "7985d8fd-4f28-4aa7-956a-2a7314d93fc0",
@@ -123,7 +131,8 @@
    "score": 0.381689,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9910d395-6dd9-4cb7-b8dd-a13311b3fc2d.jpg"
   },
   {
    "id": "cf20298f-07e0-4ffe-b2af-f290ebff9fd8",
@@ -134,12 +143,13 @@
    "score": 0.3736992,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cecbab11-c862-4fac-81e4-b3699b670335.jpg"
   },
   {
    "id": "f0e3275b-a321-449d-99ba-baa3244b71b5",
    "title": {
-    "en": "Akaboshi – Ibun Suikoden"
+    "en": "Akaboshi \u2013 Ibun Suikoden"
    },
    "contentRating": "safe",
    "score": 0.36993286,
@@ -148,7 +158,8 @@
     "de",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6a4a210a-eb3d-4c38-8404-5343c9672317.jpg"
   },
   {
    "id": "8493c7cd-8c28-4c67-a711-509e19307105",
@@ -159,8 +170,10 @@
    "score": 0.36993286,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56e0ee26-a7df-4a9e-b80a-6a0cdfc5ce87.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:22+00:00"
+ "updatedAt": "2021-07-18T06:38:22+00:00",
+ "coverFileName": "ba8dccbb-9d26-452a-8ef6-2d8c79cbcf07.jpg"
 }

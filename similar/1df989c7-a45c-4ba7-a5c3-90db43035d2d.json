@@ -1,20 +1,21 @@
 {
  "id": "1df989c7-a45c-4ba7-a5c3-90db43035d2d",
  "title": {
-  "en": "Pokémon Sun and Moon - Moondrop Meltysunny (Dujinshi)"
+  "en": "Pok\u00e9mon Sun and Moon - Moondrop Meltysunny (Dujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "8fa1a221-7c5b-4a30-8715-d6a6f98340b9",
    "title": {
-    "en": "Pokémon - Lighthouse (Doujinshi)"
+    "en": "Pok\u00e9mon - Lighthouse (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94a4c515-1c1b-4923-83a3-ba2b5aa33f4c.png"
   },
   {
    "id": "3103cb5f-3041-4ea7-a323-300fa426abaa",
@@ -25,7 +26,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c5f3200-eda9-490e-bae8-7be72aeaa223.png"
   },
   {
    "id": "f8e242cb-88be-41c5-9dbd-624205a4cacd",
@@ -36,7 +38,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b8338dc7-57a9-4d90-be66-e05dd14c0ff4.jpg"
   },
   {
    "id": "b53710b2-4cf1-45dd-a507-7f464569990f",
@@ -47,7 +50,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c596f861-3104-4047-98fc-81b2b64a727d.jpg"
   },
   {
    "id": "c74e00ef-06db-4e54-973c-1393d7ee7428",
@@ -58,7 +62,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90b5b9f6-4f55-42c0-af2f-bbff341ffc32.png"
   },
   {
    "id": "4142eac9-d73b-4d5d-92b5-47b78919c8dd",
@@ -69,7 +74,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6038bbb9-7c15-40a1-9572-13c22a9c7470.png"
   },
   {
    "id": "ba800623-0ffb-43cb-8dea-902fa3fccce6",
@@ -80,7 +86,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "13fb7efd-4fc0-4210-960b-0a2c2c767dd0.jpg"
   },
   {
    "id": "50405544-6de3-4cb2-83a2-5066d4a1f0a9",
@@ -91,7 +98,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8022a2bd-025d-4220-bc2b-8f911a4fe941.png"
   },
   {
    "id": "2f04970f-a5df-4dc9-a23f-0bf7fabe8d75",
@@ -102,7 +110,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7e85872d-81f9-4152-9c20-4856319208e8.jpg"
   },
   {
    "id": "13748bbc-f916-4bd4-84fc-32f6b1477a2f",
@@ -113,18 +122,20 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82edd413-4d89-4a81-8d7e-382a27df8e7a.jpg"
   },
   {
    "id": "ede6b418-4ff5-4f11-96dd-f647c6f40dce",
    "title": {
-    "en": "Touhou — Sparkling Star Love"
+    "en": "Touhou \u2014 Sparkling Star Love"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "26e27b95-a5c6-4f56-bd2c-36ec7fc24da3.jpg"
   },
   {
    "id": "598e000a-2872-4f90-982e-66d0c1c6fd4c",
@@ -135,8 +146,10 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47075034-212d-4e06-9b87-8bb28056de14.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:06+00:00"
+ "updatedAt": "2021-07-18T06:30:06+00:00",
+ "coverFileName": "ea7de94a-9fa7-46d8-88d4-ab4981e2b8e0.jpg"
 }

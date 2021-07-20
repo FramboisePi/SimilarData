@@ -1,7 +1,7 @@
 {
  "id": "44166643-9cce-4e6e-a1ab-3c757dc91c35",
  "title": {
-  "en": "♀Demon and ♂Body Double Princess"
+  "en": "\u2640Demon and \u2642Body Double Princess"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.8702219,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73db1d5a-3c9f-4461-969b-18bede8325e8.png"
   },
   {
    "id": "42d592d2-dc0d-4189-9d18-e24fd6b4d983",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "44de418d-613c-4234-ac25-3e15544a4e79.jpg"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -44,7 +46,8 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   },
   {
    "id": "7c418a1c-9241-451e-995a-31f673b4340a",
@@ -58,7 +61,8 @@
     "zh-hk",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "beaf8b75-facb-470e-8981-505fd1ab4a9a.jpg"
   },
   {
    "id": "e4043fa9-4843-42af-a489-9624e48d816b",
@@ -69,7 +73,8 @@
    "score": 0.4006972,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0948acab-96b9-4a7f-9821-4871a0a5a119.png"
   },
   {
    "id": "10fab94e-2227-47e2-b059-f4762eb5ca4e",
@@ -87,7 +92,8 @@
     "pt-br",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a80d2f61-5a20-45a1-b98a-99d7174b3d42.jpg"
   },
   {
    "id": "e6efc92a-04d9-4d0c-af20-ac2dcad835a2",
@@ -99,7 +105,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "16720d00-b646-4ec7-bf26-f225fe946503.jpg"
   },
   {
    "id": "5b2bb40b-4a59-4be4-a134-8b75786b9490",
@@ -112,7 +119,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5ae8d19c-bdc6-484b-a033-a7827fa74230.png"
   },
   {
    "id": "d5757a79-409f-47bb-abdf-d6e0cac7f03b",
@@ -123,7 +131,8 @@
    "score": 0.36217192,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d21bb3be-4eb6-41f0-b9b3-bedff818273d.jpg"
   },
   {
    "id": "657d5f44-e04d-4bef-bcb0-8bc22d7da257",
@@ -134,12 +143,13 @@
    "score": 0.35839447,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "33a82d19-6690-42d6-88b5-6ab64ffb92d4.jpg"
   },
   {
    "id": "91843e85-5611-4f16-9181-c209265ff112",
    "title": {
-    "en": "Grün Bæla"
+    "en": "Gr\u00fcn B\u00e6la"
    },
    "contentRating": "safe",
    "score": 0.35839447,
@@ -147,7 +157,8 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1db5cd33-1804-4422-80bb-a338a2885af4.png"
   },
   {
    "id": "b30540c7-bde6-4279-9645-a3eddc5c9e97",
@@ -158,8 +169,10 @@
    "score": 0.3554026,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22e8a00e-e9dc-48cd-867d-a3953c789c15.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:10+00:00"
+ "updatedAt": "2021-07-18T06:37:10+00:00",
+ "coverFileName": "a105923f-485d-4ad1-a2ef-158a63601826.png"
 }

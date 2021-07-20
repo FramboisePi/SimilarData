@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b7da93cf-54b1-41bd-a1fe-c61c1744d969.jpg"
   },
   {
    "id": "0d600eb1-396d-489b-bae0-bb244f772443",
@@ -27,7 +28,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b93d84e0-e25f-4e37-8d7a-377d72d5d9a7.jpg"
   },
   {
    "id": "b2ca4e0e-a7d7-4c98-bfa3-c771c643bb68",
@@ -42,7 +44,8 @@
     "pl",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "1f779ab8-73d0-4479-b36d-64e663a3bc0c.jpg"
   },
   {
    "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
@@ -53,7 +56,8 @@
    "score": 0.48370224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "abe3b509-2a85-4e44-b1be-d7737a31732b.png"
   },
   {
    "id": "84ba0efc-c404-4d3f-b614-68e3d6ab44b8",
@@ -65,7 +69,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "4d42ac79-a8db-4e72-b488-62ead71ce46f.jpg"
   },
   {
    "id": "c1a6b6ea-0841-46b4-bdc0-e5dc85caf69b",
@@ -76,7 +81,8 @@
    "score": 0.4649353,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3071aec4-1bbc-47ff-b89a-b8c5f25d4bf8.png"
   },
   {
    "id": "c8ea89c7-5b3b-452c-ab19-9d06723eaa94",
@@ -88,7 +94,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "cf0bb4cf-cd5e-4521-947a-a56ed0c4d2e2.jpg"
   },
   {
    "id": "9e7c14e0-7bbe-4665-9a32-30d40d3bc992",
@@ -99,7 +106,8 @@
    "score": 0.45734674,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f7ccdceb-241d-4f60-95c6-0a199b9d4ab6.jpg"
   },
   {
    "id": "8a8e1de3-aa39-422a-a1b6-002ef0886cb0",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
   },
   {
    "id": "27174389-bc10-43e7-b111-345f1ecb9d24",
@@ -122,12 +131,13 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2a318a1-3e98-4b3a-960b-4695bbcde27b.jpg"
   },
   {
    "id": "d4d34476-d08c-4f57-9ba7-48209122d43d",
    "title": {
-    "en": "Rokka Melt: Fiancé wa Yukiotoko"
+    "en": "Rokka Melt: Fianc\u00e9 wa Yukiotoko"
    },
    "contentRating": "safe",
    "score": 0.44919953,
@@ -135,7 +145,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b990cc30-c05a-4720-8ca2-6b014c8415b2.jpg"
   },
   {
    "id": "4bae95aa-c539-4d88-b979-942d281cef4c",
@@ -146,8 +157,10 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "86a6aa8e-158a-4858-a2d2-e51c860e2384.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:07+00:00"
+ "updatedAt": "2021-07-18T07:07:07+00:00",
+ "coverFileName": "c4c8f152-584a-4e8e-b905-714196aa47b0.jpg"
 }

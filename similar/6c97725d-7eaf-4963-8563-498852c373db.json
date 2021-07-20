@@ -15,7 +15,8 @@
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "07330378-6bc3-4fde-aa09-2a5d42f097ca.jpg"
   },
   {
    "id": "62940a51-3ae7-4909-adf9-5b4793d78566",
@@ -27,7 +28,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "356b97dd-6ea4-416c-8f87-15616592a908.jpg"
   },
   {
    "id": "3cd57982-fe12-4631-94ed-ff85d80d6f72",
@@ -41,7 +43,8 @@
     "ru",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "bbd2f9b3-70b7-4330-93d7-b96b4351e24b.jpg"
   },
   {
    "id": "509cce63-7685-4c58-bfdc-c4b6896b1879",
@@ -52,7 +55,8 @@
    "score": 0.4626662,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb7ca030-8d40-4c94-870c-8df81b5f1248.jpg"
   },
   {
    "id": "1b758071-5e3f-4c9a-a4e4-25e41d871857",
@@ -65,7 +69,8 @@
     "es",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "e645e0d4-f760-4737-966d-3a899d43f114.png"
   },
   {
    "id": "1784f612-9a81-4ed6-a596-ef3e2d2e814f",
@@ -77,7 +82,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9c665cca-3278-4117-a46a-516d9df1312f.jpg"
   },
   {
    "id": "32ff365c-58c7-4ac9-9bf5-0e3bf2f55f9b",
@@ -88,7 +94,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "875e1f8b-a7a8-457d-a5ed-957c956f479d.jpg"
   },
   {
    "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
@@ -99,7 +106,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a992a89-7d71-480d-a514-8f8c7f2b8814.jpg"
   },
   {
    "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
@@ -111,7 +119,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "187dc4a9-3996-40f4-a11d-e23910a654e0.jpg"
   },
   {
    "id": "534ba0eb-8d04-4047-8aef-c965ec2ce5c9",
@@ -122,18 +131,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b532bc2d-1af0-4170-96d3-8af3159dd4f8.jpg"
   },
   {
    "id": "427dbfa9-c948-44b7-9fc7-26077ae03823",
    "title": {
-    "en": "Akuma no Kagi to Shoujo no Raison d'Être"
+    "en": "Akuma no Kagi to Shoujo no Raison d'\u00catre"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1de6d9d0-74ec-43f3-ac98-df7ecbcae6f8.png"
   },
   {
    "id": "e365e1ef-dd8e-40cc-912a-97a131ad20de",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "819c9a79-9420-4515-8d25-14c8c99f4b91.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:37+00:00"
+ "updatedAt": "2021-07-18T06:44:37+00:00",
+ "coverFileName": "9a7bf35a-bd86-4030-bf45-92c6b67183d1.png"
 }

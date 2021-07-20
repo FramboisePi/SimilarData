@@ -1,7 +1,7 @@
 {
  "id": "eeea01ed-4838-45ca-8e90-88d6f6e95603",
  "title": {
-  "en": "Cuprum’s Bride"
+  "en": "Cuprum\u2019s Bride"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "37f871cf-b3d6-485c-ba59-d7639fb34638.jpg"
   },
   {
    "id": "dc7bccb5-aac9-46b0-85af-11c493ccfe82",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "47cefc6b-a2a6-4d69-b0b8-533684383ed2.jpg"
   },
   {
    "id": "c01b72bd-7fe3-4eea-87e2-e77efc1322fe",
@@ -42,7 +44,8 @@
     "ru",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "5a6a6e45-c493-4dd3-81ac-8ae3f453147e.jpg"
   },
   {
    "id": "f43aab98-8bfe-4275-97cc-9a7b7635eb80",
@@ -57,7 +60,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "06fd878e-8d49-4d8c-b2f7-5ba370898df6.jpg"
   },
   {
    "id": "077370c8-1bba-4922-aa0a-de65489ce7a2",
@@ -68,7 +72,8 @@
    "score": 0.40573475,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e2c72c47-f9ec-4009-8491-f3316f4c0549.jpg"
   },
   {
    "id": "c44b3e3b-a7e0-4101-b43a-6d58768e7726",
@@ -80,7 +85,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6a98aba1-264c-4585-a3c9-486036785777.jpg"
   },
   {
    "id": "75fa2db8-79ee-435e-b3c4-f56a9e6c484c",
@@ -92,7 +98,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d2433ad6-1405-4123-93cb-e55b9072fc65.jpg"
   },
   {
    "id": "70030054-2499-44c1-92d1-c5d41f0df5a1",
@@ -104,7 +111,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "cbb418a6-c359-4fdd-9906-27279e03b341.jpg"
   },
   {
    "id": "e5e6b437-611a-4d7f-81a3-c3cd692fc885",
@@ -119,7 +127,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "94642f3c-f960-41c6-8357-9d530a07a32a.jpg"
   },
   {
    "id": "c8a7733e-048d-477d-86fb-7e3b8d48ddd4",
@@ -130,7 +139,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "34aaab3e-39b3-41ab-9dd2-5271c415e7bd.jpg"
   },
   {
    "id": "dc06f388-f2aa-4df7-96c7-82c271464e94",
@@ -141,7 +151,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "063ad3b8-bd50-488a-840a-00ce853c8372.jpg"
   },
   {
    "id": "76c69636-119c-41af-9d3e-058296a1db35",
@@ -153,8 +164,10 @@
    "languages": [
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "7b63dbd4-6951-4a57-985c-d07130750fe5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:37+00:00"
+ "updatedAt": "2021-07-18T07:08:37+00:00",
+ "coverFileName": "90882063-ad3b-48b1-8c4f-2ee13078cc1e.jpg"
 }

@@ -16,7 +16,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d70fff07-1b0a-438e-837b-e346c080bd28.jpg"
   },
   {
    "id": "fd4f1147-c090-4a28-923e-eb4918f94d5a",
@@ -27,7 +28,8 @@
    "score": 0.61048734,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6460f7cb-8c1b-42cc-8a6b-a285cd9e96a6.jpg"
   },
   {
    "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
@@ -38,7 +40,8 @@
    "score": 0.6091149,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6441aea1-b9bf-457d-b84a-ebbcff99f3f0.jpg"
   },
   {
    "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "48994da0-9683-41cc-8eeb-440fa140a75a.jpg"
   },
   {
    "id": "25e26f9f-cad0-4306-9834-15f433facc50",
@@ -61,7 +65,8 @@
    "score": 0.57851774,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "807460a5-5cb2-45ad-bac5-9cc2cd8db2ae.jpg"
   },
   {
    "id": "22baef38-43f2-4f48-8855-51a877251dcb",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "bc744953-2d16-49b2-a115-fa560a846220.jpg"
   },
   {
    "id": "317837f6-229e-422c-95f3-33b817d74b93",
@@ -86,7 +92,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e31a08c9-8a17-4809-8619-056afc5c903a.jpg"
   },
   {
    "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
@@ -97,7 +104,8 @@
    "score": 0.5586612,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b05efa20-3408-4f72-b0ea-33f0e57d5561.jpg"
   },
   {
    "id": "eb719180-7722-4e92-ad44-b93e8e573213",
@@ -110,18 +118,20 @@
     "id",
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "e8262d42-9eb7-4a99-9ecd-51a26608f70e.jpg"
   },
   {
    "id": "966b23af-d339-4c3e-935b-3c3af1431727",
    "title": {
-    "en": "In an Otome Game World, I’m a Villain?! I Can’t Accept This!"
+    "en": "In an Otome Game World, I\u2019m a Villain?! I Can\u2019t Accept This!"
    },
    "contentRating": "safe",
    "score": 0.53449553,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7af2bc6d-b471-4a6f-b0c5-2554e9c1bfaa.jpg"
   },
   {
    "id": "784541d1-1dc4-4309-8a10-e312107f6423",
@@ -132,7 +142,8 @@
    "score": 0.5302326,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "d4af9739-af88-469f-91ae-22d3235ae1f3.jpg"
   },
   {
    "id": "b64a0204-24fe-4ee1-b5e7-5c737ed05497",
@@ -145,8 +156,10 @@
     "id",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "ea1d0d07-fd34-4d0a-9c45-5f48d2819ba7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:38+00:00"
+ "updatedAt": "2021-07-18T06:56:38+00:00",
+ "coverFileName": "a20ede85-8994-47b7-935c-389826221071.jpg"
 }

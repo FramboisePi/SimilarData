@@ -16,7 +16,8 @@
     "fr",
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "a1d76e47-bd3f-4223-9c7c-14754050d074.jpg"
   },
   {
    "id": "173116b6-0f11-4fff-a348-8844d1394a45",
@@ -31,19 +32,21 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "3b785e4c-9afa-4b7c-be88-4385b2a99c14.jpg"
   },
   {
    "id": "07382196-5d12-4b4f-93d9-50c521f65a7e",
    "title": {
-    "en": "Blue Dragon - Ral Ω Grado"
+    "en": "Blue Dragon - Ral \u03a9 Grado"
    },
    "contentRating": "suggestive",
    "score": 0.517146,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "36b31606-40dc-430a-9d27-db4ba316c5ad.jpg"
   },
   {
    "id": "75d1875c-4a6e-411c-944d-cf0e154439f3",
@@ -54,7 +57,8 @@
    "score": 0.4923214,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6af182c9-bce7-4d64-85f3-e5b5e04a39e4.jpg"
   },
   {
    "id": "167e53f7-7295-40ef-bec7-63d66c5c52a3",
@@ -66,7 +70,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "803e5548-57d0-4880-904e-54da7a08fc62.jpg"
   },
   {
    "id": "92009635-a9b3-4d9d-ae9e-8b63b8983a7e",
@@ -78,7 +83,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "64496181-e596-46fa-8788-28f4370b236a.jpg"
   },
   {
    "id": "19092bd5-3bef-4200-969d-1b9cbc58cd48",
@@ -89,7 +95,8 @@
    "score": 0.47936097,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3f309908-e9b6-4dcc-b88e-ad0f769b1c41.jpg"
   },
   {
    "id": "31897567-bbe5-4172-a945-b8efc66e2281",
@@ -100,7 +107,8 @@
    "score": 0.47794455,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9149b490-3252-45ac-a6da-84831e5fb77a.jpg"
   },
   {
    "id": "910b9cc3-7f7b-45a6-8ee2-ccf05fc5bd21",
@@ -111,7 +119,8 @@
    "score": 0.47749728,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df123993-508c-4d15-a282-61440f60db98.jpg"
   },
   {
    "id": "0553551f-1bbf-4d53-9fb0-cf7cfee152c4",
@@ -122,7 +131,8 @@
    "score": 0.47710225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f362ea53-fad5-4d7b-8bdc-5a06547dcbb9.jpg"
   },
   {
    "id": "02adf3a3-210f-475a-889f-1db74c58e1f5",
@@ -139,7 +149,8 @@
     "es",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1770d141-8d41-4ce1-989a-3c32d12d5700.png"
   },
   {
    "id": "88343f51-15cc-4c56-a0ce-6413d3de469b",
@@ -151,8 +162,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f404f050-a61a-4198-923e-b977855f8e9f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:39:43+00:00"
+ "updatedAt": "2021-07-18T06:39:43+00:00",
+ "coverFileName": "5bc820df-f57a-456f-a63a-4e2af2643547.jpg"
 }

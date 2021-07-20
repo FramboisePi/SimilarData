@@ -8,14 +8,15 @@
   {
    "id": "07053359-746d-4217-82e5-add1e2c99239",
    "title": {
-    "en": "Litchi☆Hikari Club"
+    "en": "Litchi\u2606Hikari Club"
    },
    "contentRating": "safe",
    "score": 0.3135284,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0812206c-ad14-40b8-9188-7f658ffb48ee.jpg"
   },
   {
    "id": "f48398c1-264f-4b42-82b8-9bb979cf8a7b",
@@ -28,7 +29,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "68555da8-8bc8-4a53-908d-1b7ffe6d2f80.jpg"
   },
   {
    "id": "4e4d4163-689c-4833-b1d6-6c3a17527402",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3b8e09c4-70c6-4bb4-8b25-e4457639ea0f.jpg"
   },
   {
    "id": "03730769-f30b-4133-b2e2-afb1b4985f4a",
@@ -54,7 +57,8 @@
     "ru",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fd7b6ca3-e238-40ed-a812-5a0645eb28fe.jpg"
   },
   {
    "id": "7f1c253d-9557-4abc-b30b-929d7d8db45e",
@@ -72,7 +76,8 @@
     "ar",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "f22ce04d-fe72-463f-ad00-e9aab7269afd.jpg"
   },
   {
    "id": "a7f0a3cf-0f6d-40d7-8c75-d7e950f2c543",
@@ -85,7 +90,8 @@
     "en",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7dd77795-7092-48e2-8094-334d13a93c3d.jpg"
   },
   {
    "id": "1d351e10-c877-458b-84e3-6200f1b7954c",
@@ -97,7 +103,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "7aa076ca-c97d-4021-90e6-a7d7a9190a46.jpg"
   },
   {
    "id": "d885957b-617d-4609-a892-4ad4b2e256d6",
@@ -108,7 +115,8 @@
    "score": 0.26516503,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b8db551e-9092-4221-a9d4-9c4b5466b18a.png"
   },
   {
    "id": "f2b28444-fbe0-4ba7-aca2-300baba7c08e",
@@ -122,7 +130,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "96a3d264-285d-49f2-8de1-dc494a5e8426.jpg"
   },
   {
    "id": "bce1ac3b-135a-4fff-b025-0bcf205cc7d3",
@@ -133,7 +142,8 @@
    "score": 0.25202927,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f35df999-6fb8-44d0-bdcd-9dda0cca037c.jpg"
   },
   {
    "id": "e33b23e2-8c10-47bd-9e0f-d3ed1084974b",
@@ -144,7 +154,8 @@
    "score": 0.25155765,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb37a3fa-5de9-4de5-a99b-ede480952971.jpg"
   },
   {
    "id": "34f45c13-2b78-4900-8af2-d0bb551101f4",
@@ -163,8 +174,10 @@
     "ru",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "54a405c8-c20b-475d-ae67-c8cf9d3b4aa6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:08+00:00"
+ "updatedAt": "2021-07-18T06:33:08+00:00",
+ "coverFileName": "30633f05-3180-4af5-800d-57b9063e9823.jpg"
 }

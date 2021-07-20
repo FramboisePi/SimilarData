@@ -15,12 +15,13 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "d5dee4f1-6a1a-4c20-a9db-3ec7871378e0.jpg"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.4149958,
@@ -31,7 +32,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
@@ -43,7 +45,8 @@
    "languages": [
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9a4e7b3a-4af3-48f6-a304-08f0af6ce776.jpg"
   },
   {
    "id": "a8a66a16-a771-44ae-9f86-92b08ca8e54d",
@@ -55,7 +58,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6e501e4f-2d40-47b6-b7a1-118fd1af3d32.jpg"
   },
   {
    "id": "683a613e-8aa0-4b98-9a62-4138463d6a49",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "857ea7f9-e001-4779-99a9-df30bd1ba185.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -78,7 +83,8 @@
    "score": 0.39742234,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "e618da35-7eef-4076-bc75-590f70e879ea",
@@ -89,7 +95,8 @@
    "score": 0.39395565,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0bf7d5d4-a419-45fd-a676-a2150c684b1b.jpg"
   },
   {
    "id": "5f578c1a-f777-4c8b-ba77-713b4d8a9d04",
@@ -100,7 +107,8 @@
    "score": 0.38736087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "33b6dbe4-3104-47f3-b524-defeb2424f94.jpg"
   },
   {
    "id": "f9bfc73a-d017-424c-92ed-bb79d67fa881",
@@ -115,7 +123,8 @@
     "es",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "ee5f36c6-dcd3-4476-89f9-83e1fc4bd85a.jpg"
   },
   {
    "id": "df599049-8765-4f80-b7e7-220e23110194",
@@ -126,19 +135,21 @@
    "score": 0.37861946,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f7362a9-e21d-4989-ae97-972a13ebc18a.jpg"
   },
   {
    "id": "2a54c697-8c53-47f0-8ee6-03e66a673daf",
    "title": {
-    "en": "KiraKira☆PreCure A La Mode"
+    "en": "KiraKira\u2606PreCure A La Mode"
    },
    "contentRating": "safe",
    "score": 0.375,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4d63903d-a98b-416b-96dc-d6de8938871a.jpg"
   },
   {
    "id": "f3104924-c0bf-4fea-be0c-d09c98bfde3f",
@@ -150,8 +161,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "81733cc9-5f40-4a13-ba8a-61526cf8c356.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:31+00:00"
+ "updatedAt": "2021-07-18T06:55:31+00:00",
+ "coverFileName": "9e9664e3-08a4-440f-997e-31bb32410c2d.jpg"
 }

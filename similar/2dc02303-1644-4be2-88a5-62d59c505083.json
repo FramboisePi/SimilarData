@@ -1,7 +1,7 @@
 {
  "id": "2dc02303-1644-4be2-88a5-62d59c505083",
  "title": {
-  "en": "Succuba \u0026 Siren"
+  "en": "Succuba & Siren"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c6223d47-3c31-46a3-9500-932381d4a898.jpg"
   },
   {
    "id": "e2bd9896-dc6e-4da4-9e80-87e4389c3d52",
@@ -27,7 +28,8 @@
    "score": 0.4243642,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "701a10f2-10ab-423b-bbd4-a42b2b2acb58.jpg"
   },
   {
    "id": "ca3c2f1b-ca10-4b4f-ab01-5038f4210b67",
@@ -38,7 +40,8 @@
    "score": 0.4109012,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eabd89db-e0f6-44f7-8175-dbe8e2d138b5.jpg"
   },
   {
    "id": "34f043ef-a423-422a-8e26-a54720645ee5",
@@ -51,7 +54,8 @@
     "en",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "9b9d706e-82d3-4d31-860a-d655eefcbdf3.jpg"
   },
   {
    "id": "3828dfe0-47a9-4f42-8aa7-de3666c16a11",
@@ -62,7 +66,8 @@
    "score": 0.40841222,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "547432eb-f248-4d18-8fbb-647745d0e325.jpg"
   },
   {
    "id": "82961290-e17e-4aa2-bc7d-b1bb0c171293",
@@ -73,7 +78,8 @@
    "score": 0.40412268,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4a1096cb-0807-47cc-98c9-b87d3aab8943.jpg"
   },
   {
    "id": "12d9aba0-ee0c-4126-b779-e57129520428",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "31814179-7bd2-4748-b1bb-65b179bdd7b0.jpg"
   },
   {
    "id": "e7a6542c-dc4b-47a0-84f8-986c89012108",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5301f192-af8f-47e3-85e4-5b23f246eef2.jpg"
   },
   {
    "id": "fe316ff4-30e1-4377-afc7-c2bcbbed94a4",
@@ -109,12 +117,13 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "194fb228-0e1e-472d-9ce4-79727c3ee6bb.jpg"
   },
   {
    "id": "440ea178-2267-4d01-88bf-39d3c85b4c6f",
    "title": {
-    "en": "Deep Sea’s Song"
+    "en": "Deep Sea\u2019s Song"
    },
    "contentRating": "safe",
    "score": 0.38839856,
@@ -122,7 +131,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "494ac0d2-902c-4904-9dc9-c9599e962727.png"
   },
   {
    "id": "644696ed-471b-4797-a99d-1797378550f4",
@@ -134,7 +144,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cc3685b5-fdd8-4aba-bb65-33a1bd452200.jpg"
   },
   {
    "id": "8d1b8d96-2052-499e-b78e-7f52921789e7",
@@ -147,8 +158,10 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ef2ba427-066d-4baa-af1c-e82e876f4d10.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:00+00:00"
+ "updatedAt": "2021-07-18T06:33:00+00:00",
+ "coverFileName": "0c8a16d1-9fc4-47ba-9dfa-e215a1123fe0.jpg"
 }

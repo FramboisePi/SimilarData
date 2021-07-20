@@ -17,7 +17,8 @@
     "ru",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9b8cb7c5-be37-419a-a696-13e55de3e4a9.jpg"
   },
   {
    "id": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
@@ -37,7 +38,8 @@
     "pl",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "52909fd6-a824-4493-a087-144d1bb43fc7.jpg"
   },
   {
    "id": "280ee4c7-2524-4d92-b3ae-6afda23f8821",
@@ -48,7 +50,8 @@
    "score": 0.34610143,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0a3b9fba-d1c3-4452-a005-b6fbb1aa412f.jpg"
   },
   {
    "id": "3979f6c1-701a-4808-8f1f-fdbfac2d9d56",
@@ -61,7 +64,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ed5f6f85-d2fd-42ab-b675-e51ca470ec38.jpg"
   },
   {
    "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
@@ -75,7 +79,8 @@
     "es-la",
     "ru",
     "vi"
-   ]
+   ],
+   "coverFileName": "5bcfbcc6-13e7-4d00-93db-b7e284374461.jpg"
   },
   {
    "id": "1f4df95f-2946-40c9-9b00-fad72b5f0ae3",
@@ -87,7 +92,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "1f3e8aea-a9b6-4f26-b40a-f94268d0c062.jpg"
   },
   {
    "id": "ffc511f8-c78c-45fc-b366-005c0ddc89f7",
@@ -103,7 +109,8 @@
     "en",
     "es",
     "de"
-   ]
+   ],
+   "coverFileName": "c44ce3b5-b042-4bdf-8ffd-74e784520797.jpg"
   },
   {
    "id": "0704b748-edd7-43fd-83fe-f7e3c08fcf57",
@@ -115,7 +122,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "f729d562-f731-408b-9271-4c3851436470.jpg"
   },
   {
    "id": "3dc6d3cc-ad0a-4d5f-953d-6f7c737b857a",
@@ -131,7 +139,8 @@
     "es-la",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "eb930e33-e3b2-4ca4-af87-1fa3f89c3860.jpg"
   },
   {
    "id": "cd5260e2-e76d-4f85-932f-fc4656b554ed",
@@ -144,7 +153,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d3639b97-ac19-49b4-afb3-1f3255abeaab.png"
   },
   {
    "id": "8ff245e6-df38-41ac-86db-886126c1910d",
@@ -155,12 +165,13 @@
    "score": 0.3378517,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9143ff0-ae7e-4fee-b426-cc34f73c6b9c.jpg"
   },
   {
    "id": "1fa5456d-9082-4dee-87fb-23800b1eab27",
    "title": {
-    "en": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e √Horikita"
+    "en": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e \u221aHorikita"
    },
    "contentRating": "safe",
    "score": 0.3378517,
@@ -168,8 +179,10 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "78f2169b-3af2-4a90-bad0-787ff4c523b0.png"
   }
  ],
- "updatedAt": "2021-07-18T06:26:18+00:00"
+ "updatedAt": "2021-07-18T06:26:18+00:00",
+ "coverFileName": "197d93bd-8bfe-488e-81ca-1956d39ec57c.jpg"
 }

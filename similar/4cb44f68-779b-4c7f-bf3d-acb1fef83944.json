@@ -1,7 +1,7 @@
 {
  "id": "4cb44f68-779b-4c7f-bf3d-acb1fef83944",
  "title": {
-  "en": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
+  "en": "Pok\u00e9mon Mystery Dungeon: Explorers of Time and Darkness"
  },
  "contentRating": "safe",
  "matches": [
@@ -18,7 +18,8 @@
     "tr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "65fb429e-0930-4d02-a49d-800638952617.jpg"
   },
   {
    "id": "7c95687b-4f40-4135-b078-954643027dab",
@@ -31,18 +32,20 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "06de63e2-a5eb-4f5b-8894-5690a10137d9.jpg"
   },
   {
    "id": "8442b87a-ebbc-4b31-be90-7962fbda5876",
    "title": {
-    "en": "W Mission Story: Pokémon Ranger - the Comic"
+    "en": "W Mission Story: Pok\u00e9mon Ranger - the Comic"
    },
    "contentRating": "safe",
    "score": 0.48552346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "777107eb-2077-4565-bc4f-888abc37c034.jpg"
   },
   {
    "id": "ec19b836-df48-43ba-b62f-0864d801a1ca",
@@ -53,7 +56,8 @@
    "score": 0.47108552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6e707f8-fe35-42a7-ab09-3fec2d6bd014.jpg"
   },
   {
    "id": "d9178d54-f78e-4316-b6da-567950b56c6f",
@@ -65,7 +69,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a556e76e-a6aa-47c0-bb30-3e7611f1475c.jpg"
   },
   {
    "id": "dcdcc8c7-932e-4f60-a900-5f19934eb6cf",
@@ -81,7 +86,8 @@
     "it",
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "b28463cf-9326-447b-9b67-08786dfefd68.jpg"
   },
   {
    "id": "fead53e5-f3b5-4793-b19f-b483208ad04e",
@@ -93,18 +99,20 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "85176eb6-d0fc-4d7f-a9c2-88a1f4b2af73.jpg"
   },
   {
    "id": "f8e63ded-8ed8-4f56-bfd2-0d3f5b69e2fc",
    "title": {
-    "en": "Pokémon Gold \u0026 Silver: The Golden Boys"
+    "en": "Pok\u00e9mon Gold & Silver: The Golden Boys"
    },
    "contentRating": "safe",
    "score": 0.4337226,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4bf07127-355a-46c9-9208-7f15ad3236b5.jpg"
   },
   {
    "id": "c5422fa5-6d79-432e-ba66-9540a6f5ff6c",
@@ -121,7 +129,8 @@
     "pt-br",
     "en",
     "he"
-   ]
+   ],
+   "coverFileName": "8bf09dfd-9905-46d8-92f8-6e78e137b44c.jpg"
   },
   {
    "id": "261f62d7-6a82-4215-a6b7-ffd19c937100",
@@ -132,7 +141,8 @@
    "score": 0.39806542,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50d26c86-6c1c-4ad2-beee-dc677e29a40c.jpg"
   },
   {
    "id": "5c586d74-ef10-42c8-9cbb-f6357d9087d1",
@@ -144,7 +154,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "5b536dd8-4134-4f29-85aa-afddbec529b1.jpg"
   },
   {
    "id": "fa3c24af-fea0-4d44-b8da-131c69646bb1",
@@ -157,8 +168,10 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4562ae44-d7e5-4593-8349-f080fde1f4af.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:44+00:00"
+ "updatedAt": "2021-07-18T06:38:44+00:00",
+ "coverFileName": "b3305154-edf9-4fb4-8d52-c5f566cf7512.png"
 }

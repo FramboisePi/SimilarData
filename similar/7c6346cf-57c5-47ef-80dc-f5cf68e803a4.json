@@ -16,7 +16,8 @@
     "ru",
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "73733e31-2cb1-4d10-a4ca-ff7e6fbbfb01.png"
   },
   {
    "id": "1f342815-e720-4c23-9b3d-9bf0604a5f9b",
@@ -27,7 +28,8 @@
    "score": 0.34160048,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8c547a52-0d18-4b71-ad11-c6a07cc3d3dc.jpg"
   },
   {
    "id": "5ab1cab6-353a-46db-bb3e-d00bad0d73ed",
@@ -38,7 +40,8 @@
    "score": 0.33720028,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d56412f2-5ae4-4413-a77d-9de9f5bb0c0e.jpg"
   },
   {
    "id": "8440b7c1-e076-424c-874c-6944dcbb3b89",
@@ -49,7 +52,8 @@
    "score": 0.33476123,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "27316e39-bf16-4301-826c-87641f1a9039.jpg"
   },
   {
    "id": "86ae45f8-1b4b-4264-a103-0b4cbaa4a372",
@@ -60,7 +64,8 @@
    "score": 0.3278251,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4312dfe-e887-40b2-aab3-91cd38fffa25.jpg"
   },
   {
    "id": "ed8e056a-79f4-4332-8355-e37028dfbfdb",
@@ -71,7 +76,8 @@
    "score": 0.3278251,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5a34499d-642e-4ca7-9159-17a3b1fb13bf.jpg"
   },
   {
    "id": "5cdbf5e5-50c3-492d-b1e2-8e92d8406e73",
@@ -82,7 +88,8 @@
    "score": 0.32343224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fcdc74d8-f4a6-44ab-b743-e1567664b4af.jpg"
   },
   {
    "id": "79988f39-3def-4a09-b945-e88cccb7e753",
@@ -93,7 +100,8 @@
    "score": 0.32343224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ddf0d1d4-6a0b-4ef7-b36d-3fe78f0376a0.jpg"
   },
   {
    "id": "ebbbb7ab-ed10-48d6-8599-f6c99ab7048f",
@@ -105,7 +113,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "b41166e2-f088-490d-8dad-2993fae25f94.jpg"
   },
   {
    "id": "a4985993-63e7-48be-860c-d5a7c1c9b2a6",
@@ -116,18 +125,20 @@
    "score": 0.30350706,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1a9d7e4-1975-45c5-aa05-884ce0066ac6.jpg"
   },
   {
    "id": "9fbec3c7-0bc6-43db-b8d0-818510f88a43",
    "title": {
-    "en": "Ratchet \u0026 Clank"
+    "en": "Ratchet & Clank"
    },
    "contentRating": "safe",
    "score": 0.30350706,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab1a6e81-5ff9-4ef7-9972-2abe1d451d18.jpg"
   },
   {
    "id": "ce148ded-c378-4e10-9e7d-83059969b4c3",
@@ -139,8 +150,10 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0703ec6d-bf1d-433e-85a3-7d1d5ec2a14b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:34+00:00"
+ "updatedAt": "2021-07-18T06:47:34+00:00",
+ "coverFileName": "d654aa59-c48f-4ddf-8ee9-5b94e8d965e8.jpg"
 }

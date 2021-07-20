@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a3fe735f-dfa6-4f7c-86c1-32e9ebda18d5.jpg"
   },
   {
    "id": "52440af0-546a-4c83-9244-9c7da20ffd0e",
@@ -27,12 +28,13 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0ab876a8-876a-42ec-9c85-0e91f368ceef.jpg"
   },
   {
    "id": "78dec182-5327-4942-90bc-532fea2b752a",
    "title": {
-    "en": "Amachin wa Jishou ♂"
+    "en": "Amachin wa Jishou \u2642"
    },
    "contentRating": "safe",
    "score": 0.53145415,
@@ -42,7 +44,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "c2783087-4439-40e7-a308-eeb1f3217c01.jpg"
   },
   {
    "id": "7a0b77cd-fec6-4fe3-a2c5-9dc5b132e7b1",
@@ -53,7 +56,8 @@
    "score": 0.5272221,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23f859a6-4174-404a-9df7-3a711e15bf48.jpg"
   },
   {
    "id": "d17be322-3bb3-46bb-b443-b41fa39a782f",
@@ -64,7 +68,8 @@
    "score": 0.5163645,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b3402df-0095-48a9-a033-167263db1d23.jpg"
   },
   {
    "id": "e50cd0e6-bf0a-4a04-967e-be7cab31bfc9",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "19dac042-d1e8-48b4-83e8-036807476579.jpg"
   },
   {
    "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
@@ -87,7 +93,8 @@
    "score": 0.51173455,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a02a8658-1dda-487a-be47-48ba9b399a37.jpg"
   },
   {
    "id": "57f0a357-f107-4fa4-ac50-685c70ad66c9",
@@ -98,7 +105,8 @@
    "score": 0.51119053,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de9a4233-9368-4d5a-aa4a-9279f477d4f8.jpg"
   },
   {
    "id": "7a25e257-b4fd-451d-a5eb-b633847cabb8",
@@ -109,7 +117,8 @@
    "score": 0.5094975,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbc47891-cc82-415f-b58b-c2878b816852.jpg"
   },
   {
    "id": "2f8336ce-b3de-41c9-a5a5-2030dd8a53d3",
@@ -120,7 +129,8 @@
    "score": 0.5089017,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5bb5a96f-dd68-46cb-bef7-30898515fc1a.jpg"
   },
   {
    "id": "71cc967d-5755-41c9-89a9-4f3e14884b1b",
@@ -131,7 +141,8 @@
    "score": 0.50678855,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5245559b-01b6-4644-b9d7-e2bb949a26b8.jpg"
   },
   {
    "id": "e7efa53c-5e7c-4480-acaa-3c4b7abaf6a5",
@@ -144,8 +155,10 @@
     "tr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3e198876-c80b-476d-8944-c77fa5f2cff7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:19+00:00"
+ "updatedAt": "2021-07-18T06:33:19+00:00",
+ "coverFileName": "38790b54-a427-4873-affe-50d9d87c982a.png"
 }

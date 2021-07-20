@@ -17,7 +17,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "c1fa899f-bde3-40f3-bc15-d3abe7efab51.jpg"
   },
   {
    "id": "7c95687b-4f40-4135-b078-954643027dab",
@@ -30,7 +31,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "06de63e2-a5eb-4f5b-8894-5690a10137d9.jpg"
   },
   {
    "id": "bcab1d1d-029f-439b-893e-6e8553b007ba",
@@ -49,7 +51,8 @@
     "id",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "9a196dbd-f8df-408f-aa3c-1738850af30f.jpg"
   },
   {
    "id": "261f62d7-6a82-4215-a6b7-ffd19c937100",
@@ -60,7 +63,8 @@
    "score": 0.46053162,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50d26c86-6c1c-4ad2-beee-dc677e29a40c.jpg"
   },
   {
    "id": "979bde26-0842-4ca0-995a-17b1875ce145",
@@ -75,7 +79,8 @@
     "tr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "65fb429e-0930-4d02-a49d-800638952617.jpg"
   },
   {
    "id": "8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78",
@@ -91,7 +96,8 @@
     "hi",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "38360026-b5b9-4b64-84af-486173e65c65.jpg"
   },
   {
    "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
@@ -105,7 +111,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f41c366a-bbd8-4a38-9b19-85f9d896e116.jpg"
   },
   {
    "id": "18cee764-9066-4fc5-a30f-8cee54788c3a",
@@ -119,7 +126,8 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "95ef7058-fe9e-4704-a26b-ef28eea5bfa5.jpg"
   },
   {
    "id": "14a75df9-07d2-4181-acc0-5693be1aeb3e",
@@ -139,7 +147,8 @@
     "id",
     "pl",
     "vi"
-   ]
+   ],
+   "coverFileName": "8d73f54f-c54d-4e2f-b568-16e7145ee25a.jpg"
   },
   {
    "id": "c7e9c722-18bd-4b94-8c0f-90edf9e25b8c",
@@ -152,12 +161,13 @@
     "en",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "2f6d29d6-bd1d-4076-afd3-852c251bcaeb.jpg"
   },
   {
    "id": "78ccd6df-51db-46d2-8f9f-1a55a13bfac2",
    "title": {
-    "en": "Chū Boss-san Level 99, Saikyou no Buka-tachi to Tomo ni Nishuume Totsunyuu!"
+    "en": "Ch\u016b Boss-san Level 99, Saikyou no Buka-tachi to Tomo ni Nishuume Totsunyuu!"
    },
    "contentRating": "safe",
    "score": 0.43199548,
@@ -165,7 +175,8 @@
     "ru",
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "6f59ab36-8e21-4de4-abb0-b0e8fb1383cd.jpg"
   },
   {
    "id": "ec19b836-df48-43ba-b62f-0864d801a1ca",
@@ -176,8 +187,10 @@
    "score": 0.42631972,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6e707f8-fe35-42a7-ab09-3fec2d6bd014.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:44+00:00"
+ "updatedAt": "2021-07-18T06:53:44+00:00",
+ "coverFileName": "f30efcf8-bc7b-4de3-854e-20539bddaad7.jpg"
 }

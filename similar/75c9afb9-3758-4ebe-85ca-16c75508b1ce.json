@@ -14,7 +14,8 @@
    "score": 0.43833143,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b5d166f-e8ab-4dd8-952e-7d9de1d921aa.jpg"
   },
   {
    "id": "4dc4e8ab-a841-4db5-a1be-ab155558a67f",
@@ -28,7 +29,8 @@
     "ru",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "3a54e753-4208-422d-9007-095f2dfb59b3.jpg"
   },
   {
    "id": "9a225533-d600-42b3-a8b9-43071e5c25db",
@@ -39,7 +41,8 @@
    "score": 0.41777867,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be0921ba-9883-447b-bb37-2e54f09e5629.jpg"
   },
   {
    "id": "34fc83a4-01f5-431b-ad9c-64b8e6ff1662",
@@ -55,7 +58,8 @@
     "pt-br",
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "57aab057-298a-4fba-b64e-7c88b21aa2ed.jpg"
   },
   {
    "id": "9158f0fe-e78b-4781-a7a0-c894fe22a62b",
@@ -66,18 +70,20 @@
    "score": 0.41342345,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "763e9c4f-4ef7-4919-aa29-575b6f722419.jpg"
   },
   {
    "id": "d7beb91b-d8a0-42c5-b51b-c3487438b2f3",
    "title": {
-    "en": "Dämons"
+    "en": "D\u00e4mons"
    },
    "contentRating": "safe",
    "score": 0.41123697,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f7851da-878e-4a52-8604-6e5138a68fab.png"
   },
   {
    "id": "65cc4012-d604-4783-9222-016794869cb7",
@@ -89,7 +95,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6ecd4402-961f-424c-932a-f682dd51fc4a.png"
   },
   {
    "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
@@ -100,7 +107,8 @@
    "score": 0.40026522,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb97ac2d-2e4f-43fd-ba7f-dc299ac7c082.jpg"
   },
   {
    "id": "4195e2dc-485e-475d-8417-927e10542b7d",
@@ -111,7 +119,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "899b9a51-136e-453c-abc4-3070ecad60d9.jpg"
   },
   {
    "id": "5a33342f-cbf7-4730-adf0-42616fd18077",
@@ -122,7 +131,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58971232-d276-40a9-8b2f-1edbf85e46f9.jpg"
   },
   {
    "id": "8dc1675c-fc40-48d9-b776-ca1ac5e66fc1",
@@ -135,7 +145,8 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3d33ce21-4ba7-407b-98cb-9d71c65f6e1c.jpg"
   },
   {
    "id": "c43bff07-d61d-4fc8-81ea-967817bb3b96",
@@ -149,8 +160,10 @@
     "uk",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "6a2d85b5-6a6e-4a6a-9582-6aaff1653dbe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:16+00:00"
+ "updatedAt": "2021-07-18T06:46:16+00:00",
+ "coverFileName": "1a190b44-80e3-4fe9-9182-94481367b43e.jpg"
 }

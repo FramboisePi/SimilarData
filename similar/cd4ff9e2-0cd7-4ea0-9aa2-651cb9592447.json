@@ -1,7 +1,7 @@
 {
  "id": "cd4ff9e2-0cd7-4ea0-9aa2-651cb9592447",
  "title": {
-  "en": "Kidou Senshi Gundam SEED C.E.73 Δ Astray"
+  "en": "Kidou Senshi Gundam SEED C.E.73 \u0394 Astray"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.71033794,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee9aaf93-3271-494b-a4b5-5e60dd32f3ea.jpg"
   },
   {
    "id": "d67e07e0-807d-4a98-b29d-3f6241571ce8",
@@ -25,7 +26,8 @@
    "score": 0.60093486,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d6737f4-30bb-4038-adbb-32f9504d43ae.jpg"
   },
   {
    "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
@@ -36,7 +38,8 @@
    "score": 0.5746138,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dfcdec33-67f4-477a-ae6f-8bb0fda50690.jpg"
   },
   {
    "id": "8536f10b-573a-4046-8787-c5d0987e93d0",
@@ -47,7 +50,8 @@
    "score": 0.5402265,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aa3d82eb-1614-4732-aa9d-7de573810d1c.jpg"
   },
   {
    "id": "84951fb8-f30d-4239-a129-dc355915a18e",
@@ -58,7 +62,8 @@
    "score": 0.5211926,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "923b5c79-c0ba-4f98-a6bc-699890ac8a21.jpg"
   },
   {
    "id": "79988f39-3def-4a09-b945-e88cccb7e753",
@@ -69,7 +74,8 @@
    "score": 0.47514617,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ddf0d1d4-6a0b-4ef7-b36d-3fe78f0376a0.jpg"
   },
   {
    "id": "4b04c21b-1af1-41c6-8866-88703081df08",
@@ -80,7 +86,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62bb02cf-46ae-41b4-a4de-899dce981f4c.jpg"
   },
   {
    "id": "e0978570-f8d7-463b-b6c4-6ad42ca61f67",
@@ -91,7 +98,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "35e1c30f-6c2e-4e14-93e3-08f21d0c1638.jpg"
   },
   {
    "id": "b64076ff-dcfd-4b18-8b6e-cf704606e87f",
@@ -103,7 +111,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "73a1f8b0-df9c-4836-975c-7a620a8273c5.jpg"
   },
   {
    "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
@@ -114,7 +123,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dcc7498a-dd16-4341-91e2-d0641193a4a5.jpg"
   },
   {
    "id": "8102d854-8517-445a-8745-b42a53755d6d",
@@ -125,7 +135,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9adf6534-511a-4ae0-98ad-6ab9aa649076.jpg"
   },
   {
    "id": "4009123a-8fde-4a89-b118-21eb8650f6f7",
@@ -136,8 +147,10 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba6ea3aa-5a3f-4d5e-a4c8-e19e9937f3d2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:30+00:00"
+ "updatedAt": "2021-07-18T07:02:30+00:00",
+ "coverFileName": "a404d22f-cb50-42dd-b7b5-a558ce77b926.jpg"
 }

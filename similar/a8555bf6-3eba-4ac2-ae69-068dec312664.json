@@ -1,7 +1,7 @@
 {
  "id": "a8555bf6-3eba-4ac2-ae69-068dec312664",
  "title": {
-  "en": "Pocket Monsters - Diamond \u0026 Pearl: 4-koma Gekijyou"
+  "en": "Pocket Monsters - Diamond & Pearl: 4-koma Gekijyou"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "45f377cc-c5dc-4566-a902-6e851900a24b.jpg"
   },
   {
    "id": "0c19c3fa-53cb-46d6-bf80-7faecf170e6f",
@@ -27,7 +28,8 @@
    "score": 0.4002883,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d5d4835-192e-41ce-aede-82ef3eaaed53.jpg"
   },
   {
    "id": "9f286c34-90aa-40fa-acaa-c45f75a8af07",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "88250a93-d387-4c33-8ff1-52ec56ac444a.jpg"
   },
   {
    "id": "28fe9017-5f02-40e3-bb69-43bb0aabce5c",
@@ -50,7 +53,8 @@
    "score": 0.3969545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a738903a-3071-4a80-b3fc-23e60be74a63.jpg"
   },
   {
    "id": "904a33a1-3a4a-475e-a506-17a1bf218959",
@@ -61,7 +65,8 @@
    "score": 0.3969545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39dafa0c-9218-4831-8846-75ac4075c04d.jpg"
   },
   {
    "id": "5b517341-aa7d-4511-a1d0-cd9f203b3589",
@@ -73,18 +78,20 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "976502a0-cc82-49ef-a060-26c12b8c53a9.jpg"
   },
   {
    "id": "d701d37a-cefa-4f9e-9359-078bc057cfd2",
    "title": {
-    "en": "Zero no Chukaima - Yo–chien Nano!"
+    "en": "Zero no Chukaima - Yo\u2013chien Nano!"
    },
    "contentRating": "safe",
    "score": 0.39674792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "370cb185-19bd-45f4-ae46-da385a4d43bf.jpg"
   },
   {
    "id": "b5adc1ca-34d9-4f1f-b1cf-f5dfc8f498bf",
@@ -97,7 +104,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "7aba2058-6414-49c9-b765-a70206f3e43f.png"
   },
   {
    "id": "c8d3b8c6-8824-4ed5-a310-c3864a726328",
@@ -108,7 +116,8 @@
    "score": 0.39674792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2ada1df8-7aba-43b4-86ff-9692f7ea84b9.jpg"
   },
   {
    "id": "3c9db26b-f0a7-4500-b448-352488f32339",
@@ -120,7 +129,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1b793cb5-4afa-4808-93fe-660d52b9d9e3.jpg"
   },
   {
    "id": "c1ed2515-bed5-4926-ba77-a1634f148fd6",
@@ -132,7 +142,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "913462ab-c14a-4d9a-8156-5c68ff7433e6.jpg"
   },
   {
    "id": "0fa88d82-6e71-4b74-bb1a-4b2347aed980",
@@ -143,8 +154,10 @@
    "score": 0.39674792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28d2d0d2-7721-4d2a-b37f-ca57dd56ded1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:45+00:00"
+ "updatedAt": "2021-07-18T06:55:45+00:00",
+ "coverFileName": "8fc5468b-28f5-4113-97b5-c9f16131cad6.png"
 }

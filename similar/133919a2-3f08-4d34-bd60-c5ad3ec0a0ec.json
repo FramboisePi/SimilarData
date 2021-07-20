@@ -1,7 +1,7 @@
 {
  "id": "133919a2-3f08-4d34-bd60-c5ad3ec0a0ec",
  "title": {
-  "en": "sukoshi tsuyome no kimochi ga warui 「Sonzai shinai kioku」"
+  "en": "sukoshi tsuyome no kimochi ga warui \u300cSonzai shinai kioku\u300d"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a2d21cfb-b555-4636-b889-6867a7a7b200.jpg"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -34,7 +35,8 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   },
   {
    "id": "e0511fc5-c114-4447-824e-96cb3db37078",
@@ -51,7 +53,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ecff763c-302d-4e80-81ad-8afbdd43aa3e.jpg"
   },
   {
    "id": "94eb0afc-293c-4323-96b8-89c46de463e6",
@@ -71,7 +74,8 @@
     "vi",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "e588fad2-dbcf-4ca3-a1c1-e1697e917922.jpg"
   },
   {
    "id": "059a5761-1ef4-4d37-8737-69bbe49c4e83",
@@ -85,7 +89,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "59c54645-dfc0-4365-8029-e46d0d4d3f82.jpg"
   },
   {
    "id": "3ed88622-ba6a-4dd6-b5d2-125d7cffcc99",
@@ -98,7 +103,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "761ad770-339e-4b10-98ea-7af80199d52f.jpg"
   },
   {
    "id": "5b8bc4aa-470f-41a0-b316-149e0a5144b8",
@@ -110,7 +116,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "981685c5-0baa-4484-9ea4-3d68322b1f43.jpg"
   },
   {
    "id": "3d4cd5a3-e1d0-49e4-81d0-f2741c87a762",
@@ -124,7 +131,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "ca66a169-5c21-432f-9836-72b43f4b5155.png"
   },
   {
    "id": "03c42f22-3397-47b5-86d6-43def0cd5e7c",
@@ -136,7 +144,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f06c5f1e-bba0-4ec8-9929-c285d3df8b92.jpg"
   },
   {
    "id": "2f86d265-fc88-41db-929e-5dab9ac74352",
@@ -152,7 +161,8 @@
     "id",
     "th",
     "it"
-   ]
+   ],
+   "coverFileName": "ac6600cc-4029-4142-b859-6a732b3120ce.jpg"
   },
   {
    "id": "632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
@@ -167,7 +177,8 @@
     "es-la",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "797fc185-074f-4aaa-b0bc-6bf52ff7f279.jpg"
   },
   {
    "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
@@ -182,8 +193,10 @@
     "id",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "dea127a9-c22a-47b7-9260-eacbc36390d8.png"
   }
  ],
- "updatedAt": "2021-07-18T06:28:03+00:00"
+ "updatedAt": "2021-07-18T06:28:03+00:00",
+ "coverFileName": "9464e311-a2bb-428b-979f-b1ce64f5564a.png"
 }

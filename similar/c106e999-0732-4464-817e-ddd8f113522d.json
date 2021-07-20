@@ -1,7 +1,7 @@
 {
  "id": "c106e999-0732-4464-817e-ddd8f113522d",
  "title": {
-  "en": "Fuu \u0026 Mei's Birthday Day"
+  "en": "Fuu & Mei's Birthday Day"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "it",
     "ro",
     "es"
-   ]
+   ],
+   "coverFileName": "d4152c9a-36bc-4d59-8362-e80be53dbbcc.png"
   },
   {
    "id": "04e601f2-68c7-46f6-b351-fd7b219ae4f9",
@@ -30,7 +31,8 @@
    "score": 0.464904,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a39c09d9-5057-44a4-87d7-9fb7775d4ec5.png"
   },
   {
    "id": "d20ded9e-4df4-4dea-94e1-3905df5c4c16",
@@ -43,7 +45,8 @@
     "es-la",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f76b41e2-103f-4ff6-8ac1-14e8c5adce4b.jpg"
   },
   {
    "id": "ed1605e1-9695-49ce-ba7a-9b4ff17ad4e6",
@@ -54,7 +57,8 @@
    "score": 0.44922346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3575aa9c-75a9-4041-8021-af7c83b47e4f.jpg"
   },
   {
    "id": "e6b76cc8-1354-40ee-86ad-65b1f88c4039",
@@ -65,7 +69,8 @@
    "score": 0.44922346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb963091-094f-4008-a67c-01557571589d.jpg"
   },
   {
    "id": "1e7e58d3-7cea-4aff-918d-62faecd8fe7d",
@@ -77,7 +82,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "1c9799ae-daa3-41e9-b25f-1460fb4f3d39.jpg"
   },
   {
    "id": "8124f607-a4ee-4806-af9c-5e1900de6fec",
@@ -88,7 +94,8 @@
    "score": 0.44922346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f761418-78f2-4e21-adf8-b18b029c9bcc.jpg"
   },
   {
    "id": "9d71b291-782b-4077-b5d7-46d0d006a681",
@@ -100,7 +107,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "550ffd44-b501-43cd-87fc-93a90cb01856.png"
   },
   {
    "id": "17ecf930-56b0-4b5e-b573-b830e5eab0e2",
@@ -114,7 +122,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "18324ebc-efa7-4749-9bb1-d91f0baecd9b.jpg"
   },
   {
    "id": "7c5892c7-e11c-4ca2-aa1c-1cabe34391e1",
@@ -125,7 +134,8 @@
    "score": 0.44922346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "11865879-e73c-43e5-927c-ae2992bac750.jpg"
   },
   {
    "id": "7daf8dd0-6cc0-4b8f-8af0-a330af9a9bd5",
@@ -138,7 +148,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "284e506a-0425-43d8-a8c3-590d993961b0.jpg"
   },
   {
    "id": "a8df519e-d19b-4167-ba14-3eb4457ae451",
@@ -149,8 +160,10 @@
    "score": 0.44922346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ffc19bef-b32a-4221-8571-b7fe8e5f0661.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:17+00:00"
+ "updatedAt": "2021-07-18T07:00:17+00:00",
+ "coverFileName": "6f44c8ca-42e0-4d24-9963-7fc5d484bd4a.jpg"
 }

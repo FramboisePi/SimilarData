@@ -18,7 +18,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f0ef6e6-d99c-476c-9265-c04a9a0b0c12.jpg"
   },
   {
    "id": "5095cbd2-4dfb-4ab2-9dd0-690ac3c75dd7",
@@ -34,12 +35,13 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "052b5066-0b65-4c2e-9e9e-26d7f7799e10.jpg"
   },
   {
    "id": "e0300b2d-9491-4ae3-9f4e-1997aace0dcf",
    "title": {
-    "en": "Noël la neige"
+    "en": "No\u00ebl la neige"
    },
    "contentRating": "safe",
    "score": 0.16648267,
@@ -49,7 +51,8 @@
     "de",
     "fr",
     "bg"
-   ]
+   ],
+   "coverFileName": "6eebbbe1-85bf-4324-9c59-b609d52db989.jpg"
   },
   {
    "id": "3316f5cb-c828-4ad4-b350-5bb474da9542",
@@ -64,7 +67,8 @@
     "ru",
     "pt-br",
     "bg"
-   ]
+   ],
+   "coverFileName": "159fe55f-260a-4597-9dbf-8ae06e786b29.jpg"
   },
   {
    "id": "c057a355-5610-4b1c-a792-51461fa34867",
@@ -78,7 +82,8 @@
     "en",
     "es",
     "bg"
-   ]
+   ],
+   "coverFileName": "e996a87d-f246-4947-a9f3-f9525baf42b7.jpg"
   },
   {
    "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
@@ -90,7 +95,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "0ea31fa1-d063-49c2-a385-1387cf52383d.jpg"
   },
   {
    "id": "69f7ee7e-ba81-4d47-99f8-b92c13b8531f",
@@ -102,7 +108,8 @@
    "languages": [
     "bg",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9422153f-b0f8-4803-9900-fe7f481137fe.jpg"
   },
   {
    "id": "2cff3b0a-af5c-4322-a0c6-23a1d5e393d0",
@@ -116,7 +123,8 @@
     "it",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "416f00db-d1b0-41d3-a0ab-03114f5c8df4.jpg"
   },
   {
    "id": "495b123a-ed4c-44ac-ac0d-cc857a2d6f93",
@@ -132,7 +140,8 @@
     "fr",
     "pt-br",
     "bg"
-   ]
+   ],
+   "coverFileName": "82f689ae-715c-4039-8b81-dbb24189f169.jpg"
   },
   {
    "id": "76e472fe-f815-4176-aad1-8297925511bb",
@@ -145,7 +154,8 @@
     "en",
     "pl",
     "bg"
-   ]
+   ],
+   "coverFileName": "d9e651ed-751d-40a0-95cc-23f8ca8e507b.png"
   },
   {
    "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
@@ -159,7 +169,8 @@
     "bg",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "8ccd5677-e2ca-4a10-bdad-131ff1dba437.jpg"
   },
   {
    "id": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
@@ -175,8 +186,10 @@
     "it",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "3c3921b0-8c25-44e0-b776-64eeffb9bb36.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:54+00:00"
+ "updatedAt": "2021-07-18T07:10:54+00:00",
+ "coverFileName": "b9e69dbf-b2ca-4621-97fe-f7800c654ed1.jpg"
 }

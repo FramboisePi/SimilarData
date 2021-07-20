@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "035e759d-24b4-4f71-8423-8895360cbea8.png"
   },
   {
    "id": "a9336f8f-9d68-427d-b58a-5ba33646c15b",
@@ -26,7 +27,8 @@
    "score": 0.37119427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "896d7b95-09f6-49d5-88da-001886f0b7d6.jpg"
   },
   {
    "id": "3f692c18-0d0c-49b3-9430-5fb0e67515a9",
@@ -37,7 +39,8 @@
    "score": 0.34832668,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b82a739-8932-4361-a706-6a10793d3032.jpg"
   },
   {
    "id": "c63f1a55-ca29-4ad1-bb43-337ecd0c1c1b",
@@ -50,7 +53,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "553186e6-0845-4566-a252-97a48f0c9824.jpg"
   },
   {
    "id": "2a306bb0-4dc3-44eb-b504-0eca6c348d37",
@@ -61,7 +65,8 @@
    "score": 0.32055777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c1fa4a6-9175-4a16-9c57-9eeea2a3ac6f.png"
   },
   {
    "id": "dcaf0aca-bba4-4564-b8cf-40c1ad7a7f8b",
@@ -74,7 +79,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "4985a175-ec76-4909-afe1-e16de9b75a87.jpg"
   },
   {
    "id": "dc05b998-08c1-48b2-ac4b-7c6521d70296",
@@ -85,7 +91,8 @@
    "score": 0.31037873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5a091b15-1450-4b1a-9fda-49d151ef13de.png"
   },
   {
    "id": "23e83dfc-b0d3-4196-b362-cb4de65d7b8c",
@@ -96,7 +103,8 @@
    "score": 0.31037873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2ed56406-5a71-41f3-a3b0-aa3a2d79f3d4.png"
   },
   {
    "id": "fd93ed0a-3df6-4c11-ba61-95381c79e37e",
@@ -107,7 +115,8 @@
    "score": 0.31037873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ead48d5-05a6-42d4-9d98-571b777fd758.jpg"
   },
   {
    "id": "3962b7ae-c79d-4f53-8e52-3fcb9aca9b89",
@@ -119,18 +128,20 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8bf53e11-cd7e-4f90-bdc0-0dfb05a56d92.jpg"
   },
   {
    "id": "1a0f98fe-102c-4e51-a86f-23d200f3d01f",
    "title": {
-    "en": "1.8m² no Himegoto"
+    "en": "1.8m\u00b2 no Himegoto"
    },
    "contentRating": "safe",
    "score": 0.31037873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2ef3b4ce-6632-409f-88cc-df9c9bf1adfe.png"
   },
   {
    "id": "3464090d-9c45-43e2-82f0-e254425bbe58",
@@ -141,8 +152,10 @@
    "score": 0.31037873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd6cd453-3556-474d-949a-a0eed744475d.png"
   }
  ],
- "updatedAt": "2021-07-18T06:24:50+00:00"
+ "updatedAt": "2021-07-18T06:24:50+00:00",
+ "coverFileName": "dd42f1d7-ee2a-44ff-874f-6722ddda20da.jpg"
 }

@@ -8,13 +8,14 @@
   {
    "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
    "title": {
-    "en": "Saint☆Onii-san"
+    "en": "Saint\u2606Onii-san"
    },
    "contentRating": "safe",
    "score": 0.37293836,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da5567b7-de52-429a-97a3-f2a7f7f8c165.jpg"
   },
   {
    "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
@@ -25,7 +26,8 @@
    "score": 0.33734298,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1b096f7-7407-46b9-a760-f6da6b986861.jpg"
   },
   {
    "id": "a04959d8-0758-4f63-acc7-3fba9972157d",
@@ -38,7 +40,8 @@
     "hu",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "949ff7b5-f2a1-4285-8582-945fba1fbcf1.jpg"
   },
   {
    "id": "9ecda053-6809-433a-a558-238357ac8ed3",
@@ -49,7 +52,8 @@
    "score": 0.33296534,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab3aa948-c9ed-4b3b-b355-a4c68e3dcc1e.jpg"
   },
   {
    "id": "7c17371b-83fe-4934-ad82-2e8c72dc1f49",
@@ -60,7 +64,8 @@
    "score": 0.31310225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "12608ad7-ffd8-4aeb-8f4f-2453061601d9.jpg"
   },
   {
    "id": "31c3484e-1832-44c1-b43a-dee39e32c3bd",
@@ -74,7 +79,8 @@
     "tr",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "60edaad3-3fe0-4690-87a0-e2bf921ffc73.jpg"
   },
   {
    "id": "c59d4cbc-ba1d-45b2-940f-36f2f3c7ba83",
@@ -86,7 +92,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4b495297-a844-497e-bb52-c086def45142.jpg"
   },
   {
    "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
@@ -97,7 +104,8 @@
    "score": 0.3097141,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d069563-42b6-4da8-81a9-5b4cf05ecfa0.jpg"
   },
   {
    "id": "d6678065-9934-447d-a327-abb73fcd70e8",
@@ -108,7 +116,8 @@
    "score": 0.30844945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "14090cef-bf2c-4ba7-9faf-e592506849bb.jpg"
   },
   {
    "id": "d844d406-7926-4b5f-8767-2a425faefe1e",
@@ -120,7 +129,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "cbb9455a-be34-45ac-b143-3431805727fd.jpg"
   },
   {
    "id": "efad9362-a6bc-47f6-a0a7-80fc00572bcc",
@@ -133,7 +143,8 @@
     "es-la",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "0bf634a3-574a-43cf-b16b-ea6de3940ca1.jpg"
   },
   {
    "id": "783c2ace-e87f-42e2-9a45-a2ece024100b",
@@ -146,8 +157,10 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "316f7cba-8a45-4524-aae3-46df2a6f61ae.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:09+00:00"
+ "updatedAt": "2021-07-18T06:38:09+00:00",
+ "coverFileName": "1ff77b41-8670-433d-971f-f0b4926915a5.jpg"
 }

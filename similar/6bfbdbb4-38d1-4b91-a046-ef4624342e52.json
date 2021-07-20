@@ -1,7 +1,7 @@
 {
  "id": "6bfbdbb4-38d1-4b91-a046-ef4624342e52",
  "title": {
-  "en": "Mahou Shoujo Homura★Tamura ~Heikou Sekai ga Itsumo Heikou de Aru to wa Kagiranai no da.~"
+  "en": "Mahou Shoujo Homura\u2605Tamura ~Heikou Sekai ga Itsumo Heikou de Aru to wa Kagiranai no da.~"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "it",
     "es-la"
-   ]
+   ],
+   "coverFileName": "eab97308-b944-464d-bab9-c4e2e1ef01bd.jpg"
   },
   {
    "id": "42b7e22e-de2d-4816-9380-c65432aa0fb3",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0190071f-b8b1-4a2c-9957-30d694370a25.jpg"
   },
   {
    "id": "7f9aa462-170a-4abd-a739-0de44d618cc7",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e32fc80c-9e87-4a37-bdda-09819d354666.jpg"
   },
   {
    "id": "b2d1cb16-12af-4770-b3bf-aad0453c0422",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7c203a83-a5d8-44fe-baa6-3ccba5ded18e.png"
   },
   {
    "id": "6e22e1d2-b45e-4e55-b306-51c9e12e34f6",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a578d989-249b-42d7-8aa0-d74ad7eded3d.jpg"
   },
   {
    "id": "dba3b84e-b034-457f-9e5d-51db23378b39",
@@ -75,7 +80,8 @@
    "score": 0.3618326,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "f6285d9a-8488-49a6-99d9-c8d26646ef99.jpg"
   },
   {
    "id": "f1c864c3-94cf-4722-8569-ab3d7ca6117a",
@@ -90,7 +96,8 @@
     "pt-br",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "8de80cb5-cc45-4a27-a7e2-bfd10fbb12b7.jpg"
   },
   {
    "id": "98c8cc37-42d1-4235-afd5-f942612f1c12",
@@ -101,7 +108,8 @@
    "score": 0.3618326,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "7f31c990-ce72-49f7-a42e-ddbe93fac1e3.jpg"
   },
   {
    "id": "891d35ce-8587-4d66-a88d-69291cf29a48",
@@ -114,7 +122,8 @@
     "es-la",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b60a7cce-0a60-4b2c-9cb6-1735fa443a30.jpg"
   },
   {
    "id": "c1ed2515-bed5-4926-ba77-a1634f148fd6",
@@ -126,7 +135,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "913462ab-c14a-4d9a-8156-5c68ff7433e6.jpg"
   },
   {
    "id": "b5adc1ca-34d9-4f1f-b1cf-f5dfc8f498bf",
@@ -139,7 +149,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "7aba2058-6414-49c9-b765-a70206f3e43f.png"
   },
   {
    "id": "ef91a6b3-2747-45a8-9da0-3c9430dde39a",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "dde5d111-0330-48ac-8768-58deee23b5f8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:30+00:00"
+ "updatedAt": "2021-07-18T06:44:30+00:00",
+ "coverFileName": "0ca22bc3-a8af-482d-ad02-73bb4f717316.jpg"
 }

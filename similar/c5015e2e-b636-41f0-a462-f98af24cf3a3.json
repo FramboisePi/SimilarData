@@ -1,7 +1,7 @@
 {
  "id": "c5015e2e-b636-41f0-a462-f98af24cf3a3",
  "title": {
-  "en": "Fights Break Sphere – Return of the Beasts"
+  "en": "Fights Break Sphere \u2013 Return of the Beasts"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "a743488d-ed1c-4c97-8616-a923916b2566.png"
   },
   {
    "id": "f249f19c-62a6-4108-844a-b655c0597f97",
@@ -30,7 +31,8 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "03f8c719-f940-4290-8396-87d7b7d2032a.jpg"
   },
   {
    "id": "6e4ab519-495f-4dc9-9f8a-00f18de96fe8",
@@ -44,7 +46,8 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "afd51888-3e45-4101-8993-e0afc677c52e.jpg"
   },
   {
    "id": "c8354b2e-cfad-421a-86b5-e77f648d2aee",
@@ -55,7 +58,8 @@
    "score": 0.44878814,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aa7f48e1-291b-4690-bf3d-740b9b471d2f.jpg"
   },
   {
    "id": "a7629fc7-5e10-49a1-8b3b-f1933be2436b",
@@ -66,7 +70,8 @@
    "score": 0.41048416,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1c5aef0e-8359-478b-a999-6ccd4220ea5f.gif"
   },
   {
    "id": "22e8350d-7577-4f49-8283-f89913753ced",
@@ -78,7 +83,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "5efc7219-1f46-4b87-8173-121c318b7639.jpg"
   },
   {
    "id": "267db3f7-fd9c-4395-ac36-9ffacd772473",
@@ -94,7 +100,8 @@
     "pl",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "35441289-0b92-478d-b85e-eff93b8f65ff.jpg"
   },
   {
    "id": "f2f87d31-31ed-4f14-a0df-9fb888ebd483",
@@ -106,7 +113,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "7322fc09-6210-49ae-b30d-e044c305bac0.jpg"
   },
   {
    "id": "38438fd8-42c2-4534-a0cc-2bb28e71a7a2",
@@ -120,7 +128,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "1f8717ba-873e-4003-afe8-52d849fef82f.png"
   },
   {
    "id": "e2efcd50-546f-4b57-ac75-48395b5dcec7",
@@ -134,7 +143,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5dd80d9e-1689-42cc-b7ed-6cacde60cf70.jpg"
   },
   {
    "id": "6166c08e-cca6-4a25-9233-14be0d0ab9d2",
@@ -146,7 +156,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b9528243-3b77-438f-a0ee-d7011884578b.jpg"
   },
   {
    "id": "16a74443-06a2-4fb7-8996-2c45dd829ea5",
@@ -159,8 +170,10 @@
     "en",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "0db362aa-6c11-4b3e-8598-a0c33a50ec7d.png"
   }
  ],
- "updatedAt": "2021-07-18T07:00:58+00:00"
+ "updatedAt": "2021-07-18T07:00:58+00:00",
+ "coverFileName": "28d63e87-71ea-4714-8a9e-2a3060f2eb92.png"
 }

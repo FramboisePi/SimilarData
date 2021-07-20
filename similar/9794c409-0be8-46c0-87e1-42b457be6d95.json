@@ -8,13 +8,14 @@
   {
    "id": "50115e6f-bff4-46dc-be3b-0743cdfdb500",
    "title": {
-    "en": "Queen's Blade - Hide \u0026 Seek"
+    "en": "Queen's Blade - Hide & Seek"
    },
    "contentRating": "suggestive",
    "score": 0.4324359,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31472e11-aeae-4456-a4a6-d298528ca33d.jpg"
   },
   {
    "id": "676b2696-768b-49c9-8054-b7e0eb0325bd",
@@ -25,7 +26,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3577eb89-e15b-46e2-900a-e4f01a874dd9.jpg"
   },
   {
    "id": "9cef07be-f2fa-43b8-84c0-1b4483d56c1e",
@@ -36,7 +38,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c809435e-9173-4c48-bda4-919fda3b873d.jpg"
   },
   {
    "id": "3dcc0af5-2aa2-4cbd-ad8b-75a131c74f16",
@@ -48,7 +51,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "cac79013-2feb-49b3-8186-cda325e0f8d7.jpg"
   },
   {
    "id": "171b8c74-423a-4269-908a-4f73e9752607",
@@ -59,7 +63,8 @@
    "score": 0.31093562,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b08eff3-ac01-48b3-ae1b-a9f08a9eeb23.jpg"
   },
   {
    "id": "2d2cc045-9398-40d2-bc56-6116bf13959d",
@@ -70,7 +75,8 @@
    "score": 0.30658072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "852cb561-62d1-4ad6-9273-080fa93cc7af.jpg"
   },
   {
    "id": "608ceab6-b924-4d3f-95d2-5a874f543f78",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "86f85129-5ee6-4b21-8cab-536dc5c0e69e.jpg"
   },
   {
    "id": "dca1f947-b416-4d31-9023-518239d38e3a",
@@ -95,7 +102,8 @@
     "ru",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "dffdf531-977f-4e57-949f-6c43518ec75f.jpg"
   },
   {
    "id": "45a23d0e-d4d6-4ace-bd0c-102eee711e1c",
@@ -106,7 +114,8 @@
    "score": 0.30214548,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c0d2d682-a523-4daf-850d-b3c06e051075.jpg"
   },
   {
    "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
@@ -117,7 +126,8 @@
    "score": 0.29758784,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b8cabcd-84ff-4291-ac1d-4c8ead48043b.jpg"
   },
   {
    "id": "a316ebf5-6102-4e95-9ca6-1b244bc076b4",
@@ -128,7 +138,8 @@
    "score": 0.2962119,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "68d45a63-7758-44a8-9d3b-ef25365c3bc7.jpg"
   },
   {
    "id": "b3949b7e-a3c1-4532-b571-279b0f44a01d",
@@ -142,8 +153,10 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "3953d5b4-4818-4d62-aa58-0582b3b10235.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:41+00:00"
+ "updatedAt": "2021-07-18T06:52:41+00:00",
+ "coverFileName": "c49ceb60-6534-45e4-89c7-0c21092d5e24.jpg"
 }

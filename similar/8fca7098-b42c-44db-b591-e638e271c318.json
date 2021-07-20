@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "76e11d9f-9dd4-4562-85fb-e0d807e72a73.png"
   },
   {
    "id": "63f1340c-f09d-4483-abc1-1dad322f3592",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "9cf38119-969e-4b80-b1f0-445fcb32f15c.png"
   },
   {
    "id": "f5531a88-2251-425e-91ad-98d187260090",
@@ -38,7 +40,8 @@
    "score": 0.54033947,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2f6c86b-b8b5-48be-bc9a-2a8992b4bc8b.jpg"
   },
   {
    "id": "726812a5-7614-4f53-87f4-82d5313cbf1e",
@@ -49,7 +52,8 @@
    "score": 0.5136915,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d019351-85b6-465b-86d3-a5a41480a5e7.jpg"
   },
   {
    "id": "c8cd2bc9-43c5-49e6-956d-cc8573645d93",
@@ -61,7 +65,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "6c709f38-44d1-4f34-9d3c-12591f229e34.jpg"
   },
   {
    "id": "41e3b568-5774-42f9-abc7-c8330713a6aa",
@@ -72,19 +77,21 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eaccbd64-c7f8-46d4-b412-3dbfd0fc625e.jpg"
   },
   {
    "id": "22199242-4bdc-4779-9c50-05c43e9dbe11",
    "title": {
-    "en": "New Danganronpa V3 - He’s not saying “It’s a lie” (Doujinshi)"
+    "en": "New Danganronpa V3 - He\u2019s not saying \u201cIt\u2019s a lie\u201d (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44744647,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "0eaa78ed-0dd4-44f4-9686-a4eb05c31042.png"
   },
   {
    "id": "e5f7a7cb-023d-423d-9d56-c09be2762bdd",
@@ -95,7 +102,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9c16729-b118-4768-809e-99dc56772663.jpg"
   },
   {
    "id": "01c076be-27a5-42f6-85d4-6a1432498b4d",
@@ -106,7 +114,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c710684c-6ebb-4e0a-b0c1-5d4fd9eaf490.jpg"
   },
   {
    "id": "1849ed08-f715-490e-9d94-71ca61507e96",
@@ -118,7 +127,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b4f9d3c0-6aee-4015-b8aa-6369823d387f.jpg"
   },
   {
    "id": "24ef1f9c-5b74-4cdd-beaa-0cd48674bff1",
@@ -130,7 +140,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d580e7b8-b72e-407e-8958-e132e3356485.jpg"
   },
   {
    "id": "b554c544-274b-45bf-9660-6a5528e6e06c",
@@ -141,8 +152,10 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6a0897a-3e39-408a-80e5-92fc96a6a05a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:15+00:00"
+ "updatedAt": "2021-07-18T06:51:15+00:00",
+ "coverFileName": "116504b2-1dcb-43a1-9c99-ef0a45474f98.png"
 }

@@ -8,13 +8,14 @@
   {
    "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
    "title": {
-    "en": "Minecraft: Journey to the World’s End"
+    "en": "Minecraft: Journey to the World\u2019s End"
    },
    "contentRating": "safe",
    "score": 0.522177,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a484892-d56c-4496-9c9a-82d7e8afcfef.jpg"
   },
   {
    "id": "cef6253d-6a55-4438-921c-46968b426f2f",
@@ -27,7 +28,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1861b291-ddd9-4972-b02b-3857bcdbe305.jpg"
   },
   {
    "id": "28ed63af-61f8-43af-bac3-762030c72963",
@@ -40,7 +42,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "a8e23850-b129-4001-8107-0ef6d5c03a74.jpg"
   },
   {
    "id": "c3a0a73f-646e-4b46-9aac-7cd080b7ab03",
@@ -58,7 +61,8 @@
     "tr",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "1b8a3dd7-0338-4115-adc0-6648bbb0881d.jpg"
   },
   {
    "id": "a05a7c80-723c-4bba-8cc7-bce8e5116bb1",
@@ -74,18 +78,20 @@
     "vi",
     "tl",
     "it"
-   ]
+   ],
+   "coverFileName": "4423c8f1-f68e-41eb-ac72-37cc4dbb64c3.jpg"
   },
   {
    "id": "70aec3cc-ec15-4dfa-bfe4-93d54d5449dd",
    "title": {
-    "en": "Chicchai Kanojo Senpai to Dōseishimasu."
+    "en": "Chicchai Kanojo Senpai to D\u014dseishimasu."
    },
    "contentRating": "safe",
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c446c5cd-042b-4e77-a91a-7f15a0dd71e4.jpg"
   },
   {
    "id": "5a291082-4081-4d0e-bfd0-a97de40da36a",
@@ -96,7 +102,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38a97f70-7d65-4ce8-b215-dc8ac804afc4.jpg"
   },
   {
    "id": "82142773-19a4-4d7a-a147-e4adb25cb2fc",
@@ -107,7 +114,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0fc29282-a7d6-4e18-81af-67b4c05e5ce1.jpg"
   },
   {
    "id": "a3224deb-0b5a-4a67-9455-d312dca3559d",
@@ -119,7 +127,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "8c8c59c9-95e2-434f-9d7c-dfaf821d16ce.jpg"
   },
   {
    "id": "23e06c66-23d0-4343-a634-799d3e324222",
@@ -134,7 +143,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "134046cb-3b29-4286-ac7d-26dd9fefe61f.jpg"
   },
   {
    "id": "0953cced-141c-490f-a5d2-a359587be7f1",
@@ -150,7 +160,8 @@
     "es-la",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "3307ee0e-b7a7-4c2b-9c59-d32ecaa63b9c.jpg"
   },
   {
    "id": "6fc6363d-8ff9-4c42-a4e9-085cc5507c66",
@@ -161,8 +172,10 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8808b8ce-1c5b-4faf-ae27-0edf7ccd243b.png"
   }
  ],
- "updatedAt": "2021-07-18T06:43:44+00:00"
+ "updatedAt": "2021-07-18T06:43:44+00:00",
+ "coverFileName": "e493f23e-a35c-4abe-b59f-fa69bd7029ba.png"
 }

@@ -1,20 +1,21 @@
 {
  "id": "f702eba6-c6de-4aab-a6da-78cc777a3892",
  "title": {
-  "en": "Mahou Shoujo Madoka★Magica - Junsui Baiyou Shoujo (Doujinshi)"
+  "en": "Mahou Shoujo Madoka\u2605Magica - Junsui Baiyou Shoujo (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "f92e0740-0212-4fa3-afcd-7decf083edff",
    "title": {
-    "en": "Mahou Shoujo Lyrical Nanoha - めきめき王国 - 猫き下ろし　前編 (Doujinshi)"
+    "en": "Mahou Shoujo Lyrical Nanoha - \u3081\u304d\u3081\u304d\u738b\u56fd - \u732b\u304d\u4e0b\u308d\u3057\u3000\u524d\u7de8 (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.53563595,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ccd4fc0-dda5-43d0-8078-ca9b97621789.jpg"
   },
   {
    "id": "7be2c3e1-638b-43b5-a6f3-860bf46ebdbd",
@@ -25,7 +26,8 @@
    "score": 0.49037123,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc5660ea-901e-4efa-b304-7340416467ce.jpg"
   },
   {
    "id": "722bb776-2592-446a-9f9a-07ee35bd396f",
@@ -36,7 +38,8 @@
    "score": 0.48591667,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "580b364a-6203-49c2-ad6e-206b2efc6679.jpg"
   },
   {
    "id": "707f11bd-5e5f-4304-b6f3-8fbbdf8c9a31",
@@ -47,7 +50,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5fca89ad-b43c-4a7e-9e24-beeb79ddc129.png"
   },
   {
    "id": "6870b040-e27c-4a5f-8243-692ad5444aec",
@@ -58,7 +62,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4d777f4-c723-402a-9c39-39d2d0582dda.jpg"
   },
   {
    "id": "b7ac9264-0cc9-40ec-992f-5de92abfe876",
@@ -70,7 +75,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "f0da2a05-da73-4449-8a07-d42e3fa08d99.jpg"
   },
   {
    "id": "48a6b875-e5a7-4767-87f2-be52e3ff76f2",
@@ -81,7 +87,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "37c246bd-f6b8-42f2-a5ef-fb93bed3392f.jpg"
   },
   {
    "id": "f948fdbd-3554-4c0e-b79f-01686bfa42ef",
@@ -92,7 +99,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ec2cf99-53cd-4498-ba45-c68541807558.jpg"
   },
   {
    "id": "f3ae3bda-4137-45aa-be1b-57926b6b55bb",
@@ -103,7 +111,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b9a6bc2-14f7-4670-9f78-7b80b5fed4c1.jpg"
   },
   {
    "id": "9c95e5fa-a31e-4eae-b67f-fa6a31a326d7",
@@ -114,7 +123,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "455136ee-8a16-4dfe-a748-eae1136d9ac6.jpg"
   },
   {
    "id": "06e592c8-8a79-41b7-bed5-8fa434f7c68a",
@@ -126,7 +136,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "cba6d701-19dc-4593-9690-6f1c56b0c808.jpg"
   },
   {
    "id": "796f8633-41d3-49e7-b8bd-51809370bc13",
@@ -137,8 +148,10 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d177a09a-4270-4904-a626-605c575a71c6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:07+00:00"
+ "updatedAt": "2021-07-18T07:10:07+00:00",
+ "coverFileName": "36a6e9e7-9586-49aa-8e2e-7cdd968a02c7.jpg"
 }

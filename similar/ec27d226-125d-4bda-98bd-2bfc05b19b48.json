@@ -1,7 +1,7 @@
 {
  "id": "ec27d226-125d-4bda-98bd-2bfc05b19b48",
  "title": {
-  "en": "Tiger \u0026 Bunny - Night of the Telion (Doujinshi)"
+  "en": "Tiger & Bunny - Night of the Telion (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.46202505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c7c1436-3f4c-447e-babb-933ae8ce27e2.jpg"
   },
   {
    "id": "61c2b384-4262-4581-81ab-700d76c6e33e",
@@ -25,7 +26,8 @@
    "score": 0.45714432,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "86ca59b9-5228-45ae-bd8b-6a5659ea86b9.jpg"
   },
   {
    "id": "d2606f91-32c8-4b95-adfa-f0aac8b9aee7",
@@ -36,7 +38,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c0595b4-bf95-4343-80e0-4e207bcbfea9.jpg"
   },
   {
    "id": "a8545b00-0829-4977-ac3b-3c4004fbc454",
@@ -47,7 +50,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "612c10b6-1867-48b2-a34d-df21efc3885e.png"
   },
   {
    "id": "eff36872-67a1-4d0a-873a-5defe3fea19e",
@@ -60,7 +64,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "c84a28c9-49d6-4eb5-872e-6d00de79bdd0.png"
   },
   {
    "id": "8148ddc9-894d-44e1-8d57-d4509853d224",
@@ -71,7 +76,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8f925eb5-ac9d-4b0d-8045-a4ebecb8fc2a.jpg"
   },
   {
    "id": "bf3ab376-8265-4b0d-aefc-ff59349b4b6c",
@@ -82,18 +88,20 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1157cb98-ef07-48ab-9c6a-1cd30af28a5a.jpg"
   },
   {
    "id": "c8edeebe-45f3-49fb-996a-867a71618229",
    "title": {
-    "en": "Gintama - -89.2°C (Doujinshi)"
+    "en": "Gintama - -89.2\u00b0C (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe2ffb78-0519-4032-8261-f47033c8e3ac.png"
   },
   {
    "id": "1b4c13c6-5a8c-4351-87ce-c336e296026a",
@@ -105,7 +113,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ba5fb354-23cb-47c4-84f0-2488f8245262.jpg"
   },
   {
    "id": "e1ef771e-a81d-48f5-865c-561655930a59",
@@ -116,18 +125,20 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4a438dd-37dc-4fd6-8a4d-8d6e38d84381.jpg"
   },
   {
    "id": "deb4774e-c99e-4d92-9243-a4f94656bea3",
    "title": {
-    "en": "Tiger \u0026 Bunny - Mitsu (Doujinshi)"
+    "en": "Tiger & Bunny - Mitsu (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8ca2c9f0-fbdc-4601-ab18-5aa3d9f244d4.jpg"
   },
   {
    "id": "8afda19d-1cda-4e22-b6b5-2946f6a98e0f",
@@ -138,8 +149,10 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bce6b9c2-f5db-4e43-ad50-d4a4e8ab7fea.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:09+00:00"
+ "updatedAt": "2021-07-18T07:08:09+00:00",
+ "coverFileName": "898b7855-ca51-4ee9-bd24-c42a6d8c27d1.jpg"
 }

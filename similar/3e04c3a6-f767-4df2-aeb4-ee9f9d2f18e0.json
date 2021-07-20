@@ -14,7 +14,8 @@
    "score": 0.31070292,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c4e6ecab-5996-48ac-b40b-74190d7223da.jpg"
   },
   {
    "id": "f4f913ca-58f7-4d80-87e6-0bbeaac1f819",
@@ -26,7 +27,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "673b05cc-ed93-4043-a33b-5c7010154d7d.jpg"
   },
   {
    "id": "b837070e-0ca1-4e8b-a13a-f5e3396b768c",
@@ -37,7 +39,8 @@
    "score": 0.31070292,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "26250fdf-93e8-449b-979e-5b9281912e0d.jpg"
   },
   {
    "id": "6b8ac977-4ed7-4302-bca1-3fdab746a8c5",
@@ -48,7 +51,8 @@
    "score": 0.31070292,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5a683d2a-da34-43e0-af78-48ddf59cd487.png"
   },
   {
    "id": "2cb7a627-e90b-40ba-9701-19abe90ebe12",
@@ -61,7 +65,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e631bf96-0258-44d5-8075-283b68a82d66.jpg"
   },
   {
    "id": "42ca3142-7c86-41c0-9ce1-6ff9fc3c9747",
@@ -72,7 +77,8 @@
    "score": 0.30271122,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "735252bd-3a20-4ef1-87c4-279ccb910ce9.jpg"
   },
   {
    "id": "4cfbdee0-d829-41ae-8ab9-badfd9a0cf0c",
@@ -83,7 +89,8 @@
    "score": 0.30271122,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1b6017d0-e9be-43ae-97f9-a321541444c9.png"
   },
   {
    "id": "e31403cb-5f82-4cd0-a484-7fdefa645cef",
@@ -95,7 +102,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ba6ba9bf-14d8-4c8b-8fa6-b89f97f70ca3.jpg"
   },
   {
    "id": "344cf844-158e-4d8c-88b6-086096ae491b",
@@ -107,7 +115,8 @@
    "languages": [
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "4bab17f2-bf6e-426d-8a5f-350feab1c6aa.jpg"
   },
   {
    "id": "4c64ea1a-0ad3-4d12-b613-c33fee549673",
@@ -119,19 +128,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d91e73c7-0f01-4009-8512-869224dcd135.png"
   },
   {
    "id": "977f1de6-175a-43c0-af54-f0a9090d7c81",
    "title": {
-    "en": "Blind \u0026 Homeless"
+    "en": "Blind & Homeless"
    },
    "contentRating": "safe",
    "score": 0.29239154,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "37b16698-77ae-4c98-aeb1-30e7146ef6d6.jpg"
   },
   {
    "id": "28da329f-87ca-41c0-938d-3d8360b2cf16",
@@ -144,8 +155,10 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5e8da55b-556d-479c-ac26-872c042f24ce.png"
   }
  ],
- "updatedAt": "2021-07-18T06:36:01+00:00"
+ "updatedAt": "2021-07-18T06:36:01+00:00",
+ "coverFileName": "24b6e40b-d7b7-4306-ae8b-636199b44ecf.png"
 }

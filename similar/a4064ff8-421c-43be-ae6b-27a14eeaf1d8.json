@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d3287f3e-ca32-4dc3-98e3-224136e73e0a.jpg"
   },
   {
    "id": "9eb901db-9e2e-45a3-a616-55f0b603d606",
@@ -26,7 +27,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4eb6fe40-8946-47d4-92e2-3693da4eb84d.jpg"
   },
   {
    "id": "a7d1232c-caad-4aca-99f3-e8a309cb9494",
@@ -38,7 +40,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "f08910e8-8ea5-4e67-8c36-9d0d2a85ff81.jpg"
   },
   {
    "id": "1374ab6c-3a28-4d9a-8535-a58f383b1e44",
@@ -49,7 +52,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9475b446-3334-4160-92fd-ebed7ecd6322.jpg"
   },
   {
    "id": "fe031387-81aa-4ecd-acaf-fb214347f3a6",
@@ -60,7 +64,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "27201d66-cf5e-4888-99a1-2c907a86a0e4.jpg"
   },
   {
    "id": "92062abd-56f5-4f08-a31e-4d3598dc4db2",
@@ -71,7 +76,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3d23cd0-e55a-482c-9a89-7d849fc645cd.jpg"
   },
   {
    "id": "38ec9c6f-c7c0-4a77-a206-f64a6a59e434",
@@ -82,7 +88,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b313dc65-5694-472c-bb6f-664411ec078e.jpg"
   },
   {
    "id": "4176f027-b71e-4a85-94e1-aef74ec2d9cb",
@@ -94,7 +101,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0347acdc-179a-4903-9c4b-6aaf3c9ae241.jpg"
   },
   {
    "id": "631d1c79-6a70-490b-b52c-da91b8665927",
@@ -105,7 +113,8 @@
    "score": 0.32906264,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0a4773f6-ab63-4330-aad0-a656421a5e82.jpg"
   },
   {
    "id": "43013b63-12f1-4a21-bdae-12b9f955addb",
@@ -119,19 +128,21 @@
     "hu",
     "de",
     "ro"
-   ]
+   ],
+   "coverFileName": "cbd97217-c1cb-49ca-ba67-be32df69db2d.jpg"
   },
   {
    "id": "4fabddac-6de4-4e56-8440-8cbfe8305b32",
    "title": {
-    "en": "Toshokan Sensou - Love \u0026 War"
+    "en": "Toshokan Sensou - Love & War"
    },
    "contentRating": "safe",
    "score": 0.31819806,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0e2db20e-8755-44fd-bfed-ff9dcbf89aeb.jpg"
   },
   {
    "id": "23603435-0ed7-4dd4-a327-a19167f7f109",
@@ -143,8 +154,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "dbd12cee-9d7a-4b0a-8d16-2c63f27c975b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:54:58+00:00"
+ "updatedAt": "2021-07-18T06:54:58+00:00",
+ "coverFileName": "47e2d00f-f78a-43df-b7b6-2e586d5ce56c.jpg"
 }

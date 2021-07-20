@@ -1,7 +1,7 @@
 {
  "id": "412327cf-fbe3-4d43-b605-264a255ffb50",
  "title": {
-  "en": "The Gentleman’s Armchair"
+  "en": "The Gentleman\u2019s Armchair"
  },
  "contentRating": "safe",
  "matches": [
@@ -21,7 +21,8 @@
     "de",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "f562b8b2-9254-4136-8ad1-4237a21927b6.png"
   },
   {
    "id": "4873e3b1-897a-4616-b894-24ec3ae470b3",
@@ -35,7 +36,8 @@
     "fa",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "c6923abd-3be9-4004-9553-baa2215da6d8.jpg"
   },
   {
    "id": "6a9a2eb8-0374-40c6-b6bc-707ceb7564de",
@@ -49,7 +51,8 @@
     "en",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "879582df-bb53-4257-9011-69fb29da375d.jpg"
   },
   {
    "id": "7e205249-2d25-4c3a-adf5-1c8cc7146688",
@@ -61,7 +64,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "30df0aa8-494d-49e7-bb64-6bf808f7e293.jpg"
   },
   {
    "id": "a80c6284-5a1f-4a53-99ea-e4e7fd3b87e5",
@@ -79,7 +83,8 @@
     "hu",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "03987fda-7394-4239-bc8d-189266e4b513.jpg"
   },
   {
    "id": "e41d954d-7f04-4811-aacf-c27cbd71fb96",
@@ -91,7 +96,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "8b92b40d-d623-4bec-bae8-9fc1416fdd57.jpg"
   },
   {
    "id": "e326cf29-fc9c-4a3f-a476-8a192e66de5a",
@@ -105,7 +111,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "3b1c1271-e03a-4557-a45d-b727193a25dd.jpg"
   },
   {
    "id": "03eee952-1a7c-406b-8998-a85b238999d9",
@@ -117,7 +124,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6acca552-eb2f-410b-b6f6-57faa2f25ab9.jpg"
   },
   {
    "id": "d13b2d47-280e-43f3-9aa9-7c1f7a7a012e",
@@ -128,7 +136,8 @@
    "score": 0.31712124,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "74cac1f5-234f-4c40-a9f5-6485a59e5c07.jpg"
   },
   {
    "id": "aded0ea5-b457-4001-8c95-092eae738f23",
@@ -139,7 +148,8 @@
    "score": 0.31712124,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "f7a90cd4-b5c1-4d04-bcb1-29291dca3690.jpg"
   },
   {
    "id": "de507748-18eb-465b-b901-9c9e6465d7f6",
@@ -150,7 +160,8 @@
    "score": 0.31441307,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "348e14a8-69eb-40b2-bcac-8282e9e3e8d8.jpg"
   },
   {
    "id": "91383c51-533a-41eb-a228-a04b50a17090",
@@ -165,8 +176,10 @@
     "pt-br",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "5f4af171-d0b2-49a1-976b-e844b570d8f1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:37+00:00"
+ "updatedAt": "2021-07-18T06:36:37+00:00",
+ "coverFileName": "6db72180-30c1-479e-b1ef-f93261be7a5d.jpg"
 }

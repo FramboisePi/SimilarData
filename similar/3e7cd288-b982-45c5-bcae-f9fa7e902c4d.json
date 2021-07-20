@@ -8,14 +8,15 @@
   {
    "id": "2454e858-70ab-4383-b7d0-6d4df49cbb9a",
    "title": {
-    "en": "Ikoku Meiro no Croisée"
+    "en": "Ikoku Meiro no Crois\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.40080905,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0bd96932-8b32-430a-bd90-ec550d99e0b1.jpg"
   },
   {
    "id": "4a4c9ce3-cfef-477a-af85-8bfc55b593f8",
@@ -28,7 +29,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "17a191a9-7a77-4b64-b70c-5a976ab20ebf.jpg"
   },
   {
    "id": "84b201c9-5ce3-4016-964a-63f34cae127a",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "60d78df1-88d6-4fd1-b926-b84b9050a210.jpg"
   },
   {
    "id": "a408932c-4a83-469b-98f1-b253dd6c6eaf",
@@ -51,7 +54,8 @@
    "score": 0.34528607,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "110f7c45-b978-4694-b013-398b7531a7e6.png"
   },
   {
    "id": "bc86a871-ddc5-4e42-812a-ccd38101d82e",
@@ -66,7 +70,8 @@
     "it",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b98d2d31-cdc2-423e-a0c7-134c2215281b.jpg"
   },
   {
    "id": "69060a67-1d4e-4110-9d29-838bfd99917f",
@@ -82,7 +87,8 @@
     "hu",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c8b1ecf2-e913-4aec-ace6-b2dc53879204.jpg"
   },
   {
    "id": "f6251ecb-8acb-48c4-87dd-ade3a5bb652f",
@@ -98,7 +104,8 @@
     "th",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "06585169-393f-486e-92b1-153617a42090.jpg"
   },
   {
    "id": "519a8d57-2c3a-4da3-9873-ee8165830eb8",
@@ -110,7 +117,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "8c17afb3-bc5c-4b76-a4c1-a279f081497a.jpg"
   },
   {
    "id": "43df19d5-0990-46ec-9367-ea29c502e7bb",
@@ -122,7 +130,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "58494c16-2880-4dd0-970a-724c573e51c9.jpg"
   },
   {
    "id": "f42f3212-f2fd-4479-9d82-b9c55eaec820",
@@ -137,7 +146,8 @@
     "pt-br",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "d2ab0b64-91a4-48b6-ba8f-279a8017cb40.jpg"
   },
   {
    "id": "27cec489-fea0-43ff-9b52-2b0cdc70a462",
@@ -151,7 +161,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "35bd3cb0-80ec-4a16-b540-c1b8a2f48ff3.jpg"
   },
   {
    "id": "bc1e8a27-08e3-4312-a160-0cffac31af9d",
@@ -165,8 +176,10 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5d7389d4-57cc-44a7-8102-7cc0bed9cbfc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:07+00:00"
+ "updatedAt": "2021-07-18T06:36:07+00:00",
+ "coverFileName": "fc834bd3-dca4-4155-89a9-c60af0ff3cad.jpg"
 }

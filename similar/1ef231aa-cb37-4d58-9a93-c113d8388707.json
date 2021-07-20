@@ -1,7 +1,7 @@
 {
  "id": "1ef231aa-cb37-4d58-9a93-c113d8388707",
  "title": {
-  "en": "Magical Pokémon Journey"
+  "en": "Magical Pok\u00e9mon Journey"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.6306471,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3def65b2-5a21-425f-998f-736df9111489.jpg"
   },
   {
    "id": "9c756e83-1032-4338-82ca-47ae9d7f999a",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ef45cfc6-2d7f-430e-895c-89314246eda4.jpg"
   },
   {
    "id": "ba2f434f-adec-48ae-bcb3-1ec1daf298ce",
@@ -37,7 +39,8 @@
    "score": 0.49819708,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "21648447-344d-4b43-9350-f77b68bfb8f2.jpg"
   },
   {
    "id": "3de15e06-8cf4-40ae-afbb-b2ba66743bcf",
@@ -48,7 +51,8 @@
    "score": 0.46518868,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3671cc30-6c51-401e-9bdc-31a2f4ac6e12.jpg"
   },
   {
    "id": "0437a954-2c50-4124-87fa-6bf5e37e18b5",
@@ -59,7 +63,8 @@
    "score": 0.45837802,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "038400ec-c1f6-4703-8048-c954be7e4834.jpg"
   },
   {
    "id": "7239d015-e8f7-422e-b38c-9b021d48db7d",
@@ -71,7 +76,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "4e704421-b7a0-4666-aaa4-1c57251b2480.jpg"
   },
   {
    "id": "5e386a7b-63bb-40c3-89c6-73098c5d3fa4",
@@ -84,7 +90,8 @@
     "pl",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "7fa38069-10c9-43d4-ae53-1b3d04460015.jpg"
   },
   {
    "id": "7ddd98dd-b06c-41c3-ad1c-b2d0e8a76c25",
@@ -95,7 +102,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2f916b27-372b-438f-b283-6f25dc087288.jpg"
   },
   {
    "id": "81f426a8-bed1-4459-8151-cc97d804395e",
@@ -106,7 +114,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e440e7f5-9521-43d5-93fd-78ee27df53dd.jpg"
   },
   {
    "id": "5ac5e2ec-9a36-4857-b648-824ee67b7092",
@@ -117,7 +126,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9537e66-7bd5-46b6-8374-f51d7dab97f7.jpg"
   },
   {
    "id": "70f32566-2e99-4d75-98ca-e870d206ece8",
@@ -128,7 +138,8 @@
    "score": 0.42899346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "285812ca-6f86-433e-a1ef-47d1613112cd.jpg"
   },
   {
    "id": "f5b7d488-5136-4ed4-a44c-88eac9dc3e7c",
@@ -140,8 +151,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b6d6bbc8-753e-4928-8911-ac36394d43c3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:17+00:00"
+ "updatedAt": "2021-07-18T06:30:17+00:00",
+ "coverFileName": "aef06042-b08b-4263-8a65-9b0471f48958.jpg"
 }

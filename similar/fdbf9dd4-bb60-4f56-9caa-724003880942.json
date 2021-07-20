@@ -8,7 +8,7 @@
   {
    "id": "e4d4eef1-3d4f-4d52-9044-31e46016dc77",
    "title": {
-    "en": "The Twin Siblings’ New Life"
+    "en": "The Twin Siblings\u2019 New Life"
    },
    "contentRating": "safe",
    "score": 0.75876766,
@@ -18,7 +18,8 @@
     "id",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "b57f596b-2feb-47a6-9f97-c749b43a4ac5.jpg"
   },
   {
    "id": "b8fe3348-438d-40ab-a11b-ba6f79af42d4",
@@ -35,7 +36,8 @@
     "vi",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "90176087-857d-4236-a232-203c915b6dfa.jpg"
   },
   {
    "id": "4cfe9f13-1ea1-4612-a656-13614b85506b",
@@ -46,7 +48,8 @@
    "score": 0.7168541,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1859d90b-580e-4596-9397-216225c84e0a.png"
   },
   {
    "id": "449a2863-792e-4bff-8d7c-345aa419afeb",
@@ -59,7 +62,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "9003819e-8706-4ec2-9b24-45db1946e17b.jpg"
   },
   {
    "id": "457e5220-903c-4670-8700-8c174a7c516a",
@@ -70,7 +74,8 @@
    "score": 0.67333055,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "950058cc-ea3b-40dd-9c78-346978a3fec1.jpg"
   },
   {
    "id": "b4741957-c515-4396-bc54-c5c704844e74",
@@ -81,12 +86,13 @@
    "score": 0.66312146,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "241b93b1-a55b-4fb9-b8c8-71654a72b6d1.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.6547587,
@@ -99,7 +105,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "1e1be841-2fa8-4c60-b07b-fd13cf9dc8bb",
@@ -111,7 +118,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "5cbdf882-bf6d-4439-8064-5f6828410fe3.jpg"
   },
   {
    "id": "d0dd0cf2-b6d9-4dc8-a44c-9085a3b1cd25",
@@ -122,7 +130,8 @@
    "score": 0.63579667,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48d09de2-aa33-49d3-97cb-96095caadc90.jpg"
   },
   {
    "id": "509cce63-7685-4c58-bfdc-c4b6896b1879",
@@ -133,18 +142,20 @@
    "score": 0.6349246,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb7ca030-8d40-4c94-870c-8df81b5f1248.jpg"
   },
   {
    "id": "d6f75a52-39c0-4950-a69a-ecb76152aff9",
    "title": {
-    "en": "Capital’s Most Crazy Doctor"
+    "en": "Capital\u2019s Most Crazy Doctor"
    },
    "contentRating": "safe",
    "score": 0.6268676,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b605c7b9-2fc6-4ba6-ba36-54b140b7dd15.png"
   },
   {
    "id": "d59ca5d9-81d1-47a2-931f-d2a55bfc67ec",
@@ -155,8 +166,10 @@
    "score": 0.61774194,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3d63df35-cb92-427e-aa72-5a42814d2ed8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:22+00:00"
+ "updatedAt": "2021-07-18T07:11:22+00:00",
+ "coverFileName": "3df439ea-c4e1-4a25-b5c9-8da9e474ee51.jpg"
 }

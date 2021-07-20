@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "72b45465-7d3e-4762-8e20-742d5b54bb1e.jpg"
   },
   {
    "id": "0dad705a-d5da-45f4-a728-162272ece1ca",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3c92764c-0b8a-4e1c-91fa-6c42680d0319.jpg"
   },
   {
    "id": "5aa20a91-b930-4616-a833-be927d6ef2c4",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "072cb2f2-61fb-4d9d-8b77-84f5993acb59.jpg"
   },
   {
    "id": "7234d1c4-9520-47ab-b650-edbcbf4d62bd",
@@ -50,7 +53,8 @@
    "score": 0.40906504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ca74d1d-0b5d-43c9-802a-ac7955b7d788.png"
   },
   {
    "id": "a7de22de-abd5-4e7d-a49f-14955ccafaa3",
@@ -61,7 +65,8 @@
    "score": 0.40819374,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6188d00-e0d1-424a-b26c-d7d82920b282.png"
   },
   {
    "id": "262cdc0f-574e-464a-8793-c1cba15936e9",
@@ -72,7 +77,8 @@
    "score": 0.40628582,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98fafa3c-8d45-41c0-9d5b-07e852130c72.jpg"
   },
   {
    "id": "7996e1c4-3664-4015-8c05-b598803b8c1c",
@@ -86,7 +92,8 @@
     "it",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "bf9a9fb0-8db2-4318-98b8-1b50430ed4a9.jpg"
   },
   {
    "id": "7b4935f3-c0e3-4988-8b2b-6ae715e9e9ab",
@@ -97,7 +104,8 @@
    "score": 0.40475413,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "64846924-356c-4320-8e49-188b3922fd52.jpg"
   },
   {
    "id": "147815fe-250e-4b8f-a95d-60a7f112cbe4",
@@ -109,19 +117,21 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1dd43f35-9790-4104-85ee-2bcda4c2fb21.jpg"
   },
   {
    "id": "3a835e75-b52a-47ba-b868-5c63301404ee",
    "title": {
-    "en": "Harem☆Lodge"
+    "en": "Harem\u2606Lodge"
    },
    "contentRating": "safe",
    "score": 0.40160078,
    "languages": [
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bb97a4a4-b2bb-4434-85e2-2828dd3ebfed.jpg"
   },
   {
    "id": "d22bba36-c462-4e97-b3ae-ba9b3a6a9f1d",
@@ -132,7 +142,8 @@
    "score": 0.39421985,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56b3c87b-9c2c-4179-8843-446e1e000af2.jpg"
   },
   {
    "id": "8453c07a-0462-415c-b041-6b54f2fe0944",
@@ -143,8 +154,10 @@
    "score": 0.38999128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd025ecb-4a59-4af5-bbb3-874897317539.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:53+00:00"
+ "updatedAt": "2021-07-18T06:42:53+00:00",
+ "coverFileName": "6da22e5a-bacf-4d66-93f3-6421a02ec02f.jpg"
 }

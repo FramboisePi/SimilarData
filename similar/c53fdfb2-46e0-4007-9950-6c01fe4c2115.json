@@ -15,7 +15,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "85817d7e-4415-4da0-9532-42558d6c6d94.png"
   },
   {
    "id": "4ad4b480-aacc-4835-b413-0dbb1cdf436e",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1aac5877-9e67-4c27-8004-0b5a84a9783a.jpg"
   },
   {
    "id": "5b2bb40b-4a59-4be4-a134-8b75786b9490",
@@ -40,7 +42,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5ae8d19c-bdc6-484b-a033-a7827fa74230.png"
   },
   {
    "id": "54016980-802d-4780-b964-23ee03891b6d",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c03f0afd-4d02-42a6-a3d9-179693a08cb0.jpg"
   },
   {
    "id": "48361464-6bcd-4ae8-9b9b-0141d3ab04ef",
@@ -63,7 +67,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "480d552e-0023-4633-ab30-81c4b5af44c0.png"
   },
   {
    "id": "c0d17cc2-f854-409e-9cf5-0550134d9a7b",
@@ -74,7 +79,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "423b5f77-5b5b-4c52-8152-d4a9aeaf025d.jpg"
   },
   {
    "id": "f8e4e9a3-f46c-483e-8ba6-bbd7238fea5f",
@@ -86,12 +92,13 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "c022efdc-4668-44a9-80fb-3bd001b4f408.png"
   },
   {
    "id": "924b3c32-f9ac-41dc-8e3c-44e9a3d482bc",
    "title": {
-    "en": "We Swore to Meet in the Next Life and That’s When Things Got Weird!"
+    "en": "We Swore to Meet in the Next Life and That\u2019s When Things Got Weird!"
    },
    "contentRating": "safe",
    "score": 0.34367585,
@@ -99,7 +106,8 @@
     "es-la",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "c3153846-d881-4e56-991b-6c5fc49b048b.jpg"
   },
   {
    "id": "6d5dadb3-87e1-4ea4-9aef-7f2dfcab8ac5",
@@ -110,7 +118,8 @@
    "score": 0.33624256,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ae815da-463f-4e74-bfdc-8641506036e4.jpg"
   },
   {
    "id": "a7c39779-a846-47f9-b355-af185bccefec",
@@ -123,7 +132,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a201fd32-68ae-4af0-9f67-5d3c9f0060c5.jpg"
   },
   {
    "id": "2c4f6295-c63f-468d-a8fb-db88d226522c",
@@ -134,7 +144,8 @@
    "score": 0.3238112,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1704b22d-f494-4c12-a1fb-8591304abc46.jpg"
   },
   {
    "id": "7f9e1a94-81a5-4df9-b803-fa084939e0f5",
@@ -146,8 +157,10 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "d5dee4f1-6a1a-4c20-a9db-3ec7871378e0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:02+00:00"
+ "updatedAt": "2021-07-18T07:01:02+00:00",
+ "coverFileName": "ac902630-c468-4e62-bef9-1b2d9e4b2678.png"
 }

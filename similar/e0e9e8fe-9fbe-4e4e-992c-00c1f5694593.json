@@ -1,7 +1,7 @@
 {
  "id": "e0e9e8fe-9fbe-4e4e-992c-00c1f5694593",
  "title": {
-  "en": "Rockman \u0026 Forte"
+  "en": "Rockman & Forte"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.71088487,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9650ce98-c4ff-46bf-9f45-26778667f0c0.jpg"
   },
   {
    "id": "e865771f-0158-4f61-b66f-6c114fc595e2",
@@ -25,7 +26,8 @@
    "score": 0.6471925,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc5d7bab-1b07-408c-a07c-1aa78db37b64.jpg"
   },
   {
    "id": "e6e0b418-ca33-4919-8b62-50aa28908dc7",
@@ -36,7 +38,8 @@
    "score": 0.5657894,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "760a19bc-d7b4-400e-be7a-37120f574913.png"
   },
   {
    "id": "e27326f2-87d0-41b1-9146-3e01bc2b46c6",
@@ -47,7 +50,8 @@
    "score": 0.5154278,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc48fc63-f15a-4da5-af01-cbe0976f5cf7.jpg"
   },
   {
    "id": "c2ec155f-67db-4010-990d-ec8c0914ab0e",
@@ -59,7 +63,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a87327d4-fd02-42c1-9f8e-d6cb40149afa.jpg"
   },
   {
    "id": "1bd08bdd-4557-4ba5-a247-5f4a9c0b573b",
@@ -70,7 +75,8 @@
    "score": 0.47130853,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3984d3e8-53e2-41ac-8f07-33742e497fc9.jpg"
   },
   {
    "id": "8076648f-a3f1-41d0-ae2a-523d2becc7e1",
@@ -81,7 +87,8 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f809781-c6d6-49c0-948e-52d7fc8689ed.jpg"
   },
   {
    "id": "2300ddd8-4bc7-4282-8891-d72e0c9bd22e",
@@ -92,7 +99,8 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1231201d-6941-4be9-a9f3-07d3b28e458d.jpg"
   },
   {
    "id": "8396cc8b-f8ac-4c3a-9e00-c771996b6e14",
@@ -103,7 +111,8 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "895e5d8a-563a-482b-aad9-86dcc0c6558a.jpg"
   },
   {
    "id": "db9820de-2b02-49e1-b32b-78330b22819a",
@@ -114,7 +123,8 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "95d5d55c-d446-4edd-b0ba-7f2cdda974af.jpg"
   },
   {
    "id": "4f3738aa-4426-4282-8afb-34d9a495caf6",
@@ -125,7 +135,8 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7fb3b65-2f81-448b-99d4-e8b921e479d0.jpg"
   },
   {
    "id": "858cc4f1-882a-4ef5-abd3-30c424ef536b",
@@ -137,8 +148,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "88d15219-aa6e-4249-9bb0-c870ad7df810.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:06+00:00"
+ "updatedAt": "2021-07-18T07:06:06+00:00",
+ "coverFileName": "3c6d1528-d914-42f0-bd97-eda7e3abc9ad.jpg"
 }

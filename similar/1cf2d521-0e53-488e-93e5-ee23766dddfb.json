@@ -20,7 +20,8 @@
     "en",
     "tr",
     "vi"
-   ]
+   ],
+   "coverFileName": "87333cac-a5ba-468f-8bf4-1259fdf7fb05.jpg"
   },
   {
    "id": "ea7f41e4-655a-4d0f-8b5a-ea5e9a46e16a",
@@ -31,7 +32,8 @@
    "score": 0.37119427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "218c3d93-a718-490c-b146-e732c2e79e72.jpg"
   },
   {
    "id": "f7b22bf3-ac82-4eae-a6aa-8236b12be8ec",
@@ -42,7 +44,8 @@
    "score": 0.33200625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc863446-b4d4-43ff-922e-0f88c5e6a2df.png"
   },
   {
    "id": "84cfe6d2-93c0-433a-86d1-f3c7b4169921",
@@ -56,7 +59,8 @@
     "pl",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "8baa95a0-ff7b-4ae5-b44c-6598bc5a5967.jpg"
   },
   {
    "id": "fb0f33ca-5b0e-4915-b1b5-ad03482714a5",
@@ -67,7 +71,8 @@
    "score": 0.33200625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4519dc85-00be-47cf-b842-8d24c1fa921f.jpg"
   },
   {
    "id": "5024b9cb-b3fd-46d2-a3ab-5adbef22ed74",
@@ -81,7 +86,8 @@
     "fr",
     "vi",
     "it"
-   ]
+   ],
+   "coverFileName": "27daea4e-d7e4-4caf-b27a-25f631a9f4d0.jpg"
   },
   {
    "id": "11e9176c-3c4e-4418-8cf9-ff95cbd45ab6",
@@ -92,7 +98,8 @@
    "score": 0.32515866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fcdb981f-71da-4049-96fb-5bc68517a6b8.jpg"
   },
   {
    "id": "11e2a07c-e7ad-4308-81e8-6e0c03473b11",
@@ -103,7 +110,8 @@
    "score": 0.32515866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc23a243-2d03-4fd6-8632-b904ccbd7163.jpg"
   },
   {
    "id": "09480bed-a2d9-4879-9d38-b7b2c84e1f5a",
@@ -119,7 +127,8 @@
     "id",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "40d8056c-b9c4-4c03-afb3-5a24f7848f25.jpg"
   },
   {
    "id": "b59f83c3-cb84-4782-8134-91f434eae82c",
@@ -130,7 +139,8 @@
    "score": 0.32515866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "576fc677-69ef-4c93-bfcb-4a968b5ad2d9.jpg"
   },
   {
    "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
@@ -145,12 +155,13 @@
     "it",
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "d5163d01-ed1d-4a63-ba30-190b7dda59be.png"
   },
   {
    "id": "53c628b3-d1f5-43aa-8df3-080034285cb4",
    "title": {
-    "en": "Junji Ito’s Cat Diary: Yon \u0026 Mu"
+    "en": "Junji Ito\u2019s Cat Diary: Yon & Mu"
    },
    "contentRating": "safe",
    "score": 0.32515866,
@@ -158,8 +169,10 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "886b532b-388e-4b58-86c9-2fdc537c9706.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:53+00:00"
+ "updatedAt": "2021-07-18T06:29:53+00:00",
+ "coverFileName": "769bc89e-796a-4a8c-9469-937cc509012c.png"
 }

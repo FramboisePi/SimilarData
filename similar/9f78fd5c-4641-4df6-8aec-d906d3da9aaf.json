@@ -16,7 +16,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "03ec5928-3b13-4f96-8764-5d90fc31d1f0.jpg"
   },
   {
    "id": "02b92cb7-2af8-4861-9804-7b34b4232b40",
@@ -27,7 +28,8 @@
    "score": 0.2424482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9cb9f02-52ca-41cd-9951-13e767ec0ae2.jpg"
   },
   {
    "id": "5224bfbf-21d4-4127-a78e-fd0fe24b1b26",
@@ -40,7 +42,8 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "0f97725d-3950-4cd3-86a6-8c6cc4e5db87.jpg"
   },
   {
    "id": "9fd3284e-2b60-4e39-adff-31763d2892f1",
@@ -51,7 +54,8 @@
    "score": 0.23250477,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8c0dd009-2461-49c9-a939-675194b213ef.jpg"
   },
   {
    "id": "deaaa7d0-eba1-46ab-8961-70be94759a2b",
@@ -62,7 +66,8 @@
    "score": 0.23146991,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b19d95f-2a81-4019-a9a4-4ed2333416a3.jpg"
   },
   {
    "id": "c610d3d8-3a65-4654-b1a5-d90437d356f3",
@@ -73,7 +78,8 @@
    "score": 0.23075514,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "498fdc7b-8252-453e-9fe1-3040b7364479.jpg"
   },
   {
    "id": "62541c55-bb84-4459-883f-71c74d2bc57b",
@@ -84,7 +90,8 @@
    "score": 0.23007114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6914ae7-0810-43ff-a625-ff4357741632.png"
   },
   {
    "id": "917a34d9-9c28-4d7c-bb4f-e74d5dd90434",
@@ -97,7 +104,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "48e0828e-b7ae-4f29-8dda-994d43288ccf.jpg"
   },
   {
    "id": "0f8b6466-e51a-41c8-86cb-86d2d47f936b",
@@ -113,7 +121,8 @@
     "th",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "34a63cd5-aad3-4b2b-b24a-a407295ae04d.jpg"
   },
   {
    "id": "0ed15250-3ad1-4cee-b10b-b9d1f3bae476",
@@ -126,18 +135,20 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "db423240-8377-4361-8d5f-1795e9e844f1.jpg"
   },
   {
    "id": "3ace52ec-f43c-466d-8d66-0b5e6d1538c8",
    "title": {
-    "en": "Yuu \u0026 Mii"
+    "en": "Yuu & Mii"
    },
    "contentRating": "suggestive",
    "score": 0.22336984,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0e44681-f6d0-4bc0-92a0-06b94e4a7efc.jpg"
   },
   {
    "id": "2b1331e9-e460-46ee-8d82-82178801ed3b",
@@ -148,8 +159,10 @@
    "score": 0.2218394,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "36de02ce-c502-4037-9d7b-304e33a4c49b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:54:08+00:00"
+ "updatedAt": "2021-07-18T06:54:08+00:00",
+ "coverFileName": "d897990d-506d-421d-9ee6-2e7c63db5f6c.jpg"
 }

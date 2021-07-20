@@ -16,7 +16,8 @@
     "ru",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "83ee167c-99d9-439d-bf39-e3aa0dc11f07.jpg"
   },
   {
    "id": "227e3f72-863f-46f9-bafe-c43104ca29ee",
@@ -33,7 +34,8 @@
     "it",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "2fbddeeb-5743-4a36-8341-847b9c597ce2.jpg"
   },
   {
    "id": "bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc",
@@ -54,7 +56,8 @@
     "pl",
     "ru",
     "vi"
-   ]
+   ],
+   "coverFileName": "eabf2856-c158-4af9-9218-999bd07eedc5.jpg"
   },
   {
    "id": "53ef1720-7a5d-40ad-90b0-2f9ca0a1ab01",
@@ -69,18 +72,20 @@
     "it",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "ae5b4ce8-a50d-4bbb-9cd6-7456b97fdecd.jpg"
   },
   {
    "id": "dc728906-9c33-4794-aba7-8f9361ef5f25",
    "title": {
-    "en": "Ragnarök: Into the Abyss"
+    "en": "Ragnar\u00f6k: Into the Abyss"
    },
    "contentRating": "suggestive",
    "score": 0.4016675,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69550581-ab3b-4b56-bd6b-6ef06ef08180.jpg"
   },
   {
    "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
@@ -93,7 +98,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5d1277cc-1712-49ff-b70a-bc67c168432a.jpg"
   },
   {
    "id": "84065b01-1267-4e97-a38a-e1a4a4f08940",
@@ -104,7 +110,8 @@
    "score": 0.39375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73cbe038-e8d6-40eb-88b4-a29652bbc394.jpg"
   },
   {
    "id": "e8d89021-c5e3-4f1c-aa21-fd275344b136",
@@ -120,7 +127,8 @@
     "id",
     "fr",
     "zh"
-   ]
+   ],
+   "coverFileName": "5c31917c-4de8-4d32-b419-8e44c9fb8c0e.jpg"
   },
   {
    "id": "d5de8776-be99-42bd-92b1-ba568c31407b",
@@ -133,7 +141,8 @@
     "es",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b2383242-e001-479a-98f8-68221ac52f03.png"
   },
   {
    "id": "0369b86e-a289-4e3d-9c10-105d4144baea",
@@ -144,7 +153,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "14c22cd9-1f9a-4b51-86b2-425cbb78fcf7.jpg"
   },
   {
    "id": "ac54cf12-1d69-4bcc-8d14-eaec4b4da6b1",
@@ -158,7 +168,8 @@
     "es",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c909f85e-576e-47ab-907f-ec32dad6c37b.jpg"
   },
   {
    "id": "1a0b6925-9710-48b0-83a5-adf144d10479",
@@ -173,8 +184,10 @@
     "ca",
     "ru",
     "bg"
-   ]
+   ],
+   "coverFileName": "42e361f7-662e-4e7a-adf8-7cb992fe66dc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:10+00:00"
+ "updatedAt": "2021-07-18T06:30:10+00:00",
+ "coverFileName": "1ba7388e-d559-4cfa-b72c-6cd50fd68b9a.jpg"
 }

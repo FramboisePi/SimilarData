@@ -14,7 +14,8 @@
    "score": 0.47282195,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "befa11b1-9566-4aef-9b16-b97d656a7720.jpg"
   },
   {
    "id": "17ecf930-56b0-4b5e-b573-b830e5eab0e2",
@@ -28,7 +29,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "18324ebc-efa7-4749-9bb1-d91f0baecd9b.jpg"
   },
   {
    "id": "781dee86-5fab-48da-a1e8-c45023c8d0ee",
@@ -41,7 +43,8 @@
     "tr",
     "en",
     "ro"
-   ]
+   ],
+   "coverFileName": "d2246b26-1325-4edf-86f7-4b25eb98bcf6.jpg"
   },
   {
    "id": "04e601f2-68c7-46f6-b351-fd7b219ae4f9",
@@ -52,7 +55,8 @@
    "score": 0.40591493,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a39c09d9-5057-44a4-87d7-9fb7775d4ec5.png"
   },
   {
    "id": "ab9bed8f-85b0-4394-b0ee-22933a38eb20",
@@ -63,7 +67,8 @@
    "score": 0.38836992,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "f098be77-97b6-403f-88ae-f2f7c83ac8c4.jpg"
   },
   {
    "id": "e668a2c9-c3bb-4e45-92da-732806992f44",
@@ -75,7 +80,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "75f06d6f-7fd3-4a19-9464-b508fca3ef9c.jpg"
   },
   {
    "id": "c3070e0c-15a6-4832-b59d-9d7acce582bc",
@@ -86,7 +92,8 @@
    "score": 0.3876974,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c49fe998-1999-4c27-a25e-92b6a6c825b1.jpg"
   },
   {
    "id": "fb0037e3-7b79-450a-8627-256aa7f78537",
@@ -98,7 +105,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "cc7f5424-92d5-4f55-a5ec-d3761f02da2c.jpg"
   },
   {
    "id": "388393a1-e51d-4784-a4ba-adaecc183983",
@@ -110,7 +118,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "e615965d-5dea-4404-b0f2-80ef700a66ca.png"
   },
   {
    "id": "33b06fd2-49e1-42ce-b1ea-381f4296550a",
@@ -121,19 +130,21 @@
    "score": 0.3467671,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a83a0797-36c6-4a57-a79f-826b933398d8.jpg"
   },
   {
    "id": "66109be6-fcbe-4135-882a-e14f9627109c",
    "title": {
-    "en": "Honey \u0026 Honey"
+    "en": "Honey & Honey"
    },
    "contentRating": "safe",
    "score": 0.33370212,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "ae37026e-2be6-4611-a680-d05cb1315ec3.jpg"
   },
   {
    "id": "9707d784-8619-4b82-bfda-d1e343763301",
@@ -147,8 +158,10 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "01c8d651-2d65-4308-93d0-47a25c2be735.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:43+00:00"
+ "updatedAt": "2021-07-18T06:47:43+00:00",
+ "coverFileName": "3f1b09eb-3c08-40d7-b500-770407856acf.jpg"
 }

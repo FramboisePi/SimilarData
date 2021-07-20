@@ -1,7 +1,7 @@
 {
  "id": "1b8ec96c-ce18-4155-ab43-615afbf1390d",
  "title": {
-  "en": "Undertale - Twitter Summary + α (Doujinshi)"
+  "en": "Undertale - Twitter Summary + \u03b1 (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "285e1909-f5af-4290-9bd8-cef3acdc5b82.jpg"
   },
   {
    "id": "10fab94e-2227-47e2-b059-f4762eb5ca4e",
@@ -34,7 +35,8 @@
     "pt-br",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a80d2f61-5a20-45a1-b98a-99d7174b3d42.jpg"
   },
   {
    "id": "fd83f12a-4743-4b9b-ab61-50ae5b6dc7b2",
@@ -50,7 +52,8 @@
     "vi",
     "es-la",
     "zh"
-   ]
+   ],
+   "coverFileName": "56376216-7c94-4a7f-9140-ddf32364d48d.png"
   },
   {
    "id": "b1953f80-36f7-492c-b0f8-e9dd0ad01752",
@@ -65,7 +68,8 @@
     "ru",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "390d85b0-7399-421c-b0ca-0142d91950d4.png"
   },
   {
    "id": "28fc0900-9d8f-4708-b516-c5be786e2e64",
@@ -77,7 +81,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "eba1d9dc-e28f-409a-b7de-6cab745ffc6f.png"
   },
   {
    "id": "5eb21844-4173-4501-b1fb-3218839c1ab4",
@@ -89,7 +94,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "74d30252-eae3-47aa-ab1e-252f351c5c8e.png"
   },
   {
    "id": "812cf528-b390-4e14-b335-52b44e2f353a",
@@ -100,7 +106,8 @@
    "score": 0.3495408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "77ec37ff-df6c-4a69-8685-29b1220d514c.jpg"
   },
   {
    "id": "e739399f-c2e6-49e7-982b-51ddbfe206d0",
@@ -113,7 +120,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "b53923ab-a6cf-459c-85ce-94253035eea2.jpg"
   },
   {
    "id": "54afdea5-92b3-4dfe-b104-a11c0e211891",
@@ -124,7 +132,8 @@
    "score": 0.34485698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "309f2d96-2763-4957-bbdd-79fccb4a007f.jpg"
   },
   {
    "id": "efe9b57e-d45a-4289-a406-2c3928f0076b",
@@ -135,7 +144,8 @@
    "score": 0.34485698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "78a455f4-87fe-4e90-a5e8-bd3487d1ea5a.jpg"
   },
   {
    "id": "bfd3bf36-f2c8-4dca-82e3-84a160a77f07",
@@ -146,7 +156,8 @@
    "score": 0.34485698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9cfb963-0d50-41f8-ba1b-a7315d571f53.png"
   },
   {
    "id": "a971a398-192c-457d-b803-78b029fb3c7f",
@@ -158,8 +169,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "80a88a75-e553-4d48-a3bb-799ba68b1ad7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:37+00:00"
+ "updatedAt": "2021-07-18T06:29:37+00:00",
+ "coverFileName": "82d51b8b-b9b0-4f71-9af1-c1e7f411d2ae.png"
 }

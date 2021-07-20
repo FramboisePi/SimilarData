@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "b228bf3a-e313-4b4c-a868-a7426f6bd68e.jpg"
   },
   {
    "id": "f378234a-298a-4b78-bef5-205ab688566f",
@@ -26,7 +27,8 @@
    "score": 0.39438826,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41a53ad8-834c-40bf-bfc5-68fd12cca317.jpg"
   },
   {
    "id": "ced910fb-8542-48bd-b87a-5ff662185295",
@@ -37,7 +39,8 @@
    "score": 0.36655435,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "569bc0ef-8e38-41bb-b2e6-e30821e910bf.jpg"
   },
   {
    "id": "263b6cb0-4d7b-4a34-bb0f-5282f8968095",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "afc04ac4-eaab-4eb0-a6a4-6dc470e1913b.jpg"
   },
   {
    "id": "34fc83a4-01f5-431b-ad9c-64b8e6ff1662",
@@ -65,23 +69,25 @@
     "pt-br",
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "57aab057-298a-4fba-b64e-7c88b21aa2ed.jpg"
   },
   {
    "id": "d7beb91b-d8a0-42c5-b51b-c3487438b2f3",
    "title": {
-    "en": "Dämons"
+    "en": "D\u00e4mons"
    },
    "contentRating": "safe",
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f7851da-878e-4a52-8604-6e5138a68fab.png"
   },
   {
    "id": "59b36734-f2d6-46d7-97c0-06cfd2380852",
    "title": {
-    "en": "Tokyo卍Revengers"
+    "en": "Tokyo\u534dRevengers"
    },
    "contentRating": "safe",
    "score": 0.34448186,
@@ -97,7 +103,8 @@
     "id",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "57f3e550-e0f0-4078-b248-5bc0707fcd51.jpg"
   },
   {
    "id": "5935cd11-5d2e-48f1-a5fe-ea50422623ef",
@@ -108,7 +115,8 @@
    "score": 0.34248084,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba5fcc68-59a7-4ee8-99ab-9c811ef466f0.jpg"
   },
   {
    "id": "beda9e6a-b36c-4fe9-9a28-df465fe6ff79",
@@ -119,7 +127,8 @@
    "score": 0.33806378,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1c7f3d13-7c0c-4ae2-ad2c-1b8953cd26e3.jpg"
   },
   {
    "id": "4fdd95b7-650f-44d6-870d-ec55153e4d4f",
@@ -131,7 +140,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "b09ec399-e6e5-4511-973b-d6c4909a2727.jpg"
   },
   {
    "id": "7f2b4505-2677-463d-8fd2-cdacd33bd2a0",
@@ -142,7 +152,8 @@
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e1ca1ed6-e8de-4007-a22e-248c35f7f8b1.jpg"
   },
   {
    "id": "ea109e5d-c4cc-4b8e-a35d-1ae8e3d9d191",
@@ -154,8 +165,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9ea1cca5-426e-4951-8a1b-5c9a147162be.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:15+00:00"
+ "updatedAt": "2021-07-18T07:10:15+00:00",
+ "coverFileName": "5cf51e0b-1348-45f0-8975-cabdc1b193a1.jpg"
 }

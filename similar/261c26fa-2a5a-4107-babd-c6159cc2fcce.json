@@ -8,13 +8,14 @@
   {
    "id": "4996eb9a-8464-4cf7-b154-af1c6ceabd71",
    "title": {
-    "en": "École de Platon"
+    "en": "\u00c9cole de Platon"
    },
    "contentRating": "safe",
    "score": 0.38476574,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "cf4695fb-3284-4ae5-8502-940d859b1cb4.jpg"
   },
   {
    "id": "17d80a15-f8d7-4b62-992e-24710d7f8fd3",
@@ -25,7 +26,8 @@
    "score": 0.31926203,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "48fc329d-c832-4880-95cf-6ad01c2a1264.jpg"
   },
   {
    "id": "335c0929-a00e-4c10-9561-cc0991705bad",
@@ -37,7 +39,8 @@
    "languages": [
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "dcfb1156-4a50-4efc-b788-073715ee507d.jpg"
   },
   {
    "id": "9e1673f2-3122-4799-a60f-59f4c5952c6e",
@@ -48,7 +51,8 @@
    "score": 0.3174933,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "56fd85e1-dcae-4d29-b214-3349d2dbafdf.jpg"
   },
   {
    "id": "1581f543-3d94-4749-bd77-045d03e7c05a",
@@ -62,7 +66,8 @@
     "id",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "ab122c64-605a-4d7c-b529-3900167eebef.jpg"
   },
   {
    "id": "09912de4-6ad7-458f-852e-409b25f489db",
@@ -73,7 +78,8 @@
    "score": 0.2592322,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "2d4f5ebe-6b3b-4dec-b87d-ae4fd29e12b2.jpg"
   },
   {
    "id": "ea20d34c-e1b6-4ef3-88e5-3a8ef75dd5cc",
@@ -84,7 +90,8 @@
    "score": 0.23946844,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "5c7220ab-c7e5-476e-b7e3-dcaf2135e4a6.jpg"
   },
   {
    "id": "b76a0506-5168-431b-8acc-fa340a042f93",
@@ -96,7 +103,8 @@
    "languages": [
     "zh-hk",
     "vi"
-   ]
+   ],
+   "coverFileName": "71179842-ad35-4822-b414-8884b1130632.jpg"
   },
   {
    "id": "789642f8-ca89-4e4e-8f7b-eee4d17ea08b",
@@ -115,19 +123,21 @@
     "zh-hk",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "10f7def1-e8b4-47c2-a1a2-f7cf0936bca5.jpg"
   },
   {
    "id": "3ae3f179-c579-43ca-908f-9d6e20e8aee1",
    "title": {
-    "en": "Kiss \u0026 Cry"
+    "en": "Kiss & Cry"
    },
    "contentRating": "safe",
    "score": 0.22694921,
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "d5f20d9d-40c6-4aac-a518-2eabcf355802.jpg"
   },
   {
    "id": "f25a8b44-0ee1-4025-8c81-f996d887649c",
@@ -142,7 +152,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1a4ab53-e4fb-4a5f-8b09-1ede7052a3df.jpg"
   },
   {
    "id": "4332d848-2fcd-48db-84fa-a38ab8773255",
@@ -153,8 +164,10 @@
    "score": 0.20953488,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "ee0a89bf-7c63-4f92-9f72-14ac20f12c7b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:36+00:00"
+ "updatedAt": "2021-07-18T06:31:36+00:00",
+ "coverFileName": "c414bb39-e713-46dd-9ab4-1f73ec0072a5.jpg"
 }

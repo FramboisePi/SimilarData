@@ -16,7 +16,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1d014de-040b-4ad3-b714-72887f6a5a73.jpg"
   },
   {
    "id": "d4b74b3a-6be3-4916-bc9c-ad2158f23dd0",
@@ -32,7 +33,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f2c99571-fd40-419e-ac1f-87b55512fb11.jpg"
   },
   {
    "id": "a6cae56a-1be3-4a8f-8737-a3f3d24e17e3",
@@ -45,7 +47,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "40824bef-11a3-4555-9dbf-fb865e08e972.jpg"
   },
   {
    "id": "a72994fd-f1c5-4df2-b7b0-423356408958",
@@ -59,7 +62,8 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "aa195490-f21f-4452-a724-d8fb35812b02.jpg"
   },
   {
    "id": "48592786-4c75-43ed-b697-59f8beb79bc4",
@@ -76,7 +80,8 @@
     "fr",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3f505f3c-2117-4f7e-a2b1-d0e0989f28ee.jpg"
   },
   {
    "id": "ee4bf782-9fe9-42a6-be7f-3809293818c2",
@@ -88,7 +93,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b5dd3d7d-a30e-45b0-8cd9-138485bbeeb2.jpg"
   },
   {
    "id": "15ae665e-ef80-46e1-b34f-d2fd413bd866",
@@ -100,19 +106,21 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "939d29ff-42f4-4533-8ee0-6d11803802c2.jpg"
   },
   {
    "id": "75c82d70-45ba-4a07-a438-6754c9536fda",
    "title": {
-    "en": "Re:Zero Kara Hajimeru Isekai Seikatsu – Hyouketsu no Kizuna"
+    "en": "Re:Zero Kara Hajimeru Isekai Seikatsu \u2013 Hyouketsu no Kizuna"
    },
    "contentRating": "safe",
    "score": 0.37501043,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0e37f337-cf77-4c13-96d3-873e10de63cc.jpg"
   },
   {
    "id": "2e3d0203-e1d2-4142-b6ab-69a70643d7a1",
@@ -129,7 +137,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "f18b6716-1425-45d9-ba62-88e04c18a6c4.jpg"
   },
   {
    "id": "ce9fe2e2-8804-496a-90a5-03fb3063188b",
@@ -141,7 +150,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b0ceac3a-33c3-416b-8cbe-60dba873965b.jpg"
   },
   {
    "id": "d68ceffd-ac56-45db-9129-3413dd0d7063",
@@ -153,7 +163,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7c6ea9a0-3373-47a7-881e-cd26b588c0a6.jpg"
   },
   {
    "id": "7643e9f6-8455-4a58-b7e8-bf6cd00f5251",
@@ -167,8 +178,10 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "ae9e7cb7-f91d-428c-8b0e-919beb55cc71.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:30+00:00"
+ "updatedAt": "2021-07-18T06:29:30+00:00",
+ "coverFileName": "389152f2-3c88-4bf2-8e98-5ac761253f08.jpg"
 }

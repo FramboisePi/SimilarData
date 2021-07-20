@@ -19,7 +19,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cbe549cf-e55d-4330-9b14-2f1f21974cdb.jpg"
   },
   {
    "id": "336fdb39-ebff-4ad5-aa87-7fc7e5d61360",
@@ -33,7 +34,8 @@
     "pt-br",
     "ru",
     "ar"
-   ]
+   ],
+   "coverFileName": "79ffbe70-3da4-457b-96ac-abf288e6cb31.jpg"
   },
   {
    "id": "f5f9c2f1-bc44-40cd-bb79-710819ac0a91",
@@ -45,7 +47,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2850df18-f515-4de8-a803-13f60cc714fa.jpg"
   },
   {
    "id": "f7813136-75c7-43ac-9354-93e464716b0b",
@@ -59,12 +62,13 @@
     "en",
     "bg",
     "vi"
-   ]
+   ],
+   "coverFileName": "87a70429-d52c-443d-9b65-40aece07a96f.jpg"
   },
   {
    "id": "e0300b2d-9491-4ae3-9f4e-1997aace0dcf",
    "title": {
-    "en": "Noël la neige"
+    "en": "No\u00ebl la neige"
    },
    "contentRating": "safe",
    "score": 0.36742347,
@@ -74,7 +78,8 @@
     "de",
     "fr",
     "bg"
-   ]
+   ],
+   "coverFileName": "6eebbbe1-85bf-4324-9c59-b609d52db989.jpg"
   },
   {
    "id": "b9745d18-8556-48ea-a5c7-d43abdc5ab62",
@@ -88,7 +93,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "49c67fee-306a-4eb5-a47b-f0b617776784.jpg"
   },
   {
    "id": "dee582b2-2633-4287-86c5-e7a9e51e8bba",
@@ -107,7 +113,8 @@
     "ru",
     "tr",
     "uk"
-   ]
+   ],
+   "coverFileName": "35c28842-ab85-4264-be27-e04092f18278.jpg"
   },
   {
    "id": "2ffebd60-0b19-4719-bb79-c47b82ac2234",
@@ -119,7 +126,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "db6f5dc9-4798-43b6-b2c4-1906065b93cd.jpg"
   },
   {
    "id": "d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496",
@@ -132,12 +140,13 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "03186d48-e4ac-4d2c-86c7-bca5e8d9f163.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.32341143,
@@ -150,7 +159,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "70fe972b-3c88-4165-b9a5-3db96d6d2c14",
@@ -166,7 +176,8 @@
     "pt-br",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "93ee98a6-9415-4a46-b430-de6aa2de781c.jpg"
   },
   {
    "id": "fe0ca912-db5a-4073-a8b6-e303a1d30459",
@@ -180,8 +191,10 @@
     "tr",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "a1af9473-b786-47d4-bd93-9e6bb6ca727e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:00+00:00"
+ "updatedAt": "2021-07-18T07:03:00+00:00",
+ "coverFileName": "f0842907-9555-4324-b093-a78cf2a3d439.png"
 }

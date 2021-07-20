@@ -8,13 +8,14 @@
   {
    "id": "b694f311-9e91-45c8-b87e-6ee672c4e447",
    "title": {
-    "en": "Schäferhund"
+    "en": "Sch\u00e4ferhund"
    },
    "contentRating": "suggestive",
    "score": 0.30798867,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02b5fe39-6e8b-45a1-9ab3-24099583954c.png"
   },
   {
    "id": "ef473f14-8c4d-435e-9015-b714512e69eb",
@@ -29,7 +30,8 @@
     "ru",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "e6951e5c-c42b-40cc-8cad-176badc83466.jpg"
   },
   {
    "id": "de928b04-2a7f-43b2-b33e-04e1073415c3",
@@ -41,7 +43,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "b70cafb3-1d3d-4ae1-8ecd-1689bfaf8d57.jpg"
   },
   {
    "id": "31897567-bbe5-4172-a945-b8efc66e2281",
@@ -52,18 +55,20 @@
    "score": 0.28451577,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9149b490-3252-45ac-a6da-84831e5fb77a.jpg"
   },
   {
    "id": "df475b9f-f961-41d7-bf69-5176edc6827b",
    "title": {
-    "en": "Front Mission - Dog Life \u0026 Dog Style"
+    "en": "Front Mission - Dog Life & Dog Style"
    },
    "contentRating": "suggestive",
    "score": 0.2843829,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6791353-eb9d-45b8-ad1f-899ecae79d3c.png"
   },
   {
    "id": "35d4ce8e-57e5-4e48-a2bb-7b659d03db14",
@@ -76,7 +81,8 @@
     "en",
     "ro",
     "it"
-   ]
+   ],
+   "coverFileName": "f4832e86-f3f4-4287-a658-fa11e2c4eef9.jpg"
   },
   {
    "id": "1421a9e8-fbf5-4e64-a72f-dbebdf570a1f",
@@ -87,7 +93,8 @@
    "score": 0.27706817,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c81bb1b-60f0-4be0-92e4-cb67dab35288.jpg"
   },
   {
    "id": "4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
@@ -102,7 +109,8 @@
     "pl",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c88d4a8b-416a-47b7-803c-5c0cafd9afa7.jpg"
   },
   {
    "id": "3ebaf386-e12e-4b17-9aa0-857a0b99b53b",
@@ -114,7 +122,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ae008a72-43d1-42e7-8bb1-73155185cfd7.jpg"
   },
   {
    "id": "b6411c38-a54e-46ae-af38-12927bb92e29",
@@ -125,7 +134,8 @@
    "score": 0.26313865,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "05985cec-3a21-4fa8-b676-9eeb1eb62acf.jpg"
   },
   {
    "id": "5dd2b3f4-b3aa-40c5-8920-64643b144f1e",
@@ -137,7 +147,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e88a401e-3f00-451a-9cd0-c3b42bd8749e.jpg"
   },
   {
    "id": "7b95292f-fa33-43be-8fd2-12fefae7a149",
@@ -148,8 +159,10 @@
    "score": 0.2590774,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "760d826a-c29b-4c2b-a774-f25932bca3aa.png"
   }
  ],
- "updatedAt": "2021-07-18T06:27:05+00:00"
+ "updatedAt": "2021-07-18T06:27:05+00:00",
+ "coverFileName": "793e22a8-9b71-422b-a6df-605ff4cf7099.jpg"
 }

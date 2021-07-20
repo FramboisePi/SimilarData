@@ -1,7 +1,7 @@
 {
  "id": "3b80d917-0325-4deb-a281-488718beb721",
  "title": {
-  "en": "Pick Up a Fool’s Apprentice"
+  "en": "Pick Up a Fool\u2019s Apprentice"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.44323388,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0575a962-17ec-4a3c-89c2-eaed8d3418ab.jpg"
   },
   {
    "id": "a938e150-4eda-45c7-9b7d-17317c0a7c44",
@@ -25,7 +26,8 @@
    "score": 0.43748435,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29773f7a-721d-4cfb-b087-aecc17367af1.jpg"
   },
   {
    "id": "3dc41d88-ad01-406c-8663-1b5bd099839d",
@@ -37,7 +39,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3b5cbb3b-7ec5-4600-9ce9-fd8960a708ab.png"
   },
   {
    "id": "65eaf0d5-9a80-4b3b-83ed-0f264fe2fb66",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e3ea5b48-d329-4ddf-a8e8-04c30d78b23e.jpg"
   },
   {
    "id": "e4e154ba-cf32-4966-b0b2-2c3eaafe0f6d",
@@ -64,7 +68,8 @@
     "ru",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "36be371d-1a2e-4e9b-ab3b-724fd20399b5.jpg"
   },
   {
    "id": "93ce0679-cb99-40bc-b7a4-bbfa8b000d22",
@@ -76,7 +81,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "2efc354a-1654-46be-9fd4-2693ba873a3c.jpg"
   },
   {
    "id": "38257def-6202-4dd2-9bc0-5d86ab188a64",
@@ -87,7 +93,8 @@
    "score": 0.40163904,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bff77a0d-86c6-43c3-a78c-d5ad09bc5a2e.png"
   },
   {
    "id": "a109da3a-322d-4a66-bdf6-872d0c0e91f0",
@@ -99,7 +106,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f58cefb2-c79f-4f25-a812-5eade12cd916.png"
   },
   {
    "id": "030d9ca4-7aff-43c4-8ffa-0c47c366e830",
@@ -110,7 +118,8 @@
    "score": 0.3897959,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d081fff-b677-4313-90e8-5c2c68caaee5.jpg"
   },
   {
    "id": "24aec77b-d8e5-4d7f-bc5f-9c06371c11e6",
@@ -121,7 +130,8 @@
    "score": 0.38818333,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b27a9a3-daa2-4cac-a92c-59c5ce0d5fa8.jpg"
   },
   {
    "id": "95929ed7-6b14-4ce4-820c-3ece99eeccba",
@@ -133,7 +143,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "7dbca5f9-9fa1-4296-8315-9fd906814911.png"
   },
   {
    "id": "542ebf75-4301-4d38-9315-dbdf03efeb46",
@@ -144,8 +155,10 @@
    "score": 0.38544533,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de321505-23a4-443a-9097-0144d0fee316.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:33+00:00"
+ "updatedAt": "2021-07-18T06:35:33+00:00",
+ "coverFileName": "9841afb1-cb99-45a9-8eed-534dd1338ce8.jpg"
 }

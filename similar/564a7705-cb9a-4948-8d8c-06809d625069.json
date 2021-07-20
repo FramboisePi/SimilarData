@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "47cefc6b-a2a6-4d69-b0b8-533684383ed2.jpg"
   },
   {
    "id": "3979f6c1-701a-4808-8f1f-fdbfac2d9d56",
@@ -28,7 +29,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ed5f6f85-d2fd-42ab-b675-e51ca470ec38.jpg"
   },
   {
    "id": "76c69636-119c-41af-9d3e-058296a1db35",
@@ -40,7 +42,8 @@
    "languages": [
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "7b63dbd4-6951-4a57-985c-d07130750fe5.jpg"
   },
   {
    "id": "a2f60ee0-75c1-4aa4-aa19-be9f943d8c80",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4518661d-177a-4cf9-b992-cf73f3d36995.jpg"
   },
   {
    "id": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
@@ -63,7 +67,8 @@
    "score": 0.4616014,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e753f07d-4ab0-417c-b240-a5e124ef5269.jpg"
   },
   {
    "id": "8abf7e9f-133b-4a00-b678-93708ee1c148",
@@ -74,7 +79,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b5f4469-addf-46bf-a073-a822c8d5d0dc.jpg"
   },
   {
    "id": "bda927f7-df67-4842-b830-19c931159e41",
@@ -85,7 +91,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "437192d3-fb8a-4b1a-b2c7-7f5b85e9153a.jpg"
   },
   {
    "id": "fe959bd4-2acd-487f-8709-f7fde3ff7b0c",
@@ -97,19 +104,21 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "c7433898-91cb-4bce-86ff-f0dffb84330d.jpg"
   },
   {
    "id": "71975bb9-0059-4003-b38e-b11c10989b4b",
    "title": {
-    "en": "Tekito na Maid no Oneesan \u0026 Erasou de Ichizu na Botchan"
+    "en": "Tekito na Maid no Oneesan & Erasou de Ichizu na Botchan"
    },
    "contentRating": "safe",
    "score": 0.4490731,
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "fdeb3754-aa8c-4b56-948a-36b55f8410b9.png"
   },
   {
    "id": "c01b72bd-7fe3-4eea-87e2-e77efc1322fe",
@@ -122,7 +131,8 @@
     "ru",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "5a6a6e45-c493-4dd3-81ac-8ae3f453147e.jpg"
   },
   {
    "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
@@ -134,7 +144,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "dc02177b-4de4-477f-ad33-7e63ec4c607c.jpg"
   },
   {
    "id": "a895f29c-1f4f-4ba9-bb35-27f35a47d174",
@@ -147,8 +158,10 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a7721ad0-d048-4823-ae31-aee8a00d4747.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:31+00:00"
+ "updatedAt": "2021-07-18T06:40:31+00:00",
+ "coverFileName": "a59c1a2f-a5e8-4c55-84e4-aab5dc6616fd.jpg"
 }

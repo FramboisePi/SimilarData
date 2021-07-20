@@ -1,7 +1,7 @@
 {
  "id": "6259f21b-1572-4bf6-9797-d44789b3355c",
  "title": {
-  "en": "OPM × Dangan Tenshi Fanclub"
+  "en": "OPM \u00d7 Dangan Tenshi Fanclub"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fad79d1-1ede-4d94-bb09-061d698c5044.png"
   },
   {
    "id": "829cfe82-73e5-4eea-abd7-0065c7eb6a04",
@@ -25,7 +26,8 @@
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d41b5bd-5f5e-493f-b21f-fb19810866c4.png"
   },
   {
    "id": "0c380bf9-94ac-41e5-b78b-29bfe222e923",
@@ -36,7 +38,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bcc3e291-5ffa-480e-965f-6cd339735ef0.jpg"
   },
   {
    "id": "7f7a9625-2a5a-42a9-b3d0-a3bd625cecaa",
@@ -47,7 +50,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "202e5484-20ae-4e21-ad0b-3386c3547ea0.jpg"
   },
   {
    "id": "27e6c380-6582-41d3-a198-291b8bf768bf",
@@ -58,7 +62,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b3971514-0e9f-4e2c-b5f7-68aa6c609352.jpg"
   },
   {
    "id": "1ffe2e08-d172-43c3-9fd4-82224dc55746",
@@ -69,7 +74,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ba33853-6f50-4521-9115-1e813c41bcb3.jpg"
   },
   {
    "id": "6513c799-aedc-445f-9218-5409928ad6f7",
@@ -80,19 +86,21 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b414d533-a3ef-4cd3-8ae9-bc60a36fba11.jpg"
   },
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.31819806,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "59b1cf2a-60db-421d-b001-2a55a78cf7a3",
@@ -103,7 +111,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b952fa99-df9e-481f-a260-9ae0fc271fbb.jpg"
   },
   {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
@@ -117,7 +126,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
   },
   {
    "id": "62601b10-dfe8-47b2-b181-9a8fd121802f",
@@ -129,7 +139,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "2326db49-abf3-41b8-9d50-f8548b4aa3bf.jpg"
   },
   {
    "id": "a7bad70b-e8f1-42f7-8eee-0363e41deeef",
@@ -144,8 +155,10 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "3f6dbeb3-e0c3-4aeb-aaef-4e418729d6df.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:46+00:00"
+ "updatedAt": "2021-07-18T06:42:46+00:00",
+ "coverFileName": "5909067b-5782-4e81-bb12-5c80ae90be34.jpg"
 }

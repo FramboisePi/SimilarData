@@ -20,7 +20,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bfbb833c-12f9-4259-9a08-61598a3cbf31.jpg"
   },
   {
    "id": "2f2791ae-2a30-418f-a173-db2263c2d0ae",
@@ -31,7 +32,8 @@
    "score": 0.5164836,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de8bbc2d-2b79-4405-bec9-fac339a2e82e.jpg"
   },
   {
    "id": "d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5",
@@ -44,7 +46,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "920d9226-6782-4040-a8b0-d5e7ea164d47.jpg"
   },
   {
    "id": "82d1553b-84a1-4baf-9e14-8ac72f034aab",
@@ -56,7 +59,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "bf26ad2e-c2c4-4eba-ae94-cfa3cb1103f4.jpg"
   },
   {
    "id": "f2080de4-f335-4680-a16c-4ed10cde514d",
@@ -67,7 +71,8 @@
    "score": 0.31072563,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a036dc19-5d1c-4357-a7cd-63995737b3b9.jpg"
   },
   {
    "id": "f89ed64d-e0ce-4aba-802c-f45e83cec306",
@@ -78,7 +83,8 @@
    "score": 0.30349946,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e6ab1aa-d577-4f25-807e-17f041e50379.jpg"
   },
   {
    "id": "85fc32e3-708c-43ba-9a26-e879a8f574e8",
@@ -92,12 +98,13 @@
     "en",
     "it",
     "uk"
-   ]
+   ],
+   "coverFileName": "552f7830-75fa-4d55-a766-aa1b16817fa7.jpg"
   },
   {
    "id": "68a2147c-7688-41a2-b1c8-8ad1eb4b9b22",
    "title": {
-    "en": "Full Metal Panic! Σ"
+    "en": "Full Metal Panic! \u03a3"
    },
    "contentRating": "suggestive",
    "score": 0.30229267,
@@ -105,7 +112,8 @@
     "es",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "833905eb-08e6-4e44-8e3b-dcd9f0c3397c.jpg"
   },
   {
    "id": "c978f893-c764-42f4-9b04-fbf162e4d67a",
@@ -116,7 +124,8 @@
    "score": 0.30229267,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2653f357-37b7-411b-a8ad-aff078691eed.jpg"
   },
   {
    "id": "122330aa-9663-498b-b146-4313cde474ac",
@@ -127,7 +136,8 @@
    "score": 0.29925448,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "03875ac3-abf6-43cc-be1b-803b30fbe6c6.jpg"
   },
   {
    "id": "90ef7243-7b98-449c-af1c-422f06b2ba60",
@@ -138,7 +148,8 @@
    "score": 0.29925448,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "453e4a8e-b1ba-4f65-a24d-a3dd51bc7bbe.jpg"
   },
   {
    "id": "f90bfb4f-a9e8-4579-8152-a7b224708285",
@@ -150,8 +161,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d675c7b0-e8ae-42d3-a58f-01fee0ad2021.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:38+00:00"
+ "updatedAt": "2021-07-18T06:38:38+00:00",
+ "coverFileName": "c88d4a8b-416a-47b7-803c-5c0cafd9afa7.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "00a9a2ba-89a8-479d-9848-97361faaf3c3",
  "title": {
-  "en": "Brothers Grimm’s Cruel Fairy Tales"
+  "en": "Brothers Grimm\u2019s Cruel Fairy Tales"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.56182724,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e2e59bb-649f-4788-9fe0-109900cc55aa.jpg"
   },
   {
    "id": "e6fb4ced-2c75-44b0-b869-0925c465340e",
@@ -25,7 +26,8 @@
    "score": 0.5083917,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8f850faa-a124-4e30-bf83-1f5a01880d20.jpg"
   },
   {
    "id": "3d3f5945-b7b9-4a0b-85d4-0d81f1ef31ce",
@@ -36,7 +38,8 @@
    "score": 0.5029631,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f2055e37-217c-42c6-ad10-a65ea8388bac.jpg"
   },
   {
    "id": "8d1a4a97-26f5-4bcd-a41c-398048ba29d0",
@@ -47,7 +50,8 @@
    "score": 0.42566827,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9dd2a7e8-cd7c-425d-949b-aca095844e0b.png"
   },
   {
    "id": "bfa23abe-21d3-4f3a-b3a1-20ed8b4cd539",
@@ -59,7 +63,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "8bbd3dce-8412-457d-8bd0-96dddbf7407e.jpg"
   },
   {
    "id": "a4361170-aa51-4208-b5b7-2ac38632581c",
@@ -70,7 +75,8 @@
    "score": 0.40124354,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d875e3db-4944-4837-8f69-05cb870bbf6e.jpg"
   },
   {
    "id": "28fa3470-c62c-4d1e-af05-6ebb9fac0f69",
@@ -81,7 +87,8 @@
    "score": 0.39511335,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28e86581-3ac5-47f9-b2ab-a7cfb4e73d3f.png"
   },
   {
    "id": "26e8a6d9-0081-4823-9116-a7b8040df4cb",
@@ -92,7 +99,8 @@
    "score": 0.39157087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1c4840ee-1a4c-4052-9dc1-58cd8a7d2b0d.jpg"
   },
   {
    "id": "09d13d4a-2760-4b93-ae3a-0d279e3b9a79",
@@ -103,7 +111,8 @@
    "score": 0.38681754,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d9e63ef5-6a6f-45d7-9d6b-6d95baccf378.jpg"
   },
   {
    "id": "4e3a8aaf-e8b6-4834-83db-c6b271b9a267",
@@ -116,7 +125,8 @@
     "bg",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "aa783635-2e91-4407-adc6-24a635f779ac.png"
   },
   {
    "id": "119c7417-1464-4fa2-a110-cd18b49882e1",
@@ -127,7 +137,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec72dae3-c303-40f6-9210-f49cc8d5d8ea.png"
   },
   {
    "id": "24fa616f-1d60-4444-af2b-1069e6515fa0",
@@ -138,8 +149,10 @@
    "score": 0.3713401,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b4119de-d721-42d5-9eed-2c0fb82a621b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:36+00:00"
+ "updatedAt": "2021-07-18T06:24:36+00:00",
+ "coverFileName": "bca97be1-e1c5-4217-8dae-6ba2e3f758d5.jpg"
 }

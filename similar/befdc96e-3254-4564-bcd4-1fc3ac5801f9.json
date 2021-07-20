@@ -16,7 +16,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "28151ef5-af51-468f-a78e-263b7695bbb5.png"
   },
   {
    "id": "0cb8a8aa-dc30-43b6-8bf9-772f7ce57d87",
@@ -29,7 +30,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "940df720-202d-47fc-a7cd-f86fa3504688.jpg"
   },
   {
    "id": "8d052607-3f52-41ed-a6b7-c7c5c9bfbf72",
@@ -42,7 +44,8 @@
     "fr",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "58a50892-185a-432a-bf58-460bc0c5e72c.jpg"
   },
   {
    "id": "2ec26124-30e6-49ad-a6b0-c9baf5f71417",
@@ -58,19 +61,21 @@
     "it",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "41e77bfa-5150-4246-82a0-27c033991165.png"
   },
   {
    "id": "3d5e9f96-3f86-43ed-b468-4013faf1a387",
    "title": {
-    "en": "Ai no donā"
+    "en": "Ai no don\u0101"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cbf74602-6b49-404b-96ca-bcea909fdbe5.jpg"
   },
   {
    "id": "9e27b55a-8227-42b0-ad92-7a0f661038a6",
@@ -87,7 +92,8 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7564879d-d293-4e6f-9909-67a2f727f0b2.jpg"
   },
   {
    "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
@@ -102,7 +108,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "56b76750-67bf-45cd-a623-a0681b3da782.png"
   },
   {
    "id": "cf137705-a382-4a6b-ad7d-7e98fe1d5d71",
@@ -115,7 +122,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "4298541b-30fa-41e8-b5a6-3b7cd708a5f0.png"
   },
   {
    "id": "7c5674c9-1128-4f8a-b241-b13b0ca0f4e4",
@@ -131,7 +139,8 @@
     "ru",
     "en",
     "tl"
-   ]
+   ],
+   "coverFileName": "b46a15f0-a835-48ee-9d75-e37167127f79.jpg"
   },
   {
    "id": "78842fd7-6204-42ce-8cba-91b7949a381e",
@@ -145,7 +154,8 @@
     "id",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "186889d3-3cb4-438f-9bd2-1e263078d52f.png"
   },
   {
    "id": "935de30e-4ae0-467a-8dd8-11ed488de489",
@@ -159,7 +169,8 @@
     "zh",
     "pt-br",
     "vi"
-   ]
+   ],
+   "coverFileName": "c0323b04-d640-4dd8-ac4a-82c0d242fff6.jpg"
   },
   {
    "id": "f0f613a8-1903-4793-bc9c-c4b324fe1299",
@@ -170,8 +181,10 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41caa900-8881-4ee8-ad3c-2de94c11b9db.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:55+00:00"
+ "updatedAt": "2021-07-18T06:59:55+00:00",
+ "coverFileName": "dc6e720d-dbbe-4faa-b1b7-c22e49641a64.jpg"
 }

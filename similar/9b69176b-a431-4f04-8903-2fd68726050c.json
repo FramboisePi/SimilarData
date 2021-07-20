@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "bb5b22de-61d7-42cc-8d6d-b34b2ddaaea1.png"
   },
   {
    "id": "5468e39e-5db7-4a13-aa7b-819bdce537ef",
@@ -28,7 +29,8 @@
     "en",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "cd6784ff-922d-4605-b08c-371846bfc795.jpg"
   },
   {
    "id": "aded0ea5-b457-4001-8c95-092eae738f23",
@@ -39,7 +41,8 @@
    "score": 0.3725764,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "f7a90cd4-b5c1-4d04-bcb1-29291dca3690.jpg"
   },
   {
    "id": "d3389c1b-dad8-42a7-bc08-d78a84c812f9",
@@ -50,7 +53,8 @@
    "score": 0.3649982,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "eed6f6c6-1db5-4f67-a55f-358dc35b748c.png"
   },
   {
    "id": "d13b2d47-280e-43f3-9aa9-7c1f7a7a012e",
@@ -61,12 +65,13 @@
    "score": 0.3613298,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "74cac1f5-234f-4c40-a9f5-6485a59e5c07.jpg"
   },
   {
    "id": "5f10fc38-8cd5-4427-9a0b-feff4c9d33d4",
    "title": {
-    "en": "Liberty☆Liberty!"
+    "en": "Liberty\u2606Liberty!"
    },
    "contentRating": "safe",
    "score": 0.36062196,
@@ -74,7 +79,8 @@
     "hu",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "a58fdd83-8bf5-4eb5-9af7-835cfc6adf38.jpg"
   },
   {
    "id": "62b3e75d-e0ab-49cd-a597-ff75c0b8f9a9",
@@ -85,7 +91,8 @@
    "score": 0.3557329,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "f1f0f6b0-943f-46c9-924d-baaaa3652acb.jpg"
   },
   {
    "id": "31e02a6f-9488-4ce2-8bd6-f8bcc94c0aa3",
@@ -98,7 +105,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "911629ce-3a74-496c-a4b5-b616ad375d1a.jpg"
   },
   {
    "id": "7b93e377-2ca6-4d56-b99c-d4172f10ca63",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "16811600-9562-4b75-9a76-9ee0f85a2f47.jpg"
   },
   {
    "id": "fb0974dd-b7f2-4418-92af-2f553d296b80",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ff6fed91-b249-44db-8ec5-9ca9d2027a6f.jpg"
   },
   {
    "id": "ebc30e1e-ae09-418c-b29d-69a59ff3a792",
@@ -135,7 +145,8 @@
     "th",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "2f75b76f-8f99-4a5a-a47c-6463bed3bd3f.jpg"
   },
   {
    "id": "23fbed7d-72e9-48f2-b93e-1fcf25fe5a4f",
@@ -147,8 +158,10 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "48e35682-e739-4166-a0b3-19f767eff223.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:24+00:00"
+ "updatedAt": "2021-07-18T06:53:24+00:00",
+ "coverFileName": "0ea44d3f-12c6-4a98-a856-a176b8a8c44d.jpg"
 }

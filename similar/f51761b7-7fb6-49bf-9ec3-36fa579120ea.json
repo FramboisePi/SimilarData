@@ -16,7 +16,8 @@
     "pt-br",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "40c9739e-a030-4d70-a341-01b4f097f72a.jpg"
   },
   {
    "id": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
@@ -27,7 +28,8 @@
    "score": 0.39240408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b942e09-b8f3-4c7a-8d63-21c09101c16a.jpg"
   },
   {
    "id": "d989ccc3-cd54-4ce2-aa83-0a7c54a6a267",
@@ -38,7 +40,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47ad8f47-d8c1-48a2-b16e-7967775f5072.jpg"
   },
   {
    "id": "f6dbfd07-7578-44f8-b63d-fee0903c8468",
@@ -49,7 +52,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0fd5e36-10e8-46a9-b77f-b03307506afb.png"
   },
   {
    "id": "d91023f0-d7ea-464d-9f29-fae3063465ee",
@@ -60,7 +64,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c035a47d-b728-46f8-95c8-ba2dbc063b68.jpg"
   },
   {
    "id": "7b5b502d-00bb-4cee-979b-2f700a4f9b5b",
@@ -74,7 +79,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8e3e93b1-190b-4492-8cad-4dbc750b0df7.jpg"
   },
   {
    "id": "4c6cce79-54bd-4c32-9725-0fc3ecd38b6d",
@@ -86,18 +92,20 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "c1326be4-4794-4765-add7-f7c928338713.jpg"
   },
   {
    "id": "da4805a7-66e5-4f02-ab25-137f2342219c",
    "title": {
-    "en": "Zombie Boy \u0026 Killer Girl"
+    "en": "Zombie Boy & Killer Girl"
    },
    "contentRating": "safe",
    "score": 0.33206484,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "466bcf60-44d3-43f4-b040-15ea30acbb25.jpg"
   },
   {
    "id": "69f5bcd1-e733-413f-9a6b-85d34e4c8efd",
@@ -109,7 +117,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "494a922b-f00a-4588-bcc2-03d62dfb2810.jpg"
   },
   {
    "id": "bc683624-579b-4f6a-94a4-5dc6cac0395c",
@@ -121,7 +130,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f7d2bc68-a430-4884-812a-0df08a6b4552.jpg"
   },
   {
    "id": "03bcdcf5-1550-4ccb-9c4e-4793cb4b8380",
@@ -133,7 +143,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f4a1eac7-8bc4-48e5-b79e-ae3d6cad3d01.jpg"
   },
   {
    "id": "5b3ee77d-1bb5-4377-a6d0-89553981ad47",
@@ -144,8 +155,10 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "915e601f-13a9-42a4-8c5e-fa89ad3a7987.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:46+00:00"
+ "updatedAt": "2021-07-18T07:09:46+00:00",
+ "coverFileName": "dd7ffe15-f6a0-44cf-a5b9-4403bee791e2.jpg"
 }

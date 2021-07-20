@@ -1,7 +1,7 @@
 {
  "id": "90d80cd4-0f0f-4f63-bb3d-88a61a5591dd",
  "title": {
-  "en": "Doukyuusei \u0026 Sotsugyousei Fanbook"
+  "en": "Doukyuusei & Sotsugyousei Fanbook"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.42112795,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c949f9d-f18c-4584-bde3-295c24ca2553.png"
   },
   {
    "id": "7a5b2e68-d66e-44a5-9da7-264cc26a4e98",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a9fe7288-d6f8-4135-8cd7-2aa597abc1c4.jpg"
   },
   {
    "id": "9d3a583c-8549-4e72-997b-7c813ae606ba",
@@ -37,7 +39,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "05b702e7-96c5-4f74-b92f-99b3d43b5fc1.png"
   },
   {
    "id": "eb7ad2a9-4ecd-42db-9ec9-6daaed3fc247",
@@ -48,7 +51,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b54611e-fdd7-4554-932f-7ab871189f62.png"
   },
   {
    "id": "cedd0e55-965e-476d-a542-70a289125708",
@@ -59,7 +63,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bcd3b990-ef63-4acb-9b4b-6cc9c080c41d.jpg"
   },
   {
    "id": "88eba87e-b4bd-4110-b971-6b7ed02d3100",
@@ -70,7 +75,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b75724f3-bf17-4370-b3df-f89fb18f1ab8.jpg"
   },
   {
    "id": "2383bb7e-7b1c-4ec7-ab67-4f8c67067333",
@@ -83,7 +89,8 @@
     "tr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6234c6c9-fdd3-47ff-b71d-30eb3bdf4e28.jpg"
   },
   {
    "id": "4fc0cddd-f7b1-4587-9ae7-0e9c8b194cea",
@@ -94,7 +101,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0f409aae-f4a2-46a5-8a56-15d43a0e6221.jpg"
   },
   {
    "id": "fd1dc004-8eeb-4fac-b067-29283254a89d",
@@ -105,7 +113,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18c31c84-61b8-4f60-be00-029b106ccec0.jpg"
   },
   {
    "id": "6e40b179-1674-4d3d-a62c-b183ea51300e",
@@ -116,7 +125,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ef3ca8f-6d88-43bb-ae94-e832b1eb0a8d.jpg"
   },
   {
    "id": "249f4917-3fa7-4e21-b978-717376e9bb61",
@@ -127,7 +137,8 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2a8966a3-0ceb-47e7-9363-c2b8cdcb8291.png"
   },
   {
    "id": "527af097-cf8c-4b93-bf30-07eadbb8d36a",
@@ -138,8 +149,10 @@
    "score": 0.40556818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de531937-f5c6-4084-855f-12a290cea1ea.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:27+00:00"
+ "updatedAt": "2021-07-18T06:51:27+00:00",
+ "coverFileName": "dde541a1-90f4-4fee-8e2a-16df987f0525.jpg"
 }

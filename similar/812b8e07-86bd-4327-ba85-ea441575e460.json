@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "97600e1f-cdc9-43f7-8fa7-72b34bdf23ba.jpg"
   },
   {
    "id": "27785744-8d13-4501-a613-8dba4e8f0abf",
@@ -27,7 +28,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "50fc0521-777d-44fa-9d36-0247a7e3bcf0.jpg"
   },
   {
    "id": "e9dc6d4a-c93d-4447-9a5b-675d47ecf657",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "37c03026-39f7-4b0a-894f-41258764f034.jpg"
   },
   {
    "id": "93e5a33c-e695-4d6f-9c76-5273dfd62832",
@@ -50,7 +53,8 @@
    "score": 0.36689588,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a2d7f82-eb0f-4a48-9feb-0ab7dad906dd.png"
   },
   {
    "id": "f444f209-e72b-460e-9e3c-37ed9ac2e615",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "962b326e-057d-410d-bdd8-702bf680e83d.jpg"
   },
   {
    "id": "58b29182-90a4-40ab-af42-9a65bf297f4e",
@@ -73,7 +78,8 @@
    "score": 0.35070732,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1ea6467-0faa-4445-a1e7-37900ffe7a4c.jpg"
   },
   {
    "id": "b2d1cb16-12af-4770-b3bf-aad0453c0422",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7c203a83-a5d8-44fe-baa6-3ccba5ded18e.png"
   },
   {
    "id": "f1c864c3-94cf-4722-8569-ab3d7ca6117a",
@@ -100,7 +107,8 @@
     "pt-br",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "8de80cb5-cc45-4a27-a7e2-bfd10fbb12b7.jpg"
   },
   {
    "id": "f73d15a3-931b-45cb-94e6-3d58ab192fc3",
@@ -113,7 +121,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "4cf533c9-161a-4557-9507-a60dabaf1044.jpg"
   },
   {
    "id": "97f2725b-7b78-4892-9905-1e69db2bf2fd",
@@ -124,19 +133,21 @@
    "score": 0.3494336,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8bde0d07-4070-472a-a0b0-9f2f72db686a.jpg"
   },
   {
    "id": "6af5379f-ace2-453f-a9dd-94f7c443937a",
    "title": {
-    "en": "Shinozaki Himeno's Love Q\u0026A"
+    "en": "Shinozaki Himeno's Love Q&A"
    },
    "contentRating": "safe",
    "score": 0.3477206,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "33ff339d-e981-4f89-9fbe-583e9085397e.jpg"
   },
   {
    "id": "5962b357-25ca-46dc-8ea6-8927a9ad8155",
@@ -149,8 +160,10 @@
     "en",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "bfa8a4e6-91bd-4cd3-bd1b-9549a3a523a7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:26+00:00"
+ "updatedAt": "2021-07-18T06:48:26+00:00",
+ "coverFileName": "f62bae51-0a70-4d41-848a-1d19c7cb3b5f.jpg"
 }

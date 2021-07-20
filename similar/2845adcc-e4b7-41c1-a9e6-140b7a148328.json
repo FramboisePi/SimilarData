@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "97600e1f-cdc9-43f7-8fa7-72b34bdf23ba.jpg"
   },
   {
    "id": "f73d15a3-931b-45cb-94e6-3d58ab192fc3",
@@ -28,7 +29,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "4cf533c9-161a-4557-9507-a60dabaf1044.jpg"
   },
   {
    "id": "58b29182-90a4-40ab-af42-9a65bf297f4e",
@@ -39,7 +41,8 @@
    "score": 0.4012742,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1ea6467-0faa-4445-a1e7-37900ffe7a4c.jpg"
   },
   {
    "id": "f1c864c3-94cf-4722-8569-ab3d7ca6117a",
@@ -54,7 +57,8 @@
     "pt-br",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "8de80cb5-cc45-4a27-a7e2-bfd10fbb12b7.jpg"
   },
   {
    "id": "b2d1cb16-12af-4770-b3bf-aad0453c0422",
@@ -66,7 +70,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7c203a83-a5d8-44fe-baa6-3ccba5ded18e.png"
   },
   {
    "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
@@ -78,7 +83,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a2434820-b719-4075-bbe8-7428c7bad5a9.jpg"
   },
   {
    "id": "40660a4b-1b11-404b-bbc6-290c28d7cd9a",
@@ -89,7 +95,8 @@
    "score": 0.371647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7be13bb3-24df-446f-b523-d46f517b1783.png"
   },
   {
    "id": "107be290-6a4b-4974-a9c5-3761a2514823",
@@ -100,7 +107,8 @@
    "score": 0.3681102,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5e98892-12ac-4dc0-b35b-0d8cad28b926.jpg"
   },
   {
    "id": "d8adcc66-b2a3-4c0c-a8b4-c6f2f0538b90",
@@ -112,12 +120,13 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "856102c8-f3d7-4c48-b1c9-56aed457eae5.jpg"
   },
   {
    "id": "9ef97eba-e0bc-452c-9ed0-bfb645d9b536",
    "title": {
-    "en": "Hitoribocchi no ○○ Seikatsu"
+    "en": "Hitoribocchi no \u25cb\u25cb Seikatsu"
    },
    "contentRating": "safe",
    "score": 0.36200643,
@@ -128,7 +137,8 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "625a18b4-1b16-4077-84e1-fedce5aed568.jpg"
   },
   {
    "id": "c330b0c9-bb7c-42ed-87ea-1cb02557213a",
@@ -139,7 +149,8 @@
    "score": 0.3531213,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a4a6b20-b3da-4dac-9d05-38a3e2d93bef.jpg"
   },
   {
    "id": "40a5bc77-4889-4780-8d36-3eae7b2c973c",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "33108d72-43c0-4c66-8037-a39f7b9fe6ee.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:00+00:00"
+ "updatedAt": "2021-07-18T06:32:00+00:00",
+ "coverFileName": "9c3adb50-7c89-470a-b194-215253b0524f.jpg"
 }

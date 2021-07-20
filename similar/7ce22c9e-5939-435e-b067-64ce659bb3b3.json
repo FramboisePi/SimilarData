@@ -1,7 +1,7 @@
 {
  "id": "7ce22c9e-5939-435e-b067-64ce659bb3b3",
  "title": {
-  "en": "Hazure Skill “Gacha” de Tsuihou Sareta Ore wa, Wagamama Osananajimi wo Zetsuen Shi Kakusei Suru"
+  "en": "Hazure Skill \u201cGacha\u201d de Tsuihou Sareta Ore wa, Wagamama Osananajimi wo Zetsuen Shi Kakusei Suru"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.5869177,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6153104d-5bae-433b-8377-4ea89edd3a16.jpg"
   },
   {
    "id": "65af3243-8a16-4545-b53a-ed1a79e367ac",
@@ -29,7 +30,8 @@
     "pt-br",
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "c2076339-0a64-46c5-a890-fb6fefec8124.jpg"
   },
   {
    "id": "009c62ce-6064-4409-9949-4f00ba6d593c",
@@ -45,7 +47,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "f01b081d-d6c0-441e-bb6c-12f852a6bb8c.jpg"
   },
   {
    "id": "5896ba9b-7bf0-42a3-94eb-15dcb70fafba",
@@ -61,7 +64,8 @@
     "es-la",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "b0a1c272-afa9-4130-893d-cf203d5b2104.jpg"
   },
   {
    "id": "d8342fa6-d251-45df-870f-e663a56bf1f6",
@@ -73,7 +77,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "240db096-0868-4387-8956-d341aec6bf87.jpg"
   },
   {
    "id": "3edb0966-0a32-4afc-8107-637d03c26d3a",
@@ -86,7 +91,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "313c89fa-0282-4888-985c-f763b2b01bcf.jpg"
   },
   {
    "id": "bff07afd-c046-41e8-9f8d-6f1a8655b642",
@@ -97,7 +103,8 @@
    "score": 0.42119923,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
@@ -110,7 +117,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f5e8b9e-e8fd-472c-a990-819c2a1f371a.png"
   },
   {
    "id": "30196491-8fc2-4961-8886-a58f898b1b3e",
@@ -129,7 +137,8 @@
     "ru",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1704e954-e4d2-469c-857a-c4a71442c3a7.jpg"
   },
   {
    "id": "1487ed38-87b4-4f47-a82b-e85fd3dbd4f0",
@@ -143,18 +152,20 @@
     "th",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3b75c174-02f1-4b1b-91e1-21558b8aabe5.jpg"
   },
   {
    "id": "b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
    "title": {
-    "en": "Isekai ni Otosareta… Jouka wa Kihon!"
+    "en": "Isekai ni Otosareta\u2026 Jouka wa Kihon!"
    },
    "contentRating": "safe",
    "score": 0.40137172,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c86c2b79-e6d2-4a4c-940c-42ddbf7af819.jpg"
   },
   {
    "id": "e9b9e6d0-bf39-4ad0-936e-6a627adcb6da",
@@ -166,8 +177,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "859dd8c5-e540-4b2c-8b7e-5b1a426785c1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:40+00:00"
+ "updatedAt": "2021-07-18T06:47:40+00:00",
+ "coverFileName": "186bfe39-d1c9-4268-913b-8149e75b73d1.jpg"
 }

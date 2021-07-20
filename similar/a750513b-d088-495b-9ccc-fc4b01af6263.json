@@ -1,7 +1,7 @@
 {
  "id": "a750513b-d088-495b-9ccc-fc4b01af6263",
  "title": {
-  "en": "Boy \u0026 Cool"
+  "en": "Boy & Cool"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "83120359-2663-4d2c-a7be-008864ee42c4.jpg"
   },
   {
    "id": "5970416c-534b-416e-9fad-c2f3d725e3f0",
@@ -28,18 +29,20 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "3987f90f-7029-4e62-9b9a-f8c16d19ade4.jpg"
   },
   {
    "id": "1cafb11f-5761-4429-838b-03df2be9cde9",
    "title": {
-    "en": "You’re So Cool"
+    "en": "You\u2019re So Cool"
    },
    "contentRating": "safe",
    "score": 0.5222945,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "55db2635-30a5-4e63-b3f6-3fa6c33cf5cd.jpg"
   },
   {
    "id": "21bf2aa2-2fcb-4788-a1af-24a75c30549e",
@@ -51,7 +54,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "63f344a3-255e-4992-bcee-2b347fe2a2ae.jpg"
   },
   {
    "id": "36c5d027-edc6-43f0-ba4d-169d8cd18383",
@@ -63,7 +67,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d717d848-ddd6-4e7a-b870-e45581110517.jpg"
   },
   {
    "id": "b52dc175-1067-4110-931a-c6d28af53e96",
@@ -76,7 +81,8 @@
     "pl",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "dfe1ff1c-d05f-4192-8fa5-eca5c40b51c9.jpg"
   },
   {
    "id": "aa05239b-a6c8-4bd3-ace9-e70ec33226c4",
@@ -88,7 +94,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "eec6f567-486b-43cf-a49e-e3b1242b535b.jpg"
   },
   {
    "id": "e6dbc5b0-7946-4d96-862d-dbf5514f1f8e",
@@ -101,7 +108,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6ac37d42-8e9f-45fd-b56e-206f97c66c27.jpg"
   },
   {
    "id": "beeeb7c6-f320-48bb-be8d-671c1063fdb1",
@@ -114,19 +122,21 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "59d4dff9-97bc-4f2a-a527-d3aff2a9c91f.jpg"
   },
   {
    "id": "326592e4-5a11-4bbb-9bc2-ea9853f6cba6",
    "title": {
-    "en": "Tsubakikan no Utsukushi Sugiru Garçon"
+    "en": "Tsubakikan no Utsukushi Sugiru Gar\u00e7on"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "77258689-1302-4d62-b764-a5284a4477e9.jpg"
   },
   {
    "id": "32beb771-a9cf-4dd7-9c54-72ac8f0a8c0c",
@@ -138,7 +148,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "decc6848-a02f-42fb-86f4-8eefecfa747c.jpg"
   },
   {
    "id": "e3c8e417-4c50-462d-a039-2d2173b6fc59",
@@ -151,8 +162,10 @@
     "en",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "e2b11df9-22b9-4500-b0ed-807b35c8030c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:33+00:00"
+ "updatedAt": "2021-07-18T06:55:33+00:00",
+ "coverFileName": "7dd64c33-0c6d-4b8c-aaf8-3af7a965e144.jpg"
 }

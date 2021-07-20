@@ -17,7 +17,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "49c67fee-306a-4eb5-a47b-f0b617776784.jpg"
   },
   {
    "id": "9cc9cb81-0305-4a3c-9aeb-504b2635d2a4",
@@ -30,7 +31,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "04ad8abf-c8aa-4e8d-a28c-53b149d5e00e.jpg"
   },
   {
    "id": "27d573f6-757f-447e-9a9b-fbc50590d6db",
@@ -42,7 +44,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "501c52e9-fe41-4060-bb22-f3d2b9f9d0f7.jpg"
   },
   {
    "id": "72f47feb-5b5e-4c0a-91f3-405da5f58d77",
@@ -54,12 +57,13 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4276cb40-8f32-4ca2-bd2f-720ba1ee51f8.jpg"
   },
   {
    "id": "994dfcd9-0449-47a7-ac1e-0efff9b0fe54",
    "title": {
-    "en": "Tyra \u0026 Cera"
+    "en": "Tyra & Cera"
    },
    "contentRating": "safe",
    "score": 0.37298238,
@@ -68,7 +72,8 @@
     "it",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7b496b62-d160-4979-a1c6-2c71f95a20f4.jpg"
   },
   {
    "id": "2ab11b28-0203-47cc-8a78-1edf6bd5a3ae",
@@ -91,7 +96,8 @@
     "he",
     "pl",
     "th"
-   ]
+   ],
+   "coverFileName": "b36cb3f9-7fe8-4181-a15d-bc65537fb971.jpg"
   },
   {
    "id": "656ff561-3721-4c3b-89ab-9b1e1a27a0d4",
@@ -103,7 +109,8 @@
    "languages": [
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "e7b8da96-d7c3-4a1e-a9e3-a90848a119de.jpg"
   },
   {
    "id": "14610263-264a-4c22-8928-e4183e7d4719",
@@ -117,7 +124,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "5a49915c-921a-49b5-9fce-73e3a8fe8827.jpg"
   },
   {
    "id": "023736fb-746c-4e7c-b093-f92700f49cd2",
@@ -132,7 +140,8 @@
     "es-la",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "72e1bf0a-084b-4f2a-a1b7-8594d38098e6.jpg"
   },
   {
    "id": "d326d556-57d3-445a-993d-68ba401dc6f0",
@@ -148,7 +157,8 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "be4b00c8-f45e-421b-bff1-4a0fe4a4acfd.jpg"
   },
   {
    "id": "ef229b9c-25c2-4931-9c22-f6e89a6389e3",
@@ -160,7 +170,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "2122e74a-e9d7-4e5c-953b-acdd81227253.png"
   },
   {
    "id": "a604f709-7f0e-462b-afc8-c123bb187079",
@@ -172,8 +183,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d9d68c36-b09d-4029-b06e-c9eca64736ca.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:17+00:00"
+ "updatedAt": "2021-07-18T06:52:17+00:00",
+ "coverFileName": "c5b01c3c-c2a2-4898-bf8c-bee0e3337aac.jpg"
 }

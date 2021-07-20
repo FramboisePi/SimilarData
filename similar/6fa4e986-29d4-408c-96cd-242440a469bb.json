@@ -16,7 +16,8 @@
     "en",
     "ca",
     "bg"
-   ]
+   ],
+   "coverFileName": "0970ecc0-d3f2-464c-b564-9d97c5056a15.jpg"
   },
   {
    "id": "10ab7de4-c6ed-474c-b669-49a71d271294",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "a8a6ff5d-eb8c-4ad6-bbc5-3027370e6995.jpg"
   },
   {
    "id": "043d7872-4e1f-41be-a271-d7e0547fa234",
@@ -39,18 +41,20 @@
    "score": 0.41307977,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0bcd486-5996-4089-ba7c-80c2e3553812.jpg"
   },
   {
    "id": "d8f36a13-8160-4cde-8589-b658846ac250",
    "title": {
-    "en": "Sommelière"
+    "en": "Sommeli\u00e8re"
    },
    "contentRating": "safe",
    "score": 0.40278074,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ff35fb3-4b13-47c0-a6e7-c7a7ac77c69c.jpg"
   },
   {
    "id": "96d3d5c5-efc9-4e1f-bab5-33343f4d45d3",
@@ -61,7 +65,8 @@
    "score": 0.40137812,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23553339-8617-4951-a93c-17ff161faace.jpg"
   },
   {
    "id": "2c4f6295-c63f-468d-a8fb-db88d226522c",
@@ -72,7 +77,8 @@
    "score": 0.4009708,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1704b22d-f494-4c12-a1fb-8591304abc46.jpg"
   },
   {
    "id": "a4b8437c-ea32-42f9-96da-b3a6b53dabbd",
@@ -83,7 +89,8 @@
    "score": 0.400668,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6d2a903-c0a2-4f59-9cbc-345ab25ac618.jpg"
   },
   {
    "id": "f81efff2-9c03-4786-957f-e147d5197378",
@@ -95,7 +102,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d309f47e-7a37-48b8-9b5b-5594a497664b.jpg"
   },
   {
    "id": "dc35fc30-ff2a-4973-a553-3eb04b2df47d",
@@ -106,7 +114,8 @@
    "score": 0.3991314,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6438c11e-2ff1-4d30-955b-672a5af5a1de.jpg"
   },
   {
    "id": "9e432a31-61ad-4092-8392-80b486001cc3",
@@ -117,7 +126,8 @@
    "score": 0.39472294,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ec2c379-2155-4f21-9970-2b9306a2808a.jpg"
   },
   {
    "id": "b69ac2ac-a439-4c13-bad5-ba27928f3bf5",
@@ -130,7 +140,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dc14925a-01a3-465c-b50a-3bd8873111c0.jpg"
   },
   {
    "id": "10d99d3d-eeaa-40a0-8b08-9011d245edcc",
@@ -142,8 +153,10 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ea8f628b-ad73-4716-90e9-3485f14670ed.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:10+00:00"
+ "updatedAt": "2021-07-18T06:45:10+00:00",
+ "coverFileName": "22feed47-6252-4e87-b66e-639ad9d04775.jpg"
 }

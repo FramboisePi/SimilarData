@@ -16,7 +16,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "1339a515-8fc2-41e0-a7f0-9517b294f25e.jpg"
   },
   {
    "id": "24bfdd6f-4601-48ab-829a-b10ef1215548",
@@ -28,7 +29,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "38b1fd3e-5595-41ca-b727-136981005a1d.jpg"
   },
   {
    "id": "16364ff9-ccaa-4021-9dab-2588efc2481f",
@@ -39,7 +41,8 @@
    "score": 0.486488,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7cc4e88b-a0cb-4943-9216-2132b53cb61d.jpg"
   },
   {
    "id": "020094cb-ca28-4d0c-8556-3f369a68673e",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "1d0b93a4-7ff4-418a-a15e-ac5352640c11.jpg"
   },
   {
    "id": "ed6ac03c-27c5-4b92-9717-034dd874d58d",
@@ -63,7 +67,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "46870af6-c37c-4681-91f4-00e6cc5947a6.jpg"
   },
   {
    "id": "1c7ec287-e94a-45ca-84a0-706839594b74",
@@ -74,7 +79,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d13c7b2-a800-4602-b06b-72b4fa2c6879.jpg"
   },
   {
    "id": "1506f132-df2b-45b0-beb4-5df97c9d304a",
@@ -85,7 +91,8 @@
    "score": 0.42434856,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24f1f763-fc83-4aa4-87b3-e52eb1a0172f.jpg"
   },
   {
    "id": "14459947-6bd7-4be2-a1c5-f9994c3e5b6a",
@@ -96,7 +103,8 @@
    "score": 0.4172784,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e4882de-67ce-4afd-a9d4-7396e4ae6b5b.jpg"
   },
   {
    "id": "c5f24d1e-732c-475a-8b9e-4c94d42ed5e9",
@@ -107,7 +115,8 @@
    "score": 0.40474695,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "605099f5-2d1b-4a31-862b-c69dcb494c24.jpg"
   },
   {
    "id": "0e71d5b8-924f-4cfd-9773-2c4db46958e5",
@@ -118,12 +127,13 @@
    "score": 0.40473238,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18cb97a8-884c-4454-b1dd-ed0e9094bdf7.jpg"
   },
   {
    "id": "5f10fc38-8cd5-4427-9a0b-feff4c9d33d4",
    "title": {
-    "en": "Liberty☆Liberty!"
+    "en": "Liberty\u2606Liberty!"
    },
    "contentRating": "safe",
    "score": 0.40355062,
@@ -131,7 +141,8 @@
     "hu",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "a58fdd83-8bf5-4eb5-9af7-835cfc6adf38.jpg"
   },
   {
    "id": "0cad221e-0281-4450-940c-c71ee9d9da44",
@@ -142,8 +153,10 @@
    "score": 0.39476442,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7caa922a-82ab-438f-b025-0156adc54988.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:02+00:00"
+ "updatedAt": "2021-07-18T06:35:02+00:00",
+ "coverFileName": "1bcd3149-df97-4044-a677-e572d637aba7.jpg"
 }

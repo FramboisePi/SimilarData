@@ -16,7 +16,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0ea35f3e-a9cd-4a5f-8d5f-38e56b38e2fa.jpg"
   },
   {
    "id": "018a3a94-e806-4f70-8f47-6205f98108b2",
@@ -27,7 +28,8 @@
    "score": 0.52784574,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6c1e1f74-6064-45e9-a4cc-d999bbe40aba.jpg"
   },
   {
    "id": "2d83a8d1-9d2e-452a-9249-10f6ee5f0f63",
@@ -38,7 +40,8 @@
    "score": 0.49983448,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "884e9e1f-b87d-4e03-b8b6-d370d3e31d0c.jpg"
   },
   {
    "id": "a525c171-d42f-4dd3-9c36-ed00a8dab234",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "62505dea-81a8-437d-bc7d-f70dac96d610.jpg"
   },
   {
    "id": "df69f0fc-10c7-48e3-96e4-cfb69c1c84c9",
@@ -63,7 +67,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "87e97a2e-d4f6-4991-8143-6713776f6512.png"
   },
   {
    "id": "c883f3c0-f313-4e6e-be5c-d91d08a24847",
@@ -77,7 +82,8 @@
     "pt-br",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "f4ef920f-822e-4bb0-8a86-597e74df8147.jpg"
   },
   {
    "id": "31cd4e9b-a2eb-4a9c-b712-5b2fd467ae77",
@@ -91,19 +97,21 @@
     "tr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "74ccec1b-1645-49dc-b9c2-a4514afa23bc.jpg"
   },
   {
    "id": "2df6c4e8-9554-4810-bf6a-c8382c3375f2",
    "title": {
-    "en": "Ancestor’s Foolish Disciple"
+    "en": "Ancestor\u2019s Foolish Disciple"
    },
    "contentRating": "safe",
    "score": 0.46820664,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "d78d445d-ee08-4c7f-8dbc-72fb0373ab36.jpg"
   },
   {
    "id": "abf5d327-b4b7-41a6-8341-5df72bae3064",
@@ -114,7 +122,8 @@
    "score": 0.46803415,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1408dbd7-7ec8-4fec-a906-977603545fdd.png"
   },
   {
    "id": "9e4ab6ae-f730-4ce2-a528-97986beb8549",
@@ -127,7 +136,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cca3a586-ea05-497c-b899-966bbde92c36.png"
   },
   {
    "id": "c7d11e86-7f56-4363-86b0-e0db037ee68c",
@@ -139,7 +149,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cbc70cf1-bc4b-4de4-8af5-02be062e4fb4.jpg"
   },
   {
    "id": "313aa957-69c2-4102-8bd2-006398b91845",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "408e7a59-8c25-40e8-a48e-c3a297bb3dce.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:57+00:00"
+ "updatedAt": "2021-07-18T06:35:57+00:00",
+ "coverFileName": "3b5cbb3b-7ec5-4600-9ce9-fd8960a708ab.png"
 }

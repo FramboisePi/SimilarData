@@ -19,7 +19,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "2bea61a1-9995-496c-b3bb-d7e04e05270e.jpg"
   },
   {
    "id": "abd0bc20-063a-45a0-91b2-8b7049701d4a",
@@ -33,7 +34,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "8bf1cad9-8f2a-414b-bc92-af3ebaf79171.jpg"
   },
   {
    "id": "a782eb42-52ad-42be-8619-f5603827bc63",
@@ -47,7 +49,8 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "7e1b322a-3b93-4824-a4ed-60d60e20706a.jpg"
   },
   {
    "id": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
@@ -61,7 +64,8 @@
     "en",
     "de",
     "pl"
-   ]
+   ],
+   "coverFileName": "78e7034f-3dfa-4692-934d-3210ee94c0ca.jpg"
   },
   {
    "id": "173116b6-0f11-4fff-a348-8844d1394a45",
@@ -76,7 +80,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "3b785e4c-9afa-4b7c-be88-4385b2a99c14.jpg"
   },
   {
    "id": "40129e2b-5197-4767-bea2-f20e7d7133e9",
@@ -88,7 +93,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "30358141-429f-477f-9eb3-be93cca0778e.jpg"
   },
   {
    "id": "68b257db-f74b-47ff-946b-284f9fc47c17",
@@ -100,19 +106,21 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "5ccca831-0a57-4c58-baa5-2f3dabef5433.jpg"
   },
   {
    "id": "a5209386-9811-4f01-beb8-c1cc4a151dad",
    "title": {
-    "en": "Loose Relation Between Wizard \u0026 Apprentice"
+    "en": "Loose Relation Between Wizard & Apprentice"
    },
    "contentRating": "suggestive",
    "score": 0.39060876,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "46ad0e79-904a-44e1-bc73-d4c71867e6c8.jpg"
   },
   {
    "id": "eb5a4a48-61c3-4f0a-a2c3-1c284b4752ce",
@@ -126,7 +134,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "5d33ff84-8903-4104-9fee-cf1980661216.jpg"
   },
   {
    "id": "12ac16ec-8894-420b-bc03-eade9340dfd8",
@@ -140,7 +149,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3e0aed3d-79e3-426a-877c-f8696230727c.jpg"
   },
   {
    "id": "0b31187d-818d-48fb-bb4a-0126f7d31797",
@@ -151,7 +161,8 @@
    "score": 0.38134852,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97756212-9ab9-4a26-86a8-643606a1876e.jpg"
   },
   {
    "id": "35b4d551-82d2-40c0-b070-62879f5f16f1",
@@ -166,8 +177,10 @@
     "fr",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "59f7bba2-ba7b-42d9-be8f-f9d32831d01b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:06+00:00"
+ "updatedAt": "2021-07-18T07:05:06+00:00",
+ "coverFileName": "73bbcd3e-5478-43ba-ac5b-69eefc5b7baf.jpg"
 }

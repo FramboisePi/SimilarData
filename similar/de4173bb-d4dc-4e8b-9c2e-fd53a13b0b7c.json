@@ -1,7 +1,7 @@
 {
  "id": "de4173bb-d4dc-4e8b-9c2e-fd53a13b0b7c",
  "title": {
-  "en": "Mahou Shoujo Madoka★Magica - La Dolce Vita (Doujinshi)"
+  "en": "Mahou Shoujo Madoka\u2605Magica - La Dolce Vita (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.7384794,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51c3a2a5-23b6-4851-a631-6ded1b763805.jpg"
   },
   {
    "id": "c690c2fe-a0fc-4201-82ce-f880938fc97c",
    "title": {
-    "en": "Mahou Shoujo Oriko★Magica"
+    "en": "Mahou Shoujo Oriko\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.66878617,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5edbf0ca-67d0-4950-969a-48be42d4f4d0.jpg"
   },
   {
    "id": "e1e6e955-e79b-4ddc-9648-292932ec609e",
@@ -38,7 +40,8 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "5c900c0a-46bb-40cc-b826-62824c845f60.jpg"
   },
   {
    "id": "a2f64037-fccf-4c2d-9a1f-b72924fee2cf",
@@ -53,7 +56,8 @@
     "fr",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7c870462-0661-4dd6-8d9a-a260e9830c43.jpg"
   },
   {
    "id": "925c6b74-a307-4d12-ac67-c5d658cb6acf",
@@ -66,7 +70,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "a1251838-bd6d-4599-93cd-9cee361824de.jpg"
   },
   {
    "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
@@ -78,12 +83,13 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "73a81672-16a0-40e4-b8c8-08f850b171da.jpg"
   },
   {
    "id": "c52565c9-d99a-4380-9dc8-67369d448eb7",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica"
+    "en": "Mahou Shoujo Madoka\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.56564486,
@@ -91,19 +97,21 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0434a731-0ced-4d32-a050-d8f1eb9b5a45.jpg"
   },
   {
    "id": "e7ba68e6-0e13-43c8-8c0c-17431ae5a911",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica ~The different story~"
+    "en": "Mahou Shoujo Madoka\u2605Magica ~The different story~"
    },
    "contentRating": "safe",
    "score": 0.56311256,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "543b6a80-e5d1-41c8-a60a-a198ac35bb14.jpg"
   },
   {
    "id": "5f78f0b5-d807-47c7-ae08-dc0cb91484c8",
@@ -115,7 +123,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1a8bf3f8-127d-46fd-9ba0-800d290c3fa9.jpg"
   },
   {
    "id": "4ae3781b-a700-4cda-8618-1145a89ea5ae",
@@ -127,7 +136,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6601fd81-967c-4b01-b6c8-0ac2ba492a92.jpg"
   },
   {
    "id": "f3e8cdf6-0d32-4fb4-b749-7cbab50a2bd9",
@@ -138,7 +148,8 @@
    "score": 0.54770416,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1f8c37e-06cf-499b-ba62-aee37ea50578.jpg"
   },
   {
    "id": "b89f684c-dce4-483b-ad7e-132d4c12a79b",
@@ -150,8 +161,10 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "f0b5aca3-c1fc-4e57-bc09-d9001a3cb16a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:40+00:00"
+ "updatedAt": "2021-07-18T07:05:40+00:00",
+ "coverFileName": "f3b43222-35cc-4998-94f2-3bdb1722172b.jpg"
 }

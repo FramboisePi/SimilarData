@@ -1,7 +1,7 @@
 {
  "id": "5a741cf3-0db1-40e3-9cfb-e5ba36fe8b33",
  "title": {
-  "en": "Re:Stage! Slapstick Days♪"
+  "en": "Re:Stage! Slapstick Days\u266a"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6c33f369-b546-46b4-8200-bcb9e6e0ae0e.png"
   },
   {
    "id": "99e9b695-2815-40e6-8a1b-8b6d68566691",
@@ -27,19 +28,21 @@
    "score": 0.38106936,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9e7b91d-e8d5-4678-aa19-15a2f16025bc.jpg"
   },
   {
    "id": "4e1ab66d-5377-4fd7-a197-a07b74591fa1",
    "title": {
-    "en": "Love Live! Comic Anthology µ's Sweet Memories"
+    "en": "Love Live! Comic Anthology \u00b5's Sweet Memories"
    },
    "contentRating": "safe",
    "score": 0.3680504,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "73831aad-2e16-4a19-974a-686803470250.jpg"
   },
   {
    "id": "227e498f-ff83-4d2a-8c76-eaa9d83863c4",
@@ -55,7 +58,8 @@
     "es",
     "en",
     "he"
-   ]
+   ],
+   "coverFileName": "7434f405-f559-4b4f-bf10-abda83310756.jpg"
   },
   {
    "id": "2afa0331-8e5d-4847-b929-e19a7c15d274",
@@ -66,7 +70,8 @@
    "score": 0.35810602,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "824b68b6-8506-4e5e-a8d7-063d8ddad69c.jpg"
   },
   {
    "id": "a47a3949-930d-4237-85a8-ceaa33701edd",
@@ -77,7 +82,8 @@
    "score": 0.35593316,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "feee14ab-5923-4b08-b331-6ca76dcbba33.jpg"
   },
   {
    "id": "1d6898df-790f-4fb7-9bf2-bc92bf389269",
@@ -88,7 +94,8 @@
    "score": 0.35539964,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c748268-085e-4d3f-bec9-6ab52be40149.png"
   },
   {
    "id": "224e563b-a2a4-4ecf-bd6e-300b21063956",
@@ -101,7 +108,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "53304b92-1da9-4c8f-98fc-90a19e5e85fa.png"
   },
   {
    "id": "8ee7d7b1-1f85-4b8e-9861-66c8b7b53929",
@@ -114,7 +122,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9feb0dbc-d56b-43fc-bad2-5e4254890dac.jpg"
   },
   {
    "id": "449be401-bcaa-4af7-9a97-44e273a9c371",
@@ -125,7 +134,8 @@
    "score": 0.35539964,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b4b0be9-5744-41e4-bf86-479e5c037dcd.jpg"
   },
   {
    "id": "32e93fe0-e136-49d3-bd02-1987cd032967",
@@ -136,7 +146,8 @@
    "score": 0.35539964,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c333f3ba-3211-4672-a632-19263cfc69e4.jpg"
   },
   {
    "id": "b6dfa3b8-b93d-44d7-a879-7cbcfd4fcf03",
@@ -150,8 +161,10 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1dee3da3-01c4-4aa9-a462-ec51902ac31f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:18+00:00"
+ "updatedAt": "2021-07-18T06:41:18+00:00",
+ "coverFileName": "c06c7d3e-43ed-4a99-badf-a04d9f237985.jpg"
 }

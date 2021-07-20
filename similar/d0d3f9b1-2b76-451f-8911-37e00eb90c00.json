@@ -8,13 +8,14 @@
   {
    "id": "f13603d1-2ce6-44d2-96be-fd9902bd04b3",
    "title": {
-    "en": "Winter Romantic B\u0026B"
+    "en": "Winter Romantic B&B"
    },
    "contentRating": "safe",
    "score": 0.5174323,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "a45d9708-a448-4302-b58f-497019b9f4e3.jpg"
   },
   {
    "id": "b3e75907-2bd0-474d-8845-0fa5446019c1",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "1bfd88d4-79a9-498d-b644-1890783f8fb0.jpg"
   },
   {
    "id": "57d28842-2fd6-4d40-a44b-a2bdc42d4312",
@@ -37,7 +39,8 @@
    "score": 0.4945341,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "85fb7375-93a1-4772-b6cf-f22bbc18913d.jpg"
   },
   {
    "id": "a47add7a-d82e-43b8-b7d2-f82ce253f98a",
@@ -48,7 +51,8 @@
    "score": 0.48615304,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b03744d5-b9cd-47bd-8563-33804358921c.jpg"
   },
   {
    "id": "d20d29c6-59cb-400c-afdb-d98bea6c409c",
@@ -59,7 +63,8 @@
    "score": 0.46946892,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "4de425e8-c081-4b33-a814-b9c1b70fb037.jpg"
   },
   {
    "id": "df81e349-6c9c-4b0d-87e1-d20ea6fa03ca",
@@ -70,7 +75,8 @@
    "score": 0.463776,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "943d7bbb-903d-4a0f-8e14-4c613fa033e9.jpg"
   },
   {
    "id": "91d535b8-aded-480e-bd09-e1ee384776ca",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4ecb49dc-68f5-4e12-89ea-b5fe76e641ba.jpg"
   },
   {
    "id": "b6cc616c-762b-430c-a650-c36c92e4510c",
@@ -93,7 +100,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6b01f1c-2d5b-45f0-b554-80be23ed331d.png"
   },
   {
    "id": "62159afc-acdf-49e9-af96-cad03f94520b",
@@ -105,7 +113,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d2605726-6fff-435a-a690-22bb8e900a54.png"
   },
   {
    "id": "28f0134f-d1f8-4caa-9d34-23527c6a677d",
@@ -117,7 +126,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0a4e2e06-8b5c-4176-be0b-bbd1275825fc.jpg"
   },
   {
    "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
@@ -129,7 +139,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "e0c63851-b0a8-4f4c-8275-ab96581fea1a.jpg"
   },
   {
    "id": "fe03831e-c8b8-4c82-b244-f71b095aab2c",
@@ -140,8 +151,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4eecf3a-cb8e-488c-8c0a-f89a7c2eee7c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:10+00:00"
+ "updatedAt": "2021-07-18T07:03:10+00:00",
+ "coverFileName": "2070dcc8-264e-40d9-bcf3-c973bfe54ba7.jpg"
 }

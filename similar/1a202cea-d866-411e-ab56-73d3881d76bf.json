@@ -8,25 +8,27 @@
   {
    "id": "70c95f00-2552-4908-bd05-bae556c3bcd2",
    "title": {
-    "en": "Project SEKAI — TsukaEmu (doujinshi)"
+    "en": "Project SEKAI \u2014 TsukaEmu (doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.41015944,
    "languages": [
     "",
     "ru"
-   ]
+   ],
+   "coverFileName": "10e5c4d4-1486-4bbb-ab2a-ee6e6c35497b.jpg"
   },
   {
    "id": "004ae1de-8a05-494b-b8ff-2f3e0ef4ea89",
    "title": {
-    "en": "Spy x Family — trick or treat!! (doujinshi)"
+    "en": "Spy x Family \u2014 trick or treat!! (doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.41015944,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "84f0f49d-4c4f-4a75-8c40-ef823c67f366.jpg"
   },
   {
    "id": "a8f1d8c5-bb8e-4ae3-b37f-3d6800fb390a",
@@ -37,7 +39,8 @@
    "score": 0.40466332,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "60868dca-cf34-4032-9123-fbb0295d1a0b.jpg"
   },
   {
    "id": "28d4d62f-dd9f-4a29-9fd1-e9541974470a",
@@ -54,7 +57,8 @@
     "es-la",
     "vi",
     "ru"
-   ]
+   ],
+   "coverFileName": "3b8347f6-3579-4b83-8833-162616cd57ea.png"
   },
   {
    "id": "30900c7d-6e72-44aa-9585-768f6a020e25",
@@ -65,7 +69,8 @@
    "score": 0.40466332,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "3a663305-612e-4fca-ad3f-124a67a9d040.jpg"
   },
   {
    "id": "c473dc71-7e13-4e77-9bd3-7db547b0b567",
@@ -79,7 +84,8 @@
     "ru",
     "vi",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b2d4edb9-e824-495a-a534-89d3fefcd9ad.jpg"
   },
   {
    "id": "ff54e432-2fb1-4ea0-92d0-fe63ca7a49ad",
@@ -93,7 +99,8 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "830651ab-4104-4a7b-bcc7-73ef9da45fcc.jpg"
   },
   {
    "id": "9af2ea7a-1e66-4eca-88eb-0fd1a768c038",
@@ -106,7 +113,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "79084468-eaf1-43cd-9c11-814fb4bf8d0e.jpg"
   },
   {
    "id": "aefff461-ce0f-4db2-b160-3eeb1b03f48e",
@@ -120,7 +128,8 @@
     "ru",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "9cd04e96-3312-4bf0-8b4d-541e77981be2.jpg"
   },
   {
    "id": "ad4a61f4-c3d1-4d4a-a925-e95658a8922d",
@@ -133,18 +142,20 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4bcaa827-93a5-4ddd-809e-a29d1a54dcc1.jpg"
   },
   {
    "id": "f76a2f73-6f9c-4c23-85f1-4a59505615f4",
    "title": {
-    "en": "Spy x Family — Utatane Loid-san (doujinshi)"
+    "en": "Spy x Family \u2014 Utatane Loid-san (doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.36194187,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "bb4cfe6b-446b-4774-824d-48135986e4ad.png"
   },
   {
    "id": "d8d6501f-9bdc-43d4-9894-37282d93322b",
@@ -158,8 +169,10 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "e7564b18-ba67-4ae6-97da-73df81a302f0.png"
   }
  ],
- "updatedAt": "2021-07-18T06:29:22+00:00"
+ "updatedAt": "2021-07-18T06:29:22+00:00",
+ "coverFileName": "af76c8e8-38ba-4944-ae8a-8176b6e5c932.jpg"
 }

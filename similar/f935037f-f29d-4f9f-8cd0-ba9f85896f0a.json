@@ -14,7 +14,8 @@
    "score": 0.4215864,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7654193e-04c2-49c3-8053-3af4e874d1f9.jpg"
   },
   {
    "id": "55b2ed76-c9ec-4505-a838-15fee8e2e557",
@@ -25,7 +26,8 @@
    "score": 0.41644675,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5a4b1fe0-d21e-4316-ad8d-01751534fa54.jpg"
   },
   {
    "id": "519acffd-f2a1-4d24-8ec4-fe98c6cd7dc1",
@@ -40,7 +42,8 @@
     "it",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "74dc0d1e-1fe2-46ad-9d29-1376a1d9aa81.png"
   },
   {
    "id": "3f7b7736-84c5-4f38-bf73-7266021f355a",
@@ -55,7 +58,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "07eed868-6aef-4241-9095-72a58186ac6c.jpg"
   },
   {
    "id": "d4a253b3-a4ee-4731-9be0-21003cb6fb1f",
@@ -66,7 +70,8 @@
    "score": 0.36157173,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e20ad2b7-9edf-4a8d-8704-d2ba89869c79.jpg"
   },
   {
    "id": "0c08382c-9a57-44e4-9b86-5ccb6f7b0de6",
@@ -77,7 +82,8 @@
    "score": 0.35368767,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff8738b0-b45e-4277-bebb-4e0d35be2a6a.png"
   },
   {
    "id": "48030a4e-f78b-428a-81a5-569127603ea7",
@@ -90,7 +96,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "4dc01086-95fa-41f8-926d-90862aa416d0.png"
   },
   {
    "id": "d61fe2fc-8205-439c-a6d6-fe558e7a2512",
@@ -102,7 +109,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "bdf2e3f6-4902-4d83-a157-e0d492226a21.jpg"
   },
   {
    "id": "2ea1f529-95db-42ab-9c00-d161cf8c8e28",
@@ -113,7 +121,8 @@
    "score": 0.34485698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dfc211d7-afd9-4dc6-a01e-2b1a873fb517.jpg"
   },
   {
    "id": "171fec2d-2b47-4871-b90a-b2644995dedb",
@@ -124,7 +133,8 @@
    "score": 0.3445624,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbce9c78-3e4b-46c2-a6f8-edd619e51222.png"
   },
   {
    "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
@@ -137,12 +147,13 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6c25db04-2b8d-4dd9-b376-46543c3d6c93.jpg"
   },
   {
    "id": "7b59a2b3-fe70-46a5-8050-15a8a4a17d41",
    "title": {
-    "en": "Le Théâtre de B"
+    "en": "Le Th\u00e9\u00e2tre de B"
    },
    "contentRating": "safe",
    "score": 0.34173772,
@@ -153,8 +164,10 @@
     "bg",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "12c4e080-7f73-4f33-a2b7-ada90448044c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:30+00:00"
+ "updatedAt": "2021-07-18T07:10:30+00:00",
+ "coverFileName": "65d93360-fc54-4752-94d6-9f0ffe320220.jpg"
 }

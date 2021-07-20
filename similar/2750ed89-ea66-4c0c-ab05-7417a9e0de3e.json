@@ -17,7 +17,8 @@
     "en",
     "de",
     "pl"
-   ]
+   ],
+   "coverFileName": "78e7034f-3dfa-4692-934d-3210ee94c0ca.jpg"
   },
   {
    "id": "4130b3f6-94be-403c-aeef-58849c444650",
@@ -30,7 +31,8 @@
     "ru",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "83ee167c-99d9-439d-bf39-e3aa0dc11f07.jpg"
   },
   {
    "id": "3af8bbac-f7ed-435a-830e-2507992870c1",
@@ -41,7 +43,8 @@
    "score": 0.33013803,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73b95172-5f24-489c-8f48-5d0bfbaa7685.jpg"
   },
   {
    "id": "227e3f72-863f-46f9-bafe-c43104ca29ee",
@@ -58,7 +61,8 @@
     "it",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "2fbddeeb-5743-4a36-8341-847b9c597ce2.jpg"
   },
   {
    "id": "923a7e22-8cca-488f-b050-c23b53656948",
@@ -69,7 +73,8 @@
    "score": 0.3242352,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbf635b6-be24-4779-a2e7-60d082760e35.jpg"
   },
   {
    "id": "a0f2a224-9017-4613-8da2-33c0b852f96d",
@@ -82,12 +87,13 @@
     "ru",
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "f1a0c7ce-bbe3-484c-89e4-6a1250f31472.jpg"
   },
   {
    "id": "a8c6395b-aa04-426f-aa09-284ae1c3a1e5",
    "title": {
-    "en": "Tsui no Taimashi ―Ender Geisterー"
+    "en": "Tsui no Taimashi \u2015Ender Geister\u30fc"
    },
    "contentRating": "suggestive",
    "score": 0.30707553,
@@ -99,7 +105,8 @@
     "pt-br",
     "id",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "236fc2ac-0b6a-42db-9634-7329174ad1fa.jpg"
   },
   {
    "id": "95e964d3-55da-4218-b841-46f0f2db663c",
@@ -114,7 +121,8 @@
     "es-la",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "5f55f791-8b5f-4626-9004-ba7ff973b034.jpg"
   },
   {
    "id": "ac54cf12-1d69-4bcc-8d14-eaec4b4da6b1",
@@ -128,7 +136,8 @@
     "es",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c909f85e-576e-47ab-907f-ec32dad6c37b.jpg"
   },
   {
    "id": "f2096f50-eda1-47a6-9741-9fad97ca08d1",
@@ -139,7 +148,8 @@
    "score": 0.3042448,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "07397900-3b66-4fd0-ba7e-6afe319a28bc.png"
   },
   {
    "id": "b8be921d-c876-4e1c-a8dc-de38b0965d10",
@@ -151,7 +161,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "312a03b9-0b83-47c4-a39e-8b437b8a0255.jpg"
   },
   {
    "id": "53ef1720-7a5d-40ad-90b0-2f9ca0a1ab01",
@@ -166,8 +177,10 @@
     "it",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "ae5b4ce8-a50d-4bbb-9cd6-7456b97fdecd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:49+00:00"
+ "updatedAt": "2021-07-18T06:31:49+00:00",
+ "coverFileName": "ace0b1dc-55d0-44ee-8ffe-613ab2453f7a.jpg"
 }

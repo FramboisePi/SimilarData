@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be3c2a84-4b03-44ac-84c2-715b8df404c6.jpg"
   },
   {
    "id": "5e918a2a-b5de-4b5c-a2ea-b5bfa34eb742",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1711d093-dcd8-4f2a-8ac0-4a9b46b04d25.jpg"
   },
   {
    "id": "4d6decd4-835d-4905-9534-2571dae07bcd",
@@ -42,7 +44,8 @@
     "pt-br",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "38dbb137-3922-47fb-8ca0-229691de8c70.jpg"
   },
   {
    "id": "abe8be95-2496-4ea6-adf6-cc52176f13c3",
@@ -53,7 +56,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3372a11a-9ffe-4278-88a6-fd5e54533443.jpg"
   },
   {
    "id": "007250a2-6dec-4349-bf54-61c62581a779",
@@ -67,7 +71,8 @@
     "ru",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5f66d46d-b3f6-4a3a-b56b-6400589aa22f.jpg"
   },
   {
    "id": "aac30e6b-d856-4b71-ae4d-af979cd9d3ef",
@@ -80,7 +85,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "dc222376-7c59-4941-8ec3-e78c7f2f45e4.jpg"
   },
   {
    "id": "b32b2e75-998c-448f-9980-fbfe67993e89",
@@ -91,7 +97,8 @@
    "score": 0.41710085,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90bb0ecd-200e-4cfa-b463-17365ad58885.png"
   },
   {
    "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
@@ -103,7 +110,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "83e063b0-cb44-4644-ad46-4b6a5234a19f.jpg"
   },
   {
    "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
@@ -114,7 +122,8 @@
    "score": 0.41346288,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea3293b5-1361-4fa0-8fa5-5e23437d98cd.jpg"
   },
   {
    "id": "948de3b7-9059-4215-946c-2028667918af",
@@ -125,19 +134,21 @@
    "score": 0.4080059,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6658ca89-84dc-4432-ae6f-2855d010460c.jpg"
   },
   {
    "id": "1f40c364-87ab-4f8e-aa2d-d909ac403c60",
    "title": {
-    "en": "Hakoniwa no Fräulein"
+    "en": "Hakoniwa no Fr\u00e4ulein"
    },
    "contentRating": "safe",
    "score": 0.4047855,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "4bddc42c-4f45-4e80-ad1e-2122fba894f9.jpg"
   },
   {
    "id": "5b67448e-ddf3-49d2-9701-c1edd8f0e7ee",
@@ -148,8 +159,10 @@
    "score": 0.4033323,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "01d1bd39-287e-42bc-9957-5017decb1e6a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:36+00:00"
+ "updatedAt": "2021-07-18T06:39:36+00:00",
+ "coverFileName": "c304e3b1-2fab-4ff3-afda-b8fdd6560571.jpg"
 }

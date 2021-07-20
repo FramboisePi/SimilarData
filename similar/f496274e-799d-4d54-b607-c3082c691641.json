@@ -16,7 +16,8 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "6a9ac707-eb8d-4cfb-96fb-0f62b7c8b579.jpg"
   },
   {
    "id": "4c6df534-162b-4706-a8f1-2f9827f8e881",
@@ -27,7 +28,8 @@
    "score": 0.6694889,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e94f80ec-ebeb-4b06-8ad2-225f03bd5c9d.jpg"
   },
   {
    "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
@@ -40,19 +42,21 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "95c64797-7ced-4e08-a532-8ec2054ef3c5.png"
   },
   {
    "id": "f56228ad-ba71-41bc-a438-977578d4d68f",
    "title": {
-    "en": "Sora no Kiseki Gaiden - Löwe Monogatari"
+    "en": "Sora no Kiseki Gaiden - L\u00f6we Monogatari"
    },
    "contentRating": "safe",
    "score": 0.625029,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7ddfccc2-7caf-490b-8132-11608009148e.jpg"
   },
   {
    "id": "45464d2c-d83e-463c-a917-ecae7e5c3523",
@@ -63,7 +67,8 @@
    "score": 0.6162231,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "edac1fe9-716d-4987-95cb-b3d225553d1b.jpg"
   },
   {
    "id": "837c0d9b-dd17-469b-ae3a-27752c439b91",
@@ -74,7 +79,8 @@
    "score": 0.6056833,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "adc12175-20d2-4061-a8af-9d184d737492.png"
   },
   {
    "id": "aed06e10-8c40-4875-9811-dc84347f2663",
@@ -85,7 +91,8 @@
    "score": 0.58902544,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2a509781-1fe0-4e09-bce6-a0064d780dd0.jpg"
   },
   {
    "id": "b5031dc9-dc3c-48e7-9619-8a4619b4c814",
@@ -98,7 +105,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "48b8aad4-0173-4ecd-86a1-105e3fdc9854.jpg"
   },
   {
    "id": "694e4e48-0f03-4f57-8f53-ea554dc9dd53",
@@ -109,7 +117,8 @@
    "score": 0.58283776,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8e1972d-c11d-48ed-9660-b04a0d00709b.jpg"
   },
   {
    "id": "5989eac7-79f0-4e62-9163-ee5b2f7b44c2",
@@ -120,7 +129,8 @@
    "score": 0.5814091,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e519689-5cdf-4135-930a-8fc17b104790.jpg"
   },
   {
    "id": "28b9bf3a-9481-4d59-a20f-e4538a356bc0",
@@ -133,7 +143,8 @@
     "it",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "d57282c5-3f47-4dbf-b747-ea8143a6f2ec.jpg"
   },
   {
    "id": "a741a7fe-5b79-4f1a-b430-da93db374839",
@@ -146,8 +157,10 @@
     "es",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "d8cd4b4a-b0a0-40b1-95ad-67a766d6da30.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:40+00:00"
+ "updatedAt": "2021-07-18T07:09:40+00:00",
+ "coverFileName": "4eca3c55-d59d-4f35-9837-76a0d1e4372a.jpg"
 }

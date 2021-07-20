@@ -16,7 +16,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "745a3b00-db52-41af-b8fe-db24c35ff706.jpg"
   },
   {
    "id": "cf350580-7327-4f58-a54c-38debf6925a2",
@@ -28,7 +29,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ef4ab159-eded-4c4c-ad6b-f1518db9ce9e.jpg"
   },
   {
    "id": "f1e0fed4-2f72-43ab-8c00-58867312288d",
@@ -44,19 +46,21 @@
     "es-la",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "13e50e38-2ccf-44b7-af07-ab3830b708e6.jpg"
   },
   {
    "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Tiger & Bunny"
    },
    "contentRating": "safe",
    "score": 0.4128387,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "43583370-710b-43d6-94b4-92acd892f9b0.jpg"
   },
   {
    "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
@@ -69,7 +73,8 @@
     "en",
     "ru",
     "ko"
-   ]
+   ],
+   "coverFileName": "fe1f585b-81d9-49ba-8773-d6251bd2c244.jpg"
   },
   {
    "id": "6e413815-635d-4dd7-862e-aa19af8bda26",
@@ -81,7 +86,8 @@
    "languages": [
     "ru",
     "zh"
-   ]
+   ],
+   "coverFileName": "c002a1a3-e6af-4aca-9a74-6e73f4b7a8d0.jpg"
   },
   {
    "id": "7dad2def-bf82-49b3-a4f0-beb6a3c2bf79",
@@ -93,7 +99,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4d9e6ad4-61e2-4652-aac0-f91f097e846b.jpg"
   },
   {
    "id": "22cb8236-187b-4853-b2c9-4aa69bf2589b",
@@ -105,7 +112,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "fed2dc13-20f5-404e-9b99-036322835af2.jpg"
   },
   {
    "id": "90b88312-18b2-4a87-99fd-ccca64288e7b",
@@ -118,7 +126,8 @@
     "en",
     "es",
     "ru"
-   ]
+   ],
+   "coverFileName": "c5101e7a-488c-40ff-8278-a7e3658992aa.png"
   },
   {
    "id": "ae4d1453-3eef-4268-9535-6317ad2657b4",
@@ -130,7 +139,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "bef0ec6d-663e-431c-821a-8cdb55518a4a.jpg"
   },
   {
    "id": "d8f7ffd5-8ad8-4d17-a40c-12fe7e032674",
@@ -142,7 +152,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "8453e762-13ff-490e-852e-34d9e1ed5f01.jpg"
   },
   {
    "id": "fd917921-5e97-479f-b22c-5d7f00e1c830",
@@ -157,8 +168,10 @@
     "es-la",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "71080f50-f79b-4287-af74-b56b3f181c84.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:28+00:00"
+ "updatedAt": "2021-07-18T07:11:28+00:00",
+ "coverFileName": "1abd5647-7f58-4369-af2f-2e4ab502cffd.jpg"
 }

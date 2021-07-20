@@ -16,7 +16,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3e37271b-14bc-47fc-abe0-df3cacc6a01c.jpg"
   },
   {
    "id": "f73d1664-58c6-4cdc-b1c3-59d37643b54b",
@@ -27,7 +28,8 @@
    "score": 0.29595122,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d00f6cff-7680-4f80-8861-6f6096bcb4eb.jpg"
   },
   {
    "id": "ce2d29a0-0851-4eff-9ab0-c9f4e64c9b5a",
@@ -38,7 +40,8 @@
    "score": 0.2824989,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "203f171c-d402-4080-9418-dc798b88f39f.jpg"
   },
   {
    "id": "e66adfaa-2b1f-4cef-befe-8587a63f0c88",
@@ -50,18 +53,20 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4513366a-c9d7-4a47-8f1d-f9a394da8a2b.jpg"
   },
   {
    "id": "9fbec3c7-0bc6-43db-b8d0-818510f88a43",
    "title": {
-    "en": "Ratchet \u0026 Clank"
+    "en": "Ratchet & Clank"
    },
    "contentRating": "safe",
    "score": 0.27183914,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab1a6e81-5ff9-4ef7-9972-2abe1d451d18.jpg"
   },
   {
    "id": "9b217a11-3447-4c80-885e-34c0b472a75b",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3cbfc1da-bddb-4777-8d3c-d5412158735c.jpg"
   },
   {
    "id": "df9aae61-b06b-41ef-b69d-210da198215b",
@@ -84,7 +90,8 @@
    "score": 0.25630128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8c97797e-ab5c-4ade-a311-e943ad1787bd.jpg"
   },
   {
    "id": "47d1c9ff-f946-435d-a085-5bade1dade99",
@@ -95,7 +102,8 @@
    "score": 0.25630128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "193f12a9-d4df-4ff5-8db0-86ea728f5bf4.jpg"
   },
   {
    "id": "42a639a0-9341-4ba1-aef6-edcc5a1e6096",
@@ -108,7 +116,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "097b7713-618e-4219-a387-57080d3cd7f5.jpg"
   },
   {
    "id": "f30aad6f-bd9b-4fcd-b2d0-ccbbad93a9a4",
@@ -119,7 +128,8 @@
    "score": 0.25630128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4507e931-065e-49b9-9895-2ce062e06a97.jpg"
   },
   {
    "id": "7a560dbe-40cb-4fba-8c63-b7888b1fede4",
@@ -132,7 +142,8 @@
     "ar",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "9592e82b-b9d5-4e2e-bc26-33416f67ae3e.png"
   },
   {
    "id": "5ab1cab6-353a-46db-bb3e-d00bad0d73ed",
@@ -143,8 +154,10 @@
    "score": 0.25630128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d56412f2-5ae4-4413-a77d-9de9f5bb0c0e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:00+00:00"
+ "updatedAt": "2021-07-18T07:03:00+00:00",
+ "coverFileName": "d44348ce-9cd6-451b-a980-fde46d8f7768.jpg"
 }

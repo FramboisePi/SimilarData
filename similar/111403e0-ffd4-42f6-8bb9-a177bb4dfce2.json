@@ -1,7 +1,7 @@
 {
  "id": "111403e0-ffd4-42f6-8bb9-a177bb4dfce2",
  "title": {
-  "en": "Kamen Rider \u0026 Mahou Shoujo Madoka★Magica - Puella Magi Dikeedo Magica (Doujinshi)"
+  "en": "Kamen Rider & Mahou Shoujo Madoka\u2605Magica - Puella Magi Dikeedo Magica (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.768362,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c46b5f2d-6939-44de-a65c-13412e9f5edd.jpg"
   },
   {
    "id": "87e76e34-f6ba-49bb-a0c2-20d702ee696f",
@@ -25,7 +26,8 @@
    "score": 0.6511747,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51c3a2a5-23b6-4851-a631-6ded1b763805.jpg"
   },
   {
    "id": "f5bd9324-c6f5-4afc-8239-09d0197f0743",
@@ -36,18 +38,20 @@
    "score": 0.6162987,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "67bf5893-9989-4477-ace3-d4815ef7c79a.jpg"
   },
   {
    "id": "c690c2fe-a0fc-4201-82ce-f880938fc97c",
    "title": {
-    "en": "Mahou Shoujo Oriko★Magica"
+    "en": "Mahou Shoujo Oriko\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.60257334,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5edbf0ca-67d0-4950-969a-48be42d4f4d0.jpg"
   },
   {
    "id": "8a3d1761-407e-4929-bf7f-1cdc15758470",
@@ -58,7 +62,8 @@
    "score": 0.58869123,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "83b11e5a-4ec7-4302-80e7-d4da33bdfc37.jpg"
   },
   {
    "id": "fc2a2247-1a29-48e9-a1c5-b45ed7166c9a",
@@ -73,7 +78,8 @@
     "fr",
     "th",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6d49474e-409b-4c87-aa13-0e4480c2d8f8.jpg"
   },
   {
    "id": "38b75fb4-4583-4078-a1bf-ea3041edbf03",
@@ -85,7 +91,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "8b8188f6-d62d-4ea5-8dc3-1bbf04ee800b.jpg"
   },
   {
    "id": "e1e6e955-e79b-4ddc-9648-292932ec609e",
@@ -98,7 +105,8 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "5c900c0a-46bb-40cc-b826-62824c845f60.jpg"
   },
   {
    "id": "0cec13bc-db01-4f8a-b79b-272388a0840e",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "88ead3e1-9de8-419e-bd0f-5dfe593ea6c1.png"
   },
   {
    "id": "bbe605e5-bbe6-4091-bb6b-e8aa8dbf8fe6",
@@ -121,7 +130,8 @@
    "score": 0.5554011,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b0460df-cd95-4239-959c-1efd6b6c4563.jpg"
   },
   {
    "id": "9f7530e3-3fc0-4d2b-a1f9-00caadbf2d05",
@@ -138,7 +148,8 @@
     "ru",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "9f81c1d4-97b5-4fd5-8331-3e6f04a9533b.jpg"
   },
   {
    "id": "84115e26-d0a6-412e-8374-dfb29ca3a5f4",
@@ -149,8 +160,10 @@
    "score": 0.54772455,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ecf4abfd-707b-499f-9601-aac00fc2f617.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:39+00:00"
+ "updatedAt": "2021-07-18T06:27:39+00:00",
+ "coverFileName": "4a54d53d-cf1d-43ff-850b-c35e4cd9828c.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "95d06ed8-7799-4b5e-8d43-8639b1f7e93c.jpg"
   },
   {
    "id": "187c030d-d8d5-47ea-94cd-222a723d7369",
@@ -27,7 +28,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "a3cd0be7-5303-486d-a293-c00557544c34.jpg"
   },
   {
    "id": "9f7530e3-3fc0-4d2b-a1f9-00caadbf2d05",
@@ -44,7 +46,8 @@
     "ru",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "9f81c1d4-97b5-4fd5-8331-3e6f04a9533b.jpg"
   },
   {
    "id": "5e918a2a-b5de-4b5c-a2ea-b5bfa34eb742",
@@ -56,7 +59,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1711d093-dcd8-4f2a-8ac0-4a9b46b04d25.jpg"
   },
   {
    "id": "d9e30523-9d65-469e-92a2-302995770950",
@@ -69,7 +73,8 @@
     "es",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1029c955-9623-468a-8e8b-de43477eb13f.png"
   },
   {
    "id": "ecdff942-dd9c-416b-8574-c72fec9af00a",
@@ -81,7 +86,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "bc062e30-1b6b-4283-b61c-ac3702680ba7.jpg"
   },
   {
    "id": "dfd85da5-86ff-4a60-8351-81c2fea65ce8",
@@ -94,7 +100,8 @@
     "es",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d888e30c-8004-4b18-8702-624a3676ecd8.jpg"
   },
   {
    "id": "33fd347b-466b-4f5f-bf55-9680c6c18a4f",
@@ -107,7 +114,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "4e5474ad-4b98-45a8-b205-2826a9813944.jpg"
   },
   {
    "id": "aa5176f1-99ab-4241-b925-19dd3107e1ff",
@@ -119,7 +127,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "95cbe99e-0eae-42d3-bf1a-5f4ff0e90a26.jpg"
   },
   {
    "id": "b23367f2-9d5d-432e-9163-c32d539db50a",
@@ -132,19 +141,21 @@
     "ru",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "78f03645-feeb-45d6-83f0-24d55fc0514f.jpg"
   },
   {
    "id": "1d73115f-b53f-4c35-85fd-72b958554ec0",
    "title": {
-    "en": "Candy \u0026 Cigarettes"
+    "en": "Candy & Cigarettes"
    },
    "contentRating": "safe",
    "score": 0.48033196,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "cb9b2c8a-825b-4c48-b929-91d5a7129620.jpg"
   },
   {
    "id": "5e88cffd-2070-47e1-85eb-f72b06a4008f",
@@ -159,8 +170,10 @@
     "en",
     "vi",
     "es-la"
-   ]
+   ],
+   "coverFileName": "118feee9-f3d5-42d4-8fae-9681b057e763.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:38+00:00"
+ "updatedAt": "2021-07-18T07:06:38+00:00",
+ "coverFileName": "c141326f-8409-4662-8d51-35e8b381320d.jpg"
 }

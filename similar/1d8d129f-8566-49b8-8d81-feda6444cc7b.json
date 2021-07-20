@@ -16,7 +16,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1861b291-ddd9-4972-b02b-3857bcdbe305.jpg"
   },
   {
    "id": "3979f6c1-701a-4808-8f1f-fdbfac2d9d56",
@@ -29,18 +30,20 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ed5f6f85-d2fd-42ab-b675-e51ca470ec38.jpg"
   },
   {
    "id": "70aec3cc-ec15-4dfa-bfe4-93d54d5449dd",
    "title": {
-    "en": "Chicchai Kanojo Senpai to Dōseishimasu."
+    "en": "Chicchai Kanojo Senpai to D\u014dseishimasu."
    },
    "contentRating": "safe",
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c446c5cd-042b-4e77-a91a-7f15a0dd71e4.jpg"
   },
   {
    "id": "5a291082-4081-4d0e-bfd0-a97de40da36a",
@@ -51,7 +54,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38a97f70-7d65-4ce8-b215-dc8ac804afc4.jpg"
   },
   {
    "id": "0953cced-141c-490f-a5d2-a359587be7f1",
@@ -67,7 +71,8 @@
     "es-la",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "3307ee0e-b7a7-4c2b-9c59-d32ecaa63b9c.jpg"
   },
   {
    "id": "23e06c66-23d0-4343-a634-799d3e324222",
@@ -82,7 +87,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "134046cb-3b29-4286-ac7d-26dd9fefe61f.jpg"
   },
   {
    "id": "90fd1734-ba11-4f8b-9c35-214f664e1012",
@@ -93,7 +99,8 @@
    "score": 0.40345785,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71aaf8b9-aeff-4d8c-8cd3-a86332369d1a.jpg"
   },
   {
    "id": "bda927f7-df67-4842-b830-19c931159e41",
@@ -104,7 +111,8 @@
    "score": 0.3968193,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "437192d3-fb8a-4b1a-b2c7-7f5b85e9153a.jpg"
   },
   {
    "id": "dc7bccb5-aac9-46b0-85af-11c493ccfe82",
@@ -116,7 +124,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "47cefc6b-a2a6-4d69-b0b8-533684383ed2.jpg"
   },
   {
    "id": "e5e6b437-611a-4d7f-81a3-c3cd692fc885",
@@ -131,7 +140,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "94642f3c-f960-41c6-8357-9d530a07a32a.jpg"
   },
   {
    "id": "7143d818-9512-49e8-b94e-751286898508",
@@ -143,7 +153,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c6a69897-1a7b-47e8-b7e7-cb3b8345903b.jpg"
   },
   {
    "id": "a2f60ee0-75c1-4aa4-aa19-be9f943d8c80",
@@ -155,8 +166,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4518661d-177a-4cf9-b992-cf73f3d36995.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:01+00:00"
+ "updatedAt": "2021-07-18T06:30:01+00:00",
+ "coverFileName": "7475aac9-ef4a-441f-a3ed-209b9ec4d54e.jpg"
 }

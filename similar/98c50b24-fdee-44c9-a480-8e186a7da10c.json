@@ -1,7 +1,7 @@
 {
  "id": "98c50b24-fdee-44c9-a480-8e186a7da10c",
  "title": {
-  "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessinée: Episode 0"
+  "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin\u00e9e: Episode 0"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.72526515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ddf0d1d4-6a0b-4ef7-b36d-3fe78f0376a0.jpg"
   },
   {
    "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
@@ -25,7 +26,8 @@
    "score": 0.7128204,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e939e51-c73f-412b-b923-75e867aa7d3f.jpg"
   },
   {
    "id": "a6c9ce9c-4106-4e36-9fe5-fa259187efe3",
@@ -36,7 +38,8 @@
    "score": 0.7030361,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6648f71c-116c-46a0-af1e-26b8b492f452.png"
   },
   {
    "id": "f36895e4-5045-4a5c-a8ec-c073d8958433",
@@ -47,7 +50,8 @@
    "score": 0.693416,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b3a521fe-1639-4bd7-82c7-6b32873660b9.jpg"
   },
   {
    "id": "e3f777c4-f7dd-479c-bd34-500bf295b200",
@@ -58,18 +62,20 @@
    "score": 0.6521993,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e32ade43-700e-4262-bfae-a390bad965f0.png"
   },
   {
    "id": "305a0da3-0a8b-4c3e-8b78-d854ed0a54d4",
    "title": {
-    "en": "Advance of Ζ - Titans no Hata no Moto ni"
+    "en": "Advance of \u0396 - Titans no Hata no Moto ni"
    },
    "contentRating": "safe",
    "score": 0.6388578,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55a102c2-9a31-4bd5-92f6-d7a01bd032b7.png"
   },
   {
    "id": "cfe4bb6c-5777-4125-bc3a-a61f36cdfc8d",
@@ -80,7 +86,8 @@
    "score": 0.63372207,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "67ca62f4-a4ee-40a1-9336-f04633d1239c.jpg"
   },
   {
    "id": "3a4c5b2c-b55b-48e3-81c9-91a0f8e33eb2",
@@ -91,7 +98,8 @@
    "score": 0.6240541,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "242cd400-dd03-4f70-aa42-b124cc67a9ad.jpg"
   },
   {
    "id": "dea910b4-e127-4cfa-a215-3e21abd03de3",
@@ -102,7 +110,8 @@
    "score": 0.6202431,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82d75f64-66cf-476e-931e-be83498c80ba.jpg"
   },
   {
    "id": "9e668e5d-d046-4ffd-bfe3-eea1050a06d9",
@@ -113,7 +122,8 @@
    "score": 0.613952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71816174-27e6-45c6-a36a-09977822c3a1.jpg"
   },
   {
    "id": "e5fe5369-a701-4c77-857f-f3ab867d6326",
@@ -124,7 +134,8 @@
    "score": 0.6050447,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f2a80870-9102-4f79-9712-22f7b107ec9b.jpg"
   },
   {
    "id": "a4985993-63e7-48be-860c-d5a7c1c9b2a6",
@@ -135,8 +146,10 @@
    "score": 0.57898176,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1a9d7e4-1975-45c5-aa05-884ce0066ac6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:55+00:00"
+ "updatedAt": "2021-07-18T06:52:55+00:00",
+ "coverFileName": "79cd5dff-1a88-4e09-875b-3aa1c1b537f5.jpg"
 }

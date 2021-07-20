@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "e6ee62e2-3642-40ab-9f9c-2c6185979f16.jpg"
   },
   {
    "id": "15db1e46-ef82-47e0-82d8-360753dfc95d",
@@ -26,7 +27,8 @@
    "score": 0.4773338,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "577a46a2-2066-49d3-9b8c-cf2d9ed9aace.png"
   },
   {
    "id": "c2b00cfe-0a25-4e17-8274-73a25a06dd79",
@@ -38,18 +40,20 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "a1cd11ca-0df2-4ca8-abe8-54e70bc05856.jpg"
   },
   {
    "id": "d8f36a13-8160-4cde-8589-b658846ac250",
    "title": {
-    "en": "Sommelière"
+    "en": "Sommeli\u00e8re"
    },
    "contentRating": "safe",
    "score": 0.40422907,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ff35fb3-4b13-47c0-a6e7-c7a7ac77c69c.jpg"
   },
   {
    "id": "06c77718-13c9-4b59-a0e4-59cc84c30187",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0d5b6dae-a276-49e9-affe-706e94490083.jpg"
   },
   {
    "id": "8d78c416-cb7e-4c2a-a2e9-ac63ac138a39",
@@ -73,7 +78,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b1e37761-e2d2-4a09-9453-42e56fe64f00.png"
   },
   {
    "id": "9561740e-1eb8-4970-b024-2ccf04a65713",
@@ -84,7 +90,8 @@
    "score": 0.38615158,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f6ac9c2-a941-4d3e-91b0-fed111b11930.jpg"
   },
   {
    "id": "82fc904c-299b-499d-aeb6-94a29e169378",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "2d72880a-89ef-4fab-b7c4-f17ae0ae80b2.jpg"
   },
   {
    "id": "fc7f2c19-0a26-4d89-9505-332fcb7d60c6",
@@ -109,7 +117,8 @@
     "en",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "68e3c0a0-cb23-41bb-975a-8ac89ab8ca46.jpg"
   },
   {
    "id": "fed8c19c-9dec-4ef1-a187-af2c0c9cf17c",
@@ -121,18 +130,20 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fd81aba5-64f6-4cf6-bea0-3904f234f15f.jpg"
   },
   {
    "id": "ec8f72c8-0058-4f2b-b2c3-55e190a893c0",
    "title": {
-    "en": "Monster DJ - Play ‘Memory’ For Me"
+    "en": "Monster DJ - Play \u2018Memory\u2019 For Me"
    },
    "contentRating": "safe",
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4283f834-8f4c-4125-a825-f9f1b2331e38.jpg"
   },
   {
    "id": "3d0f2aab-2c57-4284-a2f0-ca4520130d4e",
@@ -148,8 +159,10 @@
     "ru",
     "zh-hk",
     "it"
-   ]
+   ],
+   "coverFileName": "4874fc1f-8d7f-40e2-bbaf-f873ba86e42f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:43+00:00"
+ "updatedAt": "2021-07-18T06:43:43+00:00",
+ "coverFileName": "c163042c-27f7-45da-af6c-51fa18b06c93.png"
 }

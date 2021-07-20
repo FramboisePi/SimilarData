@@ -8,14 +8,15 @@
   {
    "id": "9a1a2636-9854-4bf3-966c-6135d574c4c6",
    "title": {
-    "en": "Tokoshie × Bullet - Shin Minato Koubou-sen"
+    "en": "Tokoshie \u00d7 Bullet - Shin Minato Koubou-sen"
    },
    "contentRating": "safe",
    "score": 0.4611753,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "11ef4938-44a4-48b2-a242-4486a4d1fbe5.jpg"
   },
   {
    "id": "ddfc910b-9923-4048-a260-e5606f9e112d",
@@ -26,7 +27,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef5c22f1-c51c-4e5d-a0b0-ee6294dec524.jpg"
   },
   {
    "id": "3079fabf-eb51-498a-8e63-f6e43afd8ba8",
@@ -37,7 +39,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c6130e9-d24a-4faf-942c-103810d286dc.jpg"
   },
   {
    "id": "5a33342f-cbf7-4730-adf0-42616fd18077",
@@ -48,7 +51,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58971232-d276-40a9-8b2f-1edbf85e46f9.jpg"
   },
   {
    "id": "4dc4e8ab-a841-4db5-a1be-ab155558a67f",
@@ -62,7 +66,8 @@
     "ru",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "3a54e753-4208-422d-9007-095f2dfb59b3.jpg"
   },
   {
    "id": "e8b3afad-96d5-48d0-9be4-5760d4672c45",
@@ -73,7 +78,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b5d166f-e8ab-4dd8-952e-7d9de1d921aa.jpg"
   },
   {
    "id": "5c5ffa60-2788-4590-8b4e-5a2b2c21df4d",
@@ -85,18 +91,20 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "c9cb3e8b-2143-48bd-a333-1b3cb5a15d80.jpg"
   },
   {
    "id": "5715958f-4f5d-49c2-b563-8bccc34c5979",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Beginning"
+    "en": "Tiger & Bunny - The Beginning"
    },
    "contentRating": "safe",
    "score": 0.40984055,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18dfd05f-97ac-431c-bc79-64be8905a609.png"
   },
   {
    "id": "afbf0f75-f4e1-4f92-8e53-cf8745395028",
@@ -107,7 +115,8 @@
    "score": 0.40916097,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "92025b93-2e15-4c6b-b2b3-b97ddd2569b8.jpg"
   },
   {
    "id": "877e434b-4b5b-40a3-b510-174994a37df2",
@@ -118,7 +127,8 @@
    "score": 0.40670538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b22f50a-181f-4626-9e7e-515671046543.jpg"
   },
   {
    "id": "56fbace8-5fbd-4a7d-a642-9c0e4a42c552",
@@ -129,7 +139,8 @@
    "score": 0.40640527,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cbb85c5a-e1c3-4e6c-8f41-94f766c3808c.jpg"
   },
   {
    "id": "cdd744dc-1bf8-4d5a-871b-7740ae50933c",
@@ -140,8 +151,10 @@
    "score": 0.40428907,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bd10999f-1b1f-49e4-b75a-a6aca9fbfb9f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:27+00:00"
+ "updatedAt": "2021-07-18T06:55:27+00:00",
+ "coverFileName": "943abd0e-41c7-4951-aa31-c0947a85f694.jpg"
 }

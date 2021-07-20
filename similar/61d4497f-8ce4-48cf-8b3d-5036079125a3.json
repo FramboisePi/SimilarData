@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "f28c718e-f9b5-4a52-927d-9416d31e6dd4.jpg"
   },
   {
    "id": "22e1c260-6e61-4a39-ae9f-caa60ba3c02d",
@@ -26,7 +27,8 @@
    "score": 0.30993712,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "383e777b-b7ed-4c99-a1f1-30a83ed608ed.jpg"
   },
   {
    "id": "87ba6b30-cd9a-42de-ae7d-5b75026994d9",
@@ -37,7 +39,8 @@
    "score": 0.30217767,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e41f6ea-fdcf-4fc0-863b-c870dbe84ba5.jpg"
   },
   {
    "id": "832a84fc-5644-40d3-94db-d9b23bda1173",
@@ -50,7 +53,8 @@
     "ru",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "49aad246-3030-44f8-b924-4734d4cbceaa.jpg"
   },
   {
    "id": "605d6f66-8165-4a57-a404-77002836e30e",
@@ -61,18 +65,20 @@
    "score": 0.24672703,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b62dbf9c-c142-4b5e-80c3-90d2f3a18518.jpg"
   },
   {
    "id": "4b756af9-9c23-4ef0-ab34-ff502c5fd14f",
    "title": {
-    "en": "Uchuu Senkan Tiramisù"
+    "en": "Uchuu Senkan Tiramis\u00f9"
    },
    "contentRating": "safe",
    "score": 0.23896334,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73f85ea2-8d43-48de-b325-156f56b5dc9a.jpg"
   },
   {
    "id": "2f27e4ee-a760-4947-a69c-e78a2fb67014",
@@ -83,7 +89,8 @@
    "score": 0.23261648,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97a0d364-0a02-4884-b3fd-79f15bcc741e.jpg"
   },
   {
    "id": "1cfae55d-db11-456e-b8b5-71deb909115c",
@@ -94,7 +101,8 @@
    "score": 0.23120251,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2596a862-c750-4da7-8786-39ba0f895070.png"
   },
   {
    "id": "232994be-1eef-4aa1-bc16-d0d9c50a4661",
@@ -105,7 +113,8 @@
    "score": 0.23023061,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04f6763b-d4f3-49d0-be0f-dd3ad204a1ad.jpg"
   },
   {
    "id": "49c130f1-69f2-41ed-8b44-5223c1569b4b",
@@ -116,7 +125,8 @@
    "score": 0.23023061,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2950be03-819e-42ab-aba5-96c6b46574ae.jpg"
   },
   {
    "id": "f6861bd3-705a-4554-8bcf-b397bab485c0",
@@ -127,7 +137,8 @@
    "score": 0.23023061,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43819b8b-14be-4d94-b74b-1eaff9605281.png"
   },
   {
    "id": "1618b5d8-3a74-4390-8e94-b3b0248b3588",
@@ -138,8 +149,10 @@
    "score": 0.23023061,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "338c0a77-c52c-4e7d-9634-90d29fdf6d8d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:39+00:00"
+ "updatedAt": "2021-07-18T06:42:39+00:00",
+ "coverFileName": "2ef718f4-d108-4d27-9946-beda918e5416.jpg"
 }

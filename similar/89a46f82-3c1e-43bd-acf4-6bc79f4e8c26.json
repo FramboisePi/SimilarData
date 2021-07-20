@@ -8,13 +8,14 @@
   {
    "id": "7a6e9717-6e64-4130-bd15-a527ac69bbe3",
    "title": {
-    "en": "Chizumi \u0026 Fujiomi"
+    "en": "Chizumi & Fujiomi"
    },
    "contentRating": "safe",
    "score": 0.6440942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c0adec23-f77c-4213-9a00-f5bb161c787f.jpg"
   },
   {
    "id": "a98559ca-beab-4ff8-b259-b69d8f0a328e",
@@ -25,7 +26,8 @@
    "score": 0.5575164,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62b126ce-3988-49e6-8749-6fb83256d809.jpg"
   },
   {
    "id": "b69a5871-ee8f-4893-af79-60140fa87200",
@@ -36,7 +38,8 @@
    "score": 0.4822328,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a725aac-7e60-45f2-9364-ea80eba6dc3b.jpg"
   },
   {
    "id": "49d2d88c-64d4-43a3-a2ad-e77af3728f14",
@@ -47,7 +50,8 @@
    "score": 0.4746626,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "beddf1e8-005a-4fd9-a3aa-38ca56326837.jpg"
   },
   {
    "id": "8ee54011-1095-4366-9086-293bf7a689a9",
@@ -58,18 +62,20 @@
    "score": 0.47124365,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0187e310-c26a-44f5-b48c-fe3dfd3b2b39.jpg"
   },
   {
    "id": "9c94322b-0565-413b-b862-58706cbcd26b",
    "title": {
-    "en": "Trompe-l'œil no Yubisaki"
+    "en": "Trompe-l'\u0153il no Yubisaki"
    },
    "contentRating": "safe",
    "score": 0.46923795,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0da62f3e-3171-421c-8c2a-d87aa6512d42.jpg"
   },
   {
    "id": "e4a74a90-04d3-4193-8b37-e507d4aae54a",
@@ -81,7 +87,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "55313458-8bce-4444-9b98-25a4ebc7cf8a.jpg"
   },
   {
    "id": "49c11dbe-3434-48b5-9db4-f6cd2b033ff6",
@@ -93,7 +100,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "431fee99-b2fd-477c-807e-20231b17d5c3.jpg"
   },
   {
    "id": "273e8fab-bd25-469c-b1ae-784e4dd65052",
@@ -104,7 +112,8 @@
    "score": 0.4684117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "db2dc097-dbe0-412a-8072-099e7b6252dc.jpg"
   },
   {
    "id": "c8b2c454-12cf-4060-90f8-ecc9398518e3",
@@ -117,7 +126,8 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "beb198b0-b55c-4815-ae6f-9b74b792be19.jpg"
   },
   {
    "id": "c0707b10-5b70-4d6a-8641-477e5a798069",
@@ -128,7 +138,8 @@
    "score": 0.4650253,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5f5c65f-bd59-491d-b5fc-663763e1b90a.jpg"
   },
   {
    "id": "4c0c0075-f700-41a8-b794-84669715c011",
@@ -140,8 +151,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3be2f4f2-0145-4e32-9315-397dbedf0b6a.png"
   }
  ],
- "updatedAt": "2021-07-18T06:50:04+00:00"
+ "updatedAt": "2021-07-18T06:50:04+00:00",
+ "coverFileName": "ac02185e-f72d-4cbb-b22c-a4230bb3ac2e.jpg"
 }

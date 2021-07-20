@@ -17,7 +17,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "402348e2-33fc-4203-a0f3-e3b66430bde2.jpg"
   },
   {
    "id": "2b2e7c95-9e4d-4199-9ea6-52add4c22cfa",
@@ -29,7 +30,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4ea4a407-76b4-4fd1-836e-41f68508e857.png"
   },
   {
    "id": "11fcb544-98f2-4635-b181-7824408a16b4",
@@ -41,7 +43,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "8235f687-4c62-47be-ab8a-6ee71a89c3a5.jpg"
   },
   {
    "id": "0bd1bde1-0975-4308-ba12-aea13dba5dd0",
@@ -52,7 +55,8 @@
    "score": 0.4162493,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6474380-a26b-4293-a1b7-dbbe567f8a22.png"
   },
   {
    "id": "8f62c51e-7185-4707-bddb-fa6887e99e97",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b8440caf-c06c-4a06-988c-b8be3f154989.png"
   },
   {
    "id": "ec4dc17e-c1d7-4fc3-8734-605caf10e836",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "98dd60e7-6e4d-45da-bd55-d630e83c32bc.jpg"
   },
   {
    "id": "0ea0abe6-2aad-4aae-8462-9c6caf266653",
@@ -90,7 +96,8 @@
     "uk",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b7fcab2a-054b-4439-8a52-3e37d91b97c4.jpg"
   },
   {
    "id": "17687de0-a810-413e-8433-6e3cfda5a636",
@@ -101,7 +108,8 @@
    "score": 0.4010438,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "03dfa931-7591-4a63-9f75-d2b5e24f40d8.jpg"
   },
   {
    "id": "22288e9d-d4f6-49b4-91cc-b8695105c87b",
@@ -112,7 +120,8 @@
    "score": 0.3932011,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39c7943b-7517-4c74-8268-76bce610533a.jpg"
   },
   {
    "id": "c4626c98-3f5b-4389-a3c1-8f953b786ba0",
@@ -125,18 +134,20 @@
     "fr",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "79723d6f-5737-4136-8132-948db3e15252.jpg"
   },
   {
    "id": "128c4bf0-4bae-4554-a41f-da474c0341ed",
    "title": {
-    "en": "Nein ～9th Story～"
+    "en": "Nein \uff5e9th Story\uff5e"
    },
    "contentRating": "safe",
    "score": 0.38949516,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bc8b7aa-04d5-4c67-a995-0eba14b63a45.jpg"
   },
   {
    "id": "d7ae4a0f-bb85-48d9-98c2-45144f27374b",
@@ -149,8 +160,10 @@
     "en",
     "es-la",
     "tr"
-   ]
+   ],
+   "coverFileName": "0f063261-dd44-4718-8f7d-2d3077eb3d2c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:00+00:00"
+ "updatedAt": "2021-07-18T07:03:00+00:00",
+ "coverFileName": "bf79fae6-20eb-42bd-b139-809b835b8e72.jpg"
 }

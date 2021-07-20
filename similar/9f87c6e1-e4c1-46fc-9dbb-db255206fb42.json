@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c201003-96e7-4bc0-9ce0-63fc4f882083.jpg"
   },
   {
    "id": "f81efff2-9c03-4786-957f-e147d5197378",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d309f47e-7a37-48b8-9b5b-5594a497664b.jpg"
   },
   {
    "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
@@ -38,19 +40,21 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f1c3325f-3497-4b79-bca5-b53c08506ad0.jpg"
   },
   {
    "id": "cb1133a2-0d58-4577-9823-19c8958ed0b7",
    "title": {
-    "en": "Pokémon - We're The Mew Detective Team"
+    "en": "Pok\u00e9mon - We're The Mew Detective Team"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "d583c085-104d-4644-b825-5dfe2db76de2.png"
   },
   {
    "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
@@ -61,7 +65,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "abe3b509-2a85-4e44-b1be-d7737a31732b.png"
   },
   {
    "id": "943b8809-f4d6-4fdb-8530-41064991d0e2",
@@ -74,7 +79,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "eabd4b0e-3428-4ff6-90cb-ce050ce6f228.jpg"
   },
   {
    "id": "09f7caca-4c77-4bfd-96e3-0c36fa9e769a",
@@ -85,7 +91,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f5aea46-c15a-42c6-a90d-1ac46d14b399.jpg"
   },
   {
    "id": "a37a44f2-637f-45aa-a4ac-368bc3271a01",
@@ -96,7 +103,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1bc9ae9-afb4-4d7b-a3b1-cd4b6e907e17.jpg"
   },
   {
    "id": "437a4cd3-eac6-455f-98f7-d084a5b10c6c",
@@ -107,7 +115,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fae55108-3790-4d1b-a93a-a824617f967b.png"
   },
   {
    "id": "7c3abdf7-902e-4cf6-8037-26eac2d606a8",
@@ -118,7 +127,8 @@
    "score": 0.4009808,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19362ae9-1def-4530-b431-a11084bf81cf.jpg"
   },
   {
    "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
@@ -130,7 +140,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "401a5563-8b9e-478d-a244-86d323eab98d.jpg"
   },
   {
    "id": "66b4689a-0da4-4341-bd21-048d66fdf23d",
@@ -142,8 +153,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "e2fc5944-f0b5-4588-b472-c1242e342fcd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:54:09+00:00"
+ "updatedAt": "2021-07-18T06:54:09+00:00",
+ "coverFileName": "86554938-bd5f-4782-a1dc-324ad55c9af4.jpg"
 }

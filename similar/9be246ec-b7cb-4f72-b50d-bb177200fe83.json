@@ -8,14 +8,15 @@
   {
    "id": "8fc4ca0a-3346-4e99-a6f1-63747029c109",
    "title": {
-    "en": "Smoke \u0026 Honey"
+    "en": "Smoke & Honey"
    },
    "contentRating": "safe",
    "score": 0.4056353,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7f191cd0-6807-4dde-be3a-9ef2952c0b86.jpg"
   },
   {
    "id": "c60fdb4e-7f5c-42f7-ab71-a5942bea6bee",
@@ -26,7 +27,8 @@
    "score": 0.4009437,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2f47a0b-dfb9-4ea9-8df7-862895de024e.jpg"
   },
   {
    "id": "fa28e1dc-a886-49aa-9c32-f0d76221bd85",
@@ -37,7 +39,8 @@
    "score": 0.36476052,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "032b707d-df58-4027-b0de-64f289c0d45d.png"
   },
   {
    "id": "79e3213b-16a8-4011-bbef-b168c2681376",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4863b06-8952-4583-9f18-e1bc23d45f9d.jpg"
   },
   {
    "id": "42e8facc-00b0-4eff-bb8e-f01af83c6c0b",
@@ -60,7 +64,8 @@
    "score": 0.36064467,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea2e3e13-e925-4ade-a485-58938783d505.jpg"
   },
   {
    "id": "75de5e90-9621-4c0f-899f-056a90ef0061",
@@ -76,7 +81,8 @@
     "id",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "964578da-57bf-4d8b-981e-e099d5c745af.jpg"
   },
   {
    "id": "5307712b-a34a-498b-89ef-51949f133a1d",
@@ -87,7 +93,8 @@
    "score": 0.35614675,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6af37e8d-a212-4861-86ce-d692080648cc.png"
   },
   {
    "id": "473c2bbf-de84-4476-8a92-d98620706b95",
@@ -98,7 +105,8 @@
    "score": 0.34758443,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c8b254d-7442-4fb0-9cef-9cb483cf2b2f.png"
   },
   {
    "id": "0ef0a945-fed5-45eb-a655-703cdac9057e",
@@ -109,7 +117,8 @@
    "score": 0.3462131,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2827b73f-b005-4d77-9cd2-a848aa6e5db8.jpg"
   },
   {
    "id": "651d14cc-2d2f-4efa-88cd-f82c2568fd08",
@@ -121,7 +130,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "2ff61168-ac51-4ffb-a1cb-26b12dced3d3.jpg"
   },
   {
    "id": "e9dc6d4a-c93d-4447-9a5b-675d47ecf657",
@@ -133,7 +143,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "37c03026-39f7-4b0a-894f-41258764f034.jpg"
   },
   {
    "id": "b759ea8b-39b0-483b-946b-618372876a7f",
@@ -144,8 +155,10 @@
    "score": 0.33571148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e1a60613-e32c-4742-a11d-a55042b52940.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:30+00:00"
+ "updatedAt": "2021-07-18T06:53:30+00:00",
+ "coverFileName": "8c949ee9-a898-433c-bffd-74d1167644fd.jpg"
 }

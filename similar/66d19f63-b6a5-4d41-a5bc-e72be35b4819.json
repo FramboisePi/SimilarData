@@ -1,7 +1,7 @@
 {
  "id": "66d19f63-b6a5-4d41-a5bc-e72be35b4819",
  "title": {
-  "en": "Aikatsu! - Manga \u0026 Mangaka Atsudou!"
+  "en": "Aikatsu! - Manga & Mangaka Atsudou!"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.6679886,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3641ed1b-d49a-43d5-b5b3-b0f39a9cf4c0.jpg"
   },
   {
    "id": "19138796-45e0-46f6-9548-264eb61774f6",
@@ -25,7 +26,8 @@
    "score": 0.6530552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0550db06-ac18-4622-91b7-cbf8ad1193ca.jpg"
   },
   {
    "id": "a2263632-9329-4e3d-95d5-ee9022128581",
@@ -37,7 +39,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "85817d7e-4415-4da0-9532-42558d6c6d94.png"
   },
   {
    "id": "f7d4291a-0cd3-4572-bf0c-b95eb631aea9",
@@ -48,7 +51,8 @@
    "score": 0.40421087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1887078f-85c6-47bb-943f-b16bcf098937.jpg"
   },
   {
    "id": "539b375f-8d48-47fe-b2a1-c4c3e2fd8e1b",
@@ -59,7 +63,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ea154b8-5226-494f-8068-504e210b91bf.png"
   },
   {
    "id": "8c5ba0b8-6f9c-47ff-b2ba-fc55153de2a9",
@@ -70,7 +75,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a051f165-57ee-4384-9b77-9a97a5d201cd.jpg"
   },
   {
    "id": "38e121fe-2a2e-40d8-8a0a-e91d79a99ca9",
@@ -81,7 +87,8 @@
    "score": 0.3978498,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4aa10de-fe63-435b-8fb5-a87865b3dd22.jpg"
   },
   {
    "id": "39b52c6d-d65a-46a3-a49f-afd6c4947277",
@@ -92,7 +99,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "507c60c9-9d1e-4755-bd8e-8d3652f3a635.jpg"
   },
   {
    "id": "a3039352-4f68-4477-b0e7-842fb82dcc4e",
@@ -104,7 +112,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0010aae2-0cda-4a16-993b-6a87532c4954.jpg"
   },
   {
    "id": "d808f682-e6c2-4f05-8ea2-7568a82b1fee",
@@ -118,7 +127,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5e01ea3e-ea0e-4883-a608-7ed1c54b3f68.jpg"
   },
   {
    "id": "4be81834-703d-4e66-8f45-61328baa3e67",
@@ -129,7 +139,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0cb839f4-ce9a-4a41-905e-a635a7220abe.jpg"
   },
   {
    "id": "21a8efa7-8b64-41de-b61c-b4f94e2aed62",
@@ -140,8 +151,10 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b49e49c1-fe84-4f26-aae2-676ae5f907d5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:33+00:00"
+ "updatedAt": "2021-07-18T06:43:33+00:00",
+ "coverFileName": "14def2ad-bdfc-4616-9446-e2cc879ade44.jpg"
 }

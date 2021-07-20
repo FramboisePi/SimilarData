@@ -16,7 +16,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "19b84b3d-0e62-4bdf-aca3-44e55aaac34d.jpg"
   },
   {
    "id": "c759d2a0-20c0-4500-94d1-29251242327c",
@@ -28,7 +29,8 @@
    "languages": [
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8bab8340-2625-4c4b-ae75-5b9c277e99ec.png"
   },
   {
    "id": "527a2da3-7248-4a4d-b14d-791970e00a61",
@@ -42,7 +44,8 @@
     "en",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0d3fc3b0-4f7c-44ba-bfb5-3ce248f2160c.jpg"
   },
   {
    "id": "b1b7669d-19e1-4530-8b5f-b13a7f487fc7",
@@ -54,7 +57,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "986b478e-4689-4ca6-abd5-f9f8898b128b.jpg"
   },
   {
    "id": "911a12ae-1022-448e-9219-b7b294d7fb3e",
@@ -68,7 +72,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "07481590-a698-4a36-bbdb-9c45ecde8bdd.jpg"
   },
   {
    "id": "2885e71b-e422-466e-929d-6f3a05203047",
@@ -81,7 +86,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f4373a99-e191-4358-b368-6a58c0d2943d.jpg"
   },
   {
    "id": "df81e349-6c9c-4b0d-87e1-d20ea6fa03ca",
@@ -92,18 +98,20 @@
    "score": 0.48226103,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "943d7bbb-903d-4a0f-8e14-4c613fa033e9.jpg"
   },
   {
    "id": "a23ddf40-8190-4bd1-9765-28053143f01a",
    "title": {
-    "en": "37ºC no Boyfriend"
+    "en": "37\u00baC no Boyfriend"
    },
    "contentRating": "safe",
    "score": 0.48146948,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0284a080-b2d0-4fd9-96d5-f882bd66df61.jpg"
   },
   {
    "id": "8175a0ba-ddd4-4a51-8bc8-983357060bfa",
@@ -115,7 +123,8 @@
    "languages": [
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "49870cc2-f32a-4eec-bb88-52b180f61c1d.jpg"
   },
   {
    "id": "c20eda99-8017-4af3-8090-dab65484bf76",
@@ -126,7 +135,8 @@
    "score": 0.47429457,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "42d31690-09a4-42bb-aa73-4b009b91ac2f.jpg"
   },
   {
    "id": "dffce5a4-49e9-4d1b-aefc-f640d527ddeb",
@@ -139,7 +149,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "2108b0a7-a079-44b8-9cd3-1a6d1f257485.jpg"
   },
   {
    "id": "c9ed8b00-67f2-4f49-b7e8-fe5ef20d79f0",
@@ -150,8 +161,10 @@
    "score": 0.4691711,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e625b225-42c1-487c-9bf6-630ff496ef6a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:27+00:00"
+ "updatedAt": "2021-07-18T06:39:27+00:00",
+ "coverFileName": "3e2b46ea-2b25-4aa2-9cfd-12a474db21e9.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.6147921,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1c77386a-e399-41dc-b005-71a74b174424.png"
   },
   {
    "id": "731d2f12-9479-43ad-8b26-bc77f3b8b2f3",
@@ -27,7 +28,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "b180ba65-6e85-4caf-8289-9f6335ae6016.png"
   },
   {
    "id": "bce014f7-3b51-4900-b753-b43687f9b1bc",
@@ -38,7 +40,8 @@
    "score": 0.5044254,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf909cd0-64ab-436f-bccb-a7c3717bf47d.jpg"
   },
   {
    "id": "82cffe12-e801-4f4b-a844-2fc0ea52c5fb",
@@ -50,7 +53,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "95e797c1-3bb5-44e5-8f82-84e1750e2d06.jpg"
   },
   {
    "id": "02190e3f-e3ba-4f9c-8186-7d68d1a7043b",
@@ -61,7 +65,8 @@
    "score": 0.48636666,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e17627d-7c12-4894-8efb-f25852fead25.jpg"
   },
   {
    "id": "aa9bd8ad-810d-483d-98f3-ff923fafad49",
@@ -72,18 +77,20 @@
    "score": 0.48336145,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39b32675-4cd4-45f2-aa57-229716b9ae25.jpg"
   },
   {
    "id": "e1c0852d-6d28-4f20-80ec-5d2343673373",
    "title": {
-    "en": "Suki, Kirai… demo Suki"
+    "en": "Suki, Kirai\u2026 demo Suki"
    },
    "contentRating": "safe",
    "score": 0.479397,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d0dcd43-8f10-47d6-8ab5-8c99cf6bd91f.jpg"
   },
   {
    "id": "d8ae0376-17ad-4002-96ee-151127877386",
@@ -94,7 +101,8 @@
    "score": 0.4745927,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fdb8c0f0-5286-42dc-b089-cad7176e6886.jpg"
   },
   {
    "id": "1133022d-10e5-4c42-a222-bc896e267c13",
@@ -105,7 +113,8 @@
    "score": 0.47300056,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73169cea-3040-4c0f-a95f-2e7ff163537e.jpg"
   },
   {
    "id": "755717e3-271a-41fa-a09f-00a6914e7f6e",
@@ -116,18 +125,20 @@
    "score": 0.47197765,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6a9f65d-1403-444c-94d5-a20b9b06a7a2.jpg"
   },
   {
    "id": "14113943-c265-46b2-bc6e-8788798ec389",
    "title": {
-    "en": "37°C Kiss"
+    "en": "37\u00b0C Kiss"
    },
    "contentRating": "safe",
    "score": 0.47026646,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18ca19d6-18cd-47f7-87a2-ec50389ed5f2.png"
   },
   {
    "id": "66a880a7-2c9c-487c-8f60-ba4b232db132",
@@ -138,8 +149,10 @@
    "score": 0.47019923,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "57c9a8dd-02cc-42d8-a5e7-7e6eea3799fe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:37+00:00"
+ "updatedAt": "2021-07-18T06:45:37+00:00",
+ "coverFileName": "638726b1-ec6f-4f8e-afc5-29d79140674d.jpg"
 }

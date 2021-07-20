@@ -15,7 +15,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "531db369-3258-4210-8c61-335b7148b93a.jpg"
   },
   {
    "id": "10ac3ce4-de88-49c6-b9f9-001a5bf08351",
@@ -28,7 +29,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "0e748c08-6d8f-426c-957f-ec78eb4c8898.jpg"
   },
   {
    "id": "c6d279e2-b977-4b29-be6d-2b4e0b299ba1",
@@ -39,7 +41,8 @@
    "score": 0.4313415,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "162a6969-6d8f-4a46-8034-9bf2569aa82e.jpg"
   },
   {
    "id": "0721494e-b8ee-4d8d-b7d1-06767451b44d",
@@ -51,7 +54,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "dda875af-4e41-4df6-9a60-dbba49eb6ba5.jpg"
   },
   {
    "id": "9305c532-9881-4da9-9cd4-fe950122d902",
@@ -62,18 +66,20 @@
    "score": 0.3998355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ed0f675-3b00-4b32-b62e-6929b811c409.jpg"
   },
   {
    "id": "4cb44f68-779b-4c7f-bf3d-acb1fef83944",
    "title": {
-    "en": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
+    "en": "Pok\u00e9mon Mystery Dungeon: Explorers of Time and Darkness"
    },
    "contentRating": "safe",
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b3305154-edf9-4fb4-8d52-c5f566cf7512.png"
   },
   {
    "id": "96582a77-8efd-4a5d-a479-f79645dbd73e",
@@ -84,7 +90,8 @@
    "score": 0.38718668,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7837317e-e4f4-4077-8d53-d3d149b84385.jpg"
   },
   {
    "id": "4846e4da-8fe7-4fe4-8ecd-2ec3f182d5ee",
@@ -95,7 +102,8 @@
    "score": 0.38330767,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65f29cba-9af7-4a4e-b7ab-e821dd2ffa84.jpg"
   },
   {
    "id": "378b2b04-b16b-4616-a601-bfdac646ce95",
@@ -109,7 +117,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0b3fb2e9-86ca-465c-93d2-0c999b2eed2b.jpg"
   },
   {
    "id": "5f73422e-e47c-41a1-8b5d-96ba13498cfe",
@@ -123,7 +132,8 @@
     "ru",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "e94687df-b173-41bc-b1f5-87391cc0d445.jpg"
   },
   {
    "id": "1aaa0a4b-78bc-4f39-aa20-145766f83092",
@@ -137,7 +147,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "70bbb16e-e0df-44f2-8633-3c9efc6599a9.jpg"
   },
   {
    "id": "61cb55bb-03e1-4496-9bd4-460c2c7143b4",
@@ -151,8 +162,10 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "9ec61c1f-1826-416f-8489-f37eb9689ec4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:33+00:00"
+ "updatedAt": "2021-07-18T07:11:33+00:00",
+ "coverFileName": "85176eb6-d0fc-4d7f-a9c2-88a1f4b2af73.jpg"
 }

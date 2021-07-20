@@ -16,7 +16,8 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "c9237ab1-ee0b-4745-8acf-6b0b52b949cd.jpg"
   },
   {
    "id": "d5cdc845-fd5d-4497-a993-131d65e00e97",
@@ -31,7 +32,8 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "cf41398d-f5db-4cfc-8b43-31cf2d8a068d.jpg"
   },
   {
    "id": "99786169-6285-45d2-b3c7-3290a9f38315",
@@ -45,19 +47,21 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3db13d65-6c23-4d84-9fc6-552ced64e05b.jpg"
   },
   {
    "id": "3e75643e-4942-4ca0-8d96-c7f4b127286c",
    "title": {
-    "en": "Diphylleia’s Coup Is Being Planned"
+    "en": "Diphylleia\u2019s Coup Is Being Planned"
    },
    "contentRating": "safe",
    "score": 0.40507215,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "51c97954-0b60-4cba-9944-6cb00bde03af.png"
   },
   {
    "id": "1db52950-90a6-4f69-9845-c1c02728586c",
@@ -68,7 +72,8 @@
    "score": 0.3999386,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "f9f0e59b-c7bb-467e-9a3e-3283979f5172.jpg"
   },
   {
    "id": "a82fe527-9e74-48d0-9c5f-a5e788c0bd4a",
@@ -85,7 +90,8 @@
     "fr",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f2b3e323-1bdb-456d-b2e8-e758f38068a0.jpg"
   },
   {
    "id": "2061df05-1b66-44a4-96a7-65c9ccd6c47c",
@@ -96,7 +102,8 @@
    "score": 0.38459778,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "ce5e833f-c748-41fb-b19d-adae2f222b2d.jpg"
   },
   {
    "id": "4772ac18-b9e0-4e35-9056-c684620d2292",
@@ -111,7 +118,8 @@
     "ru",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "594ce804-d705-4194-be0c-edad0563b067.png"
   },
   {
    "id": "5292f5e9-9276-4fb6-943a-e28bc7206b62",
@@ -126,7 +134,8 @@
     "id",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "cf549d9f-5cab-4fa3-b4cb-85e795d1e678.jpg"
   },
   {
    "id": "b9170530-88ff-4e39-8f68-e11a17a89770",
@@ -142,7 +151,8 @@
     "mn",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "0443d4f5-c24c-43c2-b3a4-554e5ba67fb0.jpg"
   },
   {
    "id": "722a45c0-5e55-40f2-929b-ff69b0989edb",
@@ -157,7 +167,8 @@
     "id",
     "tr",
     "ar"
-   ]
+   ],
+   "coverFileName": "42756364-56a5-43c2-bc46-9702984dd6bf.jpg"
   },
   {
    "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
@@ -173,8 +184,10 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4d4e3d89-da27-4961-82a0-e64c6cfc163d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:49+00:00"
+ "updatedAt": "2021-07-18T06:59:49+00:00",
+ "coverFileName": "56e736f0-9204-4f0c-b20e-562dce71395f.jpg"
 }

@@ -17,7 +17,8 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "9c1e1017-24b2-450a-885b-430c6cc1057f.png"
   },
   {
    "id": "7f1bafc4-67b8-45b3-968b-39729dfc9ab7",
@@ -32,7 +33,8 @@
     "zh",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "c83e09af-716d-4ac7-a479-55b0334866d1.jpg"
   },
   {
    "id": "09191715-4ba8-4d1e-990b-59010e10a2ec",
@@ -43,7 +45,8 @@
    "score": 0.39354685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "95e92dc1-630b-44b5-9307-ff1368f2dc1e.jpg"
   },
   {
    "id": "8a3d319d-2d10-4364-928c-0f30fd367c24",
@@ -57,7 +60,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "aaa6dd59-f160-4309-bbd6-e788f82fefe4.jpg"
   },
   {
    "id": "8a074cbf-b6d0-4bb6-b098-6dcce0729b2e",
@@ -69,7 +73,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c2efb34b-f032-46ca-8d8c-f51a03f5e71c.jpg"
   },
   {
    "id": "3f9d2f0e-8798-4658-aa31-d5f80b7e7c1b",
@@ -82,7 +87,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "bd85173c-48de-400e-bac8-47b57737ffbe.jpg"
   },
   {
    "id": "195fcf5b-28bd-4d3b-af43-a0814f357998",
@@ -93,18 +99,20 @@
    "score": 0.36666667,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5689633-f30c-4584-8b7d-8dc1feea9327.jpg"
   },
   {
    "id": "cf6700ad-b431-4d58-b6b1-cd0543e472be",
    "title": {
-    "en": "Taishou Roman Seiyou Ga ̄ru"
+    "en": "Taishou Roman Seiyou Ga \u0304ru"
    },
    "contentRating": "safe",
    "score": 0.3653385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0fc9331-b062-4bdf-bbf8-64cae6f99b81.jpg"
   },
   {
    "id": "c9aaa96b-36fc-41c5-a427-6e39c26b7720",
@@ -116,7 +124,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5f4a9388-9c83-40a4-bc5e-a8cdd8fb7b88.jpg"
   },
   {
    "id": "a05a4650-b465-4ff4-a3d2-8020edaa8f5c",
@@ -127,7 +136,8 @@
    "score": 0.35475588,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc5155a6-80cf-4214-b11b-b17b52f4feec.jpg"
   },
   {
    "id": "1282a319-53f6-4b52-93a1-9aa55e1abe3b",
@@ -140,7 +150,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "276dfdb6-153b-42b9-a96c-22e3f1c746e0.png"
   },
   {
    "id": "af664b79-7946-451a-aa7c-432be4346e00",
@@ -152,8 +163,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1f34bddb-6948-4e4f-8539-917fa2326e64.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:11+00:00"
+ "updatedAt": "2021-07-18T06:38:11+00:00",
+ "coverFileName": "c4f89969-94c4-4418-a2d0-2e118b0b11c5.jpg"
 }

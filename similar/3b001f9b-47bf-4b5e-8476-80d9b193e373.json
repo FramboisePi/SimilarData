@@ -8,7 +8,7 @@
   {
    "id": "5353e8c5-8a6c-402a-895b-0d09feec17d4",
    "title": {
-    "en": "The Savior's Book Café in Another World"
+    "en": "The Savior's Book Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.45485756,
@@ -17,7 +17,8 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "36d955f3-56fb-4a77-9d26-eff42d3dffbd.jpg"
   },
   {
    "id": "fd9caf16-9b4b-452b-b753-3d9bd1269fe4",
@@ -30,7 +31,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "78734fd7-1120-4c05-90d0-bd6e8814df1b.jpg"
   },
   {
    "id": "4d73682d-ea8e-4b73-b90b-11006b051fb5",
@@ -41,7 +43,8 @@
    "score": 0.40171877,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff106efa-6892-4dd0-b48f-9e74e567a6f7.jpg"
   },
   {
    "id": "8cd2efcd-d8b0-491d-a992-10529d1e2e40",
@@ -52,7 +55,8 @@
    "score": 0.40130368,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56cfc140-519d-45c3-b6d4-0298856f99c0.jpg"
   },
   {
    "id": "8d525be8-f9c6-4231-9f35-5c67787a1ad3",
@@ -63,19 +67,21 @@
    "score": 0.3867056,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65162860-429a-479c-9c20-3da1c2efff12.jpg"
   },
   {
    "id": "44d7921f-2c4b-4667-8356-18b7fca367d7",
    "title": {
-    "en": "World's End Harem ~Britannia Lumière~"
+    "en": "World's End Harem ~Britannia Lumie\u0300re~"
    },
    "contentRating": "safe",
    "score": 0.3649982,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e5e5ec4a-6db4-4382-9116-909c5d2826c6.jpg"
   },
   {
    "id": "f8bb9b41-d4a3-4851-a958-8c22cf6b752e",
@@ -87,7 +93,8 @@
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "ae7f3aa2-52c8-4aaf-929e-5f0713bea28c.jpg"
   },
   {
    "id": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
@@ -98,18 +105,20 @@
    "score": 0.35635763,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1bb9f2e9-f208-4a05-8db1-17f42c666708.jpg"
   },
   {
    "id": "862018db-a3fb-4cc6-8769-5a33f5bf5c7d",
    "title": {
-    "en": "Drop!! ～A Tale of the Fragrance Princess～"
+    "en": "Drop!! \uff5eA Tale of the Fragrance Princess\uff5e"
    },
    "contentRating": "safe",
    "score": 0.34795076,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9bcd843b-a6ed-440c-b7cf-ba749a9f3e4a.jpg"
   },
   {
    "id": "d45ba05a-a218-4c91-9f02-5efacb54e6e3",
@@ -124,7 +133,8 @@
     "it",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "ae70fb90-a99d-48eb-a31b-3b46b953210e.jpg"
   },
   {
    "id": "8bd50e0c-f9ce-4f84-bc9a-95c597a7aed4",
@@ -138,7 +148,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4f18ea56-a81c-488c-8069-88d1d23fdcc8.jpg"
   },
   {
    "id": "ba210374-7967-4c3e-972d-891a530c992a",
@@ -150,8 +161,10 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "unknown"
   }
  ],
- "updatedAt": "2021-07-18T06:35:28+00:00"
+ "updatedAt": "2021-07-18T06:35:28+00:00",
+ "coverFileName": "708c0d78-e4b7-4aa9-8e3e-95821bba3621.jpg"
 }

@@ -8,7 +8,7 @@
   {
    "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
    "title": {
-    "en": "Father, I Don’t Want to Get Married!"
+    "en": "Father, I Don\u2019t Want to Get Married!"
    },
    "contentRating": "safe",
    "score": 0.3572623,
@@ -20,7 +20,8 @@
     "ru",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "3f828bd7-20ab-4813-9335-96282f145122.jpg"
   },
   {
    "id": "b716dd00-fc58-4266-b3e4-49bfd78f8a35",
@@ -34,7 +35,8 @@
     "fr",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "517efbaf-9e3d-459c-87d0-dae992cc1b42.jpg"
   },
   {
    "id": "b3822494-a989-413c-aa96-41baa045e899",
@@ -46,7 +48,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6f3e5c92-e803-493c-90db-3578f49ba577.jpg"
   },
   {
    "id": "4e7a7758-40a9-47e6-9b0c-2acb2804900c",
@@ -60,7 +63,8 @@
     "fr",
     "pt-br",
     "ar"
-   ]
+   ],
+   "coverFileName": "67747fa9-0613-4d9c-ba76-92e01802d64a.jpg"
   },
   {
    "id": "925c6b74-a307-4d12-ac67-c5d658cb6acf",
@@ -73,7 +77,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "a1251838-bd6d-4599-93cd-9cee361824de.jpg"
   },
   {
    "id": "70e3336d-c55e-4eee-be72-45cc82eb46dd",
@@ -87,19 +92,21 @@
     "ru",
     "fr",
     "mn"
-   ]
+   ],
+   "coverFileName": "f6a0b4da-8b0d-440d-bcac-397ea0c4eafa.jpg"
   },
   {
    "id": "b82d55e4-01ba-498e-a9aa-715f7ffb5a1d",
    "title": {
-    "en": "I Am the Male Lead’s Ex-Girlfriend"
+    "en": "I Am the Male Lead\u2019s Ex-Girlfriend"
    },
    "contentRating": "safe",
    "score": 0.30229887,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c2ecfba3-dd02-483f-a1c7-a8369ce0ef08.jpg"
   },
   {
    "id": "47196e10-62c6-42f3-9943-2bffe7c9b19e",
@@ -112,7 +119,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "901550ab-d5de-476d-a8ed-c802961daacc.jpg"
   },
   {
    "id": "32bf273c-6b4f-40b0-9a63-f4a057c84e42",
@@ -124,7 +132,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "b068b120-08c2-4b21-9a7f-bb51e6f9f6a1.png"
   },
   {
    "id": "e959ee87-cae7-4903-82b3-fa8800bb8ce6",
@@ -139,7 +148,8 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "8543a565-7d82-481e-a57f-7bb6aa045b43.jpg"
   },
   {
    "id": "4ebe63f0-598c-49db-bfef-e836d22195c6",
@@ -151,7 +161,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cc1363a4-1946-48f5-bec5-61e29e84481f.jpg"
   },
   {
    "id": "a00c25a9-8584-45a1-8b4f-c911e451b9d9",
@@ -167,8 +178,10 @@
     "tr",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b3b80027-ad7f-489e-a575-87716b6e1b91.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:22+00:00"
+ "updatedAt": "2021-07-18T06:49:22+00:00",
+ "coverFileName": "cd6e5e80-5a88-4b0d-b183-8a1df08bd5d8.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "31bb2015-cce9-4c26-9c2e-f4152cfe7c8d",
  "title": {
-  "en": "Café Kichijoji de"
+  "en": "Caf\u00e9 Kichijoji de"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b1aa3d93-0b7e-4178-9735-5c7464494160.jpg"
   },
   {
    "id": "484f7218-6d03-4072-814f-9654192352d1",
    "title": {
-    "en": "Kamakura Deco \u0026 Kofu Life"
+    "en": "Kamakura Deco & Kofu Life"
    },
    "contentRating": "safe",
    "score": 0.41874847,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df0c87bd-31c2-4cb3-9510-feece38791e6.jpg"
   },
   {
    "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
@@ -36,7 +38,8 @@
    "score": 0.4183492,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b1786021-0a10-4076-8bd3-de98a38f74f7.jpg"
   },
   {
    "id": "e6477b27-6c4b-410f-9a29-fa60be616446",
@@ -49,7 +52,8 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4c8f152-584a-4e8e-b905-714196aa47b0.jpg"
   },
   {
    "id": "8299b191-1f4b-4463-9103-61604ab3c13b",
@@ -60,7 +64,8 @@
    "score": 0.3951044,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b862ab6-a18f-4b25-a1c1-167451757198.jpg"
   },
   {
    "id": "e46f418c-bed5-477b-8fc1-75f9b0f9063e",
@@ -71,12 +76,13 @@
    "score": 0.39367187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22d5a7ac-8878-4fcc-b89b-e86e71b75909.jpg"
   },
   {
    "id": "d4d34476-d08c-4f57-9ba7-48209122d43d",
    "title": {
-    "en": "Rokka Melt: Fiancé wa Yukiotoko"
+    "en": "Rokka Melt: Fianc\u00e9 wa Yukiotoko"
    },
    "contentRating": "safe",
    "score": 0.38890874,
@@ -84,7 +90,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b990cc30-c05a-4720-8ca2-6b014c8415b2.jpg"
   },
   {
    "id": "27174389-bc10-43e7-b111-345f1ecb9d24",
@@ -95,7 +102,8 @@
    "score": 0.38890874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2a318a1-3e98-4b3a-960b-4695bbcde27b.jpg"
   },
   {
    "id": "4eaa36b4-fc44-4b2c-a53c-27c4cbbe6a51",
@@ -107,7 +115,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3381c52c-7508-42c5-80f6-efd0a4659ce3.jpg"
   },
   {
    "id": "90b88312-18b2-4a87-99fd-ccca64288e7b",
@@ -120,7 +129,8 @@
     "en",
     "es",
     "ru"
-   ]
+   ],
+   "coverFileName": "c5101e7a-488c-40ff-8278-a7e3658992aa.png"
   },
   {
    "id": "dd354a13-c8fc-43c2-b18c-e3d0054fc894",
@@ -132,7 +142,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "7aba2151-fb02-49fa-978f-4a01c1884aac.jpg"
   },
   {
    "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
@@ -145,8 +156,10 @@
     "en",
     "hu",
     "tr"
-   ]
+   ],
+   "coverFileName": "ca8f730c-fa84-4c7a-9420-7cc0547f71dd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:43+00:00"
+ "updatedAt": "2021-07-18T06:33:43+00:00",
+ "coverFileName": "774c136f-1866-4232-91e8-ed96064329d3.jpg"
 }

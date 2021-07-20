@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b0ceac3a-33c3-416b-8cbe-60dba873965b.jpg"
   },
   {
    "id": "3a4c5b2c-b55b-48e3-81c9-91a0f8e33eb2",
@@ -26,18 +27,20 @@
    "score": 0.36229378,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "242cd400-dd03-4f70-aa42-b124cc67a9ad.jpg"
   },
   {
    "id": "5715958f-4f5d-49c2-b563-8bccc34c5979",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Beginning"
+    "en": "Tiger & Bunny - The Beginning"
    },
    "contentRating": "safe",
    "score": 0.35726592,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18dfd05f-97ac-431c-bc79-64be8905a609.png"
   },
   {
    "id": "693e3f32-165b-4697-8ea0-64d9396b29ac",
@@ -49,7 +52,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "5c1929f4-e315-4872-a309-aaec11f5008b.jpg"
   },
   {
    "id": "60a1627e-1753-4e14-be50-4ec41e3e8b47",
@@ -66,18 +70,20 @@
     "it",
     "ru",
     "de"
-   ]
+   ],
+   "coverFileName": "69573c12-67e5-4277-a9a6-74d8902cea0b.jpg"
   },
   {
    "id": "98c50b24-fdee-44c9-a480-8e186a7da10c",
    "title": {
-    "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessinée: Episode 0"
+    "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin\u00e9e: Episode 0"
    },
    "contentRating": "safe",
    "score": 0.3247595,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "79cd5dff-1a88-4e09-875b-3aa1c1b537f5.jpg"
   },
   {
    "id": "48221bce-0fd2-4519-b5f3-4fdc1921007b",
@@ -90,12 +96,13 @@
     "en",
     "id",
     "th"
-   ]
+   ],
+   "coverFileName": "756e5073-5971-4835-8c27-2a7e85effeb6.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.3218961,
@@ -108,7 +115,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "3cd2eb21-a0c7-4d28-baba-4f94c9433697",
@@ -119,7 +127,8 @@
    "score": 0.31985766,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c786ce41-ae62-484b-b225-d17f08e048b1.jpg"
   },
   {
    "id": "e3f777c4-f7dd-479c-bd34-500bf295b200",
@@ -130,7 +139,8 @@
    "score": 0.31874523,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e32ade43-700e-4262-bfae-a390bad965f0.png"
   },
   {
    "id": "01604e79-5c05-442e-993e-a5d0a870e499",
@@ -144,7 +154,8 @@
     "ru",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "53ad2574-1254-4e61-a01f-965860ff635c.jpg"
   },
   {
    "id": "6c5bb541-d314-4140-8842-d96d31eaad53",
@@ -155,8 +166,10 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "68997c4c-a6b5-41db-a184-d63d5d50ee03.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:40+00:00"
+ "updatedAt": "2021-07-18T06:59:40+00:00",
+ "coverFileName": "14b31d84-1f93-4a1b-97a8-9c5082cb4b8c.jpg"
 }

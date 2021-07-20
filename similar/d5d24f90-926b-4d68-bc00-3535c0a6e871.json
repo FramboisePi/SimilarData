@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "d1460c59-079d-43f5-a91b-5d563acfffbe.jpg"
   },
   {
    "id": "df2276c2-470d-4324-81fa-b48f9d6fd202",
@@ -26,7 +27,8 @@
    "score": 0.4456835,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "1dabb5c6-134d-4dc5-8d7d-3cc2fa119a22.jpg"
   },
   {
    "id": "ff105863-e9c5-4526-a77b-52ca5b2addbd",
@@ -38,7 +40,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "1b095865-6288-4541-8102-82a6ac86a147.jpg"
   },
   {
    "id": "90c21e8a-93b3-4632-adb2-dd148fe1e080",
@@ -49,7 +52,8 @@
    "score": 0.40812936,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "7937f64a-c62f-4926-9dd5-b8ff3c31df96.jpg"
   },
   {
    "id": "b023fbd4-ab88-42f3-a0a2-95ab5f897f7c",
@@ -62,7 +66,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "8232bb15-95ac-4a12-8ebe-76a44bced1dd.jpg"
   },
   {
    "id": "b8cdd9ea-2713-47fa-9cfa-8eba3d456286",
@@ -75,7 +80,8 @@
     "ru",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c51fbcda-2c90-4c2b-8b22-a72191ab5c60.jpg"
   },
   {
    "id": "9c1e5706-803e-45b6-b093-cfd97b34f815",
@@ -88,7 +94,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "04c87a83-5b8c-4937-b959-9b16106f0347.jpg"
   },
   {
    "id": "c47f5558-f974-4ed7-9829-2b59f04c44f5",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "983df9e4-d0e8-4b8a-9293-da986b88a808.jpg"
   },
   {
    "id": "a9da3064-d8e6-4f65-9c69-b8f6937f079a",
@@ -112,19 +120,21 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "40d0bdac-3dc2-4a99-9867-ed6b565ad838.jpg"
   },
   {
    "id": "fbfa3677-862f-4ede-b4c6-8517945b71a6",
    "title": {
-    "en": "Cat \u0026 Dogs!"
+    "en": "Cat & Dogs!"
    },
    "contentRating": "safe",
    "score": 0.3786692,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c49ec60e-f606-48c3-8123-e72c5909f4cd.jpg"
   },
   {
    "id": "cec43e58-7b33-4484-89d9-7dd666235043",
@@ -136,7 +146,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a3142a07-160d-4fbf-a9e8-95fc8bd35406.jpg"
   },
   {
    "id": "6fdc381f-2738-413e-8961-7d6e047e9baf",
@@ -149,8 +160,10 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ef4b1c98-3fdf-4d20-a678-2571c3bb6f50.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:06+00:00"
+ "updatedAt": "2021-07-18T07:04:06+00:00",
+ "coverFileName": "ca19cfb1-c202-4788-9772-b0ab32149e5d.jpg"
 }

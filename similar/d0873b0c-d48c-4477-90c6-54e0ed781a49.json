@@ -17,7 +17,8 @@
     "th",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "79734ac6-9252-419c-bbdb-34660fda9bbc.jpg"
   },
   {
    "id": "54202943-b55d-45a1-830f-44c9a8a691f0",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "e23a2d65-eee7-4491-bcc7-0ff7508f6ae9.jpg"
   },
   {
    "id": "6e9e4d13-1138-4631-9483-860787a9bbad",
@@ -40,7 +42,8 @@
    "score": 0.28393042,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a32fab93-e600-4515-9136-f6a0c5b031e4.jpg"
   },
   {
    "id": "80c59ae3-1e0c-411a-a9d6-b792a2d72d8b",
@@ -52,7 +55,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "04ada8ec-8c64-44c5-9fdb-e3d0fbcad9f2.jpg"
   },
   {
    "id": "fb6759ae-dbd9-4583-9e56-cf5aae58d6ad",
@@ -63,7 +67,8 @@
    "score": 0.26766136,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81f668e9-ca3e-474e-977f-cdd30c3eb0e6.jpg"
   },
   {
    "id": "1f4cc4bb-5941-47bb-bd06-f9459a3f6521",
@@ -75,7 +80,8 @@
    "languages": [
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "90ead966-fcdd-4744-ab7b-50004e40df73.jpg"
   },
   {
    "id": "b65602ff-2b3a-4802-9d9f-67717e06e06d",
@@ -88,7 +94,8 @@
     "es-la",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ee14bad9-1496-4f50-ab5c-cf25658f2495.jpg"
   },
   {
    "id": "962ed908-bc1b-4592-a08d-63c2ed82132c",
@@ -99,7 +106,8 @@
    "score": 0.25387788,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d58a9f2-3f39-4e90-b9b0-8ba4e75979b9.jpg"
   },
   {
    "id": "5f8b39b3-ae0e-4906-b016-6b35a3e5eb4f",
@@ -114,18 +122,20 @@
     "pt-br",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "768f0eb4-7651-4371-9fa4-f8f6c628a647.jpg"
   },
   {
    "id": "ef9981e1-6f2f-46bc-937d-0ac282e3a57b",
    "title": {
-    "en": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C³ Bu VS Anime Tenchou"
+    "en": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C\u00b3 Bu VS Anime Tenchou"
    },
    "contentRating": "safe",
    "score": 0.24996968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "156e677a-25ae-499b-9454-a67fd2629698.jpg"
   },
   {
    "id": "f2fef554-93f3-4340-af6c-cd4123168267",
@@ -137,7 +147,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "5b38934a-35e2-4b7e-b798-393d6a1e1c89.jpg"
   },
   {
    "id": "8d163365-15a6-4031-8671-29a11e3b6d69",
@@ -153,8 +164,10 @@
     "id",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "e5e53bdb-80b8-48a6-b4d8-24deea637406.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:06+00:00"
+ "updatedAt": "2021-07-18T07:03:06+00:00",
+ "coverFileName": "2a11f6e1-4d80-49a9-9306-4c9252a5dbab.jpg"
 }

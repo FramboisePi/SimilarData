@@ -1,7 +1,7 @@
 {
  "id": "9e502aaa-aa7e-4bef-928d-5f2f1623552a",
  "title": {
-  "en": "Daydream★Nightmare"
+  "en": "Daydream\u2605Nightmare"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e349fccd-3fbe-44e6-82b0-a38df8ab986e.jpg"
   },
   {
    "id": "19d8f782-be66-4700-b69a-0ff040dc0e49",
@@ -25,7 +26,8 @@
    "score": 0.41071346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6a0a7e86-475a-4fbe-b221-9ab9818ef77a.jpg"
   },
   {
    "id": "ccc78ad7-7b11-4fdb-a830-01c944546f79",
@@ -36,7 +38,8 @@
    "score": 0.4105737,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdfc6073-a35d-4956-aed3-16105ca1b40d.jpg"
   },
   {
    "id": "83acbf4e-78dc-49c9-818d-5affb3e03535",
@@ -47,7 +50,8 @@
    "score": 0.4069588,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "945b2145-d073-4f65-9439-dcd26c0e18b3.jpg"
   },
   {
    "id": "95429623-5a80-4ae4-9b61-2c6f3ae7e628",
@@ -58,7 +62,8 @@
    "score": 0.40671352,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cbdac327-e8e9-47b4-9d36-561e9f059c52.jpg"
   },
   {
    "id": "6ef8f65d-4045-4185-b63a-fd51fed9b2a2",
@@ -69,7 +74,8 @@
    "score": 0.38650417,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b1efe002-0c51-4465-8217-7e913a43a3ed.jpg"
   },
   {
    "id": "12fb5079-433f-44ed-ab49-63ffb0f658e6",
@@ -80,7 +86,8 @@
    "score": 0.3791626,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5babc536-6030-4e59-82ea-3a8d1679e5ac.jpg"
   },
   {
    "id": "6d8fa202-711e-4f82-816d-1f347f0c5e47",
@@ -91,7 +98,8 @@
    "score": 0.37569654,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9d9c6793-98c0-457c-939f-d1222300a04a.jpg"
   },
   {
    "id": "8b1fe275-bd90-4878-9fcb-e58922586ccc",
@@ -102,7 +110,8 @@
    "score": 0.37384793,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b01837c2-92ff-4735-9fc7-74fd04531d87.jpg"
   },
   {
    "id": "351f9e46-7b6a-4afb-a31b-24a0d9751bec",
@@ -113,7 +122,8 @@
    "score": 0.3737544,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d09dbb9-395d-4b37-b5a7-2452d77e5888.jpg"
   },
   {
    "id": "b0c8f27b-396f-47f5-be81-85ed28115a2e",
@@ -125,7 +135,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "64b1b2ce-3671-4f66-980c-c44d215657a6.jpg"
   },
   {
    "id": "0733ebdd-cd4d-4ed6-873b-5cc6a1ef5c62",
@@ -136,8 +147,10 @@
    "score": 0.35788867,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af69bb18-1e19-43c1-a502-6804521db6ad.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:55+00:00"
+ "updatedAt": "2021-07-18T06:53:55+00:00",
+ "coverFileName": "821cc6e5-85c5-4d10-9b09-61effb9cb121.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "42d03ff3-cadd-4277-af09-1c8e94835b44.jpg"
   },
   {
    "id": "6d8aaf4b-a83f-4dfd-93a9-27398d28d587",
@@ -26,7 +27,8 @@
    "score": 0.5237284,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aed6e756-1fad-470f-97e0-e770951b825c.jpg"
   },
   {
    "id": "224bf55a-8fa7-4c28-84c4-92e7193852f3",
@@ -37,7 +39,8 @@
    "score": 0.5090816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9bce743-f576-4095-af2c-fe2e528c64c0.jpg"
   },
   {
    "id": "6d3fb218-90bf-455f-ae85-114c5a69e231",
@@ -49,18 +52,20 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6ba05c89-2a6d-4ba9-9443-6bbf257e5543.jpg"
   },
   {
    "id": "e3be2444-688b-41cc-9f7f-250a969f2cb2",
    "title": {
-    "en": "37°C Spirits"
+    "en": "37\u00b0C Spirits"
    },
    "contentRating": "safe",
    "score": 0.4878323,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4e48601-e510-4b60-9824-66d4a2c2ba09.png"
   },
   {
    "id": "76073e26-1b34-42cd-8161-2fdba3f7138a",
@@ -71,7 +76,8 @@
    "score": 0.48073277,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f472539d-1d39-4176-b2fa-b4d5e5dd15d7.jpg"
   },
   {
    "id": "309c3b37-afbc-4201-9e64-1fd16cbd2a68",
@@ -82,7 +88,8 @@
    "score": 0.47981483,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8569ff2b-8b99-4333-87a3-ccaee73bddb4.jpg"
   },
   {
    "id": "fdc73b07-5d17-4c38-ba7b-7731cece56f7",
@@ -93,7 +100,8 @@
    "score": 0.47860965,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ad4f689a-f5a7-4032-bbde-88347e8aa82d.jpg"
   },
   {
    "id": "e3fdd68f-4441-431c-932e-f5e3cb7898bc",
@@ -104,7 +112,8 @@
    "score": 0.47826338,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a544c360-1bde-4fa7-bfa8-325203b62e3b.jpg"
   },
   {
    "id": "b02f2456-14ac-4ff4-83f1-f4e79f8331a7",
@@ -116,18 +125,20 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4a7b35c7-159e-46c2-9bca-58bebb8b940e.jpg"
   },
   {
    "id": "9dc8d953-35d2-4e29-85fa-938d7531c81a",
    "title": {
-    "en": "Caster \u0026 Mild"
+    "en": "Caster & Mild"
    },
    "contentRating": "safe",
    "score": 0.47371683,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5baab566-c18d-492a-89e2-f17decc64a6b.jpg"
   },
   {
    "id": "7be32bcb-6305-4850-81a5-4b2a76de8156",
@@ -139,8 +150,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "e31c22fd-db00-465a-b15a-c623e3c11e65.png"
   }
  ],
- "updatedAt": "2021-07-18T06:41:09+00:00"
+ "updatedAt": "2021-07-18T06:41:09+00:00",
+ "coverFileName": "1823652e-5d9c-4d8f-80c8-08154fca4d13.jpg"
 }

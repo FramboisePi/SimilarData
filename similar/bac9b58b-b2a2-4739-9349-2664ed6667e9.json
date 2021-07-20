@@ -1,7 +1,7 @@
 {
  "id": "bac9b58b-b2a2-4739-9349-2664ed6667e9",
  "title": {
-  "en": "BokuAka No Kazoku – Haikyuu!! dj"
+  "en": "BokuAka No Kazoku \u2013 Haikyuu!! dj"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4600733,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "aa78c761-b57f-4a5a-a2d2-01e1d4c1341e.jpg"
   },
   {
    "id": "88b279cd-2561-410f-889f-67280c4093c7",
@@ -25,7 +26,8 @@
    "score": 0.4297515,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "4704f7ce-edc2-4241-a7fc-05daff2067c2.jpg"
   },
   {
    "id": "e7368ec2-2a06-41bd-af8c-24956c99bdf6",
@@ -37,7 +39,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "4e1eb2ba-d055-4cf8-b6f2-b97f52e7739a.png"
   },
   {
    "id": "b59b9d25-b947-4e2b-b0c6-7d7aeb2beaa6",
@@ -48,7 +51,8 @@
    "score": 0.4,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "9a7dd7b6-c3c0-4bbb-9198-8393ab6b5825.png"
   },
   {
    "id": "af1f923a-ae57-4989-bd33-bd51976288eb",
@@ -60,7 +64,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "d7823e2c-561c-44f3-90ef-25d29c97f1b0.jpg"
   },
   {
    "id": "d6b7b61d-18f7-48cb-a40d-c586025590c1",
@@ -73,7 +78,8 @@
     "tr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "598e4f77-15dd-463a-85fa-a17af60014cf.jpg"
   },
   {
    "id": "e7dc705f-a916-4c98-a7d9-23a8891faffb",
@@ -86,7 +92,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "d8017e5d-16c7-401a-9577-9668b2cbda51.jpg"
   },
   {
    "id": "31eb0c0c-05e1-4507-9778-4e0873289c07",
@@ -98,7 +105,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "2e7a3954-49b6-469a-8e76-120e119d71fd.png"
   },
   {
    "id": "ee8435ff-2a24-4a3d-ab60-3f87722c16eb",
@@ -109,7 +117,8 @@
    "score": 0.38333333,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "f325ced0-b4fd-426f-800d-718983c473b4.jpg"
   },
   {
    "id": "72b01556-4d7f-4f78-bb6b-3f22952ce742",
@@ -121,7 +130,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "efee2c8b-05b8-48fc-8892-e1641188bc95.jpg"
   },
   {
    "id": "01a593de-3451-482a-b6b4-e6f1f3bfbb4f",
@@ -132,7 +142,8 @@
    "score": 0.38333333,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "01542017-b21e-428a-aefd-11bd7f610fc0.jpg"
   },
   {
    "id": "b37bef67-d2f5-4e79-8e7d-5ad92cde8007",
@@ -143,8 +154,10 @@
    "score": 0.38333333,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "b86f90c0-73b1-4aec-aa2d-0a9bcd046180.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:10+00:00"
+ "updatedAt": "2021-07-18T06:59:10+00:00",
+ "coverFileName": "a097a321-fd18-4ecc-8686-efac9a4c69eb.jpg"
 }

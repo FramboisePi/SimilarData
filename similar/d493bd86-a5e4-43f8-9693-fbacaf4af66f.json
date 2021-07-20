@@ -8,14 +8,15 @@
   {
    "id": "07382196-5d12-4b4f-93d9-50c521f65a7e",
    "title": {
-    "en": "Blue Dragon - Ral Ω Grado"
+    "en": "Blue Dragon - Ral \u03a9 Grado"
    },
    "contentRating": "suggestive",
    "score": 0.88392735,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "36b31606-40dc-430a-9d27-db4ba316c5ad.jpg"
   },
   {
    "id": "4d016c8d-5b4a-4a62-82a9-7ff4f86156d3",
@@ -26,7 +27,8 @@
    "score": 0.31382528,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b2b943d-b0a2-4e1d-9012-4e020ba967d1.jpg"
   },
   {
    "id": "1d44fa52-e344-42bd-9182-7b5887e1fe2c",
@@ -41,19 +43,21 @@
     "ru",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2acc31fb-86b1-4a9c-be08-e04f70473f50.jpg"
   },
   {
    "id": "032c989c-1051-4891-bf91-05de7e54b360",
    "title": {
-    "en": "DNA²"
+    "en": "DNA\u00b2"
    },
    "contentRating": "suggestive",
    "score": 0.30186918,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9144e9f2-2521-4b58-bd61-0f4afe1b282a.jpg"
   },
   {
    "id": "315b6376-5dc2-4270-8999-01755d61fd66",
@@ -64,18 +68,20 @@
    "score": 0.30186918,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e21de0f6-8c40-4fb3-b9d2-6d463402dd9d.jpg"
   },
   {
    "id": "b7ea6dc4-b02d-46e2-be6e-aae1aff50898",
    "title": {
-    "en": "Renai☆SLG"
+    "en": "Renai\u2606SLG"
    },
    "contentRating": "suggestive",
    "score": 0.284605,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c4519fa-583e-45d8-88c9-08ec65e14ff3.jpg"
   },
   {
    "id": "97062874-d184-4532-ac52-b1e01b4d6dfd",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "3924e91e-f51a-43e4-b220-fdf67b83031b.jpg"
   },
   {
    "id": "04a2b91d-1aa8-4db6-85a7-6bbc99919670",
@@ -100,7 +107,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "11e55ffd-9982-4515-a1e9-8a5b139e1cfa.jpg"
   },
   {
    "id": "bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc",
@@ -121,7 +129,8 @@
     "pl",
     "ru",
     "vi"
-   ]
+   ],
+   "coverFileName": "eabf2856-c158-4af9-9218-999bd07eedc5.jpg"
   },
   {
    "id": "d0d8cb68-5b53-47ab-92ce-d53e5bd44148",
@@ -132,7 +141,8 @@
    "score": 0.27419552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5a51a7d-5933-4566-9b3c-caa2d20c8385.jpg"
   },
   {
    "id": "dbfb0976-c8d6-4ab1-a2a9-001542b04c29",
@@ -143,7 +153,8 @@
    "score": 0.27,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d50a6efa-09f2-4a63-98b9-609a878fa593.png"
   },
   {
    "id": "e9f40868-13af-4984-bb97-3e16a29807cd",
@@ -155,8 +166,10 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "3b546057-007c-4890-b671-3b3025a4e6c1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:50+00:00"
+ "updatedAt": "2021-07-18T07:03:50+00:00",
+ "coverFileName": "5797c805-7fc6-44f8-8e9d-d45a1a1ca75f.jpg"
 }

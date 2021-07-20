@@ -1,7 +1,7 @@
 {
  "id": "b2c2e81d-1096-4c69-a3c5-68e67d7156fc",
  "title": {
-  "en": "Togainu no Chi – Babelist"
+  "en": "Togainu no Chi \u2013 Babelist"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "7e5d925b-36f2-42fe-b027-7ff7835feffe.jpg"
   },
   {
    "id": "7f698377-e110-4860-807b-340f2e2f7d1e",
@@ -27,29 +28,32 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "bb03421b-dec9-44a3-bb35-c9b989b9ab4d.jpg"
   },
   {
    "id": "d4f3f65e-4b71-4228-b613-48bee18c65b6",
    "title": {
-    "en": "Togainu no Chi – Acid Color"
+    "en": "Togainu no Chi \u2013 Acid Color"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "3f878da1-5df0-4f20-9b23-23ddda108e92.jpg"
   },
   {
    "id": "68cb28da-ea56-458c-9b34-b39cfde2b974",
    "title": {
-    "en": "Lamento – Magnolia"
+    "en": "Lamento \u2013 Magnolia"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "97a6c9cc-e3fd-4d1f-86ff-9bb1657c9b2d.png"
   },
   {
    "id": "b31b5a81-3c8c-4c5f-8104-05299656c946",
@@ -61,7 +65,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f933516b-93b6-4b0a-a2c4-1ebfd7e692df.jpg"
   },
   {
    "id": "10e6e1b5-7b9f-4a46-af9d-ca2bdada4014",
@@ -73,29 +78,32 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "93dd0fb3-5089-4547-a5f6-2f1a6bac98a5.png"
   },
   {
    "id": "44fb9289-7e48-4c32-9b71-4cf0fef775b4",
    "title": {
-    "en": "Lamento – Flawed"
+    "en": "Lamento \u2013 Flawed"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "5eac7aac-fd5e-4751-a234-e1d5fcec4955.png"
   },
   {
    "id": "d2b92655-768f-48a0-a974-f31f5b4df156",
    "title": {
-    "en": "Togainu no Chi – Blip Noise"
+    "en": "Togainu no Chi \u2013 Blip Noise"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "250ec3a3-b7d8-4518-a5fd-31e7ee3ba4f1.jpg"
   },
   {
    "id": "6c8de433-54d7-4eaf-92d1-f2186464665b",
@@ -106,41 +114,46 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "3a6bd811-d8a1-43af-ad8b-37b21f5d15df.jpg"
   },
   {
    "id": "53adbd7f-a28b-40e9-b68e-193f5d10225b",
    "title": {
-    "en": "Touken Ranbu – Koi te Kurushii"
+    "en": "Touken Ranbu \u2013 Koi te Kurushii"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "5f25e8c6-8ade-4a3e-a497-cef64fa302db.png"
   },
   {
    "id": "25357fc2-9f57-4e7d-8332-e038ee7c4ec4",
    "title": {
-    "en": "Lamento – My Wish"
+    "en": "Lamento \u2013 My Wish"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "09d13da3-62df-454d-9c8d-695fd03e89be.jpg"
   },
   {
    "id": "b62e7568-ebab-4441-b5cf-25c22754015d",
    "title": {
-    "en": "Lamento – Scraps"
+    "en": "Lamento \u2013 Scraps"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "4b850f35-9c68-41c1-bff2-2b771680761e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:39+00:00"
+ "updatedAt": "2021-07-18T06:57:39+00:00",
+ "coverFileName": "1ad50d2b-5149-42ed-8d27-a1c308a9c47e.png"
 }

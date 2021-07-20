@@ -18,7 +18,8 @@
     "id",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "8b8d1416-13e0-45e2-a500-0bdd0dcae01d.jpg"
   },
   {
    "id": "0f5167d2-befc-4385-96ae-499b52c59d50",
@@ -29,7 +30,8 @@
    "score": 0.40803707,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7e3e85e0-9759-48d2-9067-50b8d0b843e6.jpg"
   },
   {
    "id": "0eeea586-b7db-4bbf-893e-c84f52050d2a",
@@ -40,7 +42,8 @@
    "score": 0.39782923,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4378c519-9ad4-499e-a5c2-49d3f61556a5.jpg"
   },
   {
    "id": "c558fd54-8352-4f83-a0fb-2ca83967b91a",
@@ -54,7 +57,8 @@
     "th",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f5e4444f-0a7c-418a-8483-fcffd917f729.jpg"
   },
   {
    "id": "8e67e13e-fdeb-44f5-8ecb-c4609df6b02c",
@@ -68,12 +72,13 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5eb40d31-f81e-463d-a046-570109496794.jpg"
   },
   {
    "id": "f5912053-d5aa-406b-8b69-74c88cc6cd5b",
    "title": {
-    "en": "Escha \u0026 Logy no Atelier - Tasogare no Sora no Renkinjutsushi"
+    "en": "Escha & Logy no Atelier - Tasogare no Sora no Renkinjutsushi"
    },
    "contentRating": "safe",
    "score": 0.3545932,
@@ -81,7 +86,8 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "0244170b-24a0-4b13-b348-243200e0e513.jpg"
   },
   {
    "id": "dcd8a042-eaab-4692-952b-5c9e178f7ee7",
@@ -92,7 +98,8 @@
    "score": 0.35123378,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2f4de9b7-0a95-4e8c-89a1-8bb2ee8630f4.jpg"
   },
   {
    "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
@@ -103,7 +110,8 @@
    "score": 0.34718254,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ced5536b-92ac-4954-8c30-5f0ba53f1590.jpg"
   },
   {
    "id": "72b7a112-9f87-4b78-a19f-90a2748ccd80",
@@ -116,7 +124,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f3f788c7-3629-4cf7-91b3-49af8b7afd1e.jpg"
   },
   {
    "id": "30196491-8fc2-4961-8886-a58f898b1b3e",
@@ -135,7 +144,8 @@
     "ru",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1704e954-e4d2-469c-857a-c4a71442c3a7.jpg"
   },
   {
    "id": "fbf65a11-cf54-4ad7-9b09-4323decf8e83",
@@ -147,7 +157,8 @@
    "languages": [
     "en",
     "bn"
-   ]
+   ],
+   "coverFileName": "5c35dda8-8052-43eb-a37d-f4b97853e72b.jpg"
   },
   {
    "id": "de900fd3-c94c-4148-bbcb-ca56eaeb57a4",
@@ -160,8 +171,10 @@
     "en",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "540fd5d1-e25e-4647-bbfc-0e51aae15503.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:37+00:00"
+ "updatedAt": "2021-07-18T06:30:37+00:00",
+ "coverFileName": "507426dd-57a7-45e6-b19b-c73641b9f27b.jpg"
 }

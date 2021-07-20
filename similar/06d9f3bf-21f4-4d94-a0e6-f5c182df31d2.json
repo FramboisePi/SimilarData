@@ -1,7 +1,7 @@
 {
  "id": "06d9f3bf-21f4-4d94-a0e6-f5c182df31d2",
  "title": {
-  "en": "AR∀GO - London Shikei Tokushu Hanzai Sousakan"
+  "en": "AR\u2200GO - London Shikei Tokushu Hanzai Sousakan"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "ru",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "af3bb698-12ec-4c2c-a3f5-fa2561fa1b30.jpg"
   },
   {
    "id": "e18f4c83-6b12-486c-ab59-b48fdf06ad2d",
@@ -28,7 +29,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f33cc15-521d-413f-9711-0f5a37f2e353.png"
   },
   {
    "id": "9a8421be-9420-44f6-b8db-accd11107a12",
@@ -39,7 +41,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a173cd81-11bc-4771-a07f-00bc7a84aeef.jpg"
   },
   {
    "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
@@ -50,7 +53,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3a4c0ec-8535-4c81-873b-f118c9b5e17d.jpg"
   },
   {
    "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
@@ -61,7 +65,8 @@
    "score": 0.40225878,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf1b6ae3-d913-45ee-9d74-906c086d2330.jpg"
   },
   {
    "id": "21f5800a-13b8-44f1-8e50-3cff94f1397d",
@@ -75,7 +80,8 @@
     "en",
     "ar",
     "bg"
-   ]
+   ],
+   "coverFileName": "8e0bdafd-7dcb-413e-8e8c-1043c8ea997b.jpg"
   },
   {
    "id": "ab5817d1-543e-477f-99c0-2f7f1832261a",
@@ -88,7 +94,8 @@
     "es-la",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "9b703ebb-9d31-467f-b4ff-af26077d838a.jpg"
   },
   {
    "id": "ad9e72fd-b8c7-4b07-a452-57bdcf7e12d0",
@@ -101,7 +108,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6991192b-9476-4059-8794-b2deea801ab0.jpg"
   },
   {
    "id": "138ba1fa-d79c-4635-baaa-1e05e931c588",
@@ -112,7 +120,8 @@
    "score": 0.38031942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "878c68cc-95d6-4e73-82ad-66fe0d58513b.jpg"
   },
   {
    "id": "c131d5ac-a9e0-4dd3-8185-10ced83bfe5f",
@@ -123,7 +132,8 @@
    "score": 0.37936562,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "70b41964-f7df-4fef-993a-a8bf50d081fd.png"
   },
   {
    "id": "78dc6925-f387-41f0-9f22-00a52f8fc37f",
@@ -134,7 +144,8 @@
    "score": 0.37702793,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f7cd2557-ec74-449a-b736-b89f6c5856e5.jpg"
   },
   {
    "id": "81d4736b-00e5-44cf-a25e-964748f591ea",
@@ -146,8 +157,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "7d0be42c-c2f0-480b-8cee-326427090b8a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:44+00:00"
+ "updatedAt": "2021-07-18T06:25:44+00:00",
+ "coverFileName": "1fba4b17-1fc9-4923-9041-a4c9c1916a78.jpg"
 }

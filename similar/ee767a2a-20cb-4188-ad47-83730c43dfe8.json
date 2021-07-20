@@ -1,7 +1,7 @@
 {
  "id": "ee767a2a-20cb-4188-ad47-83730c43dfe8",
  "title": {
-  "en": "Death Note \u0026 Fate/stay night - DEATH FATE (Doujinshi)"
+  "en": "Death Note & Fate/stay night - DEATH FATE (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "ar",
     "bg"
-   ]
+   ],
+   "coverFileName": "8e0bdafd-7dcb-413e-8e8c-1043c8ea997b.jpg"
   },
   {
    "id": "85b6f4e4-180b-43b0-a0ec-9a9de401aed0",
@@ -28,7 +29,8 @@
    "score": 0.4666628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5ded049e-7394-44a9-9ed7-72fb62f0dfd6.jpg"
   },
   {
    "id": "75ee72ab-c6bf-4b87-badd-de839156934c",
@@ -42,7 +44,8 @@
     "tr",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "df23a8c8-1c68-40ed-914c-16597b5fe790.jpg"
   },
   {
    "id": "d52d50c8-698d-4fcb-9e92-473225106dc1",
@@ -54,7 +57,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "86fd2715-835d-4fe2-8838-3fe286b0a22a.jpg"
   },
   {
    "id": "a06c821e-0424-4fa7-ba63-968c5084caef",
@@ -65,7 +69,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b2ed37f-d6d3-4940-bdce-e56f5a8b0ad2.jpg"
   },
   {
    "id": "05ccee57-de43-4e77-8381-253ff81f6cd5",
@@ -80,7 +85,8 @@
     "ar",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "d011a119-2c6a-4028-a540-0a3292ac9e7f.jpg"
   },
   {
    "id": "700fd009-1598-467a-83c1-9a95b5341fc6",
@@ -91,7 +97,8 @@
    "score": 0.37691867,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52c577c2-7686-4000-9737-2b4450ea5304.jpg"
   },
   {
    "id": "4df53e93-a5c8-4fb5-8b2a-5c22b96979df",
@@ -103,7 +110,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6531a9b6-84eb-47d7-a6eb-d6761ef1e3bd.jpg"
   },
   {
    "id": "5d668a35-79b0-4e1e-aade-d6ac52418f2d",
@@ -119,7 +127,8 @@
     "pt-br",
     "hu",
     "it"
-   ]
+   ],
+   "coverFileName": "cf366582-94c6-4e2c-ac5c-bbe0e987b6da.jpg"
   },
   {
    "id": "5f3d8a01-3e20-4925-a8cc-79c891a0b687",
@@ -130,7 +139,8 @@
    "score": 0.35111833,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2724e01e-bd3d-4844-a87a-8e71d3de3cc9.jpg"
   },
   {
    "id": "044990d2-4b23-47bd-a25d-dce9c141cd34",
@@ -146,7 +156,8 @@
     "fr",
     "tr",
     "de"
-   ]
+   ],
+   "coverFileName": "55c8fa32-c672-4903-b234-1090f5d0176b.png"
   },
   {
    "id": "8eb0ecd1-01af-4ece-aea4-f893732a8183",
@@ -157,8 +168,10 @@
    "score": 0.34640142,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cadee192-f3d9-4eb9-8552-efe929087d99.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:33+00:00"
+ "updatedAt": "2021-07-18T07:08:33+00:00",
+ "coverFileName": "d7d21972-3231-4e27-9f20-b712185da63a.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "e147cd93-f0c4-4f40-926a-2a509f6453ba.png"
   },
   {
    "id": "cacc44b3-f4d5-4b4a-808a-894477083b58",
@@ -26,7 +27,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da02a0c9-7d4f-4ba6-938b-ae84d3a545ef.jpg"
   },
   {
    "id": "7df4140e-d400-4238-ba79-ee603cfbedf8",
@@ -37,7 +39,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac8b06f9-84e9-4fa3-958b-0185f089ec77.jpg"
   },
   {
    "id": "9df8ab0e-d686-4822-8b4f-36624665a2b4",
@@ -48,7 +51,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dca56a47-659e-4964-ae7b-f85f890fc601.png"
   },
   {
    "id": "e8bed302-314c-4e22-84ab-2eb5876121d5",
@@ -59,7 +63,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10357c4a-bcfb-467b-957b-ec70df24b430.png"
   },
   {
    "id": "2f34a298-8aea-42dd-b1cd-b98753f5e613",
@@ -70,7 +75,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7f42b283-e8eb-4d16-8cea-6bc8a5ea2728.png"
   },
   {
    "id": "88dc8dd3-50f4-4c08-bc0d-cbd7c1a12331",
@@ -82,19 +88,21 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "dfa6006a-ef89-47bf-bee9-2d85fff6d056.jpg"
   },
   {
    "id": "dff172cd-ce02-41b0-9f4c-810ee22154ab",
    "title": {
-    "en": "That's Puberty For You ❤"
+    "en": "That's Puberty For You \u2764"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7981b7d7-50d0-4140-aab9-a284c0932d83.png"
   },
   {
    "id": "52e3f3a6-bba8-4b15-b300-db701f1016e5",
@@ -105,7 +113,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "17750451-cdd5-4bb9-9065-e31ed501a2c4.png"
   },
   {
    "id": "7bafb67f-d006-42c0-96e1-a4cd42436580",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ed2d743e-7ab0-4679-83d9-714ad5d69ec1.jpg"
   },
   {
    "id": "50a8ea91-e60f-4238-b54a-b3f312f3638a",
@@ -129,7 +139,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "ba8d6bc8-0027-404b-8722-66433b8ddb3f.jpg"
   },
   {
    "id": "5f1f4baa-ee44-4897-b8bb-3e3d26bdc629",
@@ -141,8 +152,10 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "4a1c77ec-4e2e-4676-bbc3-aef31a7d30a4.png"
   }
  ],
- "updatedAt": "2021-07-18T07:03:43+00:00"
+ "updatedAt": "2021-07-18T07:03:43+00:00",
+ "coverFileName": "c2bd4449-beba-4b19-a9fd-284cdb255c80.jpg"
 }

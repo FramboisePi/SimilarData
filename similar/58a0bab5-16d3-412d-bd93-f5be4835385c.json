@@ -8,7 +8,7 @@
   {
    "id": "188e4f34-a80c-4a91-b54e-69572e8ed4d5",
    "title": {
-    "en": "Saint Cecilia \u0026 Pastor Lawrence"
+    "en": "Saint Cecilia & Pastor Lawrence"
    },
    "contentRating": "safe",
    "score": 0.34077206,
@@ -18,7 +18,8 @@
     "en",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "55fb4443-2b04-4872-9cb5-7ddc83aa2ca4.jpg"
   },
   {
    "id": "0a224e89-8796-4fa2-8281-28f3e8cc9fc7",
@@ -30,7 +31,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "62525381-042b-402d-b48d-4f6151e856e6.jpg"
   },
   {
    "id": "b4320039-9b91-44a7-a60d-c7ba8c0684e7",
@@ -44,7 +46,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ed566a45-c9f2-4f7e-84f8-ae7fc328ab15.jpg"
   },
   {
    "id": "8aabeee6-e3ac-4f7e-8d7e-9898c7a1f48f",
@@ -55,7 +58,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bb87bfcd-bd8a-4a99-9a99-5f08b48f2dff.jpg"
   },
   {
    "id": "2e75b854-6a72-412e-9668-5bd2bc0791ef",
@@ -68,7 +72,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "840fadef-87fb-4ca5-9d1a-2177ed6368aa.jpg"
   },
   {
    "id": "3a0b5925-41ca-46c4-8aaf-121591b869b2",
@@ -80,7 +85,8 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "fc66de9e-3f31-4d73-aa45-800e54b72541.jpg"
   },
   {
    "id": "bc1e8a27-08e3-4312-a160-0cffac31af9d",
@@ -94,7 +100,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5d7389d4-57cc-44a7-8102-7cc0bed9cbfc.jpg"
   },
   {
    "id": "4b23eb66-11de-438a-ba08-10675dd084e8",
@@ -105,7 +112,8 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef05f3ef-d0cb-449e-b0a5-985220224d3c.jpg"
   },
   {
    "id": "7d11b433-95cc-41e0-98a2-9e44bcc94c6c",
@@ -117,7 +125,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "316e46b2-2f40-44b3-a183-762bce7b1926.jpg"
   },
   {
    "id": "b26eb029-0165-4959-8c74-2a76b39b97db",
@@ -132,7 +141,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9d4e31d8-e0bc-4b21-b77e-a32ed97c8ca0.jpg"
   },
   {
    "id": "28c3b97b-6d2f-4a6c-9f97-a826f0b16f05",
@@ -145,7 +155,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "f74bb2d5-a3a4-4e14-8a59-3de25a669342.jpg"
   },
   {
    "id": "a77ebe92-b91c-4d64-a4c6-bc7e2b1b9073",
@@ -156,8 +167,10 @@
    "score": 0.3066792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8f60657e-38cd-4461-ab71-b65e4de1172a.png"
   }
  ],
- "updatedAt": "2021-07-18T06:40:57+00:00"
+ "updatedAt": "2021-07-18T06:40:57+00:00",
+ "coverFileName": "f103b5b2-65e8-4313-8179-30263d6feda8.jpg"
 }

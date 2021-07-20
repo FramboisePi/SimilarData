@@ -1,7 +1,7 @@
 {
  "id": "459e3aa9-8f2c-47f1-8f26-da8f8d29b912",
  "title": {
-  "en": "Boku no Hero Academia - Étranger no koibito (Doujinshi)"
+  "en": "Boku no Hero Academia - \u00c9tranger no koibito (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.43027857,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb3712b5-2b41-404e-b07f-8001bc2f351f.jpg"
   },
   {
    "id": "d20045f8-8487-4cab-9fb8-5dbb1d0d6159",
@@ -25,7 +26,8 @@
    "score": 0.42858246,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c80ed11e-d99d-490c-9793-88891b1759a9.png"
   },
   {
    "id": "e0806724-114d-4be4-9247-dd05733bf738",
@@ -36,7 +38,8 @@
    "score": 0.40278637,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40808f28-21c9-4fd9-92c4-46fe6cb53498.png"
   },
   {
    "id": "61c2b384-4262-4581-81ab-700d76c6e33e",
@@ -47,7 +50,8 @@
    "score": 0.39851657,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "86ca59b9-5228-45ae-bd8b-6a5659ea86b9.jpg"
   },
   {
    "id": "77eb609f-d789-46c3-a6a9-81ca8c15f945",
@@ -58,7 +62,8 @@
    "score": 0.39619875,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dec837a8-51dc-431a-9bb7-343647f0511c.jpg"
   },
   {
    "id": "b5263837-102e-4335-a722-1a3a4e85888a",
@@ -69,7 +74,8 @@
    "score": 0.39595807,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c7c1436-3f4c-447e-babb-933ae8ce27e2.jpg"
   },
   {
    "id": "31eb0c0c-05e1-4507-9778-4e0873289c07",
@@ -81,7 +87,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "2e7a3954-49b6-469a-8e76-120e119d71fd.png"
   },
   {
    "id": "d4db6c60-c30f-411c-8a99-6ae99bc19b4a",
@@ -92,7 +99,8 @@
    "score": 0.39361402,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "116021c1-7699-490a-a274-46864a7faf22.jpg"
   },
   {
    "id": "a8545b00-0829-4977-ac3b-3c4004fbc454",
@@ -103,7 +111,8 @@
    "score": 0.39168224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "612c10b6-1867-48b2-a34d-df21efc3885e.png"
   },
   {
    "id": "a445c029-3f79-475a-80c8-b18a8d4185a6",
@@ -114,7 +123,8 @@
    "score": 0.38679767,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7fa62802-0f52-4fc7-8d73-d9e58f60b7a3.jpg"
   },
   {
    "id": "38109f1a-6b8c-49e9-a46f-8149967f4a3e",
@@ -128,7 +138,8 @@
     "es-la",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "c08fc2ad-0dd6-4955-bc32-b818ece00083.jpg"
   },
   {
    "id": "0ca34e42-fa1b-40ff-8c2c-b205c7d4c15f",
@@ -141,8 +152,10 @@
     "pt-br",
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "2112a674-4e34-4f39-935b-933118214be1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:26+00:00"
+ "updatedAt": "2021-07-18T06:37:26+00:00",
+ "coverFileName": "30427b8b-c8cf-4d56-a150-c28f3d64d999.jpg"
 }

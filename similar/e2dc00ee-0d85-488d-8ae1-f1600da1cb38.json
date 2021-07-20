@@ -14,7 +14,8 @@
    "score": 0.9666906,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee4d1b95-5ea5-4bc4-b45c-0addb109f3cd.jpg"
   },
   {
    "id": "2c0aa7f5-dc20-411f-8a47-1bf6d61a9b43",
@@ -28,7 +29,8 @@
     "pt-br",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "343fa03e-a537-41c2-9a95-9bab78c752a4.jpg"
   },
   {
    "id": "fcd036fc-54c0-4f33-bc53-1725a7c4c9cd",
@@ -42,7 +44,8 @@
     "fr",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "54aad75d-6cee-470c-81d9-dfb4e775acb2.jpg"
   },
   {
    "id": "8a116630-c02b-4571-ad5a-075782ca1906",
@@ -53,7 +56,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a8923bcf-6917-430f-9589-6109d57ff514.jpg"
   },
   {
    "id": "aeb13b69-da7b-4b28-b966-131111d20e75",
@@ -64,7 +68,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f24932f3-dfba-46f0-9efe-c684a20b259a.jpg"
   },
   {
    "id": "7be89c09-85d6-48be-918c-9810addc7d35",
@@ -75,7 +80,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8b6ef99-61e8-4f1f-9385-7bfa3e8de397.jpg"
   },
   {
    "id": "6d19c175-2d81-4edc-9bfb-9c0b673d46f5",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9e2b2d4d-c542-4e38-8d8f-64e46933e9a8.jpg"
   },
   {
    "id": "6df9969e-317f-46ff-86a9-6ff8664f568c",
@@ -98,7 +105,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa6c0373-3a9f-46ba-b7ff-5d1636a64ac6.jpg"
   },
   {
    "id": "51a1d3bf-2720-46c5-87a7-ac688c462e20",
@@ -109,7 +117,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f770260d-f696-4836-aa03-596620a4d1c2.png"
   },
   {
    "id": "97ace6d3-cc83-4e9b-817c-d7da3c46eee5",
@@ -121,7 +130,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d037bbc8-0900-4df1-9294-659cc3c2516f.jpg"
   },
   {
    "id": "71d9dccd-4f16-4ce6-beac-dc084706c735",
@@ -133,12 +143,13 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "92207fae-b1e6-4b45-b230-4d00ef4450b6.jpg"
   },
   {
    "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
    "title": {
-    "en": "Lucky☆Star"
+    "en": "Lucky\u2606Star"
    },
    "contentRating": "safe",
    "score": 0.4490731,
@@ -146,8 +157,10 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "fa5cc460-3d33-4085-b8a1-cbc8eb3f434c.png"
   }
  ],
- "updatedAt": "2021-07-18T07:06:28+00:00"
+ "updatedAt": "2021-07-18T07:06:28+00:00",
+ "coverFileName": "f817918b-ba53-4ed1-9fd1-d436091b2499.jpg"
 }

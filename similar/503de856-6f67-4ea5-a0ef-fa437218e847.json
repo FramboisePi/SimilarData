@@ -15,7 +15,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "4a5579ee-a591-414c-aacc-d388becc9761.jpg"
   },
   {
    "id": "b6ad943b-c055-4fb9-957c-3c8eafb3d64b",
@@ -26,7 +27,8 @@
    "score": 0.48623994,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0a86bb57-1a86-47c0-99b0-cc5023d55e6a.jpg"
   },
   {
    "id": "a14aad2b-76f5-4b0f-b815-59aecaba5aa7",
@@ -37,7 +39,8 @@
    "score": 0.47905996,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f0c7304e-58a6-46cf-b6f5-e22f3395dd9d.jpg"
   },
   {
    "id": "7e0187ba-a62c-4c73-a4bf-9225dec448b5",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "10b880f0-ac1e-4961-b662-7e2c229a751c.jpg"
   },
   {
    "id": "895f6273-ceae-409d-a8a1-042c92c72a53",
@@ -63,19 +67,21 @@
     "th",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "dabfbd0d-9273-4f85-a66f-ea1b67f1ca8f.png"
   },
   {
    "id": "9a9e1b5f-88de-47dc-90e7-9f4f6bdfb804",
    "title": {
-    "en": "The Hero Suddenly Proposed to Me, but…"
+    "en": "The Hero Suddenly Proposed to Me, but\u2026"
    },
    "contentRating": "safe",
    "score": 0.42980757,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "7b4a2f02-dcab-46d4-9739-e1569c083f8c.jpg"
   },
   {
    "id": "175ec735-d0f9-425b-ad4a-618a4263091a",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "04638de4-e850-468a-aae1-739b2b9f79e3.png"
   },
   {
    "id": "086a54cb-7622-49fc-970e-d1b9f0e5dced",
@@ -98,7 +105,8 @@
    "score": 0.42324844,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32e79031-9be8-467f-8a2c-23f309c777c3.jpg"
   },
   {
    "id": "722a45c0-5e55-40f2-929b-ff69b0989edb",
@@ -113,7 +121,8 @@
     "id",
     "tr",
     "ar"
-   ]
+   ],
+   "coverFileName": "42756364-56a5-43c2-bc46-9702984dd6bf.jpg"
   },
   {
    "id": "6dbc8581-3fc1-4734-8160-d09faa252ae8",
@@ -129,7 +138,8 @@
     "id",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "97715fba-cb07-4f5c-ab3f-ee6088fef0a2.jpg"
   },
   {
    "id": "6d06d6a7-243e-45a9-b3d4-4e09e6ff3274",
@@ -140,7 +150,8 @@
    "score": 0.4179056,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbc78e60-73df-4c7a-acb5-cc1efe7bd6b5.jpg"
   },
   {
    "id": "412ab8fe-eca9-47c9-8f5c-f6deb75622e9",
@@ -154,8 +165,10 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "dc6371af-bf39-410e-a508-35421c3aa97c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:23+00:00"
+ "updatedAt": "2021-07-18T06:39:23+00:00",
+ "coverFileName": "42072210-af98-4861-8e2b-198e8ff530d0.jpg"
 }

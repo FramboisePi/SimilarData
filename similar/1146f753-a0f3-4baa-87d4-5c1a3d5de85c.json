@@ -8,13 +8,14 @@
   {
    "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
    "title": {
-    "en": "Devil Survivor 2 —Show Your Free Will—"
+    "en": "Devil Survivor 2 \u2014Show Your Free Will\u2014"
    },
    "contentRating": "safe",
    "score": 0.4221866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1b07effd-8e31-435d-9d7f-9e12711cfa8d.jpg"
   },
   {
    "id": "25a38ff8-4cd4-4c7a-a20f-a85ee52bd0b4",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6f152fdd-db91-47ff-8d29-b3dfcbd06e7e.jpg"
   },
   {
    "id": "7e87b285-b6e3-4882-9c9e-22b4e8737a91",
@@ -37,7 +39,8 @@
    "score": 0.3908988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c39351a-cd56-4102-8e7a-d032608859b2.png"
   },
   {
    "id": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
@@ -54,7 +57,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "106a87ab-21ce-4d7b-980e-ecc03d0584bf.png"
   },
   {
    "id": "62940a51-3ae7-4909-adf9-5b4793d78566",
@@ -66,7 +70,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "356b97dd-6ea4-416c-8f87-15616592a908.jpg"
   },
   {
    "id": "4738c7aa-257f-48df-b06d-520f27b3ec9b",
@@ -82,7 +87,8 @@
     "ru",
     "vi",
     "hu"
-   ]
+   ],
+   "coverFileName": "17e2737f-70ce-4cfa-a731-aadb3028a62c.jpg"
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -100,7 +106,8 @@
     "tr",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0ade84a3-5efc-4def-8362-3226b5fe5614.jpg"
   },
   {
    "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
@@ -111,7 +118,8 @@
    "score": 0.36875847,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d19b5c16-25a8-474b-9487-bd1d3990ed24.jpg"
   },
   {
    "id": "98f854e5-583b-4afc-a586-796249a62d16",
@@ -124,7 +132,8 @@
     "ru",
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "f8bb12f8-dbd8-47b4-9af0-4aae706649b0.jpg"
   },
   {
    "id": "4bafceb5-c1b9-46f7-928d-3ff01b6627b4",
@@ -138,18 +147,20 @@
     "en",
     "it",
     "vi"
-   ]
+   ],
+   "coverFileName": "b1c4f395-b77b-40a1-82a1-94bc56adcac6.jpg"
   },
   {
    "id": "f579acdc-84ba-44da-a544-a1185a98ff13",
    "title": {
-    "en": "SPREE★KILLER"
+    "en": "SPREE\u2605KILLER"
    },
    "contentRating": "safe",
    "score": 0.36509454,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31dc458a-15e9-4f40-a4f7-34c4f0514ff5.jpg"
   },
   {
    "id": "ab01e0b7-b1ab-4bd3-9a90-bff4cfc3182a",
@@ -161,8 +172,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "20dbd420-f36b-4d52-84e4-530832c863a3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:41+00:00"
+ "updatedAt": "2021-07-18T06:27:41+00:00",
+ "coverFileName": "1ab1ff84-9f09-43ca-a394-ce7da6b399bb.jpg"
 }

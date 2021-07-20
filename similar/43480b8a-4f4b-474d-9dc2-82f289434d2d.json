@@ -14,7 +14,8 @@
    "score": 0.5100245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31f93a76-0005-4d5c-897c-75ded224dbcd.jpg"
   },
   {
    "id": "38e23b67-637b-4ebe-b4ac-cc41df4c7616",
@@ -25,7 +26,8 @@
    "score": 0.50280535,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0f32b6b5-ebfd-42b1-947a-33456a14f498.jpg"
   },
   {
    "id": "17559a18-9ce7-464e-aee1-10ba43c291b8",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6baeb17c-ada2-4974-98b8-65f61a3e4148.jpg"
   },
   {
    "id": "7ab60e60-685f-4671-b000-93a5ea7bcf48",
@@ -48,7 +51,8 @@
    "score": 0.49123392,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "003aa03f-d5d1-4b40-944d-b03ddb5419cd.jpg"
   },
   {
    "id": "13adf99c-bde5-406d-afa7-af6842be2102",
@@ -59,7 +63,8 @@
    "score": 0.48865446,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf9cf18c-802a-4e22-a468-9ea7b7b002f9.jpg"
   },
   {
    "id": "5d82f372-f640-4101-838b-03085eb95d67",
@@ -70,7 +75,8 @@
    "score": 0.485545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2f553098-e3b4-4e39-94ef-a3138cc4c260.jpg"
   },
   {
    "id": "a47add7a-d82e-43b8-b7d2-f82ce253f98a",
@@ -81,7 +87,8 @@
    "score": 0.48334807,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b03744d5-b9cd-47bd-8563-33804358921c.jpg"
   },
   {
    "id": "46e8b193-1d34-4a5a-b92e-336e9869f931",
@@ -93,7 +100,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a25917e6-5b3e-4cd4-82de-9e32fe1154f8.jpg"
   },
   {
    "id": "d9d0b800-6800-4acc-a14c-927e180226cb",
@@ -104,7 +112,8 @@
    "score": 0.4816964,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4890ab6-4c6a-4158-bd0d-e946c9e455c0.png"
   },
   {
    "id": "262d434d-e236-46b0-a097-ad6295677a95",
@@ -116,19 +125,21 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "bf884d7a-15da-47c4-bfb6-e6b3cf7ff7f0.jpg"
   },
   {
    "id": "c717361d-4a26-46f2-bdbd-306a70c15f46",
    "title": {
-    "en": "I ♥ HS"
+    "en": "I \u2665 HS"
    },
    "contentRating": "safe",
    "score": 0.4792591,
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "9951f7c4-fb78-4e70-ad75-b9872c6acc67.jpg"
   },
   {
    "id": "48be23bc-e162-493f-8823-2e78bb1e75bb",
@@ -139,8 +150,10 @@
    "score": 0.47827297,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71d73f2f-8a7c-42e1-b610-4b6262f32d82.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:01+00:00"
+ "updatedAt": "2021-07-18T06:37:01+00:00",
+ "coverFileName": "d716a6ed-b4d9-4061-b143-52c857a46035.png"
 }

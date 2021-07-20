@@ -8,14 +8,15 @@
   {
    "id": "70b7dcb2-6f86-4210-8db9-542a21f3a6b1",
    "title": {
-    "en": "Words \u0026 Kisses"
+    "en": "Words & Kisses"
    },
    "contentRating": "safe",
    "score": 0.38493475,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "8d8dd544-01ac-438c-a1fb-87ff1666a99a.jpg"
   },
   {
    "id": "3137769b-881c-49af-93df-89675e09f4a8",
@@ -26,7 +27,8 @@
    "score": 0.3381091,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d82f3ad6-908d-4387-b35e-7155205d7cad.jpg"
   },
   {
    "id": "a40ceaad-4a29-4512-b20f-f4ac04a4eab8",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a4ec147b-b96f-40c6-b255-5015a4b662e3.png"
   },
   {
    "id": "e2bd9896-dc6e-4da4-9e80-87e4389c3d52",
@@ -49,7 +52,8 @@
    "score": 0.33316886,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "701a10f2-10ab-423b-bbd4-a42b2b2acb58.jpg"
   },
   {
    "id": "17e3fd50-20b6-47a6-8770-15e7a5710275",
@@ -60,7 +64,8 @@
    "score": 0.32411158,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b355f074-4c5e-4b53-b851-8a69dd143d59.jpg"
   },
   {
    "id": "f9b3de2c-5398-4d51-a4f9-bbad25834c3c",
@@ -71,7 +76,8 @@
    "score": 0.31223398,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "41f34cc2-112f-435a-8ea7-28e5625bc27c.jpg"
   },
   {
    "id": "2eaf5694-96e6-465f-bde9-679ee763b588",
@@ -82,7 +88,8 @@
    "score": 0.31094107,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "64fd1788-65dd-47d1-925e-caee193b7fa7.jpg"
   },
   {
    "id": "b2f85f15-de64-46a8-91be-566c58f58534",
@@ -94,7 +101,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6a0364a9-4539-40ba-9c83-ba5718d61971.jpg"
   },
   {
    "id": "86fede91-53f8-4e59-b665-f0b8c1e529c7",
@@ -106,7 +114,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d4937de2-d86b-4a7f-8800-b9d891f4d0e6.jpg"
   },
   {
    "id": "1010c7ea-fbe3-421a-8f70-418c92e9597e",
@@ -119,7 +128,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "93ad433c-4b6b-42ef-b99b-cc73cea7e71c.jpg"
   },
   {
    "id": "9b72abeb-b054-4db2-a871-a016bc59090c",
@@ -132,19 +142,22 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ef08ec14-5127-4030-b94c-5a86d8632824.jpg"
   },
   {
    "id": "2dc02303-1644-4be2-88a5-62d59c505083",
    "title": {
-    "en": "Succuba \u0026 Siren"
+    "en": "Succuba & Siren"
    },
    "contentRating": "safe",
    "score": 0.31094107,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c8a16d1-9fc4-47ba-9dfa-e215a1123fe0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:32+00:00"
+ "updatedAt": "2021-07-18T07:04:32+00:00",
+ "coverFileName": "fd10d1a8-3ee8-44ee-957a-981ee187f6d2.jpg"
 }

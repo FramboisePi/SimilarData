@@ -18,7 +18,8 @@
     "hu",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d9467163-118e-437c-8d9b-894c0a329331.jpg"
   },
   {
    "id": "96004a43-779a-41b0-9404-c762276dfc55",
@@ -30,7 +31,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f950212a-7ba8-4ad1-9409-db93ad18241c.jpg"
   },
   {
    "id": "a05b5c8c-1095-467e-96ce-a228f66c855b",
@@ -45,7 +47,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "e27f95b3-2c3d-4a9c-96bd-7b6572b9d010.jpg"
   },
   {
    "id": "0ee3bc10-604b-4b06-98df-962978f74e21",
@@ -56,7 +59,8 @@
    "score": 0.4793548,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7cfad6e8-9603-48be-bcba-fadbfa926f42.jpg"
   },
   {
    "id": "ee0da2c1-02d7-40eb-9821-1833a4475bf3",
@@ -68,7 +72,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "e7344c44-942e-4f8c-b64f-166a125a13ab.jpg"
   },
   {
    "id": "f53a2a67-ae9a-4446-8ca3-7c2726417f4b",
@@ -79,18 +84,20 @@
    "score": 0.4713255,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4f49daf-87ef-4877-8304-d7e390b03361.jpg"
   },
   {
    "id": "c8bcb334-43df-42e2-ab47-3359a4ac1fc0",
    "title": {
-    "en": "I Can’t Sleep Alone"
+    "en": "I Can\u2019t Sleep Alone"
    },
    "contentRating": "safe",
    "score": 0.4575271,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dfda736d-8779-4f65-9748-56985e1336f9.jpg"
   },
   {
    "id": "d3c3e7fd-4456-42b4-86fc-166184832277",
@@ -104,7 +111,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "a8f29344-4bbe-48c8-a1d3-c0d957b0a80e.jpg"
   },
   {
    "id": "add8a78e-c432-4f8b-855f-3365db5e40f1",
@@ -118,7 +126,8 @@
     "en",
     "pl",
     "fa"
-   ]
+   ],
+   "coverFileName": "f04ad4b2-33f2-4351-af32-7b1a1c5cc9ca.png"
   },
   {
    "id": "e1a8bdd1-eea2-47cd-927e-0f7654c64c7c",
@@ -131,7 +140,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2e3a665e-0999-4473-8dfe-78bf30959b1e.jpg"
   },
   {
    "id": "7de3c04f-08dd-4695-a5bf-337ca6056827",
@@ -142,7 +152,8 @@
    "score": 0.4159638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0a15f94-f373-4410-a82f-563f02570dd7.jpg"
   },
   {
    "id": "7a667cec-4d09-4dae-9e14-31bae2f47f64",
@@ -153,8 +164,10 @@
    "score": 0.41054013,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a17f2d40-fd01-4c0c-8324-92902b26d2a1.png"
   }
  ],
- "updatedAt": "2021-07-18T06:26:08+00:00"
+ "updatedAt": "2021-07-18T06:26:08+00:00",
+ "coverFileName": "878943ab-0728-4dac-be8d-a1c5bb05d403.jpg"
 }

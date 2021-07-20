@@ -1,7 +1,7 @@
 {
  "id": "1e0e9da4-5f92-49b8-bda0-5415b1e2d701",
  "title": {
-  "en": "The God of the Land and Grain’s Mountain River Map"
+  "en": "The God of the Land and Grain\u2019s Mountain River Map"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4338006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7a7e520-9130-4c35-a437-58e20c2c90c3.jpg"
   },
   {
    "id": "c0ee660b-f9f2-45c3-8068-5123ff53f84a",
@@ -30,7 +31,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "8935db5b-1e6d-4e23-8ef4-ebb070fb45ec.jpg"
   },
   {
    "id": "435f67a8-5b42-43e1-bb60-afcb92cc55aa",
@@ -43,7 +45,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "5c98414f-4652-4640-a30c-4da1500f6dc6.jpg"
   },
   {
    "id": "b2897417-b354-4cc0-bae1-46d1756b237f",
@@ -54,7 +57,8 @@
    "score": 0.41257802,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f7f4ebc1-eefd-4721-97b7-9d9f8b1eae9a.jpg"
   },
   {
    "id": "47c46dcc-7266-4cd6-852b-d8619ca1dd6b",
@@ -72,7 +76,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "bb11026f-a238-44ea-9dee-574402ab8823.jpg"
   },
   {
    "id": "8d1fe9d9-1ba7-44ea-b45c-ab845899aab2",
@@ -83,7 +88,8 @@
    "score": 0.40883115,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "89e5a372-4ae7-4e97-b000-19153a68cf72.jpg"
   },
   {
    "id": "b1b49c96-e01d-447a-80e8-9ef5809fcfe1",
@@ -97,7 +103,8 @@
     "fr",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "ee786475-6230-48f5-8fb7-861986cbad5c.jpg"
   },
   {
    "id": "edb4cb4c-f4bc-479a-892d-a77b5c6ecc5d",
@@ -109,7 +116,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "38e08181-0a7e-4efc-8dad-232e0e14ef4d.jpg"
   },
   {
    "id": "3d215bfc-3f7b-4688-a190-17dc0a9642cc",
@@ -121,7 +129,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "a1081b13-abc0-469c-ada3-337bd290178a.jpg"
   },
   {
    "id": "ddc1f94d-08f7-474e-9e2e-4f2bc06d8df3",
@@ -132,7 +141,8 @@
    "score": 0.40020153,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "605d0d85-39e0-463f-857a-bb76e0ad9858.jpg"
   },
   {
    "id": "2629d8fd-9269-4a05-8f1b-c0180c4ccd8c",
@@ -143,7 +153,8 @@
    "score": 0.3977444,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45ec4be9-9dd8-4f5e-88c6-a6a4a3ed7929.png"
   },
   {
    "id": "76ac6b53-df49-4ace-85a2-b27970830ef2",
@@ -160,8 +171,10 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "e0ba2f07-134b-459d-a4fc-7fbb45a9c49c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:06+00:00"
+ "updatedAt": "2021-07-18T06:30:06+00:00",
+ "coverFileName": "12417692-052f-4573-86bd-f2a1efa4d819.jpg"
 }

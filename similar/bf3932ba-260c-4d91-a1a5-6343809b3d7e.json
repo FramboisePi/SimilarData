@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3968f39b-c5f9-4a91-8c69-99e1e72a8b53.jpg"
   },
   {
    "id": "fedd63e8-cc91-4039-be75-a75860ad2436",
@@ -29,7 +30,8 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "c7c3c27e-83a9-481c-aa8d-3eea1c31bdae.jpg"
   },
   {
    "id": "287fc538-7c52-4a09-8461-9578fd5e4632",
@@ -41,7 +43,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "77831216-4267-4d01-85a8-f1ba4ecdecdc.jpg"
   },
   {
    "id": "7821e27b-e5fc-432f-b433-d74715c10c76",
@@ -53,7 +56,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "2b3c971d-8ece-424e-9aca-764f5973f62e.jpg"
   },
   {
    "id": "d7c8a022-3e83-4681-9823-eacb54007e2e",
@@ -64,7 +68,8 @@
    "score": 0.4244075,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd239726-38f5-4323-81be-6dbfbaaee3c4.jpg"
   },
   {
    "id": "e1cc34d9-d88d-4322-b420-a973237206cf",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9602dfa9-e474-4502-89db-fa217623c53d.jpg"
   },
   {
    "id": "abc0cd00-6672-4ed9-9139-274701536fca",
@@ -88,7 +94,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "7f3e5094-fe39-4680-a155-25adc7ee28be.jpg"
   },
   {
    "id": "bd74265a-5968-40b7-a3f6-b30b8bec6b70",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8a2c414b-f486-4da7-83c4-92ac6bf7c7c3.jpg"
   },
   {
    "id": "c83a0d46-6fe5-45bf-8345-93c6869a9436",
@@ -111,7 +119,8 @@
    "score": 0.41447547,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31505002-bb74-4ef1-a2b1-b15b7b916fcb.jpg"
   },
   {
    "id": "b1b91829-0830-4f14-af40-f41de3db4cfc",
@@ -122,18 +131,20 @@
    "score": 0.41447547,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9eccf22e-0364-4e7d-9451-d53763e4312c.jpg"
   },
   {
    "id": "890518a8-1890-4346-8076-9ddeb0cfb3bb",
    "title": {
-    "en": "Akuma★Game"
+    "en": "Akuma\u2605Game"
    },
    "contentRating": "safe",
    "score": 0.41447547,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e449a46-b19c-40af-b600-b9b9fce3067e.jpg"
   },
   {
    "id": "19f7161d-e88d-4191-b4cc-3b7441ecf3d3",
@@ -144,8 +155,10 @@
    "score": 0.41412735,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cac1b349-cde5-447d-9b29-571eef98a249.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:57+00:00"
+ "updatedAt": "2021-07-18T06:59:57+00:00",
+ "coverFileName": "49a4643c-7892-4ed6-a470-3c359f00ac0d.jpg"
 }

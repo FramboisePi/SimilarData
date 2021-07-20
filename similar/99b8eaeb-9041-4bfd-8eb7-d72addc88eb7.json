@@ -1,7 +1,7 @@
 {
  "id": "99b8eaeb-9041-4bfd-8eb7-d72addc88eb7",
  "title": {
-  "en": "Goddess Café Terrace"
+  "en": "Goddess Caf\u00e9 Terrace"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "fa536233-e783-450d-9bc1-6cfae5cb127c.jpg"
   },
   {
    "id": "c0180ad2-6c0e-40a2-9fb8-5760b7ebda79",
@@ -26,7 +27,8 @@
    "score": 0.4768011,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "536e8aac-c082-4223-a17a-df966497ef85.jpg"
   },
   {
    "id": "828ba59f-0e99-44f3-8c30-2f5a9cf015eb",
@@ -37,7 +39,8 @@
    "score": 0.46680537,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3e22ec71-48e1-4571-b199-99e1d8d5bf29.jpg"
   },
   {
    "id": "5791fae6-c99d-4a8c-9ba6-30be12e70569",
@@ -48,7 +51,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e70be484-b68f-40cd-adce-fb08cac5d61c.jpg"
   },
   {
    "id": "5b4d6af1-7633-4c86-b8b4-6d9d09f598dc",
@@ -61,7 +65,8 @@
     "it",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "41767334-d596-4006-9d21-3becd11804ee.jpg"
   },
   {
    "id": "d6bbd808-df3a-4dc2-a73a-a755f8b24f70",
@@ -72,7 +77,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7656bb20-1722-4c64-ad31-8193476c2e54.jpg"
   },
   {
    "id": "7730dbc3-469b-4976-a724-fa09055f44b8",
@@ -83,7 +89,8 @@
    "score": 0.42638904,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4add0785-5e04-48c6-9711-091d27d4c399.jpg"
   },
   {
    "id": "df768923-6c10-41b6-b0fa-af08c26ff5af",
@@ -94,7 +101,8 @@
    "score": 0.42539486,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "846ca0d3-ee78-415f-b3ac-f6dda6d9b29e.jpg"
   },
   {
    "id": "6a890088-516e-4f1c-84ae-04bbaeeb7226",
@@ -106,7 +114,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a40cbd67-a9f7-4328-9d43-5c42a6aeb299.jpg"
   },
   {
    "id": "96fc894c-1c11-456b-9742-dc08103c190e",
@@ -121,7 +130,8 @@
     "ru",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "431f306d-d168-4ec3-a426-36b490452d7d.png"
   },
   {
    "id": "b80ee683-85a7-48ab-b57a-c9a3316653fe",
@@ -133,7 +143,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "1fbe497c-e734-4f0d-8c4d-0fae5bfcf630.jpg"
   },
   {
    "id": "a3089f9c-37d5-46d6-bf91-56c93410b946",
@@ -146,8 +157,10 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "99342109-46e1-4b32-b56c-cd38cc0f5101.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:05+00:00"
+ "updatedAt": "2021-07-18T06:53:05+00:00",
+ "coverFileName": "c0120631-aa7a-427b-9172-aed6f25fb26d.jpg"
 }

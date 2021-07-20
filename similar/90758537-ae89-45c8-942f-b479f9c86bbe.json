@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e97251be-518f-4282-9090-3d4d190f10d3.jpg"
   },
   {
    "id": "eb38bc4e-d938-49b3-8059-9f036e98ecda",
@@ -28,7 +29,8 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "8ac40549-83f8-4045-9a4a-cb0e0103a719.jpg"
   },
   {
    "id": "792dc343-97b1-4284-87e7-30e69ee14ec7",
@@ -39,7 +41,8 @@
    "score": 0.47867116,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3bc21107-c214-4056-90f6-00a975a520a8.jpg"
   },
   {
    "id": "6875a15f-af7b-427d-9d38-801ae6aeb446",
@@ -51,7 +54,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "a9d048af-df69-48a6-92a2-992cf5537c90.png"
   },
   {
    "id": "6b1e21f6-ae0d-4388-82f0-6fd08a07312f",
@@ -62,7 +66,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7644418-e251-4df6-9435-09c8ba278d27.jpg"
   },
   {
    "id": "a28f9b0a-8796-4331-9511-3c88b0ee9d28",
@@ -73,7 +78,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fcacb91-984d-4bcd-a990-39f3b8dde839.jpg"
   },
   {
    "id": "669d6065-f12a-4ebc-8325-cffb5b947719",
@@ -84,7 +90,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bce02c8-c6cb-4bbd-abba-bc2eb06218a8.png"
   },
   {
    "id": "93001e6f-31ca-4e82-a05f-51362054adc2",
@@ -95,7 +102,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c69400f-886a-4155-8616-b0852f14d455.png"
   },
   {
    "id": "81d1ef2b-ede6-45ba-ad08-093d9ed88bdf",
@@ -106,18 +114,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be47f6eb-799f-4c62-a6b0-e871dcc1f356.jpg"
   },
   {
    "id": "06fa0234-ba93-4d39-af33-70924ce294f7",
    "title": {
-    "en": "Lair \u0026 Love Game"
+    "en": "Lair & Love Game"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf458f69-124a-436c-a214-0dea80c6dc01.png"
   },
   {
    "id": "0686d85b-2bb8-4884-90a8-130474cbc1dc",
@@ -129,7 +139,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cd1b82bd-a620-4836-a2b7-831950ef2173.jpg"
   },
   {
    "id": "8452e0e3-7491-4fdb-b42f-5e2bf5d6b1d6",
@@ -140,8 +151,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d90accbc-b761-480c-9599-94f644157078.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:23+00:00"
+ "updatedAt": "2021-07-18T06:51:23+00:00",
+ "coverFileName": "759c09c3-a1a7-462f-b7b4-9d68d47e7e4a.jpg"
 }

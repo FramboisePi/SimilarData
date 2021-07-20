@@ -16,7 +16,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7cda5786-d00d-49cf-acb7-b0ce7191cf69.jpg"
   },
   {
    "id": "91d2a04d-aac5-4347-a7c3-b34ac20f829d",
@@ -27,7 +28,8 @@
    "score": 0.46059504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d5e12e0-5b19-48da-a6dd-a3ed463afe17.jpg"
   },
   {
    "id": "611d2b1e-4d2f-4958-9e43-bcc35f602393",
@@ -39,7 +41,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cb6c929a-ac47-4e56-b61c-5912a74a897b.jpg"
   },
   {
    "id": "9989d434-76e8-4afe-b189-a6493467bdc0",
@@ -50,7 +53,8 @@
    "score": 0.44589177,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb9db5a1-52a7-43e4-a085-95a6d65ae6b7.jpg"
   },
   {
    "id": "971694d3-2bb0-40a3-a7f6-32d2fdbcb616",
@@ -63,7 +67,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "4a9f9d0b-702c-4d9a-aed7-d270af9336c7.png"
   },
   {
    "id": "ca0cccd1-45cc-42a5-b9f6-47cb241c43b8",
@@ -74,7 +79,8 @@
    "score": 0.43682677,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "44ef385a-21dc-4b9d-9201-77732795f72e.jpg"
   },
   {
    "id": "17b3b648-fd89-4a69-9a42-6068ffbfa7a7",
@@ -88,7 +94,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "6ac703d4-958a-4cb3-8bda-772ab1533f60.jpg"
   },
   {
    "id": "85085a7c-bdbf-44b1-875f-3a1ce61002cd",
@@ -100,7 +107,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "06f21fc5-8d28-4aca-8361-776e3ce9ec28.png"
   },
   {
    "id": "1ad0d86e-3ee6-4cf2-81a8-fe713701d001",
@@ -114,7 +122,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9de74b6-6522-4904-9773-f32e6c425378.png"
   },
   {
    "id": "7c0ea053-3c70-4c6a-8ba4-e30cf3d2a8d4",
@@ -126,12 +135,13 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9f76115f-4954-443e-828e-1ecf18e97084.jpg"
   },
   {
    "id": "ab345ba7-5bdd-44fb-a11e-50e3209312b8",
    "title": {
-    "en": "Kaitai Shinsho Ø"
+    "en": "Kaitai Shinsho \u00d8"
    },
    "contentRating": "safe",
    "score": 0.41624293,
@@ -139,7 +149,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "de5d016e-f30a-4631-950f-75c60585a0a1.jpg"
   },
   {
    "id": "c5422fa5-6d79-432e-ba66-9540a6f5ff6c",
@@ -156,8 +167,10 @@
     "pt-br",
     "en",
     "he"
-   ]
+   ],
+   "coverFileName": "8bf09dfd-9905-46d8-92f8-6e78e137b44c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:34+00:00"
+ "updatedAt": "2021-07-18T06:44:34+00:00",
+ "coverFileName": "0e304e8c-8539-431e-9ddb-9faf902ca379.jpg"
 }

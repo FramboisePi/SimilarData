@@ -8,13 +8,14 @@
   {
    "id": "1ef7e6e3-cf07-4862-abad-b9960c30807e",
    "title": {
-    "en": "H₂O - Footprints in the Sand"
+    "en": "H\u2082O - Footprints in the Sand"
    },
    "contentRating": "safe",
    "score": 0.3907094,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4194f5c-91af-42e4-94a2-7374c4a55517.jpg"
   },
   {
    "id": "2c9365e9-f5ab-48e9-b655-37df857f132f",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "36aff516-703a-468a-938c-edc9c8e19594.jpg"
   },
   {
    "id": "642283ab-041a-4d41-84e4-75adfac146d0",
@@ -37,7 +39,8 @@
    "score": 0.3638628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0292f36b-a2be-48e1-b78a-f323e436877f.jpg"
   },
   {
    "id": "09bb7379-3d39-409b-8b90-66b898b661b1",
@@ -48,18 +51,20 @@
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91c02a4a-d9c8-48e1-9f68-de441f9c2373.jpg"
   },
   {
    "id": "b7077310-757a-47d0-ae86-ac7ae70c2974",
    "title": {
-    "en": "Aisareru yori ￮ Saretai"
+    "en": "Aisareru yori \uffee Saretai"
    },
    "contentRating": "safe",
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94571e82-66b7-4e7d-b4a1-973d376dbf7e.jpg"
   },
   {
    "id": "04976d19-0417-4144-9251-c9269abf0387",
@@ -71,7 +76,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "9530ac5f-0d79-4e78-adfc-6e42c35db4f3.jpg"
   },
   {
    "id": "669d8e21-c871-4060-af72-f453aee5596c",
@@ -85,7 +91,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "9fcdfb5d-33f2-48e7-96cf-55e3ee9afe72.jpg"
   },
   {
    "id": "617f648f-1000-4c4e-b1a3-42862f929dfd",
@@ -99,7 +106,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1e1f437-cb3d-4bde-b703-359993eb563a.jpg"
   },
   {
    "id": "7d3f8565-d233-402d-bd43-9ec9897dff0c",
@@ -113,7 +121,8 @@
     "pt-br",
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "9c5c1223-1198-42f2-a44d-b19cb329a72d.png"
   },
   {
    "id": "f8f28e32-a130-4d09-ba02-d27ab91a17b3",
@@ -125,7 +134,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "29d0feb9-90c2-4739-8f13-494d2fe08977.png"
   },
   {
    "id": "ee747662-d71b-4eae-9d52-ecc12d8be9ce",
@@ -136,7 +146,8 @@
    "score": 0.32215238,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "818afe8b-4c2a-468e-aedb-baca09926d6f.jpg"
   },
   {
    "id": "a31a3214-1e1c-4079-b216-e894d20e26cd",
@@ -147,8 +158,10 @@
    "score": 0.31918097,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b917ec6-e605-4252-ac97-fbddd2edf683.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:44+00:00"
+ "updatedAt": "2021-07-18T07:09:44+00:00",
+ "coverFileName": "21be2c0c-12c5-4869-885c-1706ab2fcd0d.jpg"
 }

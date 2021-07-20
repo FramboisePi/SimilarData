@@ -1,7 +1,7 @@
 {
  "id": "fa9c05ac-b3d0-4d7d-96a0-08efb45b24ac",
  "title": {
-  "en": "Cat \u0026 Chiyo"
+  "en": "Cat & Chiyo"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "pt-br",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f2fc11a2-5c7f-42cb-9108-f63f430b165a.png"
   },
   {
    "id": "a39a4b05-9e69-4061-9951-499eaf3b60ca",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b7da93cf-54b1-41bd-a1fe-c61c1744d969.jpg"
   },
   {
    "id": "b2ca4e0e-a7d7-4c98-bfa3-c771c643bb68",
@@ -44,7 +46,8 @@
     "pl",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "1f779ab8-73d0-4479-b36d-64e663a3bc0c.jpg"
   },
   {
    "id": "e6477b27-6c4b-410f-9a29-fa60be616446",
@@ -57,18 +60,20 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4c8f152-584a-4e8e-b905-714196aa47b0.jpg"
   },
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.4789901,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "858cae86-3766-47fd-b68c-f37fcb538740",
@@ -80,7 +85,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "c8e83ae3-9a70-4edb-8d94-9f1c5538fcff.jpg"
   },
   {
    "id": "7f1bafc4-67b8-45b3-968b-39729dfc9ab7",
@@ -95,7 +101,8 @@
     "zh",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "c83e09af-716d-4ac7-a479-55b0334866d1.jpg"
   },
   {
    "id": "840ebe1f-d1a5-4205-9dd0-58124bdda8f7",
@@ -106,7 +113,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ab2a690-a2ec-4f5a-8e7f-c757ddd5a354.jpg"
   },
   {
    "id": "25615380-1990-4094-916a-d1d64b23f811",
@@ -117,7 +125,8 @@
    "score": 0.43226355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdf74514-a7f3-4e7f-8cea-b00bad67adb6.jpg"
   },
   {
    "id": "6df9969e-317f-46ff-86a9-6ff8664f568c",
@@ -128,7 +137,8 @@
    "score": 0.43122116,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa6c0373-3a9f-46ba-b7ff-5d1636a64ac6.jpg"
   },
   {
    "id": "b5ba4db3-1bac-491e-8ce0-ce133ea780ed",
@@ -139,7 +149,8 @@
    "score": 0.42612937,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "09591845-f8e7-4996-9ff6-15c5c5a73ecf.jpg"
   },
   {
    "id": "e675297b-8b2a-4612-a956-5eee26269606",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "0c3378a1-a4df-474b-addb-82f1202a2ab4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:47+00:00"
+ "updatedAt": "2021-07-18T07:10:47+00:00",
+ "coverFileName": "ca3a5cfe-d0a6-4022-be0d-559d5990f54c.jpg"
 }

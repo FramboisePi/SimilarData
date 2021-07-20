@@ -1,7 +1,7 @@
 {
  "id": "3b943939-acf8-415f-853a-824b8f50fcc6",
  "title": {
-  "en": "Mahou Shoujo Kazumi★Magica ~The Innocent Malice~"
+  "en": "Mahou Shoujo Kazumi\u2605Magica ~The Innocent Malice~"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,19 +16,21 @@
     "tr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e2445383-a300-4870-b782-f9fd92dd03d1.jpg"
   },
   {
    "id": "b62659e0-fb91-4cf1-a62f-c4e058f9917a",
    "title": {
-    "en": "Mahou Shoujo Suzune★Magica"
+    "en": "Mahou Shoujo Suzune\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.42668533,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6dabc76f-0135-469a-ad42-a7bc3051f6d7.jpg"
   },
   {
    "id": "6b9c97a4-215a-42c8-b0cc-7f7417e511ed",
@@ -41,7 +43,8 @@
     "it",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "99f5a468-6e7f-4db6-86b7-95ee4b612b97.jpg"
   },
   {
    "id": "52925883-c86a-4f3c-a315-877a01258e14",
@@ -53,7 +56,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "89424e1b-1163-4452-af7e-603192651fa7.jpg"
   },
   {
    "id": "ce4ac9e1-2bd6-4061-a07a-24a5546594c7",
@@ -65,7 +69,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "42ac71ac-a49a-414f-9345-1472dc2cab2a.jpg"
   },
   {
    "id": "cee1a059-dc4e-42d6-b96a-fa0253b7accd",
@@ -81,7 +86,8 @@
     "pl",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "be5aeeba-d8f9-482a-82b2-51dc4244f7d8.jpg"
   },
   {
    "id": "5c865add-2f78-4903-aa2b-4270690aca34",
@@ -93,19 +99,21 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "890806be-d40f-4300-965a-b29ada52c87b.jpg"
   },
   {
    "id": "e7ba68e6-0e13-43c8-8c0c-17431ae5a911",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica ~The different story~"
+    "en": "Mahou Shoujo Madoka\u2605Magica ~The different story~"
    },
    "contentRating": "safe",
    "score": 0.39100453,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "543b6a80-e5d1-41c8-a60a-a198ac35bb14.jpg"
   },
   {
    "id": "5cf6791d-4c32-4603-8820-8c11ba69205c",
@@ -118,7 +126,8 @@
     "hu",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f5e1e5fd-7e88-4ae4-8c9a-017236f225a2.png"
   },
   {
    "id": "c3e37161-3c45-4e81-89cc-7b2353617ca9",
@@ -132,7 +141,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "dd6265a5-58ea-49c5-a3b1-6a022f740806.jpg"
   },
   {
    "id": "a66f8653-7f73-411a-84de-eb16df772b92",
@@ -144,7 +154,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ca385ecb-679a-4579-b872-a3546db33a2c.jpg"
   },
   {
    "id": "5bbc4409-59eb-4388-8c35-149b19b468f1",
@@ -155,8 +166,10 @@
    "score": 0.37525973,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "429fbe4e-9c5b-4727-8fee-73d89e326b70.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:34+00:00"
+ "updatedAt": "2021-07-18T06:35:34+00:00",
+ "coverFileName": "54135d05-76c1-4147-b46e-17cbf2cd2259.jpg"
 }

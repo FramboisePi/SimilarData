@@ -8,14 +8,15 @@
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
@@ -26,7 +27,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "593e0110-88e6-4ffd-aeb7-ed410e8c7c6d.jpg"
   },
   {
    "id": "cf5033f2-0a27-45be-95da-876971af682f",
@@ -37,7 +39,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fad79d1-1ede-4d94-bb09-061d698c5044.png"
   },
   {
    "id": "d754b8d8-cba3-4928-a602-c0fcec60495f",
@@ -48,19 +51,21 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e84786e6-c75a-4b58-9ba6-3d8b519e670c.jpg"
   },
   {
    "id": "92001131-f414-4e3d-ad78-cc85d467265d",
    "title": {
-    "en": "Macho ★ Max"
+    "en": "Macho \u2605 Max"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6a35b7e0-b26e-4952-b66f-2c5c699d5b9b.jpg"
   },
   {
    "id": "85cf1777-d504-4627-abb0-20416e5a4e00",
@@ -73,7 +78,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f961e5e4-8181-4e42-84e6-ff0252b64413.jpg"
   },
   {
    "id": "230b1a11-3797-4e39-bf90-b199f04454df",
@@ -84,7 +90,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "60417e7b-1cf2-4907-8999-f846db5add11.jpg"
   },
   {
    "id": "87e9316d-0a51-4bd8-892c-812fd2f06eee",
@@ -98,7 +105,8 @@
     "pt-br",
     "es-la",
     "tr"
-   ]
+   ],
+   "coverFileName": "7e36bb97-51d0-43c9-906d-ed038a0101e5.jpg"
   },
   {
    "id": "879c5278-5041-4290-9bf0-f7fa5ed3d8d5",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "e4012a10-aa4c-4aaf-8f3c-698790fb549c.jpg"
   },
   {
    "id": "7fd6daa1-c0fe-471a-b278-f76fb89ca799",
@@ -121,7 +130,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "331960e3-794f-408a-8654-1ca5f49ccca7.jpg"
   },
   {
    "id": "e698f41d-f116-4a36-8536-3a728f26885c",
@@ -132,7 +142,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b36ef64a-8d55-4259-b668-523138c73476.jpg"
   },
   {
    "id": "c0f3cf5b-97d2-471c-a7e8-9dd37004ac4f",
@@ -143,8 +154,10 @@
    "score": 0.36742347,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "fdcd683d-bc1d-4276-80aa-15bdd6169aed.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:45+00:00"
+ "updatedAt": "2021-07-18T06:52:45+00:00",
+ "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
 }

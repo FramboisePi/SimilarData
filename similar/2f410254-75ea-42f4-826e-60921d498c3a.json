@@ -14,7 +14,8 @@
    "score": 0.41507885,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c58b7089-e5a2-4c06-b6f0-3f81f7a586d4.jpg"
   },
   {
    "id": "8124a347-eab0-4f78-a93b-09cb671d9bbf",
@@ -25,7 +26,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5da0d137-ad30-445c-aa25-e7876469edc4.jpg"
   },
   {
    "id": "485471ff-4502-4af9-aa0f-956af49e7782",
@@ -38,7 +40,8 @@
     "en",
     "pl",
     "th"
-   ]
+   ],
+   "coverFileName": "01831f13-c07c-4c28-9d68-4aadc38ed0e3.png"
   },
   {
    "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0997d780-cc09-4dc4-a83e-a01afed7ce63.jpg"
   },
   {
    "id": "05d74a77-3f30-434a-9bce-f68e98596c50",
@@ -61,7 +65,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3ec030c-e72a-4c07-955f-931f38a605c1.png"
   },
   {
    "id": "4b099074-6afc-41fa-a1a5-8699bcc26332",
@@ -72,19 +77,21 @@
    "score": 0.38091186,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b0f5ef5-2fc6-4703-920c-f4ec90ba32a4.jpg"
   },
   {
    "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
    "title": {
-    "en": "Tasogare Schrödinger"
+    "en": "Tasogare Schr\u00f6dinger"
    },
    "contentRating": "safe",
    "score": 0.37904313,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "7a8047a5-4971-4270-ae56-cb5e3e87f386.jpg"
   },
   {
    "id": "7a14a386-a068-452a-b395-73908a7f74b5",
@@ -95,7 +102,8 @@
    "score": 0.36871836,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e885f722-b2bd-460b-a57f-b9883412b103.jpg"
   },
   {
    "id": "bbc155bd-47ed-4e84-96f7-f007dd55e718",
@@ -106,7 +114,8 @@
    "score": 0.36042413,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "37363fbc-1c87-410e-a1c0-1a2704e8e070.jpg"
   },
   {
    "id": "84a2945e-0018-4301-9a54-f305971477a9",
@@ -118,7 +127,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "84b80c34-80cb-4c97-acd5-c44f110313a2.jpg"
   },
   {
    "id": "7811e3db-e509-40a1-9c88-2031179b9d6a",
@@ -131,7 +141,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "4c5821ae-182c-4313-b36a-734ffc448ddc.jpg"
   },
   {
    "id": "19854049-66cb-4af6-b663-0aecdb6105a9",
@@ -143,8 +154,10 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "95adeb66-840f-4b13-a41e-a88e2f4bbec1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:15+00:00"
+ "updatedAt": "2021-07-18T06:33:15+00:00",
+ "coverFileName": "47b3890a-4385-44bf-bd01-0a2d8a9a84d2.jpg"
 }

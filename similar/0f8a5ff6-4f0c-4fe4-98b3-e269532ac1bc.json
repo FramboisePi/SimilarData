@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "52e80307-ba9c-426c-97cc-ce5eb18c20bf.jpg"
   },
   {
    "id": "9774e575-4009-4ec4-a2f8-a325a6e5dce7",
@@ -26,7 +27,8 @@
    "score": 0.87409985,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5dc75fb0-e0f5-4cdd-a095-a2f1085f2417.jpg"
   },
   {
    "id": "67bc662a-dba4-4616-9da0-fa0e18e87383",
@@ -37,7 +39,8 @@
    "score": 0.75686103,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "908aa1c7-6f68-487b-9eeb-c4f88cf8f47e.png"
   },
   {
    "id": "1784f612-9a81-4ed6-a596-ef3e2d2e814f",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9c665cca-3278-4117-a46a-516d9df1312f.jpg"
   },
   {
    "id": "101b9672-f73f-41f5-8de1-97ef1a732de1",
@@ -62,7 +66,8 @@
     "es",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0bd048e9-1145-4f35-a930-8ea749c773f1.jpg"
   },
   {
    "id": "4a97afea-bca8-47cc-bdc7-ff344187a847",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f500c7f2-1410-4bc3-b3bf-24f3e0ac701b.jpg"
   },
   {
    "id": "cab91d47-c2d0-46d4-ba81-51dd530b13d1",
@@ -87,19 +93,21 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "1341b179-bc13-4111-bc19-189d9fc2bba9.jpg"
   },
   {
    "id": "a0fa04dd-604d-4374-b1fc-e5537a70069d",
    "title": {
-    "en": "Saint Seiya Ω"
+    "en": "Saint Seiya \u03a9"
    },
    "contentRating": "safe",
    "score": 0.58404607,
    "languages": [
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fdff538e-23cb-449f-a3ea-1c782c7c4ca3.jpg"
   },
   {
    "id": "8640fe03-5f28-416c-9ed1-a98a3f793626",
@@ -110,7 +118,8 @@
    "score": 0.48340774,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b930e1ce-cf05-473b-9acd-821b505693ea.jpg"
   },
   {
    "id": "d125c2e9-6bec-4370-95c3-b16b0b823c61",
@@ -121,7 +130,8 @@
    "score": 0.4768303,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b7fced0-ed37-421d-b260-db8b7c1bc682.jpg"
   },
   {
    "id": "2382691d-223a-4890-9d05-9ae1cdeab4d4",
@@ -133,7 +143,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "b78bf55a-c5b4-4d3b-8a0f-af0239757389.jpg"
   },
   {
    "id": "349679c8-e14c-4e5b-b4d1-dab5814f0ab3",
@@ -148,8 +159,10 @@
     "bg",
     "pl",
     "hu"
-   ]
+   ],
+   "coverFileName": "ce7f0070-2953-4400-bb81-302883c83699.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:22+00:00"
+ "updatedAt": "2021-07-18T06:27:22+00:00",
+ "coverFileName": "e5c2e7d2-8fef-45f8-855a-32fbf45543d3.jpg"
 }

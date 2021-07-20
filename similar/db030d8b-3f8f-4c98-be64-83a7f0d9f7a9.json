@@ -1,7 +1,7 @@
 {
  "id": "db030d8b-3f8f-4c98-be64-83a7f0d9f7a9",
  "title": {
-  "en": "Touhou - 20⑨2 (Doujinshi)"
+  "en": "Touhou - 20\u24682 (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.87174594,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fb0e0d16-c711-4ffb-9445-d4dc7706a016.jpg"
   },
   {
    "id": "4e0116d2-8ac1-41ee-a47f-cae681350c9c",
@@ -25,7 +26,8 @@
    "score": 0.65637386,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "09a9817b-8dba-44ad-81bf-f1854a043739.jpg"
   },
   {
    "id": "ec24bafb-411b-4717-889a-e21da0f227e9",
@@ -36,18 +38,20 @@
    "score": 0.588819,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f32ae40-f8e4-442f-949d-05e2eb12d150.jpg"
   },
   {
    "id": "0082d63a-1b63-4d5b-8fc4-67c7a34ab773",
    "title": {
-    "en": "Touhou - The ⑨-Team (Doujinshi)"
+    "en": "Touhou - The \u2468-Team (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.57484734,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e547e69d-f09d-4c8e-ae3d-5488bd478c00.jpg"
   },
   {
    "id": "fd7b6bc3-9853-4708-b25a-821141746328",
@@ -58,7 +62,8 @@
    "score": 0.5454284,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "53a4a0b1-8fb9-48a9-9504-15c22a4c67f8.jpg"
   },
   {
    "id": "2079990d-c8c4-44f7-a328-6d2fd531b71f",
@@ -69,7 +74,8 @@
    "score": 0.501495,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e322673f-85f3-4104-bb46-daa4ec4d2dac.jpg"
   },
   {
    "id": "987b1f44-852e-42e3-b4e7-dd433abdc724",
@@ -80,7 +86,8 @@
    "score": 0.4964663,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48c5be67-5c2e-4d6f-ad64-c21b92bb26bd.jpg"
   },
   {
    "id": "9e6a9200-4349-4ff7-835b-211e80108527",
@@ -92,7 +99,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7b409fb8-ccab-4417-b829-5ae8c32b0e21.jpg"
   },
   {
    "id": "e2701a47-7c6e-4405-b89f-78b9f6faeb26",
@@ -103,7 +111,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4b6ccf5-890a-4161-807f-8f8a425318a9.jpg"
   },
   {
    "id": "224e4616-6004-41de-9e5e-ed6219547e78",
@@ -114,7 +123,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "475aa03a-4d6c-4dab-b2fd-9c80932bc40a.jpg"
   },
   {
    "id": "621d5418-4e90-4f2a-b6cb-70e69ad8338b",
@@ -125,7 +135,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2f9b5402-00dc-49fa-8fad-dc2e5ef0b98c.jpg"
   },
   {
    "id": "84ad3c99-312a-4489-addb-1a8d35757e9d",
@@ -136,8 +147,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ddc2499e-7273-4378-9e40-66659d43b6c3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:04+00:00"
+ "updatedAt": "2021-07-18T07:05:04+00:00",
+ "coverFileName": "e8ac1286-6f72-4e16-9b5e-85f6dcef5271.jpg"
 }

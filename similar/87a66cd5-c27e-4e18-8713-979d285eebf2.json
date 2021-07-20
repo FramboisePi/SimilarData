@@ -17,7 +17,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "86bd4444-7e51-4ab0-93aa-3cabd2872454.jpg"
   },
   {
    "id": "efd97845-84e4-495d-9143-597ee4021044",
@@ -31,7 +32,8 @@
     "en",
     "pl",
     "hu"
-   ]
+   ],
+   "coverFileName": "dd203f07-dfd7-4c7f-9614-cc48fa9b0df9.jpg"
   },
   {
    "id": "11bfa371-f53f-42b7-8213-94b1323b02b6",
@@ -46,7 +48,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d9e6976b-32a5-431f-b218-52a244aff688.jpg"
   },
   {
    "id": "a92129b6-bc2d-488b-859b-0e4982eab386",
@@ -58,7 +61,8 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "5c38f749-8b01-4834-b5cd-ba6d044d7a92.jpg"
   },
   {
    "id": "4797ccc1-5bfc-48d7-9d2e-e57aebcaf9d7",
@@ -70,7 +74,8 @@
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "83999e42-fe47-42e9-8d04-6184bceeb8b9.jpg"
   },
   {
    "id": "9b0efbe8-95bf-4363-9893-21c4ec1c602b",
@@ -84,19 +89,21 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "f44c01d1-97e8-4665-a042-c7a884a402a4.jpg"
   },
   {
    "id": "fe3447fb-cb75-462b-882b-88e12b69c6bd",
    "title": {
-    "en": "Happy \u0026 Murphy"
+    "en": "Happy & Murphy"
    },
    "contentRating": "safe",
    "score": 0.23234458,
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "698b7852-9d31-4c7e-8a4c-add711d57e4a.jpg"
   },
   {
    "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
@@ -109,7 +116,8 @@
     "en",
     "hu",
     "tr"
-   ]
+   ],
+   "coverFileName": "ca8f730c-fa84-4c7a-9420-7cc0547f71dd.jpg"
   },
   {
    "id": "678a2617-2c42-4f44-94c4-c1e9f755af77",
@@ -124,7 +132,8 @@
     "pl",
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "0cd80b13-2d8d-47b5-90aa-8a768a757f18.jpg"
   },
   {
    "id": "64d554d2-1ae8-49ea-8136-896eff558ac1",
@@ -136,7 +145,8 @@
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "acaaf029-46ef-4666-9b89-1af3f7db9fe6.jpg"
   },
   {
    "id": "f4550fe1-96f9-4634-896e-526a80b2093d",
@@ -149,7 +159,8 @@
     "en",
     "vi",
     "hu"
-   ]
+   ],
+   "coverFileName": "f005c949-47c4-4c7f-bf42-0d7716ee70f1.jpg"
   },
   {
    "id": "7d421e7e-1b1c-4f3d-b64d-6b69f1b0639f",
@@ -161,8 +172,10 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "62b9b48e-7d68-4278-9453-5d6d0e5e4f8d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:41+00:00"
+ "updatedAt": "2021-07-18T06:49:41+00:00",
+ "coverFileName": "b8c6ce18-f6a7-4cac-a2f0-be0047fe6ec6.jpg"
 }

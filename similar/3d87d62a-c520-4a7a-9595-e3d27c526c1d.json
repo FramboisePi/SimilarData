@@ -1,7 +1,7 @@
 {
  "id": "3d87d62a-c520-4a7a-9595-e3d27c526c1d",
  "title": {
-  "en": "Pokémon Card GB The Comix"
+  "en": "Pok\u00e9mon Card GB The Comix"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "01b13f81-bbc6-4ce3-91bf-fea5affee6f3.jpg"
   },
   {
    "id": "0c46aa5d-3d19-4097-b5bc-e0b7a9e58d75",
@@ -25,7 +26,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "00ec0c43-5660-4ace-857a-7871ac23eea0.jpg"
   },
   {
    "id": "c89a86dc-91f6-4cd6-8957-9f532fdd0378",
@@ -36,7 +38,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea14fe32-a1af-4d4e-aa1f-e6e1f34d57a8.jpg"
   },
   {
    "id": "ae9c0e74-f059-4a52-a1ad-7bfa5b278d1b",
@@ -49,7 +52,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a2d21cfb-b555-4636-b889-6867a7a7b200.jpg"
   },
   {
    "id": "e46946fa-03ba-40de-9828-59a6b183af8d",
@@ -60,7 +64,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d81ee56e-9fcb-46ea-9640-3a7bc154b44e.jpg"
   },
   {
    "id": "4741fd8b-948b-428a-bb2e-70134c66864b",
@@ -71,7 +76,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "21b8a7d8-6b4a-4b05-a398-33bb76bda2a4.jpg"
   },
   {
    "id": "55876be7-a102-43ed-bbcc-20ecd1d96d3c",
@@ -83,7 +89,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "2875b024-1d51-48cc-9814-4c504e8d39a5.jpg"
   },
   {
    "id": "1a7b1cda-c622-4184-9a77-df6ac9fe50c8",
@@ -94,7 +101,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38d547fc-5357-4a65-af62-479af53e8a27.jpg"
   },
   {
    "id": "58b07096-b80a-47ab-a1d8-3a050fe1cf08",
@@ -105,7 +113,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6482e66-f646-4844-9ee3-e3b26dab5cdf.jpg"
   },
   {
    "id": "08706716-b590-400d-8613-fb0da1a28592",
@@ -116,7 +125,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "88618980-59e0-42d0-96d9-16105f8b8174.jpg"
   },
   {
    "id": "40747a6a-7373-49b9-b84d-3e01b702ae4b",
@@ -127,7 +137,8 @@
    "score": 0.24232766,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "682394d0-de99-49ab-81cd-f584cecd122a.jpg"
   },
   {
    "id": "7bf8ce0d-88e1-4afb-93ac-598121771bc9",
@@ -139,8 +150,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "13ccc59a-671d-4870-b961-f18ab1c9919c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:55+00:00"
+ "updatedAt": "2021-07-18T06:35:55+00:00",
+ "coverFileName": "856c607c-ab15-4aac-9484-0572d31fdffe.jpg"
 }

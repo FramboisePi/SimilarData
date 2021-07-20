@@ -14,7 +14,8 @@
    "score": 0.58609897,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2a4839c-e418-4ade-8fb0-e3b83e7dc02c.jpg"
   },
   {
    "id": "75a4be53-dc7c-4308-875c-18089e0758eb",
@@ -26,7 +27,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "9af10596-beb7-4dc5-bdd8-be5c55d9b78c.jpg"
   },
   {
    "id": "760be47f-12d0-476d-bed3-f1a9384d33c3",
@@ -37,7 +39,8 @@
    "score": 0.5280807,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "babae9db-25d6-41fc-b56d-c7080c2fe021.jpg"
   },
   {
    "id": "0aba3597-649b-4663-96f0-700a464ad104",
@@ -48,7 +51,8 @@
    "score": 0.52378,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "4c4c90a9-e55f-40a5-afb2-08757b6b6be7.jpg"
   },
   {
    "id": "48e34e57-7f8a-4d21-acc7-0896a0ab0983",
@@ -60,18 +64,20 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "32be2ef4-6fde-4073-af9e-b05764a5ffe1.jpg"
   },
   {
    "id": "1cafb11f-5761-4429-838b-03df2be9cde9",
    "title": {
-    "en": "You’re So Cool"
+    "en": "You\u2019re So Cool"
    },
    "contentRating": "safe",
    "score": 0.51637065,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "55db2635-30a5-4e63-b3f6-3fa6c33cf5cd.jpg"
   },
   {
    "id": "21bf2aa2-2fcb-4788-a1af-24a75c30549e",
@@ -83,7 +89,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "63f344a3-255e-4992-bcee-2b347fe2a2ae.jpg"
   },
   {
    "id": "ef6c2d1c-f190-4557-bcc7-c6767310fab1",
@@ -97,7 +104,8 @@
     "pl",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6aa96cd3-77ae-4841-833f-9210d1477c95.jpg"
   },
   {
    "id": "e337a405-f607-4ee3-b94b-160a5af9ab4d",
@@ -109,7 +117,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "1fa393ee-5db7-4732-9e7f-e3de8145fd29.jpg"
   },
   {
    "id": "5727a6e3-c061-4b24-a37c-d8653c6a35fd",
@@ -120,7 +129,8 @@
    "score": 0.47326213,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6535fd34-5093-4575-9ca5-ba68336b424c.jpg"
   },
   {
    "id": "8dc364d7-5de2-41c9-b5e0-9079ac7c8e94",
@@ -132,7 +142,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b18e57a9-6156-4175-89f2-546825e2d0c1.jpg"
   },
   {
    "id": "b7c77c97-818a-4496-a833-8f1f3e219994",
@@ -143,8 +154,10 @@
    "score": 0.47241464,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b84b6e0b-a6dc-469a-89b3-e0b48a4965ff.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:01+00:00"
+ "updatedAt": "2021-07-18T06:47:01+00:00",
+ "coverFileName": "9cf08b23-6b4e-47de-a0e7-b1740d714aac.jpg"
 }

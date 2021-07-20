@@ -15,7 +15,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "b8d9ed14-5ab6-4e82-a3a2-a3ec8eb244b5.jpg"
   },
   {
    "id": "1bfa9e48-a4c1-40d0-9008-1ac242e42764",
@@ -26,7 +27,8 @@
    "score": 0.4211932,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c78390cb-ca0e-4c24-af1a-2607d721a91a.jpg"
   },
   {
    "id": "8fef2dc5-fd32-4d62-9cb3-4a39275e0ef5",
@@ -40,7 +42,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "34d677c1-66aa-4167-a8af-e6f0ca8b1100.jpg"
   },
   {
    "id": "085ae671-95c7-4f24-b2ad-84e41ed6779e",
@@ -51,7 +54,8 @@
    "score": 0.41367257,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8541464d-646a-404c-98dc-0c77133f997d.jpg"
   },
   {
    "id": "8eb0ecd1-01af-4ece-aea4-f893732a8183",
@@ -62,7 +66,8 @@
    "score": 0.404677,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cadee192-f3d9-4eb9-8552-efe929087d99.jpg"
   },
   {
    "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
@@ -73,7 +78,8 @@
    "score": 0.38885313,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "72ff6c6b-cdb6-4567-b474-43316a74549e.jpg"
   },
   {
    "id": "7277195b-e2bc-440c-9266-6dd7b7caa787",
@@ -86,18 +92,20 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "1e8a043a-3f37-4251-9e29-a80663139e66.jpg"
   },
   {
    "id": "97df800f-077a-43e5-9f91-e5e8a66cfea9",
    "title": {
-    "en": "Henai Café"
+    "en": "Henai Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.37762967,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6a9c5ff-8385-4400-a791-593f52dd1542.jpg"
   },
   {
    "id": "5d3b7c48-3d36-4a30-9879-5ce2d7d8c671",
@@ -109,7 +117,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8eb3770e-9d46-4ed7-a243-fc3feafd35c3.jpg"
   },
   {
    "id": "41abf1ac-ea76-4f1f-8e04-25852993d853",
@@ -120,7 +129,8 @@
    "score": 0.3625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0228acb3-9117-4f3d-9f99-e6620bcdecf8.png"
   },
   {
    "id": "4e2a9621-24d6-4b7f-9041-8e39e84dd38e",
@@ -131,7 +141,8 @@
    "score": 0.3625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "835ac505-3c6b-42ea-ae26-50ae24287280.png"
   },
   {
    "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
@@ -142,8 +153,10 @@
    "score": 0.3625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9dedb592-b4ee-4fe8-9048-c3e22ea62a64.png"
   }
  ],
- "updatedAt": "2021-07-18T07:05:58+00:00"
+ "updatedAt": "2021-07-18T07:05:58+00:00",
+ "coverFileName": "944f7779-79e0-490b-8813-50a931fe21ca.jpg"
 }

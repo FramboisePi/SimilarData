@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f4bb6e00-9ad8-4202-b1c3-00a67ed22c6e.jpg"
   },
   {
    "id": "f9638112-074e-475e-b04d-1597f2b964ac",
@@ -28,12 +29,13 @@
     "vi",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "65598270-dbba-4c73-a088-12edc86dd228.jpg"
   },
   {
    "id": "7f53da27-3b46-426d-834b-a34c606a9663",
    "title": {
-    "en": "Ano Oni Kyōshi ga Boku no Ane ni Narundesuka?"
+    "en": "Ano Oni Ky\u014dshi ga Boku no Ane ni Narundesuka?"
    },
    "contentRating": "suggestive",
    "score": 0.23717083,
@@ -43,7 +45,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2bcc2549-177f-433e-8c45-60beec6fc71f.jpg"
   },
   {
    "id": "42101e94-77f0-465e-8044-e8efe802b0f8",
@@ -55,7 +58,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "96d3544b-218d-4d70-89af-f9edc4cc82f5.jpg"
   },
   {
    "id": "d61f38e8-a4dd-4b6d-8957-3291f37c335c",
@@ -67,7 +71,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "fed00791-0b1a-4ce7-b6e1-f0ac1da22871.jpg"
   },
   {
    "id": "c0d82f31-be5f-45c9-a8fe-eb5d5eae7400",
@@ -82,7 +87,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4fc65a85-474c-4a9f-ad73-05d1ba1db2a6.jpg"
   },
   {
    "id": "bb2b9152-b780-42eb-92d1-e93ff4ef427f",
@@ -94,7 +100,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c7f5bf90-22c6-4c4a-9aa6-00411f9555f3.jpg"
   },
   {
    "id": "20e4c17d-3741-46dd-a8bb-cbc132ee52d1",
@@ -108,7 +115,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c93750e0-7770-472e-96b0-56aa4a73c6d1.jpg"
   },
   {
    "id": "8644da27-0b7d-44bf-bacb-ea9eaf1c0dbb",
@@ -120,7 +128,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "b43d5d75-ea92-4bb8-99df-8e1bc3c7bed4.jpg"
   },
   {
    "id": "06aa99db-35ef-4da9-8f03-883f02c7837b",
@@ -133,7 +142,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9495906e-0b2e-4d97-b8b2-5ada7d5d82c7.jpg"
   },
   {
    "id": "fe19c5b0-03ec-49f4-93c7-e08525834207",
@@ -146,7 +156,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "e6b0f288-a2b8-4f9d-b48c-a5cb2054b0af.jpg"
   },
   {
    "id": "10159d4a-baef-4606-aac6-51fbae539abe",
@@ -158,8 +169,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "cf1e880f-774a-4c27-b1d9-6be219c1e536.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:47+00:00"
+ "updatedAt": "2021-07-18T06:45:47+00:00",
+ "coverFileName": "1102674d-2f67-441c-ad31-ed93e2b6a8ec.jpg"
 }

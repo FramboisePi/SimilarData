@@ -18,7 +18,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c488fb67-6f30-4cbd-8f33-f2ede849c5cc.png"
   },
   {
    "id": "1ad0d86e-3ee6-4cf2-81a8-fe713701d001",
@@ -32,7 +33,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9de74b6-6522-4904-9773-f32e6c425378.png"
   },
   {
    "id": "69e218ec-93eb-4025-ae39-33d47b1160e0",
@@ -49,7 +51,8 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "b60fd7d0-d3b0-492b-8542-f22d2a9f2205.jpg"
   },
   {
    "id": "1a8b20f2-5791-4d31-bcf4-1bc61fd17e80",
@@ -60,7 +63,8 @@
    "score": 0.4754362,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9db18d4-39c7-4a7d-aeb7-40c2acbacc32.jpg"
   },
   {
    "id": "89c37252-b871-42fc-8043-9bca82c6a340",
@@ -76,7 +80,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "67f0ba8a-5ef8-48fc-a777-ee9baf27f160.png"
   },
   {
    "id": "0a6d21d6-73ca-4d68-843d-711e6c7e6418",
@@ -89,7 +94,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6eca02a0-0b22-45b1-a4f4-02ca7f03b2bc.png"
   },
   {
    "id": "28cf51d3-bfaa-4140-8d98-2a7654ca0e2c",
@@ -100,18 +106,20 @@
    "score": 0.4519138,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82ee744a-673f-4e3d-817e-0dc4da2df155.jpg"
   },
   {
    "id": "09ae9968-ebd8-4cdd-8df3-a81f398537f3",
    "title": {
-    "en": "Young Emperor’s Story"
+    "en": "Young Emperor\u2019s Story"
    },
    "contentRating": "safe",
    "score": 0.4507326,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e27811c-a67b-437a-be64-6f39df03e297.jpg"
   },
   {
    "id": "e4085dfe-87d0-458f-85d8-1aa3be767c69",
@@ -125,7 +133,8 @@
     "pt-br",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "4e064975-d85c-471f-9c75-10368742d805.png"
   },
   {
    "id": "0be32191-d7be-4326-99df-7e80e7b40be4",
@@ -138,7 +147,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "12b68b83-62e5-46ef-af92-8dc6a2de1c31.png"
   },
   {
    "id": "5f1d3c6b-84f5-441a-95b6-362b106b1e75",
@@ -150,7 +160,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3200ae88-9318-4cb9-a869-37ecd16bf406.jpg"
   },
   {
    "id": "68d9a231-8968-4c88-b257-c8ec877ed233",
@@ -161,8 +172,10 @@
    "score": 0.4273968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d1e362bf-c42c-464b-9839-77e28fe5ddb9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:52+00:00"
+ "updatedAt": "2021-07-18T06:36:52+00:00",
+ "coverFileName": "338167cb-b0b8-4c31-bf19-5f42a075073a.jpg"
 }

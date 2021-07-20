@@ -14,7 +14,8 @@
    "score": 0.39423433,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bad88aab-7d2f-4e78-8c17-6e996d886422.jpg"
   },
   {
    "id": "e31f7b4b-cc4e-4ac0-989f-3012497b44a2",
@@ -25,7 +26,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d83e9d0a-75dc-4890-b00b-c4b6d151d0ba.jpg"
   },
   {
    "id": "02860cdf-1020-40f1-a23f-2025d80f6290",
@@ -38,7 +40,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4cd295e6-71c1-4090-9602-fd4eface5547.jpg"
   },
   {
    "id": "6d93d9dd-f303-4caa-b314-f4d817076891",
@@ -49,7 +52,8 @@
    "score": 0.342149,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8501553-f56d-48d8-8f4f-923871cbffbe.jpg"
   },
   {
    "id": "32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4",
@@ -66,19 +70,21 @@
     "it",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "d00c878a-1b2c-4d6d-b08b-e3f58fdfa2c3.jpg"
   },
   {
    "id": "032c989c-1051-4891-bf91-05de7e54b360",
    "title": {
-    "en": "DNA²"
+    "en": "DNA\u00b2"
    },
    "contentRating": "suggestive",
    "score": 0.31819806,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9144e9f2-2521-4b58-bd61-0f4afe1b282a.jpg"
   },
   {
    "id": "0f79282f-9f3c-4350-b570-b88feb315672",
@@ -89,7 +95,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1422c5c-7efd-4bb1-ab07-dbbbb46a251d.jpg"
   },
   {
    "id": "e49bf90e-f49f-4c16-819f-0c89d8311777",
@@ -100,7 +107,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29dd9162-5d5e-4234-ac06-41e9ad41a647.jpg"
   },
   {
    "id": "7e67e74a-f7a5-4946-9148-5995989aaf6c",
@@ -111,7 +119,8 @@
    "score": 0.31819806,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "40114515-8b2e-4dc1-a749-684955538706.jpg"
   },
   {
    "id": "86c977b7-91de-4754-b5f8-ad775c485b9c",
@@ -122,18 +131,20 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3cf1c433-2600-4919-b4aa-c6beb32eeda9.jpg"
   },
   {
    "id": "b82e89ce-5ed7-440a-ba9f-3dd27f2f1921",
    "title": {
-    "en": "Saishu \u0026 Roido Meru!!"
+    "en": "Saishu & Roido Meru!!"
    },
    "contentRating": "suggestive",
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a47da09b-4578-4e8d-b826-dd049bdf0c82.jpg"
   },
   {
    "id": "41bd408e-e78a-46b8-bcce-43f3157c7106",
@@ -144,8 +155,10 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2a20543-2529-4ddc-b8be-6128cd9ea569.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:19+00:00"
+ "updatedAt": "2021-07-18T06:25:19+00:00",
+ "coverFileName": "11e55ffd-9982-4515-a1e9-8a5b139e1cfa.jpg"
 }

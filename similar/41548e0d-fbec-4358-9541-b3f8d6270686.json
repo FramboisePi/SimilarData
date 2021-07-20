@@ -16,7 +16,8 @@
     "es",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "51344c0b-c1b5-475e-b8ad-8125c7905a3d.jpg"
   },
   {
    "id": "f492d1b8-9718-48d2-a809-37fa8cfa42d1",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ac83f46d-43fd-446f-a4f2-e64f242f7e25.jpg"
   },
   {
    "id": "590ce306-df89-4cec-94c3-886d01422174",
@@ -41,7 +43,8 @@
     "fr",
     "my",
     "en"
-   ]
+   ],
+   "coverFileName": "9f5dfffd-e2b8-4b3f-9ac6-6eb5ec7b4389.png"
   },
   {
    "id": "f3b20d87-847d-4c51-84e5-ce9886693c85",
@@ -55,7 +58,8 @@
     "ru",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "590b9c15-3541-4a79-9a44-1aa209de70fc.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -68,7 +72,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "da89755c-f069-48b1-90d4-cebf5f0b2a54",
@@ -82,7 +87,8 @@
     "id",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "cc0d8794-393c-4ff2-8f4e-658fb2942e9d.jpg"
   },
   {
    "id": "584dfcc9-7ff9-49dd-84c5-add2fd9aec75",
@@ -93,7 +99,8 @@
    "score": 0.3722336,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1be45ecb-a120-4215-9bee-779409fb2167.png"
   },
   {
    "id": "e1b030d8-be39-4eea-a677-01e3d5d9846f",
@@ -107,7 +114,8 @@
     "it",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "cba41742-79cf-41ab-9683-ccb1f77ce61d.jpg"
   },
   {
    "id": "fe4f8394-ee72-47de-ae62-5d151d178948",
@@ -119,7 +127,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3c1a9172-f1ba-4e0e-b4de-20bf821f926a.jpg"
   },
   {
    "id": "1365739c-f6da-41bd-9de9-c8dbbe5e75de",
@@ -130,19 +139,21 @@
    "score": 0.36205006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "987027b3-88a6-4e7b-a247-ae503f60003e.jpg"
   },
   {
    "id": "3cd302f2-eb9a-4330-a36c-50f6c4a81438",
    "title": {
-    "en": "Don’t Say You Love Me"
+    "en": "Don\u2019t Say You Love Me"
    },
    "contentRating": "safe",
    "score": 0.35976034,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3bfa73ae-f08c-44ba-b73c-e86f26ca4c39.png"
   },
   {
    "id": "c019a2a4-379b-4e16-b663-4b63c412f041",
@@ -155,8 +166,10 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "7e1f1c70-ad9a-43b9-bd81-4925de8ac796.png"
   }
  ],
- "updatedAt": "2021-07-18T06:36:39+00:00"
+ "updatedAt": "2021-07-18T06:36:39+00:00",
+ "coverFileName": "d3042603-1b34-49cd-8d8f-07068a21b976.jpg"
 }

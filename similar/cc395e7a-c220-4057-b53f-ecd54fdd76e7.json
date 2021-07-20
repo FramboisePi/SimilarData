@@ -22,7 +22,8 @@
     "ru",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1704e954-e4d2-469c-857a-c4a71442c3a7.jpg"
   },
   {
    "id": "9ef7698f-9a77-4622-bd7c-a73fcbbc03af",
@@ -37,7 +38,8 @@
     "id",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "8b8d1416-13e0-45e2-a500-0bdd0dcae01d.jpg"
   },
   {
    "id": "254752e7-3456-4d12-88f0-b37ba792cc44",
@@ -52,7 +54,8 @@
     "pt-br",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "2d47e952-a14a-47f4-9270-67cc50880535.jpg"
   },
   {
    "id": "72b7a112-9f87-4b78-a19f-90a2748ccd80",
@@ -65,7 +68,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f3f788c7-3629-4cf7-91b3-49af8b7afd1e.jpg"
   },
   {
    "id": "23d358e1-b3e6-4c66-95c1-dfb8e1f97c41",
@@ -79,7 +83,8 @@
     "pl",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9200b5a5-ae1f-4867-b328-8d0009755db9.jpg"
   },
   {
    "id": "229eb307-021e-4062-8d39-94422da2671e",
@@ -92,7 +97,8 @@
     "en",
     "es",
     "pl"
-   ]
+   ],
+   "coverFileName": "7ed5a29d-8bba-490b-becf-e1a7cc20e88b.jpg"
   },
   {
    "id": "87d16991-715f-4a8a-b096-d1f933891ffd",
@@ -105,7 +111,8 @@
     "fr",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "03c1823b-7a2e-4c35-af5f-45035856340f.jpg"
   },
   {
    "id": "6db24539-e3a0-47c3-9115-1cc72d4142f0",
@@ -119,19 +126,21 @@
     "th",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "2836e85c-9e0c-4eff-8819-d584ce27090d.jpg"
   },
   {
    "id": "3ee094bc-be5b-484c-aa7c-6ce7cc8146bd",
    "title": {
-    "en": "Eisen Flügel"
+    "en": "Eisen Fl\u00fcgel"
    },
    "contentRating": "safe",
    "score": 0.36,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "06977c8b-38c0-421b-87fb-ccd9ecba2f0f.jpg"
   },
   {
    "id": "41edb570-19d6-4f01-86ef-081dbcbc1b2e",
@@ -146,7 +155,8 @@
     "pt-br",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5eb6bead-2eee-49e6-8df1-bb4a0a3bd31e.jpg"
   },
   {
    "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
@@ -157,7 +167,8 @@
    "score": 0.3545153,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ced5536b-92ac-4954-8c30-5f0ba53f1590.jpg"
   },
   {
    "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
@@ -169,8 +180,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "88b8a7d3-2a0d-49a4-a6a8-d7cb241db8f9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:18+00:00"
+ "updatedAt": "2021-07-18T07:02:18+00:00",
+ "coverFileName": "9c5a9829-0543-4f27-9cc9-f3f11fd5002d.jpg"
 }

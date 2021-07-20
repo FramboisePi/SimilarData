@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fe9da68d-f35a-4038-ac25-63cbc433680a.jpg"
   },
   {
    "id": "36801362-0927-4901-9a91-8a85e73275e4",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "adb12b9a-26b5-440e-9ab1-1a2743b0a6a1.png"
   },
   {
    "id": "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97",
@@ -41,7 +43,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cff372bb-0fdd-4a9b-a440-71203d922839.jpg"
   },
   {
    "id": "d27e23c1-fed0-4128-883b-4892eb09ffc1",
@@ -52,7 +55,8 @@
    "score": 0.3843366,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8a1dfc2b-9f71-4170-ab80-5e5f2c255935.jpg"
   },
   {
    "id": "0daead18-5af8-4a1c-bbd3-94692dd969f9",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "d57e2faf-697a-401d-8b1c-36aef66d45ba.jpg"
   },
   {
    "id": "997d322b-22de-4875-a1a4-2a80dba21d4c",
@@ -80,7 +85,8 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "200c1656-44df-48b0-b3f9-41a994af17d0.jpg"
   },
   {
    "id": "9913f21f-d531-458f-a980-c6657981f0cd",
@@ -96,7 +102,8 @@
     "uk",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "564e8021-bba3-4611-a4eb-4163a8082cbe.jpg"
   },
   {
    "id": "009c62ce-6064-4409-9949-4f00ba6d593c",
@@ -112,7 +119,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "f01b081d-d6c0-441e-bb6c-12f852a6bb8c.jpg"
   },
   {
    "id": "de18ee0b-f9bc-423d-b543-6f6a43024eb6",
@@ -128,7 +136,8 @@
     "pt-br",
     "ar",
     "es-la"
-   ]
+   ],
+   "coverFileName": "73aad280-1e38-42b1-b0a7-6df8f8ab324c.jpg"
   },
   {
    "id": "6e156d65-cf65-4d5b-9d04-52f2f8100fbf",
@@ -144,18 +153,20 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "08941079-9df5-4a9c-9272-f0102ebdfa37.jpg"
   },
   {
    "id": "b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
    "title": {
-    "en": "Isekai ni Otosareta… Jouka wa Kihon!"
+    "en": "Isekai ni Otosareta\u2026 Jouka wa Kihon!"
    },
    "contentRating": "safe",
    "score": 0.35397318,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c86c2b79-e6d2-4a4c-940c-42ddbf7af819.jpg"
   },
   {
    "id": "ab68d761-d6f2-4985-aef3-02cbcfd293af",
@@ -166,8 +177,10 @@
    "score": 0.34150857,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43899e80-6d03-4c65-b4e4-1f56cbcc7899.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:52+00:00"
+ "updatedAt": "2021-07-18T07:00:52+00:00",
+ "coverFileName": "477feaec-fc17-45a7-93aa-fab8c5f95772.jpg"
 }

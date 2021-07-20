@@ -17,7 +17,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "86f5af5b-66bb-42dd-b0db-c20d43e9ca22.jpg"
   },
   {
    "id": "679e52d8-8f0f-40c9-be20-2ed0db0e11eb",
@@ -28,7 +29,8 @@
    "score": 0.29020098,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1cbe4193-6495-4f3d-a823-52e4604ca6ef.jpg"
   },
   {
    "id": "3d7726a3-2dec-47d5-bf8e-ba13967620ac",
@@ -42,7 +44,8 @@
     "en",
     "es-la",
     "tr"
-   ]
+   ],
+   "coverFileName": "904b5c12-3dd5-44bd-97e0-20f39654bf22.jpg"
   },
   {
    "id": "eae40d4c-fa03-489b-9e9b-686f02b3153a",
@@ -55,7 +58,8 @@
     "es",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c4bdce7a-07ed-4fc2-9ffa-5ac26185c910.png"
   },
   {
    "id": "465cb13e-8ba7-4cd9-938b-41181b7ecb9a",
@@ -66,7 +70,8 @@
    "score": 0.25650385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3eafd245-715f-470b-8909-5d954542b318.jpg"
   },
   {
    "id": "6197ee34-8afa-4622-a6c2-a48622f12655",
@@ -77,7 +82,8 @@
    "score": 0.25650385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bed98de3-f5e8-481d-8333-941d50699b40.png"
   },
   {
    "id": "3878d046-628c-42ef-9358-a8f63b514cc6",
@@ -88,7 +94,8 @@
    "score": 0.25387788,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af46d594-896a-4216-b473-d221abcce334.png"
   },
   {
    "id": "944c8d0a-61cd-4fde-b6dd-4fd5e7ace2c6",
@@ -99,7 +106,8 @@
    "score": 0.25387788,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1ec51b7-8580-41af-8074-49b2c26635d1.jpg"
   },
   {
    "id": "ec0b8a74-ad68-49bf-a94d-b285a1b7af40",
@@ -110,7 +118,8 @@
    "score": 0.24922054,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d1fcabf-e3f9-45d9-a517-26fcba328c57.jpg"
   },
   {
    "id": "0e183bba-c4f4-4b36-ac41-4d6b7eff667e",
@@ -122,18 +131,20 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "76b1a37e-7be8-44b4-8123-9b2bae557bb1.jpg"
   },
   {
    "id": "72b2c430-8a8f-4dd3-aff0-591e86207f9b",
    "title": {
-    "en": "The Devil’s Temptation"
+    "en": "The Devil\u2019s Temptation"
    },
    "contentRating": "erotica",
    "score": 0.24664824,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "17a4a125-d241-4a6c-bcb8-f0c416ceb2cf.jpg"
   },
   {
    "id": "10ab647d-81dd-4b42-82f5-b73bdd361d23",
@@ -144,8 +155,10 @@
    "score": 0.24631296,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f3108e79-f42d-4db4-a88d-42eba619d3fb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:55+00:00"
+ "updatedAt": "2021-07-18T07:00:55+00:00",
+ "coverFileName": "d74861d7-a8a0-4de7-a073-f934a559c062.png"
 }

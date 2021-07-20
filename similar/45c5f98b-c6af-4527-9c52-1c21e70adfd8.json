@@ -14,7 +14,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6827a201-9294-4850-ab99-71668b07aa58.jpg"
   },
   {
    "id": "efad9362-a6bc-47f6-a0a7-80fc00572bcc",
@@ -27,7 +28,8 @@
     "es-la",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "0bf634a3-574a-43cf-b16b-ea6de3940ca1.jpg"
   },
   {
    "id": "9bd3d624-b981-4dc9-aa13-c7f1b6f293c5",
@@ -40,7 +42,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "16486632-a4e3-4cee-8706-24a466875473.png"
   },
   {
    "id": "7c679fd4-e8f1-45ea-84e6-0ddd6e30626e",
@@ -53,19 +56,21 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1a2d2f75-2f91-427d-8f30-2258ff3046b7.jpg"
   },
   {
    "id": "1f40c364-87ab-4f8e-aa2d-d909ac403c60",
    "title": {
-    "en": "Hakoniwa no Fräulein"
+    "en": "Hakoniwa no Fr\u00e4ulein"
    },
    "contentRating": "safe",
    "score": 0.3425265,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "4bddc42c-4f45-4e80-ad1e-2122fba894f9.jpg"
   },
   {
    "id": "d64a1971-2227-4a87-a268-eaadd516fdae",
@@ -80,7 +85,8 @@
     "pt-br",
     "fr",
     "de"
-   ]
+   ],
+   "coverFileName": "ac04f79f-537c-4ff2-9156-c4edb11b8439.jpg"
   },
   {
    "id": "69ac042a-3c0b-4b2e-bc3e-9087e9acd3e1",
@@ -95,7 +101,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2ac2deb9-9dca-43df-b3ec-c7dc29c53d77.jpg"
   },
   {
    "id": "db66c890-3447-4fdf-b4b3-57d4b8ea63ea",
@@ -106,7 +113,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4545a625-07de-461e-b85f-4c09c706f167.jpg"
   },
   {
    "id": "14746499-99cc-40b3-aecc-31770f1b85ce",
@@ -117,7 +125,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "217a013f-4e8f-462d-a373-f4900444f019.jpg"
   },
   {
    "id": "9403d8ab-3bf6-47f6-92a7-0affb5c82644",
@@ -128,7 +137,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1ee3125-e52b-45ee-9363-151430a5a3db.jpg"
   },
   {
    "id": "dcb9341c-ecb1-4086-aad8-c62ac7b9ab7e",
@@ -139,20 +149,23 @@
    "score": 0.3364153,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ac9a556-5ba9-4bde-90bf-4b6d015b21b1.jpg"
   },
   {
    "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Tiger & Bunny"
    },
    "contentRating": "safe",
    "score": 0.33523253,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "43583370-710b-43d6-94b4-92acd892f9b0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:28+00:00"
+ "updatedAt": "2021-07-18T06:37:28+00:00",
+ "coverFileName": "766138e9-6853-43cc-9a19-be63e1c4ad0a.jpg"
 }

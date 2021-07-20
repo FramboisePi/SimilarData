@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f81af4c3-cc6b-456b-8019-05fc606a4bb6.jpg"
   },
   {
    "id": "b905f827-8d48-4948-b58c-0d6fd330d10d",
@@ -33,7 +34,8 @@
     "hu",
     "bg",
     "ru"
-   ]
+   ],
+   "coverFileName": "432d0350-69f1-4e9e-a4ba-0b3673ad0a56.jpg"
   },
   {
    "id": "092eda70-21b5-4f60-b04f-9f54f7dfa7a7",
@@ -45,7 +47,8 @@
    "languages": [
     "it",
     "es-la"
-   ]
+   ],
+   "coverFileName": "58b43507-8493-48d5-bd57-cfef2f3e3499.jpg"
   },
   {
    "id": "ad76791b-e23c-4f9f-90dc-2500f3635637",
@@ -57,7 +60,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ce1d47ba-240f-4123-accb-7d7e4acd4a3e.jpg"
   },
   {
    "id": "acb333bb-1dca-41e8-9c85-6dceca558f5c",
@@ -69,7 +73,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "4e815827-ff90-4cf9-84ab-167807ffb664.jpg"
   },
   {
    "id": "83234da2-ee54-4065-9e72-c6977dac4f2e",
@@ -80,7 +85,8 @@
    "score": 0.37131876,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ddefdddd-8409-4b0f-bce2-15c9a0e6ba72.jpg"
   },
   {
    "id": "8fcee9b9-ed14-4eb7-a3ab-2310d508ac76",
@@ -91,7 +97,8 @@
    "score": 0.37127987,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5f68e2d-9b16-4000-ae36-321289c3bbea.jpg"
   },
   {
    "id": "8eb0ecd1-01af-4ece-aea4-f893732a8183",
@@ -102,7 +109,8 @@
    "score": 0.36866808,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cadee192-f3d9-4eb9-8552-efe929087d99.jpg"
   },
   {
    "id": "ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8",
@@ -116,7 +124,8 @@
     "ar",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "e2233f63-5a54-4220-84f9-2da8143d8a87.jpg"
   },
   {
    "id": "b7fa8210-b086-4f1b-bb5e-1f3b4c35b790",
@@ -128,19 +137,21 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "55bc0bd1-a07e-427a-a5e9-fe30fdc43607.jpg"
   },
   {
    "id": "07053359-746d-4217-82e5-add1e2c99239",
    "title": {
-    "en": "Litchi☆Hikari Club"
+    "en": "Litchi\u2606Hikari Club"
    },
    "contentRating": "safe",
    "score": 0.36390084,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0812206c-ad14-40b8-9188-7f658ffb48ee.jpg"
   },
   {
    "id": "a07a37a3-1fb8-4650-b5f7-c7ed36c5ee49",
@@ -153,8 +164,10 @@
     "en",
     "it",
     "mn"
-   ]
+   ],
+   "coverFileName": "0a037346-a6f4-4338-979f-762984c984bd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:47+00:00"
+ "updatedAt": "2021-07-18T06:44:47+00:00",
+ "coverFileName": "7b5bea93-ce0c-40e9-b276-eb376c9d3b5c.jpg"
 }

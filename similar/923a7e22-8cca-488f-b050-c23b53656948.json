@@ -14,7 +14,8 @@
    "score": 0.42397264,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73b95172-5f24-489c-8f48-5d0bfbaa7685.jpg"
   },
   {
    "id": "d7cfcd55-20fd-45de-8978-2f385bbed06a",
@@ -25,7 +26,8 @@
    "score": 0.3458225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "390f583e-aed2-48b6-8880-f278a41d4ea1.jpg"
   },
   {
    "id": "f2096f50-eda1-47a6-9741-9fad97ca08d1",
@@ -36,7 +38,8 @@
    "score": 0.34565157,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "07397900-3b66-4fd0-ba7e-6afe319a28bc.png"
   },
   {
    "id": "3a3cfc32-357e-4b50-a660-5ce4b58dfcbc",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "b514092f-4123-4872-8c10-912ca2042e24.jpg"
   },
   {
    "id": "ac54cf12-1d69-4bcc-8d14-eaec4b4da6b1",
@@ -62,7 +66,8 @@
     "es",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c909f85e-576e-47ab-907f-ec32dad6c37b.jpg"
   },
   {
    "id": "f121443c-b9f9-4e7a-ae3c-1a009bed5e62",
@@ -73,7 +78,8 @@
    "score": 0.33205485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff648a3f-acf6-4c13-90fd-0668e649486b.jpg"
   },
   {
    "id": "e1e38166-20e4-4468-9370-187f985c550e",
@@ -90,7 +96,8 @@
     "pt-br",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "d4492128-1f34-4692-9099-bf20a5442ff4.jpg"
   },
   {
    "id": "d2dec3b1-aed8-42a1-bae9-27601ac6626b",
@@ -103,7 +110,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "ef873a89-dd0c-4b23-9022-ac8f515aa107.jpg"
   },
   {
    "id": "95e964d3-55da-4218-b841-46f0f2db663c",
@@ -118,7 +126,8 @@
     "es-la",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "5f55f791-8b5f-4626-9004-ba7ff973b034.jpg"
   },
   {
    "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
@@ -135,23 +144,25 @@
     "en",
     "es",
     "ar"
-   ]
+   ],
+   "coverFileName": "0ddaffac-52f4-45a3-be61-b6be1920b7c8.jpg"
   },
   {
    "id": "dc728906-9c33-4794-aba7-8f9361ef5f25",
    "title": {
-    "en": "Ragnarök: Into the Abyss"
+    "en": "Ragnar\u00f6k: Into the Abyss"
    },
    "contentRating": "suggestive",
    "score": 0.31765828,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69550581-ab3b-4b56-bd6b-6ef06ef08180.jpg"
   },
   {
    "id": "a8c6395b-aa04-426f-aa09-284ae1c3a1e5",
    "title": {
-    "en": "Tsui no Taimashi ―Ender Geisterー"
+    "en": "Tsui no Taimashi \u2015Ender Geister\u30fc"
    },
    "contentRating": "suggestive",
    "score": 0.31510115,
@@ -163,8 +174,10 @@
     "pt-br",
     "id",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "236fc2ac-0b6a-42db-9634-7329174ad1fa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:43+00:00"
+ "updatedAt": "2021-07-18T06:51:43+00:00",
+ "coverFileName": "bbf635b6-be24-4779-a2e7-60d082760e35.jpg"
 }

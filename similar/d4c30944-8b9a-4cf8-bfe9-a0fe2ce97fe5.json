@@ -8,7 +8,7 @@
   {
    "id": "9704678d-9017-446f-a31a-afbd50cef808",
    "title": {
-    "en": "Anorexia – Shikabane Hanako wa Kyoshokushou"
+    "en": "Anorexia \u2013 Shikabane Hanako wa Kyoshokushou"
    },
    "contentRating": "safe",
    "score": 0.41922098,
@@ -16,18 +16,20 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "c4c3d3d0-2442-4d34-9118-53e558182ae7.png"
   },
   {
    "id": "f9fc84f7-d2ee-40d4-9a53-83d770acc8fe",
    "title": {
-    "en": "The Migratory Forest – A Collection of Walks"
+    "en": "The Migratory Forest \u2013 A Collection of Walks"
    },
    "contentRating": "safe",
    "score": 0.41025543,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e71110cb-5495-4706-9f65-85edf6a59a2c.jpg"
   },
   {
    "id": "a7f74ce0-ea3b-4c36-935e-14a985fa1f03",
@@ -39,7 +41,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "b8d9ed14-5ab6-4e82-a3a2-a3ec8eb244b5.jpg"
   },
   {
    "id": "8eb0ecd1-01af-4ece-aea4-f893732a8183",
@@ -50,7 +53,8 @@
    "score": 0.40518048,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cadee192-f3d9-4eb9-8552-efe929087d99.jpg"
   },
   {
    "id": "0f3be38c-41c3-4f6f-8df8-5a607c89a71b",
@@ -63,7 +67,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e2109d9d-bec9-4fdc-b81e-a54bb4a65ac9.jpg"
   },
   {
    "id": "a385d0da-d833-48f3-9178-89d7a0374a9f",
@@ -74,7 +79,8 @@
    "score": 0.38787538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3e59b519-d0eb-40b0-a288-396bbeb345d0.jpg"
   },
   {
    "id": "060efa4f-3cfc-4555-b6a8-634d7dc84aa9",
@@ -88,7 +94,8 @@
     "ca",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "2899e063-24cd-4e83-9d99-ba7573c174bd.jpg"
   },
   {
    "id": "69b88d6f-7439-46d0-9983-f4b5ea6a96c9",
@@ -101,7 +108,8 @@
     "id",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c2da65f5-1755-4d9b-8775-1ec2e24e6981.jpg"
   },
   {
    "id": "f2f62d9e-f772-42a9-84c3-6456a31c6155",
@@ -114,7 +122,8 @@
     "vi",
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "6d26f09e-a069-4aec-ab35-b1d79941e31c.jpg"
   },
   {
    "id": "1cf4159b-94e9-4a24-b419-bab9661e6798",
@@ -126,31 +135,35 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "bc449fab-a5f1-4ebe-bc3b-27b4c6ced4c2.jpg"
   },
   {
    "id": "97df800f-077a-43e5-9f91-e5e8a66cfea9",
    "title": {
-    "en": "Henai Café"
+    "en": "Henai Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6a9c5ff-8385-4400-a791-593f52dd1542.jpg"
   },
   {
    "id": "07053359-746d-4217-82e5-add1e2c99239",
    "title": {
-    "en": "Litchi☆Hikari Club"
+    "en": "Litchi\u2606Hikari Club"
    },
    "contentRating": "safe",
    "score": 0.36676988,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0812206c-ad14-40b8-9188-7f658ffb48ee.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:53+00:00"
+ "updatedAt": "2021-07-18T07:03:53+00:00",
+ "coverFileName": "949adf47-c92e-45e5-9567-c2b3917d1009.jpg"
 }

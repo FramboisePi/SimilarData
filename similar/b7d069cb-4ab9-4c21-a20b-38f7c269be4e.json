@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6ecd4402-961f-424c-932a-f682dd51fc4a.png"
   },
   {
    "id": "8124a347-eab0-4f78-a93b-09cb671d9bbf",
@@ -26,7 +27,8 @@
    "score": 0.34468117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5da0d137-ad30-445c-aa25-e7876469edc4.jpg"
   },
   {
    "id": "c19b5ea9-78dc-4103-a3f3-8ae10f383471",
@@ -37,7 +39,8 @@
    "score": 0.33368337,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "030cc8a1-8943-4157-8c68-39cf09442b29.jpg"
   },
   {
    "id": "7a4ff526-0aea-432b-872c-863493525ddf",
@@ -48,7 +51,8 @@
    "score": 0.33352953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3790d11-a2f5-4a85-a8ed-3467d3e9f29c.jpg"
   },
   {
    "id": "9dda271c-2998-4659-975b-f0a05247db1a",
@@ -59,7 +63,8 @@
    "score": 0.32700533,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "931b08a7-e20a-44f5-bfa7-174f6fb97cae.jpg"
   },
   {
    "id": "04b8ce92-a539-4d42-a326-06941a8e4d91",
@@ -71,7 +76,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "88c0c70e-41af-4846-bd60-6dd2d1ed7873.jpg"
   },
   {
    "id": "36f5a02e-9146-4684-aa11-1a8184486032",
@@ -82,7 +88,8 @@
    "score": 0.31705198,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e331f858-57e5-443a-8378-b401ba4ee5c3.jpg"
   },
   {
    "id": "cc1b8669-82b2-4232-99c1-40d48fc2d988",
@@ -99,12 +106,13 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8292d07f-4689-4f80-b87e-a2f6b3ad82e6.jpg"
   },
   {
    "id": "d8b55050-314a-4b06-8a3a-a37180512edf",
    "title": {
-    "en": "Dragon Ball: Ossu! Kaette Kita Son Gokū to Nakama-tachi!!"
+    "en": "Dragon Ball: Ossu! Kaette Kita Son Gok\u016b to Nakama-tachi!!"
    },
    "contentRating": "safe",
    "score": 0.31343672,
@@ -112,7 +120,8 @@
     "pl",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b71c91ab-b4e7-4621-8532-af04718ca06a.jpg"
   },
   {
    "id": "2bc898b7-747b-469e-a3b3-fed87669bab6",
@@ -124,7 +133,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b4d62b44-94af-4c9a-885a-c5ca307373bd.jpg"
   },
   {
    "id": "6fe9349a-8eeb-42cf-bead-e6f40b2653de",
@@ -135,7 +145,8 @@
    "score": 0.30221575,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe89ab4d-2b7d-4f24-b6a0-6fbaf3de3050.jpg"
   },
   {
    "id": "871c0581-f894-4772-8a3e-7ec97ab592a0",
@@ -147,8 +158,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "eeed07d2-b582-44f1-be81-555880d61986.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:39+00:00"
+ "updatedAt": "2021-07-18T06:58:39+00:00",
+ "coverFileName": "528d4c46-0649-4b59-8ee8-bc5120a35f32.jpg"
 }

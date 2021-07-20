@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b69c9413-8bfe-4d9c-8dc8-c36aa2104bee.jpg"
   },
   {
    "id": "7642ae5a-57c8-41d2-aa88-c13dbab8e862",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f158d45e-dc38-4fa8-9f53-aa12a193181e.png"
   },
   {
    "id": "6edc2a6a-dfa4-47b7-a87a-f494381ae1c3",
@@ -41,19 +43,21 @@
     "es",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "a7c3fbfb-fb73-4335-afcb-ff6a63be2f3e.jpg"
   },
   {
    "id": "36bad9cb-6310-4048-a48e-a1ab7b7dcb3e",
    "title": {
-    "en": "Demon X Angel, Can’t Get Along!"
+    "en": "Demon X Angel, Can\u2019t Get Along!"
    },
    "contentRating": "safe",
    "score": 0.3572133,
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f9b2bc85-6938-477c-8507-1f654ccae743.jpg"
   },
   {
    "id": "4e8f9100-1a9d-493d-b6ef-9cfaed991594",
@@ -68,7 +72,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "4fef9326-139e-471c-9579-8a7824fe413f.jpg"
   },
   {
    "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
@@ -84,7 +89,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4d4e3d89-da27-4961-82a0-e64c6cfc163d.jpg"
   },
   {
    "id": "f06961b6-5567-4148-8dec-d3b03ce78b7d",
@@ -96,7 +102,8 @@
    "languages": [
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "f11d002a-3a7e-44e9-8c39-38ef4936ff9e.jpg"
   },
   {
    "id": "fe4f8394-ee72-47de-ae62-5d151d178948",
@@ -108,7 +115,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3c1a9172-f1ba-4e0e-b4de-20bf821f926a.jpg"
   },
   {
    "id": "5ebea611-ca7e-4ce4-b08d-02b1611f4fe0",
@@ -124,7 +132,8 @@
     "id",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "bc7e82f9-3e64-4a92-8c1a-108702e34a34.png"
   },
   {
    "id": "c615dd55-dbfd-4416-b631-01232984aa71",
@@ -137,12 +146,13 @@
     "id",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5d85a10b-3f94-4c09-b166-a9d10fd8e32b.png"
   },
   {
    "id": "58d037b5-7215-4ab1-9b42-28b4c450093b",
    "title": {
-    "en": "Living as an Emperor's Fiancée"
+    "en": "Living as an Emperor's Fianc\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.3436765,
@@ -150,7 +160,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "7704add4-dd4e-428c-b583-3190d10c8b1b.jpg"
   },
   {
    "id": "787e365d-7254-4509-820a-b63cc44331a9",
@@ -162,8 +173,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "2db45733-1ed6-4675-8d74-4a36f154a086.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:15+00:00"
+ "updatedAt": "2021-07-18T06:43:15+00:00",
+ "coverFileName": "a8aba872-8172-41ca-a07f-ccd66286a6cd.jpg"
 }

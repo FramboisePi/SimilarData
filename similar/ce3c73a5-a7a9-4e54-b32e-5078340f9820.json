@@ -1,7 +1,7 @@
 {
  "id": "ce3c73a5-a7a9-4e54-b32e-5078340f9820",
  "title": {
-  "en": "Sour \u0026 Sweet"
+  "en": "Sour & Sweet"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45659432,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fb609c72-b989-4ffd-b948-f633846c089f.png"
   },
   {
    "id": "155d9c8d-3329-4f05-9c01-5f03c6cb57f6",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f8e666b3-67d5-4e7b-aa1b-c7846eb175d1.png"
   },
   {
    "id": "5ab26430-2fde-46e8-885f-0766c7616019",
@@ -37,12 +39,13 @@
    "score": 0.3802072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dab6dbd3-d5d9-4808-aafe-7434fbcb8541.jpg"
   },
   {
    "id": "11c0c5ea-ac3f-4d94-9df6-401f65ffb9a3",
    "title": {
-    "en": "Rockin' ★ Heaven"
+    "en": "Rockin' \u2605 Heaven"
    },
    "contentRating": "safe",
    "score": 0.36715606,
@@ -50,7 +53,8 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c3d88691-88d7-4329-9e16-8f85fe53ed2c.jpg"
   },
   {
    "id": "e337a405-f607-4ee3-b94b-160a5af9ab4d",
@@ -62,7 +66,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "1fa393ee-5db7-4732-9e7f-e3de8145fd29.jpg"
   },
   {
    "id": "cb72790c-16e7-49d1-83b9-8e9e89accf96",
@@ -73,7 +78,8 @@
    "score": 0.3558765,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc28a1aa-1e0d-42c8-9d0f-b4c6eaddc83c.jpg"
   },
   {
    "id": "7d46e6a0-27fe-43ab-934b-4f00ce5b844d",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "681c73e8-1d89-44d0-9f40-1997f565fc42.jpg"
   },
   {
    "id": "19cd89c7-fe45-4733-934d-46b66364bb89",
@@ -96,7 +103,8 @@
    "score": 0.34614778,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b095d5ae-d5c3-4ddc-9ba7-ecdccc1a4045.png"
   },
   {
    "id": "d777e508-8115-4541-b898-dbfdca3142b6",
@@ -107,7 +115,8 @@
    "score": 0.34572783,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "84655ebe-c76f-49a0-bb28-3df9abecbc3b.jpg"
   },
   {
    "id": "8453c07a-0462-415c-b041-6b54f2fe0944",
@@ -118,7 +127,8 @@
    "score": 0.34540004,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd025ecb-4a59-4af5-bbb3-874897317539.jpg"
   },
   {
    "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
@@ -129,7 +139,8 @@
    "score": 0.34213707,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e5a11c9-40d4-442b-9239-0add6bf3a304.jpg"
   },
   {
    "id": "a4b6f3f9-3228-46f4-879e-9d3afdc81052",
@@ -140,8 +151,10 @@
    "score": 0.34120044,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e4a2dc6-1561-4cbe-bca7-1d557548fee0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:40+00:00"
+ "updatedAt": "2021-07-18T07:02:40+00:00",
+ "coverFileName": "845f8ed7-cc43-49f7-83bd-5687c48a7fd3.jpg"
 }

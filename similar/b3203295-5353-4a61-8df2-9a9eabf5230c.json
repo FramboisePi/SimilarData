@@ -8,14 +8,15 @@
   {
    "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
    "title": {
-    "en": "Dogs / Bullets \u0026 Carnage"
+    "en": "Dogs / Bullets & Carnage"
    },
    "contentRating": "safe",
    "score": 0.4856178,
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "37bbdee6-8ec1-4bbd-ab98-f2315637ac14.jpg"
   },
   {
    "id": "e73a55e0-2fc8-44ba-9d43-fe4aadd04b2f",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "b717b87b-07e6-429e-9149-243427df5847.jpg"
   },
   {
    "id": "56fbace8-5fbd-4a7d-a642-9c0e4a42c552",
@@ -38,7 +40,8 @@
    "score": 0.4256385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cbb85c5a-e1c3-4e6c-8f41-94f766c3808c.jpg"
   },
   {
    "id": "f5c031c8-a9ff-4be1-bb47-d12f3f688bb6",
@@ -49,7 +52,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40909339-d987-46fb-bbf6-893a9c183cd3.png"
   },
   {
    "id": "313a75c4-2432-46bb-99eb-c080d8dd0010",
@@ -64,7 +68,8 @@
     "es-la",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2bec57c0-bcd2-4689-8315-06826f674f4e.jpg"
   },
   {
    "id": "4cb2ac5d-1373-4523-bff7-194986c67ef4",
@@ -75,19 +80,21 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2879d3a-27d7-4481-b23f-2fbdd403fb98.jpg"
   },
   {
    "id": "9a1a2636-9854-4bf3-966c-6135d574c4c6",
    "title": {
-    "en": "Tokoshie × Bullet - Shin Minato Koubou-sen"
+    "en": "Tokoshie \u00d7 Bullet - Shin Minato Koubou-sen"
    },
    "contentRating": "safe",
    "score": 0.39772195,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "11ef4938-44a4-48b2-a242-4486a4d1fbe5.jpg"
   },
   {
    "id": "aaa614ba-2dba-4b8e-ae15-1dee1d1d72ea",
@@ -98,7 +105,8 @@
    "score": 0.3773342,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0bae26dd-41b7-4fac-8f71-b21a3fcf648b.jpg"
   },
   {
    "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
@@ -109,7 +117,8 @@
    "score": 0.3735989,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3619583d-a4b3-46b3-8896-60d8f50dc882.jpg"
   },
   {
    "id": "ddfc910b-9923-4048-a260-e5606f9e112d",
@@ -120,7 +129,8 @@
    "score": 0.36728582,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef5c22f1-c51c-4e5d-a0b0-ee6294dec524.jpg"
   },
   {
    "id": "a560cc33-e364-4556-884a-957c4de60d23",
@@ -131,7 +141,8 @@
    "score": 0.3618032,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d23e14e9-0aaf-474b-a1a1-55ec3437ad60.jpg"
   },
   {
    "id": "1901534b-4fdd-4176-a06e-f2c7ac495f09",
@@ -142,8 +153,10 @@
    "score": 0.35438144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9fcc6dbf-f1e2-4bf2-9fd6-76517310e6af.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:44+00:00"
+ "updatedAt": "2021-07-18T06:57:44+00:00",
+ "coverFileName": "a06f8a72-c1c3-4911-a108-23ad60c328a7.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a6c09271-c50a-4cc0-a122-74662852051f.jpg"
   },
   {
    "id": "687abfb8-6b36-42e5-bf97-a3853de172eb",
@@ -26,7 +27,8 @@
    "score": 0.46147394,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c093372c-a10c-4d48-880e-7984af2f2638.jpg"
   },
   {
    "id": "89f72dfe-5c24-4f26-988e-46ffcd02acf8",
@@ -37,7 +39,8 @@
    "score": 0.45999947,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da2dcbba-d5ea-46bf-9210-426dd896cbd6.jpg"
   },
   {
    "id": "53a84ca6-a6ef-4273-92f4-8f894d86fafe",
@@ -48,7 +51,8 @@
    "score": 0.45906934,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "490a970e-bd80-4be3-baaa-042217e088a6.jpg"
   },
   {
    "id": "07500447-533b-4d64-93e3-4fbb8458a42d",
@@ -60,7 +64,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "d8502ca4-1186-4435-be52-8b30dba38c17.jpg"
   },
   {
    "id": "5a630c5f-8557-40a2-8c06-a86fc83563f1",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "000bfaab-9b67-4273-8f37-876c75cde449.jpg"
   },
   {
    "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a2434820-b719-4075-bbe8-7428c7bad5a9.jpg"
   },
   {
    "id": "484ce390-f74b-46d1-9840-3b285d2b372e",
@@ -98,7 +105,8 @@
     "id",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5fb88af3-27ef-401f-be62-2d979c089057.jpg"
   },
   {
    "id": "b2ba7d52-9cbb-4673-a74c-68642a13f743",
@@ -111,7 +119,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "1011ea51-4e59-454d-8045-9d6181635275.png"
   },
   {
    "id": "107be290-6a4b-4974-a9c5-3761a2514823",
@@ -122,12 +131,13 @@
    "score": 0.45640057,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5e98892-12ac-4dc0-b35b-0d8cad28b926.jpg"
   },
   {
    "id": "9ef97eba-e0bc-452c-9ed0-bfb645d9b536",
    "title": {
-    "en": "Hitoribocchi no ○○ Seikatsu"
+    "en": "Hitoribocchi no \u25cb\u25cb Seikatsu"
    },
    "contentRating": "safe",
    "score": 0.4562126,
@@ -138,7 +148,8 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "625a18b4-1b16-4077-84e1-fedce5aed568.jpg"
   },
   {
    "id": "ad665f6c-f932-44c1-aad4-8307441a9756",
@@ -150,8 +161,10 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "8ad0af32-b786-4ce2-9fe9-0a443d78490c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:47+00:00"
+ "updatedAt": "2021-07-18T07:10:47+00:00",
+ "coverFileName": "b68047b4-a297-4c54-a042-afed7903ef5b.jpg"
 }

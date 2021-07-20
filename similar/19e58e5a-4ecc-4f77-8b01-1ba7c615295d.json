@@ -21,7 +21,8 @@
     "fr",
     "nl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cb645d3c-acd8-40a8-af30-914934bf32d0.jpg"
   },
   {
    "id": "6e156d65-cf65-4d5b-9d04-52f2f8100fbf",
@@ -37,7 +38,8 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "08941079-9df5-4a9c-9272-f0102ebdfa37.jpg"
   },
   {
    "id": "f2fef554-93f3-4340-af6c-cd4123168267",
@@ -49,7 +51,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "5b38934a-35e2-4b7e-b798-393d6a1e1c89.jpg"
   },
   {
    "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
@@ -60,7 +63,8 @@
    "score": 0.38654396,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ced5536b-92ac-4954-8c30-5f0ba53f1590.jpg"
   },
   {
    "id": "f0933b14-091a-4540-a395-287e38f74260",
@@ -72,7 +76,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "63eb22e3-b255-4fec-91b0-87c35eae3de2.jpg"
   },
   {
    "id": "837e01d6-f59b-4c2a-b9f7-68469215d0c6",
@@ -89,7 +94,8 @@
     "th",
     "fr",
     "de"
-   ]
+   ],
+   "coverFileName": "cfa8aac6-e815-45f5-94ed-e6ac413d3f02.jpg"
   },
   {
    "id": "d3731564-c453-4486-b24e-567a3ad3bc2e",
@@ -102,7 +108,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8843094a-ca44-4d25-ab8b-a4708b670aef.jpg"
   },
   {
    "id": "997d322b-22de-4875-a1a4-2a80dba21d4c",
@@ -118,7 +125,8 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "200c1656-44df-48b0-b3f9-41a994af17d0.jpg"
   },
   {
    "id": "0f237a5f-07ad-4e43-bbd9-2a320694434d",
@@ -137,12 +145,13 @@
     "ar",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8060cee1-db91-4c7f-8827-fbf370a93a91.jpg"
   },
   {
    "id": "2dab66cc-f819-4ac4-8566-717331348f4b",
    "title": {
-    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn’t Too Much of a Hassle"
+    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn\u2019t Too Much of a Hassle"
    },
    "contentRating": "safe",
    "score": 0.3738839,
@@ -151,7 +160,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "5cfe0c26-0ba4-4d2d-857c-69d6bddc978b.jpg"
   },
   {
    "id": "9c01d5d1-2ce3-4745-be54-8aff89300bfa",
@@ -165,7 +175,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "098611b2-2999-4ea7-b51f-4b504c94c3b7.jpg"
   },
   {
    "id": "45a1ac5c-8be7-4a5a-8610-ff6495a1e72c",
@@ -183,8 +194,10 @@
     "fr",
     "it",
     "hu"
-   ]
+   ],
+   "coverFileName": "6d37908c-f43d-4f52-8fa5-4d867e241296.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:19+00:00"
+ "updatedAt": "2021-07-18T06:29:19+00:00",
+ "coverFileName": "001a490e-cde1-4762-9f34-21558a71a4b2.jpg"
 }

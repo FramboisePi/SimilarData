@@ -1,7 +1,7 @@
 {
  "id": "8a7a0e0a-927e-4b25-b87b-e5f8c6eb1043",
  "title": {
-  "en": "Mathematical Girls - Gödel's Incompleteness Theorems"
+  "en": "Mathematical Girls - G\u00f6del's Incompleteness Theorems"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 1.113288,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10b0578a-f633-4f37-b069-ce506f1bb030.jpg"
   },
   {
    "id": "be55b256-fd05-473f-9686-8cc65e89bb86",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "c29437b0-acd6-422b-b4ea-a103f33c1b70.jpg"
   },
   {
    "id": "1591c256-e561-4e4b-a57c-64079ef1958e",
@@ -37,7 +39,8 @@
    "score": 0.49615243,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0c40b6e-eb6e-429c-8387-f6e7e54540ef.jpg"
   },
   {
    "id": "2490c46b-9bb7-4375-ad8e-dda9d616bcd0",
@@ -48,7 +51,8 @@
    "score": 0.4650019,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc9e1aa3-801f-4ef8-90d3-0deaef3120b6.jpg"
   },
   {
    "id": "d723151b-eac7-4d4e-afba-77b14d1a1810",
@@ -59,7 +63,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0f5b72ab-3843-48af-a112-d98b12b31222.jpg"
   },
   {
    "id": "14f36f94-bd10-4101-99d4-73685ca227be",
@@ -70,7 +75,8 @@
    "score": 0.42822504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0717c45-ccf6-4bf0-ad09-1118aa2cd296.jpg"
   },
   {
    "id": "3b997adf-c95e-4c59-ab6a-87172f5e0b56",
@@ -81,7 +87,8 @@
    "score": 0.42389858,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "26ef42a9-70dc-4e00-8dd2-e55b814866f8.png"
   },
   {
    "id": "8834e500-8e21-4298-9be5-6f8846342841",
@@ -92,7 +99,8 @@
    "score": 0.40805167,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40ab9e85-cda2-448c-bedd-435a12ce377b.jpg"
   },
   {
    "id": "f556bf5c-1035-47b7-8ef2-416f28cb5e91",
@@ -103,7 +111,8 @@
    "score": 0.40721714,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d98ddf47-5df0-4c29-9504-566329ae402a.jpg"
   },
   {
    "id": "2c4ebb00-12e7-40e8-9d35-687ad08d2bf1",
@@ -115,7 +124,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "11960768-3f80-4973-ae09-0cac03a80e05.jpg"
   },
   {
    "id": "d97e4080-3367-4ca9-a9e3-d4dd22b29f5c",
@@ -126,7 +136,8 @@
    "score": 0.40412655,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e82d00a-e3ec-460d-ad8a-8d5a8f660620.jpg"
   },
   {
    "id": "9dbfcbb8-5b99-4222-afac-6da29f380994",
@@ -137,8 +148,10 @@
    "score": 0.40159503,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de69162d-45fd-41df-890d-f607c7f75ee1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:14+00:00"
+ "updatedAt": "2021-07-18T06:50:14+00:00",
+ "coverFileName": "71bb506e-5d01-4138-b3c4-db688c4bd970.jpg"
 }

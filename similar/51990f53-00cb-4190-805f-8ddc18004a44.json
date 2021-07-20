@@ -8,14 +8,15 @@
   {
    "id": "3d5e9f96-3f86-43ed-b468-4013faf1a387",
    "title": {
-    "en": "Ai no donā"
+    "en": "Ai no don\u0101"
    },
    "contentRating": "safe",
    "score": 0.34016803,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cbf74602-6b49-404b-96ca-bcea909fdbe5.jpg"
   },
   {
    "id": "8d052607-3f52-41ed-a6b7-c7c5c9bfbf72",
@@ -28,7 +29,8 @@
     "fr",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "58a50892-185a-432a-bf58-460bc0c5e72c.jpg"
   },
   {
    "id": "7c5674c9-1128-4f8a-b241-b13b0ca0f4e4",
@@ -44,7 +46,8 @@
     "ru",
     "en",
     "tl"
-   ]
+   ],
+   "coverFileName": "b46a15f0-a835-48ee-9d75-e37167127f79.jpg"
   },
   {
    "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
@@ -59,7 +62,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "56b76750-67bf-45cd-a623-a0681b3da782.png"
   },
   {
    "id": "433219cf-6b3c-4d0d-88ce-7915355c8830",
@@ -70,7 +74,8 @@
    "score": 0.30425555,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5cabcfa7-64d2-444a-afe4-245c54ed6036.png"
   },
   {
    "id": "632a9f57-28fc-453e-bed4-72106c422b0b",
@@ -82,7 +87,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a334a12f-71d0-4d6f-bef5-29a42a722c2c.png"
   },
   {
    "id": "e4fd36ba-57bf-4d91-8989-7d3d8e37c750",
@@ -94,7 +100,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "72787d40-6bb9-46da-8e16-9a46884001a3.jpg"
   },
   {
    "id": "2bf49f98-e022-46ff-9857-ed1753c815d0",
@@ -105,7 +112,8 @@
    "score": 0.3006689,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2fa8802a-52ab-4228-8fdc-8458119b59e5.jpg"
   },
   {
    "id": "626300e2-21de-4aa0-917a-dedbccdceb22",
@@ -120,7 +128,8 @@
     "it",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f5273ca9-01f8-4a77-b5e8-e9781f2cd301.jpg"
   },
   {
    "id": "8c870620-4a00-4f77-ac02-dcf9571a5088",
@@ -133,7 +142,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "03635e09-426d-4a51-9482-1be9d5d1d172.jpg"
   },
   {
    "id": "b0c0ab30-eeb6-4ec9-9adf-1e78bd0a1689",
@@ -146,7 +156,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "28151ef5-af51-468f-a78e-263b7695bbb5.png"
   },
   {
    "id": "d3b2551e-d1b9-4767-b149-39c52467ee5b",
@@ -158,8 +169,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f6f57849-492e-44ed-ad6f-ea8a666fd6d9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:38+00:00"
+ "updatedAt": "2021-07-18T06:39:38+00:00",
+ "coverFileName": "67f29aab-83cf-4827-90b4-a96fdcdfb17d.jpg"
 }

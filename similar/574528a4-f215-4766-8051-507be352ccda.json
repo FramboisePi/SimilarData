@@ -17,7 +17,8 @@
     "pt-br",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "cb99e4ae-d18f-4b3f-8229-c59c517acbee.jpg"
   },
   {
    "id": "f36a2abd-6a17-41ab-81e5-385b3da6cae0",
@@ -29,7 +30,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ac1e8f67-50af-47a2-abf1-440c8e5abc4f.png"
   },
   {
    "id": "232994be-1eef-4aa1-bc16-d0d9c50a4661",
@@ -40,7 +42,8 @@
    "score": 0.49962512,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04f6763b-d4f3-49d0-be0f-dd3ad204a1ad.jpg"
   },
   {
    "id": "d8622db6-2a52-486b-9df6-b8ad807727ca",
@@ -51,7 +54,8 @@
    "score": 0.48015,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "681f21b3-5549-4e04-9617-0574bd7e628f.jpg"
   },
   {
    "id": "98e827f7-302d-477b-a6f4-a92ad42cc309",
@@ -62,7 +66,8 @@
    "score": 0.46739244,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac51d019-96c0-438f-858d-45c6c5eed40c.jpg"
   },
   {
    "id": "7edac8f7-52ec-4887-93d8-8dabb99430a7",
@@ -73,7 +78,8 @@
    "score": 0.4636412,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1b8a047c-2e32-40e2-a5c3-ac631d8d932d.png"
   },
   {
    "id": "efce5c3b-81ac-4cef-afee-d3730af5a392",
@@ -84,7 +90,8 @@
    "score": 0.46336633,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98015b6c-4057-428b-ac3c-20d1cf749d80.jpg"
   },
   {
    "id": "adfdca67-8874-4ad3-91d3-9bb1fa461d5c",
@@ -95,7 +102,8 @@
    "score": 0.46204716,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fa4bc69-159c-4f12-a606-641c8383be5f.jpg"
   },
   {
    "id": "54e7001b-6112-4d5f-8b0e-d8df33abf72d",
@@ -106,7 +114,8 @@
    "score": 0.45690876,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e55ec7b-c258-4a6b-8d8d-32fa6850967b.jpg"
   },
   {
    "id": "b2d905f6-3d09-43ba-9b52-98761e29b03f",
@@ -118,18 +127,20 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "f32e5c25-91ae-4bab-a991-9abcd65c65c9.jpg"
   },
   {
    "id": "0f2bdb5c-2177-468d-a60b-4b79f3955218",
    "title": {
-    "en": "Snow \u0026 Sunflower"
+    "en": "Snow & Sunflower"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b9fb8b1-4b04-425f-a2d4-3e57513e0599.jpg"
   },
   {
    "id": "2d80434c-3e69-49c4-b5be-3bced151d00d",
@@ -140,8 +151,10 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "79b39735-764b-4781-a963-af22dda60151.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:42+00:00"
+ "updatedAt": "2021-07-18T06:40:42+00:00",
+ "coverFileName": "c7db264e-7223-4d87-be34-70be02c9aa54.jpg"
 }

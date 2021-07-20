@@ -1,7 +1,7 @@
 {
  "id": "34cc206d-d415-4d56-b80b-aa1d0342ad45",
  "title": {
-  "en": "Love \u0026 Hate (Kurono Yuu)"
+  "en": "Love & Hate (Kurono Yuu)"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "es-la",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cac1edef-16d5-45a2-939a-0fb9c536c2fc.jpg"
   },
   {
    "id": "848c2eef-f318-4be1-8e86-e894b0ba4b13",
@@ -29,7 +30,8 @@
     "it",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "41c8d41f-707b-4c2e-8551-9110183f4b76.jpg"
   },
   {
    "id": "48a68503-d273-47a5-ae66-c5a6f2785ed2",
@@ -40,7 +42,8 @@
    "score": 0.27154243,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "19c92441-0834-4915-b960-1f9600b21a84.jpg"
   },
   {
    "id": "450e6122-00a7-4b77-91e3-8a8b0c6cd1ba",
@@ -52,12 +55,13 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "90088567-26b0-4c16-9e53-afba9aefe5dd.jpg"
   },
   {
    "id": "924b3c32-f9ac-41dc-8e3c-44e9a3d482bc",
    "title": {
-    "en": "We Swore to Meet in the Next Life and That’s When Things Got Weird!"
+    "en": "We Swore to Meet in the Next Life and That\u2019s When Things Got Weird!"
    },
    "contentRating": "safe",
    "score": 0.21445599,
@@ -65,7 +69,8 @@
     "es-la",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "c3153846-d881-4e56-991b-6c5fc49b048b.jpg"
   },
   {
    "id": "04b35203-e080-4142-884b-e1c8bf5b3bc9",
@@ -78,7 +83,8 @@
     "zh-hk",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "877caabd-fb2e-4048-97f2-ae37d97f7b0b.jpg"
   },
   {
    "id": "84071882-5007-4004-a7dd-f7a051439b99",
@@ -92,7 +98,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "925b1be9-9c19-4ac2-bb72-4d1d723d6f67.jpg"
   },
   {
    "id": "c3d3d5b6-7a44-4f12-a625-8af3f716d815",
@@ -105,7 +112,8 @@
     "es-la",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "cd9b6535-e708-4ebe-8995-0b5cfd72068c.jpg"
   },
   {
    "id": "e9080e7a-d6b0-4224-8145-8bcba8bc9747",
@@ -119,7 +127,8 @@
     "en",
     "pl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c2e7c8e9-2550-451e-8195-a8512d3a773b.jpg"
   },
   {
    "id": "b0f2be93-67f9-453c-a1be-c16e2f7d4b2c",
@@ -131,7 +140,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "9dc29355-6ba9-404e-83e8-70be932f63a7.png"
   },
   {
    "id": "ec5eccdd-723b-43eb-a10a-8a2c40bf9141",
@@ -144,7 +154,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "69902289-1d2e-4620-a953-32a26fff62ca.jpg"
   },
   {
    "id": "c557bee8-0eca-44f8-8983-868a9b842c77",
@@ -156,8 +167,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "d93c9656-5c11-4c21-8ad1-4f5b323a4482.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:17+00:00"
+ "updatedAt": "2021-07-18T06:34:17+00:00",
+ "coverFileName": "b7f384e7-a4c3-4897-bb38-4b3a258f8b15.jpg"
 }

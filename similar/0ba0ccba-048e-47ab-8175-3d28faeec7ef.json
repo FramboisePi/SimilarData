@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ed45c8a9-cc27-42f4-a4f0-2cb485b00203.png"
   },
   {
    "id": "bfcf32d1-ce92-497a-a6a1-979fdbc8bd6f",
@@ -27,7 +28,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "de573ad7-e58d-4be2-9f96-5fce80275c50.jpg"
   },
   {
    "id": "672032b6-0691-4161-92a7-77bc65e15d5d",
@@ -38,7 +40,8 @@
    "score": 0.46099114,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "b9024fd6-1024-41fe-a6cc-0141f25ef849.jpg"
   },
   {
    "id": "ba855462-dcb3-4240-a52e-4dc2c2e55e4d",
@@ -53,7 +56,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "a122b278-359c-4cf7-a328-60ba908f368c.jpg"
   },
   {
    "id": "586c9e6d-28db-46ab-9575-31e26d578f04",
@@ -66,7 +70,8 @@
     "ar",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "cb7de41e-e671-42e0-b113-d757159e0c50.jpg"
   },
   {
    "id": "d6af3027-bbb1-4ff8-b0ed-4170a66d301e",
@@ -78,7 +83,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "091642a1-f934-4b97-8084-7b76aabbba47.jpg"
   },
   {
    "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
@@ -90,7 +96,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "cf9a0f95-0c05-441f-b2b1-6ba550456bf1.jpg"
   },
   {
    "id": "098ecd04-5291-407b-96de-526efd1d9429",
@@ -101,19 +108,21 @@
    "score": 0.41267908,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "01dda9ce-ba5c-4feb-9975-bf933ca7986f.jpg"
   },
   {
    "id": "5bdc5522-cedc-45f7-b932-fb6690fc8f53",
    "title": {
-    "en": "Peter Pan♠Syndrome"
+    "en": "Peter Pan\u2660Syndrome"
    },
    "contentRating": "safe",
    "score": 0.41148192,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d7341657-ec02-4541-a0a9-a373b7bfc9bd.jpg"
   },
   {
    "id": "ffaa3dad-543d-4668-91d4-777078193ed8",
@@ -125,7 +134,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c051dc0c-0e87-4bca-b6b5-c7afd108f84d.jpg"
   },
   {
    "id": "0c235527-56bc-48bb-86c6-8f36d9c77d8e",
@@ -136,7 +146,8 @@
    "score": 0.40904674,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "c838311a-6a27-4c68-b45c-69539cec55c1.jpg"
   },
   {
    "id": "937961e2-6bea-45d2-9d99-f5b263c44b14",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "83d8f3c4-17ab-49f5-9cfe-ce6af690968f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:26:37+00:00"
+ "updatedAt": "2021-07-18T06:26:37+00:00",
+ "coverFileName": "e8b3c1af-76b2-4eb0-a436-3835242971b2.png"
 }

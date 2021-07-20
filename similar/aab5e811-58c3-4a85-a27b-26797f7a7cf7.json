@@ -1,7 +1,7 @@
 {
  "id": "aab5e811-58c3-4a85-a27b-26797f7a7cf7",
  "title": {
-  "en": "Uta no☆Prince-sama♪"
+  "en": "Uta no\u2606Prince-sama\u266a"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "6828e72f-1ec0-4046-9ed5-cfc2937d4d07.jpg"
   },
   {
    "id": "a9b51d9e-cadf-4fba-8af6-b00213f0060e",
@@ -26,7 +27,8 @@
    "score": 0.45690945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b432e178-1bc2-45eb-a387-db80d09e6c54.png"
   },
   {
    "id": "a985f6c8-e021-41c8-91b9-b3bbd2f60502",
@@ -38,7 +40,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7f8186b0-66ec-4dc5-bb1b-fed8b2f441fd.png"
   },
   {
    "id": "95e10dfe-9626-4b74-b680-63f30e549861",
@@ -50,7 +53,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "bf14babc-2ddc-4b5d-a94b-9415f7e9b462.jpg"
   },
   {
    "id": "fddb06e4-834f-418b-b6d1-dac27d86329f",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "28226c17-e53d-41fb-8b4d-8f0116aed050.jpg"
   },
   {
    "id": "9acd62f8-2c95-4769-87bd-1463e3000c2e",
@@ -73,7 +78,8 @@
    "score": 0.41840777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9300721-656b-49d8-aab2-77ae5a1eb372.jpg"
   },
   {
    "id": "10b5a02d-937c-42fd-8330-8f6f45dcbaa0",
@@ -84,7 +90,8 @@
    "score": 0.41265017,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1110e270-9c4b-4afc-a432-02a5ac189d58.jpg"
   },
   {
    "id": "facc8c28-832a-4d0b-9ce8-0efee600ed96",
@@ -96,7 +103,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "81da298b-83c3-4c99-9bb3-930b05129f88.jpg"
   },
   {
    "id": "e3238651-a341-485d-98cb-eea242b4d192",
@@ -109,7 +117,8 @@
     "it",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "87f7fae0-35cb-4181-b264-e17f367cec09.jpg"
   },
   {
    "id": "e79ec516-e6c8-438c-a45f-fcdde1df0ea7",
@@ -121,7 +130,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "03891011-9399-4f60-9cb9-e89026cc5af4.jpg"
   },
   {
    "id": "d777e508-8115-4541-b898-dbfdca3142b6",
@@ -132,7 +142,8 @@
    "score": 0.39909628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "84655ebe-c76f-49a0-bb28-3df9abecbc3b.jpg"
   },
   {
    "id": "0dad705a-d5da-45f4-a728-162272ece1ca",
@@ -144,8 +155,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3c92764c-0b8a-4e1c-91fa-6c42680d0319.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:10+00:00"
+ "updatedAt": "2021-07-18T06:56:10+00:00",
+ "coverFileName": "c84687bd-82b3-462d-b12b-d93d9ce7b97a.jpg"
 }

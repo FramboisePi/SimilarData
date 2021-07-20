@@ -8,13 +8,14 @@
   {
    "id": "df148d10-0c7e-4908-9be8-35c63c0190ef",
    "title": {
-    "en": "∀ Gundam"
+    "en": "\u2200 Gundam"
    },
    "contentRating": "safe",
    "score": 0.46212524,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fe61334-c7df-4da1-8f8e-3837226a9e1d.jpg"
   },
   {
    "id": "5b7e38e7-fdda-4069-87cc-2945f09d23aa",
@@ -25,18 +26,20 @@
    "score": 0.4560493,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c3a49d6-e7cf-46f4-8e16-88ca33956485.png"
   },
   {
    "id": "c48abd82-74d0-4be7-a6f1-ccc436759643",
    "title": {
-    "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessinée"
+    "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.38849127,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4d7653c-8ab3-4e5e-b371-8f9a609b4f83.jpg"
   },
   {
    "id": "30ebfbbe-66c1-4ec3-9c2e-ca09b6b35853",
@@ -47,7 +50,8 @@
    "score": 0.3776447,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b6a96bd-a67a-49db-8e5a-950d684fcc60.jpg"
   },
   {
    "id": "1806aef6-ee6b-4e76-926e-afc5efb288e6",
@@ -60,7 +64,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9c6e3c60-bbc8-429e-bbe8-a3f57f9da2cf.jpg"
   },
   {
    "id": "bd78a2dc-8a7d-46b7-9d6c-6aed3dff68d6",
@@ -71,7 +76,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5cb78553-1f09-4617-a845-e95885945a5e.jpg"
   },
   {
    "id": "2da0f27d-6cd0-4712-ac29-2212ab2555ce",
@@ -82,7 +88,8 @@
    "score": 0.34946114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c8c1edc-4508-42da-909d-c8b1dae8f765.jpg"
   },
   {
    "id": "9fdcba2a-fa31-41e5-a1f0-6db9d02a2ddf",
@@ -93,7 +100,8 @@
    "score": 0.33836427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "42f28ca0-96a7-4929-9a72-483bdcbe6017.jpg"
   },
   {
    "id": "a5e920a7-81c3-4703-bdb7-c8d0b24920b1",
@@ -104,7 +112,8 @@
    "score": 0.33836427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c067a38b-146e-48b9-88e9-f4ee544d3221.jpg"
   },
   {
    "id": "e171c073-4415-499b-85bc-ea93825127ac",
@@ -118,7 +127,8 @@
     "pt-br",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "c3587ee9-7f0b-4ae4-916e-a8edaa7ff797.jpg"
   },
   {
    "id": "a29bd145-116e-49c8-bc2f-b15857299304",
@@ -131,7 +141,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "22d1a482-c729-46ea-a807-68f50b6b3a66.jpg"
   },
   {
    "id": "917d6659-d3b7-4e96-ae04-92bd97581b29",
@@ -142,8 +153,10 @@
    "score": 0.33040622,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04cd192f-bd47-4655-b483-bf84ccbd2126.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:39+00:00"
+ "updatedAt": "2021-07-18T06:48:39+00:00",
+ "coverFileName": "b13e73cd-d0ff-4390-9a4e-411a18510c6e.jpg"
 }

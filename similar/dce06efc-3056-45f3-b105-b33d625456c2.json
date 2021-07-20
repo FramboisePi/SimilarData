@@ -1,7 +1,7 @@
 {
  "id": "dce06efc-3056-45f3-b105-b33d625456c2",
  "title": {
-  "en": "Yoru Café"
+  "en": "Yoru Caf\u00e9"
  },
  "contentRating": "erotica",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "72a2730b-6b5b-4e62-ab2d-c2151de1e62a.png"
   },
   {
    "id": "4767c6b3-6d3c-4084-ba8a-0148f7f2cb98",
@@ -26,7 +27,8 @@
    "score": 0.39785305,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bdbdcf1d-ec32-4161-a451-71a12534c21c.jpg"
   },
   {
    "id": "374a0e92-7e63-44d9-8fd0-398f5030bd2f",
@@ -37,7 +39,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f31e6e1c-7660-4461-bf4e-489188587ec2.png"
   },
   {
    "id": "4cfeb475-e694-4a52-be34-080f4ecdb75f",
@@ -50,7 +53,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d9b77959-ed2e-4418-9989-b420d3918988.png"
   },
   {
    "id": "bac65a7e-e741-43f6-8397-b50035b49c00",
@@ -61,7 +65,8 @@
    "score": 0.3620889,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "c4c21937-6b33-4463-abf6-1652f630c229.jpg"
   },
   {
    "id": "2af77298-57d4-4c31-92e4-03fe2defc418",
@@ -72,7 +77,8 @@
    "score": 0.36133614,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc89a537-c410-432d-baf8-9fcad44397bb.jpg"
   },
   {
    "id": "92adf138-baa9-42e7-bd01-f9f3fe0e41f7",
@@ -83,7 +89,8 @@
    "score": 0.35,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f022138c-068b-4df4-a60d-18e93c29bdaf.png"
   },
   {
    "id": "15a0b20e-c91d-41ec-8457-6d97b314bc6e",
@@ -94,7 +101,8 @@
    "score": 0.35,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5fce4678-b954-4591-8c6f-4d61335dcd89.jpg"
   },
   {
    "id": "8e88caab-103b-4871-be58-878922700919",
@@ -105,7 +113,8 @@
    "score": 0.35,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4bf25f9a-f39b-40eb-9d4e-304b26e1ac0d.jpg"
   },
   {
    "id": "55ac96bf-9de3-40b5-ba78-f0524a5a2560",
@@ -116,7 +125,8 @@
    "score": 0.35,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "61b3fe7b-ec9b-4dfc-9e3f-3dfd63213ce2.png"
   },
   {
    "id": "c860b2dc-bc8d-4d9b-906c-127f9ea5034d",
@@ -127,7 +137,8 @@
    "score": 0.35,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6529485-1fb0-437d-bd35-e52b1642ea04.jpg"
   },
   {
    "id": "0d81cb68-862a-4ef8-8dcf-ee639711ae52",
@@ -140,8 +151,10 @@
     "en",
     "zh",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9b6abb6-f03f-4fa8-b979-c44d71cb2f76.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:25+00:00"
+ "updatedAt": "2021-07-18T07:05:25+00:00",
+ "coverFileName": "f2f6d60d-b6a4-43d9-b661-ca1a3188357a.png"
 }

@@ -14,7 +14,8 @@
    "score": 0.41488504,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "0f62e4e6-fb2d-419b-89ee-a4535d543258.jpg"
   },
   {
    "id": "58fdedb1-5be3-485b-9265-e3e33d71a0dd",
@@ -26,7 +27,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "76bbb132-6f8a-4378-9022-fee5a097e672.png"
   },
   {
    "id": "519acffd-f2a1-4d24-8ec4-fe98c6cd7dc1",
@@ -41,7 +43,8 @@
     "it",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "74dc0d1e-1fe2-46ad-9d29-1376a1d9aa81.png"
   },
   {
    "id": "f573562f-9f91-425a-8915-58c67e9179e6",
@@ -53,7 +56,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b77ec9f8-9e4e-40ab-a2e1-d76c59d9f206.jpg"
   },
   {
    "id": "f9faf5f0-6546-4947-9eb8-32c8ad7edd65",
@@ -65,7 +69,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "a70052e4-6fbe-4232-9981-9ef11d40a3bb.jpg"
   },
   {
    "id": "60d8aa66-3b06-446b-b6ca-e3c788ade41e",
@@ -77,7 +82,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "da6581b9-776f-4603-8080-ff3cc14907a5.jpg"
   },
   {
    "id": "c3631ad6-eeff-4b9e-ae65-0d63f0f85ddf",
@@ -88,7 +94,8 @@
    "score": 0.31029966,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "e985954a-e2d2-4d09-8a4d-fcfb8a223584.png"
   },
   {
    "id": "6758b438-f511-49f4-bf38-38ba0573b7f5",
@@ -99,7 +106,8 @@
    "score": 0.284605,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "df1cd001-c624-4664-871f-f9c98a5e2a03.jpg"
   },
   {
    "id": "fc83c3d7-9501-4403-92f9-d41f8767b327",
@@ -111,7 +119,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "058ba1ad-e2d8-483e-99e3-16477cb8de79.jpg"
   },
   {
    "id": "339a0f5a-6b94-4dd0-b43e-ebb9f874d82d",
@@ -123,7 +132,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6ab47c3e-4649-46ec-94fa-bd1aa66fa195.jpg"
   },
   {
    "id": "31701d3f-484c-4e43-848f-4b19915d16a7",
@@ -136,12 +146,13 @@
     "es",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "76d7ecf5-584f-402f-8342-7c78514817f1.jpg"
   },
   {
    "id": "adbd4534-3183-4913-b8d2-f9f8850b1a48",
    "title": {
-    "en": "Le Théâtre de A"
+    "en": "Le Th\u00e9\u00e2tre de A"
    },
    "contentRating": "safe",
    "score": 0.27,
@@ -154,8 +165,10 @@
     "de",
     "bg",
     "pl"
-   ]
+   ],
+   "coverFileName": "c59450d5-57fe-4a12-be83-eadcd086f31a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:37+00:00"
+ "updatedAt": "2021-07-18T07:04:37+00:00",
+ "coverFileName": "96647f97-decc-4216-85a0-79ef0b08e6bb.jpg"
 }

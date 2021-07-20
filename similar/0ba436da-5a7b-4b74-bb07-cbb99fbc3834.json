@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "71b0e158-bbd0-422a-bb1d-bf4802289e83.jpg"
   },
   {
    "id": "f4c0e272-5232-40c2-a3a2-cbe2dc1ada1f",
@@ -26,7 +27,8 @@
    "score": 0.48108613,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6669f34a-9a9d-4e1f-9c75-42be6459708e.jpg"
   },
   {
    "id": "9b78663c-850f-434b-8b33-d88d43cc3151",
@@ -41,7 +43,8 @@
     "id",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "edcb55b0-b39e-4f32-8d41-e76dd1445d4f.jpg"
   },
   {
    "id": "770c61b9-0ef2-460b-8c25-c10ab23349ce",
@@ -54,7 +57,8 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1871de07-2d57-4b8e-ad79-a2640a2641dc.jpg"
   },
   {
    "id": "dde2d8d4-1910-4d97-8e30-a222a970638a",
@@ -65,7 +69,8 @@
    "score": 0.4688738,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bf28918a-5f15-4e84-b97f-e16da5725dac.jpg"
   },
   {
    "id": "2430d142-6a6f-453e-9195-4a91be01fc57",
@@ -76,7 +81,8 @@
    "score": 0.4655515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dfea38cd-cc5b-49dc-8122-7449e92cf161.jpg"
   },
   {
    "id": "eed216e3-72b5-4e2f-9505-44b2340bdfb5",
@@ -87,7 +93,8 @@
    "score": 0.4597535,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c927dbd1-622f-48b5-90c8-67b4b7ac0097.jpg"
   },
   {
    "id": "28bf0885-ab72-4455-b278-f77b5ae6ef54",
@@ -100,7 +107,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "2b6f8803-739e-4ebf-92af-08d8217dae58.jpg"
   },
   {
    "id": "ae0ccd13-2dde-4186-a20c-125f13fd7a79",
@@ -114,7 +122,8 @@
     "fr",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "baa2aab7-1b4a-4066-b10c-7f1f4f482aed.jpg"
   },
   {
    "id": "46e73951-fa3a-4fd2-a567-07da311e619a",
@@ -127,12 +136,13 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4de59510-5d45-4c8b-bbaa-c69e3b5f3ab1.jpg"
   },
   {
    "id": "7ef92903-9df3-4040-9b52-45e6b57c1613",
    "title": {
-    "en": "Sensei de ○○ shicha Ikemasen!"
+    "en": "Sensei de \u25cb\u25cb shicha Ikemasen!"
    },
    "contentRating": "suggestive",
    "score": 0.4490731,
@@ -140,7 +150,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e1d1804e-18e5-4552-bdb3-7efa0e5a17b5.jpg"
   },
   {
    "id": "e5f26bd4-c91f-4a2f-a9bc-3791c03caf0e",
@@ -151,8 +162,10 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b18581bb-422b-4d5d-8f22-5673ae5054fb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:38+00:00"
+ "updatedAt": "2021-07-18T06:26:38+00:00",
+ "coverFileName": "f9318b59-8ed9-43d9-83d7-2c2bf58cd01a.jpg"
 }

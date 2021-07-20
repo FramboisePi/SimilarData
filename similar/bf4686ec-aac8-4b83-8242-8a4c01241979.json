@@ -18,7 +18,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "d95ee7ea-7f58-41a2-bd9b-4a29e1ce5760.jpg"
   },
   {
    "id": "51b5060f-1083-4132-8294-500ab7fabecd",
@@ -30,7 +31,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "375d1561-5f42-4df8-a85d-eb89413541c9.jpg"
   },
   {
    "id": "61078d7f-a3b8-4dd8-a638-9f2d1371c9e3",
@@ -41,7 +43,8 @@
    "score": 0.46124157,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac6b50d0-0602-4889-ba6d-e43f6187a0c9.jpg"
   },
   {
    "id": "7f407351-eacc-4ae6-810d-3bb36acbe40a",
@@ -52,7 +55,8 @@
    "score": 0.45984408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd34c28e-3970-4bff-9173-569707561140.jpg"
   },
   {
    "id": "bd0e9a8f-5993-4935-a66f-f698c6814809",
@@ -65,19 +69,21 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ddbce89a-b6a6-4fc5-972f-6979dda2257e.jpg"
   },
   {
    "id": "36bad9cb-6310-4048-a48e-a1ab7b7dcb3e",
    "title": {
-    "en": "Demon X Angel, Can’t Get Along!"
+    "en": "Demon X Angel, Can\u2019t Get Along!"
    },
    "contentRating": "safe",
    "score": 0.45423657,
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f9b2bc85-6938-477c-8507-1f654ccae743.jpg"
   },
   {
    "id": "01d06d0c-68d5-4975-9b22-06900a1c13e7",
@@ -89,7 +95,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f16c09c1-f59f-4e0f-92bc-759a03a3f6b6.png"
   },
   {
    "id": "64a36e9e-5d10-4397-9f92-d4c82dbaafb0",
@@ -100,7 +107,8 @@
    "score": 0.45325014,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62046da6-d02b-4e39-8b58-875917eb049f.jpg"
   },
   {
    "id": "925c5d41-7cef-48eb-b2fa-5766dee846a6",
@@ -112,7 +120,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "bc1017a1-94e4-4f72-b054-ecc8034bfeea.png"
   },
   {
    "id": "233b56fe-0669-4fe5-ba4d-fa93e81fff9d",
@@ -124,7 +133,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "9ef6251a-8ed3-419a-8078-2d8c33a6765b.jpg"
   },
   {
    "id": "5cf4e12b-4f09-46e6-842e-20cdee70207a",
@@ -136,7 +146,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "df2af69b-6487-4fa5-b24a-90089f5ec1f0.png"
   },
   {
    "id": "c132752d-5f22-43ed-8f6c-34ff9cdd3b6a",
@@ -148,8 +159,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "c12a1100-ce1a-4421-9fec-b33f16b455db.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:58+00:00"
+ "updatedAt": "2021-07-18T06:59:58+00:00",
+ "coverFileName": "4f713e55-8d7b-4ef8-915c-c9d42d8ee755.png"
 }

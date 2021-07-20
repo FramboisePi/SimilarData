@@ -1,7 +1,7 @@
 {
  "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
  "title": {
-  "en": "HUNTER×HUNTER - DIGITAL COLORED COMICS"
+  "en": "HUNTER\u00d7HUNTER - DIGITAL COLORED COMICS"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "a2b399c6-a938-4971-89f3-870b30038e5a.jpg"
   },
   {
    "id": "a460ab18-22c1-47eb-a08a-9ee85fe37ec8",
@@ -29,7 +30,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "255efcd8-bb1c-4990-8d70-d74111efdf41.jpg"
   },
   {
    "id": "62040a44-0935-46b7-a691-5ae5833af0ae",
@@ -45,7 +47,8 @@
     "uk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "bd0d049f-35be-49b8-93d7-1214944b30f9.jpg"
   },
   {
    "id": "a2c1d849-af05-4bbc-b2a7-866ebb10331f",
@@ -61,7 +64,8 @@
     "en",
     "ar",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a9a5556c-15df-4b38-82ff-f1a042dc4c70.jpg"
   },
   {
    "id": "ee62b84c-e94e-48aa-95aa-7bc18e6df75c",
@@ -73,7 +77,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3bcc3c0b-a9e0-4dd5-881f-5cbc0558f65d.jpg"
   },
   {
    "id": "eba602f3-5e5d-48ff-b054-d7776181e27c",
@@ -86,7 +91,8 @@
     "en",
     "ru",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "6f7ba042-5475-4046-8c63-5e91f683099e.jpg"
   },
   {
    "id": "90c54641-756e-4eeb-8c9f-b0e424cca6db",
@@ -97,7 +103,8 @@
    "score": 0.43080243,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdbaaa34-b3f4-4d5e-ad9e-5664d7cbd24f.jpg"
   },
   {
    "id": "9fa5115b-ce29-4f7a-93f0-40445a75d1e0",
@@ -108,7 +115,8 @@
    "score": 0.4192793,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba089cb1-1cc0-4812-84cc-593cdaef417c.jpg"
   },
   {
    "id": "87e4d7e4-5ed8-4c21-91f3-d732f34abe6b",
@@ -119,7 +127,8 @@
    "score": 0.41207573,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3daae941-3c5f-4d04-a852-c39f287e1294.jpg"
   },
   {
    "id": "f55d2517-e0f8-4035-91a3-55ff23518842",
@@ -130,7 +139,8 @@
    "score": 0.4081371,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c35ea35e-4d3d-4d2a-9345-edec2d22ebb1.jpg"
   },
   {
    "id": "19b0bde7-eb48-46ce-ba77-5f0101ed680c",
@@ -144,7 +154,8 @@
     "id",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "71c801e0-3cb1-4fc8-a176-b6fcc0ffed30.jpg"
   },
   {
    "id": "f11f219b-eb1c-46ab-99f9-47b887183ed5",
@@ -156,8 +167,10 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "ea77b373-5eb6-4220-9e91-823a4c82949f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:57+00:00"
+ "updatedAt": "2021-07-18T06:51:57+00:00",
+ "coverFileName": "6814c2a2-adaf-4273-b39d-13791a86aed9.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "d843b61e-fc8c-4f75-8523-33ef3e587145",
  "title": {
-  "en": "Pokémon - Let's Meet in the Flowering Spring (Doujinshi)"
+  "en": "Pok\u00e9mon - Let's Meet in the Flowering Spring (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6369e8e-95e4-4bd3-b9d8-2afd64932047.png"
   },
   {
    "id": "457e5220-903c-4670-8700-8c174a7c516a",
@@ -25,7 +26,8 @@
    "score": 0.39583266,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "950058cc-ea3b-40dd-9c78-346978a3fec1.jpg"
   },
   {
    "id": "3fd60dc6-0928-4876-b490-ab318154a7db",
@@ -36,7 +38,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "33e45a22-232e-4f16-b5f2-4dd6d249ac3c.jpg"
   },
   {
    "id": "2b83838b-ce9c-4947-8daa-20fad2eb3af8",
@@ -47,7 +50,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "706b585f-b698-49c0-9107-5c95349be057.png"
   },
   {
    "id": "19843a41-7a9b-4116-8ade-469e34de062d",
@@ -60,7 +64,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3cca145c-3ec2-4de4-a3b9-5aa2cca1f18d.png"
   },
   {
    "id": "56d82cc5-3669-4e3b-872c-d23a14f233ec",
@@ -71,18 +76,20 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bd9d54d6-7d3f-465d-9110-4146b89cc08c.jpg"
   },
   {
    "id": "1386f42b-8015-4458-a59a-979a7a2c299b",
    "title": {
-    "en": "Pokémon Sword and Shield - I Want to Date Mary-chan (Doujinshi)"
+    "en": "Pok\u00e9mon Sword and Shield - I Want to Date Mary-chan (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.35,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9633d90-65c5-410a-993d-3d7695e0b6eb.png"
   },
   {
    "id": "87577874-4dd3-44ea-a31d-60d0e75ee608",
@@ -93,7 +100,8 @@
    "score": 0.35,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dae23051-7e45-4286-acbf-62d2977a66c2.jpg"
   },
   {
    "id": "678b336e-22f4-4a6f-86cc-add483fa6023",
@@ -104,7 +112,8 @@
    "score": 0.34947538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "005286d2-aeeb-4b58-b14a-9c48dce5711a.jpg"
   },
   {
    "id": "665f2501-a702-43b2-b763-6fa35c97b651",
@@ -115,7 +124,8 @@
    "score": 0.34785053,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af003ee9-c5c5-4823-a33f-cb513d6f7682.jpg"
   },
   {
    "id": "f8a82dd6-88a0-4e61-b09d-47be1e6b6ee7",
@@ -126,7 +136,8 @@
    "score": 0.3383248,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f2474688-7873-48e2-a9d7-7b4b65033abd.png"
   },
   {
    "id": "5d3f2a6b-afcb-438a-b718-d24fe25efead",
@@ -138,8 +149,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "5c79f024-1ebe-4604-85d2-af78fc832577.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:33+00:00"
+ "updatedAt": "2021-07-18T07:04:33+00:00",
+ "coverFileName": "a746ee25-9a93-4c64-948e-d6a8ed284020.png"
 }

@@ -1,7 +1,7 @@
 {
  "id": "1fa5456d-9082-4dee-87fb-23800b1eab27",
  "title": {
-  "en": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e √Horikita"
+  "en": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e \u221aHorikita"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.46907791,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c540a182-aeed-4cc5-a65a-b2bebe15d810.jpg"
   },
   {
    "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
@@ -28,7 +29,8 @@
     "es-la",
     "ru",
     "vi"
-   ]
+   ],
+   "coverFileName": "5bcfbcc6-13e7-4d00-93db-b7e284374461.jpg"
   },
   {
    "id": "ee7a22fb-1b18-453f-b61f-5e1c393aa3ad",
@@ -41,7 +43,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "535b5034-a99d-4b8b-9ea3-e193c68bca4d.jpg"
   },
   {
    "id": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
@@ -56,7 +59,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e6abc3e7-2ce7-4af9-88c7-503a516b666e.png"
   },
   {
    "id": "30483b93-1867-48f2-88fc-aa493644275a",
@@ -70,7 +74,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "7a531a31-ef99-4521-9124-61b4f1ad19a6.jpg"
   },
   {
    "id": "0925b477-9e72-4b40-8488-afb7aab4583f",
@@ -81,7 +86,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b747f234-4960-4b5c-9ab5-f33881367656.jpg"
   },
   {
    "id": "e9dfeb05-3e99-4d0a-889c-2860a011e497",
@@ -92,7 +98,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "246f4e3f-b54b-45a5-98b1-075eda2fa8c4.jpg"
   },
   {
    "id": "0704b748-edd7-43fd-83fe-f7e3c08fcf57",
@@ -104,7 +111,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "f729d562-f731-408b-9271-4c3851436470.jpg"
   },
   {
    "id": "ffc511f8-c78c-45fc-b366-005c0ddc89f7",
@@ -120,7 +128,8 @@
     "en",
     "es",
     "de"
-   ]
+   ],
+   "coverFileName": "c44ce3b5-b042-4bdf-8ffd-74e784520797.jpg"
   },
   {
    "id": "8ff245e6-df38-41ac-86db-886126c1910d",
@@ -131,7 +140,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9143ff0-ae7e-4fee-b426-cc34f73c6b9c.jpg"
   },
   {
    "id": "b273b1d8-3d1b-4240-a251-40b88d207723",
@@ -143,7 +153,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b0778549-ec13-4b04-b8ad-16a9ef4eacdf.jpg"
   },
   {
    "id": "348966d0-c807-45cf-9260-8adf006a9da6",
@@ -158,8 +169,10 @@
     "en",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "b06e3529-e3bb-4537-a0f3-00e503ef44ac.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:24+00:00"
+ "updatedAt": "2021-07-18T06:30:24+00:00",
+ "coverFileName": "78f2169b-3af2-4a90-bad0-787ff4c523b0.png"
 }

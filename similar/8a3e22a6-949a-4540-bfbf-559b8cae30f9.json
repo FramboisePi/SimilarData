@@ -1,7 +1,7 @@
 {
  "id": "8a3e22a6-949a-4540-bfbf-559b8cae30f9",
  "title": {
-  "en": "Übel Blatt"
+  "en": "\u00dcbel Blatt"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a59c97f9-0591-4228-80ef-bfd496d4eaba.jpg"
   },
   {
    "id": "76607d5f-0d5f-4fbc-9ccb-5a48b2b84515",
@@ -29,7 +30,8 @@
     "pt-br",
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "8d7753e2-f7cd-42b9-88d7-847afce97853.jpg"
   },
   {
    "id": "7991f29c-27d2-449b-918f-46437cea563c",
@@ -42,12 +44,13 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "4db5f7df-2e1d-4b81-9af7-4d821543d176.jpg"
   },
   {
    "id": "3df2a51a-e7bc-47c6-9f9b-2e71eb897325",
    "title": {
-    "en": "My Lover Was Stolen, and I Was Kicked Out of the Hero’s Party, but I Awakened to the EX Skill “Fixed Damage” and Became Invincible. Now, Let’s Begin Some Revenge"
+    "en": "My Lover Was Stolen, and I Was Kicked Out of the Hero\u2019s Party, but I Awakened to the EX Skill \u201cFixed Damage\u201d and Became Invincible. Now, Let\u2019s Begin Some Revenge"
    },
    "contentRating": "suggestive",
    "score": 0.32255745,
@@ -56,7 +59,8 @@
     "fr",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a6b48103-24f0-4d1d-8bba-20a87323992b.jpg"
   },
   {
    "id": "22ea3f54-11e4-4932-a527-89d63d3a62d9",
@@ -69,7 +73,8 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "1ac7428d-44e3-4c21-8a17-ff51c2d3f6f3.jpg"
   },
   {
    "id": "32326094-c35b-45c5-a0ec-e61010e6a20e",
@@ -83,7 +88,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "901bb56d-cfba-476a-9fe9-867793293eb4.jpg"
   },
   {
    "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
@@ -94,7 +100,8 @@
    "score": 0.32049555,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "54011d29-279f-4c7a-b964-6f9b9b24a0d3.jpg"
   },
   {
    "id": "334fcfdf-5c15-4fc6-b974-e86f5ca636f9",
@@ -109,7 +116,8 @@
     "pt-br",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "e77cf393-87b6-4b95-a412-9806a9d956a2.jpg"
   },
   {
    "id": "a633d659-1048-4f0c-969f-3a0d70308e06",
@@ -123,7 +131,8 @@
     "en",
     "pt-br",
     "uk"
-   ]
+   ],
+   "coverFileName": "d521d929-6e68-44fc-ad13-619f85f2565c.jpg"
   },
   {
    "id": "d527fd98-d357-4f34-9c07-d314b8f09903",
@@ -134,7 +143,8 @@
    "score": 0.2930837,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "acdedac7-4f4a-493b-aa11-319e5b2141a9.png"
   },
   {
    "id": "1aa09c5e-d6cd-4662-93f2-8c64331b6234",
@@ -149,7 +159,8 @@
     "pl",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ad00419e-a27d-4dab-bde3-f64ebc4bd3b0.jpg"
   },
   {
    "id": "3ebaf386-e12e-4b17-9aa0-857a0b99b53b",
@@ -161,8 +172,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ae008a72-43d1-42e7-8bb1-73155185cfd7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:11+00:00"
+ "updatedAt": "2021-07-18T06:50:11+00:00",
+ "coverFileName": "3d89cfee-fce2-46a3-b107-a0a81756f7be.jpg"
 }

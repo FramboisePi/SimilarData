@@ -1,20 +1,21 @@
 {
  "id": "859f6d51-5472-46e4-b555-8356b364878c",
  "title": {
-  "en": "Tiger \u0026 Bunny - Good luck and bad luck alternate like the strands of a rope"
+  "en": "Tiger & Bunny - Good luck and bad luck alternate like the strands of a rope"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "7231545b-39ce-4d51-a825-b905b16691a3",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Comic"
+    "en": "Tiger & Bunny - The Comic"
    },
    "contentRating": "safe",
    "score": 0.43460906,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "628c2146-e792-4fd8-9962-77f90386d227.jpg"
   },
   {
    "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
@@ -27,18 +28,20 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f513d666-bb34-42af-a09e-a758bbefc0eb.jpg"
   },
   {
    "id": "df148d10-0c7e-4908-9be8-35c63c0190ef",
    "title": {
-    "en": "∀ Gundam"
+    "en": "\u2200 Gundam"
    },
    "contentRating": "safe",
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fe61334-c7df-4da1-8f8e-3837226a9e1d.jpg"
   },
   {
    "id": "9dd9c852-8b01-4fc3-9d24-3404da2f50bc",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "09c98d9b-7046-4337-a61f-b1cdd2eb4dd5.jpg"
   },
   {
    "id": "7b86844a-11d5-4b2c-b612-04398a07b704",
@@ -61,7 +65,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd9cd1df-4c7c-415a-8215-fec893823731.jpg"
   },
   {
    "id": "80f496eb-9ab2-4f9a-8e9b-1f6bd3bc8c03",
@@ -76,7 +81,8 @@
     "ro",
     "tr",
     "it"
-   ]
+   ],
+   "coverFileName": "0ae0a095-87c5-4a73-bc91-0c13fcb9f70b.jpg"
   },
   {
    "id": "a396aac6-7ada-4412-85cc-afe3ea25eba3",
@@ -87,7 +93,8 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "209f47d4-7513-41c6-a51c-1e5ce34d774b.jpg"
   },
   {
    "id": "08ace43b-a2f2-4a70-b2aa-07bd0797ff86",
@@ -98,7 +105,8 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f3108689-29a1-46d5-ac2b-d154a83cef5c.jpg"
   },
   {
    "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
@@ -109,7 +117,8 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6557b2c5-ce8e-42bb-8d60-2a9e5491a65a.jpg"
   },
   {
    "id": "944e796e-4201-46aa-86d0-e02e5f510901",
@@ -123,7 +132,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b5231790-7f64-4caa-80b2-2ac8a34f7199.jpg"
   },
   {
    "id": "ad77884a-f007-4141-9eec-803ccad0e636",
@@ -135,7 +145,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "3cc8dbc2-6474-4f25-a082-cf79cf1c38f8.jpg"
   },
   {
    "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
@@ -146,8 +157,10 @@
    "score": 0.32528242,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "593e0110-88e6-4ffd-aeb7-ed410e8c7c6d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:16+00:00"
+ "updatedAt": "2021-07-18T06:49:16+00:00",
+ "coverFileName": "25ce91d2-4ee3-47c2-a93a-993da2309191.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "7139976f-57ef-4530-8668-89cba8c2164a",
  "title": {
-  "en": "Tensei! Takenaka hanbei 〜 maina bushou ni tensei shita nakama-tachi to sengokuranse wo ikinuku 〜"
+  "en": "Tensei! Takenaka hanbei \u301c maina bushou ni tensei shita nakama-tachi to sengokuranse wo ikinuku \u301c"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.37968034,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a32fab93-e600-4515-9136-f6a0c5b031e4.jpg"
   },
   {
    "id": "d3731564-c453-4486-b24e-567a3ad3bc2e",
@@ -27,7 +28,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8843094a-ca44-4d25-ab8b-a4708b670aef.jpg"
   },
   {
    "id": "f0933b14-091a-4540-a395-287e38f74260",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "63eb22e3-b255-4fec-91b0-87c35eae3de2.jpg"
   },
   {
    "id": "5b10c1f1-85eb-48c8-8411-ff188c14d917",
@@ -52,7 +55,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "c6225b5d-7afc-4f39-9d41-16f6870d80bf.jpg"
   },
   {
    "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
@@ -72,7 +76,8 @@
     "fr",
     "vi",
     "ar"
-   ]
+   ],
+   "coverFileName": "d5b67cf3-f614-4754-b785-6b5d231c535b.jpg"
   },
   {
    "id": "45458b4e-b851-44b7-a424-47691fb82c06",
@@ -84,7 +89,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ac7a4409-9938-4937-8c40-908b0015135f.jpg"
   },
   {
    "id": "740471f5-4f75-457a-8c0c-cb4e0a5a999f",
@@ -95,7 +101,8 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e246b82-ec65-4a37-8bab-2861fa362cec.jpg"
   },
   {
    "id": "319e92a4-8379-4889-967c-5224c56a9fc9",
@@ -107,7 +114,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "aee33940-62d3-4534-b8cf-9c8ddf244ed2.jpg"
   },
   {
    "id": "8d163365-15a6-4031-8671-29a11e3b6d69",
@@ -123,7 +131,8 @@
     "id",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "e5e53bdb-80b8-48a6-b4d8-24deea637406.jpg"
   },
   {
    "id": "9ed8c4a9-aa21-48ba-9389-359c984ae2d2",
@@ -136,7 +145,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ecac3007-c0e6-4042-add2-0080f454e024.jpg"
   },
   {
    "id": "16a240ab-3936-4421-be33-b46ac0518411",
@@ -148,7 +158,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "5aeab236-ba1a-4941-bace-42c18f375e81.jpg"
   },
   {
    "id": "11ee5877-68b5-4046-9cc1-c1dee78f40d3",
@@ -163,8 +174,10 @@
     "tr",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d08e988d-32af-4734-a104-ea2562243bf0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:26+00:00"
+ "updatedAt": "2021-07-18T06:45:26+00:00",
+ "coverFileName": "93d87f15-ae1a-45a5-b1d1-4ad5c2db24f6.jpg"
 }

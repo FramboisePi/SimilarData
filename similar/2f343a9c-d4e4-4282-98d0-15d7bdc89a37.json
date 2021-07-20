@@ -16,7 +16,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "8fac5186-40e2-43c2-a408-3ec1142cd8d6.png"
   },
   {
    "id": "17559a18-9ce7-464e-aee1-10ba43c291b8",
@@ -28,12 +29,13 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6baeb17c-ada2-4974-98b8-65f61a3e4148.jpg"
   },
   {
    "id": "ab345ba7-5bdd-44fb-a11e-50e3209312b8",
    "title": {
-    "en": "Kaitai Shinsho Ø"
+    "en": "Kaitai Shinsho \u00d8"
    },
    "contentRating": "safe",
    "score": 0.52450496,
@@ -41,7 +43,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "de5d016e-f30a-4631-950f-75c60585a0a1.jpg"
   },
   {
    "id": "9ed16bc9-f570-4e71-8dda-aebc098b683b",
@@ -55,7 +58,8 @@
     "en",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "e853f19f-e138-4372-b49c-6e2d7afc6d33.jpg"
   },
   {
    "id": "169140c0-498c-4477-a6bf-79d18f8a7bf8",
@@ -69,7 +73,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "a3790413-180d-40ac-b81c-e2179e102304.png"
   },
   {
    "id": "9aa3ca66-b1d0-4cc5-aec7-66990f026b78",
@@ -82,7 +87,8 @@
     "en",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "f93782b3-39eb-4ecf-b121-c58097de24b8.jpg"
   },
   {
    "id": "7f31fd1a-9562-40f7-acf1-d7d0c7151723",
@@ -94,7 +100,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "20fad593-6445-4d9a-95eb-30034e181165.jpg"
   },
   {
    "id": "dcd976e5-ae13-40dd-9e6d-20026272808f",
@@ -105,7 +112,8 @@
    "score": 0.49724436,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "85b16831-c2f2-4d57-a683-b3239a9eec6c.png"
   },
   {
    "id": "69acd33f-9af0-495a-b5c7-6631fa4752b2",
@@ -121,7 +129,8 @@
     "it",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "52c72e7a-7d27-42fd-9acc-d7018a134586.jpg"
   },
   {
    "id": "fe64a71b-9101-48cc-bbff-531f41018b8a",
@@ -139,7 +148,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "9dc03ffa-4524-4b88-97a0-931c6b907be7.jpg"
   },
   {
    "id": "78aa39b5-efff-4a83-924b-6be14cb44a2b",
@@ -154,7 +164,8 @@
     "pt-br",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "f18a5f75-94e5-48fe-8927-a1822d09fa03.jpg"
   },
   {
    "id": "de779436-59c3-41a6-b97f-a4c54478c0bb",
@@ -168,8 +179,10 @@
     "ca",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0809e5d1-90a2-4c8a-85c5-16b01ddc7472.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:14+00:00"
+ "updatedAt": "2021-07-18T06:33:14+00:00",
+ "coverFileName": "4ce3ac12-4e49-41f0-b733-2469302a7bc7.jpg"
 }

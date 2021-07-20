@@ -16,7 +16,8 @@
     "en",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "ce7b9bda-e053-4ec6-8a07-242b22670e1a.jpg"
   },
   {
    "id": "a3d681d7-a239-45a9-8446-5bfc61ca48fa",
@@ -30,7 +31,8 @@
     "it",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "912f3153-8706-4c3b-b93e-47c7061c5eb6.jpg"
   },
   {
    "id": "d85a766d-da0b-4930-b8f1-959652c37985",
@@ -44,7 +46,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f97156ad-c563-4ffa-95b6-d09e166e32db.png"
   },
   {
    "id": "fd0638a8-2bf3-4e9c-85c2-2e5d72bf34fd",
@@ -56,7 +59,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d861b4a3-f8fb-437a-a5d1-606c6389e71e.jpg"
   },
   {
    "id": "c948484d-7c1f-413e-afc2-94de8a920b1d",
@@ -67,7 +71,8 @@
    "score": 0.41504732,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d7d14a6-8d12-43a5-8af6-77ae96b6925a.jpg"
   },
   {
    "id": "2bb6e703-0af6-4b05-9410-e95dce2fb780",
@@ -80,7 +85,8 @@
     "es-la",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ba527da4-7b91-4200-9833-de84a6da23ec.jpg"
   },
   {
    "id": "17c68f3f-be90-4705-a816-d75a2c189b9b",
@@ -92,7 +98,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "56a1785f-307f-4396-9b87-46d3dee5f382.jpg"
   },
   {
    "id": "37ca4917-8d4a-46e9-8396-47c556d4fb20",
@@ -103,7 +110,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e6a4027-54d4-4cd6-8108-0dd77536ba1c.jpg"
   },
   {
    "id": "899acb87-147f-44d8-ad17-699a64c0dd48",
@@ -114,7 +122,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8789f258-9b58-4893-b152-bb4710375d84.jpg"
   },
   {
    "id": "e6477b27-6c4b-410f-9a29-fa60be616446",
@@ -127,18 +136,20 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4c8f152-584a-4e8e-b905-714196aa47b0.jpg"
   },
   {
    "id": "31bb2015-cce9-4c26-9c2e-f4152cfe7c8d",
    "title": {
-    "en": "Café Kichijoji de"
+    "en": "Caf\u00e9 Kichijoji de"
    },
    "contentRating": "safe",
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "774c136f-1866-4232-91e8-ed96064329d3.jpg"
   },
   {
    "id": "3f9d2f0e-8798-4658-aa31-d5f80b7e7c1b",
@@ -151,8 +162,10 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "bd85173c-48de-400e-bac8-47b57737ffbe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:37+00:00"
+ "updatedAt": "2021-07-18T07:10:37+00:00",
+ "coverFileName": "71d1eb40-659f-40b7-bb59-a59d9c9ee6e4.jpg"
 }

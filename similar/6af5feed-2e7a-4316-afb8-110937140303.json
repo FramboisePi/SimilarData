@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "1b8e4e3d-0d59-4a12-950c-f45fd60c09f9.jpg"
   },
   {
    "id": "6a885c00-c135-485c-9635-379619e917a6",
@@ -29,7 +30,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "43b3ffab-440d-47ee-87bb-c4aba8c4fcc1.png"
   },
   {
    "id": "04de2b0d-431e-49f9-b5c7-7d1a54839030",
@@ -41,7 +43,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "64cc0915-5684-4634-9d85-78d8656cd28d.jpg"
   },
   {
    "id": "d0164bca-d58e-470f-b3fc-0fcc2cefe2af",
@@ -53,12 +56,13 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "5f898c6d-bd2a-45c8-9dd2-5e17dc542f2c.jpg"
   },
   {
    "id": "7b59a2b3-fe70-46a5-8050-15a8a4a17d41",
    "title": {
-    "en": "Le Théâtre de B"
+    "en": "Le Th\u00e9\u00e2tre de B"
    },
    "contentRating": "safe",
    "score": 0.18515721,
@@ -69,7 +73,8 @@
     "bg",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "12c4e080-7f73-4f33-a2b7-ada90448044c.jpg"
   },
   {
    "id": "3a1ac999-ed22-4e81-ae73-539f0353d0f5",
@@ -82,7 +87,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "cdd6d328-7f37-41f5-bf51-c26a55269d8e.png"
   },
   {
    "id": "f84b86f6-4aec-453c-a0b5-9c87879723eb",
@@ -96,7 +102,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "ff04bc6b-9421-4ef6-806c-9a5b8561f827.jpg"
   },
   {
    "id": "571f07a7-7554-4495-b705-8f6bab08997e",
@@ -108,12 +115,13 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c40b7447-5689-4b6d-bac2-829fe77dbd44.png"
   },
   {
    "id": "5fa08e64-ceee-41d9-b48e-39e848bedb82",
    "title": {
-    "en": "Arcana 09 - Transformation☆Personification"
+    "en": "Arcana 09 - Transformation\u2606Personification"
    },
    "contentRating": "safe",
    "score": 0.12374368,
@@ -122,7 +130,8 @@
     "hu",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0b4b7637-7f58-4027-9704-c5cd7f8568fb.jpg"
   },
   {
    "id": "22db81d6-b0f2-48e7-a18e-de9f52398666",
@@ -134,7 +143,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "96668af2-0e6d-47ed-98f5-b81dfd681aa2.jpg"
   },
   {
    "id": "7f659336-95bb-4873-96ca-3996a63564b0",
@@ -149,7 +159,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "65b6c0b1-ce22-43ba-ac60-4a2fb30a27b4.jpg"
   },
   {
    "id": "619cf70e-6444-4505-a2c8-a65d300fd4e5",
@@ -162,8 +173,10 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "709e3a52-4712-4d9f-9789-9061deb106ca.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:19+00:00"
+ "updatedAt": "2021-07-18T06:44:19+00:00",
+ "coverFileName": "1d66a8e7-d3ec-4063-97a9-6dec9e010866.jpg"
 }

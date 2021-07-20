@@ -1,7 +1,7 @@
 {
  "id": "18da276b-40d1-4ffc-ad9c-16b5c618fc2e",
  "title": {
-  "en": "Touhou - Patchouli \u0026 Koakuma (Doujinshi)"
+  "en": "Touhou - Patchouli & Koakuma (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d1268e6f-0d2a-4881-8e4b-b7616aa754bb.jpg"
   },
   {
    "id": "cc30dfd5-05f9-4a0b-b6ab-9898774bf18d",
@@ -26,7 +27,8 @@
    "score": 0.9774879,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7292b40d-49b0-469c-88af-bb16c6c7834d.jpg"
   },
   {
    "id": "7dc64e44-86dd-4ed0-a4a3-629fe7b8f308",
@@ -37,7 +39,8 @@
    "score": 0.5638634,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f69c79ff-fcf5-43ab-ad48-faccf4656eef.jpg"
   },
   {
    "id": "61f82b51-3486-46ee-a3d3-e4732ec2bd11",
@@ -48,7 +51,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a238f17c-e52f-4107-93ff-65b5a71ae160.png"
   },
   {
    "id": "44d432cf-997b-434f-9263-c04202162a9c",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4cc19c8a-3db5-4c70-95e5-9a115583e141.jpg"
   },
   {
    "id": "23c709bd-86f0-49a8-963d-bb8b1dc49c4e",
@@ -71,7 +76,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1318e15c-b781-42bc-ba52-bbfd6d87d892.jpg"
   },
   {
    "id": "27302531-c877-4d13-8969-947f096c7e5c",
@@ -82,7 +88,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "13277abe-f9bd-4da2-b859-4632aa740ba3.jpg"
   },
   {
    "id": "5e244164-7d9c-43fc-a94c-9dde506ffd73",
@@ -93,7 +100,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7fd05d33-a897-4905-8cea-bc0826c05e81.jpg"
   },
   {
    "id": "db193531-2a22-4d06-a83f-99519ad2fa20",
@@ -104,7 +112,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7879314-1d61-442b-b9aa-c92d6f47988f.jpg"
   },
   {
    "id": "ec4ff18d-4701-4fa6-b5a6-4eb5ba2ab11c",
@@ -115,18 +124,20 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4bf27f42-f143-475c-9591-8d9d467b40fa.jpg"
   },
   {
    "id": "ae1a5527-ddf6-4de2-8ec5-c89acd80f23f",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Futari no Kyori wa 100m! (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Futari no Kyori wa 100m! (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48c05438-4dca-4c73-bb28-34bca42b00cd.jpg"
   },
   {
    "id": "7de43a9a-f3aa-4e89-8a79-fd4e636a22c7",
@@ -137,8 +148,10 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9565156e-27a9-482e-ac91-1cc324d11a87.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:08+00:00"
+ "updatedAt": "2021-07-18T06:29:08+00:00",
+ "coverFileName": "c8f38784-6ab9-43db-8af2-8513bace4d19.jpg"
 }

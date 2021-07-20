@@ -22,7 +22,8 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "9e07534a-44ae-44ff-9322-fd7e9bd8582b.png"
   },
   {
    "id": "4edf7a55-a118-49d3-a010-6201af9d9eb1",
@@ -35,12 +36,13 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "20bde595-7963-4c36-bd06-76393b016105.jpg"
   },
   {
    "id": "2dc7984a-b6dc-493c-aec1-1b33ab7c686a",
    "title": {
-    "en": "Dungeons \u0026 Artifacts"
+    "en": "Dungeons & Artifacts"
    },
    "contentRating": "safe",
    "score": 0.42056143,
@@ -49,7 +51,8 @@
     "id",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "fe503c0f-6360-438d-aa62-369865fb7ff4.jpg"
   },
   {
    "id": "c5422fa5-6d79-432e-ba66-9540a6f5ff6c",
@@ -66,7 +69,8 @@
     "pt-br",
     "en",
     "he"
-   ]
+   ],
+   "coverFileName": "8bf09dfd-9905-46d8-92f8-6e78e137b44c.jpg"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -84,7 +88,8 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   },
   {
    "id": "ed996855-70de-449f-bba2-e8e24224c14d",
@@ -98,7 +103,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "bc52afb2-7b09-4f0f-952f-f29eff7f1257.jpg"
   },
   {
    "id": "73906dcd-cf61-4494-9d57-4be61d8a1a3d",
@@ -110,7 +116,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a14670bd-32c1-4cb9-a1a4-bbd6547b959e.jpg"
   },
   {
    "id": "10fab94e-2227-47e2-b059-f4762eb5ca4e",
@@ -128,7 +135,8 @@
     "pt-br",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a80d2f61-5a20-45a1-b98a-99d7174b3d42.jpg"
   },
   {
    "id": "996332c1-1303-442c-a7da-300173ca030a",
@@ -140,7 +148,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3d7271ea-5f1e-43e8-9a63-98027f63217b.jpg"
   },
   {
    "id": "4b5539f7-34f6-4db1-b83c-450893a3c862",
@@ -154,7 +163,8 @@
     "en",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2e901a9b-311c-4009-b1a3-7f72f0c3ccf6.jpg"
   },
   {
    "id": "c8093355-1ea5-4fa6-a452-cc4da82704cf",
@@ -166,7 +176,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "89714150-2a1b-4f75-b22b-fa85586271e3.jpg"
   },
   {
    "id": "6994b74a-2ecd-4a54-8d23-d2adff5e0b0c",
@@ -179,8 +190,10 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "6a268e1a-a620-42cc-b4ea-6bd43073c442.png"
   }
  ],
- "updatedAt": "2021-07-18T06:48:13+00:00"
+ "updatedAt": "2021-07-18T06:48:13+00:00",
+ "coverFileName": "350a3cee-f72c-4220-9ac6-73485f9d1f63.jpg"
 }

@@ -8,13 +8,14 @@
   {
    "id": "2de71485-9930-46bd-982e-cd4b1a8ff91c",
    "title": {
-    "en": "Burn-Up: Excess \u0026 W"
+    "en": "Burn-Up: Excess & W"
    },
    "contentRating": "suggestive",
    "score": 0.39825183,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9caee55f-10ca-4f39-b070-46b850486585.png"
   },
   {
    "id": "e476c383-9111-4a81-a2ed-3e3622c2e2d2",
@@ -25,7 +26,8 @@
    "score": 0.3868859,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b6a48ef-8572-466e-afe4-d2a595e5425c.jpg"
   },
   {
    "id": "19036550-a041-4647-877d-ad6e33227973",
@@ -36,7 +38,8 @@
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "928a4f28-bbe2-4c8f-beb1-798f37353aa3.jpg"
   },
   {
    "id": "b78228f2-abb8-4a96-9ed9-b7ee2fa86c5b",
@@ -47,19 +50,21 @@
    "score": 0.35516396,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ea85e16-a2b8-4784-93a1-039291321188.jpg"
   },
   {
    "id": "722525a8-202b-4951-ba10-390fe492c977",
    "title": {
-    "en": "KISS×DEATH"
+    "en": "KISS\u00d7DEATH"
    },
    "contentRating": "suggestive",
    "score": 0.3328067,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "caa87a93-0c77-4ded-87e9-877f689fb2e8.jpg"
   },
   {
    "id": "7d0a689d-dcd4-4a51-937f-48bc1410bc05",
@@ -70,7 +75,8 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5378060d-5c57-4cfa-88ea-a57304b67939.jpg"
   },
   {
    "id": "34a2f34f-b0b3-4819-93ca-80a5e5c3c9a2",
@@ -81,18 +87,20 @@
    "score": 0.32693002,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c92c4e80-b565-42ef-9c17-b16cdaf030e7.jpg"
   },
   {
    "id": "b7ea6dc4-b02d-46e2-be6e-aae1aff50898",
    "title": {
-    "en": "Renai☆SLG"
+    "en": "Renai\u2606SLG"
    },
    "contentRating": "suggestive",
    "score": 0.32615817,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c4519fa-583e-45d8-88c9-08ec65e14ff3.jpg"
   },
   {
    "id": "abeb044f-7ff3-4f86-aefd-86251c29220d",
@@ -105,7 +113,8 @@
     "it",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "e78ed5f5-16ce-4837-b2d9-23a368cb18d4.jpg"
   },
   {
    "id": "25ac1337-ca62-4b89-8b45-bb46d00478d2",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3b55a19d-3aec-43fa-b54c-a9854e411059.jpg"
   },
   {
    "id": "2b959c85-156a-4015-9f6e-989e683c2f91",
@@ -129,7 +139,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "5d43b3e1-bc04-4884-ac3a-5721de79dbe4.jpg"
   },
   {
    "id": "d0b1a4b3-cb40-4df1-b936-e1e8fa1f2b2f",
@@ -140,8 +151,10 @@
    "score": 0.3053641,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eab93dfc-4018-49b8-a441-b2eadc79b98d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:18+00:00"
+ "updatedAt": "2021-07-18T06:50:18+00:00",
+ "coverFileName": "cab3b775-2d9b-4e0b-83d3-2231f3f6b8d4.jpg"
 }

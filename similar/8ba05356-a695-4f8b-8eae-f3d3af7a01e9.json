@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6c093065-6bb3-4f76-98d1-f4e988b19325.jpg"
   },
   {
    "id": "f2fa3a41-c11a-4b2d-899a-94f545fa8e46",
@@ -27,18 +28,20 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "1c37f419-068c-41b8-891a-d979e9f0131a.jpg"
   },
   {
    "id": "43ee3b89-580d-40f2-9714-58ab848291f3",
    "title": {
-    "en": "Sirius \u0026 Mayu"
+    "en": "Sirius & Mayu"
    },
    "contentRating": "safe",
    "score": 0.33296534,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "816b49cd-a813-4454-a54f-44c6be8596b2.jpg"
   },
   {
    "id": "40c5cabb-32de-489b-9162-0cdafeb67d1d",
@@ -54,7 +57,8 @@
     "pl",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b2dc3c3a-0e6e-44c4-ba17-a1bd35982afd.jpg"
   },
   {
    "id": "60746565-57c5-4a8a-9147-cb63f9b9c58a",
@@ -66,7 +70,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "abec2b51-de0a-44d6-8b2b-7e7c975ef152.jpg"
   },
   {
    "id": "d81daa52-cbf2-40b3-ac6e-49cb06416cdc",
@@ -78,7 +83,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "73dc999a-a08a-4bb0-a009-2246e4c931a9.png"
   },
   {
    "id": "49f7ec13-25eb-4893-95ba-fd35a6e35410",
@@ -89,7 +95,8 @@
    "score": 0.27186507,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "682ab365-8a50-423a-9760-21e1ebf6299f.png"
   },
   {
    "id": "ee9a14ef-4880-4833-a15c-c11c5ea0dda2",
@@ -100,7 +107,8 @@
    "score": 0.27186507,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f765da38-f248-497d-b436-f8475561be3d.jpg"
   },
   {
    "id": "0295d266-4870-4ea3-814b-35f9afc7a9fd",
@@ -114,7 +122,8 @@
     "th",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6251f3e3-5d5b-4436-9db3-f3b9f6ba56c3.jpg"
   },
   {
    "id": "84071882-5007-4004-a7dd-f7a051439b99",
@@ -128,18 +137,20 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "925b1be9-9c19-4ac2-bb72-4d1d723d6f67.jpg"
   },
   {
    "id": "30d246b2-8d97-43dc-92e7-da756684958e",
    "title": {
-    "en": "Boys \u0026 Girls"
+    "en": "Boys & Girls"
    },
    "contentRating": "safe",
    "score": 0.27186507,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f0401fec-eeb8-431c-ae14-d571af1482fa.png"
   },
   {
    "id": "3ff18603-1357-4c5a-a901-18310f32bf27",
@@ -150,8 +161,10 @@
    "score": 0.27186507,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1f17a24-8cba-45f3-af7e-272d3f2a918b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:28+00:00"
+ "updatedAt": "2021-07-18T06:50:28+00:00",
+ "coverFileName": "24c456df-e67d-43c7-9f0f-0f07ac1eead1.png"
 }

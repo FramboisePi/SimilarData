@@ -8,13 +8,14 @@
   {
    "id": "84e37d72-ce40-4029-b6ab-5d7160f143c0",
    "title": {
-    "en": "It’s Neither Windy or Rainy, and nor Is It Clear"
+    "en": "It\u2019s Neither Windy or Rainy, and nor Is It Clear"
    },
    "contentRating": "safe",
    "score": 0.4510706,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a56d3848-66e1-4444-9ae8-230bc50a4082.png"
   },
   {
    "id": "fd5ab710-19bb-47dc-9c13-bc0a590f4d1b",
@@ -25,7 +26,8 @@
    "score": 0.44238585,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24e9cf56-3cde-4aac-8b25-eb0f2c364d57.jpg"
   },
   {
    "id": "6b1e21f6-ae0d-4388-82f0-6fd08a07312f",
@@ -36,7 +38,8 @@
    "score": 0.43078512,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7644418-e251-4df6-9435-09c8ba278d27.jpg"
   },
   {
    "id": "8f45db6d-4e52-462c-a4db-bf28b4bcc9b5",
@@ -50,7 +53,8 @@
     "id",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "a6403d95-dfe2-4777-ad4a-6e7c978130dd.jpg"
   },
   {
    "id": "2a83efdc-218d-41d9-b838-e691afc5f922",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "fd26b350-7dd8-4ded-865b-bb969f5bec82.jpg"
   },
   {
    "id": "247bd517-846e-41cb-b6ec-f368e9272d7c",
@@ -78,7 +83,8 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "836a14a3-4d57-454c-ab01-a2baa50ba437.png"
   },
   {
    "id": "792dc343-97b1-4284-87e7-30e69ee14ec7",
@@ -89,7 +95,8 @@
    "score": 0.4238647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3bc21107-c214-4056-90f6-00a975a520a8.jpg"
   },
   {
    "id": "a28f9b0a-8796-4331-9511-3c88b0ee9d28",
@@ -100,7 +107,8 @@
    "score": 0.4183301,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fcacb91-984d-4bcd-a990-39f3b8dde839.jpg"
   },
   {
    "id": "a79c9b5d-fb36-4f03-ab88-21c127b45c36",
@@ -112,7 +120,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a74dff5c-75b8-4fd4-a975-3d825f78002f.png"
   },
   {
    "id": "6875a15f-af7b-427d-9d38-801ae6aeb446",
@@ -124,7 +133,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "a9d048af-df69-48a6-92a2-992cf5537c90.png"
   },
   {
    "id": "b235c869-09ea-4418-ae33-5eb5bb4fdc4c",
@@ -135,7 +145,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e390a17-3fba-40ee-9436-505a1367b4c8.jpg"
   },
   {
    "id": "f4659225-6ac3-4d86-88e1-6bff7239b52a",
@@ -148,8 +159,10 @@
     "es",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "318a933d-07d2-4365-ad22-5654b8b70b0a.png"
   }
  ],
- "updatedAt": "2021-07-18T07:11:29+00:00"
+ "updatedAt": "2021-07-18T07:11:29+00:00",
+ "coverFileName": "3c1a9172-f1ba-4e0e-b4de-20bf821f926a.jpg"
 }

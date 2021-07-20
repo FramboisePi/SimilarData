@@ -1,7 +1,7 @@
 {
  "id": "0e4165cc-c66e-4c54-b48c-ac15c76bb539",
  "title": {
-  "en": "Hokuto no Ken \u0026 K-ON! - KEN-OH! THE MOVIE (Doujinshi)"
+  "en": "Hokuto no Ken & K-ON! - KEN-OH! THE MOVIE (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e627d4b6-34d4-4e9f-8a48-a10ddbf2b0a4.jpg"
   },
   {
    "id": "13b95f83-160c-4612-b76d-4f11a5cb08a5",
@@ -26,18 +27,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16e56359-1589-426e-9d36-e10fae48b5d1.jpg"
   },
   {
    "id": "95aca490-1e65-4c3b-a9aa-6d519f07251f",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - MadoMagi☆Panic (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - MadoMagi\u2606Panic (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "574a43bd-72fb-4dba-b9e7-3b0640329094.jpg"
   },
   {
    "id": "30152e61-a281-45b8-9391-ecd675473cff",
@@ -48,7 +51,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "986518f4-d7a2-4096-a36e-c8877dc0cd55.jpg"
   },
   {
    "id": "fb25929b-c916-4551-af06-c5296e816d87",
@@ -59,7 +63,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af3b75d5-f8de-42b4-88ac-2e6595bb9f32.jpg"
   },
   {
    "id": "43f9400d-c645-473e-a6ea-67819b85ba93",
@@ -70,7 +75,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd88048e-954d-4515-bc01-dffc273609e1.jpg"
   },
   {
    "id": "67e8e880-1777-4be9-b811-10a99470c7ce",
@@ -81,7 +87,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb225e1f-bbf7-48f7-838c-fc4360fdbc56.png"
   },
   {
    "id": "b0054c84-b001-47ea-a20e-fdf06aa944d6",
@@ -92,7 +99,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f442bd85-cd11-4754-8da1-3b2c398e4034.jpg"
   },
   {
    "id": "a04d18cd-8274-4078-961b-5533b094620c",
@@ -103,7 +111,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ee2ca5c-bd85-4d18-961e-ffb2a2352ee7.jpg"
   },
   {
    "id": "afce9dbe-9d62-486f-b76d-0fe5e7bcf015",
@@ -115,7 +124,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "646b1e8f-9119-4236-8d06-0f272892ba35.jpg"
   },
   {
    "id": "fb942da2-79e8-488f-9976-8bb9efa9d405",
@@ -126,7 +136,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8da0f78a-3d12-4c00-9b77-4c96084944c8.jpg"
   },
   {
    "id": "2e088d1f-34f5-4fd4-8e7a-5085c172a91d",
@@ -137,8 +148,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22da97a5-4d05-4183-9aef-38629a67b9aa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:07+00:00"
+ "updatedAt": "2021-07-18T06:27:07+00:00",
+ "coverFileName": "e1b1fea1-bfa2-4f07-9087-9ad18a37f9f9.jpg"
 }

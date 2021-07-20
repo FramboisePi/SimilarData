@@ -1,7 +1,7 @@
 {
  "id": "54d98b8a-1d25-4074-8dd7-8c8d1aaf5cce",
  "title": {
-  "en": "Love Comedy Hero \u0026 the Princess of Darkness"
+  "en": "Love Comedy Hero & the Princess of Darkness"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -16,7 +16,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4b8f966c-77e2-40f3-ac57-9639fe00c5a0.jpg"
   },
   {
    "id": "05667b38-4ba4-483c-9324-5d386015e022",
@@ -30,7 +31,8 @@
     "es-la",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9cd4ba3b-1bd2-4527-b3dd-e3848059b747.jpg"
   },
   {
    "id": "d87ae01e-8064-454b-9265-f1984c1ae213",
@@ -45,7 +47,8 @@
     "es-la",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "4c2d1883-08ea-4ae3-8725-8f8fcb55e6de.jpg"
   },
   {
    "id": "75c18261-3506-474d-bda5-b7e820c8d470",
@@ -58,7 +61,8 @@
     "es",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "c982eeae-a554-4e91-a321-6974931f99d5.jpg"
   },
   {
    "id": "9c0f9689-d775-48de-8222-c81571f0ed0e",
@@ -69,7 +73,8 @@
    "score": 0.33486477,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e5fbca44-bdde-4871-9244-df784e67bbf4.jpg"
   },
   {
    "id": "2227abce-7d1c-4e6c-9aca-3dc05dbb074e",
@@ -82,7 +87,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8b3bfa45-a738-4b9d-a972-194d93c7b611.jpg"
   },
   {
    "id": "cfc66fdf-bb7e-4980-8117-bfa8391e64c0",
@@ -93,7 +99,8 @@
    "score": 0.33274442,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9320232d-a54d-4a99-b232-a476d414c479.jpg"
   },
   {
    "id": "b1acb2cf-8f39-4bd7-926c-06377e485a9a",
@@ -108,7 +115,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "15029f68-6126-46e2-b32a-e34cef6344f5.jpg"
   },
   {
    "id": "562b946f-fe01-4475-9965-070675dc4fc1",
@@ -120,7 +128,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "46b928a2-06a5-449b-b7db-8e91c314bfcc.jpg"
   },
   {
    "id": "f88fd853-85a5-47d9-8e49-61cc2444caed",
@@ -138,7 +147,8 @@
     "id",
     "th",
     "ru"
-   ]
+   ],
+   "coverFileName": "8cafa4cf-c75f-4851-ab7c-a6ed521e7556.jpg"
   },
   {
    "id": "da181bc3-7f98-431f-8e2c-2fff71e4b63e",
@@ -152,7 +162,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ccb4637f-a7f1-438e-8dfb-d764024cde60.jpg"
   },
   {
    "id": "65498ee8-3c32-4228-b433-73a4d08f8927",
@@ -167,8 +178,10 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5c080286-a938-4325-8044-91e88f2d9336.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:15+00:00"
+ "updatedAt": "2021-07-18T06:40:15+00:00",
+ "coverFileName": "97b636f2-753d-49d1-b5bb-8b51b42378e7.jpg"
 }

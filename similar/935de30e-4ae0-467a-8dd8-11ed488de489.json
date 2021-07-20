@@ -16,7 +16,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "28151ef5-af51-468f-a78e-263b7695bbb5.png"
   },
   {
    "id": "befdc96e-3254-4564-bcd4-1fc3ac5801f9",
@@ -29,7 +30,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "dc6e720d-dbbe-4faa-b1b7-c22e49641a64.jpg"
   },
   {
    "id": "64567111-7788-4a2d-bc6a-c4518c8a3a13",
@@ -40,7 +42,8 @@
    "score": 0.35207942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ebd36c07-d770-42dd-b171-46e10c090f50.jpg"
   },
   {
    "id": "eeeb4fb0-977e-45e8-b298-e29afaa2f231",
@@ -54,7 +57,8 @@
     "zh",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "941a64e2-8d1b-4f3c-9b10-566016646cc8.jpg"
   },
   {
    "id": "0cb8a8aa-dc30-43b6-8bf9-772f7ce57d87",
@@ -67,7 +71,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "940df720-202d-47fc-a7cd-f86fa3504688.jpg"
   },
   {
    "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
@@ -82,7 +87,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "56b76750-67bf-45cd-a623-a0681b3da782.png"
   },
   {
    "id": "3cba3721-7151-45c4-8e71-cc99642c2ac0",
@@ -93,7 +99,8 @@
    "score": 0.3375,
    "languages": [
     "vi"
-   ]
+   ],
+   "coverFileName": "9c5abe33-f155-408b-889e-9bf2af7ed796.jpg"
   },
   {
    "id": "9e27b55a-8227-42b0-ad92-7a0f661038a6",
@@ -110,19 +117,21 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7564879d-d293-4e6f-9909-67a2f727f0b2.jpg"
   },
   {
    "id": "3d5e9f96-3f86-43ed-b468-4013faf1a387",
    "title": {
-    "en": "Ai no donā"
+    "en": "Ai no don\u0101"
    },
    "contentRating": "safe",
    "score": 0.3375,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cbf74602-6b49-404b-96ca-bcea909fdbe5.jpg"
   },
   {
    "id": "7c5674c9-1128-4f8a-b241-b13b0ca0f4e4",
@@ -138,7 +147,8 @@
     "ru",
     "en",
     "tl"
-   ]
+   ],
+   "coverFileName": "b46a15f0-a835-48ee-9d75-e37167127f79.jpg"
   },
   {
    "id": "78842fd7-6204-42ce-8cba-91b7949a381e",
@@ -152,7 +162,8 @@
     "id",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "186889d3-3cb4-438f-9bd2-1e263078d52f.png"
   },
   {
    "id": "2ec26124-30e6-49ad-a6b0-c9baf5f71417",
@@ -168,8 +179,10 @@
     "it",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "41e77bfa-5150-4246-82a0-27c033991165.png"
   }
  ],
- "updatedAt": "2021-07-18T06:51:56+00:00"
+ "updatedAt": "2021-07-18T06:51:56+00:00",
+ "coverFileName": "c0323b04-d640-4dd8-ac4a-82c0d242fff6.jpg"
 }

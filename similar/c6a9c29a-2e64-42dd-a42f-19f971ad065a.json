@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "eaaa99ee-3e27-4e56-9d96-cd174fa0bc53.jpg"
   },
   {
    "id": "d337b48f-5752-4543-ba9c-1e3a0f70656e",
@@ -27,7 +28,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "1a6cbd1f-01ac-4c10-a754-83b3d6bd4ffe.png"
   },
   {
    "id": "b739ee7b-faef-4bad-8248-39d91fdd382e",
@@ -38,7 +40,8 @@
    "score": 0.47187695,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3d35b473-ade7-4fa7-9978-7a2b0580c34b.jpg"
   },
   {
    "id": "d7076ac3-de07-4d93-bace-0db78e9d4a1a",
@@ -50,7 +53,8 @@
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "f0d11c10-5926-407f-bbbe-eca7fec14115.jpg"
   },
   {
    "id": "c3bfb822-644f-4089-b202-e2ef98cb2a69",
@@ -62,7 +66,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a957ae09-092b-430f-8c56-0528fccc2ff5.jpg"
   },
   {
    "id": "69096ff5-1482-45eb-a53e-361edfd6aa9a",
@@ -73,7 +78,8 @@
    "score": 0.43020263,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2aa4bf1-5ac2-4cfb-8712-517d9c8e72eb.png"
   },
   {
    "id": "f4e199fb-b062-45e5-ae7f-d69e024ad15c",
@@ -84,7 +90,8 @@
    "score": 0.414411,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "30f0421f-9c18-4df7-9046-71610843c2b7.jpg"
   },
   {
    "id": "38221d4a-687d-49bc-a2f4-44ce42fab8d9",
@@ -95,7 +102,8 @@
    "score": 0.41142002,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b56cfaad-5993-4284-af0d-60c7e46f5a34.jpg"
   },
   {
    "id": "12bf57c7-3416-44b5-8836-da4f433eb0ca",
@@ -109,7 +117,8 @@
     "en",
     "ru",
     "hu"
-   ]
+   ],
+   "coverFileName": "305f5d9b-d177-498a-8461-0b09ee04ccae.jpg"
   },
   {
    "id": "167fd9aa-4331-4314-a91b-53d39c675bbd",
@@ -122,18 +131,20 @@
     "tr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "f1693d07-4a97-4811-8028-2096db8a0641.jpg"
   },
   {
    "id": "14ad4699-1391-4f4a-a7e6-c64e50727ae5",
    "title": {
-    "en": "Vampir Jäger"
+    "en": "Vampir J\u00e4ger"
    },
    "contentRating": "safe",
    "score": 0.40020826,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9b41b006-46e9-4707-b8c8-528fab6eed5f.jpg"
   },
   {
    "id": "ebfc45d4-b866-4fff-9e9a-79e7addf597d",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "824f1bc7-d844-4a37-abc6-f0dd19cfaa61.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:16+00:00"
+ "updatedAt": "2021-07-18T07:01:16+00:00",
+ "coverFileName": "7ab9b1fc-f77a-4b33-8f6f-1d44b51291fb.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "1f40c364-87ab-4f8e-aa2d-d909ac403c60",
  "title": {
-  "en": "Hakoniwa no Fräulein"
+  "en": "Hakoniwa no Fr\u00e4ulein"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4047855,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c304e3b1-2fab-4ff3-afda-b8fdd6560571.jpg"
   },
   {
    "id": "4282b96d-fe84-439f-85fe-501ccb1f3e1b",
@@ -29,7 +30,8 @@
     "es-la",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "660e9a31-12be-4ca7-be47-b633fd16a14d.jpg"
   },
   {
    "id": "41b6d340-2a06-4d30-9a53-c98a693396f4",
@@ -40,7 +42,8 @@
    "score": 0.3867958,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5caddd7f-e5ea-42fc-b1ba-13765c7f84a6.jpg"
   },
   {
    "id": "6ca039ba-913d-482d-9f02-8c26fca2ecf4",
@@ -51,7 +54,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "560868a4-d359-4707-b2a0-4e3123815835.jpg"
   },
   {
    "id": "ec50d32a-e419-4c2b-94b8-c95dadfde768",
@@ -62,7 +66,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10d3855a-d969-49c0-85ef-df7343d85354.jpg"
   },
   {
    "id": "5b67448e-ddf3-49d2-9701-c1edd8f0e7ee",
@@ -73,7 +78,8 @@
    "score": 0.3525438,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "01d1bd39-287e-42bc-9957-5017decb1e6a.jpg"
   },
   {
    "id": "342df7f0-6607-4e64-8801-0280ccb07d61",
@@ -86,7 +92,8 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "40cb2099-8e39-47de-afb0-1ecb695141fa.jpg"
   },
   {
    "id": "2bac493e-6368-4a4a-aa05-a21b74014cd5",
@@ -100,7 +107,8 @@
     "es-la",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "b149996c-7b8d-413c-82d0-e08fbb9feaaa.jpg"
   },
   {
    "id": "f344a1fd-0338-4e8a-b024-0f5545d72488",
@@ -114,7 +122,8 @@
     "es-la",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "b1ab9a43-7eb2-4c03-98a5-38a899368962.jpg"
   },
   {
    "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
@@ -126,7 +135,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "21cb0bd3-ed50-4138-93bc-7805aef9b2ee.jpg"
   },
   {
    "id": "45c5f98b-c6af-4527-9c52-1c21e70adfd8",
@@ -137,7 +147,8 @@
    "score": 0.3425265,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "766138e9-6853-43cc-9a19-be63e1c4ad0a.jpg"
   },
   {
    "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
@@ -154,8 +165,10 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "0cddf02d-9736-43b1-b7f0-6de938f91e51.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:20+00:00"
+ "updatedAt": "2021-07-18T06:30:20+00:00",
+ "coverFileName": "4bddc42c-4f45-4e80-ad1e-2122fba894f9.jpg"
 }

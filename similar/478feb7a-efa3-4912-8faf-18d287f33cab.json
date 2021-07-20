@@ -14,7 +14,8 @@
    "score": 0.47922188,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c727b61-8669-4dd2-b95a-780749945129.jpg"
   },
   {
    "id": "4379a9a7-7fb9-4891-9f9f-5fec2c004f2f",
@@ -27,7 +28,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "5c2266f3-e2fe-43fa-8459-faf9dd12463c.jpg"
   },
   {
    "id": "5976e234-6a8f-4074-80c3-d26fcde2f39f",
@@ -40,7 +42,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8c8d54ec-f99b-4153-8776-b493b915eada.jpg"
   },
   {
    "id": "d24e1ca1-431f-49cc-ba20-b48d15407e33",
@@ -51,7 +54,8 @@
    "score": 0.41365746,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef9947d6-c75d-42fd-b10b-21fc9abf7bb8.jpg"
   },
   {
    "id": "95543d8f-05ba-4345-8800-bc75f4a3ed78",
@@ -64,7 +68,8 @@
     "ru",
     "es-la",
     "tr"
-   ]
+   ],
+   "coverFileName": "106658c8-b206-45a0-8610-4c13b37d445b.jpg"
   },
   {
    "id": "04680398-7650-487f-b3dd-ddc381797a49",
@@ -77,7 +82,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "095fc525-620f-491d-8eb9-be97a5fbdac3.jpg"
   },
   {
    "id": "b95d1e42-23dc-4d95-b43e-e36b868574c6",
@@ -88,7 +94,8 @@
    "score": 0.41165385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4960ff61-2300-41be-8a3c-1043b97e43c8.jpg"
   },
   {
    "id": "869da2ff-e0de-42e2-ba93-cbf8b4049f6c",
@@ -99,7 +106,8 @@
    "score": 0.40965495,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a28d5a4-a38a-4e62-baab-ebb6e52f26d9.jpg"
   },
   {
    "id": "a4c07e8e-2dfc-4f77-8579-466b20129b14",
@@ -111,7 +119,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "97600e1f-cdc9-43f7-8fa7-72b34bdf23ba.jpg"
   },
   {
    "id": "4aecf422-7afe-405f-b2d4-e5b80a1872ac",
@@ -123,19 +132,21 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a5a93360-f2c2-48ec-87e1-1db03765ee65.jpg"
   },
   {
    "id": "fe3447fb-cb75-462b-882b-88e12b69c6bd",
    "title": {
-    "en": "Happy \u0026 Murphy"
+    "en": "Happy & Murphy"
    },
    "contentRating": "safe",
    "score": 0.3882099,
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "698b7852-9d31-4c7e-8a4c-add711d57e4a.jpg"
   },
   {
    "id": "769e1cb9-27e2-4e37-986d-67975f026281",
@@ -146,8 +157,10 @@
    "score": 0.38183767,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "672b1084-a20e-4bf3-9dbe-58c123cc0766.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:48+00:00"
+ "updatedAt": "2021-07-18T06:37:48+00:00",
+ "coverFileName": "79e392c9-8e2c-4b9a-be30-424a5eb1ca6c.jpg"
 }

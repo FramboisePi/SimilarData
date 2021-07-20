@@ -8,7 +8,7 @@
   {
    "id": "424c4f59-dd2a-4e57-ad1c-c531f86e33a5",
    "title": {
-    "en": "Motokare←Retry"
+    "en": "Motokare\u2190Retry"
    },
    "contentRating": "erotica",
    "score": 0.46017644,
@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3c7753b9-bd8c-4470-b2cd-1a9985f0b6be.jpg"
   },
   {
    "id": "7abf0d65-f212-4555-8d5a-723772b20223",
@@ -31,7 +32,8 @@
     "pt-br",
     "pl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ba4df0be-5282-4af2-95c0-3870b991b3b0.jpg"
   },
   {
    "id": "848e9601-9691-47ac-a015-e96e5d3b0d61",
@@ -43,7 +45,8 @@
    "languages": [
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2eb9ed98-4bd5-4cfd-a77d-94eaae8e4ae6.png"
   },
   {
    "id": "a677614f-d8de-4a75-9e83-951d73d91773",
@@ -54,7 +57,8 @@
    "score": 0.38971144,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "db96912e-c3a2-4272-afad-a72424f85787.jpg"
   },
   {
    "id": "a074ecbc-69ee-4c91-83d1-04441cf98019",
@@ -66,7 +70,8 @@
    "languages": [
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5e495617-63c1-4d04-b3b7-ed64b137342a.jpg"
   },
   {
    "id": "6f278244-6a59-4888-8e1b-352f4f1e30d5",
@@ -80,7 +85,8 @@
     "it",
     "zh-hk",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "18e05db3-7818-4e14-aa85-ea3800019ac1.jpg"
   },
   {
    "id": "089333f0-3bcd-4f81-b551-4a22a1a78a80",
@@ -92,7 +98,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "4dca2cbc-0fcb-4463-9040-aa4dc4060042.jpg"
   },
   {
    "id": "0f33ac8e-b038-4412-ac8d-05d05f838660",
@@ -104,7 +111,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "eaa2d413-9762-42f8-86b3-1c6e89aa497a.png"
   },
   {
    "id": "805eb3f5-fc93-44a7-9ade-12ae7439562c",
@@ -117,7 +125,8 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "55b065f1-d486-4377-af02-a32732eadf78.jpg"
   },
   {
    "id": "334b90dc-af77-4b46-99b7-fb38572c340d",
@@ -129,7 +138,8 @@
    "languages": [
     "it",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9005003e-50ba-4944-a478-f18c169af63d.jpg"
   },
   {
    "id": "1e43f176-6f8e-47bd-bdca-ca4eef1bb358",
@@ -141,7 +151,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "ac83dd67-b04f-4f10-9484-f7ef733ba923.jpg"
   },
   {
    "id": "49d11064-d5ae-4b40-b9a4-30247e6c4acc",
@@ -154,8 +165,10 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "126e011d-29f4-4764-bf58-f014ed191bd0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:38+00:00"
+ "updatedAt": "2021-07-18T06:39:38+00:00",
+ "coverFileName": "2faed1d6-fcee-4ebd-942e-6fc825eb7da5.jpg"
 }

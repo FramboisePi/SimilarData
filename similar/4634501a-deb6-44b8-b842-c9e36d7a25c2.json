@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c1741c27-8591-4a3d-a3b0-bc969930fa4c.jpg"
   },
   {
    "id": "fd379676-def6-4e1c-8062-9959b062e2b8",
@@ -26,7 +27,8 @@
    "score": 0.3818406,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56bda588-e82f-4f05-8608-1d1f193333f7.jpg"
   },
   {
    "id": "9305c532-9881-4da9-9cd4-fe950122d902",
@@ -37,7 +39,8 @@
    "score": 0.36275122,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ed0f675-3b00-4b32-b62e-6929b811c409.jpg"
   },
   {
    "id": "7c7bc515-5427-4b56-915a-ebf1c04ee3d8",
@@ -48,18 +51,20 @@
    "score": 0.3617993,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "adc3a288-9503-4a3d-aea7-6f9e8c35c28a.jpg"
   },
   {
    "id": "4cb44f68-779b-4c7f-bf3d-acb1fef83944",
    "title": {
-    "en": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
+    "en": "Pok\u00e9mon Mystery Dungeon: Explorers of Time and Darkness"
    },
    "contentRating": "safe",
    "score": 0.35903752,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b3305154-edf9-4fb4-8d52-c5f566cf7512.png"
   },
   {
    "id": "fa3c24af-fea0-4d44-b8da-131c69646bb1",
@@ -72,7 +77,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4562ae44-d7e5-4593-8349-f080fde1f4af.jpg"
   },
   {
    "id": "60c8e9c1-d33c-4264-b825-07b99f035276",
@@ -83,7 +89,8 @@
    "score": 0.3540299,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02b19687-a68f-4b4f-a22a-03cebb74ca5b.jpg"
   },
   {
    "id": "8bcdbfe3-3424-4978-a48d-17d1b968ddd7",
@@ -94,7 +101,8 @@
    "score": 0.35027274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ee748e1-eb94-4d14-ba0e-b89be1f14e62.jpg"
   },
   {
    "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
@@ -105,7 +113,8 @@
    "score": 0.34898224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7efed5ce-a808-4440-80da-09e152748b6d.png"
   },
   {
    "id": "e0589f47-72f9-4e9a-ac31-5b88bcad6220",
@@ -120,7 +129,8 @@
     "ru",
     "id",
     "ar"
-   ]
+   ],
+   "coverFileName": "b372955a-521c-484d-ae36-5af7a24f68e9.jpg"
   },
   {
    "id": "4ba767d6-113d-4bf0-baae-466aa672ea5e",
@@ -131,7 +141,8 @@
    "score": 0.34652725,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc59b220-5d99-4407-a46b-6b89b1b47222.jpg"
   },
   {
    "id": "0a708d9f-0b44-4ea7-93d2-d4a7a7671cde",
@@ -144,8 +155,10 @@
     "it",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ebee2119-99a5-49f0-b24b-31c0a0189d6d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:32+00:00"
+ "updatedAt": "2021-07-18T06:37:32+00:00",
+ "coverFileName": "d7e35b35-b1e9-4d9c-868b-522f8dc82fb1.jpg"
 }

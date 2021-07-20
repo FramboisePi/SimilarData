@@ -1,31 +1,33 @@
 {
  "id": "5de9788d-e867-444d-b321-0f47032842bb",
  "title": {
-  "en": "Lito Perezito’s REED 900:FAR AWAY NORTH"
+  "en": "Lito Perezito\u2019s REED 900:FAR AWAY NORTH"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "0505df65-db6c-4a5f-aa35-ef0dc878d23c",
    "title": {
-    "en": "Lito Perezito’s REED 900: Family Business"
+    "en": "Lito Perezito\u2019s REED 900: Family Business"
    },
    "contentRating": "safe",
    "score": 0.44813883,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e583a2a4-659c-4e8f-af82-4e3e2a3b4c81.jpg"
   },
   {
    "id": "cec9d39c-064d-4271-885e-c41c164c5db4",
    "title": {
-    "en": "Lito Perezito’s REED 900: The Beginning"
+    "en": "Lito Perezito\u2019s REED 900: The Beginning"
    },
    "contentRating": "safe",
    "score": 0.42250934,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "12070751-edd3-4e84-ac61-49a78cc06672.jpg"
   },
   {
    "id": "55f954b3-b9f0-4b59-9e04-e2de96491f19",
@@ -36,7 +38,8 @@
    "score": 0.36416754,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ff62419-21f1-453f-9e75-abb41a265a2b.jpg"
   },
   {
    "id": "95fa7d3e-5fcd-4974-85e2-21fbb87a532f",
@@ -51,7 +54,8 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "eb2af209-240c-480d-9663-ed5c1625233a.jpg"
   },
   {
    "id": "2cbb0d7f-dcf6-4f8c-b20d-916d34bb0912",
@@ -65,7 +69,8 @@
     "pt",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4396c1d7-66ea-4390-9b8b-39408027f8fd.jpg"
   },
   {
    "id": "bd363885-2ef7-4174-a457-a59c98626ed0",
@@ -76,7 +81,8 @@
    "score": 0.30595505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4809da3c-e11e-43f3-894b-7ca4718fd738.jpg"
   },
   {
    "id": "d6115bd7-a0b5-4a37-96b3-0a4d1cd3f9a4",
@@ -87,7 +93,8 @@
    "score": 0.29439315,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71b4d8a6-671a-4a8e-9902-7c13581bb6d0.jpg"
   },
   {
    "id": "2e7ba575-bfac-48ca-8a6c-927cc0ab8af0",
@@ -101,7 +108,8 @@
     "tr",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "84adaeca-ea75-479b-85cc-6d3a5215fca2.jpg"
   },
   {
    "id": "598b9a10-126c-4807-9ed2-c1651acb3327",
@@ -112,7 +120,8 @@
    "score": 0.29019958,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24e7e6eb-444c-4933-b177-95b5f70407f6.jpg"
   },
   {
    "id": "1ec59012-1ef1-4235-b08e-5251a7ca8f97",
@@ -123,7 +132,8 @@
    "score": 0.29019958,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9cef99a0-a9b6-406a-98d9-2564abf251a8.jpg"
   },
   {
    "id": "f0a6cf46-161f-48df-9395-48058ca40438",
@@ -134,7 +144,8 @@
    "score": 0.29019958,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "86fac869-f3ac-455a-b19d-1f98f7227c59.jpg"
   },
   {
    "id": "e09a4bcb-a97b-4b10-9f8d-38a863af9650",
@@ -145,8 +156,10 @@
    "score": 0.29019958,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab16b910-a599-483f-b706-877c7df096e0.png"
   }
  ],
- "updatedAt": "2021-07-18T06:41:58+00:00"
+ "updatedAt": "2021-07-18T06:41:58+00:00",
+ "coverFileName": "a1e735ef-b378-444d-a4a3-4484f42300c2.png"
 }

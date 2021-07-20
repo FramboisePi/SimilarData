@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "3446f2ef-5e72-44fb-8e52-754fb992959f.jpg"
   },
   {
    "id": "1de22ad9-cb16-4563-9ebb-1e01364e4999",
@@ -31,7 +32,8 @@
     "id",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6713459c-82bb-4858-a580-a28464d90030.jpg"
   },
   {
    "id": "6a559e16-b475-43fd-9500-61e8d91e3239",
@@ -44,7 +46,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f8fc8f38-dc68-44ad-95b2-cf05e307d711.jpg"
   },
   {
    "id": "52f4c0a6-2919-4427-aa62-4b25d0b5f05c",
@@ -56,7 +59,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1789cbeb-349a-4842-91d1-0217d92ff699.jpg"
   },
   {
    "id": "6de510fb-cb39-45e9-8548-b211cdb0b771",
@@ -69,7 +73,8 @@
     "es",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "71816184-41e4-4261-88bd-449f90bc772b.jpg"
   },
   {
    "id": "c7d7cc98-1e9c-467d-892e-8cc4a2129ed5",
@@ -82,7 +87,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "dd8e3d53-e116-4375-ab99-bf440b2cf6d2.jpg"
   },
   {
    "id": "dd4d1d7e-420b-49fd-8acf-cb2e58205f65",
@@ -97,7 +103,8 @@
     "zh",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0d96d0ac-f463-4d16-99fc-39e74abbc793.jpg"
   },
   {
    "id": "aea5ddc9-6552-4b3a-8398-a3c96235f138",
@@ -110,12 +117,13 @@
     "es",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "021c23da-1f56-4746-b59b-55dc2181f1b7.jpg"
   },
   {
    "id": "020dc431-58d2-4a31-9221-b26b2dce149d",
    "title": {
-    "en": "Gekijouban Madoka★Magica - [Shinpen] Hangyaku no Monogatari"
+    "en": "Gekijouban Madoka\u2605Magica - [Shinpen] Hangyaku no Monogatari"
    },
    "contentRating": "safe",
    "score": 0.3145665,
@@ -123,7 +131,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "28688318-5021-4bca-bc5e-efaea6e0580d.jpg"
   },
   {
    "id": "04329c2b-a362-499e-8fe4-123901cc5a00",
@@ -135,7 +144,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "7922ee26-ce99-48d2-a9e1-01dd6f8c178c.jpg"
   },
   {
    "id": "de900fd3-c94c-4148-bbcb-ca56eaeb57a4",
@@ -148,7 +158,8 @@
     "en",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "540fd5d1-e25e-4647-bbfc-0e51aae15503.jpg"
   },
   {
    "id": "229eb307-021e-4062-8d39-94422da2671e",
@@ -161,8 +172,10 @@
     "en",
     "es",
     "pl"
-   ]
+   ],
+   "coverFileName": "7ed5a29d-8bba-490b-becf-e1a7cc20e88b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:42+00:00"
+ "updatedAt": "2021-07-18T06:56:42+00:00",
+ "coverFileName": "bcef1ed4-5541-46f9-b1c2-d0a3365876f0.jpg"
 }

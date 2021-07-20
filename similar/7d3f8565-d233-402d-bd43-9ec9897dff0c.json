@@ -8,13 +8,14 @@
   {
    "id": "1ef7e6e3-cf07-4862-abad-b9960c30807e",
    "title": {
-    "en": "H₂O - Footprints in the Sand"
+    "en": "H\u2082O - Footprints in the Sand"
    },
    "contentRating": "safe",
    "score": 0.4040285,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4194f5c-91af-42e4-94a2-7374c4a55517.jpg"
   },
   {
    "id": "a77ebe92-b91c-4d64-a4c6-bc7e2b1b9073",
@@ -25,7 +26,8 @@
    "score": 0.39439854,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8f60657e-38cd-4461-ab71-b65e4de1172a.png"
   },
   {
    "id": "2955da52-2303-48db-b515-3ce9b74eb0ca",
@@ -36,7 +38,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c6f466f-d821-4c8d-be7c-51b6ce81d39e.jpg"
   },
   {
    "id": "c4613b7d-7a6e-48f9-82f0-bce3dd33383a",
@@ -50,7 +53,8 @@
     "en",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "e117cee8-e034-4d6d-98c8-572a968be80b.jpg"
   },
   {
    "id": "fc83ffc3-8ec2-476c-a436-34acd795a1a7",
@@ -61,12 +65,13 @@
    "score": 0.37667167,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d8e68c3c-d29e-41e5-9d2a-56bbe006ccbc.jpg"
   },
   {
    "id": "1c822298-a591-4971-b53d-c5a2d138c1fd",
    "title": {
-    "en": "Kuroha \u0026 Nijisuke"
+    "en": "Kuroha & Nijisuke"
    },
    "contentRating": "safe",
    "score": 0.37194583,
@@ -78,7 +83,8 @@
     "it",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "621e21bf-389b-4dd5-9df7-8837107f1b8f.jpg"
   },
   {
    "id": "642283ab-041a-4d41-84e4-75adfac146d0",
@@ -89,7 +95,8 @@
    "score": 0.37105364,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0292f36b-a2be-48e1-b78a-f323e436877f.jpg"
   },
   {
    "id": "73e44d8f-fd9f-49b5-851b-7b3a9a20c62b",
@@ -100,7 +107,8 @@
    "score": 0.36871594,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38996d4a-148c-4eac-b243-0b5c8d2f36be.jpg"
   },
   {
    "id": "4845a17c-d489-4190-acb0-29f6d3b3bff1",
@@ -111,7 +119,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3639fd9-f067-4c8d-9eba-e60283c270b7.jpg"
   },
   {
    "id": "a96b8f4c-a59c-45ed-a053-db3927e1d552",
@@ -123,7 +132,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e5078e92-d591-413c-9960-b74ba10c995d.jpg"
   },
   {
    "id": "d1a04156-400d-4032-b885-007c29a8a3c0",
@@ -137,7 +147,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "49a5f61c-66af-4f66-8b5b-50ba66389e79.jpg"
   },
   {
    "id": "203c1c94-59f1-44b4-808b-b7ab31085d27",
@@ -148,8 +159,10 @@
    "score": 0.35999125,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "01ca8541-26cc-496f-aabb-a59f44aaa751.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:43+00:00"
+ "updatedAt": "2021-07-18T06:47:43+00:00",
+ "coverFileName": "9c5c1223-1198-42f2-a44d-b19cb329a72d.png"
 }

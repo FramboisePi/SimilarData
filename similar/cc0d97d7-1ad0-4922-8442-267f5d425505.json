@@ -16,7 +16,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6ec4ceb1-5256-4568-9a07-1b5315c3121a.jpg"
   },
   {
    "id": "c338da62-8241-4eec-9f5b-e6370520fbc0",
@@ -29,7 +30,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "22548686-e0ef-41ba-a2f7-65c8a882681a.jpg"
   },
   {
    "id": "9a410748-40e1-48f1-8b89-6c53b260824a",
@@ -40,7 +42,8 @@
    "score": 0.5524424,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29257a55-4b0d-4394-bdea-411a1cef7f87.jpg"
   },
   {
    "id": "61cb55bb-03e1-4496-9bd4-460c2c7143b4",
@@ -54,7 +57,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "9ec61c1f-1826-416f-8489-f37eb9689ec4.jpg"
   },
   {
    "id": "cdbbda38-1972-42a3-af69-286c54ca9dd6",
@@ -66,7 +70,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "30cf66f9-73a1-4853-8ff1-02ba566119fb.jpg"
   },
   {
    "id": "3ac9fd03-e3de-4520-90aa-d9fc002eac0a",
@@ -81,7 +86,8 @@
     "tr",
     "ru",
     "ar"
-   ]
+   ],
+   "coverFileName": "ae3480b0-dfbb-4eaf-9867-8dd01535e472.jpg"
   },
   {
    "id": "47d06cfe-a113-442b-9db9-ad0260468b58",
@@ -95,7 +101,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0a0b46e0-8785-4f4b-ad69-89f1049df909.jpg"
   },
   {
    "id": "d7076ac3-de07-4d93-bace-0db78e9d4a1a",
@@ -107,7 +114,8 @@
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "f0d11c10-5926-407f-bbbe-eca7fec14115.jpg"
   },
   {
    "id": "77b4152b-53b3-4a9e-992d-5754009f4a61",
@@ -118,7 +126,8 @@
    "score": 0.52362007,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3674fbde-3a0f-4a00-8169-735b4497c03f.jpg"
   },
   {
    "id": "24af0628-fe13-4d9d-844d-339717e09868",
@@ -134,12 +143,13 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "e4ab5621-c9e1-4318-836e-43d7dceddf57.jpg"
   },
   {
    "id": "c0ad8919-4646-4a61-adf9-0fd6d8612efa",
    "title": {
-    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 1-bu 「Hon ga Nai nara Tsukureba Ii!」"
+    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 1-bu \u300cHon ga Nai nara Tsukureba Ii!\u300d"
    },
    "contentRating": "safe",
    "score": 0.5195991,
@@ -149,7 +159,8 @@
     "ru",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "064ca439-e47b-49fd-9ac3-3a4700d073e9.jpg"
   },
   {
    "id": "cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
@@ -164,8 +175,10 @@
     "es-la",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "a64c01f2-de63-4cb1-9352-0b419a26762d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:16+00:00"
+ "updatedAt": "2021-07-18T07:02:16+00:00",
+ "coverFileName": "52bdac73-f20f-4d65-96f5-faff19023749.jpg"
 }

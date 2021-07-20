@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dc10c20d-a9ed-4da3-bb11-6f7578dacac9.jpg"
   },
   {
    "id": "5c45983f-7b68-45b3-b205-7696ad33c13c",
@@ -26,7 +27,8 @@
    "score": 0.5203638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8aedada3-76ba-489e-9b33-569fa077c2f7.png"
   },
   {
    "id": "2aed40d3-beb1-4b0d-bbd5-ed73408a4820",
@@ -37,7 +39,8 @@
    "score": 0.50234336,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51010e33-a39f-4f4a-ad41-298dfb28c084.jpg"
   },
   {
    "id": "b0a0e190-0c2d-413a-9782-f28020584837",
@@ -48,7 +51,8 @@
    "score": 0.5022701,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ad96757-0cb3-4bf6-9d36-7365c34a236d.jpg"
   },
   {
    "id": "1cd7d86c-833c-4878-82a0-cb48da52c3d4",
@@ -60,18 +64,20 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "fffbb6d8-c9a4-4c01-ba05-1cfd6637fc27.jpg"
   },
   {
    "id": "2a0536d0-eb91-4e22-9c03-66b8221214b8",
    "title": {
-    "en": "Ougon Honey ♡"
+    "en": "Ougon Honey \u2661"
    },
    "contentRating": "safe",
    "score": 0.46740356,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b18c95a4-a48f-40ac-9f64-d9050a939d25.jpg"
   },
   {
    "id": "47561747-8564-41a1-9cf9-17a0b94fb12c",
@@ -83,7 +89,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "fb687864-acc1-4a27-bd72-d2fb514cd0ab.jpg"
   },
   {
    "id": "ca8297db-bf28-4f82-9a21-33c977692b53",
@@ -95,7 +102,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "2348c5d7-78aa-4330-940a-22c65073dfc7.jpg"
   },
   {
    "id": "3f935aef-eb76-41db-959c-80638dcbccbc",
@@ -107,7 +115,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "496283b7-2561-4370-a7eb-9185788bb8e3.jpg"
   },
   {
    "id": "50d6f11a-967c-4aa1-8988-aa804213e5d5",
@@ -118,7 +127,8 @@
    "score": 0.45452023,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b97c867a-fc9a-4039-b4c5-432a067c84c4.png"
   },
   {
    "id": "ce73fad2-22d8-4add-80a2-14d01faacd67",
@@ -129,7 +139,8 @@
    "score": 0.45022377,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1c77386a-e399-41dc-b005-71a74b174424.png"
   },
   {
    "id": "6098340a-0466-4fa1-b5d8-ae71e707b4ec",
@@ -140,8 +151,10 @@
    "score": 0.44930717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31d9bcbe-9803-4f71-ac97-1ec2414c4145.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:32+00:00"
+ "updatedAt": "2021-07-18T06:49:32+00:00",
+ "coverFileName": "2a9a74bb-4302-4f60-b772-740bfbc307e0.png"
 }

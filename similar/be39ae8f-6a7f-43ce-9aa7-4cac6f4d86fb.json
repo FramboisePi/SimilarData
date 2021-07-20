@@ -1,7 +1,7 @@
 {
  "id": "be39ae8f-6a7f-43ce-9aa7-4cac6f4d86fb",
  "title": {
-  "en": "Mahou Shoujo Madoka★Magica - Comic Anthology"
+  "en": "Mahou Shoujo Madoka\u2605Magica - Comic Anthology"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.39422503,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98be292b-518c-43ba-9530-382ab4f3c578.jpg"
   },
   {
    "id": "7dda2eae-5fce-40fe-a366-be970b42d716",
@@ -25,7 +26,8 @@
    "score": 0.39290908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "74bd2410-3423-4f33-88a9-7389b6d7d0a5.jpg"
   },
   {
    "id": "bcbf0192-149f-4795-995e-d1a54fe383d7",
@@ -36,7 +38,8 @@
    "score": 0.39290908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d788ef1f-b4be-4022-9a08-928cce93c276.jpg"
   },
   {
    "id": "75c2d045-b31e-4b65-ae0f-12f9765c9290",
@@ -47,7 +50,8 @@
    "score": 0.39290908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc229b99-cd38-4fab-8096-76b904586f56.jpg"
   },
   {
    "id": "ae954a41-978b-4a71-9c10-f4d1bf2ace77",
@@ -58,7 +62,8 @@
    "score": 0.39290908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4f85b7b-7d67-42f7-99fd-65877a1d442d.jpg"
   },
   {
    "id": "8ee7d7b1-1f85-4b8e-9861-66c8b7b53929",
@@ -71,7 +76,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9feb0dbc-d56b-43fc-bad2-5e4254890dac.jpg"
   },
   {
    "id": "1d6898df-790f-4fb7-9bf2-bc92bf389269",
@@ -82,7 +88,8 @@
    "score": 0.39290908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c748268-085e-4d3f-bec9-6ab52be40149.png"
   },
   {
    "id": "32e93fe0-e136-49d3-bd02-1987cd032967",
@@ -93,7 +100,8 @@
    "score": 0.39290908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c333f3ba-3211-4672-a632-19263cfc69e4.jpg"
   },
   {
    "id": "be265277-94a4-4d11-986e-4c57a2d7b803",
@@ -104,7 +112,8 @@
    "score": 0.39290908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "408bc655-3a30-4b34-8bc3-65c3e5aa707f.jpg"
   },
   {
    "id": "0f7ffbc4-a633-4bc7-90c9-8dc5a1be3a70",
@@ -115,18 +124,20 @@
    "score": 0.3737428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3cff71f0-a29e-4cb3-9cb3-48049dbf4178.jpg"
   },
   {
    "id": "a53e69fc-ddb5-4817-9909-043d644c7ba7",
    "title": {
-    "en": "Love Live! Comic Anthology µ's Precious Days"
+    "en": "Love Live! Comic Anthology \u00b5's Precious Days"
    },
    "contentRating": "safe",
    "score": 0.37337488,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dbeda18d-eaca-4176-b0f2-d225be4f1d28.jpg"
   },
   {
    "id": "27d573f6-757f-447e-9a9b-fbc50590d6db",
@@ -138,8 +149,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "501c52e9-fe41-4060-bb22-f3d2b9f9d0f7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:47+00:00"
+ "updatedAt": "2021-07-18T06:59:47+00:00",
+ "coverFileName": "1da8cf0b-8a29-463a-9207-9a9907556cd6.jpg"
 }

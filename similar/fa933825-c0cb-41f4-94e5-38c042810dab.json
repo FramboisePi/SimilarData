@@ -15,7 +15,8 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "a18a6590-8652-4f71-97a1-6d84a15a1a20.jpg"
   },
   {
    "id": "638350f4-cf65-4d30-8830-31dcab0ea756",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "540df730-ae51-4f2c-ac22-a4f427ee49df.jpg"
   },
   {
    "id": "7a1e6031-0167-4f7f-9de8-8d840101840d",
@@ -38,7 +40,8 @@
    "score": 0.36763212,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6807182c-7218-49a4-b3d7-bfa216f88934.jpg"
   },
   {
    "id": "4fab6738-54e0-4dcf-975b-442fa249fbff",
@@ -49,7 +52,8 @@
    "score": 0.3572455,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9eec59f7-8fa5-418a-a59c-333db055227a.jpg"
   },
   {
    "id": "e4967558-c7fa-4c48-9a4f-1e462f50fb2c",
@@ -62,7 +66,8 @@
     "en",
     "ru",
     "bg"
-   ]
+   ],
+   "coverFileName": "300e8ab1-4536-4645-b427-053999fda2e5.jpg"
   },
   {
    "id": "d358e670-13b4-4ca1-a9f7-8c0056a3b13b",
@@ -73,7 +78,8 @@
    "score": 0.35152778,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8839d9d9-ac9b-473f-ba14-5caa74cab821.jpg"
   },
   {
    "id": "4c9d9138-1e6d-4e6d-b079-29f629ce73f0",
@@ -84,7 +90,8 @@
    "score": 0.35152778,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4fefd316-41b8-4cb8-bbcb-e288fa702c40.jpg"
   },
   {
    "id": "c065eb39-0bf6-429b-aae2-5017ca36161a",
@@ -97,18 +104,20 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b10b6cb7-88d0-4c01-b9b6-a4694460f076.jpg"
   },
   {
    "id": "4af2e78d-7d6c-4a9f-ad25-87f6d98a6e0d",
    "title": {
-    "en": "Uroboros’ Circle"
+    "en": "Uroboros\u2019 Circle"
    },
    "contentRating": "safe",
    "score": 0.34435004,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6cf9a7b5-cadf-4f4a-ae0e-f3e2f2adf277.jpg"
   },
   {
    "id": "dee9cb70-d4dc-4dd3-86be-c3116905d544",
@@ -119,7 +128,8 @@
    "score": 0.3433527,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ebee4929-7b03-492d-a80f-b4e1212814c9.jpg"
   },
   {
    "id": "5c859e3a-90f9-4b8f-9f32-0f2572e6b226",
@@ -130,7 +140,8 @@
    "score": 0.33632976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a27b02d7-7131-4c88-9cc0-2eefaa2ff2cc.jpg"
   },
   {
    "id": "684d282e-5422-49ea-ac5d-3e7b4190a924",
@@ -141,8 +152,10 @@
    "score": 0.32972994,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9fc748f-874a-49af-8227-cb5f10fa371e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:47+00:00"
+ "updatedAt": "2021-07-18T07:10:47+00:00",
+ "coverFileName": "44bdcbe2-0b71-4854-ac5d-6c24f327f89f.jpg"
 }

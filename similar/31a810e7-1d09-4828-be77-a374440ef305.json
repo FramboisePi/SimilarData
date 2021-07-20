@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "da1c3ba1-51b0-4dea-b6e7-c4a9d1d1f897.jpg"
   },
   {
    "id": "4e5e5a34-259d-4a35-b68c-f098eefcf612",
@@ -28,7 +29,8 @@
     "en",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "e094a123-ffa0-404d-99c2-bb739f2ca1ba.jpg"
   },
   {
    "id": "e22041a7-e7c5-4a5e-8f5f-1e9a643f4879",
@@ -41,7 +43,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ff4aeee6-ca3e-42f7-89a8-d24382280009.jpg"
   },
   {
    "id": "fe1ba5fe-c716-4a27-b326-760eafb17f21",
@@ -54,19 +57,21 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3c561c52-2527-4ced-8799-79af92175636.png"
   },
   {
    "id": "ff151d04-01e2-4786-93ed-6aeb1b8c95b3",
    "title": {
-    "en": "L♥DK"
+    "en": "L\u2665DK"
    },
    "contentRating": "safe",
    "score": 0.48705694,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "0b2869a6-b418-47bb-acc5-416391d32d22.jpg"
   },
   {
    "id": "8a629367-afc2-484c-970d-c5916679ad50",
@@ -77,7 +82,8 @@
    "score": 0.48701242,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "e6b1bb41-5abf-476d-8055-1f38efa467fa.jpg"
   },
   {
    "id": "d44b5f4f-f88c-4cf4-936f-2b17643b4a64",
@@ -89,7 +95,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "927d722c-3046-47c1-aff7-dd9ab60106bc.jpg"
   },
   {
    "id": "cd55adf7-84d3-41bb-a561-4f39c9d03f46",
@@ -103,7 +110,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "ea4e589a-fb95-4474-9da7-a4a7c9c844a4.jpg"
   },
   {
    "id": "83b69e82-a8e6-42e5-ad81-b265e5a3953d",
@@ -115,7 +123,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "233c7469-1a9a-4939-8833-c23557d96b9b.jpg"
   },
   {
    "id": "c973ed7b-a8a5-459e-9cbb-32cf8c6789ae",
@@ -130,7 +139,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "725079cb-43c4-42df-aa0d-01e35acadc40.jpg"
   },
   {
    "id": "c6880400-a878-4cbc-8c37-845c295b1432",
@@ -142,12 +152,13 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "7131a3d7-1fd7-4fd4-b1f2-f04eeeeb6c2e.jpg"
   },
   {
    "id": "402cd859-464c-4731-8d16-86fefd3feecf",
    "title": {
-    "en": "Atsumori-kun no Oyome-san (←Mitei)"
+    "en": "Atsumori-kun no Oyome-san (\u2190Mitei)"
    },
    "contentRating": "safe",
    "score": 0.47681275,
@@ -157,8 +168,10 @@
     "pl",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b9b70a1f-e926-4759-b8bb-11437059c373.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:42+00:00"
+ "updatedAt": "2021-07-18T06:33:42+00:00",
+ "coverFileName": "3e0a3e72-0d9d-41d8-a7b1-8e51be5c2f89.png"
 }

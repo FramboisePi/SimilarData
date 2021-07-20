@@ -14,7 +14,8 @@
    "score": 0.47053,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d9ec324f-dccf-4727-8bd0-561e4c51f0bb.png"
   },
   {
    "id": "d90002cc-b254-4643-bcac-96b1ae433d1f",
@@ -25,7 +26,8 @@
    "score": 0.45258674,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b832aa47-1c76-4cc3-944f-1ef257f8ced1.jpg"
   },
   {
    "id": "e30307bc-e687-4345-b004-30ae519e738f",
@@ -37,7 +39,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "3c4753dd-a69d-44a1-b561-c8dc737899d5.jpg"
   },
   {
    "id": "a6ac5208-81ac-40fd-8ce2-ccb7971287f5",
@@ -48,7 +51,8 @@
    "score": 0.437985,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c38b0671-bbb0-4e85-9dfb-f69d3208e910.png"
   },
   {
    "id": "18b85725-0f70-4e9b-b799-6846f30f5941",
@@ -59,7 +63,8 @@
    "score": 0.43563876,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9cbfa0b-6c53-41c8-ba3d-f5b3e821253c.jpg"
   },
   {
    "id": "9b7d94cb-d0aa-4c39-9fb9-490d793083b5",
@@ -70,7 +75,8 @@
    "score": 0.42361706,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "34f49989-e9c4-4a76-9138-c169d8e4836f.png"
   },
   {
    "id": "4fba7e2c-a859-436a-b743-4075fb46df4a",
@@ -84,18 +90,20 @@
     "vi",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "598e2717-b79c-4c8f-8661-203bcf48478e.jpg"
   },
   {
    "id": "18e028a4-7026-46e3-9e8c-86c60584edb9",
    "title": {
-    "en": "Blind Märchen"
+    "en": "Blind M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.40336302,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de8605e3-8601-4f35-9ad8-91b0f882c8cf.jpg"
   },
   {
    "id": "a35f2737-ac1f-4f34-babf-9e11ea7ddbdb",
@@ -106,18 +114,20 @@
    "score": 0.40302026,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "78147ad6-86f2-43ba-8519-97ea1b752149.jpg"
   },
   {
    "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
    "title": {
-    "en": "Kimi o Matsu -\u003e Akaiito"
+    "en": "Kimi o Matsu -> Akaiito"
    },
    "contentRating": "safe",
    "score": 0.40294707,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5b11399-997e-4745-8bd6-112b2929096a.jpg"
   },
   {
    "id": "9439cd46-7c64-46bf-afb3-ea4d65020186",
@@ -128,7 +138,8 @@
    "score": 0.401044,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3f3dac88-0fa2-4266-baa4-48c1ec5182d9.jpg"
   },
   {
    "id": "58bb34a5-452a-49a3-bd08-e167d654dbe4",
@@ -139,8 +150,10 @@
    "score": 0.3975428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5377dee2-3656-4617-be42-b43bd40f25ec.png"
   }
  ],
- "updatedAt": "2021-07-18T07:02:04+00:00"
+ "updatedAt": "2021-07-18T07:02:04+00:00",
+ "coverFileName": "7a2b8783-3fb0-46eb-a090-84530d3542d5.jpg"
 }

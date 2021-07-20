@@ -14,7 +14,8 @@
    "score": 0.55767804,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5689a68b-ccf4-41d8-abbf-41930926f015.jpg"
   },
   {
    "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "96ebb573-62f6-49dd-9dbc-feb30b30e35c.jpg"
   },
   {
    "id": "e6efc92a-04d9-4d0c-af20-ac2dcad835a2",
@@ -38,7 +40,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "16720d00-b646-4ec7-bf26-f225fe946503.jpg"
   },
   {
    "id": "abd9b3df-3061-4f1b-adbb-e6e3593b2918",
@@ -52,7 +55,8 @@
     "pl",
     "bg",
     "ar"
-   ]
+   ],
+   "coverFileName": "bf148576-dca5-4c92-852c-3fec395ffeca.jpg"
   },
   {
    "id": "f276d393-d1fb-4850-b265-eea3ebdf0438",
@@ -63,12 +67,13 @@
    "score": 0.49113706,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aee43c4e-1c3d-4dad-84f2-f5e6f9dd4335.png"
   },
   {
    "id": "91843e85-5611-4f16-9181-c209265ff112",
    "title": {
-    "en": "Grün Bæla"
+    "en": "Gr\u00fcn B\u00e6la"
    },
    "contentRating": "safe",
    "score": 0.45,
@@ -76,7 +81,8 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1db5cd33-1804-4422-80bb-a338a2885af4.png"
   },
   {
    "id": "53282330-8754-44db-943f-958a6620b401",
@@ -87,7 +93,8 @@
    "score": 0.44339806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16d3d48c-1825-4965-8831-89ad5df40c97.jpg"
   },
   {
    "id": "5ac5e2ec-9a36-4857-b648-824ee67b7092",
@@ -98,7 +105,8 @@
    "score": 0.4399954,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9537e66-7bd5-46b6-8374-f51d7dab97f7.jpg"
   },
   {
    "id": "9e80c192-6870-4500-afe9-e72e322689fe",
@@ -115,7 +123,8 @@
     "de",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ee9dda53-a81b-4044-ab91-d78c28c1060d.jpg"
   },
   {
    "id": "1dcf228a-3a6a-45d5-bd30-b34631ee8ec2",
@@ -126,7 +135,8 @@
    "score": 0.43401277,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e01dfe9b-2f4a-40bb-b0f7-31b214d07f46.jpg"
   },
   {
    "id": "203deb52-91c9-48b4-90e9-6ca63fa58b69",
@@ -137,7 +147,8 @@
    "score": 0.43108743,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c8bf9dcf-e8a6-49cb-8531-1c87d490fcd9.jpg"
   },
   {
    "id": "25a0ad4d-3962-4933-b88c-8fa5c25ed4eb",
@@ -149,8 +160,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c5cc21d7-fa6a-459b-9cbc-256953677b03.png"
   }
  ],
- "updatedAt": "2021-07-18T06:43:18+00:00"
+ "updatedAt": "2021-07-18T06:43:18+00:00",
+ "coverFileName": "33a82d19-6690-42d6-88b5-6ab64ffb92d4.jpg"
 }

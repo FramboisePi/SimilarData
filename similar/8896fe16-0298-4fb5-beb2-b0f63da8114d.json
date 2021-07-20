@@ -1,7 +1,7 @@
 {
  "id": "8896fe16-0298-4fb5-beb2-b0f63da8114d",
  "title": {
-  "en": "Danganronpa 1\u00262 Comic Anthology"
+  "en": "Danganronpa 1&2 Comic Anthology"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 1.4176487,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3139dca8-4c64-4809-b262-9e19950c306f.jpg"
   },
   {
    "id": "f840471a-5271-4f62-a8ff-b6c01507509b",
@@ -25,7 +26,8 @@
    "score": 1.4070809,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb8ce9c3-c779-4099-b852-53506d595ea3.jpg"
   },
   {
    "id": "63b42d8c-0995-4103-8275-ecff4a629bcd",
@@ -36,7 +38,8 @@
    "score": 1.395999,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1912025-8fbd-4460-ad5f-9150d7ad7d50.jpg"
   },
   {
    "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
@@ -47,18 +50,20 @@
    "score": 1.3199054,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1151846-ab41-46aa-9b92-24616e164e68.jpg"
   },
   {
    "id": "cc572e53-cdbc-4284-a3bf-38d49e2c762f",
    "title": {
-    "en": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc \u0026 Despair Arc Comic Anthology (DNA Media)"
+    "en": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc & Despair Arc Comic Anthology (DNA Media)"
    },
    "contentRating": "safe",
    "score": 1.2974566,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71538782-64db-4921-b4bc-0e85954c2c96.jpg"
   },
   {
    "id": "882e338e-0105-4305-a380-655bc303036b",
@@ -69,7 +74,8 @@
    "score": 1.2605293,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7534555a-c7f0-491f-88d8-5416541b63d3.jpg"
   },
   {
    "id": "570d50b7-7bb5-41f3-aa8e-668177ff7a78",
@@ -80,7 +86,8 @@
    "score": 0.94361037,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04e945f2-9f1c-4237-8f1f-decb0129456e.jpg"
   },
   {
    "id": "0b769f77-8b39-454e-a7b1-d5d924468693",
@@ -91,7 +98,8 @@
    "score": 0.3909373,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d08dec3b-036a-4638-a93d-4f233d89fff3.jpg"
   },
   {
    "id": "ab13d94c-1e51-4f2c-909c-258ecbdfd3a1",
@@ -102,7 +110,8 @@
    "score": 0.38457432,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f592fe40-c75f-4b01-970f-e7282926da88.jpg"
   },
   {
    "id": "e92ad47e-5efe-4c08-9816-b342aea7f518",
@@ -119,7 +128,8 @@
     "pl",
     "ro",
     "en"
-   ]
+   ],
+   "coverFileName": "5d5ba273-e002-480e-a6d1-453bd14f6a72.jpg"
   },
   {
    "id": "83bd62db-ac92-4262-b868-bdf03336fdf2",
@@ -130,7 +140,8 @@
    "score": 0.3762358,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e7c58b9-61cb-4d1f-a024-a5b8912fb95a.jpg"
   },
   {
    "id": "3adab90d-873b-45f7-84d1-00d56eae0fce",
@@ -142,8 +153,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c7461217-4078-4b6c-bfd2-71b66fc79336.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:51+00:00"
+ "updatedAt": "2021-07-18T06:49:51+00:00",
+ "coverFileName": "2ba7b6a3-c67b-40c3-9a1f-17d793a7ae97.jpg"
 }

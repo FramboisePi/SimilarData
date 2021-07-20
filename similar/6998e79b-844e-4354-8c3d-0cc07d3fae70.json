@@ -1,7 +1,7 @@
 {
  "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
  "title": {
-  "en": "Sekai de Ichiban, Ore ga ◯◯"
+  "en": "Sekai de Ichiban, Ore ga \u25ef\u25ef"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "it",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "10dbc9f3-5587-4ae9-b032-88dd1724d5ec.jpg"
   },
   {
    "id": "7a202038-b3fe-4c39-8a4b-bb9427ac02e3",
@@ -27,7 +28,8 @@
    "score": 0.37541804,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ed89cec9-6109-450a-a5a9-e5eae0355b90.jpg"
   },
   {
    "id": "3bc77d0c-7500-48f3-8b81-92f8ccda225c",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "63786c1d-7169-443a-9fc9-417bbc1a87c1.jpg"
   },
   {
    "id": "a46d4f1c-e1e1-4904-b941-d96405be41b8",
@@ -50,7 +53,8 @@
    "score": 0.36740136,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd2b980d-7fc8-4ad6-8e9a-12424ea03d0d.jpg"
   },
   {
    "id": "a4d64dd0-7b0b-41ac-837d-7ae2d631449b",
@@ -61,7 +65,8 @@
    "score": 0.34607515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1b71d610-e0ae-4c19-be03-7e240a750aeb.jpg"
   },
   {
    "id": "422ce9ab-466a-4391-8481-24f40103b672",
@@ -72,7 +77,8 @@
    "score": 0.3447922,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fd987d9-e0a7-45e5-864f-2b6b8ab5890c.jpg"
   },
   {
    "id": "ef96c21c-6838-43d1-9b6e-cb30546bba8c",
@@ -92,7 +98,8 @@
     "pt-br",
     "zh",
     "ar"
-   ]
+   ],
+   "coverFileName": "d62157e1-6cb4-45b1-b7ee-5608b2f21b99.jpg"
   },
   {
    "id": "75cba0a1-50aa-4c15-ae49-cb99435404f2",
@@ -103,7 +110,8 @@
    "score": 0.33904994,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df191da7-1f65-413d-b4e9-5d57165909d4.jpg"
   },
   {
    "id": "3ec63e7d-789d-4e6e-bd25-29cc4491e478",
@@ -114,7 +122,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1de21a95-a980-4926-bc28-72dd9a7f7f59.jpg"
   },
   {
    "id": "65179b4d-329e-44b3-8848-975c7a99d294",
@@ -126,7 +135,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "37c6bd40-594f-4b3c-8333-f6706ac03270.jpg"
   },
   {
    "id": "964dd663-dc57-4f06-a9f7-643db42050e8",
@@ -141,7 +151,8 @@
     "en",
     "es",
     "ru"
-   ]
+   ],
+   "coverFileName": "8071d573-aea1-4352-8958-71e12b555604.jpg"
   },
   {
    "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
@@ -152,8 +163,10 @@
    "score": 0.31660488,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "76ff47aa-3057-46f7-a5ff-f4b5641fa8a6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:03+00:00"
+ "updatedAt": "2021-07-18T06:44:03+00:00",
+ "coverFileName": "6345010e-399d-4ff0-a2ce-42bf7d46bd77.jpg"
 }

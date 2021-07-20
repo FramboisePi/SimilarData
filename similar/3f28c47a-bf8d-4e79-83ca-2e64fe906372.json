@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b4d62b44-94af-4c9a-885a-c5ca307373bd.jpg"
   },
   {
    "id": "7a282a7f-6134-411a-9360-41ca1afa88a1",
@@ -26,7 +27,8 @@
    "score": 0.31926668,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "d6c45ad5-050c-4803-93bd-739807db0bba.jpg"
   },
   {
    "id": "a2b129f7-9374-47b1-aff5-12aab7b6c74b",
@@ -40,7 +42,8 @@
     "en",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "9c1e1017-24b2-450a-885b-430c6cc1057f.png"
   },
   {
    "id": "03b16158-e216-4385-8796-27ea645d74bb",
@@ -51,7 +54,8 @@
    "score": 0.29779413,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "01a05c2e-728d-4ae6-85f0-53f39485fe2c.jpg"
   },
   {
    "id": "84b654e4-7d53-4425-8f92-1cad0b2a9d05",
@@ -64,7 +68,8 @@
     "bg",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "efd42730-a8e6-48d1-9499-6344b4279244.jpg"
   },
   {
    "id": "a2f3e139-2b4b-404a-bbe3-cc67ed4c4215",
@@ -77,7 +82,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "639974b9-04d4-4b80-8f33-ff309b46a2b4.png"
   },
   {
    "id": "49c8ae95-c1f8-4d28-8567-9afc12d1ae91",
@@ -88,7 +94,8 @@
    "score": 0.27635956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4f89969-94c4-4418-a2d0-2e118b0b11c5.jpg"
   },
   {
    "id": "9d38d18f-a609-498e-a469-a20812aa22ad",
@@ -99,7 +106,8 @@
    "score": 0.27106053,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fd123fc-da00-48fa-a81e-8641e449dac4.jpg"
   },
   {
    "id": "36801362-0927-4901-9a91-8a85e73275e4",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "adb12b9a-26b5-440e-9ab1-1a2743b0a6a1.png"
   },
   {
    "id": "6fcfaa0e-6023-403e-97f9-5301dd3c258c",
@@ -125,7 +134,8 @@
     "tr",
     "vi",
     "ro"
-   ]
+   ],
+   "coverFileName": "fa7b67e1-6262-44bd-b2f2-ca221c2f70df.jpg"
   },
   {
    "id": "81f7546e-c9a4-465d-9dbd-b0ce7fc327c0",
@@ -136,7 +146,8 @@
    "score": 0.26204127,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1715df5-8b2d-4d08-a8e9-f1044d3bfc76.jpg"
   },
   {
    "id": "19e58e5a-4ecc-4f77-8b01-1ba7c615295d",
@@ -149,8 +160,10 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "001a490e-cde1-4762-9f34-21558a71a4b2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:15+00:00"
+ "updatedAt": "2021-07-18T06:36:15+00:00",
+ "coverFileName": "1f80fbef-77db-4a1b-ab5f-14df1dcbbf9c.jpg"
 }

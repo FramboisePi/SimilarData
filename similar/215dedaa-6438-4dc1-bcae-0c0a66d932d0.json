@@ -1,7 +1,7 @@
 {
  "id": "215dedaa-6438-4dc1-bcae-0c0a66d932d0",
  "title": {
-  "en": "Haikyuu!! — Madoromu Niwa (doujinshi)"
+  "en": "Haikyuu!! \u2014 Madoromu Niwa (doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.35334855,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "60868dca-cf34-4032-9123-fbb0295d1a0b.jpg"
   },
   {
    "id": "270c4033-18cb-435a-90f5-e5b562777902",
@@ -28,29 +29,32 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "3da2e410-517a-48b5-b6c7-30e16519c60d.jpg"
   },
   {
    "id": "e930da70-7dad-462e-a9f7-ffb87e41377a",
    "title": {
-    "en": "Slime \u0026 Dragons (Oneshot)"
+    "en": "Slime & Dragons (Oneshot)"
    },
    "contentRating": "safe",
    "score": 0.32359555,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "ce8726cd-cf96-4c50-bc39-c2e488ac10e2.jpg"
   },
   {
    "id": "f76a2f73-6f9c-4c23-85f1-4a59505615f4",
    "title": {
-    "en": "Spy x Family — Utatane Loid-san (doujinshi)"
+    "en": "Spy x Family \u2014 Utatane Loid-san (doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.31604457,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "bb4cfe6b-446b-4774-824d-48135986e4ad.png"
   },
   {
    "id": "1a202cea-d866-411e-ab56-73d3881d76bf",
@@ -61,7 +65,8 @@
    "score": 0.31604457,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "af76c8e8-38ba-4944-ae8a-8176b6e5c932.jpg"
   },
   {
    "id": "1fd54e5e-9f7d-45ee-8509-4405a6bad156",
@@ -72,7 +77,8 @@
    "score": 0.31604457,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "8e838ca6-42d1-44b9-905f-c6b70cfc19e8.png"
   },
   {
    "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
@@ -86,7 +92,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "fdb38e10-cc60-485c-9e89-86c8545b572a.jpg"
   },
   {
    "id": "31e9cc87-205c-4617-9108-8a253a68badf",
@@ -98,7 +105,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "27b09b18-49f4-4deb-91ca-057c90b360d2.jpg"
   },
   {
    "id": "d8d6501f-9bdc-43d4-9894-37282d93322b",
@@ -112,7 +120,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "e7564b18-ba67-4ae6-97da-73df81a302f0.png"
   },
   {
    "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
@@ -127,7 +136,8 @@
     "it",
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "d5163d01-ed1d-4a63-ba30-190b7dda59be.png"
   },
   {
    "id": "160ee663-79c0-4efb-8285-3724a430da0a",
@@ -140,7 +150,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7711a909-dbd2-445d-ae02-523a6a023944.jpg"
   },
   {
    "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
@@ -153,8 +164,10 @@
     "ru",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "88339cfa-e584-477a-b4c5-33e41f51eefb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:42+00:00"
+ "updatedAt": "2021-07-18T06:30:42+00:00",
+ "coverFileName": "390e8ad4-e01d-4fe9-9bbb-9bf2fd3c2296.png"
 }

@@ -1,7 +1,7 @@
 {
  "id": "34d2b318-999d-42d2-aee7-10a12c80eb5e",
  "title": {
-  "en": "Pokémon Diamond and Pearl: Regigigas"
+  "en": "Pok\u00e9mon Diamond and Pearl: Regigigas"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d576c44-1099-438f-8aed-071154febd82.png"
   },
   {
    "id": "4a9fd1f5-cf4c-4bc6-b2fe-953a6a796d06",
@@ -25,7 +26,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c3f7882-cf3b-4553-b804-0a972e60df4b.jpg"
   },
   {
    "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
@@ -37,7 +39,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4942638d-7438-43ea-8aff-482cdea4e4d0.jpg"
   },
   {
    "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
@@ -48,29 +51,32 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a26858b-f8e8-4349-81e1-61463b2c9d1b.png"
   },
   {
    "id": "33c4f4da-2106-4254-a36f-e2432116d29f",
    "title": {
-    "en": "Pokémon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
+    "en": "Pok\u00e9mon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.41825938,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "650e8f25-e06f-49d6-8467-d6ff9c5c41da.jpg"
   },
   {
    "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
    "title": {
-    "en": "Hakugin no Teiō"
+    "en": "Hakugin no Tei\u014d"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "932a9c1b-8327-44c6-8165-98dae6bb279a.png"
   },
   {
    "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
@@ -81,7 +87,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91a2f797-0b77-403d-b520-8d9f2e0f3beb.jpg"
   },
   {
    "id": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
@@ -97,18 +104,20 @@
     "it",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "3c3921b0-8c25-44e0-b776-64eeffb9bb36.jpg"
   },
   {
    "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
    "title": {
-    "en": "Bear Hunter — Fubuki-gō"
+    "en": "Bear Hunter \u2014 Fubuki-g\u014d"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16e09ce8-4dc6-4656-8c2d-677c39d811a8.png"
   },
   {
    "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
@@ -119,7 +128,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1d3c1af-425e-4095-9221-73e49a375bad.png"
   },
   {
    "id": "d16f9dfb-569f-4d29-aa05-ce8712e36997",
@@ -132,7 +142,8 @@
     "ca",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "b966a11f-096c-450f-a8b4-dc9d19cf483e.jpg"
   },
   {
    "id": "fcb5111f-be88-4f5a-b456-22135f3eda49",
@@ -146,8 +157,10 @@
     "en",
     "ru",
     "ca"
-   ]
+   ],
+   "coverFileName": "5919a775-29dc-42b9-b3dd-8bee6fa83414.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:18+00:00"
+ "updatedAt": "2021-07-18T06:34:18+00:00",
+ "coverFileName": "cab2289c-01c8-4d25-9fec-d4126ea548a1.jpg"
 }

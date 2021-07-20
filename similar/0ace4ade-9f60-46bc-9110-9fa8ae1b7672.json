@@ -1,7 +1,7 @@
 {
  "id": "0ace4ade-9f60-46bc-9110-9fa8ae1b7672",
  "title": {
-  "en": "Fullmetal Alchemist - Dólce (Doujinshi)"
+  "en": "Fullmetal Alchemist - D\u00f3lce (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "8891e501-519d-4dde-8d96-60aec6d9198b.jpg"
   },
   {
    "id": "dd8a907a-3850-4f95-ba03-ba201a8399e3",
@@ -33,7 +34,8 @@
     "ru",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "0bebf47b-003a-42b5-9d89-7f19d9eafc16.jpg"
   },
   {
    "id": "b6dc50de-e398-414c-9e79-e455123ba077",
@@ -44,7 +46,8 @@
    "score": 0.39574215,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "98e8e915-f5d1-4bf6-8d0a-e6610b70e51e.jpg"
   },
   {
    "id": "02f96300-7459-4d9f-9d41-c2988157623f",
@@ -56,7 +59,8 @@
    "languages": [
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "832096d0-f2c6-42ca-9edd-cb725076049e.jpg"
   },
   {
    "id": "56409f88-d37e-4b43-a09f-7249bdef61fe",
@@ -67,7 +71,8 @@
    "score": 0.34272274,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "e0b25776-4467-4b28-a162-eccb2dd45b71.jpg"
   },
   {
    "id": "52d09ed8-932d-42ea-b293-c3e15fe03af3",
@@ -80,7 +85,8 @@
     "it",
     "es-la",
     "tr"
-   ]
+   ],
+   "coverFileName": "5c3af61c-28f3-4942-832e-2600220b2eb2.jpg"
   },
   {
    "id": "fa70239f-1c1d-4e1d-a513-83c418cfcea7",
@@ -91,7 +97,8 @@
    "score": 0.34272274,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "e7b3e08d-4538-4218-9db5-27fc61731c6a.jpg"
   },
   {
    "id": "4f5164fc-4249-40cd-8469-0d935672768c",
@@ -103,7 +110,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "02d44dae-7442-40d3-9ffd-dd460bf65c3f.jpg"
   },
   {
    "id": "4c4c178a-f6df-4129-9d74-4f545e166b01",
@@ -114,7 +122,8 @@
    "score": 0.34272274,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "069505b8-4257-45e2-8f52-6fa6ffe81dc2.jpg"
   },
   {
    "id": "2ff7f72a-ada5-42eb-94bb-46459cd06939",
@@ -125,7 +134,8 @@
    "score": 0.34272274,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "77e0e56d-e9e9-49e7-ac28-2597928f3826.png"
   },
   {
    "id": "45bee808-2f9d-47e8-bb34-bf4330d21b08",
@@ -136,7 +146,8 @@
    "score": 0.34272274,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "f93e508b-b3a1-4981-85f8-f7efaff073d7.png"
   },
   {
    "id": "48ce9385-781b-4866-a35c-53f73348217f",
@@ -150,8 +161,10 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "2b068eb3-9e46-450e-810e-0312787dea0c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:29+00:00"
+ "updatedAt": "2021-07-18T06:26:29+00:00",
+ "coverFileName": "b3e8d8f9-fa3d-4eb3-904b-1121bc5feb5d.png"
 }

@@ -8,13 +8,14 @@
   {
    "id": "8381bed7-a400-4db8-9ef6-eb40ff5b89a9",
    "title": {
-    "en": "Love♡Witch"
+    "en": "Love\u2661Witch"
    },
    "contentRating": "safe",
    "score": 0.41845027,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3bfb4333-2248-4acf-ab90-7e9264fd432a.jpg"
   },
   {
    "id": "2ac33039-13f4-4dd1-bbb6-72c0393327ed",
@@ -25,7 +26,8 @@
    "score": 0.41199246,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a852ef08-ceca-4672-ba00-e85573e18ce6.jpg"
   },
   {
    "id": "d931d419-41ee-4323-b811-c5426de045b5",
@@ -36,7 +38,8 @@
    "score": 0.38705117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9f57913-e27a-4966-b66b-16fde48c7a53.jpg"
   },
   {
    "id": "9559c725-0b3e-441f-998e-be9c3a184cf1",
@@ -47,7 +50,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "95b0fee0-e93f-483f-9c4b-b48ef6cf97f4.png"
   },
   {
    "id": "cbf01c69-a6c6-4577-80fe-6645728217f2",
@@ -58,7 +62,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46df0799-ebed-4305-bb2f-27308bd77ece.jpg"
   },
   {
    "id": "5ac5e2ec-9a36-4857-b648-824ee67b7092",
@@ -69,7 +74,8 @@
    "score": 0.34634313,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9537e66-7bd5-46b6-8374-f51d7dab97f7.jpg"
   },
   {
    "id": "bb04446d-9b38-4170-8b3c-ac4f6d1ffb31",
@@ -81,7 +87,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "7bd7569f-82ec-4842-b6bf-5ee80c1199c5.jpg"
   },
   {
    "id": "2c1f966c-94b4-44d7-a587-43b3e98c0123",
@@ -92,7 +99,8 @@
    "score": 0.3305735,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7928c75e-e39d-4535-a72c-be80bef55792.jpg"
   },
   {
    "id": "84b81252-6061-4e9b-b0de-d6823405ffa2",
@@ -104,7 +112,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a7ec58d9-cf77-47fe-942f-4b080cac018a.jpg"
   },
   {
    "id": "8822f93a-39a0-4624-9dfe-d50ec97a5c09",
@@ -115,7 +124,8 @@
    "score": 0.3251463,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9f0fd0c4-02db-4628-8b45-1bb38813ede2.jpg"
   },
   {
    "id": "acf31122-946f-4738-8b18-eed1df481012",
@@ -126,7 +136,8 @@
    "score": 0.3225933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "08434e27-c708-454a-917d-2a0285dc1ead.jpg"
   },
   {
    "id": "f5b7d488-5136-4ed4-a44c-88eac9dc3e7c",
@@ -138,8 +149,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b6d6bbc8-753e-4928-8911-ac36394d43c3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:29+00:00"
+ "updatedAt": "2021-07-18T07:09:29+00:00",
+ "coverFileName": "32db9fa6-b787-4757-89c1-5b093631dcd9.jpg"
 }

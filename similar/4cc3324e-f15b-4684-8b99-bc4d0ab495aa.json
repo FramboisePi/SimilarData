@@ -18,7 +18,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6a5af3ee-95a0-4931-a39a-731ac4f8c55a.jpg"
   },
   {
    "id": "7bce71b2-6839-4e18-bc09-dd0b4028f3b5",
@@ -30,7 +31,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f5c7c257-9eb7-426a-9209-e13ed25e3212.jpg"
   },
   {
    "id": "1fcbaeb6-add2-49a8-8504-9baf38e51ce5",
@@ -42,7 +44,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "1d436c5e-b8f2-41e8-9c17-a45735b5560a.jpg"
   },
   {
    "id": "93e37fe7-1133-45b4-9f3e-1128df939a3f",
@@ -54,7 +57,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "268651e9-ea6c-4ae2-af28-d613ad60657e.jpg"
   },
   {
    "id": "4f3ad467-b3af-4b46-bc9a-dac692cc255e",
@@ -65,7 +69,8 @@
    "score": 0.421265,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "509234f5-c95c-498c-bc60-b804e387b00c.jpg"
   },
   {
    "id": "73e44d8f-fd9f-49b5-851b-7b3a9a20c62b",
@@ -76,7 +81,8 @@
    "score": 0.4204568,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38996d4a-148c-4eac-b243-0b5c8d2f36be.jpg"
   },
   {
    "id": "1e57ce4f-7873-4e2d-ba60-368026a10c42",
@@ -88,7 +94,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0e19716b-f9a5-499e-b1e3-0abf251e567e.jpg"
   },
   {
    "id": "2c1f49cb-232e-4fb2-9c09-78bd9cdc15ba",
@@ -99,7 +106,8 @@
    "score": 0.41596732,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5adef075-ee3e-4f68-b32d-3eb1a6fac01b.jpg"
   },
   {
    "id": "fc83ffc3-8ec2-476c-a436-34acd795a1a7",
@@ -110,7 +118,8 @@
    "score": 0.4121457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d8e68c3c-d29e-41e5-9d2a-56bbe006ccbc.jpg"
   },
   {
    "id": "9c39faf7-83f2-4050-8c98-5e3048ac0f06",
@@ -122,12 +131,13 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7ce8d0b9-37e7-44a8-a2d1-29b6e35464ef.png"
   },
   {
    "id": "1c822298-a591-4971-b53d-c5a2d138c1fd",
    "title": {
-    "en": "Kuroha \u0026 Nijisuke"
+    "en": "Kuroha & Nijisuke"
    },
    "contentRating": "safe",
    "score": 0.4006972,
@@ -139,7 +149,8 @@
     "it",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "621e21bf-389b-4dd5-9df7-8837107f1b8f.jpg"
   },
   {
    "id": "7c01fbfd-369d-4e39-a13e-8291f711a874",
@@ -154,8 +165,10 @@
     "pt-br",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "63a808e7-e9e8-4478-a559-8781972b830a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:45+00:00"
+ "updatedAt": "2021-07-18T06:38:45+00:00",
+ "coverFileName": "923970c9-c473-48f3-84a5-a3773a092af4.jpg"
 }

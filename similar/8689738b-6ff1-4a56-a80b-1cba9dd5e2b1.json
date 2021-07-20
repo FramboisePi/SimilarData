@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "728bafa1-092d-46e0-aebf-7083387aadf3.jpg"
   },
   {
    "id": "8107d815-31c0-46ab-ae7f-aa1d66d2549e",
@@ -27,7 +28,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "1a811a05-201f-4657-ac70-038ee9ac8e1f.jpg"
   },
   {
    "id": "17af1640-3219-47ff-b281-9576c6e06b3d",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8b8c2f85-9f8b-412b-97f4-c090189b2b64.jpg"
   },
   {
    "id": "fe8dcdb7-92df-4a27-92d3-7a0e2d1b98ea",
@@ -50,7 +53,8 @@
    "score": 0.45679814,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5e7f367-34fe-4fb7-ab86-a66ccc4f8fd2.jpg"
   },
   {
    "id": "5ef80bbd-7593-448d-bf4b-726f91f3e53f",
@@ -64,7 +68,8 @@
     "fr",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "43789b1d-46de-48b1-9d16-9fcf1c5c7695.jpg"
   },
   {
    "id": "745ebd35-dfbd-443d-afc1-312f7a5b140f",
@@ -75,7 +80,8 @@
    "score": 0.45066115,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c09a7017-fa85-4d15-9cb7-d3f3b75a4dec.jpg"
   },
   {
    "id": "a38f9b93-8e18-4832-985a-bfb384644b75",
@@ -86,7 +92,8 @@
    "score": 0.44546717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3be39f92-10fe-4a3a-898f-74443b8c1612.jpg"
   },
   {
    "id": "e0bc7933-c4d1-4cae-bf2e-4f85147048be",
@@ -97,18 +104,20 @@
    "score": 0.43943992,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7553fb43-daf0-4055-9820-7347cd9b9808.jpg"
   },
   {
    "id": "f2c7f3fc-b1bc-4d53-ac4c-95f4a3c1325b",
    "title": {
-    "en": "My Boyfriend​ is a​ Vampire"
+    "en": "My Boyfriend\u200b is a\u200b Vampire"
    },
    "contentRating": "safe",
    "score": 0.4393192,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6914bb08-b564-402d-bb9c-5c6823286441.png"
   },
   {
    "id": "135ee04b-e13d-4ea3-8f62-228352cbb365",
@@ -119,7 +128,8 @@
    "score": 0.43924946,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "707ad909-9ed2-4b77-bfa9-d5176f6cc483.jpg"
   },
   {
    "id": "7b591c68-61a0-4402-af87-30a1ecb5a6c4",
@@ -130,7 +140,8 @@
    "score": 0.43535703,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1050f6e-d09d-494b-9cdb-3a79e9f172f1.jpg"
   },
   {
    "id": "efe14e44-b634-4042-b562-edd066b81b34",
@@ -141,8 +152,10 @@
    "score": 0.4340428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6b37e31-27f8-4da8-bbdd-b89c69946812.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:27+00:00"
+ "updatedAt": "2021-07-18T06:49:27+00:00",
+ "coverFileName": "ec2f4a32-919e-48c9-8638-c345ad94b707.jpg"
 }

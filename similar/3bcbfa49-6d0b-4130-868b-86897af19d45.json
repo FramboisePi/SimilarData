@@ -1,7 +1,7 @@
 {
  "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
  "title": {
-  "en": "Minecraft: Journey to the World’s End"
+  "en": "Minecraft: Journey to the World\u2019s End"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.3907094,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6673aca-cee8-4b4a-859a-7c52a639e3ee.png"
   },
   {
    "id": "5e5f255b-6a26-426f-ac3a-5c7e21b87b08",
@@ -25,7 +26,8 @@
    "score": 0.36681968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c74b420a-900b-46b8-b725-3ad64e0ae1f5.jpg"
   },
   {
    "id": "adce0aea-3f6d-4fd2-9902-1107f59f94da",
@@ -39,7 +41,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5b758788-0011-4915-9001-fcb6df486939.jpg"
   },
   {
    "id": "9385a2a5-9a45-4f35-935e-a8a39bd7ee49",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a4586a71-d547-46cb-abb1-6ccd9fa92aca.jpg"
   },
   {
    "id": "ee0ba0ee-3f52-49d1-b2c0-efc30f1cdba2",
@@ -62,7 +66,8 @@
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "305857d4-ee22-4718-a4bc-0dc95f2ce156.jpg"
   },
   {
    "id": "79609b5d-fab6-4218-9c99-7bf31189d762",
@@ -73,7 +78,8 @@
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0965db72-714c-480a-80d8-08d19d1173a0.jpg"
   },
   {
    "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
@@ -84,7 +90,8 @@
    "score": 0.3569506,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40a5bd84-8571-4794-bd7e-eddd2120be82.jpg"
   },
   {
    "id": "b5685a1a-69c6-4231-a557-6bc9745795ce",
@@ -95,7 +102,8 @@
    "score": 0.3552381,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6f57a3b-7fee-420e-acbb-06863a337ea0.jpg"
   },
   {
    "id": "e0a42d03-13de-4c75-bffb-70ed2c54ffa8",
@@ -106,7 +114,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1046f323-bd8b-4097-904b-702441bedc9f.jpg"
   },
   {
    "id": "ad1ae39b-7025-4ab0-93e1-9f2d3e33f2f9",
@@ -117,7 +126,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bf3ce008-0ad2-4ac9-94fd-ab97d107e787.jpg"
   },
   {
    "id": "e0bf46fe-740c-4897-94a1-6cba23f49433",
@@ -129,7 +139,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e505eb0d-13be-45e2-a0f9-aab18868eff7.jpg"
   },
   {
    "id": "cdbbda38-1972-42a3-af69-286c54ca9dd6",
@@ -141,8 +152,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "30cf66f9-73a1-4853-8ff1-02ba566119fb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:36+00:00"
+ "updatedAt": "2021-07-18T06:35:36+00:00",
+ "coverFileName": "1a484892-d56c-4496-9c9a-82d7e8afcfef.jpg"
 }

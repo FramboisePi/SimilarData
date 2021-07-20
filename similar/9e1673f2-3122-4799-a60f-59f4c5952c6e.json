@@ -15,7 +15,8 @@
    "languages": [
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "dcfb1156-4a50-4efc-b788-073715ee507d.jpg"
   },
   {
    "id": "b76a0506-5168-431b-8acc-fa340a042f93",
@@ -27,7 +28,8 @@
    "languages": [
     "zh-hk",
     "vi"
-   ]
+   ],
+   "coverFileName": "71179842-ad35-4822-b414-8884b1130632.jpg"
   },
   {
    "id": "261c26fa-2a5a-4107-babd-c6159cc2fcce",
@@ -38,18 +40,20 @@
    "score": 0.32858485,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "c414bb39-e713-46dd-9ab4-1f73ec0072a5.jpg"
   },
   {
    "id": "4996eb9a-8464-4cf7-b154-af1c6ceabd71",
    "title": {
-    "en": "École de Platon"
+    "en": "\u00c9cole de Platon"
    },
    "contentRating": "safe",
    "score": 0.308228,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "cf4695fb-3284-4ae5-8502-940d859b1cb4.jpg"
   },
   {
    "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
@@ -62,7 +66,8 @@
     "pt-br",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "27b447b3-b26b-45f2-82b7-45568719cf39.jpg"
   },
   {
    "id": "91137421-8b28-4500-86aa-ef22e838262b",
@@ -76,7 +81,8 @@
     "en",
     "pt-br",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "15632c15-9cb3-4511-93f1-4f4b943fec5e.jpg"
   },
   {
    "id": "09912de4-6ad7-458f-852e-409b25f489db",
@@ -87,7 +93,8 @@
    "score": 0.27823922,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "2d4f5ebe-6b3b-4dec-b87d-ae4fd29e12b2.jpg"
   },
   {
    "id": "14241079-4f48-4b68-bbd3-3f644f1f97db",
@@ -98,7 +105,8 @@
    "score": 0.2504025,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "48a76efe-9228-4a21-a1d1-0ef3b5aeca7a.jpg"
   },
   {
    "id": "f25a8b44-0ee1-4025-8c81-f996d887649c",
@@ -113,7 +121,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1a4ab53-e4fb-4a5f-8b09-1ede7052a3df.jpg"
   },
   {
    "id": "789642f8-ca89-4e4e-8f7b-eee4d17ea08b",
@@ -132,7 +141,8 @@
     "zh-hk",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "10f7def1-e8b4-47c2-a1a2-f7cf0936bca5.jpg"
   },
   {
    "id": "685408cf-b6eb-457e-841b-122b9780acca",
@@ -144,7 +154,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "aa386754-1834-4809-9e2a-e3ce17dd785e.jpg"
   },
   {
    "id": "239a9b85-10d8-4d54-8b76-9a679a1ec6d9",
@@ -157,8 +168,10 @@
     "en",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "f0687680-77d5-4d52-9e0a-90e23de84f6c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:53+00:00"
+ "updatedAt": "2021-07-18T06:53:53+00:00",
+ "coverFileName": "56fd85e1-dcae-4d29-b214-3349d2dbafdf.jpg"
 }

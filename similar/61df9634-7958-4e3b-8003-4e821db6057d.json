@@ -14,7 +14,8 @@
    "score": 0.225,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "a47ca81b-da19-412d-bc4a-70b2f673aba1.jpg"
   },
   {
    "id": "5b061eb1-535e-4ccc-9e71-3a45f6051420",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "15b5bf73-b507-4dfd-a141-31f1cd36db86.jpg"
   },
   {
    "id": "c69cb0c3-a41e-442c-b2ad-c493b532b510",
@@ -39,7 +41,8 @@
     "en",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "66afa2a6-d5ef-408d-8c06-cde7ab71e36a.jpg"
   },
   {
    "id": "9450a684-6c1a-4a1b-a0c4-578ae724d87b",
@@ -51,7 +54,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "45a80538-cc84-4c69-807a-baff55879b00.jpg"
   },
   {
    "id": "370d916c-6938-43bd-84da-1a3c5b031df6",
@@ -63,8 +67,10 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "ab4d6d76-b233-4628-8c0b-ea23e0abb084.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:40+00:00"
+ "updatedAt": "2021-07-18T06:42:40+00:00",
+ "coverFileName": "c7f9e49b-97a3-4d9a-80f8-6136086a783f.jpg"
 }

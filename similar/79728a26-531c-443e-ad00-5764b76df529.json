@@ -14,7 +14,8 @@
    "score": 0.58656824,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8fb07c1c-b2bb-4750-b316-14f0b9099fc8.jpg"
   },
   {
    "id": "951c7e19-0b5a-4a3d-a0e6-6b96ad51cdf6",
@@ -27,7 +28,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "92c322da-d18b-4077-88a1-628f88b7d1d3.jpg"
   },
   {
    "id": "a41fdf44-9149-4c07-af32-dd675acbe0fa",
@@ -38,7 +40,8 @@
    "score": 0.5413592,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb275486-e7e7-4e58-a061-eb3d4013062d.jpg"
   },
   {
    "id": "b69ac2ac-a439-4c13-bad5-ba27928f3bf5",
@@ -51,7 +54,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dc14925a-01a3-465c-b50a-3bd8873111c0.jpg"
   },
   {
    "id": "71897e9d-0885-44ad-9113-e8fe219df5aa",
@@ -62,7 +66,8 @@
    "score": 0.53963304,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f666f22-da13-43d7-bc83-9675718ca8e2.png"
   },
   {
    "id": "70fda916-5204-4d85-9e82-b76a97608702",
@@ -73,18 +78,20 @@
    "score": 0.5374782,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6fd3dd4c-bc23-4b1c-90b1-da7237553e4d.png"
   },
   {
    "id": "18e028a4-7026-46e3-9e8c-86c60584edb9",
    "title": {
-    "en": "Blind Märchen"
+    "en": "Blind M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.5342822,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de8605e3-8601-4f35-9ad8-91b0f882c8cf.jpg"
   },
   {
    "id": "cabc6745-c113-4bc1-afc2-dbde385c5a48",
@@ -95,7 +102,8 @@
    "score": 0.53299284,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a59bd183-3c8f-488d-aeed-1e53177c95fe.jpg"
   },
   {
    "id": "f9a73335-f10a-4769-bc5d-4787670ea618",
@@ -107,7 +115,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "0a48edf6-586b-4fc8-96f4-64696d43edb1.jpg"
   },
   {
    "id": "716018d8-15ad-44e7-b45e-00e38d040d81",
@@ -118,7 +127,8 @@
    "score": 0.5316441,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "75b03b83-8dba-49b5-9eef-e8a897cbaf7e.jpg"
   },
   {
    "id": "b100cd89-688d-4ed2-821a-ba8a7947e1ff",
@@ -133,7 +143,8 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "362aefaa-08da-41ac-99fb-ef25307e6ed0.jpg"
   },
   {
    "id": "31824ff0-fe87-4ae9-a14f-89e82a22d46f",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "ja"
-   ]
+   ],
+   "coverFileName": "f98af5e0-af2b-40aa-a980-22a82aacdc67.png"
   }
  ],
- "updatedAt": "2021-07-18T06:46:58+00:00"
+ "updatedAt": "2021-07-18T06:46:58+00:00",
+ "coverFileName": "a61ca8fa-6de0-4188-84c4-1e36dafb143b.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6035f28f-9593-4b35-8b7e-7a1eac273389.jpg"
   },
   {
    "id": "868c77e6-0829-432d-a02c-954e1a9c0335",
@@ -28,7 +29,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "fc457f41-2ad0-4d38-a5b7-47dad38f8d4f.jpg"
   },
   {
    "id": "7654b02a-b78c-412f-a385-690c36ac9bf2",
@@ -39,7 +41,8 @@
    "score": 0.398907,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d781851-9363-43bc-b685-069506f8192a.jpg"
   },
   {
    "id": "b1b91829-0830-4f14-af40-f41de3db4cfc",
@@ -50,7 +53,8 @@
    "score": 0.3963528,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9eccf22e-0364-4e7d-9451-d53763e4312c.jpg"
   },
   {
    "id": "c08387e9-9f48-4ff8-b367-82d11b13294e",
@@ -61,7 +65,8 @@
    "score": 0.3901422,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "08e4a41a-ea50-4f4a-9d20-ca1f18eeb55c.jpg"
   },
   {
    "id": "3fbeec9f-9c47-4565-8f79-972807c99279",
@@ -76,18 +81,20 @@
     "es",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "abffe076-d3d8-4819-8dc8-90c58111c1ea.jpg"
   },
   {
    "id": "890518a8-1890-4346-8076-9ddeb0cfb3bb",
    "title": {
-    "en": "Akuma★Game"
+    "en": "Akuma\u2605Game"
    },
    "contentRating": "safe",
    "score": 0.38166267,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e449a46-b19c-40af-b600-b9b9fce3067e.jpg"
   },
   {
    "id": "21b18592-8925-466b-b909-071b52676a38",
@@ -98,7 +105,8 @@
    "score": 0.38163942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "25167912-90cf-4bad-8283-2d33dcbb0f85.jpg"
   },
   {
    "id": "b7501b4a-e7f0-4590-b994-ddf31a3c9bd0",
@@ -111,7 +119,8 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "6ca544e4-0b57-4c8f-92a1-e0c94cbd5664.jpg"
   },
   {
    "id": "bf3932ba-260c-4d91-a1a5-6343809b3d7e",
@@ -122,7 +131,8 @@
    "score": 0.3754528,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "49a4643c-7892-4ed6-a470-3c359f00ac0d.jpg"
   },
   {
    "id": "76bdd586-31c8-4ddf-9832-4e86627d25ad",
@@ -134,7 +144,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "96ce7c16-c058-44cf-9945-7cae02055cfc.jpg"
   },
   {
    "id": "3dd05d85-7516-4e50-ab70-b1aea4c59a55",
@@ -146,8 +157,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d2db5449-6a35-4cf6-899d-71c09f7c088d.png"
   }
  ],
- "updatedAt": "2021-07-18T06:29:05+00:00"
+ "updatedAt": "2021-07-18T06:29:05+00:00",
+ "coverFileName": "e012c1cf-49ee-4d63-ad32-cdab5c4b4b65.jpg"
 }

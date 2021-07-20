@@ -14,7 +14,8 @@
    "score": 0.36063874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5daf5672-7b37-4265-8058-0261697c26ac.jpg"
   },
   {
    "id": "6d43f1ae-cc83-4bec-8be4-4582702c67b8",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "486a4c9b-e6a0-4c5a-990e-ac0160d6ce0c.jpg"
   },
   {
    "id": "0fb01573-e3cb-4856-a8d1-4b971ff9cb07",
@@ -37,7 +39,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "92a196d2-0ca8-49fd-a2bb-9cc9dcdf7c4a.jpg"
   },
   {
    "id": "541fd040-2db3-4b07-8136-7ea14fba858f",
@@ -50,7 +53,8 @@
     "en",
     "id",
     "vi"
-   ]
+   ],
+   "coverFileName": "7596b607-08ca-49c9-b2d7-a2ae53d67bd5.jpg"
   },
   {
    "id": "56f38c52-0fe2-43a4-8cab-a1f9f82d4c2d",
@@ -61,7 +65,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48a1448c-e69a-4d9c-b921-a6c8246967c2.png"
   },
   {
    "id": "04bcd607-56b6-4381-8f9d-6b031b8580a3",
@@ -72,7 +77,8 @@
    "score": 0.35447687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be2850f5-c59a-4933-b6e8-0a656a48485a.jpg"
   },
   {
    "id": "f1e5d886-cc50-4cbf-ac8b-6914d934321b",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6eddeab6-a302-42fd-9347-be153ab38ecf.jpg"
   },
   {
    "id": "61020b4f-51c2-459a-95f8-8ee4ba6e4145",
@@ -95,7 +102,8 @@
    "score": 0.33836427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "063709fe-9c8d-4e7a-b35f-b4276a0e4608.jpg"
   },
   {
    "id": "edd80152-18a1-4d08-844d-de9c2f670921",
@@ -106,7 +114,8 @@
    "score": 0.33836427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38e30f35-441c-4eb8-80d4-1c33fa859c5d.jpg"
   },
   {
    "id": "56e8da22-e17c-4592-8512-23bb41c32e4d",
@@ -118,18 +127,20 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "db00bd62-d64e-471e-9d9a-2b4d71461942.jpg"
   },
   {
    "id": "70205c3e-4e70-4017-8e5c-45ebab2cea3e",
    "title": {
-    "en": "What has happened to me ～The story of an Uyghur man who now lives in Japan～"
+    "en": "What has happened to me \uff5eThe story of an Uyghur man who now lives in Japan\uff5e"
    },
    "contentRating": "safe",
    "score": 0.3299054,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "611279b9-6a66-4e2e-82ac-75651b8766ed.png"
   },
   {
    "id": "ae121a0a-46dd-491b-b670-700e2dfa8a7e",
@@ -141,8 +152,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "9bd014f5-55fb-4d49-a7a8-0062c0da176c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:52+00:00"
+ "updatedAt": "2021-07-18T06:58:52+00:00",
+ "coverFileName": "58e4449f-63f0-4d92-90ca-5a6fa1d19008.jpg"
 }

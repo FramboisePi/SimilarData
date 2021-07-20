@@ -1,7 +1,7 @@
 {
  "id": "d23147b2-cc7c-4f5e-b792-be4d0b84372e",
  "title": {
-  "en": "Copernicus tenkitenkai no Seishun-teki ôyô"
+  "en": "Copernicus tenkitenkai no Seishun-teki \u00f4y\u00f4"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "bdf46cf8-b12b-4d63-ac88-258a94bbadb2.png"
   },
   {
    "id": "e77bcadd-b5ce-493b-8c94-9f39b4da2f81",
@@ -27,7 +28,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "4a57b9b8-9851-4ce1-9edb-037a152f90ac.jpg"
   },
   {
    "id": "1deb06d9-db0c-4a52-a876-8c2b5b537a3d",
@@ -38,7 +40,8 @@
    "score": 0.47097653,
    "languages": [
     "es"
-   ]
+   ],
+   "coverFileName": "b24f0cb6-44c0-4f25-84d4-bf80ad6b9a0c.png"
   },
   {
    "id": "c91f15c5-1beb-458b-b6f6-1b395b25a326",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "bf9a48f7-ee35-496f-85ab-d1b37adde7bd.jpg"
   },
   {
    "id": "a45cbed0-10e1-4069-a796-77deda49e219",
@@ -61,7 +65,8 @@
    "score": 0.45,
    "languages": [
     "es"
-   ]
+   ],
+   "coverFileName": "2a494796-8e55-485f-9d06-d7f837305cc6.jpg"
   },
   {
    "id": "fe51c798-1000-44b1-ace2-03c9bbca783c",
@@ -73,7 +78,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "f4fe7520-0c1e-4e80-a61c-5d1f31a64500.jpg"
   },
   {
    "id": "627e991e-6711-4abb-ad07-f833137b681a",
@@ -86,7 +92,8 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "c124b59f-da2d-4769-98f6-a403e1e4ee6e.jpg"
   },
   {
    "id": "3dc70de1-111e-41e2-a5f3-f70c2b789217",
@@ -98,7 +105,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "d11b0a95-8916-46cd-bde9-d5e02c5ad2fc.jpg"
   },
   {
    "id": "041086e4-5120-4e3c-a811-f21938a2402a",
@@ -110,7 +118,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "dd9f74a4-b980-49d2-8066-f3aff2b3006f.png"
   },
   {
    "id": "268f19b4-5b6a-4ebf-893f-e2737b4891eb",
@@ -121,7 +130,8 @@
    "score": 0.3923417,
    "languages": [
     "es"
-   ]
+   ],
+   "coverFileName": "75ccfc81-f0e7-4872-b778-f1ce314786f8.jpg"
   },
   {
    "id": "a13dfdf0-64f0-4e86-a4c5-94e9213e3148",
@@ -133,7 +143,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "341e40f9-6960-4e1d-840b-f2cb28cc467f.png"
   },
   {
    "id": "6f82c3a0-3c2e-48f7-8399-c993a5ebc963",
@@ -146,8 +157,10 @@
     "en",
     "id",
     "es"
-   ]
+   ],
+   "coverFileName": "22ceb3e2-245e-4b80-baff-917985703511.png"
   }
  ],
- "updatedAt": "2021-07-18T07:03:24+00:00"
+ "updatedAt": "2021-07-18T07:03:24+00:00",
+ "coverFileName": "c5fcc2e4-976f-4178-a571-e171855b24b7.jpg"
 }

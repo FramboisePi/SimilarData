@@ -8,14 +8,15 @@
   {
    "id": "005b7e3c-2927-45ae-87db-bb3aa04c65e0",
    "title": {
-    "en": "Mage \u0026 Demon Queen"
+    "en": "Mage & Demon Queen"
    },
    "contentRating": "safe",
    "score": 0.5089272,
    "languages": [
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "aacac3ff-b009-4a4e-a6d9-d7bfa4065c19.jpg"
   },
   {
    "id": "210c0b92-572b-461a-af5c-787f42bce0b7",
@@ -26,7 +27,8 @@
    "score": 0.5035604,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6752e764-1196-488e-9647-5f756b1ccfaf.jpg"
   },
   {
    "id": "aebea118-c0c4-4546-9546-6c561259a37b",
@@ -37,7 +39,8 @@
    "score": 0.4850508,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "653c43ea-434e-431e-8f3f-1f73e69617e5.jpg"
   },
   {
    "id": "d51a172c-db95-4a00-9e8c-299b55f26146",
@@ -51,7 +54,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e8d26491-d49b-4002-933f-eb25cb244e55.jpg"
   },
   {
    "id": "300b4f6c-d8ca-4a2f-9f6e-7280a31ce1af",
@@ -62,7 +66,8 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e10cccd4-db20-46f4-97cd-29983ed25658.png"
   },
   {
    "id": "ae3348c9-eecc-4314-a31f-9bc780e0e76c",
@@ -75,7 +80,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "5bd5d602-323b-4b27-955d-07daa7bc85ee.jpg"
   },
   {
    "id": "74dc2c17-cb77-4b82-8875-ea1b313cfe44",
@@ -86,7 +92,8 @@
    "score": 0.44677162,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6369970-0fa1-47ce-901f-e58ec815b906.jpg"
   },
   {
    "id": "78a843bf-e963-498a-819e-284cc1fd7016",
@@ -97,7 +104,8 @@
    "score": 0.43999687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bf092a9-7395-413c-973e-fe57ffcb2e1d.jpg"
   },
   {
    "id": "4a504ee1-3bf3-48c2-8525-80934589b94b",
@@ -108,7 +116,8 @@
    "score": 0.43420827,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d88c63c-eba6-4af9-9ad0-ded0540f9d49.jpg"
   },
   {
    "id": "e6efc92a-04d9-4d0c-af20-ac2dcad835a2",
@@ -120,7 +129,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "16720d00-b646-4ec7-bf26-f225fe946503.jpg"
   },
   {
    "id": "63e54dfd-f7a9-473e-a591-28558e229c5b",
@@ -132,7 +142,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "68ab8283-c31c-48f2-a20f-9d1bdf31882f.jpg"
   },
   {
    "id": "c0defb93-ea7d-433f-94d1-9e0628fac26e",
@@ -143,8 +154,10 @@
    "score": 0.4137041,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "daf3efe6-e971-42f0-8f15-5bf683789c39.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:47+00:00"
+ "updatedAt": "2021-07-18T06:30:47+00:00",
+ "coverFileName": "c101e93e-c3dd-4304-a754-7f96a2129cfc.png"
 }

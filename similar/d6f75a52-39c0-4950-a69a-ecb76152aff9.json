@@ -1,7 +1,7 @@
 {
  "id": "d6f75a52-39c0-4950-a69a-ecb76152aff9",
  "title": {
-  "en": "Capital’s Most Crazy Doctor"
+  "en": "Capital\u2019s Most Crazy Doctor"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45935014,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0a9f2e06-0d3b-49a2-9ae8-8c92a180f3b8.png"
   },
   {
    "id": "cbaa3954-47c5-4634-ae36-98864dd3b150",
@@ -25,7 +26,8 @@
    "score": 0.43702537,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "995c6396-a181-4551-a744-ac10b07588d1.jpg"
   },
   {
    "id": "7f9366b2-c32d-4be8-ae06-9e56df34e9e0",
@@ -36,7 +38,8 @@
    "score": 0.39210638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "70ca23c2-3a7a-43ab-9858-ee217144cbf2.jpg"
   },
   {
    "id": "c494ef99-3220-4669-8946-0292aae965cc",
@@ -47,7 +50,8 @@
    "score": 0.3730559,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "60139cbb-6a6e-4af0-96b2-64f2fce2802b.png"
   },
   {
    "id": "0f302362-4dbf-493f-a6e3-f380d3207b19",
@@ -59,7 +63,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ebf1c05f-d83c-440f-af57-300fa898961f.jpg"
   },
   {
    "id": "971694d3-2bb0-40a3-a7f6-32d2fdbcb616",
@@ -72,7 +77,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "4a9f9d0b-702c-4d9a-aed7-d270af9336c7.png"
   },
   {
    "id": "412ab8fe-eca9-47c9-8f5c-f6deb75622e9",
@@ -86,7 +92,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "dc6371af-bf39-410e-a508-35421c3aa97c.jpg"
   },
   {
    "id": "7f76c837-50ef-4ec2-be07-c632cfd0d4f8",
@@ -97,7 +104,8 @@
    "score": 0.3620918,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "102c9a13-be4b-4589-9f6a-22fbc5e97f8a.jpg"
   },
   {
    "id": "bbadaa23-3e3f-414e-8087-fda189023113",
@@ -108,7 +116,8 @@
    "score": 0.36208698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e2037748-867f-4b50-a813-58e954597ccb.png"
   },
   {
    "id": "5f1d3c6b-84f5-441a-95b6-362b106b1e75",
@@ -120,7 +129,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3200ae88-9318-4cb9-a869-37ecd16bf406.jpg"
   },
   {
    "id": "024dfcb1-0162-4e81-898e-ac20c4eed21f",
@@ -131,7 +141,8 @@
    "score": 0.3539195,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e78873ce-b875-4c94-a598-be75444d189e.png"
   },
   {
    "id": "680bf49e-47bb-48a8-9e75-83819a16f9f0",
@@ -143,8 +154,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d394323a-5cbf-47bf-bfc7-ea86c6ec7574.png"
   }
  ],
- "updatedAt": "2021-07-18T07:04:19+00:00"
+ "updatedAt": "2021-07-18T07:04:19+00:00",
+ "coverFileName": "b605c7b9-2fc6-4ba6-ba36-54b140b7dd15.png"
 }

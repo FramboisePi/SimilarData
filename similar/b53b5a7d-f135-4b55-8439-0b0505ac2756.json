@@ -14,7 +14,8 @@
    "score": 0.5729873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "524b799a-7348-4e91-84f4-4cc56abb2793.jpg"
   },
   {
    "id": "f835ad94-b3dc-4b5f-be9f-270d3e69a76b",
@@ -25,7 +26,8 @@
    "score": 0.56496984,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "61616261-2f0a-4647-b26d-47f43fac438d.jpg"
   },
   {
    "id": "74a45589-bf7a-480e-8d99-79376ec3254a",
@@ -36,7 +38,8 @@
    "score": 0.47375375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7d5d740-5993-46be-b333-2f80dcc5e6ef.jpg"
   },
   {
    "id": "d59cd739-aba1-48de-b657-c2eb459f0905",
@@ -47,7 +50,8 @@
    "score": 0.46878943,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de3bf9b1-b150-4d05-b208-0c4cd7b62bcc.jpg"
   },
   {
    "id": "bcb5dd7b-e16a-41d6-94e8-20b0719d0e8d",
@@ -59,7 +63,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d3dfc707-0963-4e44-863b-415c1b64c229.jpg"
   },
   {
    "id": "628ad842-9602-472f-a112-52ae213319db",
@@ -70,7 +75,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "924e53a5-5e10-44a5-b1a0-540611f7778e.jpg"
   },
   {
    "id": "a02a047a-832e-4377-8929-8e59cc2f9a17",
@@ -83,7 +89,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a499167f-75b2-4529-8a62-430264ee8b5f.jpg"
   },
   {
    "id": "e9bdb027-3dbf-4aa9-80e4-40e601ae3eb0",
@@ -94,7 +101,8 @@
    "score": 0.44131738,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4cac3589-bfd7-4c61-9722-7132e0cb3b6a.jpg"
   },
   {
    "id": "9dfeac5d-74a5-42a5-8cde-01edbcfb49ea",
@@ -105,7 +113,8 @@
    "score": 0.42671254,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6456e164-bb0e-4ee6-8f8b-955afdc85f47.jpg"
   },
   {
    "id": "224bf55a-8fa7-4c28-84c4-92e7193852f3",
@@ -116,12 +125,13 @@
    "score": 0.4192834,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9bce743-f576-4095-af2c-fe2e528c64c0.jpg"
   },
   {
    "id": "f692e863-c847-4cd6-a662-2d75e3081ae4",
    "title": {
-    "en": "Bitter Sweet Café"
+    "en": "Bitter Sweet Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.41739503,
@@ -129,7 +139,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "e7d9554f-81ce-4006-a157-617d5efd0cc7.jpg"
   },
   {
    "id": "5cb693f0-fb8b-4cca-9c7c-c455a72cd8e8",
@@ -140,8 +151,10 @@
    "score": 0.41433677,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9471c88-4c92-4527-b1ad-f2c7f665e661.png"
   }
  ],
- "updatedAt": "2021-07-18T06:58:09+00:00"
+ "updatedAt": "2021-07-18T06:58:09+00:00",
+ "coverFileName": "a811c7b7-9992-4a0f-aa3e-f92ff900e29c.jpg"
 }

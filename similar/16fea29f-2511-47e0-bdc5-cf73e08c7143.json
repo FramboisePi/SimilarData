@@ -14,7 +14,8 @@
    "score": 0.43055496,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9eaa0055-76b6-4a84-9909-9686002a8363.jpg"
   },
   {
    "id": "a9b8c5ae-b534-45a9-9ef1-bdec077cce70",
@@ -25,7 +26,8 @@
    "score": 0.42814106,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "186a1215-5557-4728-9f5d-45361043bbd2.jpg"
   },
   {
    "id": "b30540c7-bde6-4279-9645-a3eddc5c9e97",
@@ -36,7 +38,8 @@
    "score": 0.3968627,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22e8a00e-e9dc-48cd-867d-a3953c789c15.jpg"
   },
   {
    "id": "09aa712c-1457-4779-b2a0-877099a4c0e2",
@@ -47,7 +50,8 @@
    "score": 0.39581528,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c33dc60-0027-448e-9a24-0cfb132d1410.jpg"
   },
   {
    "id": "d070b3f4-edb5-4064-bdcc-f70269e122e7",
@@ -58,7 +62,8 @@
    "score": 0.38644296,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56f005bf-a2a1-4170-b32b-0472b42ad931.jpg"
   },
   {
    "id": "0c23c8f5-9a73-4277-9fb8-cc3f31c663d1",
@@ -69,7 +74,8 @@
    "score": 0.3857143,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6011f34-1f01-47b4-ae92-dd6c8ed73f81.png"
   },
   {
    "id": "434f7f6f-0d89-4801-b00d-f877aca4e88f",
@@ -80,7 +86,8 @@
    "score": 0.3801707,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f934462c-522d-4b12-837b-01b14c7739bb.jpg"
   },
   {
    "id": "6a885c00-c135-485c-9635-379619e917a6",
@@ -94,7 +101,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "43b3ffab-440d-47ee-87bb-c4aba8c4fcc1.png"
   },
   {
    "id": "37bf1c2f-7974-456a-ab6a-c7534b70638e",
@@ -105,7 +113,8 @@
    "score": 0.37484425,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e7078534-9ba6-4948-bbc9-6999f8479237.jpg"
   },
   {
    "id": "c124b460-604f-4437-bff7-f14aceb7c14b",
@@ -117,18 +126,20 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0eec6fa2-6d84-4bb9-8d9e-dd8118c3cda8.jpg"
   },
   {
    "id": "5806d1eb-faee-4a32-8841-085fdf139b97",
    "title": {
-    "en": "1/4 x 1/2 ®"
+    "en": "1/4 x 1/2 \u00ae"
    },
    "contentRating": "safe",
    "score": 0.37244081,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b91605c-f742-4227-92be-5737fe25706f.jpg"
   },
   {
    "id": "36df43ef-dd98-4e46-92c7-cfd243f6c635",
@@ -140,8 +151,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3ea45f98-e667-4f6e-8057-3b68f1ec0638.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:47+00:00"
+ "updatedAt": "2021-07-18T06:28:47+00:00",
+ "coverFileName": "c49f19a0-8def-4da9-8900-db1c4ec3a17e.jpg"
 }

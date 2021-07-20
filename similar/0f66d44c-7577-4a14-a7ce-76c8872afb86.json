@@ -1,7 +1,7 @@
 {
  "id": "0f66d44c-7577-4a14-a7ce-76c8872afb86",
  "title": {
-  "en": "Fox Concubine, Don’t Play With Fire"
+  "en": "Fox Concubine, Don\u2019t Play With Fire"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "389874b4-d240-4d6f-9135-1c895201b957.jpg"
   },
   {
    "id": "0d573df5-7715-4e78-bbe7-f9d50b3cce30",
@@ -26,7 +27,8 @@
    "score": 0.5496271,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "174c49f8-fada-4c32-8ae8-1f4e5cad552b.jpg"
   },
   {
    "id": "39a7252d-f080-4c28-9894-e08384f6723b",
@@ -37,7 +39,8 @@
    "score": 0.47409564,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "458136f3-354b-4499-addd-809ec1b3819d.jpg"
   },
   {
    "id": "5ad7b910-d5dc-4368-9554-c04bd09c4c53",
@@ -50,7 +53,8 @@
     "id",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1efb4fb5-10d9-472f-bfc1-8403ed57f3fa.jpg"
   },
   {
    "id": "05824537-9e1e-4a35-96a5-0a5ff8b0a8ac",
@@ -61,7 +65,8 @@
    "score": 0.42768732,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3418a3d-a9f3-465d-863e-75361f23315c.jpg"
   },
   {
    "id": "c3324037-e178-480f-9c83-134dfd0b8455",
@@ -72,7 +77,8 @@
    "score": 0.41456482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8ec132b5-4679-4fc3-a9ca-7d66f0d96776.jpg"
   },
   {
    "id": "e049c08e-86d1-43df-b27d-065ee448972c",
@@ -84,7 +90,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "33b07536-a97d-46de-9f96-e5a3aa484a22.png"
   },
   {
    "id": "05ad90c1-e9e0-46bf-8f72-34b2dabf6eb9",
@@ -95,7 +102,8 @@
    "score": 0.40071192,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8598ff7f-49b9-4c9e-855c-f4fdbf304598.jpg"
   },
   {
    "id": "edba7b3c-b90c-487a-8449-3dfca3a71643",
@@ -107,19 +115,21 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "71cab178-f8df-4687-b1f2-c0cdc9d09c2e.jpg"
   },
   {
    "id": "3e75643e-4942-4ca0-8d96-c7f4b127286c",
    "title": {
-    "en": "Diphylleia’s Coup Is Being Planned"
+    "en": "Diphylleia\u2019s Coup Is Being Planned"
    },
    "contentRating": "safe",
    "score": 0.3948559,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "51c97954-0b60-4cba-9944-6cb00bde03af.png"
   },
   {
    "id": "782210bf-943a-4768-89a3-7d46667a43c1",
@@ -130,7 +140,8 @@
    "score": 0.39195025,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7712f41c-8999-44fb-88b8-9f398e0b34d8.png"
   },
   {
    "id": "57be8062-ba85-4812-9cd8-dc89bb1549a1",
@@ -142,8 +153,10 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "98ddf20f-514a-4ee4-b874-fc3424583340.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:19+00:00"
+ "updatedAt": "2021-07-18T06:27:19+00:00",
+ "coverFileName": "0cf65994-95df-4b3d-93e9-85581e4b2807.jpg"
 }

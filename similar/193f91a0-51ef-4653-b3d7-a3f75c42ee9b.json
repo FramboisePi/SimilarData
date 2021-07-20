@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ja"
-   ]
+   ],
+   "coverFileName": "f98af5e0-af2b-40aa-a980-22a82aacdc67.png"
   },
   {
    "id": "a17aa454-b558-401e-ad91-98b108ff885a",
@@ -27,7 +28,8 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "2ec92739-5249-49f5-aff2-63eda88f34ad.jpg"
   },
   {
    "id": "120c6996-9802-4f88-bfb3-14b10661dc07",
@@ -38,7 +40,8 @@
    "score": 0.48219085,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "355d0ef3-c535-4e17-9ff0-fba1ad6a967a.jpg"
   },
   {
    "id": "9c64299a-5aa8-4da1-8cc0-7aa69f049709",
@@ -49,7 +52,8 @@
    "score": 0.4728948,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90bb784e-4b53-4332-be2d-8723b3f342c4.jpg"
   },
   {
    "id": "b5ba4db3-1bac-491e-8ce0-ce133ea780ed",
@@ -60,12 +64,13 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "09591845-f8e7-4996-9ff6-15c5c5a73ecf.jpg"
   },
   {
    "id": "53c628b3-d1f5-43aa-8df3-080034285cb4",
    "title": {
-    "en": "Junji Ito’s Cat Diary: Yon \u0026 Mu"
+    "en": "Junji Ito\u2019s Cat Diary: Yon & Mu"
    },
    "contentRating": "safe",
    "score": 0.4490731,
@@ -73,7 +78,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "886b532b-388e-4b58-86c9-2fdc537c9706.jpg"
   },
   {
    "id": "1bed82d5-7260-4e4d-a861-4d126f88d8bf",
@@ -84,7 +90,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e278ea2-899b-4e45-8a45-5fde183b7072.jpg"
   },
   {
    "id": "e675297b-8b2a-4612-a956-5eee26269606",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "0c3378a1-a4df-474b-addb-82f1202a2ab4.jpg"
   },
   {
    "id": "42f11502-9df7-4125-a956-60ffc8fa84f4",
@@ -107,7 +115,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "518f0cb5-87d8-45de-b599-24c26e8b5c55.jpg"
   },
   {
    "id": "e1dbfa84-17d3-4cc7-b0bd-7659a6fa869e",
@@ -118,19 +127,21 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "273b4835-5555-40b9-8d57-08298f04bd7c.jpg"
   },
   {
    "id": "86afee37-175b-46ba-b488-932a96c9d48b",
    "title": {
-    "en": "Shirokuma Café"
+    "en": "Shirokuma Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.4490731,
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "e6d95cb8-26e1-4e79-9863-4b723f4079f1.jpg"
   },
   {
    "id": "2016151b-e193-4a3f-876a-65532cd04a2d",
@@ -141,8 +152,10 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "906c57f3-fa02-4e8d-86b6-213ca34efad8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:12+00:00"
+ "updatedAt": "2021-07-18T06:29:12+00:00",
+ "coverFileName": "8d7796df-646c-4c9b-81f3-a9a43276b211.jpg"
 }

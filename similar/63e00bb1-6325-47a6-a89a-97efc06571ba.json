@@ -8,13 +8,14 @@
   {
    "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
    "title": {
-    "en": "Minecraft: Journey to the World’s End"
+    "en": "Minecraft: Journey to the World\u2019s End"
    },
    "contentRating": "safe",
    "score": 0.72914124,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a484892-d56c-4496-9c9a-82d7e8afcfef.jpg"
   },
   {
    "id": "01eca861-048f-465b-94cd-46fb862b4dc6",
@@ -27,7 +28,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "82a8c4fe-a930-47b2-b64d-177b725b6de2.jpg"
   },
   {
    "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
@@ -39,7 +41,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "2f4adb74-7bcf-42cf-82dd-59e5194407b1.jpg"
   },
   {
    "id": "91bff606-7f63-4443-a459-556e41df835d",
@@ -50,7 +53,8 @@
    "score": 0.5884806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0d58496-3967-4c5d-82dc-151cb24ef78d.png"
   },
   {
    "id": "8f74fc04-9820-462d-9b37-eb730fa5400b",
@@ -61,7 +65,8 @@
    "score": 0.55045766,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5a3176a-b64c-4223-8e0e-1492dc011c42.jpg"
   },
   {
    "id": "df2d9172-418b-49f3-8999-424210153bf0",
@@ -72,19 +77,21 @@
    "score": 0.5336226,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b948677d-add4-469f-b713-adfe8f5b75dc.jpg"
   },
   {
    "id": "626f9a68-21fe-44f4-80e9-f11ecc092700",
    "title": {
-    "en": "Ryuu Majin Hime Valalice no Haiboku ～ Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai"
+    "en": "Ryuu Majin Hime Valalice no Haiboku \uff5e Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai"
    },
    "contentRating": "safe",
    "score": 0.53040266,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "1a73bd45-09c7-4fb7-966d-ac7a4507fa96.jpg"
   },
   {
    "id": "fed8ec0d-4bfe-47ef-ae79-6d29c814171e",
@@ -95,7 +102,8 @@
    "score": 0.5219923,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98d0601a-89c8-413d-bbb2-051431943dc8.jpg"
   },
   {
    "id": "b82b27ba-3072-4f5b-9f47-44947af099ff",
@@ -108,7 +116,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "0019cfd7-881a-4a59-977e-6d073f5125f5.jpg"
   },
   {
    "id": "785e7c8f-73e8-44b2-b18c-eba0b083b4f7",
@@ -121,7 +130,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1a75aff1-a455-4a37-93a8-1531110b6b64.jpg"
   },
   {
    "id": "632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
@@ -136,7 +146,8 @@
     "es-la",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "797fc185-074f-4aaa-b0bc-6bf52ff7f279.jpg"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -154,8 +165,10 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   }
  ],
- "updatedAt": "2021-07-18T06:43:01+00:00"
+ "updatedAt": "2021-07-18T06:43:01+00:00",
+ "coverFileName": "cdc5a518-2025-43b2-8927-30712a3edb3e.jpg"
 }

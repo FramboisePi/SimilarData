@@ -1,7 +1,7 @@
 {
  "id": "c2db633e-2dbe-47a3-87e8-c6879c719f34",
  "title": {
-  "en": "Super ★ Long-lived Witch"
+  "en": "Super \u2605 Long-lived Witch"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.43050635,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "083ed3f0-1f47-4abf-b69b-a6b8975d43dd.png"
   },
   {
    "id": "4ad4b480-aacc-4835-b413-0dbb1cdf436e",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1aac5877-9e67-4c27-8004-0b5a84a9783a.jpg"
   },
   {
    "id": "b9745d18-8556-48ea-a5c7-d43abdc5ab62",
@@ -40,7 +42,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "49c67fee-306a-4eb5-a47b-f0b617776784.jpg"
   },
   {
    "id": "771ff508-3fd5-4de8-aca1-0b7e64c33c07",
@@ -53,7 +56,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "7d62056f-9f62-4bd1-9e93-a31b3b58608d.jpg"
   },
   {
    "id": "2cbc0e67-20ae-4992-a2a7-8599081a13bb",
@@ -64,7 +68,8 @@
    "score": 0.33200625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2a36160-7d5a-4baf-b968-faea10e1dc80.png"
   },
   {
    "id": "bf9d2de6-5986-4b94-a131-19d9dd86dad2",
@@ -75,7 +80,8 @@
    "score": 0.33200625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "05f619bf-838a-42a0-a0db-e43fd8e9e82b.jpg"
   },
   {
    "id": "f1e9a634-f768-4b45-a1ca-1631eff9f257",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "731ae852-3e0b-435b-b370-bde0f07bd193.jpg"
   },
   {
    "id": "72bcf367-2204-45ac-9cf2-cada9aa0fcc7",
@@ -98,7 +105,8 @@
    "score": 0.33200625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f1967f6-e641-41c7-bc30-6e01a441e70a.png"
   },
   {
    "id": "aec70392-55e6-4969-900a-a4266778300a",
@@ -109,7 +117,8 @@
    "score": 0.32515866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2f9aecb0-8605-4e99-8101-e2fb7c005781.jpg"
   },
   {
    "id": "486f531b-af7c-414f-ae9b-5af0f567d94d",
@@ -122,7 +131,8 @@
     "fr",
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "7065644f-a7a8-4cea-83bd-872251a99b65.jpg"
   },
   {
    "id": "161b49bb-7eff-49a2-82b0-4cb0bcc79cee",
@@ -135,7 +145,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "bf2b3c4f-3f45-4634-a34e-fc6c725a12cf.jpg"
   },
   {
    "id": "6e42d034-5b66-45b3-9fdc-690d86e99317",
@@ -147,8 +158,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "ef32f3da-4971-4817-a96a-7763c0c7cd85.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:35+00:00"
+ "updatedAt": "2021-07-18T07:00:35+00:00",
+ "coverFileName": "f09f2122-b21d-4985-9557-61bd2b23fbee.jpg"
 }

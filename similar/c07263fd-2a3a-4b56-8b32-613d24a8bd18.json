@@ -16,7 +16,8 @@
     "it",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "d6dbea3f-2cee-4508-85c9-e13e22bd4e6c.jpg"
   },
   {
    "id": "81450496-80d1-4bc5-ae28-05a7622ecbb4",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "ja"
-   ]
+   ],
+   "coverFileName": "3e7cfe68-dd03-4e90-a12f-2313a2ab14e0.jpg"
   },
   {
    "id": "c518b98c-8848-47bc-bc4f-82ce6c8278eb",
@@ -39,7 +41,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d97b378-f30b-4f74-a5d2-06a130f376f8.png"
   },
   {
    "id": "5ee61241-4ac2-4168-b425-4cdcd63f2c7c",
@@ -51,12 +54,13 @@
    "languages": [
     "en",
     "ja"
-   ]
+   ],
+   "coverFileName": "280801cc-21bf-4256-b6d9-d0d3de62f810.jpg"
   },
   {
    "id": "056565a9-7a75-44ae-be72-7ef261a47a4a",
    "title": {
-    "en": "Oji-san ga Joshi●sei ni Warui Koto wo Oshieru"
+    "en": "Oji-san ga Joshi\u25cfsei ni Warui Koto wo Oshieru"
    },
    "contentRating": "safe",
    "score": 0.38971144,
@@ -64,7 +68,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "1ee050d7-ad9e-41de-b670-581a8d108340.jpg"
   },
   {
    "id": "1a613252-414c-4ff5-a96a-08b437f7453b",
@@ -75,7 +80,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7a96751-dc1b-4ad4-8a13-29b358d76b89.png"
   },
   {
    "id": "175ddf50-fb0e-4149-b10f-3a0446972da3",
@@ -86,7 +92,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab94eb33-1113-463a-8900-cba7b2847eb7.jpg"
   },
   {
    "id": "6bc6eb88-6e18-47df-9a49-c710592e7717",
@@ -97,7 +104,8 @@
    "score": 0.356831,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f72383a1-97df-49b7-ab29-348c79be0cda.jpg"
   },
   {
    "id": "e201b6a2-3b4d-422b-8b71-1a082c2312c4",
@@ -108,7 +116,8 @@
    "score": 0.34016803,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ffcf2ff1-4535-49a7-8cd1-444b5cdcc1dd.png"
   },
   {
    "id": "6e12cbd1-e446-442f-824a-a5f29fcac410",
@@ -120,7 +129,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "90911052-5737-4d11-ada9-dfd2f4137a47.jpg"
   },
   {
    "id": "04dc442a-06c3-4a52-ae78-ee0f6e6d429e",
@@ -132,7 +142,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4b523947-4678-420d-8057-b484c7850329.jpg"
   },
   {
    "id": "607151d3-ff0f-4233-ab4e-e4d4d83c6a59",
@@ -145,8 +156,10 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "a80f3861-b61e-4f5c-b7d2-30437078cb36.png"
   }
  ],
- "updatedAt": "2021-07-18T07:00:11+00:00"
+ "updatedAt": "2021-07-18T07:00:11+00:00",
+ "coverFileName": "a19c65f3-9360-455c-ab6f-d56369c404da.png"
 }

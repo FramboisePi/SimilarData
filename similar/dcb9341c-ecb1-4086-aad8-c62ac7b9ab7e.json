@@ -14,7 +14,8 @@
    "score": 1.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b85f5fff-502f-4fd4-9582-44641454047a.jpg"
   },
   {
    "id": "f55dd1f4-8561-46f1-8f74-9710240b8a67",
@@ -27,7 +28,8 @@
     "en",
     "id",
     "de"
-   ]
+   ],
+   "coverFileName": "2df97257-48d2-4b38-979f-e42fa141654d.jpg"
   },
   {
    "id": "2bf49f98-e022-46ff-9857-ed1753c815d0",
@@ -38,7 +40,8 @@
    "score": 0.434639,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2fa8802a-52ab-4228-8fdc-8458119b59e5.jpg"
   },
   {
    "id": "c8d57776-6474-48be-b7c0-4d75e6c97dfa",
@@ -49,7 +52,8 @@
    "score": 0.42905816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b339060a-9fef-4f62-ba9b-1053d8d9eaae.png"
   },
   {
    "id": "77a39772-0dda-442d-adb8-d6b36bc0901b",
@@ -61,7 +65,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "7ea361a6-3163-4bca-9c5f-e549172dbebe.jpg"
   },
   {
    "id": "6953ecff-a277-4441-b282-c0b6d43b8743",
@@ -74,7 +79,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "796f2c20-3ed1-4f2d-8403-7f8eb429ecc5.jpg"
   },
   {
    "id": "f61952ad-63bb-4e81-a03e-9e50b9e23037",
@@ -89,7 +95,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "672b802b-92a5-400b-98f8-c0b18bb7b94a.jpg"
   },
   {
    "id": "cea99594-b963-4431-bc93-7a4adeba9c54",
@@ -104,7 +111,8 @@
     "pt-br",
     "fa",
     "id"
-   ]
+   ],
+   "coverFileName": "7f983755-2ebf-4dba-b24d-6bcfd08ecc8a.jpg"
   },
   {
    "id": "420617b1-d526-4339-9677-27e0905b79ee",
@@ -116,7 +124,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "acea1bd9-87de-4f6c-bba8-a8722838b3d7.jpg"
   },
   {
    "id": "29c7aced-e2cc-4963-9180-4b1192193b9e",
@@ -130,19 +139,21 @@
     "pl",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "945b77cd-6f8b-432a-add6-d0d78ab43a80.jpg"
   },
   {
    "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Tiger & Bunny"
    },
    "contentRating": "safe",
    "score": 0.3648259,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "43583370-710b-43d6-94b4-92acd892f9b0.jpg"
   },
   {
    "id": "a2a9783e-ce5c-442a-af53-f23a0c43ef32",
@@ -154,8 +165,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "e1adf743-03e9-430a-b271-e4749cade766.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:23+00:00"
+ "updatedAt": "2021-07-18T07:05:23+00:00",
+ "coverFileName": "3ac9a556-5ba9-4bde-90bf-4b6d015b21b1.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "d49ded61-771c-4acd-b9a0-eca6debffad8",
  "title": {
-  "en": "The Hierarch Can’t Resist His Mistresses"
+  "en": "The Hierarch Can\u2019t Resist His Mistresses"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9de74b6-6522-4904-9773-f32e6c425378.png"
   },
   {
    "id": "42932c80-ef57-4a4e-ae74-405662904a01",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "338167cb-b0b8-4c31-bf19-5f42a075073a.jpg"
   },
   {
    "id": "1e3feba8-0c4d-4465-b3a3-e9a2a4451bd1",
@@ -44,7 +46,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b63e1869-85a0-4ac1-b324-7a50ec3a4c1e.png"
   },
   {
    "id": "1a8b20f2-5791-4d31-bcf4-1bc61fd17e80",
@@ -55,7 +58,8 @@
    "score": 0.45249382,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9db18d4-39c7-4a7d-aeb7-40c2acbacc32.jpg"
   },
   {
    "id": "77bbdc6d-a1f5-4334-8a71-a54e10e43175",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "cb85dea6-2a44-4bb3-ad5a-81ff1bbc4f17.jpg"
   },
   {
    "id": "97e96db8-a655-4dbc-9d43-707cf84a266a",
@@ -78,7 +83,8 @@
    "score": 0.4465792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46c7be42-3385-47fc-bb1d-2e56565ed148.jpg"
   },
   {
    "id": "38d7c72c-26b9-44f0-a696-cd99ca3718ac",
@@ -89,7 +95,8 @@
    "score": 0.42841703,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be51b2ea-61fe-4d84-b664-d6f2baa44470.jpg"
   },
   {
    "id": "e97cbd9b-53dd-4499-968b-6c1e71f226b0",
@@ -101,7 +108,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92278cf1-89f7-4080-aeb9-c7f9aacfa1a3.jpg"
   },
   {
    "id": "d7a5d701-69fb-4789-aefe-1531b46fec4a",
@@ -112,7 +120,8 @@
    "score": 0.4236623,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e18d3c3e-9cbf-4677-83c3-84eada1ea42c.jpg"
   },
   {
    "id": "f09eebff-1cfb-4752-832d-2fdc7543487d",
@@ -123,18 +132,20 @@
    "score": 0.42344064,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41a3d0ff-1b0a-49ff-9904-2af6914f95f2.jpg"
   },
   {
    "id": "a08aedb2-683c-4181-bdb0-5c084962cf3f",
    "title": {
-    "en": "Retiring As The World’s Strongest Demon"
+    "en": "Retiring As The World\u2019s Strongest Demon"
    },
    "contentRating": "safe",
    "score": 0.417599,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "753541ae-f223-4a0d-a5bd-45eeb520442a.jpg"
   },
   {
    "id": "4fa874aa-e7dc-4fb8-b0cd-c7fde3d7bf34",
@@ -146,8 +157,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "45676999-ed41-4514-810d-359568c9839a.png"
   }
  ],
- "updatedAt": "2021-07-18T07:03:51+00:00"
+ "updatedAt": "2021-07-18T07:03:51+00:00",
+ "coverFileName": "18a53762-bef2-4098-b4d2-920ed248b133.jpg"
 }

@@ -19,7 +19,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "cc7920c7-9721-4b7d-9cf0-7409e0f93f95.jpg"
   },
   {
    "id": "ab0ce8eb-1674-4f8c-b435-408c76aeff4d",
@@ -33,7 +34,8 @@
     "es",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "51a07f12-5946-48f3-8991-3573d143cf6a.jpg"
   },
   {
    "id": "cd5ca3ed-b379-44af-b8ab-66b851933351",
@@ -44,18 +46,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "86724f6a-5907-4fb5-89f3-13630e769a23.jpg"
   },
   {
    "id": "3ace52ec-f43c-466d-8d66-0b5e6d1538c8",
    "title": {
-    "en": "Yuu \u0026 Mii"
+    "en": "Yuu & Mii"
    },
    "contentRating": "suggestive",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0e44681-f6d0-4bc0-92a0-06b94e4a7efc.jpg"
   },
   {
    "id": "a547b5fd-5c09-4f41-9342-4ee0718d43e9",
@@ -66,7 +70,8 @@
    "score": 0.43397617,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a7a7b52b-c962-4cae-a4c6-4e1e151a7020.jpg"
   },
   {
    "id": "140b811d-11a7-4991-ad03-2c6bdd3d2bcb",
@@ -81,7 +86,8 @@
     "en",
     "pl",
     "de"
-   ]
+   ],
+   "coverFileName": "8026978b-ef6d-4e77-b415-1b31d712d7a9.jpg"
   },
   {
    "id": "533057c0-ea97-4353-a7dd-189d3a022baf",
@@ -92,7 +98,8 @@
    "score": 0.41830742,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "290ebf2f-8387-4fe0-9166-4fb49f613644.png"
   },
   {
    "id": "bfe3184a-649a-46a4-bca8-83bbf81aab5c",
@@ -103,7 +110,8 @@
    "score": 0.41638267,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5f7e816-3e30-487b-a080-814a32e5bcd5.jpg"
   },
   {
    "id": "0f79282f-9f3c-4350-b570-b88feb315672",
@@ -114,7 +122,8 @@
    "score": 0.40660816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1422c5c-7efd-4bb1-ab07-dbbbb46a251d.jpg"
   },
   {
    "id": "8774a54d-c72a-42d2-8e8b-15bd28d18b3f",
@@ -126,7 +135,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "40d6d0d2-c280-4a1c-afc9-202241fe3c0e.jpg"
   },
   {
    "id": "68efcad3-0e41-474d-b8e7-6a45b475b8ae",
@@ -137,7 +147,8 @@
    "score": 0.3990669,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eabd3703-7323-454e-89d3-bee4f895e711.jpg"
   },
   {
    "id": "6a890088-516e-4f1c-84ae-04bbaeeb7226",
@@ -149,8 +160,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a40cbd67-a9f7-4328-9d43-5c42a6aeb299.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:45+00:00"
+ "updatedAt": "2021-07-18T06:42:45+00:00",
+ "coverFileName": "f6914ae7-0810-43ff-a625-ff4357741632.png"
 }

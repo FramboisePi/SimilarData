@@ -8,7 +8,7 @@
   {
    "id": "5eb102b2-8436-4235-8eb1-96535bc20b92",
    "title": {
-    "en": "Beast \u0026 Feast"
+    "en": "Beast & Feast"
    },
    "contentRating": "safe",
    "score": 0.64000875,
@@ -16,7 +16,8 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "a7fdf2a9-c122-4420-a513-5c9c88e06586.png"
   },
   {
    "id": "cf4e99ba-3156-4c1d-99ab-e7c4c0c40173",
@@ -27,7 +28,8 @@
    "score": 0.51039517,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b2099f8-a22b-4a25-9c52-43fdd98608a7.jpg"
   },
   {
    "id": "1babe804-2acf-4172-bb29-7ace7fed61e8",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "e9f6b099-6fef-47a8-9e1a-b2579b56f0bd.jpg"
   },
   {
    "id": "1c0d3bb3-01ab-4c8c-bc5d-0e4ed904a3c8",
@@ -50,7 +53,8 @@
    "score": 0.48022452,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9723aec7-3820-4615-8e17-4d778c5373b7.jpg"
   },
   {
    "id": "a4dfc0b9-e128-4660-b405-d345743bca88",
@@ -61,7 +65,8 @@
    "score": 0.46695307,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c027d7c8-77e9-47f8-b0f1-9cdae5af11d4.jpg"
   },
   {
    "id": "b21c46dd-6802-4a0e-b693-7833db378715",
@@ -72,19 +77,21 @@
    "score": 0.46520784,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "280c4063-7c0e-4f6e-a24d-c903ea61dc9c.jpg"
   },
   {
    "id": "5aa74836-e61a-4fd1-882b-b4362178bc70",
    "title": {
-    "en": "Papa★I Love You"
+    "en": "Papa\u2605I Love You"
    },
    "contentRating": "safe",
    "score": 0.46245116,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8936d5c3-7a29-48d7-8d03-cb1ca0495b81.jpg"
   },
   {
    "id": "2aa9d949-edb3-4c6a-9baa-316ed0b42889",
@@ -95,7 +102,8 @@
    "score": 0.46212927,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd5f6717-de56-4b89-89e7-3327a1986229.jpg"
   },
   {
    "id": "ead4dc73-38cb-4f4a-b1d8-082011b7fabd",
@@ -106,7 +114,8 @@
    "score": 0.46036202,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6fff0b9c-7eff-4825-9a9b-8841ad663e49.jpg"
   },
   {
    "id": "8801791b-3b83-440f-8429-b65f327e4e1b",
@@ -118,7 +127,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "fa7a5a2e-2795-490e-9578-d24d8763c7da.jpg"
   },
   {
    "id": "3a2f8954-afc1-4f3f-b1eb-709e37d53123",
@@ -130,7 +140,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "0293fb2c-23cc-4b57-92bd-002b0b60c72b.jpg"
   },
   {
    "id": "623e708e-9458-489e-a770-8a862f6f9e79",
@@ -142,8 +153,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "e5b4d725-df29-4e5d-89d7-4bfaa1ad5151.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:51+00:00"
+ "updatedAt": "2021-07-18T07:09:51+00:00",
+ "coverFileName": "dd6a318c-f0d1-41fe-92cc-f7e20c611b51.jpg"
 }

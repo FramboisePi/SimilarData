@@ -1,7 +1,7 @@
 {
  "id": "994dfcd9-0449-47a7-ac1e-0efff9b0fe54",
  "title": {
-  "en": "Tyra \u0026 Cera"
+  "en": "Tyra & Cera"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d63ab76b-697b-46ee-b896-682abae1dfc2.png"
   },
   {
    "id": "89fc8249-939e-4b37-b1a3-8a7d1a9288e8",
@@ -26,7 +27,8 @@
    "score": 0.44541138,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d6bee1e-5519-493b-9bd7-a7cc808baa1b.jpg"
   },
   {
    "id": "7127ce73-a2b0-40bb-a2c8-152e3245b9b9",
@@ -40,7 +42,8 @@
     "ru",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "1b8f4280-6c8c-4976-bbbd-4ff152655951.png"
   },
   {
    "id": "44ed0d61-9e6a-47e8-8e38-75a11712372e",
@@ -51,7 +54,8 @@
    "score": 0.38573757,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3a8a528-37b0-4f80-ab68-aba4f34adeba.jpg"
   },
   {
    "id": "99f8e164-051f-44f0-9e55-e4fd2da9a278",
@@ -62,7 +66,8 @@
    "score": 0.38573757,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f21803e5-afbd-4041-88f5-8262e3ef4350.png"
   },
   {
    "id": "bb50d5ea-5eb2-4f28-95d3-07df5f1933b1",
@@ -74,7 +79,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "23a55449-31ab-4e2c-9486-1e78dd1eb628.jpg"
   },
   {
    "id": "27d573f6-757f-447e-9a9b-fbc50590d6db",
@@ -86,18 +92,20 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "501c52e9-fe41-4060-bb22-f3d2b9f9d0f7.jpg"
   },
   {
    "id": "84530ac5-91a8-4942-aeba-6d54b6a48997",
    "title": {
-    "en": "Manga Time Kirara★Magica"
+    "en": "Manga Time Kirara\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.38573757,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d8d92b4f-79e3-46fa-b37b-ad4ea429e518.jpg"
   },
   {
    "id": "8f035f27-da9f-4b40-af15-c6ab78f5ed30",
@@ -108,7 +116,8 @@
    "score": 0.38573757,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9338b90f-188e-463c-8594-e0684abdbec3.jpg"
   },
   {
    "id": "6662aee5-a8ae-4498-8061-da8e61d1abb3",
@@ -119,7 +128,8 @@
    "score": 0.38573757,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4309c1e3-bebd-4c80-96d7-71c1d93e7329.jpg"
   },
   {
    "id": "023736fb-746c-4e7c-b093-f92700f49cd2",
@@ -134,7 +144,8 @@
     "es-la",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "72e1bf0a-084b-4f2a-a1b7-8594d38098e6.jpg"
   },
   {
    "id": "f7244422-2845-43f5-ad49-00a434915ad5",
@@ -146,8 +157,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b1077487-67ce-4c5e-80de-3c3b4a1eba77.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:01+00:00"
+ "updatedAt": "2021-07-18T06:53:01+00:00",
+ "coverFileName": "7b496b62-d160-4979-a1c6-2c71f95a20f4.jpg"
 }

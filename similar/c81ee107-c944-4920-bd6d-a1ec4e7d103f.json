@@ -1,7 +1,7 @@
 {
  "id": "c81ee107-c944-4920-bd6d-a1ec4e7d103f",
  "title": {
-  "en": "BanG Dream! Garupa☆PICO Comic Anthology"
+  "en": "BanG Dream! Garupa\u2606PICO Comic Anthology"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e33b7c6f-5c71-4c54-aaf5-d2c3dc7fa686.jpg"
   },
   {
    "id": "e353e1bf-5690-45f9-a975-9c8baac3c842",
@@ -25,7 +26,8 @@
    "score": 0.40393364,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a64c6ded-5d0e-45dc-85b2-d015e8cc7845.jpg"
   },
   {
    "id": "b81714ad-c2af-41d7-b658-8f27f1ad070c",
@@ -36,7 +38,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dfe90eb6-7def-4531-b9ee-774e397119e8.jpg"
   },
   {
    "id": "3a44fe4e-0abd-4e58-9d3a-9f69fb2fb43c",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3dfad8ce-3c79-4f85-8cc8-1b5fba8c874d.png"
   },
   {
    "id": "bc96da2d-ac00-45e1-afd7-97528e48225f",
@@ -59,7 +63,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22a0bea7-8040-4ece-8c1c-91bd9530113d.jpg"
   },
   {
    "id": "c5813085-98b9-4975-ac75-699cb0c95dff",
@@ -70,7 +75,8 @@
    "score": 0.3895282,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d36c8c7b-174f-4c6b-bfb8-cb5daf80bc54.jpg"
   },
   {
    "id": "674c0331-a8b8-4ead-8ff9-d78895ce0b02",
@@ -83,7 +89,8 @@
     "en",
     "zh-hk",
     "bg"
-   ]
+   ],
+   "coverFileName": "b8314f8c-cf18-4f1f-b995-0b83c3c8ed6e.jpg"
   },
   {
    "id": "d78958be-e777-4af1-bcaf-7c6b7f95776f",
@@ -94,7 +101,8 @@
    "score": 0.37153435,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f9bda8d-ffdc-4083-b823-7d02b5d96d08.jpg"
   },
   {
    "id": "f9bfc73a-d017-424c-92ed-bb79d67fa881",
@@ -109,7 +117,8 @@
     "es",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "ee5f36c6-dcd3-4476-89f9-83e1fc4bd85a.jpg"
   },
   {
    "id": "2304d121-9d86-42a9-b283-20ebb223bbf0",
@@ -121,7 +130,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "156844b1-db96-45ec-936b-512e3821cf90.jpg"
   },
   {
    "id": "80bc6ef8-395c-47d9-a9a3-9bf3038b32c1",
@@ -132,7 +142,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "010bbb35-6fbf-4cf6-b7b9-3b0f6845f00e.jpg"
   },
   {
    "id": "e84bc4e1-6cb0-4bca-a509-260792e60016",
@@ -143,8 +154,10 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "57d8cdc9-6c92-4b2d-a3a1-88e8b846f2dd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:31+00:00"
+ "updatedAt": "2021-07-18T07:01:31+00:00",
+ "coverFileName": "ee5df561-16f7-4927-a655-24de29cbe03f.jpg"
 }

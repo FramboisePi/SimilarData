@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "5951f5b7-d8cc-4f11-ba21-a01e300de2eb.jpg"
   },
   {
    "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
@@ -27,7 +28,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "7935ed6a-9f4f-46b1-a917-40c763d4b054.jpg"
   },
   {
    "id": "cffa26e7-12da-4299-b156-dfb9a00666ff",
@@ -38,18 +40,20 @@
    "score": 0.5619798,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28a89810-8db3-4ce2-9ce6-34d24719dc98.jpg"
   },
   {
    "id": "aaae6694-d9a0-44c2-abed-53141168e3d8",
    "title": {
-    "en": "e×COM Haruoka gakuen game joshibu"
+    "en": "e\u00d7COM Haruoka gakuen game joshibu"
    },
    "contentRating": "safe",
    "score": 0.5394762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "06f6afda-69d5-4883-b03a-97caae38a8de.jpg"
   },
   {
    "id": "a4e5418c-18d9-468a-8cac-8daa78617f83",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3de71bb8-5149-4135-b39f-62410093947b.jpg"
   },
   {
    "id": "bfe5f18c-d869-4156-b823-3cf701cc9b2b",
@@ -72,12 +77,13 @@
    "score": 0.52658266,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aaf57582-6f98-4154-adc0-bf53be4b7cf7.jpg"
   },
   {
    "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
    "title": {
-    "en": "Lucky☆Star"
+    "en": "Lucky\u2606Star"
    },
    "contentRating": "safe",
    "score": 0.5258951,
@@ -85,7 +91,8 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "fa5cc460-3d33-4085-b8a1-cbc8eb3f434c.png"
   },
   {
    "id": "1e1c034e-64df-4ad7-a715-8c59a2a410d6",
@@ -96,7 +103,8 @@
    "score": 0.5161723,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "210da498-c42b-44ea-bf7e-441fbf898e4a.jpg"
   },
   {
    "id": "4c5b0bdb-85ce-48d0-af2c-79919729f837",
@@ -108,7 +116,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "1b668b72-c392-4ebf-8643-a744dc04b2bd.png"
   },
   {
    "id": "94589231-4a4c-4fa2-a0fd-48e27ee61b63",
@@ -124,7 +133,8 @@
     "it",
     "fa",
     "en"
-   ]
+   ],
+   "coverFileName": "1ea4ca29-a4e3-47cd-9a1f-b3e5797b569c.jpg"
   },
   {
    "id": "e6c4c1e5-e118-4f5d-af88-d8f1173ee539",
@@ -136,7 +146,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ce76c06c-eb88-45ba-861f-ac993f16ea0e.jpg"
   },
   {
    "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
@@ -152,8 +163,10 @@
     "fr",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0d064c12-8230-4c7b-9092-1303927dac56.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:33+00:00"
+ "updatedAt": "2021-07-18T06:45:33+00:00",
+ "coverFileName": "92207fae-b1e6-4b45-b230-4d00ef4450b6.jpg"
 }

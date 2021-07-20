@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "60d7fd48-81f9-4114-bb62-6bbf0ae54226.png"
   },
   {
    "id": "aec8d566-464c-40f6-85c5-7947962958f7",
@@ -26,7 +27,8 @@
    "score": 0.5339667,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c550e08c-594a-4061-b5d3-97c211b9af56.jpg"
   },
   {
    "id": "32fe487e-26da-471a-ad11-ab4f75b5f2f5",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "02a00c53-52de-41c7-b017-69c46b7549aa.jpg"
   },
   {
    "id": "190529d7-cd7a-412c-8fd2-aeae7e333bb2",
@@ -49,7 +52,8 @@
    "score": 0.48966858,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4db4343-0c8e-407e-a652-5ca02394e5ed.jpg"
   },
   {
    "id": "b7aebef3-91ab-4202-9b55-881b89e241b8",
@@ -60,7 +64,8 @@
    "score": 0.48540854,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c71277e0-0c8f-461b-8585-8e85934bc1bf.jpg"
   },
   {
    "id": "d4f75c17-06d8-467c-9acb-ef03cfee2f8f",
@@ -71,7 +76,8 @@
    "score": 0.48068345,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7095efe-cd43-4bb1-8b52-4fa5250cd658.jpg"
   },
   {
    "id": "85203b57-742c-4f0b-aa02-002b37b384e1",
@@ -82,7 +88,8 @@
    "score": 0.47281307,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d36f6041-02df-4c38-87c5-5dc9724ecd99.png"
   },
   {
    "id": "13e39275-7b8b-4b70-a758-1314392e0e48",
@@ -93,19 +100,21 @@
    "score": 0.4712459,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "174cc708-8ca8-43cb-a2bf-bbf7b22d8ede.jpg"
   },
   {
    "id": "326592e4-5a11-4bbb-9bc2-ea9853f6cba6",
    "title": {
-    "en": "Tsubakikan no Utsukushi Sugiru Garçon"
+    "en": "Tsubakikan no Utsukushi Sugiru Gar\u00e7on"
    },
    "contentRating": "safe",
    "score": 0.4657921,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "77258689-1302-4d62-b764-a5284a4477e9.jpg"
   },
   {
    "id": "f8d6c42e-1246-4085-9228-073c12bc7e6d",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "1e167ffa-17bc-4897-a54e-d98fb5f9d614.png"
   },
   {
    "id": "5970416c-534b-416e-9fad-c2f3d725e3f0",
@@ -130,7 +140,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "3987f90f-7029-4e62-9b9a-f8c16d19ade4.jpg"
   },
   {
    "id": "a3431853-9d5e-4e6e-a2ad-427de76e5247",
@@ -141,8 +152,10 @@
    "score": 0.46446276,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a82e4bb9-07a2-4081-861f-57f67267380f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:30+00:00"
+ "updatedAt": "2021-07-18T06:24:30+00:00",
+ "coverFileName": "322c9b7e-7e54-4480-85b4-0890cbaaf0e2.jpg"
 }

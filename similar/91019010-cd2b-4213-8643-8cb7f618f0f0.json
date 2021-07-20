@@ -14,7 +14,8 @@
    "score": 0.3845155,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2673b616-1729-471f-b835-04bc57fa3255.png"
   },
   {
    "id": "8fa4d0ee-562f-4e6e-af96-a62c99de5478",
@@ -28,7 +29,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "07b21eef-36db-4a93-88d0-f29c40d0364d.jpg"
   },
   {
    "id": "bd3af1d2-1705-46bf-bcc5-3ab55b2bfa62",
@@ -39,7 +41,8 @@
    "score": 0.36803842,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0bcf85e-0461-4012-a319-6c9c0d6993a9.png"
   },
   {
    "id": "3f9fd06a-6b29-498d-881c-787409cc1230",
@@ -53,7 +56,8 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "2fb8776f-7440-46f8-95fe-e23d393df5f6.jpg"
   },
   {
    "id": "9eed1988-5c5c-4a43-8b3d-047b2d962b3c",
@@ -64,7 +68,8 @@
    "score": 0.3310331,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7aa80f5-6761-441c-a04b-6230b7967ec3.jpg"
   },
   {
    "id": "d422e9ea-a847-4084-9fa5-b6dea42a26cf",
@@ -79,7 +84,8 @@
     "fr",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "d4a6b9f8-4938-4443-bab4-6e8e8c4e2990.png"
   },
   {
    "id": "2c694b76-5924-4b91-ba1a-4e1319ec9aeb",
@@ -90,7 +96,8 @@
    "score": 0.31637245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "299e38a2-4b88-44d4-a2ea-945b476c7f71.jpg"
   },
   {
    "id": "42131f37-4f98-4807-bcb4-37b9f3e02528",
@@ -101,7 +108,8 @@
    "score": 0.31637245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6eb17f2-ecb6-4f40-8f3c-1c59261b468d.png"
   },
   {
    "id": "5a2da236-8a3b-41b5-a298-ca5350751d9d",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ebf0835f-9237-4c63-af2a-d1f01d679b90.jpg"
   },
   {
    "id": "5e0643a7-d476-4d97-bc5d-9ec92dd7486a",
@@ -124,7 +133,8 @@
    "score": 0.31213307,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9837c464-06f8-4a2a-b605-fb8d058eff80.jpg"
   },
   {
    "id": "aea1aa8b-0dd7-4d32-852d-56aaf36af4e3",
@@ -140,12 +150,13 @@
     "ar",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "d7a0a32e-d85a-4cb2-baf1-27e753f6a6cc.jpg"
   },
   {
    "id": "f0e3275b-a321-449d-99ba-baa3244b71b5",
    "title": {
-    "en": "Akaboshi – Ibun Suikoden"
+    "en": "Akaboshi \u2013 Ibun Suikoden"
    },
    "contentRating": "safe",
    "score": 0.29583782,
@@ -154,8 +165,10 @@
     "de",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6a4a210a-eb3d-4c38-8404-5343c9672317.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:29+00:00"
+ "updatedAt": "2021-07-18T06:51:29+00:00",
+ "coverFileName": "c4769bc6-e0b2-4f66-9324-7ca0e6a1daba.jpg"
 }

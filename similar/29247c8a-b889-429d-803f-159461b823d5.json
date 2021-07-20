@@ -1,7 +1,7 @@
 {
  "id": "29247c8a-b889-429d-803f-159461b823d5",
  "title": {
-  "en": "Heavy × Beauty: Pretty Babies"
+  "en": "Heavy \u00d7 Beauty: Pretty Babies"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.6687427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ad1e8c2e-b55a-41fb-9775-2cd35c7a6769.jpg"
   },
   {
    "id": "38fc40fa-eb8d-4eb6-a11c-8792fec59f2a",
@@ -25,7 +26,8 @@
    "score": 0.5884103,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ba71163-bda2-4ccc-bdd8-99daccf103af.jpg"
   },
   {
    "id": "f0f3873a-185d-4a99-8d3d-daef7d0da1af",
@@ -37,7 +39,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "092dea14-7653-4c9b-bc1a-2418d765e67b.jpg"
   },
   {
    "id": "64fa8fb4-e152-4faf-bed1-cad43c17bf71",
@@ -48,7 +51,8 @@
    "score": 0.5545006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "59626a3c-7199-49aa-b3e3-448eec74db7c.jpg"
   },
   {
    "id": "2a1019f5-ecab-4e75-b522-c3bd9c3a8207",
@@ -59,7 +63,8 @@
    "score": 0.44769347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45cfa09a-69c6-4a94-94ce-5d518a14587a.jpg"
   },
   {
    "id": "a98559ca-beab-4ff8-b259-b69d8f0a328e",
@@ -70,7 +75,8 @@
    "score": 0.43290865,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62b126ce-3988-49e6-8749-6fb83256d809.jpg"
   },
   {
    "id": "abc0cd00-6672-4ed9-9139-274701536fca",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "7f3e5094-fe39-4680-a155-25adc7ee28be.jpg"
   },
   {
    "id": "31e846c6-5bc7-461e-aae2-61e03913adba",
@@ -94,7 +101,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "23b5c416-b1f8-43a5-b4c2-ace2aa2d9f9a.jpg"
   },
   {
    "id": "712253e9-916c-441a-b4fa-c9d381c8e8b6",
@@ -105,7 +113,8 @@
    "score": 0.42625737,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "218d8529-45df-4c20-baa5-8ed006daeae4.jpg"
   },
   {
    "id": "89a46f82-3c1e-43bd-acf4-6bc79f4e8c26",
@@ -116,19 +125,21 @@
    "score": 0.42517483,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac02185e-f72d-4cbb-b22c-a4230bb3ac2e.jpg"
   },
   {
    "id": "3a3cb849-756e-4d74-a6dd-283e3f743c15",
    "title": {
-    "en": "Lovers♥Doll"
+    "en": "Lovers\u2665Doll"
    },
    "contentRating": "safe",
    "score": 0.4248196,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "56ccdaf2-d461-43be-84cf-d4d5c7fc7d48.jpg"
   },
   {
    "id": "022dcbac-54dc-4a96-9fef-91c29187b122",
@@ -139,8 +150,10 @@
    "score": 0.42416698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d3a7115-db19-466f-8ab5-546316a9edc7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:09+00:00"
+ "updatedAt": "2021-07-18T06:32:09+00:00",
+ "coverFileName": "73364135-c8f8-4063-9081-7c7a7aee6f5a.jpg"
 }

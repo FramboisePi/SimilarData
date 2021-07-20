@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55a9c08f-3fdb-43b2-b937-15ef53462200.jpg"
   },
   {
    "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "c75252a3-91be-4e53-a8b7-770ace8512e9.jpg"
   },
   {
    "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "74ca091f-4fed-4c56-85de-af310e70c7f6.jpg"
   },
   {
    "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
@@ -50,7 +53,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "791c0be6-e7eb-4343-9399-30a0285ae0cc.jpg"
   },
   {
    "id": "aab94c3a-34b4-4051-84ff-7ba9cbab0da8",
@@ -63,7 +67,8 @@
     "en",
     "ca",
     "pl"
-   ]
+   ],
+   "coverFileName": "38b625cb-898b-4035-a96a-3bd0bddfd272.png"
   },
   {
    "id": "6c583845-8276-4f80-b90b-902959b5d240",
@@ -75,7 +80,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "55d979d3-a02c-4b26-a626-eb7abc2a7e6d.jpg"
   },
   {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
@@ -89,7 +95,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
   },
   {
    "id": "0cedef8e-d734-4292-bfdd-461fa8930909",
@@ -100,7 +107,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "036c6d82-39b6-4270-953d-6d98f8d76904.jpg"
   },
   {
    "id": "6343454a-2728-48c2-b50d-1ca3a7abccef",
@@ -114,19 +122,21 @@
     "ru",
     "es",
     "hu"
-   ]
+   ],
+   "coverFileName": "783e6781-75c5-4691-acdc-ee486af8d269.jpg"
   },
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "acb5290a-79a5-4278-ab00-c46168a310d5",
@@ -138,7 +148,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "824d8006-4e77-4fb7-b409-f24c71a8803e.jpg"
   },
   {
    "id": "893a6989-50af-42be-a5bd-0acdf78824ef",
@@ -151,8 +162,10 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "f9e34dd9-e434-4dfb-8490-43185330b071.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:45+00:00"
+ "updatedAt": "2021-07-18T06:45:45+00:00",
+ "coverFileName": "fb15e5ad-fd0a-441c-a6ee-a3fc86cbcd56.jpg"
 }

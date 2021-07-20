@@ -17,7 +17,8 @@
     "ru",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "31cff245-4c44-4c04-bce7-422bca198bff.jpg"
   },
   {
    "id": "4e8f9100-1a9d-493d-b6ef-9cfaed991594",
@@ -32,7 +33,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "4fef9326-139e-471c-9579-8a7824fe413f.jpg"
   },
   {
    "id": "de471fb4-80d0-406f-a5e3-1bfa88a15136",
@@ -46,7 +48,8 @@
     "pt-br",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "3df93d38-aedc-42c1-9e34-5da1e2d872fa.jpg"
   },
   {
    "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
@@ -62,7 +65,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4d4e3d89-da27-4961-82a0-e64c6cfc163d.jpg"
   },
   {
    "id": "49cdb2d0-8f93-4307-881f-0dea243d4da8",
@@ -76,7 +80,8 @@
     "ru",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "d6c5d542-30a5-44b6-bdbe-770280b7a1e1.jpg"
   },
   {
    "id": "5b5a2b50-c31f-43be-93b4-a7a5640a5f05",
@@ -87,7 +92,8 @@
    "score": 0.44805446,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a4ea7f01-24e1-4c3c-9ef2-fad1419331b8.jpg"
   },
   {
    "id": "f3b20d87-847d-4c51-84e5-ce9886693c85",
@@ -101,7 +107,8 @@
     "ru",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "590b9c15-3541-4a79-9a44-1aa209de70fc.jpg"
   },
   {
    "id": "256c04c1-3575-44c9-9b02-e9d593a6b86d",
@@ -117,12 +124,13 @@
     "en",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "96dd75a5-a5f2-44d3-84db-57527c17b11b.jpg"
   },
   {
    "id": "73886188-f459-4b80-8781-66a60520b420",
    "title": {
-    "en": "A Stepmother's Märchen"
+    "en": "A Stepmother's M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.4424044,
@@ -132,7 +140,8 @@
     "en",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "3fb8618f-8e43-4b1b-9bf5-67c3e2e465e4.jpg"
   },
   {
    "id": "29a480b7-573f-45cf-967a-9c68e95356ea",
@@ -144,7 +153,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "5deb7b8e-be78-48f4-9ada-a27fc5037017.jpg"
   },
   {
    "id": "8484fa76-fb9e-494c-9aa0-9a48c582cea6",
@@ -157,7 +167,8 @@
     "en",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "47c7569a-4277-4db8-8a0d-f34f2bc21a99.jpg"
   },
   {
    "id": "77428268-16b7-429f-b028-14793e93bf26",
@@ -169,8 +180,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c9cff21c-696a-446d-95ab-3558f6fd9b04.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:25+00:00"
+ "updatedAt": "2021-07-18T07:03:25+00:00",
+ "coverFileName": "81b3be68-ab86-4c55-a952-a55d3380a04d.png"
 }

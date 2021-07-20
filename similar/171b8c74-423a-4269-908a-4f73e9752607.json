@@ -8,13 +8,14 @@
   {
    "id": "50115e6f-bff4-46dc-be3b-0743cdfdb500",
    "title": {
-    "en": "Queen's Blade - Hide \u0026 Seek"
+    "en": "Queen's Blade - Hide & Seek"
    },
    "contentRating": "suggestive",
    "score": 0.44195917,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31472e11-aeae-4456-a4a6-d298528ca33d.jpg"
   },
   {
    "id": "6b70f157-ff5a-45d7-bcbd-199c0ddc5ca8",
@@ -25,7 +26,8 @@
    "score": 0.40974826,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac82c7d5-eec0-456f-b257-c81531c50763.jpg"
   },
   {
    "id": "ee0a36a0-9b1a-4d94-90d8-ca9b3cc6bae6",
@@ -37,19 +39,21 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7b3e6d3f-1faa-421b-8d5b-883f4192af17.jpg"
   },
   {
    "id": "07382196-5d12-4b4f-93d9-50c521f65a7e",
    "title": {
-    "en": "Blue Dragon - Ral Ω Grado"
+    "en": "Blue Dragon - Ral \u03a9 Grado"
    },
    "contentRating": "suggestive",
    "score": 0.3881456,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "36b31606-40dc-430a-9d27-db4ba316c5ad.jpg"
   },
   {
    "id": "29364c41-1d60-44dc-8247-2256ae63bc75",
@@ -60,7 +64,8 @@
    "score": 0.3613298,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28977631-d5bb-4145-a0c4-d1010637aa62.jpg"
   },
   {
    "id": "608ceab6-b924-4d3f-95d2-5a874f543f78",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "86f85129-5ee6-4b21-8cab-536dc5c0e69e.jpg"
   },
   {
    "id": "9cef07be-f2fa-43b8-84c0-1b4483d56c1e",
@@ -83,7 +89,8 @@
    "score": 0.34272274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c809435e-9173-4c48-bda4-919fda3b873d.jpg"
   },
   {
    "id": "676b2696-768b-49c9-8054-b7e0eb0325bd",
@@ -94,7 +101,8 @@
    "score": 0.34272274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3577eb89-e15b-46e2-900a-e4f01a874dd9.jpg"
   },
   {
    "id": "99c58049-775f-4288-9600-d2c1b7919082",
@@ -105,7 +113,8 @@
    "score": 0.32855016,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc6e1886-a50d-4c0d-aaec-c7c22db7a247.jpg"
   },
   {
    "id": "7c5ba525-4888-4b80-8117-46fc7d9fe9ac",
@@ -116,7 +125,8 @@
    "score": 0.31292078,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d73fbe59-4d27-4f51-b380-d12ac68d2756.jpg"
   },
   {
    "id": "a7bed7a4-049a-4e68-825f-1227d9603793",
@@ -127,7 +137,8 @@
    "score": 0.31292078,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c8a90e5-e108-4e57-a3ad-8c5edbdb95ca.jpg"
   },
   {
    "id": "94e58886-c425-408b-8114-8691cbdcb743",
@@ -138,8 +149,10 @@
    "score": 0.31292078,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d9acf27-c242-4d91-a691-2913cf34a7a7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:48+00:00"
+ "updatedAt": "2021-07-18T06:28:48+00:00",
+ "coverFileName": "6b08eff3-ac01-48b3-ae1b-a9f08a9eeb23.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.6623871,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a91a9b8-8b02-4518-a910-84b887bd17b4.png"
   },
   {
    "id": "e34c631b-e473-4a6c-b047-ff050d901826",
@@ -25,7 +26,8 @@
    "score": 0.43824694,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7b58193-a2a0-4dc5-999a-8b469acc5dae.png"
   },
   {
    "id": "18649fc7-410f-4509-9283-2e5d2a4cf2d4",
@@ -38,7 +40,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6e3af228-69f8-45b3-99f3-0f1b28fb79ba.jpg"
   },
   {
    "id": "bb2b9152-b780-42eb-92d1-e93ff4ef427f",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c7f5bf90-22c6-4c4a-9aa6-00411f9555f3.jpg"
   },
   {
    "id": "6ece8b99-f8bc-436c-93f5-ab73d90d9619",
@@ -61,7 +65,8 @@
    "score": 0.41072482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2600d2d2-6b39-4293-ae2c-f6c83d0500f0.jpg"
   },
   {
    "id": "057c7346-5a82-4119-a2dc-b0f769f18551",
@@ -72,7 +77,8 @@
    "score": 0.4103218,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdb25512-9ba5-43ea-9c46-c00a6f435c7c.jpg"
   },
   {
    "id": "167e53f7-7295-40ef-bec7-63d66c5c52a3",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "803e5548-57d0-4880-904e-54da7a08fc62.jpg"
   },
   {
    "id": "f880d7fe-358f-4c81-ae0f-7186951606b7",
@@ -95,7 +102,8 @@
    "score": 0.4059452,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8979bec4-8e1a-480e-8d4c-796048a709da.jpg"
   },
   {
    "id": "8f6c0971-2add-4a63-b238-74c033064502",
@@ -109,7 +117,8 @@
     "pl",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bc0955cb-f9dd-4ef4-b790-b92f06f07991.png"
   },
   {
    "id": "d8323b7b-9a7a-462b-90f0-2759fed52511",
@@ -124,12 +133,13 @@
     "id",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "1c5052c7-e3c2-41a0-ab01-5a048a5acd6f.jpg"
   },
   {
    "id": "7f53da27-3b46-426d-834b-a34c606a9663",
    "title": {
-    "en": "Ano Oni Kyōshi ga Boku no Ane ni Narundesuka?"
+    "en": "Ano Oni Ky\u014dshi ga Boku no Ane ni Narundesuka?"
    },
    "contentRating": "suggestive",
    "score": 0.38290277,
@@ -139,7 +149,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2bcc2549-177f-433e-8c45-60beec6fc71f.jpg"
   },
   {
    "id": "78796f38-a295-44fe-afce-4ef060e3bf95",
@@ -154,8 +165,10 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "c33fe6ec-b7e8-4de2-b099-c1ad0822a7f0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:26+00:00"
+ "updatedAt": "2021-07-18T07:11:26+00:00",
+ "coverFileName": "e6b0f288-a2b8-4f9d-b48c-a5cb2054b0af.jpg"
 }

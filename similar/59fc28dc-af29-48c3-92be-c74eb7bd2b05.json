@@ -18,7 +18,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "de90bce8-217f-40ee-a842-88144d9d4fd1.jpg"
   },
   {
    "id": "27174389-bc10-43e7-b111-345f1ecb9d24",
@@ -29,7 +30,8 @@
    "score": 0.4957164,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2a318a1-3e98-4b3a-960b-4695bbcde27b.jpg"
   },
   {
    "id": "9ae00f68-ddab-4961-b561-c448a9adeace",
@@ -40,7 +42,8 @@
    "score": 0.4750866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee10bc99-196a-46fb-8980-07f8082a7c62.png"
   },
   {
    "id": "0ed1e0eb-4c42-4131-8b3d-331e479df8a5",
@@ -51,7 +54,8 @@
    "score": 0.45838425,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b769c56-4bf6-4101-98eb-5f92d0fa97bc.jpg"
   },
   {
    "id": "b6331cb6-45a9-4a6c-bd4e-5a91234a1a5c",
@@ -62,7 +66,8 @@
    "score": 0.41922376,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8c6cc414-6e40-4156-b2ff-6f59c065c2cd.jpg"
   },
   {
    "id": "5a728f9b-9e6b-480c-b33d-75deb7f3dcb9",
@@ -73,7 +78,8 @@
    "score": 0.41786236,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "72d9ae1a-2c34-4823-bff5-2aff5661aeda.png"
   },
   {
    "id": "5b1494d9-37b1-48f6-8c4d-d9c434836190",
@@ -84,7 +90,8 @@
    "score": 0.41376624,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f577de5c-08b0-4fb1-87b9-6fbaa6c59957.jpg"
   },
   {
    "id": "72df0b90-4569-4f35-8b46-b1af48dbae27",
@@ -96,19 +103,21 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "3073f850-b469-4732-a382-e37c04c119cc.jpg"
   },
   {
    "id": "0d7e2a21-9b44-44fe-ab33-67c17bbc25be",
    "title": {
-    "en": "Love \u0026 Kiss"
+    "en": "Love & Kiss"
    },
    "contentRating": "safe",
    "score": 0.40177628,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "4b5c0bf0-e152-45a9-8910-01b808ce5688.png"
   },
   {
    "id": "5936f8c3-115a-4b73-ae30-ed314cbe9aeb",
@@ -120,7 +129,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "9b24cb8d-ac30-4528-a2a1-7315ad398c85.jpg"
   },
   {
    "id": "0de77766-e3fe-4419-abaa-3cbae16fc2cb",
@@ -133,7 +143,8 @@
     "en",
     "ru",
     "vi"
-   ]
+   ],
+   "coverFileName": "91dee4b7-8f0a-49f7-87b0-ed3be7a82dfc.jpg"
   },
   {
    "id": "7f76c837-50ef-4ec2-be07-c632cfd0d4f8",
@@ -144,8 +155,10 @@
    "score": 0.3984586,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "102c9a13-be4b-4589-9f6a-22fbc5e97f8a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:13+00:00"
+ "updatedAt": "2021-07-18T06:41:13+00:00",
+ "coverFileName": "199f9574-3996-4132-ac6f-0b7a36baba7c.jpg"
 }

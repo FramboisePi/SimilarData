@@ -1,7 +1,7 @@
 {
  "id": "c8aebcc7-678e-4682-a727-48febbc325fd",
  "title": {
-  "en": "86 — Eighty Six —"
+  "en": "86 \u2014 Eighty Six \u2014"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "en",
     "es-la",
     "uk"
-   ]
+   ],
+   "coverFileName": "963ecc18-9601-45b7-b599-6d23c7f45da9.jpg"
   },
   {
    "id": "5b7e38e7-fdda-4069-87cc-2945f09d23aa",
@@ -30,7 +31,8 @@
    "score": 0.37145364,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c3a49d6-e7cf-46f4-8e16-88ca33956485.png"
   },
   {
    "id": "fb0fbf40-e31f-4f19-83fb-34a3b3c923df",
@@ -42,7 +44,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fbfcb77a-60f8-4d4a-a862-70aa086732a0.jpg"
   },
   {
    "id": "7dc523b0-8ecd-40b0-b86c-1ea57c07773c",
@@ -56,7 +59,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5657cc26-67cf-4c2f-a338-dcb0a54500c3.jpg"
   },
   {
    "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
@@ -68,7 +72,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4d66cc0f-7429-4244-ae15-59704a35245e.jpg"
   },
   {
    "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
@@ -80,7 +85,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "7f7ec00c-f197-42b2-855b-1557007532a4.jpg"
   },
   {
    "id": "ad4876a1-ecde-41e5-a6f9-c28c68056f5a",
@@ -93,7 +99,8 @@
     "pl",
     "fa",
     "en"
-   ]
+   ],
+   "coverFileName": "d4d29b49-ded9-4694-b7d1-b7faf4de022a.jpg"
   },
   {
    "id": "f6017da8-3d40-45c8-8c34-ce019ee2a902",
@@ -108,7 +115,8 @@
     "en",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6b3a8bc7-ffae-45d7-b788-154c80e56f10.jpg"
   },
   {
    "id": "c4a3ec6e-900b-4ef3-a636-71e031692a50",
@@ -119,7 +127,8 @@
    "score": 0.31890643,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1740b0b2-b606-44aa-8c84-27507ff14ac5.jpg"
   },
   {
    "id": "3549aa1e-7337-4e72-a373-85a3e4460dc6",
@@ -132,7 +141,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "e144e011-c115-45c8-b9a4-a303575d6bb9.jpg"
   },
   {
    "id": "4ef6ab6c-9506-4612-bc2a-322ea13827b2",
@@ -143,19 +153,22 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f92be3b8-593c-439f-9357-4133e27bcf4a.jpg"
   },
   {
    "id": "c48abd82-74d0-4be7-a6f1-ccc436759643",
    "title": {
-    "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessinée"
+    "en": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.31789368,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4d7653c-8ab3-4e5e-b371-8f9a609b4f83.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:37+00:00"
+ "updatedAt": "2021-07-18T07:01:37+00:00",
+ "coverFileName": "19ed0552-b74b-4d81-9dc2-ec2f1e0d57d5.jpg"
 }

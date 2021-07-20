@@ -16,7 +16,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "097b7713-618e-4219-a387-57080d3cd7f5.jpg"
   },
   {
    "id": "d0c9ee26-5b00-4326-bb1c-170f2a5b0ff7",
@@ -31,7 +32,8 @@
     "es-la",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "aa7b81d1-d2c8-4600-8f30-efd0ad543c78.jpg"
   },
   {
    "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
@@ -43,12 +45,13 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "ca28ef35-292e-469d-b263-13cb329173ad.jpg"
   },
   {
    "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
    "title": {
-    "en": "Lucky☆Star"
+    "en": "Lucky\u2606Star"
    },
    "contentRating": "safe",
    "score": 0.33595583,
@@ -56,7 +59,8 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "fa5cc460-3d33-4085-b8a1-cbc8eb3f434c.png"
   },
   {
    "id": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
@@ -73,7 +77,8 @@
     "it",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6b61bb69-25bb-4f8f-9e46-9791901bb5ad.jpg"
   },
   {
    "id": "94589231-4a4c-4fa2-a0fd-48e27ee61b63",
@@ -89,7 +94,8 @@
     "it",
     "fa",
     "en"
-   ]
+   ],
+   "coverFileName": "1ea4ca29-a4e3-47cd-9a1f-b3e5797b569c.jpg"
   },
   {
    "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
@@ -105,7 +111,8 @@
     "fr",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "c9be5e48-ea5b-4cee-a72c-d12c6d3b4d0e.jpg"
   },
   {
    "id": "8f0356e5-5aae-498d-af86-4834ded28294",
@@ -119,7 +126,8 @@
     "it",
     "es",
     "pl"
-   ]
+   ],
+   "coverFileName": "9813528c-4225-4a01-a9e2-ed9ffc3afe6e.jpg"
   },
   {
    "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
@@ -131,7 +139,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "7935ed6a-9f4f-46b1-a917-40c763d4b054.jpg"
   },
   {
    "id": "ddcebfa2-05a0-4fcd-9cd4-60d779c38f2c",
@@ -150,7 +159,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "169ff9b7-577e-4813-88a5-41cbd27c6a5d.jpg"
   },
   {
    "id": "40a5bc77-4889-4780-8d36-3eae7b2c973c",
@@ -162,7 +172,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "33108d72-43c0-4c66-8037-a39f7b9fe6ee.jpg"
   },
   {
    "id": "d40961cd-1e60-4f4c-93fa-853527494f49",
@@ -176,8 +187,10 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "da7dc4b0-2fa2-484d-b30b-e80d18229911.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:51+00:00"
+ "updatedAt": "2021-07-18T07:04:51+00:00",
+ "coverFileName": "740a4a5f-b80d-4bb4-ba51-85b8a8ad0c4d.png"
 }

@@ -8,14 +8,15 @@
   {
    "id": "86afee37-175b-46ba-b488-932a96c9d48b",
    "title": {
-    "en": "Shirokuma Café"
+    "en": "Shirokuma Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.51025015,
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "e6d95cb8-26e1-4e79-9863-4b723f4079f1.jpg"
   },
   {
    "id": "0e017a08-835a-4cbe-ba63-576d5010a5a0",
@@ -32,18 +33,20 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "1da4768a-682a-4916-ba4e-83020fe8f11b.jpg"
   },
   {
    "id": "4d40b2e2-a3b3-47ad-bed3-4822a6e5033f",
    "title": {
-    "en": "I Want to Become the Hero's Bride (￣∇￣)ゞ"
+    "en": "I Want to Become the Hero's Bride (\uffe3\u2207\uffe3)\u309e"
    },
    "contentRating": "safe",
    "score": 0.46285218,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b2685cc-a4c4-4661-8be5-2c10590e2b3c.jpg"
   },
   {
    "id": "6a769300-091e-49ab-8cd3-cc32c360ecc0",
@@ -58,7 +61,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fd0715f4-2c50-41d9-9cce-a2e369415cd1.jpg"
   },
   {
    "id": "8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78",
@@ -74,7 +78,8 @@
     "hi",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "38360026-b5b9-4b64-84af-486173e65c65.jpg"
   },
   {
    "id": "63c1b35d-7572-4671-99a4-3e59a05fdd54",
@@ -88,7 +93,8 @@
     "pt-br",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "5951ef7b-ec15-4ffa-991f-eabaa94b0c1f.jpg"
   },
   {
    "id": "8b397303-76b3-45d9-8a52-a0003e09fcdb",
@@ -99,7 +105,8 @@
    "score": 0.41768974,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "037bc7db-acd2-4e24-b547-24ba095fef44.jpg"
   },
   {
    "id": "d45ba05a-a218-4c91-9f02-5efacb54e6e3",
@@ -114,7 +121,8 @@
     "it",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "ae70fb90-a99d-48eb-a31b-3b46b953210e.jpg"
   },
   {
    "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
@@ -134,7 +142,8 @@
     "fr",
     "vi",
     "ar"
-   ]
+   ],
+   "coverFileName": "d5b67cf3-f614-4754-b785-6b5d231c535b.jpg"
   },
   {
    "id": "532e3f94-7a07-4dee-8e3e-665fc7ee72b8",
@@ -148,7 +157,8 @@
     "fr",
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "3409b9f6-57f8-4bfc-a25f-7061bedc7a4b.jpg"
   },
   {
    "id": "5137687f-a925-4b18-a474-b143f9e3ec01",
@@ -163,7 +173,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5e3f4301-d4f5-4035-a5ee-a622483993b4.jpg"
   },
   {
    "id": "d3731564-c453-4486-b24e-567a3ad3bc2e",
@@ -176,8 +187,10 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8843094a-ca44-4d25-ab8b-a4708b670aef.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:20+00:00"
+ "updatedAt": "2021-07-18T06:28:20+00:00",
+ "coverFileName": "10cf2fcd-46e7-47b3-9e6b-04686218e352.jpg"
 }

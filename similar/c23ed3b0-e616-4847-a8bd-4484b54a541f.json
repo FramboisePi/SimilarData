@@ -20,7 +20,8 @@
     "ms",
     "ar",
     "es-la"
-   ]
+   ],
+   "coverFileName": "24a2aaa3-53fb-4c89-8785-692a2883f3b5.jpg"
   },
   {
    "id": "952b034e-c702-4287-b5e1-4dd8d33dbdbc",
@@ -33,7 +34,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "bfdf2782-603a-4468-ae29-eb041005cb6f.jpg"
   },
   {
    "id": "1e3161a1-d521-4670-9d82-1b11ad1805bb",
@@ -45,7 +47,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "f19af752-23a5-49d6-910a-256ca808c710.jpg"
   },
   {
    "id": "9bee74fc-ec26-457c-9d97-e22f501b3064",
@@ -60,7 +63,8 @@
     "ru",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "41b9bf2d-5fda-4232-b001-f83dbf173837.jpg"
   },
   {
    "id": "ff5bbffe-abd3-44b2-b3aa-8c9c4c56ba94",
@@ -74,7 +78,8 @@
     "fr",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "be1f1e2a-2829-41ba-9dc6-56055b507206.png"
   },
   {
    "id": "fb46f285-bdd6-49d1-ae0b-fd8daea34597",
@@ -87,7 +92,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "2063f1d4-9e20-4b0e-b6b0-b2cc5566bf68.jpg"
   },
   {
    "id": "4a97afea-bca8-47cc-bdc7-ff344187a847",
@@ -99,12 +105,13 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f500c7f2-1410-4bc3-b3bf-24f3e0ac701b.jpg"
   },
   {
    "id": "46414120-3303-4471-9197-782985312a58",
    "title": {
-    "en": "Märchen - The Embodiment of Tales"
+    "en": "M\u00e4rchen - The Embodiment of Tales"
    },
    "contentRating": "safe",
    "score": 0.38031942,
@@ -113,7 +120,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "18417713-d606-4ac1-9ea0-76ab466034de.png"
   },
   {
    "id": "74b7befa-98c6-4955-96cc-ceef26c6264d",
@@ -124,7 +132,8 @@
    "score": 0.36,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "a4a900c1-d64e-42b3-844d-2326bc3d30ea.jpg"
   },
   {
    "id": "b03e9841-fc09-4841-86ad-d55d4edcc26c",
@@ -138,7 +147,8 @@
     "id",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "db7a42a6-68d3-482c-a87c-272f2e741bd0.jpg"
   },
   {
    "id": "f4c9f9ef-218e-4943-8252-c0d990c538bc",
@@ -150,7 +160,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6fab8924-6f72-4d3e-ab2b-2e6ff77441f2.jpg"
   },
   {
    "id": "1d3900d5-0453-4c3c-9c99-37190ac10644",
@@ -162,8 +173,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ade3093b-6b48-425c-9dc2-e852e2bd2c98.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:30+00:00"
+ "updatedAt": "2021-07-18T07:00:30+00:00",
+ "coverFileName": "8f149f6e-618c-4ee0-af26-56a3e752878a.jpg"
 }

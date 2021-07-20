@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "e3fd6b9c-f6c8-4f15-9416-fba59ae8690e.jpg"
   },
   {
    "id": "96f69304-ab9a-43ce-83cc-8fe90958c5b3",
@@ -27,23 +28,25 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "2079d5c8-0650-43e7-8bf9-4cd569ea562c.jpg"
   },
   {
    "id": "3b324ab0-48c5-4c55-8acf-22b9931913eb",
    "title": {
-    "en": "Automatic★Angel"
+    "en": "Automatic\u2605Angel"
    },
    "contentRating": "safe",
    "score": 0.4960406,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c8c29db-def0-4ee4-b3f5-ac23c114844f.png"
   },
   {
    "id": "11c0c5ea-ac3f-4d94-9df6-401f65ffb9a3",
    "title": {
-    "en": "Rockin' ★ Heaven"
+    "en": "Rockin' \u2605 Heaven"
    },
    "contentRating": "safe",
    "score": 0.48525226,
@@ -51,12 +54,13 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c3d88691-88d7-4329-9e16-8f85fe53ed2c.jpg"
   },
   {
    "id": "402cd859-464c-4731-8d16-86fefd3feecf",
    "title": {
-    "en": "Atsumori-kun no Oyome-san (←Mitei)"
+    "en": "Atsumori-kun no Oyome-san (\u2190Mitei)"
    },
    "contentRating": "safe",
    "score": 0.48166838,
@@ -66,7 +70,8 @@
     "pl",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b9b70a1f-e926-4759-b8bb-11437059c373.jpg"
   },
   {
    "id": "d304d0ad-47da-458c-821b-4b3b31958105",
@@ -77,7 +82,8 @@
    "score": 0.47709087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dabc6af7-b60a-44ab-875f-8ae23843936e.jpg"
   },
   {
    "id": "13adf99c-bde5-406d-afa7-af6842be2102",
@@ -88,7 +94,8 @@
    "score": 0.46617472,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf9cf18c-802a-4e22-a468-9ea7b7b002f9.jpg"
   },
   {
    "id": "d1b78cf3-1b79-4fc1-a216-c28d15c88904",
@@ -99,7 +106,8 @@
    "score": 0.4661276,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc579302-5575-4c05-8ae7-7ba75a017758.jpg"
   },
   {
    "id": "639e1bd7-a9a4-46ff-9713-63268497ce43",
@@ -112,7 +120,8 @@
     "tr",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "883d6d19-47e5-4d4b-9918-5f467b4018e1.jpg"
   },
   {
    "id": "b6778677-e4b5-4a2e-b84e-d86af72b41d2",
@@ -123,7 +132,8 @@
    "score": 0.45702842,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d448396-4228-416d-a835-3bf0c717da7a.png"
   },
   {
    "id": "b5fab65a-641d-4637-aa4a-d6353f99d836",
@@ -136,7 +146,8 @@
     "en",
     "pl",
     "ar"
-   ]
+   ],
+   "coverFileName": "5b578281-6e30-4916-8530-6f92e611482d.jpg"
   },
   {
    "id": "465716b5-e87a-4db0-aa49-254352f20ffc",
@@ -147,8 +158,10 @@
    "score": 0.45323834,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b45f732-7368-4f8b-9033-6dad5fd78c6a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:39+00:00"
+ "updatedAt": "2021-07-18T06:39:39+00:00",
+ "coverFileName": "c9914c72-6681-4d6a-89b9-63843176dcba.jpg"
 }

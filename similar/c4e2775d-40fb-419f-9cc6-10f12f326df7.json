@@ -14,7 +14,8 @@
    "score": 0.42234087,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9f1441f7-b805-4155-8d98-7f640ce2d526.jpg"
   },
   {
    "id": "e4395ecd-68ff-4067-b2bd-3c9643ed70fa",
@@ -28,7 +29,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7a967ee0-2d09-4275-bc36-d073afdb5305.jpg"
   },
   {
    "id": "c7fba486-9495-48eb-9ec3-0f747917fc0d",
@@ -39,7 +41,8 @@
    "score": 0.3847629,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5ac9871-69d0-4fba-9f96-39fdb59b59f4.jpg"
   },
   {
    "id": "9e113969-56ca-48d5-bb3c-699c7f346bb2",
@@ -50,7 +53,8 @@
    "score": 0.37351403,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6d6f4bf-675e-4a3c-8535-49fc9d8a15b0.jpg"
   },
   {
    "id": "8443de98-4d05-40e1-a84f-d54905fbb563",
@@ -63,7 +67,8 @@
     "en",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "ec84e8f2-4ebd-4fd9-90d2-60042a0f6e93.jpg"
   },
   {
    "id": "fae26a7f-dbd6-4f70-9b40-965205210a23",
@@ -74,7 +79,8 @@
    "score": 0.34909186,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c000888b-c661-49bc-8d43-ab4548965344.jpg"
   },
   {
    "id": "28d43d64-f9ff-4450-9b7b-bb00f863f3fc",
@@ -85,7 +91,8 @@
    "score": 0.34718254,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae55ed14-d81a-49be-a970-54a39dff5b63.jpg"
   },
   {
    "id": "9b217a11-3447-4c80-885e-34c0b472a75b",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3cbfc1da-bddb-4777-8d3c-d5412158735c.jpg"
   },
   {
    "id": "5aedd994-75d6-4ed5-a5a2-7bc3b98a5bc1",
@@ -110,7 +118,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "c5d8a8b9-cd53-4b4c-a619-4e517060a1c3.jpg"
   },
   {
    "id": "41f9c75a-36e0-4b4e-83bf-f92bb57591de",
@@ -122,18 +131,20 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "aa36fa1b-c709-4312-ad28-718d8430b7e4.jpg"
   },
   {
    "id": "5806d1eb-faee-4a32-8841-085fdf139b97",
    "title": {
-    "en": "1/4 x 1/2 ®"
+    "en": "1/4 x 1/2 \u00ae"
    },
    "contentRating": "safe",
    "score": 0.34258205,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b91605c-f742-4227-92be-5737fe25706f.jpg"
   },
   {
    "id": "a6755221-23ba-4ad2-b98f-b852387375bb",
@@ -144,8 +155,10 @@
    "score": 0.33860964,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81b8a812-a4c9-4763-ae11-f7f9fe45eaba.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:57+00:00"
+ "updatedAt": "2021-07-18T07:00:57+00:00",
+ "coverFileName": "cf26d331-1b26-455c-8b85-2443b2125d11.jpg"
 }

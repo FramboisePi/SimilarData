@@ -16,7 +16,8 @@
     "pt-br",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "ab6757e2-ec83-4276-86ae-3e84cdf81539.jpg"
   },
   {
    "id": "e5d8db52-03ce-4ee3-8a1b-ee78dd30d8e3",
@@ -27,7 +28,8 @@
    "score": 0.5064758,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4e31798c-59db-4379-b7fa-8509bcc4a0d7.jpg"
   },
   {
    "id": "b4f056be-0892-414c-850d-f3214e5f2a1d",
@@ -39,7 +41,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "05e09772-e230-453d-95e4-889eb28ffa43.jpg"
   },
   {
    "id": "dc77b4d7-b82e-4ebb-a0ac-0ece6e5b1505",
@@ -52,7 +55,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "2a9bcb31-d0a3-49d5-b461-9419a4cf6a1d.jpg"
   },
   {
    "id": "534380ba-3347-401b-8978-4cbcc62ffac0",
@@ -66,7 +70,8 @@
     "es-la",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "995a32b7-1368-456c-9b41-ca635f7fe8af.jpg"
   },
   {
    "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
@@ -79,12 +84,13 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6ecdb4ab-d14d-4513-8af7-a7df633d7b7e.jpg"
   },
   {
    "id": "34676e83-1d43-4f3e-af83-6bf48b01056a",
    "title": {
-    "en": "Tokimeki Gakuen♥Ouji Kumi"
+    "en": "Tokimeki Gakuen\u2665Ouji Kumi"
    },
    "contentRating": "safe",
    "score": 0.44919953,
@@ -93,7 +99,8 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "38beab50-b361-4bb7-9569-3648741d3fda.jpg"
   },
   {
    "id": "643b3756-ad1c-412d-b6cf-05b084540071",
@@ -107,7 +114,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "9dc7158e-897d-4758-9443-e812f2dd6e0d.jpg"
   },
   {
    "id": "09370a3e-7405-4b01-a1da-cbbdbce3b343",
@@ -121,7 +129,8 @@
     "it",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "df9c5b62-62ac-4bcd-994d-bb452a2b9e48.jpg"
   },
   {
    "id": "913f10b8-be4e-4195-a1cd-c52aa8d6a728",
@@ -133,7 +142,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a42d1cf8-7fca-41d4-b22e-6de8cc701d96.jpg"
   },
   {
    "id": "f03bc5c5-88b7-42aa-92a6-1a0f34adc47e",
@@ -146,7 +156,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6a0f45c9-6253-4fe2-8901-fe686f23ea04.jpg"
   },
   {
    "id": "8661740e-6b47-4956-a496-152b228f7fe5",
@@ -160,8 +171,10 @@
     "vi",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "9e30fc64-d386-43c3-bd15-c613e425dfb0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:55+00:00"
+ "updatedAt": "2021-07-18T06:45:55+00:00",
+ "coverFileName": "8c4507ab-13f6-4b5a-99b6-2321cf92d0c2.png"
 }

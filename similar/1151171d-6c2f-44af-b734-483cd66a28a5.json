@@ -16,7 +16,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6f333a6c-be85-47ce-99d3-5543a6074d17.jpg"
   },
   {
    "id": "93ee0acc-52af-4e33-b9cc-9adfc791cecb",
@@ -29,7 +30,8 @@
     "pt-br",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "983d17a3-140f-4d3c-9f20-586024917737.jpg"
   },
   {
    "id": "9a0525d0-6320-4c38-a527-7084177a754c",
@@ -40,7 +42,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5040a2ad-0eff-49b9-9098-6939eeacab18.jpg"
   },
   {
    "id": "987d8965-e448-4216-a45f-b795b2e059b7",
@@ -54,7 +57,8 @@
     "en",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "8ba689f7-1dd0-476b-8ca6-2c6c416281f0.png"
   },
   {
    "id": "860c10f3-4e84-44b9-86ed-04ddd65ad648",
@@ -65,7 +69,8 @@
    "score": 0.42446733,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f3d6c0b-126d-4e8f-9da6-fb781a48b084.jpg"
   },
   {
    "id": "5aa5b618-2634-4863-9338-9d9e5c465965",
@@ -76,7 +81,8 @@
    "score": 0.40978223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c5b278c-dbb4-4228-9f09-956d11f69091.jpg"
   },
   {
    "id": "5d5d958a-956e-4c81-85a6-67745032c011",
@@ -91,12 +97,13 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "535e28e3-eb59-4e26-a2a9-388e28604ab3.png"
   },
   {
    "id": "fa9c05ac-b3d0-4d7d-96a0-08efb45b24ac",
    "title": {
-    "en": "Cat \u0026 Chiyo"
+    "en": "Cat & Chiyo"
    },
    "contentRating": "safe",
    "score": 0.4,
@@ -104,7 +111,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ca3a5cfe-d0a6-4022-be0d-559d5990f54c.jpg"
   },
   {
    "id": "840ebe1f-d1a5-4205-9dd0-58124bdda8f7",
@@ -115,7 +123,8 @@
    "score": 0.4,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ab2a690-a2ec-4f5a-8e7f-c757ddd5a354.jpg"
   },
   {
    "id": "7f1bafc4-67b8-45b3-968b-39729dfc9ab7",
@@ -130,7 +139,8 @@
     "zh",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "c83e09af-716d-4ac7-a479-55b0334866d1.jpg"
   },
   {
    "id": "a5b1601f-e762-478f-946d-4a96cbd91304",
@@ -141,7 +151,8 @@
    "score": 0.36666667,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "889dd50f-a72e-468a-bcfd-14fc04553704.jpg"
   },
   {
    "id": "23f10779-468b-47bf-9940-c3bb95d63199",
@@ -152,8 +163,10 @@
    "score": 0.36666667,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d19d87e0-3072-4de4-b240-9cbf1b9dbf7d.png"
   }
  ],
- "updatedAt": "2021-07-18T06:27:41+00:00"
+ "updatedAt": "2021-07-18T06:27:41+00:00",
+ "coverFileName": "fe3f91de-c83c-4090-a28b-afaa3c103b81.jpg"
 }

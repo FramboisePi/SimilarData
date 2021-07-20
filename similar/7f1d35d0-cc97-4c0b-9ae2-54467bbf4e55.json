@@ -8,13 +8,14 @@
   {
    "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
    "title": {
-    "en": "Hakugin no Teiō"
+    "en": "Hakugin no Tei\u014d"
    },
    "contentRating": "safe",
    "score": 0.56302786,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "932a9c1b-8327-44c6-8165-98dae6bb279a.png"
   },
   {
    "id": "c5eb1982-4184-4728-95b9-11fec744f0ca",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "2d41d2c0-6037-4ae2-a91d-9322b34d56af.jpg"
   },
   {
    "id": "7cdc3e9a-e948-4bd6-9b57-e7fc4e92df63",
@@ -38,7 +40,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "50de26a7-3410-433f-9501-ce23fe6e72db.jpg"
   },
   {
    "id": "9c5eda08-09b5-4f52-85db-d8eb80000492",
@@ -50,7 +53,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "1ba33da3-2950-4c4a-b45a-94aa77f0c48b.png"
   },
   {
    "id": "414fd0ba-83c1-4aa2-ba4c-388481288150",
@@ -61,7 +65,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "691e0b47-5355-47b5-9c0a-ccd9f71c40ba.jpg"
   },
   {
    "id": "aeca902a-33a2-40de-b0ed-7581d42bcd22",
@@ -72,7 +77,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38ec7bb8-bdcb-4cba-855a-e8cbf6619591.jpg"
   },
   {
    "id": "21666dcf-1257-497d-9647-e4bb63411137",
@@ -83,7 +89,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "474f7465-4514-4bba-8c7e-aaee55f60071.jpg"
   },
   {
    "id": "3fdb2e86-4842-4a03-8717-b03596bdf525",
@@ -94,7 +101,8 @@
    "score": 0.4458131,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a7db53c-99ff-406b-b13f-c37886c7b762.jpg"
   },
   {
    "id": "a6dadd8b-209b-424f-87c8-c0284ef6f496",
@@ -105,7 +113,8 @@
    "score": 0.42155245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "637f1fe9-e58e-46b3-9b29-76d3f68bc2c7.jpg"
   },
   {
    "id": "8cdaa9cd-c16f-4d90-8323-ae0dd7091256",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6b084fbc-86b6-4007-8102-d052321343c9.jpg"
   },
   {
    "id": "3d1b9ea5-7655-43da-8f8d-bec364b156ad",
@@ -128,7 +138,8 @@
    "score": 0.385318,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bee35036-8692-4690-9ed7-074fc098941e.jpg"
   },
   {
    "id": "0e464acd-a78d-4096-ab3b-ce934b728b9f",
@@ -139,8 +150,10 @@
    "score": 0.38457292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bab522ce-8f12-400b-b5a9-0fe3c733188a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:04+00:00"
+ "updatedAt": "2021-07-18T06:48:04+00:00",
+ "coverFileName": "a64666e1-c5a8-40f8-8769-1046720e2e86.png"
 }

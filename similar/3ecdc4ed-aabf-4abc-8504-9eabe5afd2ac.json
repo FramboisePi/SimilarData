@@ -17,7 +17,8 @@
     "ru",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "31cff245-4c44-4c04-bce7-422bca198bff.jpg"
   },
   {
    "id": "25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4",
@@ -31,7 +32,8 @@
     "fr",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "18ec280c-58e5-445e-91b7-03b801205fc6.jpg"
   },
   {
    "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
@@ -47,7 +49,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4d4e3d89-da27-4961-82a0-e64c6cfc163d.jpg"
   },
   {
    "id": "dd396eb3-801b-4945-9542-710488a0eb0c",
@@ -58,7 +61,8 @@
    "score": 0.37559655,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fef586d9-e31c-4591-99a2-c049b81cbfc6.jpg"
   },
   {
    "id": "590ce306-df89-4cec-94c3-886d01422174",
@@ -71,7 +75,8 @@
     "fr",
     "my",
     "en"
-   ]
+   ],
+   "coverFileName": "9f5dfffd-e2b8-4b3f-9ac6-6eb5ec7b4389.png"
   },
   {
    "id": "b9170530-88ff-4e39-8f68-e11a17a89770",
@@ -87,7 +92,8 @@
     "mn",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "0443d4f5-c24c-43c2-b3a4-554e5ba67fb0.jpg"
   },
   {
    "id": "94d2ed3d-839f-4b0b-80a8-a9428241e5e4",
@@ -99,7 +105,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "a7b3428d-118f-4a6b-b502-e9a85bc4b695.jpg"
   },
   {
    "id": "f1b8344f-c01d-40eb-9462-e61aa68f7848",
@@ -112,7 +119,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a6584b8c-a1df-4fef-bbdf-9616c416c837.jpg"
   },
   {
    "id": "8536360b-a527-4c3c-88ff-7c52a0f212ab",
@@ -124,12 +132,13 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f08e563f-b89e-4a48-bf51-63b3f0ad7879.jpg"
   },
   {
    "id": "73886188-f459-4b80-8781-66a60520b420",
    "title": {
-    "en": "A Stepmother's Märchen"
+    "en": "A Stepmother's M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.36044067,
@@ -139,18 +148,20 @@
     "en",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "3fb8618f-8e43-4b1b-9bf5-67c3e2e465e4.jpg"
   },
   {
    "id": "a71d0b65-d6a7-4201-80a3-8803602bbf12",
    "title": {
-    "en": "Charlotte’s Letter"
+    "en": "Charlotte\u2019s Letter"
    },
    "contentRating": "safe",
    "score": 0.35805306,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "f36bed94-3be9-4649-abe0-db8bb94c2205.jpg"
   },
   {
    "id": "ad098069-94ba-4c1f-8954-69f832234aab",
@@ -162,8 +173,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e296f66d-c352-4a9d-9057-8f2d54d6616a.png"
   }
  ],
- "updatedAt": "2021-07-18T06:36:10+00:00"
+ "updatedAt": "2021-07-18T06:36:10+00:00",
+ "coverFileName": "fdb69ea8-a295-40ae-8d1b-b624427198bf.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "96549e79-8c7d-4f62-b042-70009e4bf3a7.jpg"
   },
   {
    "id": "cd4691d9-1ff3-47c7-9746-3d759b8ff177",
@@ -26,7 +27,8 @@
    "score": 0.55554557,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "824a3702-dd9a-4ecc-8df3-45094a9ed711.jpg"
   },
   {
    "id": "07ec9657-3289-43de-bf83-81465b513e63",
@@ -37,7 +39,8 @@
    "score": 0.4596916,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "133c949a-1d73-4acf-b1b6-923842837720.jpg"
   },
   {
    "id": "59674f39-539a-4c0a-af6b-1c99f3cad712",
@@ -48,7 +51,8 @@
    "score": 0.4593359,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e50be7fb-ca6a-461d-8612-651670dacc94.jpg"
   },
   {
    "id": "ef24ac2a-b28e-4f51-a219-ab8478defe33",
@@ -59,7 +63,8 @@
    "score": 0.4551531,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee8fdd53-c97e-49cd-9175-4e88d3f0bdc1.jpg"
   },
   {
    "id": "b2c33fbc-2638-4bd6-8354-3b66cf650857",
@@ -71,7 +76,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "63e8a0a5-4f3d-4376-b510-6ddeca330549.jpg"
   },
   {
    "id": "e4c6e0b5-b777-4db7-82f7-da79f662e788",
@@ -83,7 +89,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "e12cd68f-1396-4194-bc5e-402657016b09.png"
   },
   {
    "id": "3a957322-f336-4102-a462-897caedc68ea",
@@ -95,7 +102,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3105ea52-a91c-4a8f-956d-5724311ddd37.jpg"
   },
   {
    "id": "b8cdd9ea-2713-47fa-9cfa-8eba3d456286",
@@ -108,7 +116,8 @@
     "ru",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c51fbcda-2c90-4c2b-8b22-a72191ab5c60.jpg"
   },
   {
    "id": "c47f5558-f974-4ed7-9829-2b59f04c44f5",
@@ -120,19 +129,21 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "983df9e4-d0e8-4b8a-9293-da986b88a808.jpg"
   },
   {
    "id": "fbfa3677-862f-4ede-b4c6-8517945b71a6",
    "title": {
-    "en": "Cat \u0026 Dogs!"
+    "en": "Cat & Dogs!"
    },
    "contentRating": "safe",
    "score": 0.4075888,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c49ec60e-f606-48c3-8123-e72c5909f4cd.jpg"
   },
   {
    "id": "a9da3064-d8e6-4f65-9c69-b8f6937f079a",
@@ -144,8 +155,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "40d0bdac-3dc2-4a99-9867-ed6b565ad838.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:41+00:00"
+ "updatedAt": "2021-07-18T06:57:41+00:00",
+ "coverFileName": "d07863e5-504e-4244-aa36-80b58ca805a6.jpg"
 }

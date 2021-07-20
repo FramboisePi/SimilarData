@@ -1,32 +1,34 @@
 {
  "id": "020dc431-58d2-4a31-9221-b26b2dce149d",
  "title": {
-  "en": "Gekijouban Madoka★Magica - [Shinpen] Hangyaku no Monogatari"
+  "en": "Gekijouban Madoka\u2605Magica - [Shinpen] Hangyaku no Monogatari"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "c690c2fe-a0fc-4201-82ce-f880938fc97c",
    "title": {
-    "en": "Mahou Shoujo Oriko★Magica"
+    "en": "Mahou Shoujo Oriko\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.62645936,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5edbf0ca-67d0-4950-969a-48be42d4f4d0.jpg"
   },
   {
    "id": "e7ba68e6-0e13-43c8-8c0c-17431ae5a911",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica ~The different story~"
+    "en": "Mahou Shoujo Madoka\u2605Magica ~The different story~"
    },
    "contentRating": "safe",
    "score": 0.555016,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "543b6a80-e5d1-41c8-a60a-a198ac35bb14.jpg"
   },
   {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
@@ -37,19 +39,21 @@
    "score": 0.45940652,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "795ffd4e-9ea1-4f70-9763-cc9f31de5c7d.jpg"
   },
   {
    "id": "b62659e0-fb91-4cf1-a62f-c4e058f9917a",
    "title": {
-    "en": "Mahou Shoujo Suzune★Magica"
+    "en": "Mahou Shoujo Suzune\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.45191172,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6dabc76f-0135-469a-ad42-a7bc3051f6d7.jpg"
   },
   {
    "id": "44627680-6127-48f0-b44c-0ed15a7dac5f",
@@ -61,7 +65,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "1de07532-eefb-4697-9fc2-c57fd0e67713.jpg"
   },
   {
    "id": "baf824f8-0cb7-4d57-b434-5790a27bf593",
@@ -72,7 +77,8 @@
    "score": 0.42625132,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc71e2e6-749a-4cfa-ae53-8f97fb93ef2b.jpg"
   },
   {
    "id": "70e55f28-fcba-4f4c-9984-42b4cce4079a",
@@ -83,7 +89,8 @@
    "score": 0.42549708,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "848a214f-dff9-4ef7-a132-b6f793ef719c.jpg"
   },
   {
    "id": "88228c06-a554-40ce-912b-84ab6eac6c89",
@@ -94,7 +101,8 @@
    "score": 0.42418385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0eba7f85-6ea4-49d3-a5eb-2d8379e633fc.jpg"
   },
   {
    "id": "93a67cf1-949a-4a89-b66a-da131fe2fea3",
@@ -105,7 +113,8 @@
    "score": 0.41961968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1bc7fdda-893d-4b5f-9e22-97e615e35fba.jpg"
   },
   {
    "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
@@ -117,7 +126,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "310057f9-2619-47ed-a760-e77d794611d0.png"
   },
   {
    "id": "960e28fa-31de-4de0-bd62-a91c0243ed0e",
@@ -129,7 +139,8 @@
    "languages": [
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "87f88af1-29b3-41e2-8db4-8eef2062391d.jpg"
   },
   {
    "id": "cc287e96-4619-4d95-8a52-8010e20fc018",
@@ -140,8 +151,10 @@
    "score": 0.40465358,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3560e47-e429-421f-b54e-6847bf820488.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:52+00:00"
+ "updatedAt": "2021-07-18T06:24:52+00:00",
+ "coverFileName": "28688318-5021-4bca-bc5e-efaea6e0580d.jpg"
 }

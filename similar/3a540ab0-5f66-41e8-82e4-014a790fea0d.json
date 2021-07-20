@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cf6bd848-320f-43e9-8627-38938be2369d.jpg"
   },
   {
    "id": "ffc74f6b-71a8-48ec-aa27-b03701ad74c4",
@@ -29,7 +30,8 @@
     "pl",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "5a5fbd5e-83ac-4c48-9a65-7ab88ae1835a.jpg"
   },
   {
    "id": "305f9331-b9f4-4ede-af9d-5b269452f4d4",
@@ -44,7 +46,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9738e1ff-a393-4e85-bfcb-410086a853c1.png"
   },
   {
    "id": "1d6e5448-fa9f-4cd4-8524-fb64f9a7c3e1",
@@ -55,7 +58,8 @@
    "score": 0.45694456,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a1390a7-f344-456e-825f-7c910c7a2896.png"
   },
   {
    "id": "c360adb7-c934-47ce-a8bd-03ebaeeac35a",
@@ -66,7 +70,8 @@
    "score": 0.45027065,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eab662b2-f435-4248-8f58-e21e68944376.jpg"
   },
   {
    "id": "bfa362ea-53ef-4e83-9f79-bb732079bdf8",
@@ -77,7 +82,8 @@
    "score": 0.4493928,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "662b70eb-5dfc-4ef1-b6a4-623e433169a8.png"
   },
   {
    "id": "d40195b4-900a-43eb-95ff-dc79b62a9fe6",
@@ -90,12 +96,13 @@
     "tr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "a56ed6da-7f1d-470f-af21-6757592496ed.jpg"
   },
   {
    "id": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
    "title": {
-    "en": "Nan Hao \u0026 Shang Feng"
+    "en": "Nan Hao & Shang Feng"
    },
    "contentRating": "safe",
    "score": 0.4493928,
@@ -112,7 +119,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dee49d8b-ff54-48b0-9e55-d8a9604c9086.png"
   },
   {
    "id": "4afe1ee7-ff18-4d9b-a1a4-7be02be3ab06",
@@ -126,7 +134,8 @@
     "",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "ed229785-72b1-4b4d-8732-61720fa2622c.jpg"
   },
   {
    "id": "e384ea48-c89a-4b88-b3f8-41fe786a2c68",
@@ -138,7 +147,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f5718d36-0691-4f25-815a-14dc11406f48.jpg"
   },
   {
    "id": "c41ebcf6-afd0-4755-a1af-14c3f044b0b6",
@@ -149,7 +159,8 @@
    "score": 0.4330573,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "66069a62-c31b-428a-ad09-78da7cd2d722.jpg"
   },
   {
    "id": "24eb0373-3d45-4c42-b2ed-c0f8c8932f61",
@@ -160,8 +171,10 @@
    "score": 0.43303177,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ceb85f6-6a3a-4885-bdc6-4773abeac8e8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:21+00:00"
+ "updatedAt": "2021-07-18T06:35:21+00:00",
+ "coverFileName": "5654a7e1-5e5b-4e3f-b22b-eeb4b5432881.png"
 }

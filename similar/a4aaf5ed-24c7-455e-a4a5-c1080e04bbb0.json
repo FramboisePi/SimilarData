@@ -8,13 +8,14 @@
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.9063021,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "660862b9-5418-4e93-8299-69df816ea041",
@@ -25,7 +26,8 @@
    "score": 0.51487523,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c228cb1-e64b-4c84-b980-7770398f09fc.jpg"
   },
   {
    "id": "ac7f7439-1556-48c5-8b59-ed22fb936de3",
@@ -39,7 +41,8 @@
     "id",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "70687d92-024d-4650-a9d6-4cc86d81a35f.jpg"
   },
   {
    "id": "44d25f3e-b340-4278-9f46-a5f3cf73fafe",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "0e0b7942-56bf-4560-8bf8-6a18712d44d1.jpg"
   },
   {
    "id": "8b614c14-5764-4e1b-a1d3-b1693a20ec47",
@@ -62,7 +66,8 @@
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0bcd6c8b-e4ab-4c24-8d94-f70c35b362e0.jpg"
   },
   {
    "id": "6d654c37-1d6d-45f9-b916-94a53ad3d66b",
@@ -73,18 +78,20 @@
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "799cb2e4-503c-4b79-bf66-53da950f148b.png"
   },
   {
    "id": "7d08653e-ba28-4c67-87ae-d8962d8431bf",
    "title": {
-    "en": "Dokidoki! PreCure - Love☆Kiss Rouge (Doujinshi)"
+    "en": "Dokidoki! PreCure - Love\u2606Kiss Rouge (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7600ed8b-6d75-4640-a7c8-483577b475f7.jpg"
   },
   {
    "id": "ae3f741e-64fd-45f6-bc5c-532895e4dff7",
@@ -95,7 +102,8 @@
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b9f89a60-06cc-45db-9ad8-7868cacc44ee.jpg"
   },
   {
    "id": "9b089d0a-2e27-4140-8b2e-65cef54401b0",
@@ -106,18 +114,20 @@
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9592ade2-0d04-436e-a753-4cc25c3a7264.jpg"
   },
   {
    "id": "fd42a589-7dda-43c8-9f93-caa1c4d1d099",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Melty Kiss (doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Melty Kiss (doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ecc8c9fb-8e3f-4af6-ad08-e10fca83689f.jpg"
   },
   {
    "id": "8a4d7ae9-a4ab-494d-994e-81078f480811",
@@ -128,7 +138,8 @@
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50dade06-156e-406e-844f-881cb3d2e5cf.jpg"
   },
   {
    "id": "92acddc1-8b10-4568-a12c-c72f60523afd",
@@ -139,8 +150,10 @@
    "score": 0.41240168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56366abb-a779-4ad4-a50b-e501425c47f6.png"
   }
  ],
- "updatedAt": "2021-07-18T06:55:06+00:00"
+ "updatedAt": "2021-07-18T06:55:06+00:00",
+ "coverFileName": "3c11a257-8e7f-4dad-9090-91c6345e967e.jpg"
 }

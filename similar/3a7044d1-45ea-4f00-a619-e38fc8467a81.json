@@ -15,7 +15,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "1d385a4b-7835-4d68-962e-d2e31a26b29a.jpg"
   },
   {
    "id": "40129e2b-5197-4767-bea2-f20e7d7133e9",
@@ -27,18 +28,20 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "30358141-429f-477f-9eb3-be93cca0778e.jpg"
   },
   {
    "id": "8d5162ad-25fe-4afd-857b-4167f38ac45e",
    "title": {
-    "en": "Arisa²"
+    "en": "Arisa\u00b2"
    },
    "contentRating": "suggestive",
    "score": 0.43216613,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0befff4b-f971-4460-bf14-e77cb748ec2f.jpg"
   },
   {
    "id": "9fbd32de-29f4-4502-9a72-9e0fa66da455",
@@ -49,19 +52,21 @@
    "score": 0.43073213,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51681cdd-53b2-4942-9edc-8e5df6ca4d5b.jpg"
   },
   {
    "id": "27c7680e-3a80-4e83-a37c-b9b02eb3c777",
    "title": {
-    "en": "Magical Pâtissière Kosaki-chan!!"
+    "en": "Magical P\u00e2tissi\u00e8re Kosaki-chan!!"
    },
    "contentRating": "suggestive",
    "score": 0.42821497,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "accc1162-7891-419c-a778-faaf770e8603.jpg"
   },
   {
    "id": "8774a54d-c72a-42d2-8e8b-15bd28d18b3f",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "40d6d0d2-c280-4a1c-afc9-202241fe3c0e.jpg"
   },
   {
    "id": "ea123d36-668f-4559-b6bd-53e7a91bf638",
@@ -87,7 +93,8 @@
     "ru",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "3bb26f4c-d166-4255-826a-1644fe1b70bb.jpg"
   },
   {
    "id": "ba132c0d-68fa-4a1b-8db4-ff00caeceb55",
@@ -99,7 +106,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "79d9cb78-949c-4016-b3bd-2f0ba729d370.jpg"
   },
   {
    "id": "6ece8b99-f8bc-436c-93f5-ab73d90d9619",
@@ -110,7 +118,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2600d2d2-6b39-4293-ae2c-f6c83d0500f0.jpg"
   },
   {
    "id": "69a7cd43-b204-4aff-8351-1146136c811c",
@@ -121,7 +130,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5b15521-5eb6-4dae-880e-ef35475c1ca5.jpg"
   },
   {
    "id": "513e9915-ecc0-4220-a791-34693a09c69d",
@@ -132,7 +142,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ab60180-02d8-4a9a-89ae-23095e5eecc1.jpg"
   },
   {
    "id": "a08a3109-8f5a-4c25-89ac-a3f339aa780a",
@@ -145,8 +156,10 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f2c6b42c-eba6-42c0-9e72-d76ede05f34c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:22+00:00"
+ "updatedAt": "2021-07-18T06:35:22+00:00",
+ "coverFileName": "888cb324-6f22-4484-aae9-ddc0aea01966.png"
 }

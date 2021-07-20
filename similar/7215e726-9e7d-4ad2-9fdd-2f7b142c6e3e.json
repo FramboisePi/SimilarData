@@ -1,7 +1,7 @@
 {
  "id": "7215e726-9e7d-4ad2-9fdd-2f7b142c6e3e",
  "title": {
-  "en": "Cohabitation with My Fiancée"
+  "en": "Cohabitation with My Fianc\u00e9e"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -17,7 +17,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5d4fdc1c-56da-44ba-b3da-fb4fc22d9de6.jpg"
   },
   {
    "id": "7018f583-e9de-4f28-922d-7571baa42462",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "aa18e23d-096c-4d29-bae4-b0596cc83e04.jpg"
   },
   {
    "id": "9443b54f-ef8d-4645-b114-c8400271e1e0",
@@ -41,7 +43,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "49304cde-e4a2-4d00-a0ee-5fa6e8bdc11c.jpg"
   },
   {
    "id": "8f6c0971-2add-4a63-b238-74c033064502",
@@ -55,7 +58,8 @@
     "pl",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bc0955cb-f9dd-4ef4-b790-b92f06f07991.png"
   },
   {
    "id": "0de39efd-86b2-4738-85ba-95c0ab402a0e",
@@ -67,7 +71,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "68c11127-b5f5-4dcd-b25b-992eccaadf0b.png"
   },
   {
    "id": "220ca040-d44e-43c2-9ff5-87ff1561aac2",
@@ -78,7 +83,8 @@
    "score": 0.37716776,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e161ea6-f4a9-490e-a4b7-070a406a948e.jpg"
   },
   {
    "id": "a9f8d67c-fa3d-43b5-baa6-fe89f05ff4d2",
@@ -91,7 +97,8 @@
     "es",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "bbff37dc-619f-47bc-a915-7c679a90f015.jpg"
   },
   {
    "id": "f880d7fe-358f-4c81-ae0f-7186951606b7",
@@ -102,7 +109,8 @@
    "score": 0.36728877,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8979bec4-8e1a-480e-8d4c-796048a709da.jpg"
   },
   {
    "id": "4280a53c-817d-4d5c-8276-55dfbd9e4a51",
@@ -117,7 +125,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "d389179e-0c65-4d91-b772-7dcc1662310e.jpg"
   },
   {
    "id": "a76efe22-1f2b-450c-a94f-9d9fe06f51b5",
@@ -129,7 +138,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ada69edd-ecaf-439b-be84-491887ae27a9.jpg"
   },
   {
    "id": "18649fc7-410f-4509-9283-2e5d2a4cf2d4",
@@ -142,7 +152,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6e3af228-69f8-45b3-99f3-0f1b28fb79ba.jpg"
   },
   {
    "id": "d0c88e3b-ea64-4e07-9841-c1d2ac982f4a",
@@ -159,8 +170,10 @@
     "fr",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "6a9c54f6-d6c3-4edb-af61-f60311e25a26.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:35+00:00"
+ "updatedAt": "2021-07-18T06:45:35+00:00",
+ "coverFileName": "6bca78bd-9ca5-4e63-ad25-1da705961570.jpg"
 }

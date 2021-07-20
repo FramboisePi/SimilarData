@@ -17,7 +17,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "c1fa899f-bde3-40f3-bc15-d3abe7efab51.jpg"
   },
   {
    "id": "77252074-f9b5-478e-99e9-74c631c69d40",
@@ -30,7 +31,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "8e9a238d-02dd-4a32-a4f4-2aacc56caeee.jpg"
   },
   {
    "id": "babc3f06-f618-487b-be06-c213ea75f489",
@@ -45,7 +47,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "b866ec74-3899-4b13-812a-05cdc80453d0.jpg"
   },
   {
    "id": "cbb22826-963e-4602-a5cd-a50c75723d59",
@@ -60,7 +63,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f26a64b7-169e-4692-b252-4defc74d7b89.jpg"
   },
   {
    "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
@@ -73,7 +77,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f5e8b9e-e8fd-472c-a990-819c2a1f371a.png"
   },
   {
    "id": "f3626de0-f3f5-4b65-957a-a417f8b087df",
@@ -88,7 +93,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6a5af3ee-95a0-4931-a39a-731ac4f8c55a.jpg"
   },
   {
    "id": "9b0532d7-00ba-4cfd-ba3c-b58c881f571f",
@@ -99,7 +105,8 @@
    "score": 0.3942002,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7e67005-418b-40bc-86e1-5989718fcc88.jpg"
   },
   {
    "id": "207bb2c8-78bd-4dd4-9381-4180967081e4",
@@ -110,7 +117,8 @@
    "score": 0.39370504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4710de70-7c84-4530-8ac7-26d66095f7ca.jpg"
   },
   {
    "id": "ebac6feb-1256-4aca-8d6f-9cfde3583843",
@@ -121,7 +129,8 @@
    "score": 0.3924161,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04ca5584-6628-42e4-af8a-be84fe5e105e.jpg"
   },
   {
    "id": "f0fd2156-8ad6-4ba5-9ded-de62f93b2712",
@@ -133,19 +142,21 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9031802d-199a-476e-bd90-2c74143c2268.png"
   },
   {
    "id": "acaf9991-d55c-4d8d-8f26-f98d769f4e32",
    "title": {
-    "en": "Living in This World With Cut \u0026 Paste"
+    "en": "Living in This World With Cut & Paste"
    },
    "contentRating": "safe",
    "score": 0.38918558,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "00aceb2f-faa4-468c-ac6c-94789906963a.jpg"
   },
   {
    "id": "e0589f47-72f9-4e9a-ac31-5b88bcad6220",
@@ -160,8 +171,10 @@
     "ru",
     "id",
     "ar"
-   ]
+   ],
+   "coverFileName": "b372955a-521c-484d-ae36-5af7a24f68e9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:29+00:00"
+ "updatedAt": "2021-07-18T07:01:29+00:00",
+ "coverFileName": "2f6d29d6-bd1d-4076-afd3-852c251bcaeb.jpg"
 }

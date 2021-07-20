@@ -1,7 +1,7 @@
 {
  "id": "e871c190-127e-4a51-bc5e-4fed9fb11fb6",
  "title": {
-  "en": "Engage Princess - Side・By・Side"
+  "en": "Engage Princess - Side\u30fbBy\u30fbSide"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "22062ef8-223b-4f75-a9af-f51e58aba0fb.jpg"
   },
   {
    "id": "f58f2041-ed9b-4fe6-8d7b-bdfdb796f86e",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "87c1a62a-2063-46b2-8590-f4ce8d3fd3f5.jpg"
   },
   {
    "id": "986fff4e-7ed9-4ad8-9b98-69da338c0ed8",
@@ -46,7 +48,8 @@
     "ru",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "11e28d85-06f1-42a2-8cfd-6d8782da8ecd.jpg"
   },
   {
    "id": "4ad6175e-1f27-4abf-a605-6f560a20f899",
@@ -59,7 +62,8 @@
     "it",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "09175d63-288d-41d0-92be-3220af75e5a9.png"
   },
   {
    "id": "c4fbf93f-d35f-4d5c-b1ed-3b4d85d3e0ff",
@@ -72,7 +76,8 @@
     "es",
     "pt",
     "en"
-   ]
+   ],
+   "coverFileName": "961d1063-4bac-408f-b5ba-13c665272380.jpg"
   },
   {
    "id": "e3d88382-a2c4-4958-8311-f8bd9a3f1e21",
@@ -88,7 +93,8 @@
     "pl",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "e7c0ca1b-47ad-474e-aee7-3d8896b80c1c.jpg"
   },
   {
    "id": "8477d4e3-fab7-422b-b6fe-c699ec5f5789",
@@ -100,7 +106,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "22b56ea1-3972-4833-ab6a-49989cb76bcd.jpg"
   },
   {
    "id": "a04b95bf-6609-4a45-bedc-99d560acad6e",
@@ -116,7 +123,8 @@
     "pt-br",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "b6e43165-7480-4200-92b5-7ecbdc32f45a.jpg"
   },
   {
    "id": "10ac3ce4-de88-49c6-b9f9-001a5bf08351",
@@ -129,7 +137,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "0e748c08-6d8f-426c-957f-ec78eb4c8898.jpg"
   },
   {
    "id": "4eec5ae8-4c49-4c28-a5d1-721565151ded",
@@ -141,7 +150,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ced7fda8-d392-4234-8105-e55b0bb3a4d0.jpg"
   },
   {
    "id": "67814e32-ee26-49d8-a7d5-0ee0e38a3b27",
@@ -152,7 +162,8 @@
    "score": 0.29315168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a44b9487-b965-46de-9060-81d3a5ed2fea.jpg"
   },
   {
    "id": "5127bc3e-6b87-4fa2-82eb-fd363cd4c10a",
@@ -164,8 +175,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "814f6d39-caf7-44cb-aec1-fef5c8be5e62.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:30+00:00"
+ "updatedAt": "2021-07-18T07:07:30+00:00",
+ "coverFileName": "a3546079-85c6-41fc-b0bd-5e49ce82dc90.jpg"
 }

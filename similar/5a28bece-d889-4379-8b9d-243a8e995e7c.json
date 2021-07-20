@@ -8,13 +8,14 @@
   {
    "id": "9c94322b-0565-413b-b862-58706cbcd26b",
    "title": {
-    "en": "Trompe-l'œil no Yubisaki"
+    "en": "Trompe-l'\u0153il no Yubisaki"
    },
    "contentRating": "safe",
    "score": 0.55727386,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0da62f3e-3171-421c-8c2a-d87aa6512d42.jpg"
   },
   {
    "id": "ca29b611-0f7b-4450-95c9-1659f0f6f5a0",
@@ -25,7 +26,8 @@
    "score": 0.5250341,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f7c2781a-ffd8-4a9f-9a87-6d631463878a.jpg"
   },
   {
    "id": "9ea2cdaf-aa73-4d50-9f0e-efa65a3d63b7",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "fca5e854-1be3-4f94-b73f-30e344c95b5a.jpg"
   },
   {
    "id": "667f73cc-8e86-4746-a34d-4f0878d5e9d3",
@@ -48,7 +51,8 @@
    "score": 0.49422607,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d960bacc-c538-45ea-acf9-24ac611974cf.jpg"
   },
   {
    "id": "c03af6de-d536-4178-bccc-2f8dfc0c1b22",
@@ -59,7 +63,8 @@
    "score": 0.48420474,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "083a8e4f-7270-4ede-b209-8f44e50db1ea.jpg"
   },
   {
    "id": "7cfc261c-eda1-4e3b-9286-6a02356feabb",
@@ -70,7 +75,8 @@
    "score": 0.47971764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb1128d7-4d77-4376-b554-b466897e95b8.jpg"
   },
   {
    "id": "53c9fb78-c9f5-4226-b0bb-f99822a0bf42",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ed4eea48-8573-4503-82b5-59db4583f529.png"
   },
   {
    "id": "cd4691d9-1ff3-47c7-9746-3d759b8ff177",
@@ -93,7 +100,8 @@
    "score": 0.4747588,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "824a3702-dd9a-4ecc-8df3-45094a9ed711.jpg"
   },
   {
    "id": "4ea3f96e-3ecf-4fdf-911f-8b5856e98523",
@@ -105,7 +113,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a8ab740a-2f3c-4502-9aab-7d8caa4e5502.jpg"
   },
   {
    "id": "e400d6da-493f-49e6-ac91-8f4b41fed518",
@@ -116,7 +125,8 @@
    "score": 0.46721232,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b21b33a5-8516-45ac-80a6-0d593555ecf2.jpg"
   },
   {
    "id": "93d6838a-e6e0-4b4d-adf2-54ee155cb7fa",
@@ -127,7 +137,8 @@
    "score": 0.46711153,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1daea1d6-c1e1-46d2-b494-cc38fd8bf790.jpg"
   },
   {
    "id": "aeec6dde-36e5-40bd-8995-3562f4aef6c6",
@@ -139,8 +150,10 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "acf98fc3-555e-401f-9e9e-fa20d2c915c5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:15+00:00"
+ "updatedAt": "2021-07-18T06:41:15+00:00",
+ "coverFileName": "6a72d332-b5a4-4d37-a83b-42b8437165db.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "4242693e-ea37-4fee-964d-524849f48692",
  "title": {
-  "en": "I’m the Villainess, but the Capture Targets Are Too Abnormal"
+  "en": "I\u2019m the Villainess, but the Capture Targets Are Too Abnormal"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e31a08c9-8a17-4809-8619-056afc5c903a.jpg"
   },
   {
    "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
@@ -27,7 +28,8 @@
    "score": 0.55257434,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6441aea1-b9bf-457d-b84a-ebbcff99f3f0.jpg"
   },
   {
    "id": "29c6fb22-8913-4dc6-aa80-85b9c181c5da",
@@ -41,7 +43,8 @@
     "en",
     "ru",
     "th"
-   ]
+   ],
+   "coverFileName": "e979de3e-f1c2-4ffe-831f-f26b6f7c80aa.jpg"
   },
   {
    "id": "ea7a90b2-88f5-400c-b4ea-f30b0c3af19c",
@@ -53,7 +56,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "ea08ed73-2445-4c07-aea2-91aa6188d595.jpg"
   },
   {
    "id": "fd4f1147-c090-4a28-923e-eb4918f94d5a",
@@ -64,7 +68,8 @@
    "score": 0.51404184,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6460f7cb-8c1b-42cc-8a6b-a285cd9e96a6.jpg"
   },
   {
    "id": "ee2cfd04-6f60-44e0-b5e5-fa2ab3355e9e",
@@ -75,7 +80,8 @@
    "score": 0.51191646,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "08788ad6-4447-4285-8894-c9140987457d.jpg"
   },
   {
    "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "48994da0-9683-41cc-8eeb-440fa140a75a.jpg"
   },
   {
    "id": "71d22175-9ec2-4e06-a937-cd3d07c72a1d",
@@ -99,7 +106,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "1b33518e-b4c4-4a6e-bbf0-d85d74d2aadb.jpg"
   },
   {
    "id": "b64a0204-24fe-4ee1-b5e7-5c737ed05497",
@@ -112,18 +120,20 @@
     "id",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "ea1d0d07-fd34-4d0a-9c45-5f48d2819ba7.jpg"
   },
   {
    "id": "966b23af-d339-4c3e-935b-3c3af1431727",
    "title": {
-    "en": "In an Otome Game World, I’m a Villain?! I Can’t Accept This!"
+    "en": "In an Otome Game World, I\u2019m a Villain?! I Can\u2019t Accept This!"
    },
    "contentRating": "safe",
    "score": 0.49687803,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7af2bc6d-b471-4a6f-b0c5-2554e9c1bfaa.jpg"
   },
   {
    "id": "1857b4ae-4ddf-45db-9296-f74c626a0e4c",
@@ -134,7 +144,8 @@
    "score": 0.49518,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc0f74f0-8b8e-4b17-9d51-8bdcbf00b9f3.jpg"
   },
   {
    "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
@@ -145,8 +156,10 @@
    "score": 0.49235323,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b05efa20-3408-4f72-b0ea-33f0e57d5561.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:48+00:00"
+ "updatedAt": "2021-07-18T06:36:48+00:00",
+ "coverFileName": "52aecff8-98be-4fda-94f5-f1227594fbde.jpg"
 }

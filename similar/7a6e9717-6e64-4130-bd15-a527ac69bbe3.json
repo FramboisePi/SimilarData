@@ -1,7 +1,7 @@
 {
  "id": "7a6e9717-6e64-4130-bd15-a527ac69bbe3",
  "title": {
-  "en": "Chizumi \u0026 Fujiomi"
+  "en": "Chizumi & Fujiomi"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "es-la",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "7b010a15-1596-4b94-a0e6-766dd57b856d.png"
   },
   {
    "id": "4f01cd19-52c1-47cf-b4ea-3a438a4642a1",
@@ -27,7 +28,8 @@
    "score": 0.49154484,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "33d14892-1ecf-4378-ba8b-85cdb074ecd8.jpg"
   },
   {
    "id": "19adf26d-e8f9-490f-b230-e3d2eda4f3f0",
@@ -38,7 +40,8 @@
    "score": 0.48783875,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a7c9acd-d058-4c54-855b-500ec8511b47.jpg"
   },
   {
    "id": "9d8936d0-e746-4f30-936b-be2a36c7bffc",
@@ -50,7 +53,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ae77245c-3f3d-4633-91fd-b60b3822ac99.jpg"
   },
   {
    "id": "55a0de50-8292-4439-ac96-24550de7e163",
@@ -61,7 +65,8 @@
    "score": 0.48260015,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "201d8080-9a1a-42cb-aa42-4fc0e11a3223.jpg"
   },
   {
    "id": "21676a6b-cb66-4351-9177-e27bc6dc381d",
@@ -72,7 +77,8 @@
    "score": 0.481347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2a4839c-e418-4ade-8fb0-e3b83e7dc02c.jpg"
   },
   {
    "id": "646924a3-d7f3-4eb6-b391-6a17387f16a5",
@@ -83,7 +89,8 @@
    "score": 0.4811097,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d61fae3-b011-4833-93c4-118784abde83.jpg"
   },
   {
    "id": "c114df41-8286-4098-adcf-b114b99b50b7",
@@ -94,7 +101,8 @@
    "score": 0.48031363,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e37637a-0b20-413f-8305-1cdce3a80795.jpg"
   },
   {
    "id": "628c364b-4389-41ab-abb9-5b9e4f0238cd",
@@ -105,7 +113,8 @@
    "score": 0.48001677,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "72559b62-26b5-49b2-9a1d-6d1c7f950bbe.jpg"
   },
   {
    "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "bdf46cf8-b12b-4d63-ac88-258a94bbadb2.png"
   },
   {
    "id": "9dbfcbb8-5b99-4222-afac-6da29f380994",
@@ -128,7 +138,8 @@
    "score": 0.47637573,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de69162d-45fd-41df-890d-f607c7f75ee1.jpg"
   },
   {
    "id": "00bda9c9-f057-4e0e-9b3a-875489529a4d",
@@ -140,8 +151,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "0af4905c-6052-413f-a13d-b2f8ed2b6a11.png"
   }
  ],
- "updatedAt": "2021-07-18T06:47:10+00:00"
+ "updatedAt": "2021-07-18T06:47:10+00:00",
+ "coverFileName": "c0adec23-f77c-4213-9a00-f5bb161c787f.jpg"
 }

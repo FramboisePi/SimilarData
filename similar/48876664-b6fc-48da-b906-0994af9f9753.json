@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "600573eb-81c7-4650-a8d6-e647a705cdc0.jpg"
   },
   {
    "id": "5f7c27d0-7012-460e-83a0-020297244490",
@@ -30,7 +31,8 @@
     "tr",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9cb40741-5ccb-48df-9422-3e9ce0215a8f.jpg"
   },
   {
    "id": "9643f5da-c7da-4705-ac5b-4b4a4c7a649e",
@@ -48,7 +50,8 @@
     "fa",
     "pl",
     "ar"
-   ]
+   ],
+   "coverFileName": "f13caa43-e41d-4453-932b-fe51a6ccc8fe.jpg"
   },
   {
    "id": "c196dcc8-d942-4abf-987f-bfa244650585",
@@ -66,7 +69,8 @@
     "hu",
     "ro",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ac8b7b97-dcdc-487a-b511-f0f5a5673db0.jpg"
   },
   {
    "id": "24ce3a31-9e0d-41a1-87e8-b867a8cd8d06",
@@ -77,7 +81,8 @@
    "score": 0.32952404,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2f2ebe2-f61b-4249-9528-28bef5b87006.jpg"
   },
   {
    "id": "3ebaf386-e12e-4b17-9aa0-857a0b99b53b",
@@ -89,7 +94,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ae008a72-43d1-42e7-8bb1-73155185cfd7.jpg"
   },
   {
    "id": "1421a9e8-fbf5-4e64-a72f-dbebdf570a1f",
@@ -100,7 +106,8 @@
    "score": 0.3064432,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c81bb1b-60f0-4be0-92e4-cb67dab35288.jpg"
   },
   {
    "id": "33ee2df9-0085-47e6-8851-14eefcbd255f",
@@ -111,7 +118,8 @@
    "score": 0.29191148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4205dd3f-7f37-4e58-9690-a6b1fd0602fc.jpg"
   },
   {
    "id": "dde2a8bf-e598-4e03-a2d9-060611ffcd94",
@@ -123,7 +131,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "22073853-141c-4b8b-ac20-e0e5a88a50cf.jpg"
   },
   {
    "id": "b7245590-0c41-42db-a41d-176322af6fc4",
@@ -134,12 +143,13 @@
    "score": 0.28416854,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5911cabf-2a2f-42d7-b65f-914ddc8c6970.jpg"
   },
   {
    "id": "255c1715-9a68-4e69-9647-ec833116e3d5",
    "title": {
-    "en": "Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta"
+    "en": "Ore no Genjitsu wa Ren\u2019ai Game?? ka to Omottara Inochigake no Game datta"
    },
    "contentRating": "suggestive",
    "score": 0.28407425,
@@ -150,7 +160,8 @@
     "zh-hk",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "dfb2f49f-d9a3-4cf8-9539-8c84d70a8786.jpg"
   },
   {
    "id": "f7268daa-9d63-4e3b-9d2a-97b85b39d0cd",
@@ -162,8 +173,10 @@
    "languages": [
     "es",
     "it"
-   ]
+   ],
+   "coverFileName": "4f461b46-61b9-437a-bbf3-5e9cad31f860.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:58+00:00"
+ "updatedAt": "2021-07-18T06:37:58+00:00",
+ "coverFileName": "de18fc37-46b9-42df-822c-b46a4b01b9c8.jpg"
 }

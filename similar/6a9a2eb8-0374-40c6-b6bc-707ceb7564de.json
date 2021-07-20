@@ -18,7 +18,8 @@
     "pt-br",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "5f4af171-d0b2-49a1-976b-e844b570d8f1.jpg"
   },
   {
    "id": "b2aab7a6-59be-4270-b942-5d7965ebcb19",
@@ -29,7 +30,8 @@
    "score": 0.38856542,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b991a419-c30f-4722-8bb8-7ec908adc761.png"
   },
   {
    "id": "f92768a8-aab6-4d38-81ea-ebe73629da0d",
@@ -41,7 +43,8 @@
    "languages": [
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "32a803cd-76e1-4522-b7f9-9d177c08d3e9.jpg"
   },
   {
    "id": "4f0b89c0-55f7-4248-a70c-2e2171c0ad1b",
@@ -52,7 +55,8 @@
    "score": 0.37167126,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd569038-5227-4f73-9c9c-44be8112986f.jpg"
   },
   {
    "id": "c9a52848-be81-4bf6-803e-274328380884",
@@ -63,7 +67,8 @@
    "score": 0.37025672,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8effde46-2dc8-4b8c-97cb-55ea7862a2b0.jpg"
   },
   {
    "id": "95876c02-60d4-4c07-bc85-dd0cd329900e",
@@ -74,7 +79,8 @@
    "score": 0.36087894,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d991faa-5401-471c-8dfb-85369be0f48c.jpg"
   },
   {
    "id": "8e13918c-858a-4387-b2b7-2c8f21d3c985",
@@ -85,7 +91,8 @@
    "score": 0.36087894,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e9bda73-7b9b-4871-8ff3-7c6db05c66d8.png"
   },
   {
    "id": "602cb21e-a819-463b-b6c1-d29325e7ee77",
@@ -96,7 +103,8 @@
    "score": 0.3597417,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3dc81b95-6cd9-4f6c-a3d8-3d266469ad71.png"
   },
   {
    "id": "c4d29e36-7cc6-475c-a7ef-3956f517f64f",
@@ -107,18 +115,20 @@
    "score": 0.3597417,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "42ad2f01-159a-4f6f-81c7-cfbb250d2b1b.png"
   },
   {
    "id": "412327cf-fbe3-4d43-b605-264a255ffb50",
    "title": {
-    "en": "The Gentleman’s Armchair"
+    "en": "The Gentleman\u2019s Armchair"
    },
    "contentRating": "safe",
    "score": 0.35162565,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "6db72180-30c1-479e-b1ef-f93261be7a5d.jpg"
   },
   {
    "id": "11ee15f7-36bf-4e43-aa86-9da1461caa07",
@@ -129,7 +139,8 @@
    "score": 0.34798288,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aead1f08-6d70-4132-9ee8-5c742057d283.jpg"
   },
   {
    "id": "fb3397f1-c7d3-43ce-9cb3-80facfad3c65",
@@ -140,8 +151,10 @@
    "score": 0.34474716,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a11c6ee5-20db-44dd-ade9-e0d00ff38728.png"
   }
  ],
- "updatedAt": "2021-07-18T06:44:14+00:00"
+ "updatedAt": "2021-07-18T06:44:14+00:00",
+ "coverFileName": "879582df-bb53-4257-9011-69fb29da375d.jpg"
 }

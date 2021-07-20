@@ -8,13 +8,14 @@
   {
    "id": "be14e82e-3613-43a4-aff1-bba4f94fa0c2",
    "title": {
-    "en": "Pearl \u0026 Weiss"
+    "en": "Pearl & Weiss"
    },
    "contentRating": "safe",
    "score": 0.48781586,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "60ba0e9b-4eb2-46c5-ae93-9c453348c4a7.jpg"
   },
   {
    "id": "f62228b9-135c-47ab-a68f-8125438078b5",
@@ -25,7 +26,8 @@
    "score": 0.4599772,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "017836b0-7cd5-4346-a53b-c0f0dca18b6d.jpg"
   },
   {
    "id": "9743f3f6-b905-4812-9990-c2fe85376fa0",
@@ -36,7 +38,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a197dc86-6105-4bfc-97a5-ab6ae03fd998.jpg"
   },
   {
    "id": "65f6241a-16bc-4914-afcf-a62b0aa3a75f",
@@ -48,19 +51,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "aac6b4ab-e597-40ca-ba9c-033427323c37.jpg"
   },
   {
    "id": "f1311d54-99bc-49ed-b12f-099b9a40c104",
    "title": {
-    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 2-bu 「Hon no Tamenara Miko ni Naru!」"
+    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 2-bu \u300cHon no Tamenara Miko ni Naru!\u300d"
    },
    "contentRating": "safe",
    "score": 0.36104998,
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "d9057ad2-e80a-4687-9aa2-088acdc83fe5.jpg"
   },
   {
    "id": "5cda39a8-8685-4003-9e49-2920c735fa64",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "5a3a2b37-c5f9-4c62-9bfb-b527ecb2f91e.jpg"
   },
   {
    "id": "a1df9243-85fa-4994-b49e-a97ef0345407",
@@ -83,7 +89,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "70feb144-e155-4e41-b103-fe0838795cf5.jpg"
   },
   {
    "id": "5b94a705-8079-472c-a140-06ce1be7fbe0",
@@ -94,7 +101,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6a6ffb01-05c8-4da1-bfcb-b4e41d43e191.jpg"
   },
   {
    "id": "3a7e4daf-0894-4faa-8f8c-2495e7099322",
@@ -105,7 +113,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0f9b7d97-0345-4a80-87c2-3c55399384fa.jpg"
   },
   {
    "id": "6055f96f-73e9-4ee2-a270-a35b7fac0f20",
@@ -116,7 +125,8 @@
    "score": 0.33865952,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "830e1a5a-f988-4138-9a25-d70c4bf8b604.jpg"
   },
   {
    "id": "1574ef80-f563-4974-9c5c-197d8d3738be",
@@ -127,7 +137,8 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "37494971-0861-402f-9245-75885a027e56.jpg"
   },
   {
    "id": "1275ee99-f2d2-43a2-b6e4-bec46f7a37a7",
@@ -138,8 +149,10 @@
    "score": 0.33865952,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "61edf71f-2a63-48c0-b177-5334a68b6f2c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:09+00:00"
+ "updatedAt": "2021-07-18T06:35:09+00:00",
+ "coverFileName": "b96db3ce-d65a-4c3f-94e9-47f9f2b1a226.jpg"
 }

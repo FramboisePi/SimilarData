@@ -1,7 +1,7 @@
 {
  "id": "116faef6-4ab2-41f5-a2e7-79d0beff5e5c",
  "title": {
-  "en": "Girls Day Out - Misaka, Caulifla, \u0026 Mordred"
+  "en": "Girls Day Out - Misaka, Caulifla, & Mordred"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.35194346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "140f354f-f833-4848-a469-b1ce274615ed.jpg"
   },
   {
    "id": "cb7df734-d283-46e7-bdc8-499401cbd3ad",
@@ -27,7 +28,8 @@
     "fr",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "39611c7f-7936-491d-ada7-a058925e89c9.jpg"
   },
   {
    "id": "d4ad9513-115e-477f-b366-d27b440261b2",
@@ -42,7 +44,8 @@
     "pl",
     "ar",
     "es"
-   ]
+   ],
+   "coverFileName": "4c3a856f-f59c-43aa-a8fe-cd83fcad1c85.jpg"
   },
   {
    "id": "3d64d9d3-bd73-4c81-aa27-74d395785f38",
@@ -55,7 +58,8 @@
     "en",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "61083286-9fa4-4483-8f26-d71b09f2424a.jpg"
   },
   {
    "id": "89f4150c-1c23-406c-a76c-a82dd3f55709",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "85722d09-c33d-4d3a-a8fd-165aff1f87da.jpg"
   },
   {
    "id": "24bb6147-9fe5-4078-9775-4a2d3df10c37",
@@ -78,7 +83,8 @@
    "score": 0.31537098,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ab65357-3eb7-4616-8636-af1506b76ae7.jpg"
   },
   {
    "id": "d2450f6b-4cff-4cfb-be1e-02f996dd1be9",
@@ -89,7 +95,8 @@
    "score": 0.30844945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91a41df2-0237-4e33-93d0-e206598f4125.jpg"
   },
   {
    "id": "2ac11d39-1479-4e49-81bc-d7a5ad5829d2",
@@ -102,7 +109,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3e37271b-14bc-47fc-abe0-df3cacc6a01c.jpg"
   },
   {
    "id": "3177ab26-84c3-4209-ae66-2bce15ed1032",
@@ -113,7 +121,8 @@
    "score": 0.30844945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7acc0136-3b77-4e87-889d-ab3a76f6383b.png"
   },
   {
    "id": "54f9b52a-7e8d-45e7-ae1d-e628b08924ea",
@@ -126,7 +135,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5f7a3a4b-c682-4117-a044-ce0e31412f09.jpg"
   },
   {
    "id": "65b4345c-7a41-4634-9f2b-793c6f2f9174",
@@ -137,7 +147,8 @@
    "score": 0.30844945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8ed70ce6-a809-4429-9805-b0463e8821d0.jpg"
   },
   {
    "id": "d91f8813-bd02-4bb7-8c95-3228a56b5875",
@@ -148,8 +159,10 @@
    "score": 0.3020877,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c4906de-af91-44c7-8c5f-993dd72195ae.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:27:43+00:00"
+ "updatedAt": "2021-07-18T06:27:43+00:00",
+ "coverFileName": "7f6cb1c3-45a7-4b15-86e1-cd4a328792db.jpg"
 }

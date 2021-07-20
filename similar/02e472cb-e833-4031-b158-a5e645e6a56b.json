@@ -14,7 +14,8 @@
    "score": 0.4628478,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e885f722-b2bd-460b-a57f-b9883412b103.jpg"
   },
   {
    "id": "84a2945e-0018-4301-9a54-f305971477a9",
@@ -26,7 +27,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "84b80c34-80cb-4c97-acd5-c44f110313a2.jpg"
   },
   {
    "id": "7b568fa0-42d3-4c20-860f-ca202a79728f",
@@ -38,7 +40,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "e1d5f11d-73cf-42df-b0b3-244c818d0ebc.jpg"
   },
   {
    "id": "7fa1731d-552e-45c1-ae58-4c37248d4083",
@@ -49,7 +52,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6a7a427-7ffb-4be8-9ce0-67a685c71232.jpg"
   },
   {
    "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "be018acc-7bc7-48fb-b0f4-6fe6f3336364.jpg"
   },
   {
    "id": "4a90ca8a-5242-430f-990d-99e47258e378",
@@ -73,18 +78,20 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cd79d627-ba70-40b1-a74b-3681d0e794ca.jpg"
   },
   {
    "id": "eca5269e-e40e-43eb-9389-b445ad7660ad",
    "title": {
-    "en": "Kamishiro  Sōsa"
+    "en": "Kamishiro  S\u014dsa"
    },
    "contentRating": "safe",
    "score": 0.44369724,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "37f8506c-5644-4ce0-a9f6-d4e3d73dfd07.png"
   },
   {
    "id": "359441d4-63f7-426c-b914-c636578ddcb0",
@@ -96,7 +103,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "6ee0afdd-a2b5-445b-9d29-8df7e560b42f.jpg"
   },
   {
    "id": "ab0421f3-a97b-4d76-8dbe-3bb4c294ef6f",
@@ -107,7 +115,8 @@
    "score": 0.403159,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d02fd4a9-ce17-47ab-ae78-cf19e959f019.png"
   },
   {
    "id": "f0379ab7-1fba-46a4-b4e1-f7781d45095d",
@@ -118,7 +127,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e81f95a-b95d-4a2b-a068-19c76b0bae86.jpg"
   },
   {
    "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
@@ -130,7 +140,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0997d780-cc09-4dc4-a83e-a01afed7ce63.jpg"
   },
   {
    "id": "a818a6ec-672c-40cf-b949-a6e1a29b68d9",
@@ -143,8 +154,10 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c9dfcfab-1b35-49a0-96e3-06eaec5e7888.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:00+00:00"
+ "updatedAt": "2021-07-18T06:25:00+00:00",
+ "coverFileName": "aa6c8567-59d4-444e-8ea2-289817300836.jpg"
 }

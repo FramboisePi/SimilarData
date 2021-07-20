@@ -1,7 +1,7 @@
 {
  "id": "294c6b83-954a-4b9c-9e20-14152b347f8f",
  "title": {
-  "en": "Pokémon Let's Go! Pikachu \u0026 Let's Go! Eevee: Adventure Start Comic"
+  "en": "Pok\u00e9mon Let's Go! Pikachu & Let's Go! Eevee: Adventure Start Comic"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.6006953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ac9a7ac-7b7d-4922-8817-bf8bcfbdd0dc.jpg"
   },
   {
    "id": "9216a467-b6c0-40e1-9e39-877b3c7b0f1c",
    "title": {
-    "en": "Pokémon Gotta Catch 'Em All"
+    "en": "Pok\u00e9mon Gotta Catch 'Em All"
    },
    "contentRating": "safe",
    "score": 0.59484494,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "912442d6-dc33-48a0-bc7b-11da571757e6.jpg"
   },
   {
    "id": "73d3866a-71f6-4d77-b7b9-afdca8caac41",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "b0f918ed-88cf-4919-bad8-6c2b28982fcf.jpg"
   },
   {
    "id": "06a61440-6cb4-412f-93f2-5a4b96b86216",
@@ -48,18 +51,20 @@
    "score": 0.575143,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2256e05d-452f-485c-bdaf-7590719daa6a.jpg"
   },
   {
    "id": "33c4f4da-2106-4254-a36f-e2432116d29f",
    "title": {
-    "en": "Pokémon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
+    "en": "Pok\u00e9mon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.5717407,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "650e8f25-e06f-49d6-8467-d6ff9c5c41da.jpg"
   },
   {
    "id": "2f6abdb5-5743-44e1-af11-dd8d52e24191",
@@ -74,7 +79,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "16e1fe25-3f9f-494d-8f8b-2b058ac2c954.jpg"
   },
   {
    "id": "53888029-ec7a-4f37-9b1d-a9a08353e4c5",
@@ -85,7 +91,8 @@
    "score": 0.55879045,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97bac434-7fb2-4886-9a0b-c0380d726f1f.jpg"
   },
   {
    "id": "275e0ab8-d7e4-44f6-aa8a-0ef8fe98999f",
@@ -104,7 +111,8 @@
     "pl",
     "ar",
     "id"
-   ]
+   ],
+   "coverFileName": "eb97ca4a-ba8d-47f3-8e47-c448518bfe6c.jpg"
   },
   {
    "id": "88510172-1e4c-4273-8f07-8503224f505c",
@@ -116,7 +124,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "90f74b92-dfb6-4c80-aa10-bc681ab75022.jpg"
   },
   {
    "id": "80c4c4bc-be9c-400a-8cc0-57b1d0b8a87f",
@@ -134,7 +143,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "3ee8115d-1764-43c5-9e9e-91e448cdec01.jpg"
   },
   {
    "id": "5a364816-69c9-45d5-8bd3-80562099294c",
@@ -145,7 +155,8 @@
    "score": 0.5495204,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "03f6b2ba-3b6d-4292-a0c7-626cfadf44f1.jpg"
   },
   {
    "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
@@ -159,8 +170,10 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f41c366a-bbd8-4a38-9b19-85f9d896e116.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:11+00:00"
+ "updatedAt": "2021-07-18T06:32:11+00:00",
+ "coverFileName": "f0ba8fb2-1cee-443f-8dae-2db5d86f37fb.jpg"
 }

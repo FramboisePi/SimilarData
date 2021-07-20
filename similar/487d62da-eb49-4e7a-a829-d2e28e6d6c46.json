@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ja"
-   ]
+   ],
+   "coverFileName": "f98af5e0-af2b-40aa-a980-22a82aacdc67.png"
   },
   {
    "id": "ed969584-fb83-46dd-8e1d-76375f0c1512",
@@ -26,19 +27,21 @@
    "score": 0.3852425,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "735f5f95-3b28-47ab-901a-e2ad332460f6.jpg"
   },
   {
    "id": "537818a6-928d-46e7-a53a-fe0889497d30",
    "title": {
-    "en": "Cat \u0026 Me"
+    "en": "Cat & Me"
    },
    "contentRating": "safe",
    "score": 0.375,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "0ef1cb38-2717-4742-8650-a2948ee1c2a9.jpg"
   },
   {
    "id": "9c64299a-5aa8-4da1-8cc0-7aa69f049709",
@@ -49,7 +52,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90bb784e-4b53-4332-be2d-8723b3f342c4.jpg"
   },
   {
    "id": "74034ef4-638e-4b3e-bb72-35c51266399f",
@@ -60,7 +64,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a541288a-daeb-4df5-ac9f-f9260f740a2d.jpg"
   },
   {
    "id": "b3a4fc4f-61fd-448f-b9a6-8c9db7633c2f",
@@ -71,7 +76,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe6b8169-56f4-4795-9c47-828ec21d4904.jpg"
   },
   {
    "id": "0eb9f7a8-e4cc-40cf-bb4d-7b4448b5647a",
@@ -82,7 +88,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "689a015b-3e53-4dd5-a50c-7fe4faa89e87.jpg"
   },
   {
    "id": "944f8f69-9a9c-4678-9e0d-c8202de70cb3",
@@ -95,18 +102,20 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d28ed404-6455-44c1-b7b8-cd2ff161c99f.jpg"
   },
   {
    "id": "22454c95-5bd1-4167-a63e-5e1bb07bfc3b",
    "title": {
-    "en": "Petite Pêche!"
+    "en": "Petite P\u00eache!"
    },
    "contentRating": "safe",
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4755299c-84c9-48eb-9518-38c7936fd63c.jpg"
   },
   {
    "id": "73863977-abb1-4ae7-91e8-b3c16d44e15c",
@@ -117,7 +126,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdf81f61-ba16-46a3-9742-e7caee0e1858.jpg"
   },
   {
    "id": "e46f418c-bed5-477b-8fc1-75f9b0f9063e",
@@ -128,7 +138,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22d5a7ac-8878-4fcc-b89b-e86e71b75909.jpg"
   },
   {
    "id": "5409c5b4-353b-41b7-bd06-3220e844d0ac",
@@ -139,8 +150,10 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "799ca24e-e056-4628-bbde-1b5282a05c7b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:58+00:00"
+ "updatedAt": "2021-07-18T06:37:58+00:00",
+ "coverFileName": "b19c6ffe-0d60-4b89-94c0-13b00b57e273.jpg"
 }

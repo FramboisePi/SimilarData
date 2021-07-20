@@ -1,7 +1,7 @@
 {
  "id": "4fc3ea38-90ff-4ec6-9420-29e9a56d579b",
  "title": {
-  "en": "Bokura no Love Live Y\u0026A (Doujinshi)"
+  "en": "Bokura no Love Live Y&A (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.31070292,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ea222df0-ce02-4f19-957b-4e64bb8f53f4.png"
   },
   {
    "id": "ccd10c9b-1aad-437f-a888-d76d64525e67",
@@ -26,7 +27,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f28d7e71-69ad-4dc2-827a-477ec513eabf.jpg"
   },
   {
    "id": "01a34e62-a4ef-4ca9-af94-05203367e00a",
@@ -42,7 +44,8 @@
     "hu",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5677ab0c-dc7e-4e73-845d-3c2f085903c3.jpg"
   },
   {
    "id": "5ae7bf19-50a2-407b-9de0-442ed249fc3c",
@@ -55,7 +58,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "88b62480-b8bc-4136-b0b2-ac773a0033e6.png"
   },
   {
    "id": "2094db2d-b67b-4d21-9b2d-1adc734ebdb2",
@@ -68,7 +72,8 @@
     "pt-br",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "ab6757e2-ec83-4276-86ae-3e84cdf81539.jpg"
   },
   {
    "id": "0375994e-445d-4c7c-aa05-888996ad11a7",
@@ -85,7 +90,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a465f1dd-d83d-4f30-8801-8c852451e835.jpg"
   },
   {
    "id": "c8b83bc9-523c-4d23-9ed5-a88e410cc4be",
@@ -99,19 +105,21 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "aa5f9584-348c-41de-86db-bd46ce4b6943.jpg"
   },
   {
    "id": "e66b7390-a7f1-40df-8ed9-b7eb46b0a634",
    "title": {
-    "en": "Hirunaka Shikkaku \u0026 Heroine no Ryuusei"
+    "en": "Hirunaka Shikkaku & Heroine no Ryuusei"
    },
    "contentRating": "safe",
    "score": 0.23544206,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "77abcdc9-0e14-449e-a8ec-f666effb32b7.jpg"
   },
   {
    "id": "ce70a17d-5374-4d23-ab35-7398c4cc1023",
@@ -126,7 +134,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "9d7daa36-ff1d-42e7-81b0-d54865cb8256.jpg"
   },
   {
    "id": "527a2da3-7248-4a4d-b14d-791970e00a61",
@@ -140,7 +149,8 @@
     "en",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0d3fc3b0-4f7c-44ba-bfb5-3ce248f2160c.jpg"
   },
   {
    "id": "050333a3-2c1c-4b74-8b8a-628b20ccd76a",
@@ -153,7 +163,8 @@
     "it",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a5b08b48-03ef-4926-a43f-46d33f7f1373.png"
   },
   {
    "id": "1bb5448d-fb00-4346-8b38-b9d739d40e1b",
@@ -169,8 +180,10 @@
     "pt-br",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "8defc81d-659b-4c38-9c39-7c8089e0c7fc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:18+00:00"
+ "updatedAt": "2021-07-18T06:39:18+00:00",
+ "coverFileName": "f93684cd-0c42-4520-95be-40008d8870ac.jpg"
 }

@@ -16,7 +16,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a9f33304-a5a9-4db0-9dbd-d17b0ab2468b.jpg"
   },
   {
    "id": "6b9cab16-38c5-4d59-8d65-3cdbd7569cc2",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c3215229-19c2-47bd-b72b-2bf3c613ddc3.jpg"
   },
   {
    "id": "9c262de3-72a9-46bb-96f2-8f9383a5ce66",
@@ -41,7 +43,8 @@
     "es-la",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "935c29bb-1339-4ad0-8a03-755f24f5935e.jpg"
   },
   {
    "id": "71bd5497-ddba-4edb-9f94-13cdd1b74b46",
@@ -52,7 +55,8 @@
    "score": 0.44735804,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1aaeb571-e677-4fea-8d75-406c0df460b4.jpg"
   },
   {
    "id": "9878f5dd-a009-491d-83f0-64047a9f9379",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0c519d92-5323-4e70-a634-f9ed61a53ed8.jpg"
   },
   {
    "id": "a73400ca-6c53-4558-bf5d-4c5d7c53ece9",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9d45f223-c456-4fe8-aaac-1f2ee0eef2f8.jpg"
   },
   {
    "id": "fe453f20-0f14-4571-a763-c9fc2c950ea8",
@@ -88,18 +94,20 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "208bcc75-4154-474d-b41f-e446f4d7ab52.jpg"
   },
   {
    "id": "cf6a6afe-c79a-424c-97ac-aabb0e9562ec",
    "title": {
-    "en": "Seikimatsu★Darling"
+    "en": "Seikimatsu\u2605Darling"
    },
    "contentRating": "safe",
    "score": 0.43389142,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0e03b9c-5bd0-484b-9ca3-27d67c3a6468.jpg"
   },
   {
    "id": "e50022a5-b0b2-4019-8908-7579f60b3ec9",
@@ -111,7 +119,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "140d5d9c-dad2-46d5-abc4-24baceb05068.png"
   },
   {
    "id": "d21799ee-ef4f-4164-8f0d-54824e618ad1",
@@ -122,7 +131,8 @@
    "score": 0.42724833,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3dbbb3ed-9e7c-47d6-ac6b-eb59fd8dcd54.png"
   },
   {
    "id": "854e8db1-0815-47a1-9169-471d676a2fd8",
@@ -133,7 +143,8 @@
    "score": 0.4226695,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3d6417b-9a04-4322-8201-5240110124a0.jpg"
   },
   {
    "id": "dc90853b-a3e6-4d5b-8b47-1fa15aa15923",
@@ -152,8 +163,10 @@
     "hu",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "457d51ae-42c4-4bdc-b251-e10789cb8ebd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:37+00:00"
+ "updatedAt": "2021-07-18T07:10:37+00:00",
+ "coverFileName": "31b0bc23-65ef-4224-8647-709e2a5a7d39.jpg"
 }

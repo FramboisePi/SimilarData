@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "699319a2-d4b7-4680-ac60-8a52095952cc.png"
   },
   {
    "id": "2f94489d-8138-4f96-a0b4-d133df4f0266",
@@ -26,7 +27,8 @@
    "score": 0.49234277,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8bbfa45a-6fb7-486c-9db3-0b86141a2f91.jpg"
   },
   {
    "id": "ad99c5ae-e5cc-46f0-a2c3-5efc42860df5",
@@ -37,7 +39,8 @@
    "score": 0.4909224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0a224515-6d8d-451b-af17-30698d2681bf.jpg"
   },
   {
    "id": "dc0e12f9-f2b1-4c55-ad60-1f3f1bb54638",
@@ -48,7 +51,8 @@
    "score": 0.4897294,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3814d056-9f65-46bd-a86b-82a8dc73c733.png"
   },
   {
    "id": "cf59659a-d30d-4c4b-8d72-ce42ecab2d10",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ff72377c-13ff-40d9-be06-79f93a6b2c10.jpg"
   },
   {
    "id": "075d87cd-6af8-42e4-8107-c381c3587c4f",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "efd91f35-2359-4902-88af-a8f0a49a62f4.png"
   },
   {
    "id": "566eecbc-9ac0-43f1-ae86-84e0fb1065e3",
@@ -84,7 +90,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b40414fe-cb58-4589-b2ac-e6a9a8ce7db2.jpg"
   },
   {
    "id": "ea937946-1f62-4e57-9c26-cec1ee6d2303",
@@ -95,7 +102,8 @@
    "score": 0.47447717,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c6eb6e25-47c8-4e97-89e7-9be38ffc9026.jpg"
   },
   {
    "id": "845a5d9b-aded-4ba9-8ada-c4baefc3783f",
@@ -107,7 +115,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2b473a32-b36c-4046-af2c-825692155445.png"
   },
   {
    "id": "df81e349-6c9c-4b0d-87e1-d20ea6fa03ca",
@@ -118,18 +127,20 @@
    "score": 0.4711821,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "943d7bbb-903d-4a0f-8e14-4c613fa033e9.jpg"
   },
   {
    "id": "a23ddf40-8190-4bd1-9765-28053143f01a",
    "title": {
-    "en": "37ºC no Boyfriend"
+    "en": "37\u00baC no Boyfriend"
    },
    "contentRating": "safe",
    "score": 0.47113767,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0284a080-b2d0-4fd9-96d5-f882bd66df61.jpg"
   },
   {
    "id": "2d77dc0f-749b-4167-a4ab-44e08b11dfdc",
@@ -140,8 +151,10 @@
    "score": 0.4708181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "476a2277-a3f2-4563-9944-7c47e3684780.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:12+00:00"
+ "updatedAt": "2021-07-18T06:48:12+00:00",
+ "coverFileName": "11b9a72a-78a0-4938-9395-30ba2d18b1d1.jpg"
 }

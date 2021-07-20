@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "63eb22e3-b255-4fec-91b0-87c35eae3de2.jpg"
   },
   {
    "id": "8b5c31a3-9ca8-4284-ac7f-6ed30cd3e504",
@@ -26,7 +27,8 @@
    "score": 0.4748906,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a65002ac-0a4d-440d-9363-d76644f7c10a.jpg"
   },
   {
    "id": "078309e3-40cc-4584-822e-ad4577336d58",
@@ -40,7 +42,8 @@
     "es",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "446fa579-4fc1-4f20-9117-8cbcec159edd.jpg"
   },
   {
    "id": "381f7cdf-8eae-4b2c-a8ca-f4298407b6c2",
@@ -54,7 +57,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "c1fa899f-bde3-40f3-bc15-d3abe7efab51.jpg"
   },
   {
    "id": "2ffebd60-0b19-4719-bb79-c47b82ac2234",
@@ -66,7 +70,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "db6f5dc9-4798-43b6-b2c4-1906065b93cd.jpg"
   },
   {
    "id": "879af0bb-ce30-47e4-a74e-cd1ce874c6e3",
@@ -81,7 +86,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dc84f01d-6029-4cd4-893e-cd90de57947c.jpg"
   },
   {
    "id": "6e116b4b-2c53-4a4d-b6c3-7bc33e332ace",
@@ -92,7 +98,8 @@
    "score": 0.43305945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0ca9eb8-c011-411e-a9d0-65541a2f532a.jpg"
   },
   {
    "id": "b6f8c7b9-eeae-4698-a0e7-05474f56b644",
@@ -105,7 +112,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "9f438647-e8b2-4c26-8f45-e1e6dcf7971e.png"
   },
   {
    "id": "c1f01fe5-e033-4c10-b276-792ed6d4bd4f",
@@ -117,12 +125,13 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "29c1f4e0-1e15-41a0-8844-b94898e0992e.jpg"
   },
   {
    "id": "5353e8c5-8a6c-402a-895b-0d09feec17d4",
    "title": {
-    "en": "The Savior's Book Café in Another World"
+    "en": "The Savior's Book Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.41424075,
@@ -131,7 +140,8 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "36d955f3-56fb-4a77-9d26-eff42d3dffbd.jpg"
   },
   {
    "id": "ba210374-7967-4c3e-972d-891a530c992a",
@@ -143,7 +153,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "f7bd1566-5b2e-4ffa-8895-ee61884cda98",
@@ -155,8 +166,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e85371ed-2aec-4edc-a8ab-942aa0533e16.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:58+00:00"
+ "updatedAt": "2021-07-18T06:57:58+00:00",
+ "coverFileName": "a5a4300c-37bd-43bc-a4fc-9112b8ca040a.jpg"
 }

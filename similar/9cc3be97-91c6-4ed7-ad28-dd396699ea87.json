@@ -1,7 +1,7 @@
 {
  "id": "9cc3be97-91c6-4ed7-ad28-dd396699ea87",
  "title": {
-  "en": "Gotoubun no Hanayome β"
+  "en": "Gotoubun no Hanayome \u03b2"
  },
  "contentRating": "safe",
  "matches": [
@@ -22,7 +22,8 @@
     "ru",
     "ja",
     "vi"
-   ]
+   ],
+   "coverFileName": "45d4b6b5-987c-4c92-bd91-0583b5ba4bb9.jpg"
   },
   {
    "id": "a2febd3e-6252-46eb-bd63-01d51deaaec5",
@@ -41,7 +42,8 @@
     "tr",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "11ff28d4-e6bb-4cbc-bdc8-3bccaf8302a7.jpg"
   },
   {
    "id": "7f838468-a490-4834-8ef3-812b70f45d94",
@@ -53,7 +55,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e3e816e9-e49e-40ab-a0e6-1182e3cff9e4.jpg"
   },
   {
    "id": "bdcf8861-f24b-44a8-b875-3c66793d3d9d",
@@ -65,7 +68,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "4de398bb-cbb4-4f9b-85e2-57d9831de0a4.jpg"
   },
   {
    "id": "e9578783-583c-4b11-8dfa-ea8bf4573223",
@@ -76,7 +80,8 @@
    "score": 0.3879829,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91b2a436-234b-4cea-8cfd-eade82f0f522.jpg"
   },
   {
    "id": "e160ac51-9f63-45f3-b029-97c3e29a4bbb",
@@ -87,7 +92,8 @@
    "score": 0.38533553,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "820cb2d4-8b55-4a59-acc2-5339b8fdde47.jpg"
   },
   {
    "id": "50de54db-2c69-4953-96f9-30b038001ac3",
@@ -98,7 +104,8 @@
    "score": 0.3827939,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6255ef0-92d8-4a90-9d02-30159110c080.jpg"
   },
   {
    "id": "a260e723-dcf2-4288-896e-4eb8bef07782",
@@ -109,7 +116,8 @@
    "score": 0.37018892,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18da74dd-5795-4eff-bbb0-cb8991ef520b.jpg"
   },
   {
    "id": "494b83d3-f3c9-4fa2-8df2-43e9017efc5c",
@@ -121,7 +129,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4f2e884a-6bb0-482a-aace-c6697aafe7b2.jpg"
   },
   {
    "id": "3d2dbb1a-2315-4fc3-a0f9-a266abb651db",
@@ -132,7 +141,8 @@
    "score": 0.368839,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eead3f6b-1452-4875-a618-4359bd070828.png"
   },
   {
    "id": "22cb2b53-756f-4eae-80e8-e99440bfc348",
@@ -143,7 +153,8 @@
    "score": 0.36797488,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b8cb4dc-a119-4358-935a-bfb06faee295.jpg"
   },
   {
    "id": "3df57d9e-bf88-4af9-bee3-b94e2462b8ce",
@@ -155,8 +166,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "320bcdd6-691b-42ac-a4b5-c4b2a9a3465c.png"
   }
  ],
- "updatedAt": "2021-07-18T06:53:39+00:00"
+ "updatedAt": "2021-07-18T06:53:39+00:00",
+ "coverFileName": "10d8610c-1564-430d-b71e-e6e5b28f9b36.jpg"
 }

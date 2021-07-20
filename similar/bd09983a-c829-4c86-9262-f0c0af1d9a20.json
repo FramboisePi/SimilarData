@@ -18,7 +18,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "b5d799dc-7cfe-4710-b601-2cc872c7050c.png"
   },
   {
    "id": "31b082b0-6108-4c67-af5d-b2e51f1f51fd",
@@ -31,7 +32,8 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "a8a29f8c-e123-4cbd-9220-9eceda9bad0b.jpg"
   },
   {
    "id": "5b05ada1-8fcb-45e5-8d0a-6fc8d9bb7e1e",
@@ -44,7 +46,8 @@
     "en",
     "hu",
     "pl"
-   ]
+   ],
+   "coverFileName": "e4eb9d41-9838-43d0-b0a4-576ffc25c038.jpg"
   },
   {
    "id": "12e8b758-770c-4469-88a3-e54cde2d72ed",
@@ -55,7 +58,8 @@
    "score": 0.47308043,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6f0a640-dd3d-42c5-8e18-705de9431a7b.jpg"
   },
   {
    "id": "ef2750ca-c3ce-464c-a73b-8d6a928c6ddb",
@@ -66,7 +70,8 @@
    "score": 0.47144756,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c9624e2-8b5f-4b27-bcfa-2dc470af2519.jpg"
   },
   {
    "id": "fbe52343-79b8-4d74-8315-25bf04567ae6",
@@ -80,18 +85,20 @@
     "hu",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "8b1ab611-49c1-4cd7-b1dd-90333d5ff289.jpg"
   },
   {
    "id": "e5898917-cc9a-4337-a83e-1cf788a96314",
    "title": {
-    "en": "Kaeru no★Prince-sama"
+    "en": "Kaeru no\u2605Prince-sama"
    },
    "contentRating": "safe",
    "score": 0.46663642,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dac67552-a0a6-4458-871e-595c8041eca5.jpg"
   },
   {
    "id": "24c92129-53de-431a-bfe8-eb819094c116",
@@ -103,7 +110,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "244c359f-f01f-4eca-acbd-6399f0dc27ed.jpg"
   },
   {
    "id": "6d30d885-5eb0-4c11-b001-51a902be0d13",
@@ -114,7 +122,8 @@
    "score": 0.46445298,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e498354-9e77-4e5a-83db-11c558bf0465.jpg"
   },
   {
    "id": "498115d0-b32c-4c6d-8546-143d2f4883aa",
@@ -127,7 +136,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "35c4f484-b909-413a-826a-fce86a2c1302.jpg"
   },
   {
    "id": "1ba2acfb-3f10-46f4-acef-eebd652d7eda",
@@ -138,7 +148,8 @@
    "score": 0.46182057,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b7f979a-2b2a-4ac3-8cc0-36aa4b67b3e8.jpg"
   },
   {
    "id": "1935feed-5d8f-476e-a875-16b5c13a4b20",
@@ -149,8 +160,10 @@
    "score": 0.4617325,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98c922c9-a7a4-4366-be3a-dcf01ee7b58c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:34+00:00"
+ "updatedAt": "2021-07-18T06:59:34+00:00",
+ "coverFileName": "4278a8f5-4f44-4ba4-8b32-808cbee6f63a.jpg"
 }

@@ -8,13 +8,14 @@
   {
    "id": "5715958f-4f5d-49c2-b563-8bccc34c5979",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Beginning"
+    "en": "Tiger & Bunny - The Beginning"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18dfd05f-97ac-431c-bc79-64be8905a609.png"
   },
   {
    "id": "558c2122-7342-4649-85e9-a866727bb2e8",
@@ -30,7 +31,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cbe549cf-e55d-4330-9b14-2f1f21974cdb.jpg"
   },
   {
    "id": "9d2387cb-9bba-472b-84b7-a7b97dac277d",
@@ -43,12 +45,13 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ae7682d8-2c1d-4819-a1f8-bf4e0a3703f1.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.3776251,
@@ -61,7 +64,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "e8b3afad-96d5-48d0-9be4-5760d4672c45",
@@ -72,7 +76,8 @@
    "score": 0.3772708,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b5d166f-e8ab-4dd8-952e-7d9de1d921aa.jpg"
   },
   {
    "id": "92bdc011-ba50-47c1-a917-733c21c07273",
@@ -86,7 +91,8 @@
     "en",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "7b9bbb63-4b7d-4144-ac56-44323d156fa6.jpg"
   },
   {
    "id": "693e3f32-165b-4697-8ea0-64d9396b29ac",
@@ -98,7 +104,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "5c1929f4-e315-4872-a309-aaec11f5008b.jpg"
   },
   {
    "id": "54e260dc-5519-41c3-853c-d5f2a252b10f",
@@ -109,7 +116,8 @@
    "score": 0.3740324,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0c0bb0f-f27a-4ab3-b6ef-c5ab39b00ac7.jpg"
   },
   {
    "id": "48680ee2-afd4-4e73-9d20-c108900a4b3b",
@@ -121,7 +129,8 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "c51fac06-7b65-4344-97d2-dfc61c7018a2.jpg"
   },
   {
    "id": "e8a758da-6eea-4493-83b5-a283f29bdc3d",
@@ -132,7 +141,8 @@
    "score": 0.3615582,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8028e8b6-7747-4c16-ad7b-637533ab3cc6.jpg"
   },
   {
    "id": "84568957-a4ff-4419-8bf6-35b08590b2eb",
@@ -146,7 +156,8 @@
     "fr",
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "e13b2f50-f147-4cf7-9f3b-7eeacb7be3a0.jpg"
   },
   {
    "id": "27c6636a-2618-49f5-959c-40fc47b381cf",
@@ -158,8 +169,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7b186653-cbb0-41e7-b022-b80e9aae89c1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:23+00:00"
+ "updatedAt": "2021-07-18T07:07:23+00:00",
+ "coverFileName": "302f30fc-ff37-46a7-8b90-4b9e2dad94f7.jpg"
 }

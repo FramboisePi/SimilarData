@@ -8,13 +8,14 @@
   {
    "id": "28d370f1-05a0-4a50-9150-71e19438572c",
    "title": {
-    "en": "YuruYuri \u0026 Fate/Zero - Yuru/Zero (Doujinshi)"
+    "en": "YuruYuri & Fate/Zero - Yuru/Zero (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.5450374,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0a1dbef2-e232-4c82-805b-5984b8539294.jpg"
   },
   {
    "id": "0ab72ab7-7efc-4082-8a7d-533d22c39902",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c7ddd149-71ad-4f11-b486-c95c99800f31.jpg"
   },
   {
    "id": "9e6a9200-4349-4ff7-835b-211e80108527",
@@ -38,7 +40,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "7b409fb8-ccab-4417-b829-5ae8c32b0e21.jpg"
   },
   {
    "id": "a2025ef3-e6a8-4ada-ae81-52d17ecd48bd",
@@ -50,7 +53,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "16531912-de85-44cd-9730-be43b5ae5475.jpg"
   },
   {
    "id": "c0ffc3e0-4c80-4cf7-9c2f-befb427e8cb1",
@@ -61,7 +65,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c42a8a26-d83a-48d0-a527-f93253f3328c.jpg"
   },
   {
    "id": "3aee3a06-f12f-4efc-b9c1-379ce81de924",
@@ -72,7 +77,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "66ba29df-9914-4801-b69c-75f14c05bb31.jpg"
   },
   {
    "id": "cec763b5-a2aa-45ea-89c3-ffd764269ccd",
@@ -83,7 +89,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f723cf98-49b7-43e8-8927-eaca25a92bc9.jpg"
   },
   {
    "id": "afce9dbe-9d62-486f-b76d-0fe5e7bcf015",
@@ -95,7 +102,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "646b1e8f-9119-4236-8d06-0f272892ba35.jpg"
   },
   {
    "id": "3ba794a0-0243-47ae-950f-88a19a62bafa",
@@ -106,7 +114,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47269564-1083-4be1-9722-a29842f9aa98.jpg"
   },
   {
    "id": "a4a87c3d-8dfc-4934-b616-4b63d6200bfd",
@@ -119,7 +128,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "de0bd09d-2658-4e34-9e5a-89afe325ea59.jpg"
   },
   {
    "id": "fb942da2-79e8-488f-9976-8bb9efa9d405",
@@ -130,7 +140,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8da0f78a-3d12-4c00-9b77-4c96084944c8.jpg"
   },
   {
    "id": "43f9400d-c645-473e-a6ea-67819b85ba93",
@@ -141,8 +152,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd88048e-954d-4515-bc01-dffc273609e1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:23+00:00"
+ "updatedAt": "2021-07-18T07:00:23+00:00",
+ "coverFileName": "ae54577a-d64e-460a-b35d-dbfd4c45c70c.jpg"
 }

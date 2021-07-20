@@ -14,7 +14,8 @@
    "score": 0.3816534,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8ffa73cd-60cc-4e5b-ad42-b2442ca39a90.png"
   },
   {
    "id": "e49bf90e-f49f-4c16-819f-0c89d8311777",
@@ -25,7 +26,8 @@
    "score": 0.37954688,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29dd9162-5d5e-4234-ac06-41e9ad41a647.jpg"
   },
   {
    "id": "cb355cd5-8c5b-45ba-bd13-76048f7a4295",
@@ -36,7 +38,8 @@
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55ef5fa7-f69d-447a-b0a8-1302f01157aa.jpg"
   },
   {
    "id": "e34c631b-e473-4a6c-b047-ff050d901826",
@@ -47,7 +50,8 @@
    "score": 0.35662776,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7b58193-a2a0-4dc5-999a-8b469acc5dae.png"
   },
   {
    "id": "4807a7aa-efeb-447e-9a94-068054fd7b7d",
@@ -61,7 +65,8 @@
     "pl",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "29d19ace-2843-4554-918e-8f12d9cf0aa3.jpg"
   },
   {
    "id": "78df8df7-0886-4d37-8da6-ef4fa0877d8a",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "002522f6-ae26-4f9f-b544-f20fc8a53bd6.jpg"
   },
   {
    "id": "c3273c2b-4e5d-4261-b001-a99f622b82ea",
@@ -87,7 +93,8 @@
     "id",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6e7066bb-d52a-4400-b531-7e698efe4251.jpg"
   },
   {
    "id": "08b161a1-38b2-4fe5-9f80-04cc64fd23b0",
@@ -98,7 +105,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "78a62653-25ab-4c99-ba57-5fe85a194aff.jpg"
   },
   {
    "id": "685db91e-a8ab-4de3-9738-9d3f883bd179",
@@ -115,7 +123,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "52be2667-7211-4252-9c1c-a61f4683ce9a.jpg"
   },
   {
    "id": "5608c5db-4c97-4a40-9635-12f6b29b4109",
@@ -130,19 +139,21 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a9e85a5a-9f66-4862-9a31-f3a9fc9ba456.jpg"
   },
   {
    "id": "032c989c-1051-4891-bf91-05de7e54b360",
    "title": {
-    "en": "DNA²"
+    "en": "DNA\u00b2"
    },
    "contentRating": "suggestive",
    "score": 0.33826664,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9144e9f2-2521-4b58-bd61-0f4afe1b282a.jpg"
   },
   {
    "id": "4af56a6b-5baf-4fb3-a693-4530cb50bfbe",
@@ -156,8 +167,10 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5d4fdc1c-56da-44ba-b3da-fb4fc22d9de6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:11+00:00"
+ "updatedAt": "2021-07-18T07:04:11+00:00",
+ "coverFileName": "491aed0b-6724-4a2b-ac35-5d69cda47ddc.jpg"
 }

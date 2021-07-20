@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5762e399-5fa9-4dc4-b67c-292e2efbb42a.jpg"
   },
   {
    "id": "65263bf9-4f87-4513-b72f-ad6436b3911c",
@@ -31,7 +32,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "7e3553a0-97fe-45e9-8440-574297ed8fdb.png"
   },
   {
    "id": "b8a86d9b-b721-4123-a57e-6e40e9c3fc26",
@@ -42,7 +44,8 @@
    "score": 0.39501387,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0780c8b-cdb9-42e2-bf85-293257407388.jpg"
   },
   {
    "id": "1e4d7253-f4b9-47fe-b677-b4a3a89bc8d2",
@@ -54,7 +57,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "8fca8322-62ff-4017-8465-5e88d5967d3f.jpg"
   },
   {
    "id": "82142773-19a4-4d7a-a147-e4adb25cb2fc",
@@ -65,7 +69,8 @@
    "score": 0.38184676,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0fc29282-a7d6-4e18-81af-67b4c05e5ce1.jpg"
   },
   {
    "id": "9707d784-8619-4b82-bfda-d1e343763301",
@@ -79,7 +84,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "01c8d651-2d65-4308-93d0-47a25c2be735.jpg"
   },
   {
    "id": "e1102c82-3879-4fb4-b7bf-140cdcad11d5",
@@ -93,19 +99,21 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6ba64ca5-2d5d-4701-a391-e2be23d0adc8.jpg"
   },
   {
    "id": "66109be6-fcbe-4135-882a-e14f9627109c",
    "title": {
-    "en": "Honey \u0026 Honey"
+    "en": "Honey & Honey"
    },
    "contentRating": "safe",
    "score": 0.36489818,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "ae37026e-2be6-4611-a680-d05cb1315ec3.jpg"
   },
   {
    "id": "52f4ea39-99bd-407f-b86f-46b24a712ce8",
@@ -116,7 +124,8 @@
    "score": 0.36399502,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f5b57aa-dce0-4a2c-8a8f-871cf5ed8dce.jpg"
   },
   {
    "id": "b80e74a4-7bf4-4713-9bd7-d38b6ef2ec8d",
@@ -127,7 +136,8 @@
    "score": 0.3605698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a47fcbea-ef80-4b6c-af10-3fcdb06d44f0.jpg"
   },
   {
    "id": "df146fc5-6780-431c-b695-78e93bd2982f",
@@ -141,7 +151,8 @@
     "pt-br",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "c1e2a51e-e56a-4a5c-8015-a15d4871d424.jpg"
   },
   {
    "id": "5c0bad9b-7777-4725-9367-bb41287b1365",
@@ -152,8 +163,10 @@
    "score": 0.35348117,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69d66a35-befc-4a70-8ebe-d5dc9323098b.png"
   }
  ],
- "updatedAt": "2021-07-18T06:32:08+00:00"
+ "updatedAt": "2021-07-18T06:32:08+00:00",
+ "coverFileName": "6c650142-0fcc-46ce-a037-8d1de5dc229c.jpg"
 }

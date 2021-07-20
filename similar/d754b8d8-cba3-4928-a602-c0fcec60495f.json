@@ -8,14 +8,15 @@
   {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "The Tiger of Omertà"
+    "en": "The Tiger of Omerta\u0300"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
@@ -29,7 +30,8 @@
     "hu",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d54b02a7-8583-4f11-b08c-229b45ff8741.jpg"
   },
   {
    "id": "8d982591-4ebb-4a48-8e6c-aca543661e06",
@@ -40,18 +42,20 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e542b0f5-1313-449c-a204-b2a22a00cfd5.jpg"
   },
   {
    "id": "ef9981e1-6f2f-46bc-937d-0ac282e3a57b",
    "title": {
-    "en": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C³ Bu VS Anime Tenchou"
+    "en": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C\u00b3 Bu VS Anime Tenchou"
    },
    "contentRating": "safe",
    "score": 0.36504456,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "156e677a-25ae-499b-9454-a67fd2629698.jpg"
   },
   {
    "id": "cf5033f2-0a27-45be-95da-876971af682f",
@@ -62,7 +66,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fad79d1-1ede-4d94-bb09-061d698c5044.png"
   },
   {
    "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
@@ -73,18 +78,20 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "593e0110-88e6-4ffd-aeb7-ed410e8c7c6d.jpg"
   },
   {
    "id": "924cd693-4b7f-45f9-b3e6-f676e39b6e99",
    "title": {
-    "en": "Shakotan★Boogie"
+    "en": "Shakotan\u2605Boogie"
    },
    "contentRating": "safe",
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1b2dce5a-5449-4a27-ae31-3063c087593d.jpg"
   },
   {
    "id": "230b1a11-3797-4e39-bf90-b199f04454df",
@@ -95,7 +102,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "60417e7b-1cf2-4907-8999-f846db5add11.jpg"
   },
   {
    "id": "e698f41d-f116-4a36-8536-3a728f26885c",
@@ -106,7 +114,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b36ef64a-8d55-4259-b668-523138c73476.jpg"
   },
   {
    "id": "808e2533-c47a-4af2-9465-0238ca33d930",
@@ -117,7 +126,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8481d73e-dd33-4641-aad7-493a1bfaa52b.jpg"
   },
   {
    "id": "54597bb4-f0c8-4669-9c73-bd958ecf8bad",
@@ -128,7 +138,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d96dc88-5f6b-4ccc-b0d7-1d45a2436189.png"
   },
   {
    "id": "c06155f7-a59a-4d45-a7fc-874b469e23de",
@@ -140,8 +151,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "af35696b-bd86-4507-b879-ab32a69b9ba8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:24+00:00"
+ "updatedAt": "2021-07-18T07:04:24+00:00",
+ "coverFileName": "e84786e6-c75a-4b58-9ba6-3d8b519e670c.jpg"
 }

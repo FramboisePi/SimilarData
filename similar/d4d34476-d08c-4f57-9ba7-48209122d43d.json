@@ -1,7 +1,7 @@
 {
  "id": "d4d34476-d08c-4f57-9ba7-48209122d43d",
  "title": {
-  "en": "Rokka Melt: Fiancé wa Yukiotoko"
+  "en": "Rokka Melt: Fianc\u00e9 wa Yukiotoko"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2a318a1-3e98-4b3a-960b-4695bbcde27b.jpg"
   },
   {
    "id": "e6477b27-6c4b-410f-9a29-fa60be616446",
@@ -27,7 +28,8 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4c8f152-584a-4e8e-b905-714196aa47b0.jpg"
   },
   {
    "id": "4bae95aa-c539-4d88-b979-942d281cef4c",
@@ -38,7 +40,8 @@
    "score": 0.44919953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "86a6aa8e-158a-4858-a2d2-e51c860e2384.jpg"
   },
   {
    "id": "52f74905-2bf4-460e-9c1d-bf1d502718fb",
@@ -55,7 +58,8 @@
     "it",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "79a29221-5f77-4e8b-a6e5-83fd5e43bfed.jpg"
   },
   {
    "id": "c1c07f2a-bbc0-4609-9747-2f3b3e29b91d",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "11a1a14c-c752-4c8c-8e2b-294f9ed8d53c.jpg"
   },
   {
    "id": "91a83272-be70-4ed8-9ca3-3a7b8c8af1ca",
@@ -79,7 +84,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "af7af866-9795-4e26-8f35-10e785e6a2e5.jpg"
   },
   {
    "id": "bda551f4-1a41-42cb-9260-3bbdbe47ae72",
@@ -96,7 +102,8 @@
     "en",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "5138cfda-798a-4ff8-914e-4894e47607e7.jpg"
   },
   {
    "id": "741528a3-c727-4696-97c1-3e4bf90c4246",
@@ -107,7 +114,8 @@
    "score": 0.40682867,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "74fb3371-12ef-45ef-bb76-1d93e7e8e21a.jpg"
   },
   {
    "id": "7c8119b0-108c-4dd9-99d0-2c494b793fd2",
@@ -119,7 +127,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "59c49ad4-c4a4-4e84-ba61-a07018f71434.jpg"
   },
   {
    "id": "d251596b-311b-42d4-934a-fd70ae017b51",
@@ -130,18 +139,20 @@
    "score": 0.40385827,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0607497e-321e-4315-84db-1708f11bc4bd.jpg"
   },
   {
    "id": "b5420fd6-8a2c-422d-b617-0371ecf5e005",
    "title": {
-    "en": "Watashi to Kare to Mou Hitori♡"
+    "en": "Watashi to Kare to Mou Hitori\u2661"
    },
    "contentRating": "safe",
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f06be06-e501-4ee1-8ccc-601217b00438.jpg"
   },
   {
    "id": "f6af213d-a0ce-4925-8026-698f68d1402a",
@@ -153,8 +164,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "728f0f50-509d-42f1-999a-2aaa9b3e6dec.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:53+00:00"
+ "updatedAt": "2021-07-18T07:03:53+00:00",
+ "coverFileName": "b990cc30-c05a-4720-8ca2-6b014c8415b2.jpg"
 }

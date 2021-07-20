@@ -1,20 +1,21 @@
 {
  "id": "e5674f2f-7185-414d-ba94-609d20256d0f",
  "title": {
-  "en": "Black★Rock Shooter Chan"
+  "en": "Black\u2605Rock Shooter Chan"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "f3b2f974-0df3-449f-a157-a885cdbf84d3",
    "title": {
-    "en": "Black★Rock Shooter THE GAME"
+    "en": "Black\u2605Rock Shooter THE GAME"
    },
    "contentRating": "safe",
    "score": 0.8817035,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a91bb4f2-3c9a-43cf-a8eb-60d4a2620bb8.jpg"
   },
   {
    "id": "f786502e-38ef-4d2a-92e2-cb324022ddae",
@@ -25,7 +26,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3c10d28-80ff-4153-a62e-3ca5985ec2db.jpg"
   },
   {
    "id": "8b98e414-3eae-4b4f-b43b-5e75fbbb0014",
@@ -39,7 +41,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ea4a2df7-9ca4-45e0-853b-8b56485d7ca5.jpg"
   },
   {
    "id": "f8d3cecf-8c5b-4f69-ba44-a6610cb885fb",
@@ -50,7 +53,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28acdbdc-bdd4-4f66-b61f-7345b6f3f720.jpg"
   },
   {
    "id": "dcc1a514-8d48-44a7-a38b-d48e3cac4335",
@@ -61,7 +65,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c80f5994-991c-4b58-afea-2f19c1722a55.jpg"
   },
   {
    "id": "b5554f65-2d4d-4064-b911-8ce4b496e206",
@@ -72,7 +77,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6b3c180-8434-44a2-a243-c2995c2fb174.jpg"
   },
   {
    "id": "9385a2a5-9a45-4f35-935e-a8a39bd7ee49",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a4586a71-d547-46cb-abb1-6ccd9fa92aca.jpg"
   },
   {
    "id": "dfa50c60-4a9c-4ff7-9270-31860bb82ad2",
@@ -95,7 +102,8 @@
    "score": 0.39926368,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0cc899e1-51d7-4454-92a8-9515c941fd28.jpg"
   },
   {
    "id": "bb6ac747-3c94-4fd9-8900-9c7ce2ed2e8e",
@@ -108,7 +116,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "8a3cd03c-4f12-4af4-98b2-6d0c7ae73fc5.jpg"
   },
   {
    "id": "6b17751a-f0e2-46a2-9c39-8cae0cb69d39",
@@ -120,7 +129,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6a2b33f6-e0f5-45fc-82b2-f60991a6f49e.png"
   },
   {
    "id": "6bf646fb-d8d1-40fa-94aa-a9393857b8c1",
@@ -133,7 +143,8 @@
     "id",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "cd12382b-7f3e-437c-b616-cdba2094ae22.png"
   },
   {
    "id": "3a0b5925-41ca-46c4-8aaf-121591b869b2",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "fc66de9e-3f31-4d73-aa45-800e54b72541.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:58+00:00"
+ "updatedAt": "2021-07-18T07:06:58+00:00",
+ "coverFileName": "66667e37-7044-4665-a53e-c2ffa3a1373c.jpg"
 }

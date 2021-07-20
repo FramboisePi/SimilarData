@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8ba250a9-3f1f-4b89-9926-f04065e2c5b8.jpg"
   },
   {
    "id": "37cc4b47-f845-4e4a-a504-d9dc1e5469ab",
@@ -26,7 +27,8 @@
    "score": 0.4792777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "426a9538-e406-414e-bf80-3174dcdd8120.jpg"
   },
   {
    "id": "00f9a938-2f38-44b8-896b-aea6ce49da2c",
@@ -37,7 +39,8 @@
    "score": 0.45326632,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29719f93-4ae5-43ab-afb6-9d04ae0beeba.jpg"
   },
   {
    "id": "083e15cf-f800-4dac-99ac-3a75e5db72ee",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "e4d4f08b-479b-44a3-946c-c229a175a437.jpg"
   },
   {
    "id": "dcfc3827-ae93-4b8e-a0cb-879b5177774c",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9f2b4078-412e-4e38-8065-9e31591160a0.png"
   },
   {
    "id": "87099337-2fe9-44da-8699-fd11e4ac8972",
@@ -72,7 +77,8 @@
    "score": 0.44769347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f563aaa4-753d-42b1-a258-8f394bdf4e40.jpg"
   },
   {
    "id": "223f8713-30d6-4f28-98c0-6b5f9687586d",
@@ -85,7 +91,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "dd511c5a-4ba7-498a-8d51-cb72d4f94c20.jpg"
   },
   {
    "id": "dda508c6-61f9-4beb-a1f8-28a7a17cf7c5",
@@ -98,7 +105,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "070899e3-c649-4fc5-ab48-6fcd2183b516.png"
   },
   {
    "id": "4ef0db93-2eac-4732-a718-dd9f5291d1f5",
@@ -110,7 +118,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "569ab521-bbd2-4056-b36f-0e57f6c8c84a.jpg"
   },
   {
    "id": "7d1146b4-d3ed-45c1-afe5-278664ebf2ef",
@@ -122,19 +131,21 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3965b2f5-104b-42da-8ad0-a6f680a0df8e.png"
   },
   {
    "id": "bd2e1fa1-8538-4c42-bb7a-e23edacc30f4",
    "title": {
-    "en": "Peach \u0026 Musk"
+    "en": "Peach & Musk"
    },
    "contentRating": "safe",
    "score": 0.43756634,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "40627748-3e32-48b5-a8a5-f708e4b6c2bb.png"
   },
   {
    "id": "bd0e9a8f-5993-4935-a66f-f698c6814809",
@@ -147,8 +158,10 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ddbce89a-b6a6-4fc5-972f-6979dda2257e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:18+00:00"
+ "updatedAt": "2021-07-18T06:29:18+00:00",
+ "coverFileName": "1165d81e-b3d5-4d34-abc5-05f2d77d0ff9.png"
 }

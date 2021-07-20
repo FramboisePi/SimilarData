@@ -1,7 +1,7 @@
 {
  "id": "4c3fc172-fab6-4477-9dfc-57dd95bad19c",
  "title": {
-  "en": "The Reincarnated Villainess Doesn’t Want Revenge"
+  "en": "The Reincarnated Villainess Doesn\u2019t Want Revenge"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "es-la",
     "th",
     "ru"
-   ]
+   ],
+   "coverFileName": "6cb24a58-383d-4c36-8730-5807b9b11a21.jpg"
   },
   {
    "id": "3521c5e8-a737-43a3-97b6-c25d2f23d24e",
@@ -30,7 +31,8 @@
    "score": 0.49478278,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb1d0e15-b0c1-4796-bcab-125c158f8847.jpg"
   },
   {
    "id": "fd4f1147-c090-4a28-923e-eb4918f94d5a",
@@ -41,7 +43,8 @@
    "score": 0.48779792,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6460f7cb-8c1b-42cc-8a6b-a285cd9e96a6.jpg"
   },
   {
    "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "48994da0-9683-41cc-8eeb-440fa140a75a.jpg"
   },
   {
    "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
@@ -64,7 +68,8 @@
    "score": 0.4808505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b05efa20-3408-4f72-b0ea-33f0e57d5561.jpg"
   },
   {
    "id": "787c0327-c98e-4b18-a3f8-d2988904fdb1",
@@ -77,7 +82,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d70fff07-1b0a-438e-837b-e346c080bd28.jpg"
   },
   {
    "id": "25e26f9f-cad0-4306-9834-15f433facc50",
@@ -88,7 +94,8 @@
    "score": 0.43476203,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "807460a5-5cb2-45ad-bac5-9cc2cd8db2ae.jpg"
   },
   {
    "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
@@ -99,18 +106,20 @@
    "score": 0.42951834,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6441aea1-b9bf-457d-b84a-ebbcff99f3f0.jpg"
   },
   {
    "id": "6b216ef0-30bd-4135-85d7-e53aab1240e1",
    "title": {
-    "en": "I’m a Banished Villainess, but I’m Accompanied by a Fluffy Creature?! My Peaceful Life Starts"
+    "en": "I\u2019m a Banished Villainess, but I\u2019m Accompanied by a Fluffy Creature?! My Peaceful Life Starts"
    },
    "contentRating": "safe",
    "score": 0.42183897,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fca58b0d-7804-43c0-85f5-59b2d32cf21b.jpg"
   },
   {
    "id": "5af60d6c-8b8e-4ca3-bc10-3046543c1614",
@@ -122,7 +131,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "0acda85f-5b16-4622-a58e-fbd69b112b07.jpg"
   },
   {
    "id": "4106c8cb-7917-41c5-bd55-072f6687076d",
@@ -139,7 +149,8 @@
     "pl",
     "tl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7b02a3fb-260a-4d85-9248-3f26c389f9c2.jpg"
   },
   {
    "id": "22baef38-43f2-4f48-8855-51a877251dcb",
@@ -151,8 +162,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "bc744953-2d16-49b2-a115-fa560a846220.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:40+00:00"
+ "updatedAt": "2021-07-18T06:38:40+00:00",
+ "coverFileName": "508e6e04-e10d-4305-91d8-86912f31fd22.jpg"
 }

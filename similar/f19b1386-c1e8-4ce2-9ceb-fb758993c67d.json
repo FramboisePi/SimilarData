@@ -1,20 +1,21 @@
 {
  "id": "f19b1386-c1e8-4ce2-9ceb-fb758993c67d",
  "title": {
-  "en": "Mahou Shoujo Madoka★Magica - Homuful (Doujinshi)"
+  "en": "Mahou Shoujo Madoka\u2605Magica - Homuful (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "f92e0740-0212-4fa3-afcd-7decf083edff",
    "title": {
-    "en": "Mahou Shoujo Lyrical Nanoha - めきめき王国 - 猫き下ろし　前編 (Doujinshi)"
+    "en": "Mahou Shoujo Lyrical Nanoha - \u3081\u304d\u3081\u304d\u738b\u56fd - \u732b\u304d\u4e0b\u308d\u3057\u3000\u524d\u7de8 (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.5958312,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ccd4fc0-dda5-43d0-8078-ca9b97621789.jpg"
   },
   {
    "id": "7be2c3e1-638b-43b5-a6f3-860bf46ebdbd",
@@ -25,7 +26,8 @@
    "score": 0.55404425,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc5660ea-901e-4efa-b304-7340416467ce.jpg"
   },
   {
    "id": "827b10a6-81bf-4d36-8e5d-334004fd64af",
@@ -37,18 +39,20 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "21844d67-b390-474b-a572-d56b2a99843e.jpg"
   },
   {
    "id": "92411cfa-3364-471c-a23b-dea74218a105",
    "title": {
-    "en": "Heartcatch Precure - ∞ Lily Time"
+    "en": "Heartcatch Precure - \u221e Lily Time"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "662a00c6-a194-43eb-ae72-03d206f0d7e1.jpg"
   },
   {
    "id": "ce91538c-0b82-4cec-a8f3-8a6dc14c6243",
@@ -59,7 +63,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2ebd169-759a-4561-af9c-c8108bd371c4.jpg"
   },
   {
    "id": "5c7fe209-d20b-47e1-8d55-45cc7c2145a6",
@@ -70,18 +75,20 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "93838c22-8291-46b7-ac21-67228d7127c6.jpg"
   },
   {
    "id": "4bd1d6f8-384a-4caf-9dee-02c191e0d1f4",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Thank an Idiot After the Rain Falls (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Thank an Idiot After the Rain Falls (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa92f6c2-10bd-471d-8bc7-39dc71f3136a.jpg"
   },
   {
    "id": "c417dcba-4d10-46c9-95fa-ac7f75b75f34",
@@ -93,7 +100,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b76426d2-82a0-4926-bab0-2345c58dd9de.jpg"
   },
   {
    "id": "ad7bc139-62b6-4e40-8a7f-6c4d40ef010c",
@@ -104,7 +112,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "651bf5de-cb8e-4a4e-ac3f-87d65bef3c15.jpg"
   },
   {
    "id": "e2bc5d4a-5ed3-4ee3-b0c0-796e44478981",
@@ -116,7 +125,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2f5d57e7-3715-4eb4-89e1-3c878a66a0c4.jpg"
   },
   {
    "id": "0bfaccce-f100-42bd-a890-c83ad044ded4",
@@ -128,7 +138,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4abe54ab-fcf9-44e3-b021-6204f170fccc.jpg"
   },
   {
    "id": "68c1d574-11a4-4498-a96b-f3c998df505b",
@@ -139,8 +150,10 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2458028-9caf-43b3-91e5-a42f1f19aba8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:07+00:00"
+ "updatedAt": "2021-07-18T07:09:07+00:00",
+ "coverFileName": "e8758fad-e76e-4795-8572-319fbd71b146.jpg"
 }

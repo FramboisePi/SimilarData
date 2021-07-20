@@ -1,7 +1,7 @@
 {
  "id": "342c4ac4-4843-46df-90e6-b31a164a43b2",
  "title": {
-  "en": "The 101ˢᵗ Heroine"
+  "en": "The 101\u02e2\u1d57 Heroine"
  },
  "contentRating": "safe",
  "matches": [
@@ -18,7 +18,8 @@
     "es",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "1a8d5e19-e9e2-4a36-9350-60697e01b227.jpg"
   },
   {
    "id": "6678b794-63fe-4f46-b94e-4bd55a21e594",
@@ -31,7 +32,8 @@
     "es",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "51344c0b-c1b5-475e-b8ad-8125c7905a3d.jpg"
   },
   {
    "id": "99786169-6285-45d2-b3c7-3290a9f38315",
@@ -45,7 +47,8 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3db13d65-6c23-4d84-9fc6-552ced64e05b.jpg"
   },
   {
    "id": "adaa939c-c164-4aec-9b10-5cbccfae681d",
@@ -63,7 +66,8 @@
     "tr",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f5731b26-97a8-4e20-a2e3-9f86cff0ae92.jpg"
   },
   {
    "id": "f2cb9465-c314-46a3-97fd-05210d3af0a7",
@@ -79,7 +83,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "c7df5dfc-bb95-4483-bdb5-8a6645ee5777.jpg"
   },
   {
    "id": "4106c8cb-7917-41c5-bd55-072f6687076d",
@@ -96,7 +101,8 @@
     "pl",
     "tl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7b02a3fb-260a-4d85-9248-3f26c389f9c2.jpg"
   },
   {
    "id": "45558639-a5d1-4790-a26d-de1a83ab2d16",
@@ -109,7 +115,8 @@
     "en",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "6b548020-61a0-4c44-89a4-fe0b3b797c05.jpg"
   },
   {
    "id": "082a27cb-74f9-4d1b-81b2-e60c680fd39f",
@@ -121,7 +128,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "bfcea7b9-a59c-4364-97fa-3ed5f87941a8.jpg"
   },
   {
    "id": "7be18b08-e94c-45e3-b63a-33292f566d21",
@@ -134,7 +142,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "661ae0cd-7348-4e97-9c08-c72461d8e1a2.png"
   },
   {
    "id": "39e55355-dfb4-44e9-bd0b-df1fc3a0e33e",
@@ -152,7 +161,8 @@
     "es",
     "id",
     "hu"
-   ]
+   ],
+   "coverFileName": "cef2729e-ce62-4ce3-ad29-6cb3f00c95c1.jpg"
   },
   {
    "id": "f4659225-6ac3-4d86-88e1-6bff7239b52a",
@@ -165,7 +175,8 @@
     "es",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "318a933d-07d2-4365-ad22-5654b8b70b0a.png"
   },
   {
    "id": "244b12d9-8495-48d8-aa56-a4c03105297d",
@@ -178,8 +189,10 @@
     "tr",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "4019257d-732e-447f-b823-1a0f47ed9137.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:10+00:00"
+ "updatedAt": "2021-07-18T06:34:10+00:00",
+ "coverFileName": "ac3ab2dc-a071-4bcd-8d0b-5a6f75ec38e9.jpg"
 }

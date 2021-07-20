@@ -16,7 +16,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "cbc7a20e-6184-474a-814c-73e235285bee.jpg"
   },
   {
    "id": "cbcf7529-8db3-4740-afe2-11870bd54108",
@@ -32,7 +33,8 @@
     "fr",
     "bg",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "81547c9f-eb85-4109-87a6-98ac4c58a08a.jpg"
   },
   {
    "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
@@ -44,7 +46,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9d30220c-bd21-4bcf-a2f3-dd69d52d0ee9.jpg"
   },
   {
    "id": "0015dc62-5b46-469a-8138-e32a043e60f9",
@@ -59,7 +62,8 @@
     "it",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "4cc8061a-b463-41d9-95b0-e9c79d8df606.png"
   },
   {
    "id": "b6d236d1-20bf-4ad7-8cb2-e425326e428a",
@@ -75,7 +79,8 @@
     "tr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "c25beba7-ab7a-4c20-8206-5767e84c02cc.jpg"
   },
   {
    "id": "d7a9dd46-4e6e-4477-8b93-8aebcd342de4",
@@ -94,7 +99,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6e83eaec-7b7f-49b7-965f-58ad85542341.jpg"
   },
   {
    "id": "32f48067-68bf-451a-99aa-0acc3c73fa1b",
@@ -106,19 +112,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8e885b35-7dc4-42ba-a11b-377ff7c03ec5.jpg"
   },
   {
    "id": "6b2ce06a-eb4d-4a5c-bddb-8a3359b14deb",
    "title": {
-    "en": "Kuzu no Honkai décor"
+    "en": "Kuzu no Honkai d\u00e9cor"
    },
    "contentRating": "safe",
    "score": 0.31819806,
    "languages": [
     "pt-br",
     "ar"
-   ]
+   ],
+   "coverFileName": "f72c47bb-f8e2-439e-818e-2a6f132a0100.jpg"
   },
   {
    "id": "23d358e1-b3e6-4c66-95c1-dfb8e1f97c41",
@@ -132,7 +140,8 @@
     "pl",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9200b5a5-ae1f-4867-b328-8d0009755db9.jpg"
   },
   {
    "id": "84cfe6d2-93c0-433a-86d1-f3c7b4169921",
@@ -146,7 +155,8 @@
     "pl",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "8baa95a0-ff7b-4ae5-b44c-6598bc5a5967.jpg"
   },
   {
    "id": "b0d9b920-c243-419e-ae88-4009d1cbb3bf",
@@ -161,7 +171,8 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "72877af5-99d5-4cf3-96d3-64d49aeaafc2.jpg"
   },
   {
    "id": "b690f9f5-fda1-4d09-ac65-d2ca914a2ae5",
@@ -173,8 +184,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "56b1ec0d-d6f2-4ab3-96d8-cb11943c6968.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:10+00:00"
+ "updatedAt": "2021-07-18T06:49:10+00:00",
+ "coverFileName": "c4befa20-a0a3-4eed-a6c1-284f5a6f497b.jpg"
 }

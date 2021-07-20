@@ -1,7 +1,7 @@
 {
  "id": "0c9e19cd-86cb-490c-93e9-955af41746ca",
  "title": {
-  "en": "Kaze no Tani no Nausicaä"
+  "en": "Kaze no Tani no Nausica\u00e4"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "pt-br",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "c3587ee9-7f0b-4ae4-916e-a8edaa7ff797.jpg"
   },
   {
    "id": "ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8",
@@ -31,7 +32,8 @@
     "ar",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "e2233f63-5a54-4220-84f9-2da8143d8a87.jpg"
   },
   {
    "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
@@ -45,7 +47,8 @@
     "ru",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "830e689b-bd44-4a10-98ca-a88ba2ad438a.jpg"
   },
   {
    "id": "304ceac3-8cdb-4fe7-acf7-2b6ff7a60613",
@@ -63,7 +66,8 @@
     "ar",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "d5eb9f69-a1d4-4a0a-9a31-1eccf6d8b8b0.jpg"
   },
   {
    "id": "831d2050-2780-4ec4-abc9-dbde7bef28c5",
@@ -78,7 +82,8 @@
     "it",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dd07d5b5-0465-4efc-89ba-edf4e839bde4.jpg"
   },
   {
    "id": "9c16fed0-3d93-4487-8c62-a9f49ab48828",
@@ -94,7 +99,8 @@
     "es-la",
     "es",
     "it"
-   ]
+   ],
+   "coverFileName": "05350d19-2449-4af4-9672-1193274dd1ba.jpg"
   },
   {
    "id": "5b93fa0f-0640-49b8-974e-954b9959929b",
@@ -114,7 +120,8 @@
     "en",
     "es-la",
     "uk"
-   ]
+   ],
+   "coverFileName": "4d2409a2-5e2d-41e8-b3fa-14cc30a70d10.jpg"
   },
   {
    "id": "63e54dfd-f7a9-473e-a591-28558e229c5b",
@@ -126,7 +133,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "68ab8283-c31c-48f2-a20f-9d1bdf31882f.jpg"
   },
   {
    "id": "6158dcf1-359c-429f-8bf2-41f3c42abc91",
@@ -140,7 +148,8 @@
     "es",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "0ce95ae7-569f-473f-bf0b-9f4f410eac40.jpg"
   },
   {
    "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
@@ -153,7 +162,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "463501ca-a3bc-461d-a167-2338606a8302.jpg"
   },
   {
    "id": "c7350fb7-ec94-4026-b021-eb50c9b103b2",
@@ -167,7 +177,8 @@
     "ru",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "513c9dae-f569-4be7-a977-0f7089b2a2d9.jpg"
   },
   {
    "id": "62e3c3ef-7810-473a-97d3-47b397f7c7d7",
@@ -181,8 +192,10 @@
     "tr",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "f8505bee-a614-4eb9-be9a-a8c0874e8c69.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:49+00:00"
+ "updatedAt": "2021-07-18T06:26:49+00:00",
+ "coverFileName": "5ad2f608-706f-40d7-ac53-6757e284d172.jpg"
 }

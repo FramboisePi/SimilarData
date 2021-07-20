@@ -1,7 +1,7 @@
 {
  "id": "364eed6a-fc06-49aa-a759-784bd61c3435",
  "title": {
-  "en": "Carole \u0026 Tuesday"
+  "en": "Carole & Tuesday"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "87035a38-96b7-40ab-830a-698fb6018dd8.jpg"
   },
   {
    "id": "983fb5f1-3555-4769-b8f1-2d857499d3cd",
@@ -28,7 +29,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "c3d90eae-a29e-4d11-8660-232e31af338a.jpg"
   },
   {
    "id": "2862555d-a54b-4ece-92a0-aabfaaa472ae",
@@ -41,7 +43,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7561ca3c-dae5-4f8a-8b85-1122bbb38a45.jpg"
   },
   {
    "id": "a42db50d-20df-4f33-bddc-fe990df9c231",
@@ -59,7 +62,8 @@
     "pt-br",
     "ca",
     "ru"
-   ]
+   ],
+   "coverFileName": "6a755c36-0053-4572-a383-d521dbf5f8c0.png"
   },
   {
    "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
@@ -72,18 +76,20 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4e177f41-1ca2-494a-8b02-b94d8b037eaf.jpg"
   },
   {
    "id": "a4fc1b66-17e2-416c-a2b2-80899ba78214",
    "title": {
-    "en": "Hige wo Soru. Soshite Joshi Kōsei wo Hirou. Each Stories"
+    "en": "Hige wo Soru. Soshite Joshi K\u014dsei wo Hirou. Each Stories"
    },
    "contentRating": "safe",
    "score": 0.34630832,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "ca9518bb-319e-4daf-87ff-1ad8f553d575.jpg"
   },
   {
    "id": "07881f9f-a663-4495-936a-75eace0a83f5",
@@ -94,7 +100,8 @@
    "score": 0.33418885,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "3779ff6d-6196-43f2-a1a5-157d4743c84c.jpg"
   },
   {
    "id": "b84a9c69-624b-4c4f-ac57-8d9a162883f1",
@@ -110,7 +117,8 @@
     "pt-br",
     "id",
     "hi"
-   ]
+   ],
+   "coverFileName": "4bff4a62-c062-4a5f-855a-c00f3eae9af2.jpg"
   },
   {
    "id": "b6c0eba7-858c-49ab-ba90-c7deda0ed9f5",
@@ -123,7 +131,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "45283234-80b4-4eeb-ae4d-b51e6be610e5.jpg"
   },
   {
    "id": "bf2ae804-b5dc-4295-9369-3a6227b2c8f8",
@@ -135,7 +144,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d586b6d4-d035-4e67-a6ac-122c538e37d3.jpg"
   },
   {
    "id": "d69b2a3d-2f5c-442a-b9f6-28b4118aa994",
@@ -147,7 +157,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "b6d43ba5-77dd-4a76-b40e-f4fc8edf85c4.jpg"
   },
   {
    "id": "1090afe3-3b91-4325-a9b4-d92875aa815e",
@@ -163,8 +174,10 @@
     "ru",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a48ed2d7-8760-4076-89cb-03dc63de5ef1.png"
   }
  ],
- "updatedAt": "2021-07-18T06:34:35+00:00"
+ "updatedAt": "2021-07-18T06:34:35+00:00",
+ "coverFileName": "37f3d7fd-ee4f-47e9-95e1-77416f98df5c.jpg"
 }

@@ -17,7 +17,8 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "79094c2c-1bf1-4cff-83b3-1d8740a85cc0.jpg"
   },
   {
    "id": "3534ba53-3643-4224-b0f8-d2ce931b0683",
@@ -28,7 +29,8 @@
    "score": 0.24168877,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "3cfc2caf-cc0f-4c0a-8331-c49c34019947.png"
   },
   {
    "id": "2bb86240-1f2a-4061-88d5-f3db0b1a19e2",
@@ -39,7 +41,8 @@
    "score": 0.24168877,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "ac180b28-8555-43a8-9957-1d9b7b02c298.jpg"
   },
   {
    "id": "8b98e414-3eae-4b4f-b43b-5e75fbbb0014",
@@ -53,7 +56,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ea4a2df7-9ca4-45e0-853b-8b56485d7ca5.jpg"
   },
   {
    "id": "5f431fa4-ee68-47ac-8d04-3279a8f2b463",
@@ -68,7 +72,8 @@
     "pt-br",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "3436d120-6357-4b85-a037-69f2e24f266c.jpg"
   },
   {
    "id": "d3e3df2d-e23e-470d-b778-6b5d63b6cd8e",
@@ -80,7 +85,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ae0dd593-acd2-437c-b94d-5a469b04ddd7.jpg"
   },
   {
    "id": "3574c0f2-d27b-4275-942d-6d8bdc851274",
@@ -93,7 +99,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dac672e5-e6c1-42c8-8216-87efda454b09.jpg"
   },
   {
    "id": "7f1e4e1c-9c9d-47f9-acc0-2ce700f8eb2b",
@@ -105,7 +112,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e353d009-f433-4fa5-863e-2cb7d5e61170.jpg"
   },
   {
    "id": "d22ae7a1-cfae-475a-a8fc-589ef85eece4",
@@ -121,7 +129,8 @@
     "fr",
     "tr",
     "it"
-   ]
+   ],
+   "coverFileName": "ab29c40f-ed99-4bdb-9004-b1e2c71f4c51.jpg"
   },
   {
    "id": "c8366c50-3c09-41ba-8ded-441c3193cb39",
@@ -134,12 +143,13 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "c52565c9-d99a-4380-9dc8-67369d448eb7",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica"
+    "en": "Mahou Shoujo Madoka\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.20465732,
@@ -147,7 +157,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0434a731-0ced-4d32-a050-d8f1eb9b5a45.jpg"
   },
   {
    "id": "d1c0d3f9-f359-467c-8474-0b2ea8e06f3d",
@@ -170,8 +181,10 @@
     "fr",
     "cs",
     "ro"
-   ]
+   ],
+   "coverFileName": "8d152332-c9c0-4140-a7fa-8d0c4ec3379d.gif"
   }
  ],
- "updatedAt": "2021-07-18T07:00:26+00:00"
+ "updatedAt": "2021-07-18T07:00:26+00:00",
+ "coverFileName": "e8eef757-82d0-4b12-8ce4-dbcacb1bdac0.jpg"
 }

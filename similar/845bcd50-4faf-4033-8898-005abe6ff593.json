@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bf64a995-0acd-4d99-a854-f6d05780a6b7.jpg"
   },
   {
    "id": "6a7273e1-dbe3-4c6a-96e8-1e42c3b04f21",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "cb8bd39b-8c97-4d6e-acd2-79a6069b714c.jpg"
   },
   {
    "id": "b87463e0-4d75-48c1-be23-ebafa7b9e5fa",
@@ -38,7 +40,8 @@
    "score": 0.41123736,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "827b0cfe-b075-4bee-bc8d-4e93401ea8fa.jpg"
   },
   {
    "id": "94abcf87-3ada-4eaa-9c64-38b7b2008588",
@@ -51,7 +54,8 @@
     "tr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1f3c3ac8-05dc-47ad-97da-1a34d3e87334.jpg"
   },
   {
    "id": "fdcb49b8-44de-487a-a1dd-526c5ac9a4f9",
@@ -62,7 +66,8 @@
    "score": 0.39367905,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a31cf80f-0f6c-4adf-a110-3d22fedf1d36.jpg"
   },
   {
    "id": "a339fc3e-49e6-4768-87bc-e450d1bd5f6c",
@@ -74,7 +79,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b8b977d3-59c1-436d-b176-5fe901afcca3.jpg"
   },
   {
    "id": "5ebd70a9-2c10-4f7c-b658-eb77768ab87e",
@@ -86,7 +92,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4b3cf128-8d5d-4150-aff8-91a8f32a97a3.jpg"
   },
   {
    "id": "6a75461b-8cd9-4f2e-8a03-14b76825c0e5",
@@ -97,7 +104,8 @@
    "score": 0.38890874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff88ccbe-b8bc-43c5-b6e6-ff3741057b84.jpg"
   },
   {
    "id": "a49a60a5-260d-4763-be56-da93d5b3fcc7",
@@ -108,7 +116,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2516dcfa-cc62-431e-a970-027ac5fb5cbe.jpg"
   },
   {
    "id": "ef63652e-620c-4dd6-9410-bd270e76130f",
@@ -119,18 +128,20 @@
    "score": 0.36853525,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62a1159b-2568-4cad-bc36-c92d13f8bc01.jpg"
   },
   {
    "id": "e3e42a9f-d1e2-4fac-ba69-746c124bd818",
    "title": {
-    "en": "El Halcón -Taka-"
+    "en": "El Halc\u00f3n -Taka-"
    },
    "contentRating": "safe",
    "score": 0.3655492,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d08cd362-fc56-4bf1-920d-f9625885196b.jpg"
   },
   {
    "id": "4506662e-a5d0-4572-aab6-71f12a2e2525",
@@ -144,8 +155,10 @@
     "es-la",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "1574d226-2ad8-4b02-bf10-473bf8de2360.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:01+00:00"
+ "updatedAt": "2021-07-18T06:49:01+00:00",
+ "coverFileName": "78f51f9f-1133-4e9d-8347-0c4dc8dd489b.jpg"
 }

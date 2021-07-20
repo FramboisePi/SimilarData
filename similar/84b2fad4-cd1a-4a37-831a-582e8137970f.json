@@ -1,20 +1,21 @@
 {
  "id": "84b2fad4-cd1a-4a37-831a-582e8137970f",
  "title": {
-  "en": "MÄR"
+  "en": "M\u00c4R"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "92e93403-a22f-4488-bb40-f7388c781ef9",
    "title": {
-    "en": "MÄR Omega"
+    "en": "M\u00c4R Omega"
    },
    "contentRating": "safe",
    "score": 0.59101915,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d1544476-7d01-4fce-9d96-55fff2e5081d.jpg"
   },
   {
    "id": "1c83c0e9-c74f-491c-97d8-db0e4e7dc707",
@@ -28,7 +29,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "37b4faf6-56f8-4b9d-82fb-b5ca7377b2c1.png"
   },
   {
    "id": "378b2b04-b16b-4616-a601-bfdac646ce95",
@@ -42,7 +44,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0b3fb2e9-86ca-465c-93d2-0c999b2eed2b.jpg"
   },
   {
    "id": "f81026af-1b41-465c-932b-291ce4760c00",
@@ -58,7 +61,8 @@
     "pt-br",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "025c2f15-aaac-41b5-8143-57be86c5ed25.jpg"
   },
   {
    "id": "fe0ca912-db5a-4073-a8b6-e303a1d30459",
@@ -72,7 +76,8 @@
     "tr",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "a1af9473-b786-47d4-bd93-9e6bb6ca727e.jpg"
   },
   {
    "id": "a72994fd-f1c5-4df2-b7b0-423356408958",
@@ -86,7 +91,8 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "aa195490-f21f-4452-a724-d8fb35812b02.jpg"
   },
   {
    "id": "4fb1e3b5-2324-4550-a22f-3a1a9e314fae",
@@ -101,7 +107,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c7f72369-dda4-4414-ba1a-0c820d561352.jpg"
   },
   {
    "id": "5c586d74-ef10-42c8-9cbb-f6357d9087d1",
@@ -113,7 +120,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "5b536dd8-4134-4f29-85aa-afddbec529b1.jpg"
   },
   {
    "id": "39741b91-7782-452d-984b-70b3df834976",
@@ -126,7 +134,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "2065c6b9-98e8-40ad-997c-34d956b54984.jpg"
   },
   {
    "id": "77dbfa29-8ef0-446d-82cc-1b4de878dd90",
@@ -141,7 +150,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "a0bd2518-6495-41af-a6e1-21a75ba5dc3c.jpg"
   },
   {
    "id": "ca698df5-2de5-46a3-a171-8211d5bbcede",
@@ -154,7 +164,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7903cf0a-a748-41cc-a4ec-dd093115555a.png"
   },
   {
    "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
@@ -169,8 +180,10 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ece972fd-3406-4f16-8f83-681974865076.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:06+00:00"
+ "updatedAt": "2021-07-18T06:49:06+00:00",
+ "coverFileName": "2c23b49f-ef01-4e90-8fdd-245f33482816.jpg"
 }

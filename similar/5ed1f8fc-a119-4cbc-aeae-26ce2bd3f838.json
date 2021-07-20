@@ -19,7 +19,8 @@
     "fr",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "eca028fb-a781-4b69-9970-9df9ea489c39.jpg"
   },
   {
    "id": "0d545e62-d4cd-4e65-a65c-a5c46b794918",
@@ -32,7 +33,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "e4159693-18f3-472d-ba92-a1c96d32d36e.jpg"
   },
   {
    "id": "51f7d9fc-256e-4160-add1-ab9652f32ae1",
@@ -47,7 +49,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "748c223d-cdd5-4df2-8013-38416bf7703b.jpg"
   },
   {
    "id": "ea57752d-acb7-469e-aa60-43e694ded9a9",
@@ -60,7 +63,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "c0ff2fd5-a806-4f4e-bf24-0295e7815f21.jpg"
   },
   {
    "id": "2725e983-81c3-4a62-8e97-5027c5996c2b",
@@ -73,7 +77,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "dae8db62-1d3d-4f70-9b56-5cc565a31d61.jpg"
   },
   {
    "id": "72d1ae71-4391-4bb2-9f39-784af3cc3c71",
@@ -93,7 +98,8 @@
     "id",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5388ae38-4e08-407d-b269-3f15c5c3c4ae.jpg"
   },
   {
    "id": "fd917921-5e97-479f-b22c-5d7f00e1c830",
@@ -108,7 +114,8 @@
     "es-la",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "71080f50-f79b-4287-af74-b56b3f181c84.jpg"
   },
   {
    "id": "9094ec17-2720-4781-85fc-a5ded1fbb410",
@@ -119,7 +126,8 @@
    "score": 0.40172046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a46043dc-c16e-4ba5-aa7b-833a83a0ec60.png"
   },
   {
    "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
@@ -130,7 +138,8 @@
    "score": 0.3918201,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9fde9f51-b94c-4d5b-a286-2b2367b98e66.jpg"
   },
   {
    "id": "9a12e5a4-3151-4f98-860b-7d4529498d69",
@@ -141,7 +150,8 @@
    "score": 0.38478366,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71eeea96-567e-4203-a541-28dbd3970b4b.jpg"
   },
   {
    "id": "6ab4c34c-a4e5-4be2-9803-cd979ef376cb",
@@ -155,12 +165,13 @@
     "vi",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "6da85122-17f2-481f-b29d-00e2d8def538.jpg"
   },
   {
    "id": "58d988fb-be92-41a0-8340-17381ab7869a",
    "title": {
-    "en": "enígmә"
+    "en": "en\u00edgm\u04d9"
    },
    "contentRating": "safe",
    "score": 0.3735076,
@@ -168,8 +179,10 @@
     "pl",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "33f41d01-a444-47bb-8b6d-a90eb7045dfb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:08+00:00"
+ "updatedAt": "2021-07-18T06:42:08+00:00",
+ "coverFileName": "81d7ab1b-bf80-45b6-9921-1b5aeccbc549.jpg"
 }

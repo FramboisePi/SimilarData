@@ -8,7 +8,7 @@
   {
    "id": "e0300b2d-9491-4ae3-9f4e-1997aace0dcf",
    "title": {
-    "en": "Noël la neige"
+    "en": "No\u00ebl la neige"
    },
    "contentRating": "safe",
    "score": 0.4626257,
@@ -18,7 +18,8 @@
     "de",
     "fr",
     "bg"
-   ]
+   ],
+   "coverFileName": "6eebbbe1-85bf-4324-9c59-b609d52db989.jpg"
   },
   {
    "id": "f5f9c2f1-bc44-40cd-bb79-710819ac0a91",
@@ -30,7 +31,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2850df18-f515-4de8-a803-13f60cc714fa.jpg"
   },
   {
    "id": "90b4ac2b-77ea-4a61-a97d-3f6417bd7dfa",
@@ -43,7 +45,8 @@
     "es",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "62e84d21-a28e-4147-8a26-ec5acc29bff1.jpg"
   },
   {
    "id": "b71f3782-133a-44dd-9ddf-9e4f03afbafc",
@@ -54,7 +57,8 @@
    "score": 0.3886982,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "942a12c3-66d1-4a36-a6d9-df25cf5cd883.jpg"
   },
   {
    "id": "cc52d4fd-dafd-45b0-bb98-3eff8bdd6836",
@@ -65,7 +69,8 @@
    "score": 0.38380978,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45d8679e-5444-4989-8a2f-5132a9d6c4d8.png"
   },
   {
    "id": "ec9a41a8-de4a-4d69-9757-5e3e79fe5bac",
@@ -76,7 +81,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5139c1cb-afee-4f0a-b24a-860a152f7d33.png"
   },
   {
    "id": "899ac405-c941-4333-83f6-48bc0193e516",
@@ -88,7 +94,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f4504218-cadc-42ed-bcb6-2cfcc74099cb.jpg"
   },
   {
    "id": "3384d199-0774-4a7a-a81f-12458d931096",
@@ -99,7 +106,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "198478d1-df10-4a9c-a688-8159dfcf7676.jpg"
   },
   {
    "id": "cc76b063-dc2f-446f-b3eb-be3b56c1b8d6",
@@ -112,7 +120,8 @@
     "en",
     "ca",
     "ar"
-   ]
+   ],
+   "coverFileName": "a24a5922-e161-4ee9-89f9-8c788d1db4c9.jpg"
   },
   {
    "id": "7e5e180e-50d0-474b-aa5d-1c42f5c9d0d6",
@@ -125,18 +134,20 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "e51b61a3-8196-4d7b-94e2-64f0bd202454.jpg"
   },
   {
    "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
    "title": {
-    "en": "Pokémon Diamond and Pearl"
+    "en": "Pok\u00e9mon Diamond and Pearl"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fadd3904-1289-4f3d-8653-fba818b255b4.png"
   },
   {
    "id": "03c42f22-3397-47b5-86d6-43def0cd5e7c",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f06c5f1e-bba0-4ec8-9929-c285d3df8b92.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:51+00:00"
+ "updatedAt": "2021-07-18T06:35:51+00:00",
+ "coverFileName": "9cc6b6ef-9e8a-4370-89fa-b7742783ff2a.jpg"
 }

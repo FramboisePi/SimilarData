@@ -17,7 +17,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "18324ebc-efa7-4749-9bb1-d91f0baecd9b.jpg"
   },
   {
    "id": "45a9a74a-e81f-4f00-ab96-f5c578e5a1a9",
@@ -28,7 +29,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "559e54be-73b7-43a1-a81a-2aca69ebebb7.jpg"
   },
   {
    "id": "61b7eb48-a00b-44fa-aec7-da87aa3b0dec",
@@ -41,7 +43,8 @@
     "fr",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "0e2d5414-1e88-4c64-a65b-63b5b4fb8c16.jpg"
   },
   {
    "id": "0e8fac17-979e-4e37-8f45-2c334b25d6dd",
@@ -59,7 +62,8 @@
     "it",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "b10527c7-cfe2-4705-a56f-7671c82b0391.jpg"
   },
   {
    "id": "ed1605e1-9695-49ce-ba7a-9b4ff17ad4e6",
@@ -70,7 +74,8 @@
    "score": 0.41873387,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3575aa9c-75a9-4041-8021-af7c83b47e4f.jpg"
   },
   {
    "id": "04e601f2-68c7-46f6-b351-fd7b219ae4f9",
@@ -81,7 +86,8 @@
    "score": 0.39922395,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a39c09d9-5057-44a4-87d7-9fb7775d4ec5.png"
   },
   {
    "id": "bc9ccb3d-bb15-431d-b7ef-35084514df69",
@@ -94,7 +100,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "806bad6f-6c46-43cd-a4d8-6508d5fb4957.jpg"
   },
   {
    "id": "a8df519e-d19b-4167-ba14-3eb4457ae451",
@@ -105,7 +112,8 @@
    "score": 0.38836992,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ffc19bef-b32a-4221-8571-b7fe8e5f0661.jpg"
   },
   {
    "id": "8124f607-a4ee-4806-af9c-5e1900de6fec",
@@ -116,18 +124,20 @@
    "score": 0.38836992,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f761418-78f2-4e21-adf8-b18b029c9bcc.jpg"
   },
   {
    "id": "c106e999-0732-4464-817e-ddd8f113522d",
    "title": {
-    "en": "Fuu \u0026 Mei's Birthday Day"
+    "en": "Fuu & Mei's Birthday Day"
    },
    "contentRating": "safe",
    "score": 0.38836992,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f44c8ca-42e0-4d24-9963-7fc5d484bd4a.jpg"
   },
   {
    "id": "9d71b291-782b-4077-b5d7-46d0d006a681",
@@ -139,7 +149,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "550ffd44-b501-43cd-87fc-93a90cb01856.png"
   },
   {
    "id": "ac9c079b-339c-4e35-a55c-4da7def89ac8",
@@ -155,8 +166,10 @@
     "it",
     "ro",
     "es"
-   ]
+   ],
+   "coverFileName": "d4152c9a-36bc-4d59-8362-e80be53dbbcc.png"
   }
  ],
- "updatedAt": "2021-07-18T06:28:45+00:00"
+ "updatedAt": "2021-07-18T06:28:45+00:00",
+ "coverFileName": "5293f980-e97e-4055-9b1a-b9a3d2b0153b.jpg"
 }

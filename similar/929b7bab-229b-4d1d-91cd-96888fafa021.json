@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "4192c624-0291-41ee-a6b8-afa51573ddbf",
@@ -27,7 +28,8 @@
    "score": 0.4173492,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ec61a37-360b-4548-b983-5c1557f60266.jpg"
   },
   {
    "id": "f6c08a7f-be25-4d1c-bd52-5a52957930c6",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "08e59645-8c92-4764-8f38-4cca686f78d3.png"
   },
   {
    "id": "04cb0726-1de0-44c4-9790-93eb411b3986",
@@ -51,12 +54,13 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "87baf1af-1e28-4d01-8cf0-843019786746.png"
   },
   {
    "id": "60faa457-51f8-4117-805e-4b335e1f3e67",
    "title": {
-    "en": "You’ve Come to the Wrong House, Villain"
+    "en": "You\u2019ve Come to the Wrong House, Villain"
    },
    "contentRating": "safe",
    "score": 0.40226877,
@@ -65,7 +69,8 @@
     "ru",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "1c56957a-3141-4898-8b56-48387753a088.png"
   },
   {
    "id": "57be8062-ba85-4812-9cd8-dc89bb1549a1",
@@ -77,7 +82,8 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "98ddf20f-514a-4ee4-b874-fc3424583340.jpg"
   },
   {
    "id": "c0eacf5e-8ac1-45aa-ad25-fe7d4293db25",
@@ -88,19 +94,21 @@
    "score": 0.40003943,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0936bf60-4b04-44dc-ae1b-6d835e4196c7.jpg"
   },
   {
    "id": "ca9fa6e2-5a42-4676-b730-4e2069cf2e0d",
    "title": {
-    "en": "The Crown Prince's Fiancée"
+    "en": "The Crown Prince's Fianc\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.39657572,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "9ece9e90-63c4-468a-a401-e7205831559e.jpg"
   },
   {
    "id": "9dc9430e-e6c1-4af3-a684-6445062cb634",
@@ -112,7 +120,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "2ab8c147-1d27-46cb-bbe7-af29f4a5f240.jpg"
   },
   {
    "id": "6b7cbe63-7417-47e5-bcc4-9dfe4de1c3a6",
@@ -126,7 +135,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "a3ea2085-7e6c-4e45-b30b-71dc1ffc05d3.jpg"
   },
   {
    "id": "1be38692-c92d-4d9e-81f5-105112a4ad1c",
@@ -137,7 +147,8 @@
    "score": 0.39218363,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e44e944d-49ee-4978-8a01-06472cc7d960.jpg"
   },
   {
    "id": "4f088331-c386-44d9-9c14-ae7889edbc41",
@@ -148,8 +159,10 @@
    "score": 0.390999,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6040ae74-0d20-4bba-aa98-9840154429c1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:47+00:00"
+ "updatedAt": "2021-07-18T06:51:47+00:00",
+ "coverFileName": "07ee1f0a-ba15-40eb-9d61-b98c9bfeed5d.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "2b04d592-caef-465b-81d3-3bf770e9f5f4",
  "title": {
-  "en": "Arcana 03 - Prince \u0026 Princess"
+  "en": "Arcana 03 - Prince & Princess"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "657d28b2-edbf-4b54-84ff-f1f0bb15331c.jpg"
   },
   {
    "id": "ec4217ad-d796-4349-b41b-1b56e8219c9e",
@@ -26,7 +27,8 @@
    "score": 0.4935252,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39502e41-8bbf-4fe9-9361-5c544163f5b0.jpg"
   },
   {
    "id": "879ce2f1-a8da-47ed-b70b-5483f98f774e",
@@ -39,7 +41,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "4d499df1-e885-4ef3-8462-95fc6cfabdd3.jpg"
   },
   {
    "id": "6ee3f7c1-ada3-4dc2-a773-a25e39d9ce88",
@@ -53,7 +56,8 @@
     "it",
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "a12ed541-3372-4ee3-8d87-f7d4295201f2.jpg"
   },
   {
    "id": "1b9f894f-58c1-4fb2-8205-fccccda8859c",
@@ -66,12 +70,13 @@
     "en",
     "fr",
     "hu"
-   ]
+   ],
+   "coverFileName": "b29652ce-d9f1-428c-bfe1-0da6a66c0065.jpg"
   },
   {
    "id": "5fa08e64-ceee-41d9-b48e-39e848bedb82",
    "title": {
-    "en": "Arcana 09 - Transformation☆Personification"
+    "en": "Arcana 09 - Transformation\u2606Personification"
    },
    "contentRating": "safe",
    "score": 0.46294588,
@@ -80,19 +85,21 @@
     "hu",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0b4b7637-7f58-4027-9704-c5cd7f8568fb.jpg"
   },
   {
    "id": "6adab7d5-4efe-4cf1-beb3-fee19ccd0da5",
    "title": {
-    "en": "Arcana 02 - Rebel ・ Phantom Thief"
+    "en": "Arcana 02 - Rebel \u30fb Phantom Thief"
    },
    "contentRating": "safe",
    "score": 0.45429817,
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "54af5e28-4d1a-4a83-8457-dc49d02c4aeb.jpg"
   },
   {
    "id": "3740c588-a11b-4d1f-ba19-807b8b565cf7",
@@ -106,7 +113,8 @@
     "en",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "a2b993c5-2fcf-41a1-9fbb-b6267020c455.jpg"
   },
   {
    "id": "f1d809dc-f159-4b5f-81b4-6c865eb29c67",
@@ -117,7 +125,8 @@
    "score": 0.42750266,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90c894a5-a179-4fc3-bfdb-9163dc564061.jpg"
   },
   {
    "id": "a52cb19a-ad9b-4b9d-917c-daac427d8105",
@@ -130,7 +139,8 @@
     "en",
     "hu",
     "fr"
-   ]
+   ],
+   "coverFileName": "9544cb3c-e1fc-45d5-b775-0cbc676cd7f6.jpg"
   },
   {
    "id": "7d24ea7b-d4e1-4aa5-a26a-9dd1b32edb2b",
@@ -141,7 +151,8 @@
    "score": 0.41204622,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "12048014-bd88-411e-b052-e86d493152fc.jpg"
   },
   {
    "id": "152cfd18-e543-4386-9357-2e3773d66044",
@@ -152,8 +163,10 @@
    "score": 0.4098506,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "047411bb-203b-44d7-b7de-e28e8136587c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:31+00:00"
+ "updatedAt": "2021-07-18T06:32:31+00:00",
+ "coverFileName": "1e708913-6da3-4a0e-979f-ea5349a6344d.png"
 }

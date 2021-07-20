@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "f768c486-346e-450e-9923-b83ac467d998.jpg"
   },
   {
    "id": "6c8f73ff-330b-4202-ac6d-75736131e2af",
@@ -26,7 +27,8 @@
    "score": 0.46588638,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4bde280-0dfe-4816-a9df-d8af1b1b9718.jpg"
   },
   {
    "id": "8df6a5b3-a068-4f71-b0ab-2eceba32a1bf",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "661465cc-5315-4d40-ac6c-408638ac48c8.jpg"
   },
   {
    "id": "5248deff-4686-4b24-9d1d-b6794b17ebbd",
@@ -52,7 +55,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e1e1f5a5-cded-4105-bc12-e46ec4e0cec9.jpg"
   },
   {
    "id": "4a97afea-bca8-47cc-bdc7-ff344187a847",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f500c7f2-1410-4bc3-b3bf-24f3e0ac701b.jpg"
   },
   {
    "id": "c81ea380-9b07-4f69-9fc3-78cd3dd6c6ba",
@@ -75,7 +80,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7574412-35f7-4c66-bd64-a3feebe34053.jpg"
   },
   {
    "id": "682bc52e-30a8-4fd1-823a-7135f3e61f4e",
@@ -86,7 +92,8 @@
    "score": 0.446379,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2a0a4732-3797-4bb9-a6fb-06f831acc6ad.jpg"
   },
   {
    "id": "6b486fea-e4af-4c4b-9623-498c22afee79",
@@ -97,12 +104,13 @@
    "score": 0.43789983,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "58436df1-ec89-4691-ad90-7ca6476a018c.jpg"
   },
   {
    "id": "fab178fc-7735-4406-8e46-7588a58eb5e8",
    "title": {
-    "en": "Fights Break Sphere – The Legend of Yao Lao"
+    "en": "Fights Break Sphere \u2013 The Legend of Yao Lao"
    },
    "contentRating": "safe",
    "score": 0.43757838,
@@ -111,7 +119,8 @@
     "ru",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "085c41a9-b667-4e84-b8ba-aa59fc189d91.png"
   },
   {
    "id": "234aff76-b716-4d38-aa74-1f94e5b4f01f",
@@ -124,7 +133,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "029d4d9d-1ecb-4aae-be9f-a12f8d626ea7.jpg"
   },
   {
    "id": "9f73bd5e-30a8-4ba6-a276-c7a58d368a09",
@@ -138,7 +148,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d6b98ddd-a836-4154-9728-7f08017c2356.jpg"
   },
   {
    "id": "8fe35785-803d-461d-abad-73cf2f81ca4b",
@@ -149,8 +160,10 @@
    "score": 0.41493392,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "babbeae8-a76b-4899-bd6a-f98075a597ed.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:04+00:00"
+ "updatedAt": "2021-07-18T07:03:04+00:00",
+ "coverFileName": "8a453bed-d2e6-4b6b-a0d8-ce3c393d3f4a.jpg"
 }

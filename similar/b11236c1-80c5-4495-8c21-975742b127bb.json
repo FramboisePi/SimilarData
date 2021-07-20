@@ -1,7 +1,7 @@
 {
  "id": "b11236c1-80c5-4495-8c21-975742b127bb",
  "title": {
-  "en": "Hypnosis Mic -Division Rap Battle- side B.B \u0026 M.T.C"
+  "en": "Hypnosis Mic -Division Rap Battle- side B.B & M.T.C"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "3ae54028-8879-498f-a80a-5562fea014b0.png"
   },
   {
    "id": "93b49513-33fa-4fef-9bf2-36e95db5c07f",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "79d007bd-0e30-4d1b-b7a3-b049c6961d8d.jpg"
   },
   {
    "id": "5095cbd2-4dfb-4ab2-9dd0-690ac3c75dd7",
@@ -43,7 +45,8 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "052b5066-0b65-4c2e-9e9e-26d7f7799e10.jpg"
   },
   {
    "id": "62c12d93-e9cd-4879-9fcf-e1ee4c443204",
@@ -55,7 +58,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "83b0a85d-889f-47cc-a573-fdfbfb78075f.jpg"
   },
   {
    "id": "4bde51e5-e420-45a4-98e9-7405bf2d59ff",
@@ -72,7 +76,8 @@
     "uk",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "8ac865d1-4024-40d3-bf23-93c68fd400fa.jpg"
   },
   {
    "id": "a2f9d3c4-5e32-46da-947a-ab5a87bd039b",
@@ -84,7 +89,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6d0a5319-3ba3-4593-a8b2-269d5e3b4500.jpg"
   },
   {
    "id": "4cedd07e-bb0c-4e07-96ba-2ceb7ba55bea",
@@ -98,7 +104,8 @@
     "fr",
     "tr",
     "it"
-   ]
+   ],
+   "coverFileName": "c58cd5cb-8e04-47d7-9ef6-054606bc6f72.jpg"
   },
   {
    "id": "2036ce4b-46ac-4e88-b0b1-90b3ea3aa1a1",
@@ -112,7 +119,8 @@
     "en",
     "pt-br",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "448912fe-0e98-4bb6-ae40-d1be6297fc98.jpg"
   },
   {
    "id": "394554c8-8366-4cd9-9104-eb36c509ca50",
@@ -125,7 +133,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3140ae50-2640-47eb-a7eb-08efa1be638d.jpg"
   },
   {
    "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
@@ -142,7 +151,8 @@
     "tr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "2235bc7a-f297-4c93-b836-58f4e7b9b60a.jpg"
   },
   {
    "id": "d437bad6-bcd3-425d-a411-114b3e533258",
@@ -155,7 +165,8 @@
     "es-la",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "25c10489-1deb-4c92-b029-73ae255e5204.jpg"
   },
   {
    "id": "7bb7e5ae-a784-4009-98b2-8ad4a7541548",
@@ -172,8 +183,10 @@
     "it",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "845655d5-478d-4d52-96ad-7f194345afbb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:22+00:00"
+ "updatedAt": "2021-07-18T06:57:22+00:00",
+ "coverFileName": "81b554ea-73a9-43c2-a3d8-7e10ef1ed789.png"
 }

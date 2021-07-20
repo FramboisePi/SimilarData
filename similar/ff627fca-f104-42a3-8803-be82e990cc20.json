@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "130e1324-1d32-4284-830d-35e11d098f0f.jpg"
   },
   {
    "id": "38229c4c-4f69-4b0d-a6d9-a4a6a9048baf",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7a968e8d-f02e-41df-91dd-83d19461cf27.png"
   },
   {
    "id": "9de1dfd8-5b83-48c2-84d4-2ed3be325995",
@@ -39,7 +41,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "b33c9aaa-a805-447e-81eb-f5afac3e90e2.png"
   },
   {
    "id": "88cd9471-b947-4226-b808-c2b2d4bc1a3b",
@@ -52,7 +55,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "874f3d1e-881d-4988-950e-feab624245c0.jpg"
   },
   {
    "id": "7f90eae3-0156-408f-8afe-901fe34ffd08",
@@ -63,7 +67,8 @@
    "score": 0.45,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6f56c6a4-3485-436e-9691-97fbd328d4e8.jpg"
   },
   {
    "id": "49cd9c08-9a2a-4290-9936-a4522b23bff4",
@@ -76,7 +81,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0881940f-ffcc-4a26-8624-a0c69999ae66.jpg"
   },
   {
    "id": "3869d971-abef-4d68-8074-14f171a760a6",
@@ -87,7 +93,8 @@
    "score": 0.45,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9d7c0751-0945-49cb-b933-b62edcd2d8ce.jpg"
   },
   {
    "id": "63049d2e-5d99-47e8-aa04-25ce159a692a",
@@ -99,7 +106,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "acc0b072-019b-4d64-9f5d-0ad433c154f8.jpg"
   },
   {
    "id": "2648461f-41c8-4648-89a1-de7dc9378c8c",
@@ -111,12 +119,13 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6d85594d-f316-481d-ac1d-e9163ea085d9.png"
   },
   {
    "id": "08135a58-367d-40ce-8645-d27b6a7fd6c4",
    "title": {
-    "en": "A Certain Boy and Girl’s Memories of a Valentine’s Day and White Day"
+    "en": "A Certain Boy and Girl\u2019s Memories of a Valentine\u2019s Day and White Day"
    },
    "contentRating": "safe",
    "score": 0.45,
@@ -126,7 +135,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c0538368-153d-47ca-98b4-99872d2309b9.jpg"
   },
   {
    "id": "32f48067-68bf-451a-99aa-0acc3c73fa1b",
@@ -138,7 +148,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8e885b35-7dc4-42ba-a11b-377ff7c03ec5.jpg"
   },
   {
    "id": "8305911a-7aa9-4537-9d5d-74bc299bf8f0",
@@ -150,8 +161,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ca221cde-e1f9-4ba3-a133-fdbd738a809f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:43+00:00"
+ "updatedAt": "2021-07-18T07:11:43+00:00",
+ "coverFileName": "3b283bee-1928-43ab-a01a-bbe0f093dbcf.jpg"
 }

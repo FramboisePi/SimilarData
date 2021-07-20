@@ -14,7 +14,8 @@
    "score": 0.96208465,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f11213b1-d55c-46a6-8297-f7ce02e9b837.jpg"
   },
   {
    "id": "53282330-8754-44db-943f-958a6620b401",
@@ -25,7 +26,8 @@
    "score": 0.46528983,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16d3d48c-1825-4965-8831-89ad5df40c97.jpg"
   },
   {
    "id": "6da102e6-34da-4e56-b502-6bd095e9e4b5",
@@ -37,7 +39,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "0a23ce97-b3b9-44f9-b9c1-a86b36eb0442.png"
   },
   {
    "id": "83371cc0-a25c-4042-918c-c97d7dec35ab",
@@ -49,18 +52,20 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "52d9d7a9-300e-41ef-a59b-8352acd537e1.png"
   },
   {
    "id": "57e5f8a4-8cc6-4864-bc80-8bff778cf288",
    "title": {
-    "en": "You’re Learning Mahjong Now!!"
+    "en": "You\u2019re Learning Mahjong Now!!"
    },
    "contentRating": "safe",
    "score": 0.3495408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97382233-8c74-476e-9ca8-93fb021bb62d.jpg"
   },
   {
    "id": "f8edfa1b-a711-4681-aa54-5b78ef10d874",
@@ -71,7 +76,8 @@
    "score": 0.3495408,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "785cc65f-dcd9-44d0-8ef7-2df7b5d0b42c.png"
   },
   {
    "id": "3a3927d4-be93-4b05-9336-ca9d1a0e4cf8",
@@ -87,7 +93,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "95c13887-f3b8-4149-b83c-f64fd0fb72a8.jpg"
   },
   {
    "id": "1e1432fb-2687-4444-8a51-d6ea23259071",
@@ -99,7 +106,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b8d30b17-028e-41ed-ad8d-d895be75297d.jpg"
   },
   {
    "id": "195f86aa-2982-410c-b13b-d02a940cd869",
@@ -110,7 +118,8 @@
    "score": 0.34485698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd88a6f4-0e04-40f6-84aa-5dfcb4b04723.jpg"
   },
   {
    "id": "ccb654fd-d4de-44d1-a9c1-f58ba34f3510",
@@ -121,19 +130,21 @@
    "score": 0.34485698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d382969-ce9d-4027-9b5c-94526c8876c6.jpg"
   },
   {
    "id": "c1328e21-01ce-481d-9951-0a839e0b24f9",
    "title": {
-    "en": "Mon amie étourdie"
+    "en": "Mon amie \u00e9tourdie"
    },
    "contentRating": "safe",
    "score": 0.34485698,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f420360d-0067-4df0-9792-d3e2354311de.jpg"
   },
   {
    "id": "85da5551-6bca-4ed4-9f72-e47e7d797c4b",
@@ -144,8 +155,10 @@
    "score": 0.34485698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cfad3484-3304-4c82-b61d-427dc16988e7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:23+00:00"
+ "updatedAt": "2021-07-18T06:28:23+00:00",
+ "coverFileName": "a20e304e-3630-4953-b641-d8366c2adfb0.png"
 }

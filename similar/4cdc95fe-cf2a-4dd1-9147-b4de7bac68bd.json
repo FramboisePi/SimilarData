@@ -1,7 +1,7 @@
 {
  "id": "4cdc95fe-cf2a-4dd1-9147-b4de7bac68bd",
  "title": {
-  "en": "Virtual Reality \u0026 RPG"
+  "en": "Virtual Reality & RPG"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "ru",
     "fa",
     "en"
-   ]
+   ],
+   "coverFileName": "373cf109-0d9e-4de9-bfa8-cc039b21ebb3.jpg"
   },
   {
    "id": "ae8c6312-6121-4469-846f-637f40afbd3b",
@@ -35,7 +36,8 @@
     "pl",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "b2d6e929-53bb-4b3b-8bd7-b9d90f13d61d.png"
   },
   {
    "id": "e29133fe-0e5e-4a4f-b91d-7232a07c8348",
@@ -47,7 +49,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9dfc603e-1cb9-40a6-89c1-58ddd3c29367.jpg"
   },
   {
    "id": "68fb61ac-212d-46ae-8f6e-4eb780b1755a",
@@ -58,7 +61,8 @@
    "score": 0.5039307,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "d9bfe858-68ec-4649-a537-ebfa7fa4f7f7.jpg"
   },
   {
    "id": "54fa20c3-3509-40a7-a69c-a1eda2f8702a",
@@ -69,7 +73,8 @@
    "score": 0.4796052,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c9de913-e214-451f-8ea9-1233fcf0da8b.png"
   },
   {
    "id": "04221702-af13-4650-abc9-f3e66c7a63bb",
@@ -82,7 +87,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "0705ec26-c9fa-4cd5-b8de-14bc0817fc5e.jpg"
   },
   {
    "id": "8d1fe9d9-1ba7-44ea-b45c-ab845899aab2",
@@ -93,7 +99,8 @@
    "score": 0.46874556,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "89e5a372-4ae7-4e97-b000-19153a68cf72.jpg"
   },
   {
    "id": "ec535b09-51d7-4bd2-bb53-f854a90629f5",
@@ -106,7 +113,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f73b79b7-a04b-4316-b331-76327b363329.jpg"
   },
   {
    "id": "3fc308c9-4b00-4dc3-943e-1f39242bc708",
@@ -124,7 +132,8 @@
     "de",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "977d8303-5ec7-49ca-bc4e-2cb4a1b7d96a.jpg"
   },
   {
    "id": "ccd687b4-bce0-4b27-a709-52f290fb4f3f",
@@ -141,7 +150,8 @@
     "tr",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "8172f9ff-481b-4207-ab07-84a939b0168d.jpg"
   },
   {
    "id": "1a16785f-c41f-48c2-ab68-2f102bf6ac72",
@@ -154,7 +164,8 @@
     "en",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "fe9a7422-869f-4099-b8c1-1bbe0c7ffc47.png"
   },
   {
    "id": "534c1b5b-aff6-44fd-bf68-7294e6526fb3",
@@ -169,8 +180,10 @@
     "id",
     "pl",
     "de"
-   ]
+   ],
+   "coverFileName": "18ee2b06-bbaf-48eb-98e2-db63746ab90b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:47+00:00"
+ "updatedAt": "2021-07-18T06:38:47+00:00",
+ "coverFileName": "8db0fd59-12e8-456b-aab8-be914d5b9f95.jpg"
 }

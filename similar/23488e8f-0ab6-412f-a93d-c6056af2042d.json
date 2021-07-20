@@ -14,7 +14,8 @@
    "score": 0.405,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "9f91ae87-3e5b-43b6-96dd-e7a934a79317.jpg"
   },
   {
    "id": "b8c4556b-c156-4026-a35d-163f413b074b",
@@ -27,7 +28,8 @@
     "ru",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "88437e8e-9a85-4faa-931a-96a8819874e5.jpg"
   },
   {
    "id": "e9858c9c-e57d-411a-9155-cb0ca4982fd8",
@@ -39,7 +41,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "f179c866-5085-4e53-b759-049f66015452.png"
   },
   {
    "id": "b847ca8b-1b14-4780-98eb-10049467bc03",
@@ -55,7 +58,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "62e32581-f98c-4a02-b01d-790b124a3399.png"
   },
   {
    "id": "aa115187-8923-4e71-9eaf-c5f491db8dd6",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "e46b895a-5ecc-4c6f-a4dc-3fa2d1ef25df.jpg"
   },
   {
    "id": "cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
@@ -82,7 +87,8 @@
     "es-la",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "a64c01f2-de63-4cb1-9352-0b419a26762d.jpg"
   },
   {
    "id": "ab078864-74ff-485f-8a46-4331481221e9",
@@ -96,7 +102,8 @@
     "tr",
     "fr",
     "th"
-   ]
+   ],
+   "coverFileName": "408c3830-cd06-4773-a737-d2df8d54d156.jpg"
   },
   {
    "id": "b6e291d1-5613-4b12-bcce-0c04877a7c0c",
@@ -107,7 +114,8 @@
    "score": 0.34324652,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "c518caf5-419e-4097-9e66-d92ec95af4dd.jpg"
   },
   {
    "id": "1ffca916-3ad7-46d2-9591-a9b39e639971",
@@ -127,7 +135,8 @@
     "fr",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "51c01fb4-14d3-44ce-a5c9-d2a3ee4d07a0.jpg"
   },
   {
    "id": "0104ff8d-1837-4d67-ad82-751d9719735f",
@@ -139,7 +148,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0423a715-0c76-4301-a622-4a7d9906738c.jpg"
   },
   {
    "id": "a5f50025-d093-48c8-89da-35e23e289705",
@@ -153,12 +163,13 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "b36f14b5-dfdb-4f58-8eb6-b71dad9e28b8.jpg"
   },
   {
    "id": "4cdc95fe-cf2a-4dd1-9147-b4de7bac68bd",
    "title": {
-    "en": "Virtual Reality \u0026 RPG"
+    "en": "Virtual Reality & RPG"
    },
    "contentRating": "safe",
    "score": 0.33203915,
@@ -166,8 +177,10 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "8db0fd59-12e8-456b-aab8-be914d5b9f95.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:03+00:00"
+ "updatedAt": "2021-07-18T06:31:03+00:00",
+ "coverFileName": "1fb826cd-de0e-4371-8e23-b39cc199ee33.jpg"
 }

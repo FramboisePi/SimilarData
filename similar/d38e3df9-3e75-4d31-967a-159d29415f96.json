@@ -1,7 +1,7 @@
 {
  "id": "d38e3df9-3e75-4d31-967a-159d29415f96",
  "title": {
-  "en": "Kanojo ga Café ni Kayou Wake"
+  "en": "Kanojo ga Caf\u00e9 ni Kayou Wake"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "895cb322-cff3-4d09-98e1-98f33bcdb603.jpg"
   },
   {
    "id": "44b4570e-9c50-43cd-92b2-520a37a679ca",
@@ -28,7 +29,8 @@
    "score": 0.35875845,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b679fd0-ef73-4934-a250-3cb34bd75f29.jpg"
   },
   {
    "id": "b6517d1d-d35a-435e-bdde-876a98caec7a",
@@ -39,7 +41,8 @@
    "score": 0.35875845,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "14929c4e-43f0-4117-bf9b-68e08eb18fa1.jpg"
   },
   {
    "id": "e2d8fc38-be2f-4053-99b0-00501111fb8f",
@@ -50,7 +53,8 @@
    "score": 0.35875845,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a586bf4-c261-4d1a-b31f-4a47f207a8bb.jpg"
   },
   {
    "id": "7ad3e75c-7c76-42a9-bf2f-12291f2bc442",
@@ -61,7 +65,8 @@
    "score": 0.35875845,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a6628b4-5d36-4eb8-827a-1e010932b7bd.png"
   },
   {
    "id": "4c6df534-162b-4706-a8f1-2f9827f8e881",
@@ -72,7 +77,8 @@
    "score": 0.35875845,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e94f80ec-ebeb-4b06-8ad2-225f03bd5c9d.jpg"
   },
   {
    "id": "54faba98-d4dd-42d6-8d2e-2e974aaa3f89",
@@ -83,18 +89,20 @@
    "score": 0.3457389,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73869bf8-23bf-4f01-9e98-9ee6afb5a012.jpg"
   },
   {
    "id": "584dc44c-62af-4ab2-adb6-efcf7eee77da",
    "title": {
-    "en": "Café Café"
+    "en": "Caf\u00e9 Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.33837822,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f71275b7-b289-45d2-bbd8-f10a377a3513.jpg"
   },
   {
    "id": "786d3943-a0af-494e-b417-60cf57934e3b",
@@ -105,7 +113,8 @@
    "score": 0.3372335,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "87ae018f-5f9d-49dc-8e1a-81ecfe108b74.jpg"
   },
   {
    "id": "577a0751-c1aa-43a8-8166-88adbf31d158",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1748a82d-1262-48bc-bcd8-dad536f4b4aa.jpg"
   },
   {
    "id": "770ee34b-61a8-4cd5-97e2-e220ec8ecdf3",
@@ -128,7 +138,8 @@
    "score": 0.32050622,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cae10f23-225f-4d82-814f-682066e52216.jpg"
   },
   {
    "id": "3af9940f-9296-42d8-8246-3e5ee7fe7750",
@@ -139,8 +150,10 @@
    "score": 0.31862357,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "15b2a6a4-8e6e-48c8-ab1e-685e78b3ec69.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:40+00:00"
+ "updatedAt": "2021-07-18T07:03:40+00:00",
+ "coverFileName": "57f27d06-0cb3-486e-92ad-9131e076753d.jpg"
 }

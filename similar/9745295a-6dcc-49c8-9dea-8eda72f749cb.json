@@ -8,7 +8,7 @@
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.5238001,
@@ -19,7 +19,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
@@ -31,7 +32,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "310057f9-2619-47ed-a760-e77d794611d0.png"
   },
   {
    "id": "17cf15ba-b934-4509-bc79-7c415c5d0d56",
@@ -43,7 +45,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "2ab6a428-ece8-4ba8-b97c-cc92c46da24c.jpg"
   },
   {
    "id": "68879ad5-68b8-4f40-a9a8-2e58ab9eb02c",
@@ -54,7 +57,8 @@
    "score": 0.4466627,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e658f213-cd5c-446b-a11b-34230c97565d.png"
   },
   {
    "id": "5b5260d9-af27-41b7-a178-13d08518ed66",
@@ -65,7 +69,8 @@
    "score": 0.44585013,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7b04641-603e-4114-a964-75be9ea80306.jpg"
   },
   {
    "id": "81cf5e6e-09d0-43df-9ddc-f38acfbf970d",
@@ -77,7 +82,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "4522f3ff-fd83-4e81-b797-5985bf05c7ab.jpg"
   },
   {
    "id": "e62c0afd-26af-43ab-8d62-a7c39b72f62d",
@@ -88,7 +94,8 @@
    "score": 0.43646282,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5862031a-4e0d-4492-917d-3024285d8035.jpg"
   },
   {
    "id": "7be5fbde-2524-4124-9463-dc36b99f1d5d",
@@ -99,19 +106,21 @@
    "score": 0.42950287,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6feb2bc4-2282-43d5-8f8d-1c2c5b566ffb.jpg"
   },
   {
    "id": "f56228ad-ba71-41bc-a438-977578d4d68f",
    "title": {
-    "en": "Sora no Kiseki Gaiden - Löwe Monogatari"
+    "en": "Sora no Kiseki Gaiden - L\u00f6we Monogatari"
    },
    "contentRating": "safe",
    "score": 0.42945778,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "7ddfccc2-7caf-490b-8132-11608009148e.jpg"
   },
   {
    "id": "caddfaef-9f94-49e2-9fb6-7514b3d2e2ca",
@@ -123,7 +132,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "cd0cfb42-0e5e-4df0-979a-820a2fd56efc.jpg"
   },
   {
    "id": "05e41447-5317-4e3b-8e86-77206306d4b0",
@@ -134,7 +144,8 @@
    "score": 0.42031306,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51ddde22-9d11-4e95-bec5-feff8a69fd21.jpg"
   },
   {
    "id": "b52373ec-2727-44bd-bfe6-8c8c53e0030e",
@@ -145,8 +156,10 @@
    "score": 0.41714004,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cab7af1e-7639-460d-a321-36fa6c88ccd5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:39+00:00"
+ "updatedAt": "2021-07-18T06:52:39+00:00",
+ "coverFileName": "8fb3982d-cff4-47c1-bc95-d983f94e0e9c.jpg"
 }

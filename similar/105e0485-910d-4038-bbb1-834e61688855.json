@@ -1,7 +1,7 @@
 {
  "id": "105e0485-910d-4038-bbb1-834e61688855",
  "title": {
-  "en": "Happy★Lesson"
+  "en": "Happy\u2605Lesson"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4531006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b16dbee2-5a8c-422b-b754-6c5cbb7642d2.jpg"
   },
   {
    "id": "0fc730bf-45d6-42c1-8823-1c379aa1309e",
@@ -28,7 +29,8 @@
     "tl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "237aabc5-4f44-479f-94ee-6ae8897a4df7.jpg"
   },
   {
    "id": "d381ddae-cd50-4259-9cc6-0fc1cb194a4b",
@@ -42,7 +44,8 @@
     "ru",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "380c19c4-4fc1-481c-93ad-aacce985a0f0.jpg"
   },
   {
    "id": "be046b54-189d-4481-ab39-54da98f76ded",
@@ -56,7 +59,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f61d4f33-8568-4a43-8faa-3b3b37dd525f.jpg"
   },
   {
    "id": "50797c23-72d2-481c-a450-f99ef862f0ed",
@@ -68,7 +72,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7eaa7cfc-9b39-4697-8d6f-8f6ca2e1957d.jpg"
   },
   {
    "id": "8d186d3b-1076-40a7-b61b-86a3a00d43b5",
@@ -80,7 +85,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "533e54d3-b074-44d7-9534-25d32f88a859.jpg"
   },
   {
    "id": "079e07bb-92e7-477c-85c0-cdb0a2116ef9",
@@ -93,7 +99,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "b503acd1-e775-4fd6-b866-0114db461fde.jpg"
   },
   {
    "id": "2d61581c-0ec5-450e-82f6-ea2b96671e6a",
@@ -105,7 +112,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "9ff52273-79b7-44ff-9df7-00b3c96fcedd.jpg"
   },
   {
    "id": "cc79f19c-457a-4f7f-813d-22a83c0281e9",
@@ -118,7 +126,8 @@
     "es-la",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "770cf034-d58a-48f8-b9b2-fd138ae68e55.jpg"
   },
   {
    "id": "f4a437a2-cfd9-460e-877a-de64f1ea37b9",
@@ -129,7 +138,8 @@
    "score": 0.40032303,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2913ebfa-8ac9-4d32-9f8d-f30e8c2e9f80.jpg"
   },
   {
    "id": "3a274463-c15f-4270-a255-b7d20e2a9e19",
@@ -140,7 +150,8 @@
    "score": 0.39560854,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ce35593-cbba-41e3-9018-b12b17cc97af.jpg"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -158,8 +169,10 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   }
  ],
- "updatedAt": "2021-07-18T06:27:31+00:00"
+ "updatedAt": "2021-07-18T06:27:31+00:00",
+ "coverFileName": "73875d92-e6f0-471b-8228-ef126a393b5e.jpg"
 }

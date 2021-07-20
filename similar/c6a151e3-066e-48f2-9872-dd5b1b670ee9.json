@@ -19,7 +19,8 @@
     "ru",
     "de",
     "id"
-   ]
+   ],
+   "coverFileName": "172caa9b-2b92-479c-aab4-081418703834.jpg"
   },
   {
    "id": "ece511da-3461-421a-8275-7af48a642aa5",
@@ -32,7 +33,8 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ffad2e9e-f474-4365-af15-265684fd7e7c.jpg"
   },
   {
    "id": "984aca30-6032-4df4-9b02-e26793df98c0",
@@ -45,7 +47,8 @@
     "en",
     "es-la",
     "es"
-   ]
+   ],
+   "coverFileName": "ce2446e1-5c98-4838-b91a-334630d7fb1c.jpg"
   },
   {
    "id": "1ff4968e-c86a-4099-91d7-fc1b6b06f3dd",
@@ -56,19 +59,21 @@
    "score": 0.1342562,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a4a08dda-afe6-4578-8f17-a1787c0194bd.jpg"
   },
   {
    "id": "f0ce2b27-612c-4f19-b7e0-45988c7477f8",
    "title": {
     "en": "We're All Doing It",
-    "jp": "僕らはみんなやっている"
+    "jp": "\u50d5\u3089\u306f\u307f\u3093\u306a\u3084\u3063\u3066\u3044\u308b"
    },
    "contentRating": "erotica",
    "score": 0.10442148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "493548c3-61f8-4ada-86e2-77a6a52f7418.png"
   },
   {
    "id": "be07b7e1-760d-4ca4-a96b-2ec31a4c70f3",
@@ -79,8 +84,10 @@
    "score": 0.09767735,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c9235d8-a718-4606-acc3-0a97c341a97b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:16+00:00"
+ "updatedAt": "2021-07-18T07:01:16+00:00",
+ "coverFileName": "beea80a8-3bdb-469a-bfdc-5ebdaaba9050.jpg"
 }

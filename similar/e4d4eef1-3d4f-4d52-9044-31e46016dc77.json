@@ -1,7 +1,7 @@
 {
  "id": "e4d4eef1-3d4f-4d52-9044-31e46016dc77",
  "title": {
-  "en": "The Twin Siblings’ New Life"
+  "en": "The Twin Siblings\u2019 New Life"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "039cdac8-8b1a-40f4-a1ad-45280bba6db2.jpg"
   },
   {
    "id": "722a45c0-5e55-40f2-929b-ff69b0989edb",
@@ -31,7 +32,8 @@
     "id",
     "tr",
     "ar"
-   ]
+   ],
+   "coverFileName": "42756364-56a5-43c2-bc46-9702984dd6bf.jpg"
   },
   {
    "id": "511d0530-d743-431b-be39-842065d4d011",
@@ -44,7 +46,8 @@
     "en",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2ff42524-6952-4192-9e16-dec1cde33615.jpg"
   },
   {
    "id": "d5cdc845-fd5d-4497-a993-131d65e00e97",
@@ -59,7 +62,8 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "cf41398d-f5db-4cfc-8b43-31cf2d8a068d.jpg"
   },
   {
    "id": "16851fef-456a-4efe-ae95-5ac51aa0506a",
@@ -73,7 +77,8 @@
     "tr",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1cf40a81-15e4-4b79-8005-ed4bb770e222.jpg"
   },
   {
    "id": "d80322ff-3923-48ee-b823-0e9dda3aa8c2",
@@ -87,7 +92,8 @@
     "tr",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "7d429ac3-9212-4607-a5fc-efbde52c94bb.jpg"
   },
   {
    "id": "f23d78c0-a829-44d7-8bb9-70b5827630a1",
@@ -100,7 +106,8 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "c9237ab1-ee0b-4745-8acf-6b0b52b949cd.jpg"
   },
   {
    "id": "6678b794-63fe-4f46-b94e-4bd55a21e594",
@@ -113,7 +120,8 @@
     "es",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "51344c0b-c1b5-475e-b8ad-8125c7905a3d.jpg"
   },
   {
    "id": "85b4d2f6-b4bc-42ba-b478-7ecde3b706e1",
@@ -125,7 +133,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "8f6ed7cb-df20-46f2-9268-5af0db8e41a5.jpg"
   },
   {
    "id": "da89755c-f069-48b1-90d4-cebf5f0b2a54",
@@ -139,7 +148,8 @@
     "id",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "cc0d8794-393c-4ff2-8f4e-658fb2942e9d.jpg"
   },
   {
    "id": "99019635-263a-4ef2-8b40-d2c314388f97",
@@ -150,7 +160,8 @@
    "score": 0.41605723,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5cca2b08-0e08-48ee-950f-8bf8f5d0aea0.jpg"
   },
   {
    "id": "1ed17a14-6153-4279-8cf1-0a955bf60932",
@@ -162,8 +173,10 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "852e6abd-4dbe-4465-8b2a-b1111f6d102f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:51+00:00"
+ "updatedAt": "2021-07-18T07:06:51+00:00",
+ "coverFileName": "b57f596b-2feb-47a6-9f97-c749b43a4ac5.jpg"
 }

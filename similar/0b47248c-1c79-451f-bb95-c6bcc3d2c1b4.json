@@ -19,7 +19,8 @@
     "id",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "54c222eb-be2e-42da-85e0-6b85c6142df4.jpg"
   },
   {
    "id": "3698b7d5-f567-4db7-a503-0b7b0fdf5c3e",
@@ -33,7 +34,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "5dee7c86-ce3c-44e9-b72a-6469b9f6a771.jpg"
   },
   {
    "id": "782211b2-44ca-44ae-89f2-8a1160221b96",
@@ -47,7 +49,8 @@
     "th",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "79734ac6-9252-419c-bbdb-34660fda9bbc.jpg"
   },
   {
    "id": "c6688914-d838-4d2b-886b-08990f69b9c0",
@@ -59,7 +62,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a2de47a7-453d-44f7-82eb-64ca8141f3bf.jpg"
   },
   {
    "id": "f06be3d4-7146-4137-ba00-7760babab33a",
@@ -72,7 +76,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "1bcc116f-ea95-41a1-9d8b-23c141bc117f.jpg"
   },
   {
    "id": "c466ced0-ec48-47c1-a8cf-d5ff1fe9d0d2",
@@ -88,7 +93,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "477feaec-fc17-45a7-93aa-fab8c5f95772.jpg"
   },
   {
    "id": "c6c428b5-b8e4-42f6-8777-8f548f45e79d",
@@ -105,7 +111,8 @@
     "es-la",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "2aafc8d5-43fa-47f5-81e0-9c91696a9e1d.jpg"
   },
   {
    "id": "e9cda134-9c53-4dd2-8ce0-f9b0171afb39",
@@ -121,7 +128,8 @@
     "es-la",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "f7059abc-0f60-45a3-8b73-e8f35433421b.jpg"
   },
   {
    "id": "f3ddc6af-998a-4475-9691-3ca83534f349",
@@ -137,7 +145,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "aab8896d-613e-492d-be67-4db44de4a829.jpg"
   },
   {
    "id": "e3b0df92-1218-4209-bf8a-f3e6fbcbae76",
@@ -149,12 +158,13 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "037b03b7-4435-4687-ae4a-79e786561d39.jpg"
   },
   {
    "id": "2dab66cc-f819-4ac4-8566-717331348f4b",
    "title": {
-    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn’t Too Much of a Hassle"
+    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn\u2019t Too Much of a Hassle"
    },
    "contentRating": "safe",
    "score": 0.28366658,
@@ -163,7 +173,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "5cfe0c26-0ba4-4d2d-857c-69d6bddc978b.jpg"
   },
   {
    "id": "a220cb1c-cec6-42c1-b038-bf1ef64190d8",
@@ -178,8 +189,10 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "47bb8fcd-4df1-4262-a5c0-7b0e70ae1954.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:34+00:00"
+ "updatedAt": "2021-07-18T06:26:34+00:00",
+ "coverFileName": "b5b4231b-c1b6-414a-9c2f-e156ce995d7b.jpg"
 }

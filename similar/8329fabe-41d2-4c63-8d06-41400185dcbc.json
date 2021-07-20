@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "61c6f6e2-980d-4c5a-8de4-5dd10cc1e22f.jpg"
   },
   {
    "id": "f378234a-298a-4b78-bef5-205ab688566f",
@@ -26,7 +27,8 @@
    "score": 0.387769,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41a53ad8-834c-40bf-bfc5-68fd12cca317.jpg"
   },
   {
    "id": "b143f192-85d2-434a-88d3-e0b770d9d827",
@@ -37,7 +39,8 @@
    "score": 0.3821249,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71faf0f6-c6f8-410f-8244-45456dfd1cd8.jpg"
   },
   {
    "id": "3e0b5e97-97b6-4c10-94ae-5bb4e0dad43c",
@@ -50,7 +53,8 @@
     "en",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "db3cb85e-6478-45e7-be41-b80584c4f77d.jpg"
   },
   {
    "id": "722dab7c-7386-49f2-851a-2348515de82b",
@@ -61,7 +65,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d98d7287-8d16-4526-8d47-69aad061d4d2.jpg"
   },
   {
    "id": "df09630f-9f92-4142-b4eb-7e8617b4da53",
@@ -73,7 +78,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "1d45dc16-19c2-4c4c-9e75-a30bb7eead33.jpg"
   },
   {
    "id": "decbaf7e-35a0-4b31-943c-edc14a020f64",
@@ -86,12 +92,13 @@
     "ru",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "11807ace-8cf2-4a24-8020-f703ce57b306.jpg"
   },
   {
    "id": "59b36734-f2d6-46d7-97c0-06cfd2380852",
    "title": {
-    "en": "Tokyo卍Revengers"
+    "en": "Tokyo\u534dRevengers"
    },
    "contentRating": "safe",
    "score": 0.3660587,
@@ -107,7 +114,8 @@
     "id",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "57f3e550-e0f0-4078-b248-5bc0707fcd51.jpg"
   },
   {
    "id": "ced910fb-8542-48bd-b87a-5ff662185295",
@@ -118,7 +126,8 @@
    "score": 0.36316627,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "569bc0ef-8e38-41bb-b2e6-e30821e910bf.jpg"
   },
   {
    "id": "634d0c50-cd12-4016-9437-d5fb48c1f535",
@@ -132,7 +141,8 @@
     "id",
     "es",
     "ru"
-   ]
+   ],
+   "coverFileName": "3c385c12-04fe-4988-a81a-00dfa32e175b.jpg"
   },
   {
    "id": "df8884eb-8495-4525-baff-1b20a1b98958",
@@ -143,7 +153,8 @@
    "score": 0.34996033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ebac8997-c439-426d-a2ba-63d341e83860.jpg"
   },
   {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
@@ -163,8 +174,10 @@
     "pl",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "1b78b087-acd5-4f89-b015-0c3ce7de188b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:49+00:00"
+ "updatedAt": "2021-07-18T06:48:49+00:00",
+ "coverFileName": "0bdffbfa-2a1d-42a2-bc0c-3d35c093b168.jpg"
 }

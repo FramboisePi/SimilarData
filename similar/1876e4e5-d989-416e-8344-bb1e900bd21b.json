@@ -8,13 +8,14 @@
   {
    "id": "5715958f-4f5d-49c2-b563-8bccc34c5979",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Beginning"
+    "en": "Tiger & Bunny - The Beginning"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18dfd05f-97ac-431c-bc79-64be8905a609.png"
   },
   {
    "id": "bb4adfba-37b6-4a90-a951-6d9459293b8d",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "8bcd067e-dbe7-4a0e-bddc-fe2eec5c13a2.jpg"
   },
   {
    "id": "921fb112-54c2-457f-8e7b-3a357ee391cc",
@@ -37,7 +39,8 @@
    "score": 0.43523806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a01b152-450b-4efc-9519-16b59a7ed88e.jpg"
   },
   {
    "id": "e8b3afad-96d5-48d0-9be4-5760d4672c45",
@@ -48,7 +51,8 @@
    "score": 0.4280372,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b5d166f-e8ab-4dd8-952e-7d9de1d921aa.jpg"
   },
   {
    "id": "e7db82d2-81af-4e3e-b2c8-64d79747bb64",
@@ -59,7 +63,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "302f30fc-ff37-46a7-8b90-4b9e2dad94f7.jpg"
   },
   {
    "id": "995c1c87-db62-4575-9300-b8d47363a3b1",
@@ -70,7 +75,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b740099a-b0e6-44be-8324-d6a7ac29a2b6.jpg"
   },
   {
    "id": "b2897cd2-3b73-4409-aa1d-92da9b29e634",
@@ -81,7 +87,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0f45c82a-484e-4486-a0a3-daecb2a334ba.jpg"
   },
   {
    "id": "a0ddc49c-e278-4315-bf7a-5761b4df6d39",
@@ -92,7 +99,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6433231f-9e8c-448d-96c9-faec771f8922.jpg"
   },
   {
    "id": "b9ec8d51-f28e-481b-944e-af128aae42d2",
@@ -105,7 +113,8 @@
     "en",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "1ac86b38-4dcd-4567-a50c-6e550a0ff285.jpg"
   },
   {
    "id": "0a8f7394-7754-4a29-a75f-b26fb324c4c6",
@@ -116,7 +125,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8143afba-2cbe-4117-a31d-0bb86eb5d3ba.jpg"
   },
   {
    "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
@@ -128,20 +138,23 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "ec821882-4d73-4550-aef0-db1eac3c32c0.png"
   },
   {
    "id": "e7ba68e6-0e13-43c8-8c0c-17431ae5a911",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica ~The different story~"
+    "en": "Mahou Shoujo Madoka\u2605Magica ~The different story~"
    },
    "contentRating": "safe",
    "score": 0.4015267,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "543b6a80-e5d1-41c8-a60a-a198ac35bb14.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:03+00:00"
+ "updatedAt": "2021-07-18T06:29:03+00:00",
+ "coverFileName": "007bb4a0-96cb-4237-a07f-4d5823c51d79.jpg"
 }

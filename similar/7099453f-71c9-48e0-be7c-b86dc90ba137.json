@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0ac2c151-db11-43fd-9d50-bdcac6744f87.jpg"
   },
   {
    "id": "c36c6b6b-281c-4687-9637-b7c879f822f6",
@@ -26,7 +27,8 @@
    "score": 0.40740293,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "93ed566c-5dff-4d80-99b2-52e235eac0e2.jpg"
   },
   {
    "id": "9533dc35-f118-4293-9cdb-e87c791a9065",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5c2b1132-1786-4120-959b-14a41d5bc199.jpg"
   },
   {
    "id": "3d4baa43-6257-4de9-a0b3-0fc41bb1b4c4",
@@ -49,7 +52,8 @@
    "score": 0.4007989,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "edccd635-cc81-45f5-8d49-1f8a5149079f.jpg"
   },
   {
    "id": "9677416c-d8a9-4df0-b93d-cc749db0308b",
@@ -60,7 +64,8 @@
    "score": 0.40031028,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6a74de4-c415-408d-84eb-76b7caaa1364.jpg"
   },
   {
    "id": "a68ad698-7ce0-410c-b8be-b162882ce06f",
@@ -71,7 +76,8 @@
    "score": 0.39832103,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e18634d0-f27a-4948-8eac-09e026e86fb1.jpg"
   },
   {
    "id": "7abcee0e-a509-4bac-bfe4-e515ba6251f1",
@@ -82,7 +88,8 @@
    "score": 0.3886569,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2488bb9-52ef-4e45-b375-8568ceadd320.jpg"
   },
   {
    "id": "977929f6-56f6-4842-8378-e01da7297b1f",
@@ -93,7 +100,8 @@
    "score": 0.38825876,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4161bed4-1f1b-4f94-9327-2d479b0dae31.jpg"
   },
   {
    "id": "ed6ac03c-27c5-4b92-9717-034dd874d58d",
@@ -105,7 +113,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "46870af6-c37c-4681-91f4-00e6cc5947a6.jpg"
   },
   {
    "id": "204313f7-af1f-48df-a621-49a74746a1a7",
@@ -117,18 +126,20 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "428d034e-6dca-49ad-8a70-a063b911200c.png"
   },
   {
    "id": "64e02b5c-83e3-4e7e-9305-45123fb018e5",
    "title": {
-    "en": "Èrv"
+    "en": "\u00c8rv"
    },
    "contentRating": "safe",
    "score": 0.388198,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "547cb9d5-4b44-45a1-94d0-a1c4abc9fc4a.jpg"
   },
   {
    "id": "003b5f82-1f80-4775-bef2-d5c5bc81f3c9",
@@ -139,8 +150,10 @@
    "score": 0.388198,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5a0a6b97-c403-4ce9-b41b-5d408e315276.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:20+00:00"
+ "updatedAt": "2021-07-18T06:45:20+00:00",
+ "coverFileName": "ad88e4f9-8067-412b-b38d-d3dca0e813d3.png"
 }

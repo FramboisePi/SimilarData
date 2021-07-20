@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "eb037f24-c16f-4796-8223-f2572246b764.jpg"
   },
   {
    "id": "9b137436-8aa0-4c46-bd2e-4d47983e7c9b",
@@ -27,12 +28,13 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "579ab2e8-839a-425e-b4ed-7d150e3f9132.jpg"
   },
   {
    "id": "7b59a2b3-fe70-46a5-8050-15a8a4a17d41",
    "title": {
-    "en": "Le Théâtre de B"
+    "en": "Le Th\u00e9\u00e2tre de B"
    },
    "contentRating": "safe",
    "score": 0.40979648,
@@ -43,7 +45,8 @@
     "bg",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "12c4e080-7f73-4f33-a2b7-ada90448044c.jpg"
   },
   {
    "id": "9719f795-cdc0-4a24-87db-88c31898ae6b",
@@ -56,7 +59,8 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "71bdcf56-af17-4442-9a5a-71aed3e91487.jpg"
   },
   {
    "id": "10eb6e2a-2311-408b-9816-5dea992b59bf",
@@ -69,7 +73,8 @@
     "tr",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "386fe9cb-1bc6-42e9-b0a0-6136e6588ede.jpg"
   },
   {
    "id": "1f1dbbf1-831c-40f4-b0c1-ff9a781c2987",
@@ -80,7 +85,8 @@
    "score": 0.40452334,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9f108a4-e62e-435c-bf04-8f9becdd1cf5.jpg"
   },
   {
    "id": "1666f9b0-21be-4ece-8b5f-939f04d43090",
@@ -91,18 +97,20 @@
    "score": 0.40141565,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be23a1d4-8392-4265-ae2e-c9418618c4b5.jpg"
   },
   {
    "id": "890518a8-1890-4346-8076-9ddeb0cfb3bb",
    "title": {
-    "en": "Akuma★Game"
+    "en": "Akuma\u2605Game"
    },
    "contentRating": "safe",
    "score": 0.39624527,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e449a46-b19c-40af-b600-b9b9fce3067e.jpg"
   },
   {
    "id": "12a63c3c-1a73-418e-87a1-341f0f1cce01",
@@ -113,7 +121,8 @@
    "score": 0.38749605,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "129cd6a5-bef2-47cb-9c7d-bbc0d7b65495.jpg"
   },
   {
    "id": "f00d5efc-5483-49ed-a587-58a7f189ee4d",
@@ -124,7 +133,8 @@
    "score": 0.38667583,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "714f334c-e1f9-4b21-a8b2-7f047c9e0343.jpg"
   },
   {
    "id": "c2bfc194-d338-4752-ac7a-8bbee9e27c94",
@@ -136,7 +146,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "a5e6ebce-40e8-468a-9b7d-907d19ce9f1f.jpg"
   },
   {
    "id": "8bd77fe2-1d5d-4b60-b2e8-a428fa6cd5e7",
@@ -149,8 +160,10 @@
     "en",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "4ae6c50b-7dd6-4cca-bf63-c470cdf30e25.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:21+00:00"
+ "updatedAt": "2021-07-18T07:00:21+00:00",
+ "coverFileName": "3af68e9a-b4d4-49f8-aaa1-f5e56621795d.jpg"
 }

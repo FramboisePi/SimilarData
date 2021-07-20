@@ -1,7 +1,7 @@
 {
  "id": "2a5bdd6f-c16c-43cc-a182-3bb1a586f037",
  "title": {
-  "en": "Get Chu ♥"
+  "en": "Get Chu \u2665"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "d2f2d384-28f9-41c2-b0cf-08eca552c2ef.jpg"
   },
   {
    "id": "c52ab0a0-b981-45c0-b474-6c1372aad854",
@@ -29,7 +30,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "4869d10b-3d42-496d-98df-5e39f54ec6b4.jpg"
   },
   {
    "id": "e4ced0a3-09e8-47aa-ad19-14f4ed81e118",
@@ -41,7 +43,8 @@
    "languages": [
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "a62c6870-27db-409b-ac06-376a305645b1.jpg"
   },
   {
    "id": "5c5030b1-0a34-4527-82e9-690a4818d577",
@@ -54,7 +57,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "77cb2040-dd6d-4c25-97d0-34949958a70d.png"
   },
   {
    "id": "900279dc-9b15-4edc-83c3-5979e66b33d4",
@@ -66,7 +70,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "94e15b81-8d06-425a-8f43-172e393cc581.jpg"
   },
   {
    "id": "c2c09c45-0454-4732-947e-ffe67a95cb65",
@@ -79,7 +84,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "18b7d1bd-52e3-44af-835e-742565715699.jpg"
   },
   {
    "id": "14a20dc8-75c0-4258-81a4-66c81f3c5f7b",
@@ -92,7 +98,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "34929e17-f02e-4aee-8a80-60307feb7689.jpg"
   },
   {
    "id": "1bb3c929-8f08-4304-ae03-3f4fafb6e0f1",
@@ -105,7 +112,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "6eb9120a-ea3f-49ec-9775-bd1aff12b329.jpg"
   },
   {
    "id": "a2cae001-a83a-4b00-b74b-acb958bec356",
@@ -117,7 +125,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2ee19af4-4b27-4cd3-81a9-4f1281d1955d.png"
   },
   {
    "id": "a3babf89-0da3-48b9-8996-38add7402ff7",
@@ -129,7 +138,8 @@
    "languages": [
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "3bc7f08e-09a1-4b29-bade-f6769a7dfa06.jpg"
   },
   {
    "id": "1fd825d8-8c87-4c34-b99e-941541584dff",
@@ -142,7 +152,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3bdecced-c47d-4ff6-9742-8fe697c77f02.png"
   },
   {
    "id": "39084c4c-85a1-4ca0-ac8a-c420987a00f7",
@@ -155,8 +166,10 @@
     "es",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5b2535f1-268f-4989-9848-4328a7238e74.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:24+00:00"
+ "updatedAt": "2021-07-18T06:32:24+00:00",
+ "coverFileName": "5de2036c-a291-4257-b978-fed78d6e6f3a.jpg"
 }

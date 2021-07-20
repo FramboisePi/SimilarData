@@ -8,13 +8,14 @@
   {
    "id": "b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
    "title": {
-    "en": "Isekai ni Otosareta… Jouka wa Kihon!"
+    "en": "Isekai ni Otosareta\u2026 Jouka wa Kihon!"
    },
    "contentRating": "safe",
    "score": 0.48507094,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c86c2b79-e6d2-4a4c-940c-42ddbf7af819.jpg"
   },
   {
    "id": "a1c58fbc-d805-4964-99fb-12b8fd07ec53",
@@ -27,7 +28,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ecb7e55d-ec13-48db-a281-337acb2a0c2b.jpg"
   },
   {
    "id": "e8731b17-e3c1-4075-b042-bca03a9791e6",
@@ -38,7 +40,8 @@
    "score": 0.4539816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51292641-354a-4d85-bb47-17591638c301.jpg"
   },
   {
    "id": "dc332d04-d3b0-413c-a767-70f5e451b031",
@@ -51,7 +54,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "3a289f7c-ca41-4da1-9881-e3b249ae4635.jpg"
   },
   {
    "id": "9038211c-65b3-43b8-9471-9bda65049220",
@@ -67,7 +71,8 @@
     "pt-br",
     "id",
     "th"
-   ]
+   ],
+   "coverFileName": "87f53051-4860-41f4-a8ec-bb0b42f8d11e.jpg"
   },
   {
    "id": "ab68d761-d6f2-4985-aef3-02cbcfd293af",
@@ -78,7 +83,8 @@
    "score": 0.4043339,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43899e80-6d03-4c65-b4e4-1f56cbcc7899.jpg"
   },
   {
    "id": "6e156d65-cf65-4d5b-9d04-52f2f8100fbf",
@@ -94,7 +100,8 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "08941079-9df5-4a9c-9272-f0102ebdfa37.jpg"
   },
   {
    "id": "d1781652-404b-4ba9-83cf-b53a8dcd9dbd",
@@ -107,7 +114,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9f24f8b8-37fc-468f-bd69-593d01f66037.jpg"
   },
   {
    "id": "c1de44c5-0efc-4eb5-9117-c791774eb8a8",
@@ -120,7 +128,8 @@
     "es",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "19410a00-c393-4f54-a6cc-832c7570a76d.jpg"
   },
   {
    "id": "5f8b39b3-ae0e-4906-b016-6b35a3e5eb4f",
@@ -135,7 +144,8 @@
     "pt-br",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "768f0eb4-7651-4371-9fa4-f8f6c628a647.jpg"
   },
   {
    "id": "e23e9bc7-8495-4d9b-9320-0c4bfb68b14c",
@@ -147,7 +157,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fe9da68d-f35a-4038-ac25-63cbc433680a.jpg"
   },
   {
    "id": "80c59ae3-1e0c-411a-a9d6-b792a2d72d8b",
@@ -159,8 +170,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "04ada8ec-8c64-44c5-9fdb-e3d0fbcad9f2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:05+00:00"
+ "updatedAt": "2021-07-18T06:47:05+00:00",
+ "coverFileName": "333ad7f6-1f5c-47dd-be15-afd6fb891d6f.jpg"
 }

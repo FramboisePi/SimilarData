@@ -14,7 +14,8 @@
    "score": 0.43430856,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "576bd075-9391-4a8e-b469-c5405292db0f.jpg"
   },
   {
    "id": "7fe9f906-1ba3-46f2-954d-6523efdcbf52",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "ed82825b-8909-4c51-a4b6-64ced520ec56.png"
   },
   {
    "id": "5a0faf43-02be-4b58-ab02-0c05381920a1",
@@ -37,7 +39,8 @@
    "score": 0.42043224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8df4f66e-8ac4-4ae4-8d9c-f3a12e2ce14e.png"
   },
   {
    "id": "0428160a-8e17-441c-91a0-e18dec2712c6",
@@ -50,7 +53,8 @@
     "pt-br",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "c002ecf6-d28b-4198-a2c6-ff13742e9a7f.png"
   },
   {
    "id": "ef7cfd96-d703-41a5-98f9-3cc65020be9d",
@@ -61,7 +65,8 @@
    "score": 0.41750705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "611d56d0-9c3d-4262-8892-45ab14bd9327.png"
   },
   {
    "id": "e1ea67a3-8bec-44d6-9955-280645a6da2d",
@@ -72,7 +77,8 @@
    "score": 0.41199672,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "361c9e70-fce6-4141-b857-5fa3e12642f0.jpg"
   },
   {
    "id": "dc767342-910c-4956-acf0-90db3d919223",
@@ -83,7 +89,8 @@
    "score": 0.4077976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "802e5c04-3700-4dad-97f3-066d73f96d6f.jpg"
   },
   {
    "id": "0a7f9cd8-890c-4543-8391-034e18a7d3c3",
@@ -95,7 +102,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d8170715-62d2-4e7d-a6bf-5f1f97e075a8.jpg"
   },
   {
    "id": "a6d5b8ca-3a42-4ba2-bf46-61dee1d09a11",
@@ -106,18 +114,20 @@
    "score": 0.3963873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e6c43ec-2ecc-4c6b-9532-3ecb77c9c30b.jpg"
   },
   {
    "id": "39878c19-f107-4385-b56a-3d90d2b2370f",
    "title": {
-    "en": "Ellin’s Solhwa"
+    "en": "Ellin\u2019s Solhwa"
    },
    "contentRating": "safe",
    "score": 0.3963873,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "13dc0dc1-068a-4ff7-b924-ca29b89f68e1.jpg"
   },
   {
    "id": "1052acf6-92f5-419a-aee0-2b396696a3ef",
@@ -130,7 +140,8 @@
     "pt-br",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "5b64857b-2987-40e6-9f37-cf22e947528b.jpg"
   },
   {
    "id": "881d3673-f101-4848-a56d-f2dd08a3383d",
@@ -142,8 +153,10 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "fb5c3fed-f856-46a4-bf6e-947cb7adbdfa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:11+00:00"
+ "updatedAt": "2021-07-18T06:30:11+00:00",
+ "coverFileName": "b17bfef8-b521-4fe6-814d-ad54339a9bc4.jpg"
 }

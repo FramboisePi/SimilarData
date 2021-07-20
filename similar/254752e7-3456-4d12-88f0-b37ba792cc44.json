@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "54828c5c-9a7a-4c9b-962c-33198647ba9c.jpg"
   },
   {
    "id": "dc286019-1665-4595-8f8f-9dfe3df04da0",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1028b694-ed46-4967-b05a-1f51b9a3a660.jpg"
   },
   {
    "id": "5fd9afff-504f-4cd5-9282-050344a9336c",
@@ -38,7 +40,8 @@
    "score": 0.41154963,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5819fc7-dbae-44dc-9aa4-fb2ad1750fcf.jpg"
   },
   {
    "id": "cc395e7a-c220-4057-b53f-ecd54fdd76e7",
@@ -49,7 +52,8 @@
    "score": 0.40735254,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c5a9829-0543-4f27-9cc9-f3f11fd5002d.jpg"
   },
   {
    "id": "0311b163-a021-4c27-bd26-3f83f280115f",
@@ -62,7 +66,8 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "0994d647-1e1d-4dc2-bc00-bbcd119bf145.jpg"
   },
   {
    "id": "733d95ce-4dc2-4c02-a177-6cb772b18317",
@@ -77,7 +82,8 @@
     "vi",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b1aaeb28-4c16-48bf-93f3-593e20a79c94.jpg"
   },
   {
    "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
@@ -88,19 +94,21 @@
    "score": 0.3836348,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "07ccf583-09a2-4000-8d7e-29a6aae5f7b9.jpg"
   },
   {
    "id": "6b2ce06a-eb4d-4a5c-bddb-8a3359b14deb",
    "title": {
-    "en": "Kuzu no Honkai décor"
+    "en": "Kuzu no Honkai d\u00e9cor"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "pt-br",
     "ar"
-   ]
+   ],
+   "coverFileName": "f72c47bb-f8e2-439e-818e-2a6f132a0100.jpg"
   },
   {
    "id": "c64b830b-9118-4525-a462-36b5f2f1a545",
@@ -111,7 +119,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aa297696-5a8d-4121-92d2-f07e46f9d548.jpg"
   },
   {
    "id": "9ed8c4a9-aa21-48ba-9389-359c984ae2d2",
@@ -124,7 +133,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ecac3007-c0e6-4042-add2-0080f454e024.jpg"
   },
   {
    "id": "b9bdb52b-3998-4041-bd06-2d25690eaaee",
@@ -135,7 +145,8 @@
    "score": 0.3489655,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6d198c86-a19f-47b1-a9b0-f03b89aecbed.jpg"
   },
   {
    "id": "66164474-4d86-440e-b031-35872d350e49",
@@ -148,8 +159,10 @@
     "pt-br",
     "vi",
     "es-la"
-   ]
+   ],
+   "coverFileName": "68e6d219-2a58-4ea3-9d01-279517766e59.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:27+00:00"
+ "updatedAt": "2021-07-18T06:31:27+00:00",
+ "coverFileName": "2d47e952-a14a-47f4-9270-67cc50880535.jpg"
 }

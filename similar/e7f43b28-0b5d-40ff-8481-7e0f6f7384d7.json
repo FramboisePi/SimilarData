@@ -1,7 +1,7 @@
 {
  "id": "e7f43b28-0b5d-40ff-8481-7e0f6f7384d7",
  "title": {
-  "en": "Sensei 〆Shimekiri made Matte!"
+  "en": "Sensei \u3006Shimekiri made Matte!"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ad189f6a-e77e-4de8-896a-99af3a2e4aa4.jpg"
   },
   {
    "id": "9687db23-ace8-41c5-b391-1807e5d98173",
@@ -29,7 +30,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "781d2c20-f7c6-487e-8bcd-dfc5b49b5863.jpg"
   },
   {
    "id": "067fcfbe-4648-4d84-abb3-32a7985cb3de",
@@ -41,7 +43,8 @@
    "languages": [
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "14e758a5-eb31-4171-9143-25f3a22df7f9.jpg"
   },
   {
    "id": "1a39491c-289c-40bf-bba2-5414e2ada850",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c3cfb5f6-0e1d-4a0f-b913-345bddd36c99.jpg"
   },
   {
    "id": "5ef80bbd-7593-448d-bf4b-726f91f3e53f",
@@ -67,7 +71,8 @@
     "fr",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "43789b1d-46de-48b1-9d16-9fcf1c5c7695.jpg"
   },
   {
    "id": "41b7b87f-7be9-44d2-b62f-a04d2caddfd1",
@@ -80,7 +85,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "30a28c14-e1b5-4999-8ab4-57c9a78feda9.jpg"
   },
   {
    "id": "c4395d6d-20a1-49d5-b696-bf9244d077b6",
@@ -93,7 +99,8 @@
     "it",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "78b66c65-c1c6-477d-8953-c67570ad8072.jpg"
   },
   {
    "id": "88b56b5c-5693-4f3e-b36c-557184850917",
@@ -106,7 +113,8 @@
     "vi",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "907ac6b1-8a89-4213-b9f9-a060bb542c0e.jpg"
   },
   {
    "id": "38e8b637-181c-41c2-830a-a8cf1b378a36",
@@ -119,7 +127,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "cef7062b-f070-4d04-8aaa-6d392d803dce.jpg"
   },
   {
    "id": "0d63e84e-9fee-47d5-a3c2-ac42a397b53a",
@@ -132,7 +141,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6b0b2dfe-d7d9-440e-8640-ede91011e4b2.jpg"
   },
   {
    "id": "6dbca786-5b3e-4745-bb24-19ece7025924",
@@ -145,7 +155,8 @@
     "en",
     "vi",
     "es-la"
-   ]
+   ],
+   "coverFileName": "be0ad94e-1c46-4123-94db-a3971f74806c.jpg"
   },
   {
    "id": "3dc962dc-32d5-4420-b36a-e563b2855f35",
@@ -159,8 +170,10 @@
     "es-la",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "f829d16e-c951-4449-a6bc-cb56aaad4742.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:25+00:00"
+ "updatedAt": "2021-07-18T07:07:25+00:00",
+ "coverFileName": "3b021c00-25e7-4395-a646-5322e4f6f5f1.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.37787324,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b99c0ec3-f1a0-43e6-a198-dcfc991e7af6.jpg"
   },
   {
    "id": "f461d33e-96db-4ffb-8305-1cde75e6f02f",
@@ -25,7 +26,8 @@
    "score": 0.3731099,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46f4654b-3403-4f7a-b77d-41650b70fb26.jpg"
   },
   {
    "id": "e4dae690-26ed-4784-9a8b-fad7b9def19a",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d8aebd2d-ba35-4088-9df4-e04c035b15c2.jpg"
   },
   {
    "id": "d0a814cc-2469-4f35-b73d-73aa27709df6",
@@ -48,7 +51,8 @@
    "score": 0.34016803,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a441b23d-7f5f-4761-b811-f3c3aaa96ffd.jpg"
   },
   {
    "id": "2f3dec35-0e65-4390-adcd-bc6ad8238421",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8fcd5c80-3af3-4317-946e-e364b4b24e74.jpg"
   },
   {
    "id": "9ea7e4ae-f9fe-4c35-980a-2d7660313d58",
@@ -74,7 +79,8 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5d52de22-1d68-49d2-96a9-d2a9b78afa78.jpg"
   },
   {
    "id": "b0074383-4c49-483e-8d85-f60233c5a4ab",
@@ -85,18 +91,20 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "21204025-f65f-414f-95bd-6dd8e91a0da0.jpg"
   },
   {
    "id": "427dbfa9-c948-44b7-9fc7-26077ae03823",
    "title": {
-    "en": "Akuma no Kagi to Shoujo no Raison d'Être"
+    "en": "Akuma no Kagi to Shoujo no Raison d'\u00catre"
    },
    "contentRating": "safe",
    "score": 0.33284533,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1de6d9d0-74ec-43f3-ac98-df7ecbcae6f8.png"
   },
   {
    "id": "a41b29d4-6914-4498-a2ea-49bb0d41f5af",
@@ -109,7 +117,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "d491c249-434e-4f67-b847-efedc10cd76f.jpg"
   },
   {
    "id": "28c3b97b-6d2f-4a6c-9f97-a826f0b16f05",
@@ -122,7 +131,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "f74bb2d5-a3a4-4e14-8a59-3de25a669342.jpg"
   },
   {
    "id": "a77ebe92-b91c-4d64-a4c6-bc7e2b1b9073",
@@ -133,7 +143,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8f60657e-38cd-4461-ab71-b65e4de1172a.png"
   },
   {
    "id": "159eb4f1-de8f-4c53-91da-03f49fe84250",
@@ -149,8 +160,10 @@
     "id",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "9450650b-9599-4bf5-b150-4f0d337b484c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:41+00:00"
+ "updatedAt": "2021-07-18T07:09:41+00:00",
+ "coverFileName": "93401dee-1f15-4b38-b6e0-ff4ed1b7cb83.jpg"
 }

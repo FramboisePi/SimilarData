@@ -8,7 +8,7 @@
   {
    "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
    "title": {
-    "en": "Father, I Don’t Want to Get Married!"
+    "en": "Father, I Don\u2019t Want to Get Married!"
    },
    "contentRating": "safe",
    "score": 0.8737706,
@@ -20,19 +20,21 @@
     "ru",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "3f828bd7-20ab-4813-9335-96282f145122.jpg"
   },
   {
    "id": "ca9fa6e2-5a42-4676-b730-4e2069cf2e0d",
    "title": {
-    "en": "The Crown Prince's Fiancée"
+    "en": "The Crown Prince's Fianc\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.86996406,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "9ece9e90-63c4-468a-a401-e7205831559e.jpg"
   },
   {
    "id": "e75aa21a-8f97-4635-b3e8-f661eba8795a",
@@ -44,7 +46,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "e4b7eff0-5393-490c-8c31-908f1ce4079b.jpg"
   },
   {
    "id": "821029ad-4aad-4a5a-9633-b105d99d000b",
@@ -55,7 +58,8 @@
    "score": 0.8556794,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5ac44821-d0a2-4571-af4f-645c513c5f97.jpg"
   },
   {
    "id": "c7798ead-25e7-4ab1-8ed0-40b3b1ba7c98",
@@ -66,19 +70,21 @@
    "score": 0.5791417,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "11b19a55-027d-478b-b765-9cb4c449c6eb.png"
   },
   {
    "id": "70b7dcb2-6f86-4210-8db9-542a21f3a6b1",
    "title": {
-    "en": "Words \u0026 Kisses"
+    "en": "Words & Kisses"
    },
    "contentRating": "safe",
    "score": 0.5594259,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "8d8dd544-01ac-438c-a1fb-87ff1666a99a.jpg"
   },
   {
    "id": "d7e723c6-b7a0-4027-8bdf-9fc5c9fcbe5c",
@@ -89,7 +95,8 @@
    "score": 0.54234856,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ec8db04-9781-4eac-b5f1-7d797a14fff2.jpg"
   },
   {
    "id": "fcc4cb24-226e-4773-a8a8-966d2b918f9a",
@@ -100,7 +107,8 @@
    "score": 0.53174657,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee546a5a-fbce-4b89-9bae-423b3a55aec8.jpg"
   },
   {
    "id": "58ab4a38-8068-4b64-ace3-de7cd2383549",
@@ -111,7 +119,8 @@
    "score": 0.519179,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1711067f-1719-40a9-83b8-dff956f8f017.jpg"
   },
   {
    "id": "c4481aab-d7b6-4849-b204-12d36f7146b8",
@@ -122,7 +131,8 @@
    "score": 0.5149619,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24913e1f-103a-41e7-8422-e34e2eb06c23.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -135,7 +145,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "81b68511-e77b-4ff5-8177-d35a74505832",
@@ -146,8 +157,10 @@
    "score": 0.50869167,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5235c10d-4324-4833-8489-21eafed1f523.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:42+00:00"
+ "updatedAt": "2021-07-18T06:57:42+00:00",
+ "coverFileName": "6a0364a9-4539-40ba-9c83-ba5718d61971.jpg"
 }

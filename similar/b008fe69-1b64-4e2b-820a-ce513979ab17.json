@@ -15,7 +15,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "38f15454-7abb-4ef5-8380-278ed8d125d4.jpg"
   },
   {
    "id": "9c3ca6b1-eb44-46df-a8c1-b3de54c3c2a7",
@@ -27,7 +28,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "4f514df6-f998-48f2-8120-417224009ea7.jpg"
   },
   {
    "id": "7520360b-6ac6-4c47-b34c-3418f22fa477",
@@ -40,7 +42,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "ec25e3f7-107a-477a-91e3-b3c52a1116d7.jpg"
   },
   {
    "id": "d0f135d0-da19-42dd-8ffe-4851d661bab6",
@@ -56,7 +59,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "fb9a5ee9-361c-4ea5-b2e5-83fe4b400f56.jpg"
   },
   {
    "id": "e041b8a8-d631-47af-a5fe-763506f51ea1",
@@ -69,7 +73,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "aeee12c6-c442-46e2-9b47-aa966f0631e1.jpg"
   },
   {
    "id": "787c0327-c98e-4b18-a3f8-d2988904fdb1",
@@ -82,7 +87,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d70fff07-1b0a-438e-837b-e346c080bd28.jpg"
   },
   {
    "id": "8fc689d0-6841-4994-b892-4aee83e3010a",
@@ -94,7 +100,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "510c88e0-a031-4af3-9a42-f9dc0b3af900.jpg"
   },
   {
    "id": "2f41372f-9203-415c-83a9-714c74b19c9e",
@@ -105,7 +112,8 @@
    "score": 0.41980672,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea483a08-7dec-41b3-9304-31581d9212b6.jpg"
   },
   {
    "id": "a81a0ac7-ce35-4bcf-84f1-9d07710b10dd",
@@ -116,18 +124,20 @@
    "score": 0.41486385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc275813-61a2-4abf-96ac-fd9cca672225.jpg"
   },
   {
    "id": "399cfe1d-3cf2-45f9-83aa-0dfea9f8d496",
    "title": {
-    "en": "After the Holy Sword Reincarnates Into a Human Being, It’s Troubled Because It Is Favored by the Hero"
+    "en": "After the Holy Sword Reincarnates Into a Human Being, It\u2019s Troubled Because It Is Favored by the Hero"
    },
    "contentRating": "safe",
    "score": 0.4112883,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "229048ee-9c0e-4eba-9ff8-f00a0e44ffd4.jpg"
   },
   {
    "id": "d45ba05a-a218-4c91-9f02-5efacb54e6e3",
@@ -142,7 +152,8 @@
     "it",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "ae70fb90-a99d-48eb-a31b-3b46b953210e.jpg"
   },
   {
    "id": "ba210374-7967-4c3e-972d-891a530c992a",
@@ -154,8 +165,10 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "unknown"
   }
  ],
- "updatedAt": "2021-07-18T06:57:11+00:00"
+ "updatedAt": "2021-07-18T06:57:11+00:00",
+ "coverFileName": "be25a770-d616-45ad-9687-15b101b62cac.jpg"
 }

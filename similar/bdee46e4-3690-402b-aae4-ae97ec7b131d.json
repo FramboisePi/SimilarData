@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "30e98f6e-038d-4a4e-b08f-afa9285808aa.jpg"
   },
   {
    "id": "3c337289-cee9-4d64-a5e0-906f6772f8b7",
@@ -26,7 +27,8 @@
    "score": 0.34489727,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "994d021b-bf30-4a3e-b5c3-0ecd10d0f17c.jpg"
   },
   {
    "id": "b5a2ca5e-77df-4c53-98d4-e6e78ed97bcf",
@@ -39,7 +41,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "3d4eeab1-7c11-4a64-8a1f-3bca109ca17e.jpg"
   },
   {
    "id": "b7053065-25b1-4ba5-b663-e9a1f67680bc",
@@ -50,7 +53,8 @@
    "score": 0.33073187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "870526b1-67be-4990-9f80-d49d0f1395c3.jpg"
   },
   {
    "id": "8a51baf0-ac86-48ff-82df-a8e3ecce3dc7",
@@ -63,7 +67,8 @@
     "fr",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "91875551-b1ee-4489-a20a-4ba516462fea.jpg"
   },
   {
    "id": "0cfa4b65-81d9-49ad-96ba-d6ac138efdef",
@@ -74,7 +79,8 @@
    "score": 0.32362854,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "427bda46-d39c-4947-bc39-3ddddbafdeb7.jpg"
   },
   {
    "id": "ae93203e-68cc-4297-b32e-769fbd5ea5d2",
@@ -85,7 +91,8 @@
    "score": 0.31408232,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0db5fc79-ec30-4668-807e-8eb0ec1016a9.jpg"
   },
   {
    "id": "92039649-edd0-4b4a-b8c6-e53a4946e4ca",
@@ -102,7 +109,8 @@
     "vi",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c7aff78b-0ea4-4410-973d-3bb9a3ff40b9.jpg"
   },
   {
    "id": "eb5c81e8-5d5b-4552-b582-ee9c29c5368b",
@@ -117,7 +125,8 @@
     "th",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "e7053732-f12e-4406-9235-ade83aa88ac6.jpg"
   },
   {
    "id": "087e1ee7-491e-4e67-b3c2-44d227cb0584",
@@ -131,19 +140,21 @@
     "id",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "201ce02c-cecf-4c75-9eec-4a81f8b81544.jpg"
   },
   {
    "id": "e8546f60-db8e-413b-ab31-44d5fd1cd412",
    "title": {
-    "en": "Here Comes the Fiancée!"
+    "en": "Here Comes the Fianc\u00e9e!"
    },
    "contentRating": "suggestive",
    "score": 0.30759352,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9450f39f-1435-420f-8e78-a2b7f807de2d.jpg"
   },
   {
    "id": "2f063073-1990-4b91-8906-a789d721bcd8",
@@ -155,8 +166,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "4578d862-b6b5-4770-b855-926d9f97f171.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:44+00:00"
+ "updatedAt": "2021-07-18T06:59:44+00:00",
+ "coverFileName": "ac7e4d81-1433-42b8-a322-1e8ce4d9cd0d.jpg"
 }

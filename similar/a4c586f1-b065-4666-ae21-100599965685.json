@@ -16,7 +16,8 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "4869d10b-3d42-496d-98df-5e39f54ec6b4.jpg"
   },
   {
    "id": "95833cbf-be5c-41c6-b5a4-8c80b99ffdd3",
@@ -27,7 +28,8 @@
    "score": 0.48020104,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "3d9bde17-02cb-4e9e-a00f-78721f6e2ebf.png"
   },
   {
    "id": "82664c5f-c3d7-4904-9077-389cd4112641",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c22993ee-0b37-4ddb-a8d7-756178e5f3b3.jpg"
   },
   {
    "id": "2bda909e-35d3-46f5-99a8-0b671736f598",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1dbcf464-9d13-4416-be4c-66ffda6227e8.jpg"
   },
   {
    "id": "71bf78cf-cc88-4766-a0d5-dfb488438a79",
@@ -64,7 +68,8 @@
     "en",
     "hu",
     "fr"
-   ]
+   ],
+   "coverFileName": "ab28fe46-490d-4b98-91d1-c8f726763eaf.jpg"
   },
   {
    "id": "e92e99e0-d3ff-4169-9395-350deb9dc1b1",
@@ -77,7 +82,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3ddab484-ca9f-4300-a1de-b7efec8562b1.jpg"
   },
   {
    "id": "6bbb441d-855b-4505-b8c3-ff79ccda0941",
@@ -91,7 +97,8 @@
     "tr",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "c97022ac-d253-4fbe-a103-41d6c01c33a2.jpg"
   },
   {
    "id": "1fd825d8-8c87-4c34-b99e-941541584dff",
@@ -104,7 +111,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3bdecced-c47d-4ff6-9742-8fe697c77f02.png"
   },
   {
    "id": "046faa25-f932-4f22-9ad1-e547b36dc2a9",
@@ -119,19 +127,21 @@
     "it",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "fc7362af-420d-43d9-8b7d-eb25978251ae.jpg"
   },
   {
    "id": "2a5bdd6f-c16c-43cc-a182-3bb1a586f037",
    "title": {
-    "en": "Get Chu ♥"
+    "en": "Get Chu \u2665"
    },
    "contentRating": "safe",
    "score": 0.4252559,
    "languages": [
     "fr",
     "de"
-   ]
+   ],
+   "coverFileName": "5de2036c-a291-4257-b978-fed78d6e6f3a.jpg"
   },
   {
    "id": "a2cae001-a83a-4b00-b74b-acb958bec356",
@@ -143,7 +153,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2ee19af4-4b27-4cd3-81a9-4f1281d1955d.png"
   },
   {
    "id": "069e9f57-d19f-469d-88e7-f740f2b736bc",
@@ -156,8 +167,10 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "17d8f248-9c7e-42f6-b532-4578fe04c10d.png"
   }
  ],
- "updatedAt": "2021-07-18T06:55:07+00:00"
+ "updatedAt": "2021-07-18T06:55:07+00:00",
+ "coverFileName": "eb4f5d4b-ef6b-413b-b0ce-5cee24ea5400.png"
 }

@@ -14,7 +14,8 @@
    "score": 0.45828778,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d943ee05-1328-41a7-85ed-460ee90a9521.jpg"
   },
   {
    "id": "eb1babe4-e69a-43f2-b0df-e46eef3ec206",
@@ -28,7 +29,8 @@
     "es",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0837ab2d-df0c-40f9-bc84-fa930bd3c2c7.jpg"
   },
   {
    "id": "113a18fe-157b-419d-99c2-be442b474fc7",
@@ -39,7 +41,8 @@
    "score": 0.38053182,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0da46a74-1950-43f0-b364-c70b4b222573.jpg"
   },
   {
    "id": "5787d127-c338-4afa-85a1-05964d1fef82",
@@ -50,7 +53,8 @@
    "score": 0.38053182,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82d5e3e9-afc2-41be-88e0-fe35c7ab8eb3.jpg"
   },
   {
    "id": "611d1209-f052-4614-a775-e10304e4240c",
@@ -62,18 +66,20 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "facb2ce0-36b8-463b-b8c9-1b33bffb4e86.png"
   },
   {
    "id": "aaae6694-d9a0-44c2-abed-53141168e3d8",
    "title": {
-    "en": "e×COM Haruoka gakuen game joshibu"
+    "en": "e\u00d7COM Haruoka gakuen game joshibu"
    },
    "contentRating": "safe",
    "score": 0.37866196,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "06f6afda-69d5-4883-b03a-97caae38a8de.jpg"
   },
   {
    "id": "15c335de-f081-4474-857e-4e3a92813f77",
@@ -84,7 +90,8 @@
    "score": 0.34497598,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdc7e76d-c386-4818-9e90-346b4174219c.jpg"
   },
   {
    "id": "10ac3ce4-de88-49c6-b9f9-001a5bf08351",
@@ -97,7 +104,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "0e748c08-6d8f-426c-957f-ec78eb4c8898.jpg"
   },
   {
    "id": "e4c7d649-f6cf-4431-9ca7-3836fde6b6c0",
@@ -109,19 +117,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b09f584a-c6e8-4496-8320-ab3c30929f34.jpg"
   },
   {
    "id": "80634258-6fe5-4190-9add-e08c78eccd19",
    "title": {
-    "en": "We’ve Started a New Game."
+    "en": "We\u2019ve Started a New Game."
    },
    "contentRating": "safe",
    "score": 0.31635582,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "8bf25183-2c53-43a4-b838-ff63dc88f0d4.jpg"
   },
   {
    "id": "8046acb6-47f7-4954-805f-21bec5253c34",
@@ -133,7 +143,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "de7abfba-49c3-4fd6-9b0b-d48db5e3d6a3.jpg"
   },
   {
    "id": "48dea7f0-3eb5-4669-b957-69df0766c055",
@@ -144,8 +155,10 @@
    "score": 0.31070292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "243e05e8-5d40-4d37-8178-3997836ef502.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:50+00:00"
+ "updatedAt": "2021-07-18T06:36:50+00:00",
+ "coverFileName": "c3df2083-65cf-4300-a027-13bdd3a3b023.jpg"
 }

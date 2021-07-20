@@ -1,7 +1,7 @@
 {
  "id": "d435de30-9bba-4018-9773-5a900c3a12c1",
  "title": {
-  "en": "Gunka no Baltzar Gaiden – Yuukoku no Liebknecht"
+  "en": "Gunka no Baltzar Gaiden \u2013 Yuukoku no Liebknecht"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.7132509,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a600824f-21a7-4d21-98a8-1f42d7d2da33.png"
   },
   {
    "id": "05634c01-7f94-464b-9672-0b13ad06e871",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "455cb34f-c098-4ef1-b32c-fd4e107733fc.jpg"
   },
   {
    "id": "69fb4c02-9be8-413b-af28-ad3ce3bedfcc",
@@ -37,7 +39,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bb6675cf-4cbf-44d5-94e9-c64782dbae7c.jpg"
   },
   {
    "id": "b7902d2f-6b51-4598-8f20-5d388b9cb202",
@@ -48,7 +51,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eff98e03-ec7e-4577-9835-c81451469de3.jpg"
   },
   {
    "id": "a4dd1270-a645-4cec-b104-315d85c51308",
@@ -59,7 +63,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bba36902-c1ac-4400-bb42-1b2befcc3156.jpg"
   },
   {
    "id": "d7a3d410-3b96-477a-912b-d2476477f5b5",
@@ -71,7 +76,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "49816115-69af-4e0c-ae7e-08beaaaee13b.jpg"
   },
   {
    "id": "191000e1-ce42-4e06-9244-27fd85fa18f1",
@@ -82,7 +88,8 @@
    "score": 0.38166294,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eeea0c50-6610-4116-b7b6-ea2a5cce4e95.jpg"
   },
   {
    "id": "b0f2cd65-4b98-4805-a95a-e46be1cbc167",
@@ -93,7 +100,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6cd8f912-a4b7-40d4-923c-c8bb222e994e.jpg"
   },
   {
    "id": "4a9cc6ec-74d9-4133-bcf4-8ceb7a9c61ab",
@@ -104,7 +112,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1bc04cf-def5-4c14-97df-737d65a5668e.jpg"
   },
   {
    "id": "50bf01cf-8485-4806-a070-3ee7b4a52333",
@@ -115,7 +124,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b1f10a4-9af7-404a-bafc-e0a290118e8e.png"
   },
   {
    "id": "26c65400-1912-4162-89ab-d08dd7b32623",
@@ -126,7 +136,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9d99184-34a8-4e28-b0b2-ee1f63548a98.jpg"
   },
   {
    "id": "4d383dc5-8acb-415f-ba64-0cfec2e4f7cb",
@@ -137,8 +148,10 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "375a154d-e59e-4a37-84ad-4803e1a4ad9e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:46+00:00"
+ "updatedAt": "2021-07-18T07:03:46+00:00",
+ "coverFileName": "7717689d-94ca-4402-a1b1-968e64aab51a.jpg"
 }

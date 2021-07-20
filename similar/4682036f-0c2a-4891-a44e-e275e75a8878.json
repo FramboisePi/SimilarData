@@ -8,14 +8,15 @@
   {
    "id": "4ab5c63f-c91a-4857-ae33-3a036adca7d4",
    "title": {
-    "en": "Café Relish ni Oide"
+    "en": "Caf\u00e9 Relish ni Oide"
    },
    "contentRating": "safe",
    "score": 0.53927094,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "5bfa81a6-8552-40cf-a0c4-e86a37c75267.jpg"
   },
   {
    "id": "a7f2d403-5701-4569-9328-4bbd5e082942",
@@ -26,7 +27,8 @@
    "score": 0.5335461,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e60a2138-b483-4685-8baf-ff1e2e68a4d8.jpg"
   },
   {
    "id": "6d30d885-5eb0-4c11-b001-51a902be0d13",
@@ -37,18 +39,20 @@
    "score": 0.5310917,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e498354-9e77-4e5a-83db-11c558bf0465.jpg"
   },
   {
    "id": "13ced7ab-6744-4247-8a55-26fc674e1ad9",
    "title": {
-    "en": "Cucumber × Sandwich"
+    "en": "Cucumber \u00d7 Sandwich"
    },
    "contentRating": "safe",
    "score": 0.51768106,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1e90dcf-c1ca-4194-826a-6ce7b5db713b.jpg"
   },
   {
    "id": "bd09983a-c829-4c86-9262-f0c0af1d9a20",
@@ -59,7 +63,8 @@
    "score": 0.5095188,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4278a8f5-4f44-4ba4-8b32-808cbee6f63a.jpg"
   },
   {
    "id": "0df190bf-8145-4ba4-8acc-dee8623a565c",
@@ -70,7 +75,8 @@
    "score": 0.4979725,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff86de30-6111-47f6-af0f-d98511e550f3.jpg"
   },
   {
    "id": "661a792b-6729-4f54-af20-4108db55ccf4",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a7055a67-13e5-4796-823b-8b15e170bc36.jpg"
   },
   {
    "id": "581a033c-3a75-4b1a-8e71-562e88e07605",
@@ -93,7 +100,8 @@
    "score": 0.49194282,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3fc8a41-b961-4a51-ba1f-0d1b1438cb17.jpg"
   },
   {
    "id": "8884c039-78ce-4b42-95ed-773099b0a2e3",
@@ -104,7 +112,8 @@
    "score": 0.49142915,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "309404ff-9ce8-484a-aa4b-92de9250ae78.jpg"
   },
   {
    "id": "7ffb512c-6d65-4be6-9a14-52006eb0ae1a",
@@ -115,7 +124,8 @@
    "score": 0.4914025,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee2a8abf-11f7-425d-99b2-5e8cb4eacc74.jpg"
   },
   {
    "id": "5b05ada1-8fcb-45e5-8d0a-6fc8d9bb7e1e",
@@ -128,7 +138,8 @@
     "en",
     "hu",
     "pl"
-   ]
+   ],
+   "coverFileName": "e4eb9d41-9838-43d0-b0a4-576ffc25c038.jpg"
   },
   {
    "id": "15e37824-3a93-4aea-ab56-6feec95d55ee",
@@ -139,8 +150,10 @@
    "score": 0.47269696,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c5941354-688b-46df-abc8-971a8a061c59.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:36+00:00"
+ "updatedAt": "2021-07-18T06:37:36+00:00",
+ "coverFileName": "27869a66-e22d-428e-818b-e1b3a9958426.jpg"
 }

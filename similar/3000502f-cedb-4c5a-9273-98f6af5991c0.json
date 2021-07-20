@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "5efc7219-1f46-4b87-8173-121c318b7639.jpg"
   },
   {
    "id": "387e920f-566d-4bcb-bdb8-c133db073885",
@@ -28,7 +29,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "856e228b-91ec-4822-9637-ac01c2ba56cf.png"
   },
   {
    "id": "34978f5f-3640-4486-ba11-03e8a5508bf6",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2faf3a1f-0300-4d2f-80fb-b60b4b878697.jpg"
   },
   {
    "id": "3d3bd464-2004-483c-af4f-3cfbe70cf73e",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ccfedb64-7478-49ed-b3a8-6f46b71e4e68.jpg"
   },
   {
    "id": "5d1c5f11-f531-4405-ac12-77293af855bd",
@@ -66,7 +70,8 @@
     "pl",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "8ea4a3ac-405b-4bcc-8085-70039a626f40.jpg"
   },
   {
    "id": "945efc27-faf1-4a62-9775-0499dc255c9c",
@@ -79,7 +84,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "e025d537-7b84-444c-a556-20796bfdeeb0.jpg"
   },
   {
    "id": "939d3754-7d52-41f5-8d2e-5af798713d97",
@@ -90,7 +96,8 @@
    "score": 0.4401043,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "08b6be11-84ac-430d-9ad4-738078236dfd.jpg"
   },
   {
    "id": "009bd26f-23b2-4f6e-9ed9-ba49391c49e8",
@@ -104,7 +111,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "febf29bb-53fd-41f7-9755-dff80f2577a2.jpg"
   },
   {
    "id": "cab9bbbf-5acd-4bc0-83b5-f803bec4a37e",
@@ -117,7 +125,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "bb63cc79-8872-4e01-801e-95e05b914c97.png"
   },
   {
    "id": "06d22615-4713-43dd-985d-377301758d69",
@@ -131,12 +140,13 @@
     "it",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a98a1a7b-9459-4057-8931-30083605c2a8.jpg"
   },
   {
    "id": "8acdc047-6c6b-4603-8ee9-55f03421fceb",
    "title": {
-    "en": "Doctor’s Rebirth"
+    "en": "Doctor\u2019s Rebirth"
    },
    "contentRating": "safe",
    "score": 0.43014294,
@@ -145,7 +155,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "37ed2675-ca5a-4669-8abf-e2d324e6057e.jpg"
   },
   {
    "id": "b1461071-bfbb-43e7-a5b6-a7ba5904649f",
@@ -162,8 +173,10 @@
     "pt-br",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "af99cbf6-6e0c-4544-aee4-8ca58f78dbcd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:23+00:00"
+ "updatedAt": "2021-07-18T06:33:23+00:00",
+ "coverFileName": "bd795c91-7cab-4117-8f67-9fc0179035ca.png"
 }

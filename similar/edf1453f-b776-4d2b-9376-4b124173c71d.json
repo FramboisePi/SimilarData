@@ -1,7 +1,7 @@
 {
  "id": "edf1453f-b776-4d2b-9376-4b124173c71d",
  "title": {
-  "en": "Zettai Kakusei Tenshi Mistress☆Fortune"
+  "en": "Zettai Kakusei Tenshi Mistress\u2606Fortune"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.49219576,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b482bc99-535f-4107-bb77-ba10692cf806.jpg"
   },
   {
    "id": "0f68d9c9-72cc-48e0-9b6c-54da27c74b1e",
@@ -25,7 +26,8 @@
    "score": 0.48985323,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2ed242c-1020-4bb6-a7a5-742968fdbdcc.jpg"
   },
   {
    "id": "39a74837-9878-4956-8069-a67f37dc31bb",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "ebc7da73-ffc9-4b6d-8295-1579821ccd19.jpg"
   },
   {
    "id": "3130fd4c-3f00-4acd-98ee-a4979412bf1b",
@@ -48,7 +51,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "78985d09-3865-4bd0-b663-6bbd4fe79490.jpg"
   },
   {
    "id": "ba8523a7-2529-4291-8a18-bc14d1997d2f",
@@ -61,7 +65,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "99d8a66e-242c-4b37-b0aa-bd4f606d92d6.png"
   },
   {
    "id": "b933a709-1d86-4d27-8545-a0616274dc42",
@@ -72,7 +77,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "047ba460-7744-4fdd-95e5-7c5f66760176.jpg"
   },
   {
    "id": "468404b6-b4c3-4205-9481-ddf462d0faa5",
@@ -83,7 +89,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5c47893-0a0c-4c9d-af42-69ef5d704526.jpg"
   },
   {
    "id": "2d472879-0d7c-4bad-bf76-605246ff99b7",
@@ -94,7 +101,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "881383f6-a5ed-413a-b504-c0eb105f5b81.png"
   },
   {
    "id": "a7c56ec8-ac9f-4220-95e2-f95ef4712ec4",
@@ -106,7 +114,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "7b02cd84-612e-4f08-925b-165e13c2a2fb.jpg"
   },
   {
    "id": "6fa9ed94-a8ae-4814-9d9e-7d57f4c2c7e4",
@@ -117,7 +126,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bb83d3b-d240-434d-9189-937a1cdc08d9.jpg"
   },
   {
    "id": "815aa478-1558-4055-9670-a1be34201f23",
@@ -130,7 +140,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fa16351c-b501-42bb-8f7d-f9505155cddd.jpg"
   },
   {
    "id": "51dc5684-ec31-4911-ad6b-83f2e2f6f84e",
@@ -141,8 +152,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fd336f0-54ad-4550-afa5-ce5c0d44e9d4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:27+00:00"
+ "updatedAt": "2021-07-18T07:08:27+00:00",
+ "coverFileName": "71517e2a-c1d8-4358-b654-916e415e0e8a.jpg"
 }

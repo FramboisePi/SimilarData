@@ -8,14 +8,15 @@
   {
    "id": "4d04342e-c257-4aaf-86b3-aa76fbd57211",
    "title": {
-    "en": "Fiancé wa Monster!?"
+    "en": "Fianc\u00e9 wa Monster!?"
    },
    "contentRating": "safe",
    "score": 0.46551332,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "1ef67779-e604-4fad-83b6-868728c91f91.jpg"
   },
   {
    "id": "eab6bb59-228b-4cde-8a73-38443f1c935c",
@@ -28,7 +29,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6d952c01-6c0d-4685-a882-e66837523ddc.jpg"
   },
   {
    "id": "22b69394-eac0-4a6f-b602-5a908b27ebac",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "f2b786a2-4021-4821-9fb3-49b1047d736e.jpg"
   },
   {
    "id": "2cb946ee-db33-4521-a208-02a970ce328c",
@@ -51,7 +54,8 @@
    "score": 0.3985111,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "841435cb-71ba-43f2-9d59-627677102de4.jpg"
   },
   {
    "id": "42806c0c-789a-4539-afff-fa59d3957453",
@@ -64,7 +68,8 @@
     "en",
     "hu",
     "pl"
-   ]
+   ],
+   "coverFileName": "acc1eed7-3f7c-4654-b3d4-a030a73c855d.jpg"
   },
   {
    "id": "01ac8dd3-a4e1-4002-8b00-0dc4c6a42676",
@@ -77,7 +82,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "42e0530c-0f2e-4480-8e0d-3e84937448cc.png"
   },
   {
    "id": "fa253193-79ac-41b8-a473-d9181597faa7",
@@ -88,7 +94,8 @@
    "score": 0.37119427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "453b3076-a7a8-4720-ab7c-f9190f741f29.jpg"
   },
   {
    "id": "884bbea2-ccd7-4fb6-84e6-f991f792b489",
@@ -99,7 +106,8 @@
    "score": 0.3625033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "92fc9cec-221a-49d8-ade7-ef0145d7403b.jpg"
   },
   {
    "id": "89875740-e284-45d2-adf4-88e4fde127b4",
@@ -110,7 +118,8 @@
    "score": 0.36181203,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "60cff18e-f8b1-419b-a08b-3c168dabafd4.jpg"
   },
   {
    "id": "bd1466f8-7916-4af8-8730-f5aa5bbff91d",
@@ -121,7 +130,8 @@
    "score": 0.36100006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "144f02ba-1987-4313-9ff3-3a1ae8ea1f98.jpg"
   },
   {
    "id": "644696ed-471b-4797-a99d-1797378550f4",
@@ -133,7 +143,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cc3685b5-fdd8-4aba-bb65-33a1bd452200.jpg"
   },
   {
    "id": "fbdc7c08-cab0-408c-8779-ed1418470654",
@@ -144,8 +155,10 @@
    "score": 0.35895854,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b4b9199-d454-41e1-806e-c3a007eae183.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:22+00:00"
+ "updatedAt": "2021-07-18T07:09:22+00:00",
+ "coverFileName": "abb0cbbe-2406-4520-ba39-0bf7a63f391d.jpg"
 }

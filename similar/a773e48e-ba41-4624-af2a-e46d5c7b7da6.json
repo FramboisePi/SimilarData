@@ -18,7 +18,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fd0715f4-2c50-41d9-9cce-a2e369415cd1.jpg"
   },
   {
    "id": "4f3ad467-b3af-4b46-bc9a-dac692cc255e",
@@ -29,7 +30,8 @@
    "score": 0.40109393,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "509234f5-c95c-498c-bc60-b804e387b00c.jpg"
   },
   {
    "id": "cc52d4fd-dafd-45b0-bb98-3eff8bdd6836",
@@ -40,7 +42,8 @@
    "score": 0.3924514,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45d8679e-5444-4989-8a2f-5132a9d6c4d8.png"
   },
   {
    "id": "a741a7fe-5b79-4f1a-b430-da93db374839",
@@ -53,7 +56,8 @@
     "es",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "d8cd4b4a-b0a0-40b1-95ad-67a766d6da30.jpg"
   },
   {
    "id": "05e21132-17da-4bed-8b46-19a329211338",
@@ -64,7 +68,8 @@
    "score": 0.38676956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18c0f824-3353-4af8-bed0-b1f8eba535c8.jpg"
   },
   {
    "id": "952b034e-c702-4287-b5e1-4dd8d33dbdbc",
@@ -77,18 +82,20 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "bfdf2782-603a-4468-ae29-eb041005cb6f.jpg"
   },
   {
    "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
    "title": {
-    "en": "Bear Hunter — Fubuki-gō"
+    "en": "Bear Hunter \u2014 Fubuki-g\u014d"
    },
    "contentRating": "safe",
    "score": 0.38019872,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16e09ce8-4dc6-4656-8c2d-677c39d811a8.png"
   },
   {
    "id": "1fcbaeb6-add2-49a8-8504-9baf38e51ce5",
@@ -100,7 +107,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "1d436c5e-b8f2-41e8-9c17-a45735b5560a.jpg"
   },
   {
    "id": "c94c22a2-49af-4e89-a11c-ea967fe9a382",
@@ -111,7 +119,8 @@
    "score": 0.37905863,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "430ea15a-ba21-4684-a4ca-7e7177ed7b12.jpg"
   },
   {
    "id": "c7dc4c1f-1758-4f04-bec4-0ca82ed89dc9",
@@ -123,7 +132,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "081e2096-9965-4572-ad25-e8f8376e3002.jpg"
   },
   {
    "id": "51fd0b61-b69a-4b1e-b9fa-fefbc738bbb7",
@@ -135,7 +145,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3685f361-1af3-4624-838a-07dd49bfdc7a.jpg"
   },
   {
    "id": "3dd1ec52-d4ec-4c5c-8aff-667d38c5ee0d",
@@ -146,8 +157,10 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ebf89091-e683-4db3-8658-d9ece838fa99.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:35+00:00"
+ "updatedAt": "2021-07-18T06:55:35+00:00",
+ "coverFileName": "93776a1a-c8c9-46c1-b40b-809eccd51499.jpg"
 }

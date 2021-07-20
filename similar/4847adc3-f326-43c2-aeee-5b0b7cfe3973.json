@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ab3000d1-c77e-4e43-81d5-fbe8f9776e83.jpg"
   },
   {
    "id": "9f0c94d9-48b3-40ed-95d4-8d4205261198",
@@ -26,7 +27,8 @@
    "score": 0.42605466,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "929aae6f-a81d-42fe-bf62-022d317fc7f4.jpg"
   },
   {
    "id": "48d231af-d0cd-4f1e-a1e2-9d1a7aa91a6a",
@@ -42,7 +44,8 @@
     "id",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "0e1e1a71-615e-4557-b789-ff56e1f7bd4e.jpg"
   },
   {
    "id": "39a7252d-f080-4c28-9894-e08384f6723b",
@@ -53,7 +56,8 @@
    "score": 0.41091618,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "458136f3-354b-4499-addd-809ec1b3819d.jpg"
   },
   {
    "id": "5a0faf43-02be-4b58-ab02-0c05381920a1",
@@ -64,19 +68,21 @@
    "score": 0.40900168,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8df4f66e-8ac4-4ae4-8d9c-f3a12e2ce14e.png"
   },
   {
    "id": "35c15c68-5268-4bc9-a6e2-b189e1882604",
    "title": {
-    "en": "Gyon-Woo \u0026 Jik-Nyu"
+    "en": "Gyon-Woo & Jik-Nyu"
    },
    "contentRating": "safe",
    "score": 0.40369332,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4aba7226-e47f-4806-bd56-bef74c9ddd49.jpg"
   },
   {
    "id": "a3850522-6640-4743-9fbc-acc725714459",
@@ -88,7 +94,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "747bdb66-0633-45ef-896b-12efeb4e8599.jpg"
   },
   {
    "id": "edba7b3c-b90c-487a-8449-3dfca3a71643",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "71cab178-f8df-4687-b1f2-c0cdc9d09c2e.jpg"
   },
   {
    "id": "f1b8344f-c01d-40eb-9462-e61aa68f7848",
@@ -113,7 +121,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a6584b8c-a1df-4fef-bbdf-9616c416c837.jpg"
   },
   {
    "id": "9edfccfa-082e-45f4-b02f-69ae5f0397f0",
@@ -124,7 +133,8 @@
    "score": 0.39292893,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c81cb3cf-ec49-4181-8b76-ab796ada5538.jpg"
   },
   {
    "id": "dd396eb3-801b-4945-9542-710488a0eb0c",
@@ -135,7 +145,8 @@
    "score": 0.3928026,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fef586d9-e31c-4591-99a2-c049b81cbfc6.jpg"
   },
   {
    "id": "e2c79235-d8bf-4994-b2b5-52e7fa673c37",
@@ -147,8 +158,10 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "a50036d3-f95f-45c8-9f13-22d85d563e6c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:55+00:00"
+ "updatedAt": "2021-07-18T06:37:55+00:00",
+ "coverFileName": "5f55844f-e668-409c-9a46-a29a9baed314.png"
 }

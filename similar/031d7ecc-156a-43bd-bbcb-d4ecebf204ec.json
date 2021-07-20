@@ -20,7 +20,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "662c739d-1247-452b-ac98-4de4ff8dcfb6.jpg"
   },
   {
    "id": "c040aa8d-c3d6-4913-9229-e1bff8b3ca68",
@@ -31,7 +32,8 @@
    "score": 0.41495076,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "74ae4abc-6079-485c-b2a3-a3bc191efe3d.jpg"
   },
   {
    "id": "a369bf77-5d62-44ee-bbb7-1d1d7d7bffbb",
@@ -46,7 +48,8 @@
     "pt-br",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "1c4a6ddf-5d19-4ca2-b52a-6d5fd317c49e.png"
   },
   {
    "id": "dc877a4e-ce68-43fc-b7c1-9ca64966ccd9",
@@ -60,7 +63,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "70de8e7b-73cc-4df3-8848-438d79b6ad48.jpg"
   },
   {
    "id": "2f6abdb5-5743-44e1-af11-dd8d52e24191",
@@ -75,7 +79,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "16e1fe25-3f9f-494d-8f8b-2b058ac2c954.jpg"
   },
   {
    "id": "cf4fe208-0dd4-41df-a2c2-978749067d29",
@@ -88,7 +93,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ba7d6448-e6a8-45a5-8645-216efe79c281.jpg"
   },
   {
    "id": "7e0187ba-a62c-4c73-a4bf-9225dec448b5",
@@ -100,12 +106,13 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "10b880f0-ac1e-4961-b662-7e2c229a751c.jpg"
   },
   {
    "id": "60faa457-51f8-4117-805e-4b335e1f3e67",
    "title": {
-    "en": "You’ve Come to the Wrong House, Villain"
+    "en": "You\u2019ve Come to the Wrong House, Villain"
    },
    "contentRating": "safe",
    "score": 0.35575622,
@@ -114,7 +121,8 @@
     "ru",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "1c56957a-3141-4898-8b56-48387753a088.png"
   },
   {
    "id": "2650a5bf-4e89-4eb9-9a54-ec8fdeee5c2b",
@@ -128,7 +136,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "71fc9e4b-a33f-4336-86e0-e85e3f454318.jpg"
   },
   {
    "id": "4e8f9100-1a9d-493d-b6ef-9cfaed991594",
@@ -143,7 +152,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "4fef9326-139e-471c-9579-8a7824fe413f.jpg"
   },
   {
    "id": "c1add950-29b0-4a38-87d4-165905ae764c",
@@ -156,7 +166,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3411083e-be01-42ed-8660-ceb25ab33c7a.jpg"
   },
   {
    "id": "511d0530-d743-431b-be39-842065d4d011",
@@ -169,8 +180,10 @@
     "en",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2ff42524-6952-4192-9e16-dec1cde33615.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:03+00:00"
+ "updatedAt": "2021-07-18T06:25:03+00:00",
+ "coverFileName": "92f774a9-dadd-42bf-aff0-5656550f8c23.jpg"
 }

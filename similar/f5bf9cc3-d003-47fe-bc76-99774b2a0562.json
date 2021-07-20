@@ -19,7 +19,8 @@
     "it",
     "fa",
     "en"
-   ]
+   ],
+   "coverFileName": "1ea4ca29-a4e3-47cd-9a1f-b3e5797b569c.jpg"
   },
   {
    "id": "a4e5418c-18d9-468a-8cac-8daa78617f83",
@@ -31,7 +32,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3de71bb8-5149-4135-b39f-62410093947b.jpg"
   },
   {
    "id": "aeb13b69-da7b-4b28-b966-131111d20e75",
@@ -42,12 +44,13 @@
    "score": 0.49361292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f24932f3-dfba-46f0-9efe-c684a20b259a.jpg"
   },
   {
    "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
    "title": {
-    "en": "Lucky☆Star"
+    "en": "Lucky\u2606Star"
    },
    "contentRating": "safe",
    "score": 0.48743773,
@@ -55,7 +58,8 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "fa5cc460-3d33-4085-b8a1-cbc8eb3f434c.png"
   },
   {
    "id": "1104caa6-505c-4a28-876d-8ce6adb14e5b",
@@ -66,7 +70,8 @@
    "score": 0.4803048,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "11373c5d-1852-4a3a-b58f-ebd09ab993d8.png"
   },
   {
    "id": "6f4e63bd-bea5-4918-bfd0-78a2509f3525",
@@ -77,7 +82,8 @@
    "score": 0.47886568,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e98ba77-f86e-450c-98a9-005eeca519e1.jpg"
   },
   {
    "id": "a0d76ebd-99d5-4702-b35b-349be10c6af3",
@@ -89,7 +95,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c98d60cc-f410-4abf-be51-424bf6548256.jpg"
   },
   {
    "id": "71d9dccd-4f16-4ce6-beac-dc084706c735",
@@ -101,7 +108,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "92207fae-b1e6-4b45-b230-4d00ef4450b6.jpg"
   },
   {
    "id": "16534b97-57a5-4542-83c1-ecf0aaa86a07",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f3f17f4b-1367-4d51-a0d6-a28fb2c0b75b.jpg"
   },
   {
    "id": "f2a61896-4363-489b-abc9-39436e1538ac",
@@ -124,18 +133,20 @@
    "score": 0.46648723,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d831ce5-1f71-4c81-8779-2d2f14864ae5.png"
   },
   {
    "id": "48c3f749-c37a-4e13-ac61-94ef19dce6bc",
    "title": {
-    "en": "Masamune-kun no Re ○○○"
+    "en": "Masamune-kun no Re \u25cb\u25cb\u25cb"
    },
    "contentRating": "safe",
    "score": 0.46612123,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2a994570-364a-4dcb-b3be-e269d63599a6.jpg"
   },
   {
    "id": "e6c4c1e5-e118-4f5d-af88-d8f1173ee539",
@@ -147,8 +158,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ce76c06c-eb88-45ba-861f-ac993f16ea0e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:54+00:00"
+ "updatedAt": "2021-07-18T07:09:54+00:00",
+ "coverFileName": "0b05caab-842a-447d-aed5-5fd0c7ea6526.jpg"
 }

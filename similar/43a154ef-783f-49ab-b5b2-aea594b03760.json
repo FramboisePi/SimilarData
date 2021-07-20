@@ -17,7 +17,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "a8f29344-4bbe-48c8-a1d3-c0d957b0a80e.jpg"
   },
   {
    "id": "8b16ea4a-30a7-43c6-8833-3e12d3e56329",
@@ -28,7 +29,8 @@
    "score": 0.42898232,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4803a888-37e2-4a70-b32a-e6338aac0023.jpg"
   },
   {
    "id": "7c78cf24-939a-4997-b983-f9fe23bd7a82",
@@ -39,7 +41,8 @@
    "score": 0.40177628,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "3b115a06-b694-4ef4-8e0f-ec4f1409006f.jpg"
   },
   {
    "id": "338fd64d-37c5-410a-929a-938cda8234e2",
@@ -50,7 +53,8 @@
    "score": 0.33956292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2ff133b2-6f58-4a0c-8c27-3a54dea46142.jpg"
   },
   {
    "id": "78011851-3c15-464d-a343-66eedee0489d",
@@ -62,7 +66,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "46b93bea-4b0d-42aa-9fcc-28fbb49964ef.jpg"
   },
   {
    "id": "ff17d3d7-5e33-4cbc-823b-ba8ed0dae32b",
@@ -77,7 +82,8 @@
     "pt-br",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "00f47f49-5270-4c08-9fc2-e8993e74c072.jpg"
   },
   {
    "id": "e1dede75-c42f-432e-8d93-e0c76479c03c",
@@ -88,18 +94,20 @@
    "score": 0.31763202,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ec724d69-5f44-4a84-852b-b07b74c5fb14.png"
   },
   {
    "id": "1e7fb2db-b5cc-4d4d-a492-57d40d491204",
    "title": {
-    "en": "Rot \u0026 Ruin"
+    "en": "Rot & Ruin"
    },
    "contentRating": "safe",
    "score": 0.31763202,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "2871d64d-3225-4ef1-a5ad-a225c4a30caa.jpg"
   },
   {
    "id": "89c37252-b871-42fc-8043-9bca82c6a340",
@@ -115,7 +123,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "67f0ba8a-5ef8-48fc-a777-ee9baf27f160.png"
   },
   {
    "id": "6fe379d1-98aa-4e86-80b8-4c74ed716cc8",
@@ -126,7 +135,8 @@
    "score": 0.29946634,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "afcc9bf2-50f4-44dc-a43c-89f46b499cc2.jpg"
   },
   {
    "id": "356398d7-ace8-4b14-b707-f733ec6b9c37",
@@ -137,7 +147,8 @@
    "score": 0.29946634,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "61cf64d4-a653-42a6-816b-7dade2ef960a.jpg"
   },
   {
    "id": "37f332a2-0413-494c-bc66-b2bad836fb05",
@@ -148,8 +159,10 @@
    "score": 0.29357672,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "33d243b7-a0a4-45cf-b21f-e99d982266b0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:06+00:00"
+ "updatedAt": "2021-07-18T06:37:06+00:00",
+ "coverFileName": "d9467163-118e-437c-8d9b-894c0a329331.jpg"
 }

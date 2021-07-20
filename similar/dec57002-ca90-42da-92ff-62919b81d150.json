@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3e2b46ea-2b25-4aa2-9cfd-12a474db21e9.jpg"
   },
   {
    "id": "40dbfc78-98c0-401c-ae8b-b84021dd2ff7",
@@ -26,18 +27,20 @@
    "score": 0.45,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fcb45c96-aaf1-491f-9091-2245a8a7833e.png"
   },
   {
    "id": "fbcbf6e7-d148-417a-9c25-bdabdae05bec",
    "title": {
-    "en": "Ms. Nobody’s Romantic Survival Game"
+    "en": "Ms. Nobody\u2019s Romantic Survival Game"
    },
    "contentRating": "safe",
    "score": 0.39393038,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "9069bdaa-b659-4240-a83e-3de1498b2b12.jpg"
   },
   {
    "id": "7045de54-8630-403c-af4f-7c0ae6b63225",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "9cf10247-ebc6-4710-ba8a-03b364873c47.jpg"
   },
   {
    "id": "036211c1-dee3-466f-b4ac-89cd64251843",
@@ -63,7 +67,8 @@
     "it",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "014900ea-fbbe-4157-8cc1-ff8034663c49.jpg"
   },
   {
    "id": "14250fe5-4d73-4a22-96c8-f717820e5e92",
@@ -76,7 +81,8 @@
     "tr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "666500f5-eff1-46ff-b93b-e2c888d398fa.jpg"
   },
   {
    "id": "a52ab185-bf8e-4d9e-aba6-28a1bf3e0fa9",
@@ -89,7 +95,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "084cdb6c-4dd5-48e0-95f8-e364fa76fcb8.jpg"
   },
   {
    "id": "14a20dc8-75c0-4258-81a4-66c81f3c5f7b",
@@ -102,7 +109,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "34929e17-f02e-4aee-8a80-60307feb7689.jpg"
   },
   {
    "id": "28f0134f-d1f8-4caa-9d34-23527c6a677d",
@@ -114,7 +122,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0a4e2e06-8b5c-4176-be0b-bbd1275825fc.jpg"
   },
   {
    "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
@@ -128,7 +137,8 @@
     "pt-br",
     "pl",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9bd6e8c9-1cf4-476d-ae72-86341c28da3a.jpg"
   },
   {
    "id": "2ec1db4b-c03a-4562-b56f-d7226cb21306",
@@ -142,7 +152,8 @@
     "pl",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "34d5237f-4c20-4ce3-8291-ce3debf94646.jpg"
   },
   {
    "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
@@ -155,8 +166,10 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "7a84abd1-6d50-4cfd-8d6c-9fb593b942aa.png"
   }
  ],
- "updatedAt": "2021-07-18T07:05:45+00:00"
+ "updatedAt": "2021-07-18T07:05:45+00:00",
+ "coverFileName": "90a76ee7-9269-4081-a2ef-fcf45904493e.jpg"
 }

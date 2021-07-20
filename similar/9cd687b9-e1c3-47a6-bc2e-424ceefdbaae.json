@@ -18,7 +18,8 @@
     "es",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "ee5f36c6-dcd3-4476-89f9-83e1fc4bd85a.jpg"
   },
   {
    "id": "a05a4650-b465-4ff4-a3d2-8020edaa8f5c",
@@ -29,7 +30,8 @@
    "score": 0.35220703,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc5155a6-80cf-4214-b11b-b17b52f4feec.jpg"
   },
   {
    "id": "9ec90538-1320-405e-b639-2a29213d621c",
@@ -41,7 +43,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "b803122e-8912-49eb-aad7-a13c0d1bfa1a.jpg"
   },
   {
    "id": "2a7d3104-3223-44bc-9adb-c7dc0006a978",
@@ -52,7 +55,8 @@
    "score": 0.34155166,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7458d6a-5eec-4c41-8c7e-e26c2666af79.jpg"
   },
   {
    "id": "4b273994-10ec-45cd-a333-b5ea0e894e19",
@@ -63,7 +67,8 @@
    "score": 0.32053316,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7fe9820-d378-42bd-b82f-0302761e9530.jpg"
   },
   {
    "id": "8a3d319d-2d10-4364-928c-0f30fd367c24",
@@ -77,7 +82,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "aaa6dd59-f160-4309-bbd6-e788f82fefe4.jpg"
   },
   {
    "id": "9f3991e0-8e03-4745-b0db-428187b2b0c7",
@@ -88,7 +94,8 @@
    "score": 0.31265032,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "470defe3-b968-46d0-ba32-df04ada1ad44.jpg"
   },
   {
    "id": "674c0331-a8b8-4ead-8ff9-d78895ce0b02",
@@ -101,7 +108,8 @@
     "en",
     "zh-hk",
     "bg"
-   ]
+   ],
+   "coverFileName": "b8314f8c-cf18-4f1f-b995-0b83c3c8ed6e.jpg"
   },
   {
    "id": "9caa7850-2bad-4523-b9e4-5d8f5688e8b8",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f04285eb-af6b-4e9b-add6-12b4dbc0fb94.jpg"
   },
   {
    "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
@@ -124,18 +133,20 @@
    "score": 0.31213307,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec4e19ec-8a7a-4f63-aacc-3755257719a9.jpg"
   },
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.3117811,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "62e116e4-859a-4360-884d-bd655557e826",
@@ -148,8 +159,10 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "4fec9f96-808a-43b3-8d3e-70e764a464c4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:40+00:00"
+ "updatedAt": "2021-07-18T06:53:40+00:00",
+ "coverFileName": "ae15273c-a295-45e4-89cf-36034eaf4822.jpg"
 }

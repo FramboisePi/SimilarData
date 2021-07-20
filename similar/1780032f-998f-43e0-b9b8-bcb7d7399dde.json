@@ -16,7 +16,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "fb8630d7-9090-4265-a364-2ea3fdb67663.jpg"
   },
   {
    "id": "6d75cbb9-8981-4043-9e04-539c1c19c951",
@@ -29,7 +30,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "c7a4bf2e-ee8d-4d03-8a34-dc624d2ac0ec.jpg"
   },
   {
    "id": "d1ae3ac8-bd1d-46fd-a073-53d9ba8ce415",
@@ -43,7 +45,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "51a58249-e6ec-4554-8348-4f142e0f64c7.jpg"
   },
   {
    "id": "c40ed389-df6a-4bbb-b3e8-4c5b38bb57c4",
@@ -57,7 +60,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1796b32b-c21f-416d-8c80-13e25ea6f773.jpg"
   },
   {
    "id": "36285540-c2c0-40ae-986a-a839fcd0f08b",
@@ -69,7 +73,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "2039e982-1fd8-4e00-9d56-f6a086d8b9c5.jpg"
   },
   {
    "id": "cd0a044b-d5bb-4162-960f-2272c3816f15",
@@ -80,7 +85,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c5cc19c-8365-422d-8a81-8f5122ece727.jpg"
   },
   {
    "id": "36f9b49c-4c81-438f-9241-f05cf27a3cd4",
@@ -92,7 +98,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a396d774-8004-44c8-bdbf-462e2b4e77e4.jpg"
   },
   {
    "id": "a5b9144f-9f00-40c2-ab2e-cf063cbdda1c",
@@ -103,7 +110,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e04c41d-69d0-445d-a485-ea7cc4763afa.jpg"
   },
   {
    "id": "b1c1000f-2ecc-4ba3-8284-8d1571462440",
@@ -114,7 +122,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e35d703f-6e3c-4a0f-9525-2fa700adbb31.png"
   },
   {
    "id": "90c54641-756e-4eeb-8c9f-b0e424cca6db",
@@ -125,18 +134,20 @@
    "score": 0.44391975,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdbaaa34-b3f4-4d5e-ad9e-5664d7cbd24f.jpg"
   },
   {
    "id": "882b1e22-ac83-4613-b8f1-7c48138fa584",
    "title": {
-    "en": "Pokémon SPECIAL XY"
+    "en": "Pok\u00e9mon SPECIAL XY"
    },
    "contentRating": "safe",
    "score": 0.44270346,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "939b9dda-215c-4673-921f-98f719ac2669.png"
   },
   {
    "id": "07c028a2-fe8d-429f-9093-2ecbfbcdd3de",
@@ -147,8 +158,10 @@
    "score": 0.43893826,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a8827b2d-a23c-4961-8093-4794e999e389.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:52+00:00"
+ "updatedAt": "2021-07-18T06:28:52+00:00",
+ "coverFileName": "03506c2c-52a4-41f0-be92-53a366d1680a.jpg"
 }

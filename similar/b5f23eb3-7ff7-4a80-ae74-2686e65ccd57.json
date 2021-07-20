@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "494ccd0b-a23b-4165-8875-4037cb3de5e4.jpg"
   },
   {
    "id": "5224bfbf-21d4-4127-a78e-fd0fe24b1b26",
@@ -28,7 +29,8 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "0f97725d-3950-4cd3-86a6-8c6cc4e5db87.jpg"
   },
   {
    "id": "9a1fe7f8-dda3-4a94-8108-afef8b451e42",
@@ -41,7 +43,8 @@
     "ru",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "9363f328-b0df-4912-bd7b-6ea2ab19cd1b.jpg"
   },
   {
    "id": "d68e5a0a-d9ba-4979-aaa7-3a2480bd02b9",
@@ -52,7 +55,8 @@
    "score": 0.321123,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6e898bf-a48c-4b7d-ba92-41c8cf63353b.jpg"
   },
   {
    "id": "a1d683e0-bc10-46d3-9d33-8f50b3b2b208",
@@ -67,7 +71,8 @@
     "de",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5fd9ed9c-9a19-459d-bf02-f42c386a5d6a.jpg"
   },
   {
    "id": "999f66de-0f9c-4acc-afe9-9622038a22ee",
@@ -78,18 +83,20 @@
    "score": 0.29513443,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3bb55c1e-5c37-4c8f-802e-50bb9d98cccd.jpg"
   },
   {
    "id": "70b5170b-7331-4057-ac41-74392f99a435",
    "title": {
-    "en": "Myuu \u0026 I"
+    "en": "Myuu & I"
    },
    "contentRating": "suggestive",
    "score": 0.28464088,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b9b6539-9353-4ccc-8554-45f2542a5fd0.jpg"
   },
   {
    "id": "f390fd11-583a-4441-8d88-9c4ac0e5a2b6",
@@ -101,7 +108,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "0116a18f-0462-4a28-8275-627495d593c2.jpg"
   },
   {
    "id": "b7cad75f-b87b-4250-8b2d-0727419e471c",
@@ -114,7 +122,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "fcd93b47-36dc-40df-b55e-247bb5e717aa.png"
   },
   {
    "id": "e047a92b-1ec7-46c6-a3b2-5f678818df91",
@@ -127,7 +136,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "03ec5928-3b13-4f96-8764-5d90fc31d1f0.jpg"
   },
   {
    "id": "59614d00-207f-423e-9495-14a5ca3cdf94",
@@ -139,7 +149,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "af4a8505-7b84-4da1-b644-dfdd3001f1eb.jpg"
   },
   {
    "id": "a7642dac-5a6f-4223-9bb7-0ea5a2261173",
@@ -150,8 +161,10 @@
    "score": 0.26622358,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6288e6d-1923-412c-bcca-7aa01dd68ecc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:17+00:00"
+ "updatedAt": "2021-07-18T06:58:17+00:00",
+ "coverFileName": "3bb92218-81b1-4cab-91bd-e842475eab87.jpg"
 }

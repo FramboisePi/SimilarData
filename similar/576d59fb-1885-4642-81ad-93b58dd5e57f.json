@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "4952ac0c-4166-42da-94f3-e78d34edd59d.jpg"
   },
   {
    "id": "736bdbe9-4617-45ad-948c-b375f9b562d0",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a315200a-2e7c-4377-ae81-f84e9c09d45a.jpg"
   },
   {
    "id": "8c44b0f3-75b7-480e-9f43-0f47cc49bbdc",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b619e559-d34d-4007-b763-9bceb33ee20d.png"
   },
   {
    "id": "98d662f3-5163-4c8c-85c8-063c42b8bed9",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ae23fa59-77f9-4675-a834-7d2c3c59ab22.jpg"
   },
   {
    "id": "95fa8d97-828a-44e4-81c3-2457b802e29f",
@@ -62,7 +66,8 @@
    "score": 0.37064838,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eec9ae57-85f2-483c-810a-b6c13271b848.png"
   },
   {
    "id": "eadb2b24-4db6-4ebb-96fb-e3cc48ef3aef",
@@ -73,7 +78,8 @@
    "score": 0.36685777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "149638c0-ed89-4875-8671-d26c82063f1d.jpg"
   },
   {
    "id": "34b7afd5-fc14-426b-868a-7ba84145699d",
@@ -84,7 +90,8 @@
    "score": 0.36685777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32dd2d56-bfbd-4f61-9d44-2b02fb13d421.png"
   },
   {
    "id": "262169f3-e507-4235-ab4f-569a0e6bcc30",
@@ -95,7 +102,8 @@
    "score": 0.35319287,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9f608504-4bc8-4378-a53d-7e9ba85b8601.jpg"
   },
   {
    "id": "c24dcb4e-7085-4177-afa8-88f370f790df",
@@ -106,7 +114,8 @@
    "score": 0.34875548,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c51ee77-3f4a-4afe-b18e-c2fe9f0d9640.jpg"
   },
   {
    "id": "53981671-7b91-45b2-9b35-9a253a96914e",
@@ -117,18 +126,20 @@
    "score": 0.3481062,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f0d4332b-ff70-4c6e-b95d-c56eb0f0824c.jpg"
   },
   {
    "id": "fb0ff419-912a-40f8-82c4-c7299e021275",
    "title": {
-    "en": "Aventurier ~Shinyaku Arsène Lupin~"
+    "en": "Aventurier ~Shinyaku Ars\u00e8ne Lupin~"
    },
    "contentRating": "safe",
    "score": 0.3469416,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "63ad105e-1783-47a9-a243-a7347a822e80.jpg"
   },
   {
    "id": "00da3ad0-bd2d-4cc2-850c-4e61561cd176",
@@ -141,8 +152,10 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "b7329d1e-7ff4-42e1-a11c-1fcfbca4fe74.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:43+00:00"
+ "updatedAt": "2021-07-18T06:40:43+00:00",
+ "coverFileName": "77c0e684-f82e-4551-808c-621e7df3c484.jpg"
 }

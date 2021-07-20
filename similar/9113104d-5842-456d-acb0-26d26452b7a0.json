@@ -1,7 +1,7 @@
 {
  "id": "9113104d-5842-456d-acb0-26d26452b7a0",
  "title": {
-  "en": "Love Live! — Diamond \u0026 Drops"
+  "en": "Love Live! \u2014 Diamond & Drops"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ab410602-ddc8-4621-9554-8c1a74586463.jpg"
   },
   {
    "id": "7d37e885-cdbe-43ce-b266-c7855ab27182",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3f1b09eb-3c08-40d7-b500-770407856acf.jpg"
   },
   {
    "id": "c2ad6aa5-b2d4-405c-9c15-bf9cc963e682",
@@ -39,7 +41,8 @@
    "score": 0.44775575,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9454f287-fe98-418c-b3b1-e7da24098b2d.jpg"
   },
   {
    "id": "2490e57a-b130-40d6-a117-9d3ff11a8b6f",
@@ -50,7 +53,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b500a92a-5cc5-411a-86e7-7ff5961f5d22.jpg"
   },
   {
    "id": "965c7fed-7cd5-400f-bd59-622465f90e4f",
@@ -61,7 +65,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94552895-4e33-455a-bdd9-608a6dc9a0aa.jpg"
   },
   {
    "id": "1e1d26fb-b131-4816-8e2a-e08a8d3ab26b",
@@ -72,7 +77,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "66e3828b-bf35-4d08-8e3e-a2c274508abe.jpg"
   },
   {
    "id": "e573099a-0a8e-4476-afd1-f8c8e2f51bf1",
@@ -83,7 +89,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47b99db9-352e-4d2c-b56f-f4078576245b.jpg"
   },
   {
    "id": "ca9cf1ad-aed5-4b02-96fe-7bccf3a9eea4",
@@ -94,7 +101,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f7357cc-7964-435c-bb3a-16b7da148c63.jpg"
   },
   {
    "id": "0ab7fe14-d37b-4afe-92c6-b88a28c671d9",
@@ -105,7 +113,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dbe0421c-a800-497e-ad90-8f70eadf3b6a.jpg"
   },
   {
    "id": "021f53fb-4f39-4bb9-ac09-b0b40a8e6ac4",
@@ -116,7 +125,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9002bddb-af56-4e0e-9486-01c37b1bcee8.jpg"
   },
   {
    "id": "4b32aac0-5ae4-458d-954a-96ab22503d31",
@@ -127,7 +137,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c0b9b61f-c1fa-4532-98bb-c1407c24aea7.jpg"
   },
   {
    "id": "ade34b9a-38e8-4008-a6c5-af665b20c493",
@@ -138,8 +149,10 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2cb56869-8368-43d1-9110-d397b7553fce.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:30+00:00"
+ "updatedAt": "2021-07-18T06:51:30+00:00",
+ "coverFileName": "dc1bfbfc-16d0-4086-8dfa-7091b2db5086.jpg"
 }

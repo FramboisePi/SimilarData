@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1aac5877-9e67-4c27-8004-0b5a84a9783a.jpg"
   },
   {
    "id": "47d168b4-5f66-48e4-87a3-82b79b6ea817",
@@ -26,7 +27,8 @@
    "score": 0.38435727,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d47f1869-0a63-4870-8235-3c24e02dfca2.jpg"
   },
   {
    "id": "d45ba05a-a218-4c91-9f02-5efacb54e6e3",
@@ -41,7 +43,8 @@
     "it",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "ae70fb90-a99d-48eb-a31b-3b46b953210e.jpg"
   },
   {
    "id": "1eb6d594-ad42-4586-8b96-fc3c0e6ddbca",
@@ -52,7 +55,8 @@
    "score": 0.34972805,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48a86a81-8640-450e-bf98-f370411df567.jpg"
   },
   {
    "id": "4b0f21f8-f177-41df-82da-e0596b605b7a",
@@ -63,7 +67,8 @@
    "score": 0.34662643,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "75679b33-a4ef-4704-8744-4ca7a19c9a80.jpg"
   },
   {
    "id": "511d0530-d743-431b-be39-842065d4d011",
@@ -76,7 +81,8 @@
     "en",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2ff42524-6952-4192-9e16-dec1cde33615.jpg"
   },
   {
    "id": "ccfb120f-c95b-4d80-af50-12b8daba9575",
@@ -87,7 +93,8 @@
    "score": 0.344011,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ad014be3-e8e9-480f-b328-b63212cd24d9.jpg"
   },
   {
    "id": "53b1e6d1-b740-464c-a7fe-ce9793bc8135",
@@ -98,7 +105,8 @@
    "score": 0.3427038,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee82b309-109f-48da-b27b-f6bb20894537.jpg"
   },
   {
    "id": "2f41372f-9203-415c-83a9-714c74b19c9e",
@@ -109,7 +117,8 @@
    "score": 0.34199616,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea483a08-7dec-41b3-9304-31581d9212b6.jpg"
   },
   {
    "id": "57ad5b4e-29e5-430e-99fa-e67b1463d0e0",
@@ -121,24 +130,26 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6499329c-be7f-4aa3-b935-e3a734bcdb8e.jpg"
   },
   {
    "id": "44d7921f-2c4b-4667-8356-18b7fca367d7",
    "title": {
-    "en": "World's End Harem ~Britannia Lumière~"
+    "en": "World's End Harem ~Britannia Lumie\u0300re~"
    },
    "contentRating": "safe",
    "score": 0.33114505,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e5e5ec4a-6db4-4382-9116-909c5d2826c6.jpg"
   },
   {
    "id": "5353e8c5-8a6c-402a-895b-0d09feec17d4",
    "title": {
-    "en": "The Savior's Book Café in Another World"
+    "en": "The Savior's Book Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.33114505,
@@ -147,8 +158,10 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "36d955f3-56fb-4a77-9d26-eff42d3dffbd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:02+00:00"
+ "updatedAt": "2021-07-18T06:26:02+00:00",
+ "coverFileName": "b20e7ea5-db34-4e36-942f-382e1f26c249.png"
 }

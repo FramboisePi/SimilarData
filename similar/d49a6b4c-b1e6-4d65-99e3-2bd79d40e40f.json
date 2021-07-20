@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "eaaa99ee-3e27-4e56-9d96-cd174fa0bc53.jpg"
   },
   {
    "id": "12bf57c7-3416-44b5-8836-da4f433eb0ca",
@@ -29,7 +30,8 @@
     "en",
     "ru",
     "hu"
-   ]
+   ],
+   "coverFileName": "305f5d9b-d177-498a-8461-0b09ee04ccae.jpg"
   },
   {
    "id": "95429623-5a80-4ae4-9b61-2c6f3ae7e628",
@@ -40,7 +42,8 @@
    "score": 0.40155497,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cbdac327-e8e9-47b4-9d36-561e9f059c52.jpg"
   },
   {
    "id": "d337b48f-5752-4543-ba9c-1e3a0f70656e",
@@ -52,7 +55,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "1a6cbd1f-01ac-4c10-a754-83b3d6bd4ffe.png"
   },
   {
    "id": "e633b1d5-de5c-425d-a165-9b08b8f22b77",
@@ -63,18 +67,20 @@
    "score": 0.38353848,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b224fa79-3114-4f1f-88db-79b8be6a2d26.jpg"
   },
   {
    "id": "f2c7f3fc-b1bc-4d53-ac4c-95f4a3c1325b",
    "title": {
-    "en": "My Boyfriend​ is a​ Vampire"
+    "en": "My Boyfriend\u200b is a\u200b Vampire"
    },
    "contentRating": "safe",
    "score": 0.3755589,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6914bb08-b564-402d-bb9c-5c6823286441.png"
   },
   {
    "id": "b269c0ed-fec9-48a0-8204-0f3dca34b445",
@@ -85,7 +91,8 @@
    "score": 0.3699947,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b933710d-1dc0-47a6-92db-ee6d9d1093a3.jpg"
   },
   {
    "id": "b40598b0-1409-45c1-a690-7898b2255f4b",
@@ -96,7 +103,8 @@
    "score": 0.36967427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3499d259-d7fb-4c30-8dc0-c454deb49384.jpg"
   },
   {
    "id": "936b0977-3aa4-45e0-b5eb-561964d7456c",
@@ -108,7 +116,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1e467096-2dfd-44bb-93bb-8b62563814e7.png"
   },
   {
    "id": "fb30d2e3-20d1-45c8-b9e1-40b8cfe6a1d3",
@@ -119,7 +128,8 @@
    "score": 0.35774928,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "77f27bfb-d715-42ac-b704-9903fbcbcb69.jpg"
   },
   {
    "id": "ac0557e4-6f1b-487c-bc97-67ed121df732",
@@ -131,7 +141,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "186fa8cf-8a0a-4769-b550-8148448cd7b0.jpg"
   },
   {
    "id": "b78c19f0-1530-4085-984a-5729576f479d",
@@ -142,8 +153,10 @@
    "score": 0.35774928,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eee90e27-61a2-4475-951d-99aa7d6cb8a2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:51+00:00"
+ "updatedAt": "2021-07-18T07:03:51+00:00",
+ "coverFileName": "15b0368e-4b2c-4382-892a-06ae49e64ae9.png"
 }

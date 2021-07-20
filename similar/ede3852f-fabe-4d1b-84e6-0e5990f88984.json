@@ -1,7 +1,7 @@
 {
  "id": "ede3852f-fabe-4d1b-84e6-0e5990f88984",
  "title": {
-  "en": "Anne Happy♪Anthology Comic Kichi"
+  "en": "Anne Happy\u266aAnthology Comic Kichi"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.40395355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "98be292b-518c-43ba-9530-382ab4f3c578.jpg"
   },
   {
    "id": "0a52218a-076e-4201-9a12-a6f5a662e8eb",
@@ -28,7 +29,8 @@
     "tr",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "b0ba1a5e-33bb-4d73-b73e-2a7e59ca7f26.jpg"
   },
   {
    "id": "adfdca67-8874-4ad3-91d3-9bb1fa461d5c",
@@ -39,7 +41,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fa4bc69-159c-4f12-a606-641c8383be5f.jpg"
   },
   {
    "id": "17397c9c-d580-4e4e-8351-d027520464df",
@@ -50,7 +53,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7dcdddd-bbc4-499f-8c98-4012ccaabd44.jpg"
   },
   {
    "id": "f36a2abd-6a17-41ab-81e5-385b3da6cae0",
@@ -62,7 +66,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ac1e8f67-50af-47a2-abf1-440c8e5abc4f.png"
   },
   {
    "id": "ee308b07-bc65-4489-b4fb-617e1e45c808",
@@ -74,7 +79,8 @@
    "languages": [
     "ca",
     "en"
-   ]
+   ],
+   "coverFileName": "8e1c6b10-75c7-4509-b3c5-a27c138e09ff.jpg"
   },
   {
    "id": "4530c383-50af-462f-9258-dc77c1fac0a4",
@@ -87,7 +93,8 @@
     "th",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "52e99585-d93c-4c4f-b0e3-86ed17c8ae92.png"
   },
   {
    "id": "9f9eb763-2f23-4e04-abd2-257628b48019",
@@ -98,7 +105,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d452b52-6b07-4a52-b427-f388b3a0ce3f.jpg"
   },
   {
    "id": "37e6a45f-3eda-4f27-93d0-84ec8e8c34a7",
@@ -110,7 +118,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "7b4f476c-be04-468c-bb04-1e016d468cbf.jpg"
   },
   {
    "id": "9a7eaeee-86bb-466f-8bf5-2832bc1d4b30",
@@ -121,18 +130,20 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1c2cc601-a2a0-4764-821e-fdd6a8f98d2d.jpg"
   },
   {
    "id": "21447de2-9bd0-4de2-b3c3-a7ce76e969e7",
    "title": {
-    "en": "GraBuro! – Let’s play granblue- fantasy! (Anthology)"
+    "en": "GraBuro! \u2013 Let\u2019s play granblue- fantasy! (Anthology)"
    },
    "contentRating": "safe",
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "775b2d33-2f42-4bfc-9e6c-1c84bcaf27f9.jpg"
   },
   {
    "id": "35c6eff2-6850-4636-93ab-6de944ff542f",
@@ -143,8 +154,10 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5aa05d1a-e507-4abc-99f7-a407b28a2a7d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:27+00:00"
+ "updatedAt": "2021-07-18T07:08:27+00:00",
+ "coverFileName": "4e9887a2-f78b-4e27-8a17-f2c28274e1b1.jpg"
 }

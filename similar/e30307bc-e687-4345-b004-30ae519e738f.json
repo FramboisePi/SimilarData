@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7a2b8783-3fb0-46eb-a090-84530d3542d5.jpg"
   },
   {
    "id": "96b0f185-d209-49c6-aabf-57873e8ed17f",
@@ -25,7 +26,8 @@
    "score": 0.44496623,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ce6f44f-4d23-4b4a-918e-c4d0cc6279bb.png"
   },
   {
    "id": "b7576356-2a97-45e9-9b14-b31aebf59843",
@@ -36,7 +38,8 @@
    "score": 0.4022798,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "627d30d9-9262-4176-a18f-6bfc72ed73f8.jpg"
   },
   {
    "id": "3933ea33-0293-4e16-a8d6-9c992ed19fa3",
@@ -47,7 +50,8 @@
    "score": 0.4013703,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd380712-9867-47de-87b0-bd6deb0c2ac0.jpg"
   },
   {
    "id": "e2127e97-5307-4158-925e-d0208ccb4636",
@@ -58,18 +62,20 @@
    "score": 0.3940856,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82abd425-ae81-4e4a-be8e-3526c64ba04d.jpg"
   },
   {
    "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
    "title": {
-    "en": "Kimi o Matsu -\u003e Akaiito"
+    "en": "Kimi o Matsu -> Akaiito"
    },
    "contentRating": "safe",
    "score": 0.390997,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5b11399-997e-4745-8bd6-112b2929096a.jpg"
   },
   {
    "id": "729940e6-e49e-4ce0-9011-12c10b80f97e",
@@ -82,7 +88,8 @@
     "es-la",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "defd8e39-a976-4263-8c81-01331d3a657e.jpg"
   },
   {
    "id": "7846e2f4-92b9-473a-8925-75aa74c2bc11",
@@ -93,7 +100,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19520c2d-4e91-44fc-ac02-6ed3827127b3.png"
   },
   {
    "id": "ff02c4d0-7c95-48b2-b750-a1fedec6d10c",
@@ -105,7 +113,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c9ce0199-fa92-4255-84dd-c16b5d014054.jpg"
   },
   {
    "id": "db82ebdf-31f9-4d37-99f2-8c8766cf5093",
@@ -117,18 +126,20 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a60d2af1-e280-4dc8-b812-afcf28b4545b.jpg"
   },
   {
    "id": "18e028a4-7026-46e3-9e8c-86c60584edb9",
    "title": {
-    "en": "Blind Märchen"
+    "en": "Blind M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de8605e3-8601-4f35-9ad8-91b0f882c8cf.jpg"
   },
   {
    "id": "cd5d08b9-ca54-49c4-853d-b167089c19a9",
@@ -139,8 +150,10 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7ff2ea0b-000c-4ea5-a0d1-edcb02caf044.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:29+00:00"
+ "updatedAt": "2021-07-18T07:06:29+00:00",
+ "coverFileName": "3c4753dd-a69d-44a1-b561-c8dc737899d5.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "f82dc29b-0993-4876-b221-a2f21c7a7dba",
  "title": {
-  "en": "Amnesia Doesn’t Make Me Your Boyfriend!"
+  "en": "Amnesia Doesn\u2019t Make Me Your Boyfriend!"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.52629864,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "297affd1-4675-4c37-b3c6-585ed2fe8aa0.png"
   },
   {
    "id": "2f550061-539a-4bf6-9c6d-678576101669",
@@ -27,7 +28,8 @@
     "es-la",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "1d936d2d-ab94-456a-9437-707c22ceacc1.gif"
   },
   {
    "id": "859ccf3a-9684-48ec-92f5-f0218fd0b00e",
@@ -38,7 +40,8 @@
    "score": 0.49442512,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "25080f65-2535-4733-876a-a91e08d603ef.png"
   },
   {
    "id": "24aec77b-d8e5-4d7f-bc5f-9c06371c11e6",
@@ -49,7 +52,8 @@
    "score": 0.48346996,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b27a9a3-daa2-4cac-a92c-59c5ce0d5fa8.jpg"
   },
   {
    "id": "d8d76c0b-46ba-4f2c-ba39-97431a9a83ad",
@@ -60,7 +64,8 @@
    "score": 0.47323444,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be57f8b8-8710-4e8b-b23a-39620c33a943.png"
   },
   {
    "id": "5cf4e12b-4f09-46e6-842e-20cdee70207a",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "df2af69b-6487-4fa5-b24a-90089f5ec1f0.png"
   },
   {
    "id": "8d73fc5c-0e3d-4376-887e-ec3a60f0624a",
@@ -83,7 +89,8 @@
    "score": 0.45445356,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a337d2b2-3f15-4799-87c0-508e0dcbaae5.jpg"
   },
   {
    "id": "b40cd833-07d3-42ae-bbef-a93db044dc09",
@@ -94,7 +101,8 @@
    "score": 0.45360094,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2909304-039f-4703-853d-2b7bbaca4e8f.jpg"
   },
   {
    "id": "1285bed9-aa1f-4559-aaf4-cb63d551188d",
@@ -105,18 +113,20 @@
    "score": 0.45261,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d7046238-e9d5-433e-8e7f-c58fe29f898c.jpg"
   },
   {
    "id": "82c54dff-1017-4e8d-b6c0-750e9fc432af",
    "title": {
-    "en": "A\u0026B"
+    "en": "A&B"
    },
    "contentRating": "safe",
    "score": 0.44785202,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a29791ea-be21-4833-bf8c-23a138caaed2.jpg"
   },
   {
    "id": "17660276-a16f-454e-8295-3821fe7c04e9",
@@ -129,7 +139,8 @@
     "pl",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5929a3fb-865f-49cc-bb03-7f8b827edf10.jpg"
   },
   {
    "id": "612f5f71-961f-4607-a8cd-7cf370116c52",
@@ -140,8 +151,10 @@
    "score": 0.44785202,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c29af61-bf9a-4a16-94e0-2a9c271580bb.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:19+00:00"
+ "updatedAt": "2021-07-18T07:10:19+00:00",
+ "coverFileName": "65d726ec-1b0d-43cc-9437-16bc1e5585bc.png"
 }

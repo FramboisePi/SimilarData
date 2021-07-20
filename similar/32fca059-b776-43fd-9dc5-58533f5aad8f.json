@@ -14,7 +14,8 @@
    "score": 0.4552833,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a4797b31-f6bd-40db-8462-5f1debb5bdf5.jpg"
   },
   {
    "id": "00cf4464-60fd-49f8-97df-86c595acb45d",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8c478e69-9041-4ef3-9ae1-d65182cce62d.jpg"
   },
   {
    "id": "ca0cccd1-45cc-42a5-b9f6-47cb241c43b8",
@@ -37,7 +39,8 @@
    "score": 0.4265254,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "44ef385a-21dc-4b9d-9201-77732795f72e.jpg"
   },
   {
    "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
@@ -48,12 +51,13 @@
    "score": 0.42572314,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "890aafe7-6ae5-4955-a45d-799153842918.jpg"
   },
   {
    "id": "f0e3275b-a321-449d-99ba-baa3244b71b5",
    "title": {
-    "en": "Akaboshi – Ibun Suikoden"
+    "en": "Akaboshi \u2013 Ibun Suikoden"
    },
    "contentRating": "safe",
    "score": 0.41770488,
@@ -62,7 +66,8 @@
     "de",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6a4a210a-eb3d-4c38-8404-5343c9672317.jpg"
   },
   {
    "id": "a1905002-93bf-42fc-8fc2-74d3031e1368",
@@ -73,7 +78,8 @@
    "score": 0.41487318,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "64f594ff-35a4-4e54-bb2d-fb02e780ac83.jpg"
   },
   {
    "id": "db3271a2-e4e1-4c6b-b17a-0107f15ae876",
@@ -86,7 +92,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9ab9d7fb-46b4-4bad-a26e-1e9828fc09b6.jpg"
   },
   {
    "id": "58001d32-8177-4a5d-9bc7-15d9ae5b6f92",
@@ -97,7 +104,8 @@
    "score": 0.4123464,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "db28ca01-1341-4d20-a978-86c59d3670ff.jpg"
   },
   {
    "id": "56f536cb-580f-430e-8c85-5f4acb0cfc35",
@@ -108,18 +116,20 @@
    "score": 0.40470633,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4db48eab-81b1-44f1-8ce4-5ec507c423ff.png"
   },
   {
    "id": "980d433d-0c92-4568-a126-17c52e198a4b",
    "title": {
-    "en": "Pokémon + Nobunaga's Ambition ~ Ransei's Color Picture Scroll ~"
+    "en": "Pok\u00e9mon + Nobunaga's Ambition ~ Ransei's Color Picture Scroll ~"
    },
    "contentRating": "safe",
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c8aa1094-0992-40a5-9623-271952705023.jpg"
   },
   {
    "id": "51fd0b61-b69a-4b1e-b9fa-fefbc738bbb7",
@@ -131,7 +141,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3685f361-1af3-4624-838a-07dd49bfdc7a.jpg"
   },
   {
    "id": "14d8f009-211a-42f1-af91-7db8d2bb8be8",
@@ -143,8 +154,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "387d8acd-b940-475f-87e9-a16590144a40.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:56+00:00"
+ "updatedAt": "2021-07-18T06:33:56+00:00",
+ "coverFileName": "4d37d7a7-a2c0-4b4d-947c-7dcbea0f230a.jpg"
 }

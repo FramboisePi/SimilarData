@@ -16,7 +16,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "e965cbef-5958-46f0-beeb-40f2899575d7.jpg"
   },
   {
    "id": "50797c23-72d2-481c-a450-f99ef862f0ed",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7eaa7cfc-9b39-4697-8d6f-8f6ca2e1957d.jpg"
   },
   {
    "id": "24af0628-fe13-4d9d-844d-339717e09868",
@@ -44,7 +46,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "e4ab5621-c9e1-4318-836e-43d7dceddf57.jpg"
   },
   {
    "id": "cf16ea31-d883-4458-8eef-72c9651373b7",
@@ -56,7 +59,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2570191c-6576-421d-8d42-8eb32250c494.jpg"
   },
   {
    "id": "cce83a31-a228-45c4-9700-7e46c5190592",
@@ -67,12 +71,13 @@
    "score": 0.6400624,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8871736d-fb03-4cab-83ee-442d78626d9e.jpg"
   },
   {
    "id": "c0ad8919-4646-4a61-adf9-0fd6d8612efa",
    "title": {
-    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 1-bu 「Hon ga Nai nara Tsukureba Ii!」"
+    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 1-bu \u300cHon ga Nai nara Tsukureba Ii!\u300d"
    },
    "contentRating": "safe",
    "score": 0.633701,
@@ -82,7 +87,8 @@
     "ru",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "064ca439-e47b-49fd-9ac3-3a4700d073e9.jpg"
   },
   {
    "id": "11afa5c2-41dc-4cf3-8451-f306a3caf1ab",
@@ -99,7 +105,8 @@
     "it",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "31616f14-95a8-41e5-bf42-0292087c4158.jpg"
   },
   {
    "id": "146ce3c7-ecd5-4244-bf38-389e02e82563",
@@ -110,7 +117,8 @@
    "score": 0.62170804,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aa67de86-1e63-4faf-b064-c4c56aeebf13.jpg"
   },
   {
    "id": "8e2f613f-56c0-4315-bef9-0eb88dc158ba",
@@ -121,7 +129,8 @@
    "score": 0.59841055,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43d82d3f-833a-476c-825b-55e24711f530.jpg"
   },
   {
    "id": "cc52d4fd-dafd-45b0-bb98-3eff8bdd6836",
@@ -132,7 +141,8 @@
    "score": 0.5977163,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45d8679e-5444-4989-8a2f-5132a9d6c4d8.png"
   },
   {
    "id": "a33ea79e-410d-4129-b27d-758568a371ac",
@@ -143,7 +153,8 @@
    "score": 0.5957849,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c8301cc-42f7-461e-a4b5-c123d27c5ce5.jpg"
   },
   {
    "id": "356dfa2b-05e3-45c2-91d6-eb02da8907c6",
@@ -154,8 +165,10 @@
    "score": 0.5933141,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ccbe839e-ac1b-4d41-85f1-da2a07e31736.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:56+00:00"
+ "updatedAt": "2021-07-18T06:44:56+00:00",
+ "coverFileName": "d230c1ae-7867-496c-b5ca-e41913b71642.jpg"
 }

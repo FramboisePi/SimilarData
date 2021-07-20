@@ -8,14 +8,15 @@
   {
    "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
    "title": {
-    "en": "Dogs / Bullets \u0026 Carnage"
+    "en": "Dogs / Bullets & Carnage"
    },
    "contentRating": "safe",
    "score": 0.71087337,
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "37bbdee6-8ec1-4bbd-ab98-f2315637ac14.jpg"
   },
   {
    "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
@@ -29,7 +30,8 @@
     "vi",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a06f8a72-c1c3-4911-a108-23ad60c328a7.jpg"
   },
   {
    "id": "56fbace8-5fbd-4a7d-a642-9c0e4a42c552",
@@ -40,7 +42,8 @@
    "score": 0.4252922,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cbb85c5a-e1c3-4e6c-8f41-94f766c3808c.jpg"
   },
   {
    "id": "4cb2ac5d-1373-4523-bff7-194986c67ef4",
@@ -51,7 +54,8 @@
    "score": 0.41466922,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2879d3a-27d7-4481-b23f-2fbdd403fb98.jpg"
   },
   {
    "id": "f5c031c8-a9ff-4be1-bb47-d12f3f688bb6",
@@ -62,7 +66,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40909339-d987-46fb-bbf6-893a9c183cd3.png"
   },
   {
    "id": "313a75c4-2432-46bb-99eb-c080d8dd0010",
@@ -77,7 +82,8 @@
     "es-la",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2bec57c0-bcd2-4689-8315-06826f674f4e.jpg"
   },
   {
    "id": "aaa614ba-2dba-4b8e-ae15-1dee1d1d72ea",
@@ -88,7 +94,8 @@
    "score": 0.3997222,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0bae26dd-41b7-4fac-8f71-b21a3fcf648b.jpg"
   },
   {
    "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
@@ -99,7 +106,8 @@
    "score": 0.36776695,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3619583d-a4b3-46b3-8896-60d8f50dc882.jpg"
   },
   {
    "id": "5b67448e-ddf3-49d2-9701-c1edd8f0e7ee",
@@ -110,7 +118,8 @@
    "score": 0.36426395,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "01d1bd39-287e-42bc-9957-5017decb1e6a.jpg"
   },
   {
    "id": "d9452808-1c18-49f2-8575-682ed8531aaa",
@@ -121,18 +130,20 @@
    "score": 0.3626846,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "068461e4-abd3-45f1-9d20-fa31e9137f98.jpg"
   },
   {
    "id": "df148d10-0c7e-4908-9be8-35c63c0190ef",
    "title": {
-    "en": "∀ Gundam"
+    "en": "\u2200 Gundam"
    },
    "contentRating": "safe",
    "score": 0.35113108,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fe61334-c7df-4da1-8f8e-3837226a9e1d.jpg"
   },
   {
    "id": "3079fabf-eb51-498a-8e63-f6e43afd8ba8",
@@ -143,8 +154,10 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c6130e9-d24a-4faf-942c-103810d286dc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:16+00:00"
+ "updatedAt": "2021-07-18T07:07:16+00:00",
+ "coverFileName": "b717b87b-07e6-429e-9149-243427df5847.jpg"
 }

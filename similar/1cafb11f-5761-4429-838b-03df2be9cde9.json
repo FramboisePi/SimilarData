@@ -1,7 +1,7 @@
 {
  "id": "1cafb11f-5761-4429-838b-03df2be9cde9",
  "title": {
-  "en": "You’re So Cool"
+  "en": "You\u2019re So Cool"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "63f344a3-255e-4992-bcee-2b347fe2a2ae.jpg"
   },
   {
    "id": "e6dbc5b0-7946-4d96-862d-dbf5514f1f8e",
@@ -28,7 +29,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6ac37d42-8e9f-45fd-b56e-206f97c66c27.jpg"
   },
   {
    "id": "0aba3597-649b-4663-96f0-700a464ad104",
@@ -39,7 +41,8 @@
    "score": 0.5796652,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "4c4c90a9-e55f-40a5-afb2-08757b6b6be7.jpg"
   },
   {
    "id": "27785e58-e873-45b5-98e8-27806b7f08d3",
@@ -51,7 +54,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "9d6ddada-ced3-4b5f-bf62-f2621b892b0b.png"
   },
   {
    "id": "f43c48ed-fe0b-47fc-b16b-a721e83a889a",
@@ -63,7 +67,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "83120359-2663-4d2c-a7be-008864ee42c4.jpg"
   },
   {
    "id": "b52dc175-1067-4110-931a-c6d28af53e96",
@@ -76,7 +81,8 @@
     "pl",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "dfe1ff1c-d05f-4192-8fa5-eca5c40b51c9.jpg"
   },
   {
    "id": "48e34e57-7f8a-4d21-acc7-0896a0ab0983",
@@ -88,7 +94,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "32be2ef4-6fde-4073-af9e-b05764a5ffe1.jpg"
   },
   {
    "id": "ef6c2d1c-f190-4557-bcc7-c6767310fab1",
@@ -102,7 +109,8 @@
     "pl",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6aa96cd3-77ae-4841-833f-9210d1477c95.jpg"
   },
   {
    "id": "aef1cc5c-2506-4afa-96ca-b20dbf643466",
@@ -114,7 +122,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "f5f1ff8b-4394-4743-9469-386d9e80f3fa.jpg"
   },
   {
    "id": "f4d9e9e0-9108-44ff-b152-fdebc6f42fb5",
@@ -125,7 +134,8 @@
    "score": 0.5313,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "f94b0954-a16b-448f-aa57-4c744014aa7d.jpg"
   },
   {
    "id": "a6672116-804e-40cf-a1d1-379f6508c65c",
@@ -138,19 +148,22 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dc9500e7-ffb1-4077-b6ae-05d799997069.jpg"
   },
   {
    "id": "a750513b-d088-495b-9ccc-fc4b01af6263",
    "title": {
-    "en": "Boy \u0026 Cool"
+    "en": "Boy & Cool"
    },
    "contentRating": "safe",
    "score": 0.5222945,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "7dd64c33-0c6d-4b8c-aaf8-3af7a965e144.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:51+00:00"
+ "updatedAt": "2021-07-18T06:29:51+00:00",
+ "coverFileName": "55db2635-30a5-4e63-b3f6-3fa6c33cf5cd.jpg"
 }

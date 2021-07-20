@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ba6ba9bf-14d8-4c8b-8fa6-b89f97f70ca3.jpg"
   },
   {
    "id": "20c40bc3-d824-4d56-908b-2f2c9f956e50",
@@ -26,7 +27,8 @@
    "score": 0.4510609,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c4e6ecab-5996-48ac-b40b-74190d7223da.jpg"
   },
   {
    "id": "569558a2-2148-4b72-a865-04260fabebe2",
@@ -39,7 +41,8 @@
     "pt-br",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "bcc70015-d1ea-488e-bee1-c3ed419c6e71.jpg"
   },
   {
    "id": "a02a047a-832e-4377-8929-8e59cc2f9a17",
@@ -52,7 +55,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a499167f-75b2-4529-8a62-430264ee8b5f.jpg"
   },
   {
    "id": "fe453f20-0f14-4571-a763-c9fc2c950ea8",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "208bcc75-4154-474d-b41f-e446f4d7ab52.jpg"
   },
   {
    "id": "70320653-2796-4de0-824b-4c0f631a9013",
@@ -77,7 +82,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cfff1eb5-4feb-4619-a695-f05a45c220b8.jpg"
   },
   {
    "id": "f207bd7e-2268-4188-92c6-aa53bdbdd622",
@@ -88,19 +94,21 @@
    "score": 0.36450192,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5d9a5b72-3de0-4336-b82d-fbe10faecff7.jpg"
   },
   {
    "id": "977f1de6-175a-43c0-af54-f0a9090d7c81",
    "title": {
-    "en": "Blind \u0026 Homeless"
+    "en": "Blind & Homeless"
    },
    "contentRating": "safe",
    "score": 0.36218837,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "37b16698-77ae-4c98-aeb1-30e7146ef6d6.jpg"
   },
   {
    "id": "42ca3142-7c86-41c0-9ce1-6ff9fc3c9747",
@@ -111,7 +119,8 @@
    "score": 0.3552085,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "735252bd-3a20-4ef1-87c4-279ccb910ce9.jpg"
   },
   {
    "id": "4cfbdee0-d829-41ae-8ab9-badfd9a0cf0c",
@@ -122,7 +131,8 @@
    "score": 0.3552085,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1b6017d0-e9be-43ae-97f9-a321541444c9.png"
   },
   {
    "id": "7831cf0b-259c-4a5d-b886-153fbd254af6",
@@ -134,7 +144,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "88909aa1-8b1a-458e-be5d-64712f116395.jpg"
   },
   {
    "id": "82a01c75-ee53-47ba-9685-096886aec02f",
@@ -146,8 +157,10 @@
    "languages": [
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "ef6c8b0a-d7d9-4779-8476-819ca7841ecc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:14+00:00"
+ "updatedAt": "2021-07-18T06:32:14+00:00",
+ "coverFileName": "76231cac-0082-41d9-a2bd-236f53faf8cb.jpg"
 }

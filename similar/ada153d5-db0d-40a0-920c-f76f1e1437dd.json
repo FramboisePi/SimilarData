@@ -8,13 +8,14 @@
   {
    "id": "8c9c7307-a21e-4e90-aac9-f6cd91cb6b18",
    "title": {
-    "en": "RPG W(・∀・)RLD - Roleplay World"
+    "en": "RPG W(\u30fb\u2200\u30fb)RLD - Roleplay World"
    },
    "contentRating": "suggestive",
    "score": 0.4007101,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c42eca06-6474-41cb-b4f2-f60b743e7b42.png"
   },
   {
    "id": "b347d551-52eb-40cb-a11a-bfb9959d6495",
@@ -30,7 +31,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "efa38555-68bf-4fb5-8b7d-de4fd8dc8e4d.jpg"
   },
   {
    "id": "4022b517-658e-4dc8-978c-bc84d5fc3457",
@@ -46,7 +48,8 @@
     "id",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "6ebf424a-a4de-49f0-a2b1-5cccacdcb760.jpg"
   },
   {
    "id": "fe840e8f-1267-4611-869b-9ab290dc205b",
@@ -58,7 +61,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6a8a3632-9374-42ee-aad4-3268dc4ab49e.jpg"
   },
   {
    "id": "d7d6829b-ceab-4346-a033-22387aeff297",
@@ -74,7 +78,8 @@
     "fr",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "166a835b-4ce1-418a-bfb3-8dbfb7aa7c9d.jpg"
   },
   {
    "id": "b5d26584-3f81-4a72-952e-7cac61499f3f",
@@ -85,7 +90,8 @@
    "score": 0.37515265,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f600738d-f38b-4db7-8ad4-be98a5c99f7c.jpg"
   },
   {
    "id": "c7311cec-9b0f-42f3-8afe-a06cb5b70229",
@@ -102,7 +108,8 @@
     "fr",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "2d98444f-ffc9-4b16-9acf-3aa68655fe79.jpg"
   },
   {
    "id": "397bd865-58d0-4445-be1c-ea6c20c5c9b0",
@@ -116,7 +123,8 @@
     "es-la",
     "id",
     "es"
-   ]
+   ],
+   "coverFileName": "8d5c8e9f-4f54-4fb0-84fa-a8ba885219d8.jpg"
   },
   {
    "id": "69dcebee-7446-4eb2-8244-d903f12a6712",
@@ -134,12 +142,13 @@
     "pt-br",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "e0b88e92-a804-4220-9863-94bb4b7cc9f6.jpg"
   },
   {
    "id": "bcfa196d-d162-45f5-a224-61d26b04a077",
    "title": {
-    "en": "Konosuba: God’s Blessing on This Wonderful World!"
+    "en": "Konosuba: God\u2019s Blessing on This Wonderful World!"
    },
    "contentRating": "suggestive",
    "score": 0.3591678,
@@ -148,7 +157,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ef398ad1-8a0a-4a03-8df5-0f26018c52f5.jpg"
   },
   {
    "id": "0dac60e0-1358-44dd-88cf-927a5fcff348",
@@ -162,7 +172,8 @@
     "fr",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2e354b9e-30fd-4368-b0bd-5ea04c0d4c66.jpg"
   },
   {
    "id": "5283351f-a4e3-4699-af58-021864b5e062",
@@ -176,8 +187,10 @@
     "fr",
     "he",
     "ru"
-   ]
+   ],
+   "coverFileName": "67bf7300-4834-43e1-9381-9f94b0340034.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:43+00:00"
+ "updatedAt": "2021-07-18T06:56:43+00:00",
+ "coverFileName": "5858d4c7-8ae0-42fb-b4a8-20090305a50c.jpg"
 }

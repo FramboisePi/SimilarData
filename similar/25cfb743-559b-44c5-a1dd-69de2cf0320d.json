@@ -16,7 +16,8 @@
     "pl",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "c07248dd-4ded-460f-b1b1-289011f3d0cb.jpg"
   },
   {
    "id": "566eecbc-9ac0-43f1-ae86-84e0fb1065e3",
@@ -28,7 +29,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b40414fe-cb58-4589-b2ac-e6a9a8ce7db2.jpg"
   },
   {
    "id": "aa9fcf1f-f0ac-409b-b326-866176e92903",
@@ -40,7 +42,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "bec30dad-3873-43e1-834a-d5206482f313.jpg"
   },
   {
    "id": "70ea90b0-e6c4-4824-9d4a-57bb20ef381e",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "165d9be5-88b8-415f-a11a-2a7be7e0ddc7.jpg"
   },
   {
    "id": "7f4c3f22-7c31-4a35-a530-b9ab24f050d6",
@@ -64,7 +68,8 @@
    "languages": [
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "3e5f4c09-aa95-46d2-8676-aeead5d2d609.jpg"
   },
   {
    "id": "c5819869-2914-4774-ab3b-9a7753dcbc55",
@@ -78,7 +83,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "41e57588-5ab1-4d32-be32-678b59ff38a0.jpg"
   },
   {
    "id": "6f697d79-cacd-4a10-bdfe-8651b6229fcb",
@@ -90,7 +96,8 @@
    "languages": [
     "hu",
     "pl"
-   ]
+   ],
+   "coverFileName": "a4b3b559-5888-4879-a8c8-62f1c6b55c32.jpg"
   },
   {
    "id": "ef5a7552-26c4-4d7e-b10c-2c84a0d0010b",
@@ -103,19 +110,21 @@
     "en",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "a758eae2-21dd-4d19-9518-fe9e45239412.jpg"
   },
   {
    "id": "5bdc5522-cedc-45f7-b932-fb6690fc8f53",
    "title": {
-    "en": "Peter Pan♠Syndrome"
+    "en": "Peter Pan\u2660Syndrome"
    },
    "contentRating": "safe",
    "score": 0.37560377,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d7341657-ec02-4541-a0a9-a373b7bfc9bd.jpg"
   },
   {
    "id": "82f3ef89-a79a-415c-9e75-63b4c59cab9b",
@@ -127,7 +136,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "21e4bdce-eb75-431a-bbe4-690a2f71669d.jpg"
   },
   {
    "id": "93da08f2-553f-462d-a15e-bb15c5430909",
@@ -141,7 +151,8 @@
     "de",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "66fd7ece-6f18-4fd3-9859-da7fd47132f4.jpg"
   },
   {
    "id": "ba8523a7-2529-4291-8a18-bc14d1997d2f",
@@ -154,8 +165,10 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "99d8a66e-242c-4b37-b0aa-bd4f606d92d6.png"
   }
  ],
- "updatedAt": "2021-07-18T06:31:33+00:00"
+ "updatedAt": "2021-07-18T06:31:33+00:00",
+ "coverFileName": "8a6b38f3-faa2-4eb1-b540-1d6e497c56b7.jpg"
 }

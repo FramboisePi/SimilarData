@@ -1,7 +1,7 @@
 {
  "id": "77f8adc9-a11a-44d0-a4c0-3cb9f21a88c7",
  "title": {
-  "en": "Shikabane★Cherry"
+  "en": "Shikabane\u2605Cherry"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.4401658,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "26e63893-9f1f-40e2-82a1-aae5e66d3456.jpg"
   },
   {
    "id": "f76ffb2d-a84e-4ae5-9268-0a40178f7d64",
    "title": {
-    "en": "Cake Ouji no Spécialité"
+    "en": "Cake Ouji no Sp\u00e9cialit\u00e9"
    },
    "contentRating": "safe",
    "score": 0.43765235,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ab1a648-2438-418b-ab65-aed42a4f9bac.png"
   },
   {
    "id": "738428bb-98bb-4b26-a0e1-e1fb11fc6497",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "5bebf7ad-bde3-44ec-a88d-8cf3dd97990b.jpg"
   },
   {
    "id": "e22041a7-e7c5-4a5e-8f5f-1e9a643f4879",
@@ -50,7 +53,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ff4aeee6-ca3e-42f7-89a8-d24382280009.jpg"
   },
   {
    "id": "13adf99c-bde5-406d-afa7-af6842be2102",
@@ -61,7 +65,8 @@
    "score": 0.42912304,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cf9cf18c-802a-4e22-a468-9ea7b7b002f9.jpg"
   },
   {
    "id": "7261f19a-1db1-4a17-9649-82a7309149c8",
@@ -72,7 +77,8 @@
    "score": 0.4245945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1be7ee28-4c63-460b-bd53-768b1452ea8c.jpg"
   },
   {
    "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
@@ -83,7 +89,8 @@
    "score": 0.42386588,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2fb66943-70ed-47e4-879b-d8c44da47a86.jpg"
   },
   {
    "id": "4e5e5a34-259d-4a35-b68c-f098eefcf612",
@@ -96,7 +103,8 @@
     "en",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "e094a123-ffa0-404d-99c2-bb739f2ca1ba.jpg"
   },
   {
    "id": "d6c10a5b-57f5-485d-9e40-e4c2eddb2ee0",
@@ -107,7 +115,8 @@
    "score": 0.4221822,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b321425d-1e05-484d-8187-73813df1e6d1.jpg"
   },
   {
    "id": "d44b5f4f-f88c-4cf4-936f-2b17643b4a64",
@@ -119,7 +128,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "927d722c-3046-47c1-aff7-dd9ab60106bc.jpg"
   },
   {
    "id": "ff17ec2e-0772-45d2-97c5-0dc8f1fc9c54",
@@ -134,7 +144,8 @@
     "hu",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "00baf44f-89f7-4868-89d9-e23e4df4ef18.jpg"
   },
   {
    "id": "fe1ba5fe-c716-4a27-b326-760eafb17f21",
@@ -147,8 +158,10 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3c561c52-2527-4ced-8799-79af92175636.png"
   }
  ],
- "updatedAt": "2021-07-18T06:46:41+00:00"
+ "updatedAt": "2021-07-18T06:46:41+00:00",
+ "coverFileName": "07abc42a-51b9-497d-9d25-1b711f061997.jpg"
 }

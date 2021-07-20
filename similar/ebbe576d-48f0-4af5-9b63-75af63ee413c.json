@@ -16,7 +16,8 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "53e23e75-45b8-4d9d-93c8-bcfcd808008e.png"
   },
   {
    "id": "62ea0483-696a-46e0-aea6-0a3a8c88cbf9",
@@ -27,7 +28,8 @@
    "score": 0.44839752,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0c95ff0-9d0b-4b85-bca5-34fbd3b41948.jpg"
   },
   {
    "id": "25e708bd-e33d-4120-bd3f-8e9fca8c10d9",
@@ -38,7 +40,8 @@
    "score": 0.41044426,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e1b8896b-f262-4d3e-813a-f2b541f634d7.jpg"
   },
   {
    "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
@@ -50,7 +53,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "21cb0bd3-ed50-4138-93bc-7805aef9b2ee.jpg"
   },
   {
    "id": "489001f3-92c7-4a30-9507-af0ed1a2274c",
@@ -61,7 +65,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f2ef31f-8cac-4572-a078-4f716e8695c7.jpg"
   },
   {
    "id": "b2be6849-bc1d-4460-9739-7b6361f74195",
@@ -72,7 +77,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "284cb6d3-8edd-455e-adbb-55336db354db.jpg"
   },
   {
    "id": "5b67448e-ddf3-49d2-9701-c1edd8f0e7ee",
@@ -83,7 +89,8 @@
    "score": 0.38079584,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "01d1bd39-287e-42bc-9957-5017decb1e6a.jpg"
   },
   {
    "id": "b397efc4-e5e0-40e3-99b9-65b2838650ed",
@@ -94,7 +101,8 @@
    "score": 0.37311295,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94ac1073-c86b-4593-bbd0-9f6d3f801239.jpg"
   },
   {
    "id": "22cb8236-187b-4853-b2c9-4aa69bf2589b",
@@ -106,7 +114,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "fed2dc13-20f5-404e-9b99-036322835af2.jpg"
   },
   {
    "id": "4c678ba1-7655-4ef1-b625-398c38d72d42",
@@ -117,19 +126,21 @@
    "score": 0.35962847,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af5bd694-9b43-4f40-aa63-fe3ef653821e.jpg"
   },
   {
    "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Tiger & Bunny"
    },
    "contentRating": "safe",
    "score": 0.3553864,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "43583370-710b-43d6-94b4-92acd892f9b0.jpg"
   },
   {
    "id": "3f75eeef-c200-4165-af7d-265f1ae3a50e",
@@ -140,8 +151,10 @@
    "score": 0.34667012,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "390e3fcf-6adb-4227-bef8-6c74c2100e57.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:05+00:00"
+ "updatedAt": "2021-07-18T07:08:05+00:00",
+ "coverFileName": "ed5a2d95-8bb9-4d33-b2f6-f05c967c7c8b.jpg"
 }

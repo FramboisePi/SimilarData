@@ -14,7 +14,8 @@
    "score": 0.36743888,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1887078f-85c6-47bb-943f-b16bcf098937.jpg"
   },
   {
    "id": "4699775f-57f7-4896-987c-fe5e57403d8f",
@@ -28,7 +29,8 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "6b8a4ac8-2478-44df-8643-095b5ce4ec69.jpg"
   },
   {
    "id": "ad6c7ce1-1522-46dd-aec8-6de53351123d",
@@ -40,7 +42,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "dce090bc-b761-4085-9159-7b2925b43be2.jpg"
   },
   {
    "id": "ef229b9c-25c2-4931-9c22-f6e89a6389e3",
@@ -52,7 +55,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "2122e74a-e9d7-4e5c-953b-acdd81227253.png"
   },
   {
    "id": "47853ae9-3f95-411b-871d-35d20c4f141b",
@@ -63,7 +67,8 @@
    "score": 0.34751365,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "964b55d8-0248-4872-859b-23084c68f64f.jpg"
   },
   {
    "id": "f2338473-8d9b-432b-9d21-410838847b6c",
@@ -74,7 +79,8 @@
    "score": 0.34751365,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1da27231-eb97-4523-9f9d-f0e84f73a9be.jpg"
   },
   {
    "id": "8f7047e4-9a75-4c63-9362-e3fa899c5703",
@@ -85,7 +91,8 @@
    "score": 0.34751365,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "64266e91-1ed9-4cac-a9b1-247616088e15.png"
   },
   {
    "id": "0bb7aa99-4400-4cdf-96e7-1a0c0a98c0e0",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a6c09271-c50a-4cc0-a122-74662852051f.jpg"
   },
   {
    "id": "4772b75c-1813-447d-8d0e-d30d80b960af",
@@ -108,7 +116,8 @@
    "score": 0.31082568,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a96d5899-c717-41b0-9c42-25cac63cab2d.jpg"
   },
   {
    "id": "7bbfcba2-e3ae-4f1f-8630-1a2fee7e2d99",
@@ -119,18 +128,20 @@
    "score": 0.31082568,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ab0fedf-94e5-49c5-8f5f-50c32b97ed24.jpg"
   },
   {
    "id": "22454c95-5bd1-4167-a63e-5e1bb07bfc3b",
    "title": {
-    "en": "Petite Pêche!"
+    "en": "Petite P\u00eache!"
    },
    "contentRating": "safe",
    "score": 0.29487512,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4755299c-84c9-48eb-9518-38c7936fd63c.jpg"
   },
   {
    "id": "b04c36ae-866b-410b-917e-932e958caaa9",
@@ -141,8 +152,10 @@
    "score": 0.29487512,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "747e5325-6cb1-431b-a0bb-f9fe4a66daad.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:04+00:00"
+ "updatedAt": "2021-07-18T06:32:04+00:00",
+ "coverFileName": "61692a6a-e54a-4f0d-b7ce-4be65eaa8bc8.png"
 }

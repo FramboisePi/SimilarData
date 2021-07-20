@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "63ea23f3-e128-455b-ad95-9a0527c45990.jpg"
   },
   {
    "id": "bb169078-7289-4f95-948f-9315960e6905",
@@ -31,7 +32,8 @@
     "es-la",
     "it",
     "ro"
-   ]
+   ],
+   "coverFileName": "754567a4-754f-4bc5-988c-c387a95e4b6d.jpg"
   },
   {
    "id": "7984d003-ba3f-4455-b8c8-df0a8df26128",
@@ -45,7 +47,8 @@
     "bg",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "a00aca4e-ed01-432e-9e17-265e422bcb04.png"
   },
   {
    "id": "22955021-39c1-4f4b-9a3a-66d5b566a5a7",
@@ -57,19 +60,21 @@
    "languages": [
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "50cd007f-b3fb-492a-9031-db47991890a1.png"
   },
   {
    "id": "8896fe16-0298-4fb5-beb2-b0f63da8114d",
    "title": {
-    "en": "Danganronpa 1\u00262 Comic Anthology"
+    "en": "Danganronpa 1&2 Comic Anthology"
    },
    "contentRating": "safe",
    "score": 0.29782873,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2ba7b6a3-c67b-40c3-9a1f-17d793a7ae97.jpg"
   },
   {
    "id": "e8c8bc87-0b71-4893-9940-3fbd4bfd386b",
@@ -85,7 +90,8 @@
     "ru",
     "fr",
     "uk"
-   ]
+   ],
+   "coverFileName": "1bcef884-5af6-4f3a-8306-b2e62c9db5d2.jpg"
   },
   {
    "id": "471b4716-5b98-440a-984a-c7921a01849b",
@@ -98,7 +104,8 @@
     "es-la",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "72424698-345d-472f-9a51-ef0d43f4c057.jpg"
   },
   {
    "id": "a5c099c2-8e24-44e7-91d3-0d7b050d2dba",
@@ -109,7 +116,8 @@
    "score": 0.28157455,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7d64877c-acf1-45d4-9c41-414a196b7446.jpg"
   },
   {
    "id": "c368efc7-c071-499c-90d2-dc0b22e42853",
@@ -124,7 +132,8 @@
     "en",
     "de",
     "es"
-   ]
+   ],
+   "coverFileName": "033bcc55-daf9-493b-a13c-0a630b41a367.jpg"
   },
   {
    "id": "b7764e53-3395-41cf-b042-36e5d35a4e33",
@@ -139,7 +148,8 @@
     "en",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "ebb15f19-d992-4dbe-a68d-73c1924ba8e4.jpg"
   },
   {
    "id": "ff17d3d7-5e33-4cbc-823b-ba8ed0dae32b",
@@ -154,7 +164,8 @@
     "pt-br",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "00f47f49-5270-4c08-9fc2-e8993e74c072.jpg"
   },
   {
    "id": "21afb191-2f9d-4d7e-bef5-6c0216162a71",
@@ -165,8 +176,10 @@
    "score": 0.28157455,
    "languages": [
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ec894d14-37a4-4443-82bd-b5b218916034.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:41+00:00"
+ "updatedAt": "2021-07-18T07:09:41+00:00",
+ "coverFileName": "b9613bee-1ee9-4e3c-a77f-ed10bfdf9831.jpg"
 }

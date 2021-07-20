@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ac7a4409-9938-4937-8c40-908b0015135f.jpg"
   },
   {
    "id": "962ed908-bc1b-4592-a08d-63c2ed82132c",
@@ -26,7 +27,8 @@
    "score": 0.45618594,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d58a9f2-3f39-4e90-b9b0-8ba4e75979b9.jpg"
   },
   {
    "id": "4710b856-0585-40d2-a87e-099fc032511f",
@@ -39,7 +41,8 @@
     "es-la",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "a6132f7e-e002-4437-8d88-af4530a702fc.jpg"
   },
   {
    "id": "389146c9-3bb7-4921-b1e4-d380d8413e43",
@@ -50,7 +53,8 @@
    "score": 0.42165583,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "68915cdc-6e3f-44f9-afdf-5b15df248b2b.jpg"
   },
   {
    "id": "8d163365-15a6-4031-8671-29a11e3b6d69",
@@ -66,7 +70,8 @@
     "id",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "e5e53bdb-80b8-48a6-b4d8-24deea637406.jpg"
   },
   {
    "id": "7722cc2c-cc19-4ca6-ac22-81bce771afe8",
@@ -79,7 +84,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "12c4624e-723c-4e6c-948b-d59b46d94b60.jpg"
   },
   {
    "id": "9ed8c4a9-aa21-48ba-9389-359c984ae2d2",
@@ -92,7 +98,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ecac3007-c0e6-4042-add2-0080f454e024.jpg"
   },
   {
    "id": "eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb",
@@ -110,7 +117,8 @@
     "fr",
     "nl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cb645d3c-acd8-40a8-af30-914934bf32d0.jpg"
   },
   {
    "id": "dfdd79ad-eae8-489f-8843-bfae7e08e74b",
@@ -123,19 +131,21 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "0dba5399-974e-4717-8050-92a021a80785.jpg"
   },
   {
    "id": "7139976f-57ef-4530-8668-89cba8c2164a",
    "title": {
-    "en": "Tensei! Takenaka hanbei 〜 maina bushou ni tensei shita nakama-tachi to sengokuranse wo ikinuku 〜"
+    "en": "Tensei! Takenaka hanbei \u301c maina bushou ni tensei shita nakama-tachi to sengokuranse wo ikinuku \u301c"
    },
    "contentRating": "safe",
    "score": 0.37007982,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "93d87f15-ae1a-45a5-b1d1-4ad5c2db24f6.jpg"
   },
   {
    "id": "34144247-0c21-43d9-a62f-f4143adface0",
@@ -148,7 +158,8 @@
     "en",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "db669d9f-1596-416d-98c5-54b7b0c4d233.jpg"
   },
   {
    "id": "2a1854b7-2ea4-4725-9b8a-5d1d9f7ee5ff",
@@ -163,8 +174,10 @@
     "fr",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3964ca72-c3e9-4e60-bb13-d42a711b3e85.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:58+00:00"
+ "updatedAt": "2021-07-18T06:44:58+00:00",
+ "coverFileName": "a32fab93-e600-4515-9136-f6a0c5b031e4.jpg"
 }

@@ -15,18 +15,20 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "250c1cd4-153b-4d1c-af7d-06165e0a163d.jpg"
   },
   {
    "id": "328c03a3-b4fb-4d66-a22c-104999e8c28d",
    "title": {
-    "en": "Mint \u0026 Chocolate"
+    "en": "Mint & Chocolate"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc53d030-1c8a-442f-9576-c912837a53a1.jpg"
   },
   {
    "id": "88a258b7-111d-4626-bdf4-cd430a6b74c6",
@@ -37,7 +39,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23bc22e2-8b9a-49c0-828a-f4862d967e9a.jpg"
   },
   {
    "id": "f45b8a0f-be8f-4647-80bb-1796b923b52c",
@@ -49,7 +52,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "11aa20d0-e627-4caf-b342-cc591bc97e31.png"
   },
   {
    "id": "e5c9063e-e843-4a5b-a627-992baa7f43f8",
@@ -61,7 +65,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a11e6568-063a-4a50-b8a5-451203f160f7.jpg"
   },
   {
    "id": "888313ca-6417-4e68-a8c0-0f0dcfcaf555",
@@ -72,7 +77,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e00f44b-778f-4e38-9ed2-240022af8ea9.jpg"
   },
   {
    "id": "816ae8b9-5a38-4ddb-9dce-a8e2713d0248",
@@ -83,7 +89,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b925dd6a-a0ec-44aa-a179-d7f84845b81e.jpg"
   },
   {
    "id": "15503d8d-0236-4544-9b88-aaf4b9227419",
@@ -97,7 +104,8 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "558fdf64-759d-4e36-b3a2-e6334b2097b8.png"
   },
   {
    "id": "24d98626-9f54-400a-b163-74f5c1af5dbb",
@@ -109,7 +117,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ed141817-48c5-45c7-b81b-44450ee5006b.jpg"
   },
   {
    "id": "276b576e-8bd2-455c-a1ef-2d78589f8052",
@@ -122,7 +131,8 @@
     "tr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "75847d2c-5f7c-488f-91e3-67f5c1dbf47a.png"
   },
   {
    "id": "2ba9d191-8f21-46b3-8d06-74d1b8c27672",
@@ -134,7 +144,8 @@
    "languages": [
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "0abf6fd0-d345-4888-807d-4faf292c333f.jpg"
   },
   {
    "id": "5292a0ef-f936-49dc-b213-1ddb7e543454",
@@ -145,8 +156,10 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "74864ed1-d193-4d4f-97fa-ab092ec71604.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:23+00:00"
+ "updatedAt": "2021-07-18T07:02:23+00:00",
+ "coverFileName": "42bab497-5275-4efd-826b-9e0da1e974ed.png"
 }

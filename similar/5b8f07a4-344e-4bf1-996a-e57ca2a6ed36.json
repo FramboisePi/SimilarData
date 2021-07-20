@@ -14,7 +14,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3c245f7-3c40-43cf-93f7-9599c3e8591b.jpg"
   },
   {
    "id": "e5f7a7cb-023d-423d-9d56-c09be2762bdd",
@@ -25,7 +26,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9c16729-b118-4768-809e-99dc56772663.jpg"
   },
   {
    "id": "01c076be-27a5-42f6-85d4-6a1432498b4d",
@@ -36,7 +38,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c710684c-6ebb-4e0a-b0c1-5d4fd9eaf490.jpg"
   },
   {
    "id": "2ce80d07-04ab-48d4-a9f1-71e895b12d6d",
@@ -47,7 +50,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8871e890-583b-4f32-bc11-11171ab27cc4.jpg"
   },
   {
    "id": "3d0866eb-07ac-4112-85a8-d3aff6c459a3",
@@ -58,7 +62,8 @@
    "score": 0.44744647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4dab2706-2837-4010-b6c6-2ebc2a03c0c8.jpg"
   },
   {
    "id": "9dbcc579-2140-46e5-bcba-da8f066314f6",
@@ -70,7 +75,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7b2dd518-4560-4ba2-aa1a-ac274a4ef9f1.jpg"
   },
   {
    "id": "690bc983-6d3e-4d0d-9176-23eccd6e3cba",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9b741b03-d1c7-4e08-a08f-47e5d447cc39.jpg"
   },
   {
    "id": "5d0786a1-936a-477e-82f7-02d49994bb49",
@@ -94,7 +101,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "deecf281-bb1e-4c5d-a0c0-e6786f93c513.jpg"
   },
   {
    "id": "8fca7098-b42c-44db-b591-e638e271c318",
@@ -106,7 +114,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "116504b2-1dcb-43a1-9c99-ef0a45474f98.png"
   },
   {
    "id": "1849ed08-f715-490e-9d94-71ca61507e96",
@@ -118,19 +127,21 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b4f9d3c0-6aee-4015-b8aa-6369823d387f.jpg"
   },
   {
    "id": "22199242-4bdc-4779-9c50-05c43e9dbe11",
    "title": {
-    "en": "New Danganronpa V3 - He’s not saying “It’s a lie” (Doujinshi)"
+    "en": "New Danganronpa V3 - He\u2019s not saying \u201cIt\u2019s a lie\u201d (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44744647,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "0eaa78ed-0dd4-44f4-9686-a4eb05c31042.png"
   },
   {
    "id": "55fcc0c4-0bcd-4009-b87f-a6b704931c9b",
@@ -142,8 +153,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "531a0de7-54d1-48ac-93c1-4918c6a0f498.png"
   }
  ],
- "updatedAt": "2021-07-18T06:41:32+00:00"
+ "updatedAt": "2021-07-18T06:41:32+00:00",
+ "coverFileName": "26202b0d-ec29-457b-acf0-295e6e786b83.jpg"
 }

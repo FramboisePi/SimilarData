@@ -16,7 +16,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "427f99c4-5a2b-45c6-aef7-697f894c6931.jpg"
   },
   {
    "id": "c0f23875-10e3-4490-ae6d-5b48eeac662c",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "51db3c08-6397-4c90-9045-651bfdfddcf5.jpg"
   },
   {
    "id": "67fbef53-9bf6-4f95-8fc1-ab1084d2d8ea",
@@ -42,7 +44,8 @@
     "en",
     "ru",
     "ca"
-   ]
+   ],
+   "coverFileName": "ff11c618-37b3-4d9b-b925-eb4ba05f411e.png"
   },
   {
    "id": "aba48db1-87a4-4b64-af04-ee37b2b0b7d9",
@@ -53,7 +56,8 @@
    "score": 0.29595122,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4a651ef5-37ad-4896-aeb4-1e5d28921dfb.jpg"
   },
   {
    "id": "054fa10a-395f-4fa1-a052-9481ebff2302",
@@ -64,18 +68,20 @@
    "score": 0.29595122,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58179810-5d3f-4d00-878e-ad87c93617dd.jpg"
   },
   {
    "id": "92350fa6-2b08-48fc-9dc3-2591c30646a8",
    "title": {
-    "en": "Heal \u0026 Squeeze"
+    "en": "Heal & Squeeze"
    },
    "contentRating": "suggestive",
    "score": 0.29595122,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "de7b06e8-910f-4acd-908f-9e6ffda4aa2a.jpg"
   },
   {
    "id": "ff574716-93ff-4f6f-825e-dd5f357a98fa",
@@ -88,7 +94,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "d2b95119-5c47-4b35-800b-032c0b9ea895.png"
   },
   {
    "id": "da18a1d0-f9c7-4cd6-a843-5b7fed0cf4c2",
@@ -99,7 +106,8 @@
    "score": 0.27823845,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7db4851e-66a7-4086-968c-4de8ab41efbc.jpg"
   },
   {
    "id": "ab5b1ce5-3a36-456c-8385-01b1366534b8",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "27cfea6e-d589-4891-9554-aeee154ffcac.jpg"
   },
   {
    "id": "65498ee8-3c32-4228-b433-73a4d08f8927",
@@ -126,7 +135,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5c080286-a938-4325-8044-91e88f2d9336.jpg"
   },
   {
    "id": "3f1ba23d-42d3-417b-aeb9-7be4c15302ab",
@@ -138,7 +148,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "d694b191-43a9-473b-a369-1fdca543c8a6.jpg"
   },
   {
    "id": "e995212b-f1b2-4ced-a7d4-a26ae58406da",
@@ -149,8 +160,10 @@
    "score": 0.25844646,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "83cb9c4b-6b92-49a3-b0ef-54bc82f2584f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:25+00:00"
+ "updatedAt": "2021-07-18T06:41:25+00:00",
+ "coverFileName": "008acd7c-eef9-4e78-87fa-d98f5bfd3ede.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.8022116,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe4ed774-1f33-4656-8a84-9afae207a57f.jpg"
   },
   {
    "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
@@ -30,7 +31,8 @@
     "fr",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0d064c12-8230-4c7b-9092-1303927dac56.jpg"
   },
   {
    "id": "e2e867cc-9518-40e6-a256-a0d6c428c668",
@@ -42,7 +44,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "ef2068eb-9571-4a1f-af2d-7d986b30fb96.png"
   },
   {
    "id": "cffa26e7-12da-4299-b156-dfb9a00666ff",
@@ -53,18 +56,20 @@
    "score": 0.5826427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28a89810-8db3-4ce2-9ce6-34d24719dc98.jpg"
   },
   {
    "id": "aaae6694-d9a0-44c2-abed-53141168e3d8",
    "title": {
-    "en": "e×COM Haruoka gakuen game joshibu"
+    "en": "e\u00d7COM Haruoka gakuen game joshibu"
    },
    "contentRating": "safe",
    "score": 0.5768931,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "06f6afda-69d5-4883-b03a-97caae38a8de.jpg"
   },
   {
    "id": "114f08df-91de-4504-a5c7-8eaf51ff695c",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "5951f5b7-d8cc-4f11-ba21-a01e300de2eb.jpg"
   },
   {
    "id": "f43d9f11-e007-4580-ad2d-c044f7039c74",
@@ -87,7 +93,8 @@
    "score": 0.57283324,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3c2d80a-bc90-45cf-b7e9-1779303deeac.jpg"
   },
   {
    "id": "ca21d6ea-64af-48cd-ad04-22c0174df350",
@@ -98,19 +105,21 @@
    "score": 0.572679,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5003f32c-5aee-44b1-8e08-5d34cf503bc1.jpg"
   },
   {
    "id": "5d4de0de-110f-421f-a991-33f25b6abac0",
    "title": {
-    "en": "Houkago☆Idol"
+    "en": "Houkago\u2606Idol"
    },
    "contentRating": "safe",
    "score": 0.55929136,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "be452f2a-38c8-4417-be06-8032feae6a51.jpg"
   },
   {
    "id": "71d9dccd-4f16-4ce6-beac-dc084706c735",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "92207fae-b1e6-4b45-b230-4d00ef4450b6.jpg"
   },
   {
    "id": "c0b050da-07f7-4256-853f-72ab50619c06",
@@ -133,7 +143,8 @@
    "score": 0.5521613,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9ed7de6-a82b-46f0-b9c5-7d0b7216f589.jpg"
   },
   {
    "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
@@ -145,8 +156,10 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "7935ed6a-9f4f-46b1-a917-40c763d4b054.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:59+00:00"
+ "updatedAt": "2021-07-18T06:24:59+00:00",
+ "coverFileName": "be554be9-67f8-4789-8169-72d6529c7e6b.jpg"
 }

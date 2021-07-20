@@ -8,13 +8,14 @@
   {
    "id": "862018db-a3fb-4cc6-8769-5a33f5bf5c7d",
    "title": {
-    "en": "Drop!! ～A Tale of the Fragrance Princess～"
+    "en": "Drop!! \uff5eA Tale of the Fragrance Princess\uff5e"
    },
    "contentRating": "safe",
    "score": 0.46649534,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9bcd843b-a6ed-440c-b7cf-ba749a9f3e4a.jpg"
   },
   {
    "id": "3d3f5945-b7b9-4a0b-85d4-0d81f1ef31ce",
@@ -25,7 +26,8 @@
    "score": 0.45066726,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f2055e37-217c-42c6-ad10-a65ea8388bac.jpg"
   },
   {
    "id": "f1b8344f-c01d-40eb-9462-e61aa68f7848",
@@ -38,7 +40,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a6584b8c-a1df-4fef-bbdf-9616c416c837.jpg"
   },
   {
    "id": "ed854dfe-eb04-4dd3-9dd1-5e05f88f86a2",
@@ -51,7 +54,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7c81bbc0-fcb9-4326-b93e-322cf7d788e1.png"
   },
   {
    "id": "a3ba9898-06cd-443c-915e-96e39669c73e",
@@ -68,7 +72,8 @@
     "es-la",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "1b60433b-dd61-4288-9abf-01753f69c13e.jpg"
   },
   {
    "id": "ca3c2f1b-ca10-4b4f-ab01-5038f4210b67",
@@ -79,7 +84,8 @@
    "score": 0.41025618,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eabd89db-e0f6-44f7-8175-dbe8e2d138b5.jpg"
   },
   {
    "id": "5cc956f2-5033-41f9-8e0d-91e2cfe3a733",
@@ -91,7 +97,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "4a5579ee-a591-414c-aacc-d388becc9761.jpg"
   },
   {
    "id": "c163b669-3a27-4bcf-943a-fd1eebebd4ec",
@@ -102,7 +109,8 @@
    "score": 0.40533975,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae108371-5453-409d-9c60-c232ff25e200.jpg"
   },
   {
    "id": "25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4",
@@ -116,7 +124,8 @@
     "fr",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "18ec280c-58e5-445e-91b7-03b801205fc6.jpg"
   },
   {
    "id": "7b2fd6d4-1bf1-43d5-99bf-73fff7410bdc",
@@ -130,7 +139,8 @@
     "tr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f7943f5f-cb1a-4151-9789-a2294264e8fa.jpg"
   },
   {
    "id": "f3b20d87-847d-4c51-84e5-ce9886693c85",
@@ -144,7 +154,8 @@
     "ru",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "590b9c15-3541-4a79-9a44-1aa209de70fc.jpg"
   },
   {
    "id": "67775d70-4007-4358-9bd4-d5dc79c9e280",
@@ -159,8 +170,10 @@
     "ru",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "06477519-c001-46bd-8f33-8e5cc1501aa3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:29+00:00"
+ "updatedAt": "2021-07-18T07:05:29+00:00",
+ "coverFileName": "fef586d9-e31c-4591-99a2-c049b81cbfc6.jpg"
 }

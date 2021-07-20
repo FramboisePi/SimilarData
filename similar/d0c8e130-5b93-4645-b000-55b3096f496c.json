@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c69a0679-9b60-4fde-95e0-6f97ffba5c82.jpg"
   },
   {
    "id": "efd97845-84e4-495d-9143-597ee4021044",
@@ -29,7 +30,8 @@
     "en",
     "pl",
     "hu"
-   ]
+   ],
+   "coverFileName": "dd203f07-dfd7-4c7f-9614-cc48fa9b0df9.jpg"
   },
   {
    "id": "c3740d61-feec-432c-81a6-1cc2a371befb",
@@ -42,7 +44,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ea8acc48-1579-4d54-86aa-3c31505457b1.jpg"
   },
   {
    "id": "216079d0-1b05-486d-9c8f-6be8be008cf3",
@@ -55,7 +58,8 @@
     "bg",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "035d5a58-d486-4e5c-b506-7d3331deb53f.png"
   },
   {
    "id": "23d9293a-999e-4736-ba43-6d6b8109a6fa",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3c1a3fd3-6b18-46fd-a077-9b2827076817.jpg"
   },
   {
    "id": "e3f8dd56-f40c-48ee-98e2-f06e52d2fb2a",
@@ -80,19 +85,21 @@
     "pl",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "d0b9a69c-5eaa-4967-a0ab-16577eb27b76.jpg"
   },
   {
    "id": "537818a6-928d-46e7-a53a-fe0889497d30",
    "title": {
-    "en": "Cat \u0026 Me"
+    "en": "Cat & Me"
    },
    "contentRating": "safe",
    "score": 0.375,
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "0ef1cb38-2717-4742-8650-a2948ee1c2a9.jpg"
   },
   {
    "id": "1c0d32dc-7d1a-4e2f-93c7-44f77c3bc3eb",
@@ -105,7 +112,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bd50167e-17d3-46c6-be97-205becd26afe.jpg"
   },
   {
    "id": "e5d839cc-963e-4856-a6bd-f3552e4c0d3a",
@@ -117,7 +125,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3c6124ca-adaf-400f-9f62-67f216e90f66.png"
   },
   {
    "id": "d43d5010-3171-4ba1-a41f-709d71cd938a",
@@ -129,7 +138,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "293ca03a-3a51-474f-b568-e7582720f864.jpg"
   },
   {
    "id": "573565b9-9748-4c9b-abbf-3375e88b5244",
@@ -141,7 +151,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "9955d259-632e-4c45-a069-d8110e60c7ba.jpg"
   },
   {
    "id": "d54b5ba8-17c9-4774-8fb9-98593ebdf8e8",
@@ -155,8 +166,10 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "aa6fb05e-6330-4c1c-bd10-df769b7895e7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:09+00:00"
+ "updatedAt": "2021-07-18T07:03:09+00:00",
+ "coverFileName": "749f67be-f05f-4f94-8948-be1dcdcea625.jpg"
 }

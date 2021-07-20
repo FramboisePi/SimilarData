@@ -1,7 +1,7 @@
 {
  "id": "3cba7dbf-f9a6-4f56-aa39-ef1e90d56027",
  "title": {
-  "en": "Suicidal Companyman \u0026 Vampire Schoolgirl"
+  "en": "Suicidal Companyman & Vampire Schoolgirl"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.37746778,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dbb8048b-5919-457b-bafb-d1a298ab3f48.jpg"
   },
   {
    "id": "edb82d3c-20f6-4cf9-a879-7457478642fe",
@@ -28,7 +29,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "37f871cf-b3d6-485c-ba59-d7639fb34638.jpg"
   },
   {
    "id": "f86def88-af8d-4f82-94d8-057367e0db2a",
@@ -39,7 +41,8 @@
    "score": 0.34266528,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2733c2ce-eb4b-410e-846d-9ee4ac10b7e2.png"
   },
   {
    "id": "25f6f666-0699-4ea0-add6-1ed3178c6ee7",
@@ -50,7 +53,8 @@
    "score": 0.33836427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba14c3bb-785a-40b9-96f9-9bfbf909e07d.jpg"
   },
   {
    "id": "936b0977-3aa4-45e0-b5eb-561964d7456c",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1e467096-2dfd-44bb-93bb-8b62563814e7.png"
   },
   {
    "id": "c01b72bd-7fe3-4eea-87e2-e77efc1322fe",
@@ -75,7 +80,8 @@
     "ru",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "5a6a6e45-c493-4dd3-81ac-8ae3f453147e.jpg"
   },
   {
    "id": "85cf1777-d504-4627-abb0-20416e5a4e00",
@@ -88,7 +94,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f961e5e4-8181-4e42-84e6-ff0252b64413.jpg"
   },
   {
    "id": "08f42145-8d59-470c-a3bf-5f5b505cd2e5",
@@ -102,7 +109,8 @@
     "en",
     "es-la",
     "de"
-   ]
+   ],
+   "coverFileName": "365d57de-ee5f-4578-b70b-4c20ac56c41c.jpg"
   },
   {
    "id": "dc7bccb5-aac9-46b0-85af-11c493ccfe82",
@@ -114,7 +122,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "47cefc6b-a2a6-4d69-b0b8-533684383ed2.jpg"
   },
   {
    "id": "0f9fdf08-bf44-4a20-ad91-2294a41484f7",
@@ -125,7 +134,8 @@
    "score": 0.29303205,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "00327d70-69fb-4583-b9a0-ecfe01db81d3.png"
   },
   {
    "id": "6e2cdf44-68ec-467d-95ee-11e55de84671",
@@ -139,7 +149,8 @@
     "mn",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "6fcdb20b-0245-4ab3-86ec-3d5a30896248.jpg"
   },
   {
    "id": "4e6113cf-aa63-48d1-aae9-264cd6abe9cf",
@@ -153,8 +164,10 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "1743d4db-0ac8-410e-a94b-88366b312126.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:46+00:00"
+ "updatedAt": "2021-07-18T06:35:46+00:00",
+ "coverFileName": "ba0f453e-c5fe-42d1-bd3b-688775a2bccf.jpg"
 }

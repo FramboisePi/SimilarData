@@ -1,7 +1,7 @@
 {
  "id": "4aaa385d-e17c-4fcf-8a42-593d7cc80436",
  "title": {
-  "en": "Boku no Hero Academia - \u0026-and- (Doujinshi)"
+  "en": "Boku no Hero Academia - &-and- (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.421533,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9a39bfe1-9cb7-417b-8c86-5a8d1da5f03a.jpg"
   },
   {
    "id": "048eed21-5e52-4936-9064-2331ab830965",
@@ -25,7 +26,8 @@
    "score": 0.4107919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "95b5ecac-9d71-462a-9553-771c2d56e683.png"
   },
   {
    "id": "50cd1057-69b7-47cf-a063-ac283c5fe41e",
@@ -36,7 +38,8 @@
    "score": 0.40409732,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f18ff5e9-4e24-488f-9942-9acbf5f0d7c4.png"
   },
   {
    "id": "0e99e1d4-ca15-47fc-bf74-255006ae51f9",
@@ -47,7 +50,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ceae38ab-7bed-400a-b5aa-954244bc3f4b.jpg"
   },
   {
    "id": "43568914-ed1e-40b1-97e2-b514fe5f1081",
@@ -59,7 +63,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f3c6c4f9-2d65-4759-ac50-56b843ac1a44.png"
   },
   {
    "id": "b7c46234-bd6d-4168-9bc6-0d89a2a69297",
@@ -70,18 +75,20 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3335e307-4295-4da7-b7a2-6cb3cb1cc58b.jpg"
   },
   {
    "id": "0b62cfb4-64ea-4660-bf30-76abecd1b543",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Amazing★Magical Girl (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Amazing\u2605Magical Girl (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0662c772-9f41-4c4e-8890-3bdd52707b78.png"
   },
   {
    "id": "b23cce59-f86b-475d-8bc0-8af0fb54a9d6",
@@ -93,7 +100,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "d7e85d3c-3faa-45a4-a5e6-5c0207819baa.jpg"
   },
   {
    "id": "28f8c685-79c8-4133-812e-5a353a090cf4",
@@ -104,7 +112,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4101e984-562b-42e5-b1d6-9d73c1a7a1e3.png"
   },
   {
    "id": "44432c25-f562-44d7-8f47-85054fa54902",
@@ -115,7 +124,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dbb20bf7-00b5-4174-8657-9727e47632de.jpg"
   },
   {
    "id": "1f43cc01-1f60-445d-9663-b37cc014e2bf",
@@ -127,7 +137,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "63c7b5da-eb14-4503-be63-00bdb513861b.jpg"
   },
   {
    "id": "8af05478-b697-467b-96ed-3decd0e4ef5c",
@@ -138,8 +149,10 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1705d13b-d08e-4bff-96fa-44705e273154.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:21+00:00"
+ "updatedAt": "2021-07-18T06:38:21+00:00",
+ "coverFileName": "8ba2660f-c210-4eb7-9b2a-a192717c71b8.jpg"
 }

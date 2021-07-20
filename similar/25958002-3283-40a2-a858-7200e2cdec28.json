@@ -14,7 +14,8 @@
    "score": 0.8889124,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6561446-9863-4e62-b0e4-0eedc55f5cd3.jpg"
   },
   {
    "id": "ed85460c-3c70-42a5-9737-48a4b59cf5dd",
@@ -27,7 +28,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "98fdaa2f-8cc3-4e9f-8ccc-a626d0361f73.jpg"
   },
   {
    "id": "b706ec97-f281-42c1-b890-02e672f5fe15",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2ff87211-ba7a-4022-8c97-7bdf83d3e103.jpg"
   },
   {
    "id": "b4d27151-3312-491a-9f07-cb0728c877fa",
@@ -50,7 +53,8 @@
    "score": 0.36458617,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b45e854-65a4-4a8a-8171-5f1a5a3ee3d4.jpg"
   },
   {
    "id": "4cc34263-b149-4d58-b89b-43d3a25e68c3",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1d0021f4-f4a7-40d5-872f-7875426b5ae3.jpg"
   },
   {
    "id": "c98a93a0-67fa-4319-acf3-d80a13b68285",
@@ -73,7 +78,8 @@
    "score": 0.31574088,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b1ea9fb2-8636-4022-bc69-e8c0d6245429.jpg"
   },
   {
    "id": "948b299f-9e1d-419d-89ad-57e539c639c3",
@@ -84,7 +90,8 @@
    "score": 0.28240722,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2502ef08-00fe-43ca-ab57-7eeefa67d978.jpg"
   },
   {
    "id": "75fb2312-1a4d-4bc5-8034-9ad2802247be",
@@ -97,19 +104,21 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "229cb1db-5b0c-407a-8ce9-b3210f8ad941.jpg"
   },
   {
    "id": "c0587ebd-7e89-43b7-a877-b28b20ad8261",
    "title": {
-    "en": "Fate/kaleid liner PRISMA☆ILLYA"
+    "en": "Fate/kaleid liner PRISMA\u2606ILLYA"
    },
    "contentRating": "suggestive",
    "score": 0.28240722,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "7d31a35c-802e-408c-8945-9b4c1482c01d.jpg"
   },
   {
    "id": "dd3eb9d8-f4c1-47fa-a23b-cf135b917262",
@@ -120,18 +129,20 @@
    "score": 0.27627328,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bd7756ef-d1e2-494c-85f9-571cf4580b79.jpg"
   },
   {
    "id": "b82e89ce-5ed7-440a-ba9f-3dd27f2f1921",
    "title": {
-    "en": "Saishu \u0026 Roido Meru!!"
+    "en": "Saishu & Roido Meru!!"
    },
    "contentRating": "suggestive",
    "score": 0.27627328,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a47da09b-4578-4e8d-b826-dd049bdf0c82.jpg"
   },
   {
    "id": "86c977b7-91de-4754-b5f8-ad775c485b9c",
@@ -142,8 +153,10 @@
    "score": 0.27627328,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3cf1c433-2600-4919-b4aa-c6beb32eeda9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:30+00:00"
+ "updatedAt": "2021-07-18T06:31:30+00:00",
+ "coverFileName": "34087c74-dd05-48fb-bcd1-14dd7124b06f.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "005b7e3c-2927-45ae-87db-bb3aa04c65e0",
  "title": {
-  "en": "Mage \u0026 Demon Queen"
+  "en": "Mage & Demon Queen"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9de74b6-6522-4904-9773-f32e6c425378.png"
   },
   {
    "id": "14a75df9-07d2-4181-acc0-5693be1aeb3e",
@@ -37,7 +38,8 @@
     "id",
     "pl",
     "vi"
-   ]
+   ],
+   "coverFileName": "8d73f54f-c54d-4e2f-b568-16e7145ee25a.jpg"
   },
   {
    "id": "fce6924a-b0c7-4044-8e2d-db164542cfd8",
@@ -49,7 +51,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "a2ed6d15-2bfe-4753-9b26-c62af1d5aee7.jpg"
   },
   {
    "id": "d51a172c-db95-4a00-9e8c-299b55f26146",
@@ -63,7 +66,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e8d26491-d49b-4002-933f-eb25cb244e55.jpg"
   },
   {
    "id": "024af7a5-f8ad-4b67-b950-b1708f52b018",
@@ -76,7 +80,8 @@
     "en",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "ba3c10a2-d62c-4c17-a00e-a0e12ef430d6.jpg"
   },
   {
    "id": "16800ea3-d7cb-4a03-801e-bfbb4dc12bea",
@@ -94,7 +99,8 @@
     "en",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "4e3197ca-2167-45bd-932e-bbc95a97b93f.jpg"
   },
   {
    "id": "e23e9bc7-8495-4d9b-9320-0c4bfb68b14c",
@@ -106,7 +112,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fe9da68d-f35a-4038-ac25-63cbc433680a.jpg"
   },
   {
    "id": "5248deff-4686-4b24-9d1d-b6794b17ebbd",
@@ -120,7 +127,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e1e1f5a5-cded-4105-bc12-e46ec4e0cec9.jpg"
   },
   {
    "id": "de18ee0b-f9bc-423d-b543-6f6a43024eb6",
@@ -136,7 +144,8 @@
     "pt-br",
     "ar",
     "es-la"
-   ]
+   ],
+   "coverFileName": "73aad280-1e38-42b1-b0a7-6df8f8ab324c.jpg"
   },
   {
    "id": "2fb29fda-1b84-4389-82b2-0495ceda6c77",
@@ -148,7 +157,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "298bd02b-4434-447f-85cc-fb0538598fb5.jpg"
   },
   {
    "id": "735eb543-4207-487d-8a64-9083c3eeb2e5",
@@ -163,7 +173,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "87b721dc-a333-4232-aad8-847bf81502c9.jpg"
   },
   {
    "id": "740eb262-a264-4efd-b609-b8a32cb501c0",
@@ -175,8 +186,10 @@
    "languages": [
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "5ad8d162-b887-4894-bbd3-5d82964e7080.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:33+00:00"
+ "updatedAt": "2021-07-18T06:24:33+00:00",
+ "coverFileName": "aacac3ff-b009-4a4e-a6d9-d7bfa4065c19.jpg"
 }

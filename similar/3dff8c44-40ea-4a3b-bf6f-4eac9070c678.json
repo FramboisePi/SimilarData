@@ -8,7 +8,7 @@
   {
    "id": "45c31545-653a-4f35-b8d6-6b22aa48fc29",
    "title": {
-    "en": "Isyuzoku Joshi ni ○○ Suru Hanashi"
+    "en": "Isyuzoku Joshi ni \u25cb\u25cb Suru Hanashi"
    },
    "contentRating": "suggestive",
    "score": 0.37704825,
@@ -17,7 +17,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6816582f-20a9-46e8-b2c6-32d1a3a46c5d.jpg"
   },
   {
    "id": "42cb8c7c-6234-4814-bbb0-5bf5418d388f",
@@ -33,7 +34,8 @@
     "it",
     "es",
     "ru"
-   ]
+   ],
+   "coverFileName": "c57fc9e6-9ade-4866-954d-0fb6eb686aaf.jpg"
   },
   {
    "id": "19092bd5-3bef-4200-969d-1b9cbc58cd48",
@@ -44,7 +46,8 @@
    "score": 0.36685777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3f309908-e9b6-4dcc-b88e-ad0f769b1c41.jpg"
   },
   {
    "id": "66c5df5b-8e3a-4165-b9f2-35c18cdb9894",
@@ -55,7 +58,8 @@
    "score": 0.36685777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f668290d-0701-4ca7-92a6-8b172ccecb3d.jpg"
   },
   {
    "id": "0831fb6b-5a81-4d0e-85bc-2baf9eee6fc5",
@@ -66,7 +70,8 @@
    "score": 0.36685777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41658dac-0688-4706-9c3c-c805cf06ee53.jpg"
   },
   {
    "id": "f66eb7dd-8acd-4430-984b-d57145632b92",
@@ -78,7 +83,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bf412eef-513c-4979-892a-db550a83d42c.jpg"
   },
   {
    "id": "bf039dca-021c-49c1-90c3-0bcf83807baa",
@@ -89,7 +95,8 @@
    "score": 0.34179953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "581f3b49-3b7b-431b-b79b-a47997576855.jpg"
   },
   {
    "id": "b9f7a12b-fd5a-4b27-a250-6b1851c9c138",
@@ -100,7 +107,8 @@
    "score": 0.34179953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac83bdf1-002d-4498-8f9e-6f1b3002620a.png"
   },
   {
    "id": "305c5759-4e7e-43d3-9d99-5360c6d9d6e1",
@@ -113,7 +121,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "0c08906b-5cd1-4ea1-a8cc-66d283061396.jpg"
   },
   {
    "id": "fc942cd3-41bd-4cf4-8686-ffdaf9827431",
@@ -125,7 +134,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "196db785-2e8a-41c5-a2cc-02d2056d9c94.jpg"
   },
   {
    "id": "d8976050-ec42-44d3-8efe-cdfbf60d7549",
@@ -136,7 +146,8 @@
    "score": 0.3405881,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0970dea-beb0-4bc6-99cc-c41f068f1a09.jpg"
   },
   {
    "id": "65498ee8-3c32-4228-b433-73a4d08f8927",
@@ -151,8 +162,10 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5c080286-a938-4325-8044-91e88f2d9336.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:01+00:00"
+ "updatedAt": "2021-07-18T06:36:01+00:00",
+ "coverFileName": "66435eca-4d5e-44f6-9bda-5783314e5cfe.jpg"
 }

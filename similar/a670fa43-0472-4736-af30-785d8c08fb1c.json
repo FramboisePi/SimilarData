@@ -14,7 +14,8 @@
    "score": 0.87664855,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6ca0582-96bb-4580-890f-73fdc35c6743.jpg"
   },
   {
    "id": "8e67e13e-fdeb-44f5-8ecb-c4609df6b02c",
@@ -28,7 +29,8 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5eb40d31-f81e-463d-a046-570109496794.jpg"
   },
   {
    "id": "8f74fc04-9820-462d-9b37-eb730fa5400b",
@@ -39,7 +41,8 @@
    "score": 0.46004227,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5a3176a-b64c-4223-8e0e-1492dc011c42.jpg"
   },
   {
    "id": "5ef4e73e-6fbc-456b-b7e1-4642256f666d",
@@ -50,19 +53,21 @@
    "score": 0.4558684,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "96a4a26b-dc98-4c91-9c2f-272dfdca6f9c.jpg"
   },
   {
    "id": "8b61fe01-6818-41ca-9df0-ad85792cee9b",
    "title": {
-    "en": "Lady \u0026 Oldman"
+    "en": "Lady & Oldman"
    },
    "contentRating": "safe",
    "score": 0.40177628,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "6603f201-ce95-4395-907c-eb308792d769.jpg"
   },
   {
    "id": "ee9e9071-93c6-45fc-a31b-406e11fcf3d8",
@@ -74,7 +79,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "764c745a-2c34-4327-b75d-f9976f282cb5.jpg"
   },
   {
    "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
@@ -85,7 +91,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "99117ecb-706b-4f9e-815e-072e1302d232.jpg"
   },
   {
    "id": "cffdc4f4-0cd9-409b-b88c-62aaf2882e07",
@@ -99,7 +106,8 @@
     "it",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bf79fae6-20eb-42bd-b139-809b835b8e72.jpg"
   },
   {
    "id": "f75812e9-27bb-44d5-9cb1-25de07ceb326",
@@ -117,18 +125,20 @@
     "tr",
     "de",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cfd34813-aa23-4605-b0df-52b10a401477.jpg"
   },
   {
    "id": "128c4bf0-4bae-4554-a41f-da474c0341ed",
    "title": {
-    "en": "Nein ～9th Story～"
+    "en": "Nein \uff5e9th Story\uff5e"
    },
    "contentRating": "safe",
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bc8b7aa-04d5-4c67-a995-0eba14b63a45.jpg"
   },
   {
    "id": "0bd1bde1-0975-4308-ba12-aea13dba5dd0",
@@ -139,7 +149,8 @@
    "score": 0.36676988,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f6474380-a26b-4293-a1b7-dbbe567f8a22.png"
   },
   {
    "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
@@ -153,8 +164,10 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "402348e2-33fc-4203-a0f3-e3b66430bde2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:24+00:00"
+ "updatedAt": "2021-07-18T06:55:24+00:00",
+ "coverFileName": "e40c9887-fa99-4690-8adf-3237448c4318.jpg"
 }

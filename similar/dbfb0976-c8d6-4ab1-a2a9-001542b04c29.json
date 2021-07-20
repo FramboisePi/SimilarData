@@ -16,7 +16,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "afb13797-8458-432e-86a2-821db291d8bd.jpg"
   },
   {
    "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
@@ -29,18 +30,20 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5d1277cc-1712-49ff-b70a-bc67c168432a.jpg"
   },
   {
    "id": "2de71485-9930-46bd-982e-cd4b1a8ff91c",
    "title": {
-    "en": "Burn-Up: Excess \u0026 W"
+    "en": "Burn-Up: Excess & W"
    },
    "contentRating": "suggestive",
    "score": 0.37309715,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9caee55f-10ca-4f39-b070-46b850486585.png"
   },
   {
    "id": "d2dec3b1-aed8-42a1-bae9-27601ac6626b",
@@ -53,7 +56,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "ef873a89-dd0c-4b23-9022-ac8f515aa107.jpg"
   },
   {
    "id": "4b3278e3-6eca-4ef3-866a-fcfcbc54b2f8",
@@ -67,7 +71,8 @@
     "pt-br",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "d4d83e13-bbf9-4aeb-9df8-a05bad6aff41.jpg"
   },
   {
    "id": "bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc",
@@ -88,18 +93,20 @@
     "pl",
     "ru",
     "vi"
-   ]
+   ],
+   "coverFileName": "eabf2856-c158-4af9-9218-999bd07eedc5.jpg"
   },
   {
    "id": "dc728906-9c33-4794-aba7-8f9361ef5f25",
    "title": {
-    "en": "Ragnarök: Into the Abyss"
+    "en": "Ragnar\u00f6k: Into the Abyss"
    },
    "contentRating": "suggestive",
    "score": 0.35139656,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69550581-ab3b-4b56-bd6b-6ef06ef08180.jpg"
   },
   {
    "id": "68b257db-f74b-47ff-946b-284f9fc47c17",
@@ -111,7 +118,8 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "5ccca831-0a57-4c58-baa5-2f3dabef5433.jpg"
   },
   {
    "id": "e31f7b4b-cc4e-4ac0-989f-3012497b44a2",
@@ -122,7 +130,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d83e9d0a-75dc-4890-b00b-c4b6d151d0ba.jpg"
   },
   {
    "id": "999f66de-0f9c-4acc-afe9-9622038a22ee",
@@ -133,7 +142,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3bb55c1e-5c37-4c8f-802e-50bb9d98cccd.jpg"
   },
   {
    "id": "ccca564b-56e0-4169-b14c-d26df82fad53",
@@ -149,7 +159,8 @@
     "id",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "85a06bbe-f009-416e-a0e2-e6991686d6aa.jpg"
   },
   {
    "id": "ae3e8911-7c27-489c-8cf2-736a3924558c",
@@ -160,8 +171,10 @@
    "score": 0.33966932,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe156596-7ccb-4f00-a9e5-296354e6aa92.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:16+00:00"
+ "updatedAt": "2021-07-18T07:05:16+00:00",
+ "coverFileName": "d50a6efa-09f2-4a63-98b9-609a878fa593.png"
 }

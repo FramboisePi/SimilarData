@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "a71f3d20-846a-459e-bae4-281d144be5d7.jpg"
   },
   {
    "id": "5274c33a-5486-4f50-a48a-c495bfe5ff87",
@@ -26,7 +27,8 @@
    "score": 0.46736926,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90ba933f-74f6-491f-9646-09320caf2696.png"
   },
   {
    "id": "beab7f00-ac83-4dc6-8861-6a49ecb6db05",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "e1f357e3-2c0a-4e32-b526-ac44b8fe8e3f.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -51,7 +54,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "1c37c58f-01cc-49b3-a5d9-160807845a77",
@@ -64,7 +68,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8685fc55-6a17-4d31-bd01-b9c51d4abfc0.jpg"
   },
   {
    "id": "ce6cd711-243c-4514-8990-5be0d374cac4",
@@ -76,7 +81,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "0cc2a295-ac70-466a-afd5-94eb1afbbb4e.jpg"
   },
   {
    "id": "2b1fdada-04a8-4b53-858e-b801eb4f104b",
@@ -90,7 +96,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8a855c8d-8b52-4d14-8e8b-3b06ce327065.jpg"
   },
   {
    "id": "3f12d5e6-969c-457b-a6ca-833f30c2d208",
@@ -102,7 +109,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "b946f603-71ea-40d6-9d71-156ff3e12e1f.jpg"
   },
   {
    "id": "bd5c1613-acfe-4741-b739-e1b2a80fac9d",
@@ -116,7 +124,8 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "e7767b7d-dbab-47b2-81ed-74e34ecec387.jpg"
   },
   {
    "id": "8484fa76-fb9e-494c-9aa0-9a48c582cea6",
@@ -129,12 +138,13 @@
     "en",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "47c7569a-4277-4db8-8a0d-f34f2bc21a99.jpg"
   },
   {
    "id": "60faa457-51f8-4117-805e-4b335e1f3e67",
    "title": {
-    "en": "You’ve Come to the Wrong House, Villain"
+    "en": "You\u2019ve Come to the Wrong House, Villain"
    },
    "contentRating": "safe",
    "score": 0.42762214,
@@ -143,7 +153,8 @@
     "ru",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "1c56957a-3141-4898-8b56-48387753a088.png"
   },
   {
    "id": "5f574191-9219-4169-a18f-490e51c46810",
@@ -156,8 +167,10 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "5a081333-4dfb-4014-8150-03058cdaa08f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:52+00:00"
+ "updatedAt": "2021-07-18T07:08:52+00:00",
+ "coverFileName": "a1fb7574-6abf-4616-b353-bcbf22df55a8.jpg"
 }

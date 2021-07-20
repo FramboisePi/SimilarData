@@ -1,7 +1,7 @@
 {
  "id": "2df6c4e8-9554-4810-bf6a-c8382c3375f2",
  "title": {
-  "en": "Ancestor’s Foolish Disciple"
+  "en": "Ancestor\u2019s Foolish Disciple"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.40587306,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "034dff91-2588-4e22-9035-efdd2c825a66.jpg"
   },
   {
    "id": "a5f50025-d093-48c8-89da-35e23e289705",
@@ -28,7 +29,8 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "b36f14b5-dfdb-4f58-8eb6-b71dad9e28b8.jpg"
   },
   {
    "id": "fcc4cb24-226e-4773-a8a8-966d2b918f9a",
@@ -39,7 +41,8 @@
    "score": 0.3822066,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee546a5a-fbce-4b89-9bae-423b3a55aec8.jpg"
   },
   {
    "id": "77bbdc6d-a1f5-4334-8a71-a54e10e43175",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "cb85dea6-2a44-4bb3-ad5a-81ff1bbc4f17.jpg"
   },
   {
    "id": "39a7252d-f080-4c28-9894-e08384f6723b",
@@ -62,7 +66,8 @@
    "score": 0.38160002,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "458136f3-354b-4499-addd-809ec1b3819d.jpg"
   },
   {
    "id": "cc14c2a6-0cea-45c0-8082-bddff702fbb2",
@@ -74,7 +79,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ab3000d1-c77e-4e43-81d5-fbe8f9776e83.jpg"
   },
   {
    "id": "3da87eaa-ba53-412a-847b-6d7681189bef",
@@ -85,7 +91,8 @@
    "score": 0.36870074,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e79d950f-1aab-49bf-8963-b52ab8928deb.jpg"
   },
   {
    "id": "4847adc3-f326-43c2-aeee-5b0b7cfe3973",
@@ -96,7 +103,8 @@
    "score": 0.36285436,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f55844f-e668-409c-9a46-a29a9baed314.png"
   },
   {
    "id": "5a0faf43-02be-4b58-ab02-0c05381920a1",
@@ -107,7 +115,8 @@
    "score": 0.36107674,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8df4f66e-8ac4-4ae4-8d9c-f3a12e2ce14e.png"
   },
   {
    "id": "140b6ed1-c7b0-458f-b92d-ac19829e3926",
@@ -118,7 +127,8 @@
    "score": 0.35968736,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1bc50e6d-4e7e-4869-9fd7-d8389d684d7a.png"
   },
   {
    "id": "30d7ab40-b269-4141-ad07-c63ae18d52e7",
@@ -129,20 +139,23 @@
    "score": 0.35384032,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8ca08713-bf15-473d-91a2-3bd7bd4805d1.png"
   },
   {
    "id": "0f66d44c-7577-4a14-a7ce-76c8872afb86",
    "title": {
-    "en": "Fox Concubine, Don’t Play With Fire"
+    "en": "Fox Concubine, Don\u2019t Play With Fire"
    },
    "contentRating": "safe",
    "score": 0.35212862,
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "0cf65994-95df-4b3d-93e9-85581e4b2807.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:02+00:00"
+ "updatedAt": "2021-07-18T06:33:02+00:00",
+ "coverFileName": "d78d445d-ee08-4c7f-8dbc-72fb0373ab36.jpg"
 }

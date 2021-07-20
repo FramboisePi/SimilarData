@@ -14,7 +14,8 @@
    "score": 0.4359789,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "db28ca01-1341-4d20-a978-86c59d3670ff.jpg"
   },
   {
    "id": "76e472fe-f815-4176-aad1-8297925511bb",
@@ -27,7 +28,8 @@
     "en",
     "pl",
     "bg"
-   ]
+   ],
+   "coverFileName": "d9e651ed-751d-40a0-95cc-23f8ca8e507b.png"
   },
   {
    "id": "f263bb25-bc48-465d-bc1b-e29b1b2b9383",
@@ -39,7 +41,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "3cc65b05-a4e1-4be5-bae1-64d362e8ab4f.jpg"
   },
   {
    "id": "ada4b443-7a2a-4974-862e-c66f1127413b",
@@ -50,7 +53,8 @@
    "score": 0.4121457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6eba110b-9f2e-4223-90b2-df667b127086.jpg"
   },
   {
    "id": "b2221c21-d128-42cc-b602-3e76f98c0eb6",
@@ -61,7 +65,8 @@
    "score": 0.4121457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e17d6e71-fbce-4d5d-9884-6d1e4a0ecbea.jpg"
   },
   {
    "id": "19b0bde7-eb48-46ce-ba77-5f0101ed680c",
@@ -75,7 +80,8 @@
     "id",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "71c801e0-3cb1-4fc8-a176-b6fcc0ffed30.jpg"
   },
   {
    "id": "cfc8acbf-6d6f-4368-bf08-4372737e5b48",
@@ -86,7 +92,8 @@
    "score": 0.4062104,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "36d009ed-bd61-4f6d-a1d3-e51e5f3cdf18.jpg"
   },
   {
    "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
@@ -98,7 +105,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f1c3325f-3497-4b79-bca5-b53c08506ad0.jpg"
   },
   {
    "id": "a37a44f2-637f-45aa-a4ac-368bc3271a01",
@@ -109,7 +117,8 @@
    "score": 0.4006972,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1bc9ae9-afb4-4d7b-a3b1-cd4b6e907e17.jpg"
   },
   {
    "id": "203deb52-91c9-48b4-90e9-6ca63fa58b69",
@@ -120,18 +129,20 @@
    "score": 0.39961833,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c8bf9dcf-e8a6-49cb-8531-1c87d490fcd9.jpg"
   },
   {
    "id": "882b1e22-ac83-4613-b8f1-7c48138fa584",
    "title": {
-    "en": "Pokémon SPECIAL XY"
+    "en": "Pok\u00e9mon SPECIAL XY"
    },
    "contentRating": "safe",
    "score": 0.39327365,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "939b9dda-215c-4673-921f-98f719ac2669.png"
   },
   {
    "id": "b28aaf14-b357-4d30-8c87-160171a9eb4c",
@@ -145,8 +156,10 @@
     "es",
     "de",
     "ru"
-   ]
+   ],
+   "coverFileName": "122496e0-ade4-49f5-9a0a-be94fa5bd5b9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:04+00:00"
+ "updatedAt": "2021-07-18T06:49:04+00:00",
+ "coverFileName": "56e0ee26-a7df-4a9e-b80a-6a0cdfc5ce87.jpg"
 }

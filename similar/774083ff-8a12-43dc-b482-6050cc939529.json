@@ -8,7 +8,7 @@
   {
    "id": "ea58b15f-40ee-4809-9e69-fcf056bb92e0",
    "title": {
-    "en": "Feng · Jin Shen Lu"
+    "en": "Feng \u00b7 Jin Shen Lu"
    },
    "contentRating": "safe",
    "score": 0.405,
@@ -16,7 +16,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "8c571988-7e5c-4c1e-97c3-c54b80ad2146.jpg"
   },
   {
    "id": "907276d5-2b48-4c76-8a86-481f11fcb069",
@@ -30,7 +31,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3e32b62a-142a-4fae-9713-e0c4d91f8376.jpg"
   },
   {
    "id": "586db3b2-71c2-4d75-97c0-a9ce437fb904",
@@ -41,7 +43,8 @@
    "score": 0.36,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc509c79-efa3-40dc-921b-5926f6fe3740.jpg"
   },
   {
    "id": "7e877ab3-98fb-49e0-adaa-6e5778544de6",
@@ -52,7 +55,8 @@
    "score": 0.35218072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "614295d7-a83d-479d-9c40-bc6c2b2b18b2.jpg"
   },
   {
    "id": "2eb953ff-80a1-4cec-83d2-e7910dcbb96a",
@@ -63,7 +67,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3313bfc4-5e74-4785-8e6b-a24d065002ce.jpg"
   },
   {
    "id": "e4395ecd-68ff-4067-b2bd-3c9643ed70fa",
@@ -77,7 +82,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7a967ee0-2d09-4275-bc36-d073afdb5305.jpg"
   },
   {
    "id": "1d247bd3-f97a-4aa9-b71e-e64cbcc14ce7",
@@ -88,7 +94,8 @@
    "score": 0.34055868,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55c99e7a-fe42-46b8-8df3-9ae1fde917fc.jpg"
   },
   {
    "id": "823f0015-aa41-49f5-b893-01d48089882e",
@@ -101,7 +108,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "33ad7ebb-d94e-4f53-a643-f17d13129597.png"
   },
   {
    "id": "d05a4d45-efe8-4747-a96c-667f7f079078",
@@ -112,7 +120,8 @@
    "score": 0.33203915,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "313cbdb8-c1d5-48ef-8a9c-b6c86f847e8a.jpg"
   },
   {
    "id": "047b49ae-7390-44e5-8a4d-5324c928e351",
@@ -127,7 +136,8 @@
     "es",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "812d5b0f-1e0b-4c94-9890-9604839ba2d5.jpg"
   },
   {
    "id": "911aaa72-41a3-483c-a4c9-5aaefb723435",
@@ -138,7 +148,8 @@
    "score": 0.33203915,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f52d770c-dae7-439f-8249-da82a3d9246f.jpg"
   },
   {
    "id": "ee3e42ec-962e-4d91-b29a-e117dc7a2d7d",
@@ -151,8 +162,10 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "467c41fe-1b38-421f-97da-11d71d88418a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:32+00:00"
+ "updatedAt": "2021-07-18T06:46:32+00:00",
+ "coverFileName": "7513a770-4f50-4d4d-a010-3cd197b3a26f.jpg"
 }

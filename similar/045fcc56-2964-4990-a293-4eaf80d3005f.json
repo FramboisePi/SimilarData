@@ -14,7 +14,8 @@
    "score": 0.3311299,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f7c2781a-ffd8-4a9f-9a87-6d631463878a.jpg"
   },
   {
    "id": "d57360c8-6d04-421f-b471-c26b99caa724",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "6e2537e8-4bcd-4d93-b43e-89833e505b00.png"
   },
   {
    "id": "66b52a3a-40b7-4488-9d85-1d3b2a5c550f",
@@ -40,7 +42,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "ce43b2ae-890d-4a89-86dd-d786ff7355b7.jpg"
   },
   {
    "id": "deee3c5f-029e-4e41-88ff-943b56a8fca2",
@@ -51,7 +54,8 @@
    "score": 0.25846493,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "21cae457-2baf-4327-99b0-c7cca4d6e22e.png"
   },
   {
    "id": "91a9dba7-a264-4885-8480-8abfba79f175",
@@ -62,7 +66,8 @@
    "score": 0.25846493,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8adfac83-876a-4d39-a80a-ccd383610b6e.png"
   },
   {
    "id": "d5065166-27f0-47ce-b19f-71826da6608f",
@@ -73,7 +78,8 @@
    "score": 0.25293782,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ecc7b979-8d4d-430d-8d6b-c6101547cc67.jpg"
   },
   {
    "id": "8db880d5-a6ba-40fb-a56c-11f19c08d176",
@@ -84,7 +90,8 @@
    "score": 0.24344267,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "945486ab-3073-4493-a6ad-26109def2a82.png"
   },
   {
    "id": "fc0a7b86-992e-4126-b30f-ca04811979bf",
@@ -97,7 +104,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "72eb6ef3-b2ac-41a4-96b5-85c4a2e75ae3.jpg"
   },
   {
    "id": "f36ff411-90b2-4754-9d54-4cb140ec40d9",
@@ -111,7 +119,8 @@
     "en",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "d2e90d39-6750-40b0-8109-2b25d473e848.jpg"
   },
   {
    "id": "00893d86-c910-4247-b5cb-a2a0e0380012",
@@ -127,12 +136,13 @@
     "pl",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "0a5369ae-3b58-4ff7-bc7a-413dc2eccf85.jpg"
   },
   {
    "id": "78dec182-5327-4942-90bc-532fea2b752a",
    "title": {
-    "en": "Amachin wa Jishou ♂"
+    "en": "Amachin wa Jishou \u2642"
    },
    "contentRating": "safe",
    "score": 0.23117808,
@@ -142,7 +152,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "c2783087-4439-40e7-a308-eeb1f3217c01.jpg"
   },
   {
    "id": "cbc7f8d6-cef0-4632-a5bc-a4aa7c3fc98e",
@@ -153,8 +164,10 @@
    "score": 0.23117808,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "052b95cc-1139-4585-bec0-189bb2fc33c3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:17+00:00"
+ "updatedAt": "2021-07-18T06:25:17+00:00",
+ "coverFileName": "00eeeebf-d310-4862-a1d3-1b106bb3d27f.jpg"
 }

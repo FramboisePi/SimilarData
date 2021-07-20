@@ -8,13 +8,14 @@
   {
    "id": "09ae9968-ebd8-4cdd-8df3-a81f398537f3",
    "title": {
-    "en": "Young Emperor’s Story"
+    "en": "Young Emperor\u2019s Story"
    },
    "contentRating": "safe",
    "score": 0.4553006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e27811c-a67b-437a-be64-6f39df03e297.jpg"
   },
   {
    "id": "752aebbf-36b3-4fc2-a504-6a0c3a6804b6",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0c96a552-df22-4268-860c-b662ba9fdcdb.jpg"
   },
   {
    "id": "1a8b20f2-5791-4d31-bcf4-1bc61fd17e80",
@@ -37,7 +39,8 @@
    "score": 0.43872413,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9db18d4-39c7-4a7d-aeb7-40c2acbacc32.jpg"
   },
   {
    "id": "edb4cb4c-f4bc-479a-892d-a77b5c6ecc5d",
@@ -49,7 +52,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "38e08181-0a7e-4efc-8dad-232e0e14ef4d.jpg"
   },
   {
    "id": "af24d9bf-4fe8-4ccf-a3a4-1980306ad60f",
@@ -64,7 +68,8 @@
     "ar",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e318c931-b0f0-4501-ae4e-091dfd5cc29c.jpg"
   },
   {
    "id": "288bdd84-2e15-4386-b9f7-b94b0d3486f7",
@@ -75,7 +80,8 @@
    "score": 0.4139251,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2c38a45-68b8-4e1e-bdbe-d0375fb8d881.jpg"
   },
   {
    "id": "6bc4a8dc-106b-46e7-b7d9-c38bbf99b9da",
@@ -86,7 +92,8 @@
    "score": 0.40791687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19dc7e67-6848-4955-8e22-3416d0150aa5.jpg"
   },
   {
    "id": "201a6ac5-3a49-44b2-af0c-1e6666ae47ed",
@@ -98,7 +105,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cfd26acc-009f-47dd-b31d-d1290c83e0dd.jpg"
   },
   {
    "id": "dfde8512-94a5-4504-857c-121d365ccb05",
@@ -111,18 +119,20 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "b00fab1a-46a6-485a-a0f3-f2d64fe514e6.png"
   },
   {
    "id": "1e0e9da4-5f92-49b8-bda0-5415b1e2d701",
    "title": {
-    "en": "The God of the Land and Grain’s Mountain River Map"
+    "en": "The God of the Land and Grain\u2019s Mountain River Map"
    },
    "contentRating": "safe",
    "score": 0.39604154,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "12417692-052f-4573-86bd-f2a1efa4d819.jpg"
   },
   {
    "id": "51e4cd4b-a1a1-464b-b12c-76ed02d9b483",
@@ -134,7 +144,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a0919450-f59d-48e6-aeed-eca325802997.jpg"
   },
   {
    "id": "97593656-0ca1-4a8b-9421-14e03b3e162f",
@@ -148,8 +159,10 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "11efb408-b744-40b8-b535-28309cf28fae.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:36+00:00"
+ "updatedAt": "2021-07-18T06:31:36+00:00",
+ "coverFileName": "45ec4be9-9dd8-4f5e-88c6-a6a4a3ed7929.png"
 }

@@ -1,7 +1,7 @@
 {
  "id": "a08aedb2-683c-4181-bdb0-5c084962cf3f",
  "title": {
-  "en": "Retiring As The World’s Strongest Demon"
+  "en": "Retiring As The World\u2019s Strongest Demon"
  },
  "contentRating": "safe",
  "matches": [
@@ -18,7 +18,8 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c488fb67-6f30-4cbd-8f33-f2ede849c5cc.png"
   },
   {
    "id": "97e1512e-a667-43f3-b971-b78b86f4d11c",
@@ -29,7 +30,8 @@
    "score": 0.4493928,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9272eb39-1d84-415b-b69b-270b8ccf8a0b.jpg"
   },
   {
    "id": "1c4a6aa1-d19e-45c2-8130-878f56f47fdd",
@@ -44,7 +46,8 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "e4077587-036c-4668-9df8-d072be71aadf.jpg"
   },
   {
    "id": "4668e8a5-2874-4336-9f27-ea006f7b752d",
@@ -55,7 +58,8 @@
    "score": 0.43324763,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e7b5535-02da-4837-a5c8-556b05af6ffe.jpg"
   },
   {
    "id": "42932c80-ef57-4a4e-ae74-405662904a01",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "338167cb-b0b8-4c31-bf19-5f42a075073a.jpg"
   },
   {
    "id": "1616ebea-8ca4-4272-a666-61536151b6db",
@@ -80,7 +85,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "fb20fb49-9521-40e4-baeb-cd929b98da31.jpg"
   },
   {
    "id": "a1cfb350-6a12-4514-a6bd-f7660e61809b",
@@ -91,7 +97,8 @@
    "score": 0.4153808,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b05002ba-246f-4b3e-8130-1f4064060749.jpg"
   },
   {
    "id": "2ee151de-fea3-4ca8-be6f-e1dede189904",
@@ -102,7 +109,8 @@
    "score": 0.4121457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bac2ff32-69b5-4576-b611-f33ba82f2009.jpg"
   },
   {
    "id": "d7a5d701-69fb-4789-aefe-1531b46fec4a",
@@ -113,7 +121,8 @@
    "score": 0.41092637,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e18d3c3e-9cbf-4677-83c3-84eada1ea42c.jpg"
   },
   {
    "id": "516ecc5f-cb20-4d4b-9175-5ed2e77b90ff",
@@ -126,7 +135,8 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "607c3da1-6fbc-4138-addb-4f57e5c29c5e.jpg"
   },
   {
    "id": "3dc41d88-ad01-406c-8663-1b5bd099839d",
@@ -138,7 +148,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "3b5cbb3b-7ec5-4600-9ce9-fd8960a708ab.png"
   },
   {
    "id": "fed930cb-30d2-438e-a136-9a224b7c50aa",
@@ -149,8 +160,10 @@
    "score": 0.39741874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3e1a863-6266-4995-b8ba-50faa4849be7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:54:19+00:00"
+ "updatedAt": "2021-07-18T06:54:19+00:00",
+ "coverFileName": "753541ae-f223-4a0d-a5bd-45eeb520442a.jpg"
 }

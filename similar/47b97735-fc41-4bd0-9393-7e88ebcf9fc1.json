@@ -22,7 +22,8 @@
     "ru",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "d9b6d8f6-00d8-4eff-8dfc-d81495741ba7.jpg"
   },
   {
    "id": "0cea244e-518a-4081-9be5-36b66eeda0dc",
@@ -34,7 +35,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c0459f12-d09d-47ac-99f3-23a9b899c0dd.jpg"
   },
   {
    "id": "4c6a9e5b-df17-4e48-98a8-a9f81eff8e4b",
@@ -45,7 +47,8 @@
    "score": 0.35628468,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "266bc375-d948-4b9d-bdb1-78f77983b81e.jpg"
   },
   {
    "id": "9257c4d8-aa33-4c6e-935e-9d5fc8019cc6",
@@ -56,7 +59,8 @@
    "score": 0.3354102,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5981dc8d-547b-4544-b449-da5b9cbcf3c2.png"
   },
   {
    "id": "d928e368-51e2-4454-b076-e43b9666b221",
@@ -71,12 +75,13 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "4f07ab12-5212-4bb2-a327-29dddeafd9ae.jpg"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.33250812,
@@ -87,7 +92,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "2cd90fc1-6b74-4ea3-bec8-d879c12c9b9b",
@@ -100,7 +106,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4e1b17f6-7639-4409-b628-fc4fd3457973.jpg"
   },
   {
    "id": "cf350580-7327-4f58-a54c-38debf6925a2",
@@ -112,7 +119,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ef4ab159-eded-4c4c-ad6b-f1518db9ce9e.jpg"
   },
   {
    "id": "e5a591ae-9a57-4218-b385-f7c620e14ee8",
@@ -123,7 +131,8 @@
    "score": 0.3205079,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39f27a91-3d5b-47df-890d-4da96b6d7aaa.jpg"
   },
   {
    "id": "d33dbce5-c373-4b1f-8a64-2ed362dbeb37",
@@ -134,18 +143,20 @@
    "score": 0.32050014,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f49b4fb-4dc6-4776-8c19-2a2b33b03e46.jpg"
   },
   {
    "id": "cc572e53-cdbc-4284-a3bf-38d49e2c762f",
    "title": {
-    "en": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc \u0026 Despair Arc Comic Anthology (DNA Media)"
+    "en": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc & Despair Arc Comic Anthology (DNA Media)"
    },
    "contentRating": "safe",
    "score": 0.31999227,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71538782-64db-4921-b4bc-0e85954c2c96.jpg"
   },
   {
    "id": "e52d9403-3356-403b-b7bb-d7d6a420dd50",
@@ -164,8 +175,10 @@
     "es",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3fac63df-9127-4d48-8e14-75e1d08d8946.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:49+00:00"
+ "updatedAt": "2021-07-18T06:37:49+00:00",
+ "coverFileName": "2ecea532-1f87-43a1-ad8f-7734e4bf00f4.jpg"
 }

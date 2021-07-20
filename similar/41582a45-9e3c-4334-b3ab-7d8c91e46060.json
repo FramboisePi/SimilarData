@@ -1,7 +1,7 @@
 {
  "id": "41582a45-9e3c-4334-b3ab-7d8c91e46060",
  "title": {
-  "en": "Spirit King’s Rules"
+  "en": "Spirit King\u2019s Rules"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "52272fd3-1ed0-49a9-8cd6-50ea5f7cef3d.jpg"
   },
   {
    "id": "f525b12c-7137-44b3-8d17-bce4dccc6618",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b0dead81-dee6-4382-9b40-90015aadc529.jpg"
   },
   {
    "id": "153a87d3-7c9c-4d3e-8855-ddc53d101f8c",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "d1c2f252-8521-482c-9782-0ff62e79c279.jpg"
   },
   {
    "id": "11f651bf-7bda-436b-b859-0c1f9e12d709",
@@ -50,7 +53,8 @@
    "score": 0.47251227,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "861ad276-9599-472f-81d8-f8d7d0a05d69.jpg"
   },
   {
    "id": "f5cc72c4-dcd5-4136-b7b9-e664682f8da3",
@@ -61,7 +65,8 @@
    "score": 0.47047415,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae5bc9a6-0e07-4ab5-a6b0-815f3978b8f8.jpg"
   },
   {
    "id": "4400c80d-f635-4fee-9a2c-2baf4737bdff",
@@ -72,7 +77,8 @@
    "score": 0.46520424,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d28f4a56-dc2e-47cc-bd5f-31efdca80c5f.jpg"
   },
   {
    "id": "828559ca-b560-47e6-81a8-48477c56d5bf",
@@ -83,7 +89,8 @@
    "score": 0.4580913,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8754ba37-4ccf-4e8d-9fbd-a4e4c89c033b.jpg"
   },
   {
    "id": "859ccf3a-9684-48ec-92f5-f0218fd0b00e",
@@ -94,7 +101,8 @@
    "score": 0.45396918,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "25080f65-2535-4733-876a-a91e08d603ef.png"
   },
   {
    "id": "0ee3bc10-604b-4b06-98df-962978f74e21",
@@ -105,7 +113,8 @@
    "score": 0.44404587,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7cfad6e8-9603-48be-bcba-fadbfa926f42.jpg"
   },
   {
    "id": "5bbed66a-1e26-4b14-9dbd-7e4f6905cba6",
@@ -117,7 +126,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "408c5d0e-73a6-492b-98d9-508fd62b9058.png"
   },
   {
    "id": "99eac5ce-ea52-482e-9915-993ae906f7c0",
@@ -129,7 +139,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "beacb19d-fb17-49fb-98a2-727064022378.png"
   },
   {
    "id": "d77d6f24-01fb-4a76-b6bf-c28ca12c6caa",
@@ -142,8 +153,10 @@
     "tr",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f9522200-f99f-4264-a8b4-0484e6339d25.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:39+00:00"
+ "updatedAt": "2021-07-18T06:36:39+00:00",
+ "coverFileName": "7836b1cb-fb2b-413a-afdb-6d2d5b89cde1.jpg"
 }

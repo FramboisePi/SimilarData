@@ -8,13 +8,14 @@
   {
    "id": "ef8bd549-af88-4a9d-961c-c4d628f12579",
    "title": {
-    "en": "Spicy \u0026 Sugary"
+    "en": "Spicy & Sugary"
    },
    "contentRating": "safe",
    "score": 0.58565366,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "950e8402-f402-4602-b5b0-76fb6af5e885.jpg"
   },
   {
    "id": "6dd4f3c5-258c-4700-ae8c-c590e7f5987c",
@@ -25,7 +26,8 @@
    "score": 0.56762046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d9c64fa-7fce-43af-bb48-a1baf9a7a088.jpg"
   },
   {
    "id": "f5d029f9-02a1-4420-b5f0-60aa8d8f928c",
@@ -36,7 +38,8 @@
    "score": 0.46202552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "644e1f04-6aef-4f67-9a3c-2b39e275a029.jpg"
   },
   {
    "id": "f06a6e30-4c91-42fc-aa74-eb0674cd3c45",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "309f560a-b0a1-483a-b44f-3b47dd21287e.jpg"
   },
   {
    "id": "ff4c03af-a857-4115-b4c9-fa715b5360e2",
@@ -61,7 +65,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "f93ec951-a3af-465d-a662-0a23d707a4ae.jpg"
   },
   {
    "id": "b679f193-2705-4236-a61f-11fbe826a2fd",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2d988db9-fe94-4129-b49b-7999916b12e1.jpg"
   },
   {
    "id": "6a57863d-14db-4753-a040-3411e816c764",
@@ -84,7 +90,8 @@
    "score": 0.44555432,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "776d4438-3dd6-42ac-896c-63daba2c23b7.jpg"
   },
   {
    "id": "83dfb472-b642-4389-97e5-4fd04d999806",
@@ -96,7 +103,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ed695a1a-39bd-408d-ae46-e16fd274daaf.jpg"
   },
   {
    "id": "9dedacf6-7466-461b-a7d0-5d983c6d3b4d",
@@ -108,7 +116,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "fe863dcb-5a7b-4720-90fd-8e8d4b6d3db5.png"
   },
   {
    "id": "4199bccd-6ba7-4eee-ac64-1414dd3fcad7",
@@ -119,7 +128,8 @@
    "score": 0.4417227,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "037fc36d-b84c-47db-9622-cac99f10f303.jpg"
   },
   {
    "id": "2b63068b-c579-4246-a58d-6c2a5616fe4c",
@@ -130,7 +140,8 @@
    "score": 0.43864956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d9da06a-15c2-4ada-9914-0803b3bac7de.jpg"
   },
   {
    "id": "772d1ea6-c725-4d07-b536-bf3f6f1f2e48",
@@ -141,8 +152,10 @@
    "score": 0.4316956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2257dd90-4cf3-4917-964a-0ecf6a3e6171.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:54+00:00"
+ "updatedAt": "2021-07-18T06:34:54+00:00",
+ "coverFileName": "72342768-f170-485e-9dea-3df2e4fbd81c.jpg"
 }

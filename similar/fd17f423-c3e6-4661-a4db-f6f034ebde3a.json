@@ -1,7 +1,7 @@
 {
  "id": "fd17f423-c3e6-4661-a4db-f6f034ebde3a",
  "title": {
-  "en": "Rockman Battle \u0026 Chase"
+  "en": "Rockman Battle & Chase"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.52154255,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9650ce98-c4ff-46bf-9f45-26778667f0c0.jpg"
   },
   {
    "id": "704cfedf-fc43-4c0c-aa96-8dac5410bfda",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e2a2672a-a5b4-46df-8c26-5a3a5cfa0633.jpg"
   },
   {
    "id": "c2d0f51e-992a-4fec-bb3f-49e1b37544c5",
@@ -37,7 +39,8 @@
    "score": 0.45487046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9148fd06-8f72-4c39-897c-dbe69d34c718.jpg"
   },
   {
    "id": "e27326f2-87d0-41b1-9146-3e01bc2b46c6",
@@ -48,7 +51,8 @@
    "score": 0.42862418,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc48fc63-f15a-4da5-af01-cbe0976f5cf7.jpg"
   },
   {
    "id": "29203be1-af38-4b22-9c8d-39bf329b4ec6",
@@ -62,7 +66,8 @@
     "es-la",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "ba8983a0-8313-41a0-b978-e780567d9e5c.jpg"
   },
   {
    "id": "5787d127-c338-4afa-85a1-05964d1fef82",
@@ -73,7 +78,8 @@
    "score": 0.39308813,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82d5e3e9-afc2-41be-88e0-fe35c7ab8eb3.jpg"
   },
   {
    "id": "eb1babe4-e69a-43f2-b0df-e46eef3ec206",
@@ -87,7 +93,8 @@
     "es",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0837ab2d-df0c-40f9-bc84-fa930bd3c2c7.jpg"
   },
   {
    "id": "113a18fe-157b-419d-99c2-be442b474fc7",
@@ -98,7 +105,8 @@
    "score": 0.38053182,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0da46a74-1950-43f0-b364-c70b4b222573.jpg"
   },
   {
    "id": "39b511ae-4f31-4605-a7b5-9b9b857ce917",
@@ -111,7 +119,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "7e4c1210-f885-4f0c-ad8f-061bdd6428db.jpg"
   },
   {
    "id": "c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
@@ -125,7 +134,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "1a80a63b-1ce9-4876-856d-3fc2d4cc8e03.jpg"
   },
   {
    "id": "a9ba73aa-6f3d-45c3-98be-1aeb92c66f00",
@@ -137,7 +147,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8b70ea62-ef67-4d64-9f8a-4134adb316ea.jpg"
   },
   {
    "id": "7fe4229f-e68a-4d2a-b4f5-daff7d9771c2",
@@ -148,8 +159,10 @@
    "score": 0.36125073,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3aa8c36f-e022-4204-8106-702d4a8591ce.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:15+00:00"
+ "updatedAt": "2021-07-18T07:11:15+00:00",
+ "coverFileName": "c5ac0567-a6cc-44b9-86db-958b0d34649b.jpg"
 }

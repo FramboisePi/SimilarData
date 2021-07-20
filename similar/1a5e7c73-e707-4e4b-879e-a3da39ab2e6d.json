@@ -1,44 +1,47 @@
 {
  "id": "1a5e7c73-e707-4e4b-879e-a3da39ab2e6d",
  "title": {
-  "en": "Mahou Shoujo Madoka★Magica - [Majuu Hen]"
+  "en": "Mahou Shoujo Madoka\u2605Magica - [Majuu Hen]"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "c690c2fe-a0fc-4201-82ce-f880938fc97c",
    "title": {
-    "en": "Mahou Shoujo Oriko★Magica"
+    "en": "Mahou Shoujo Oriko\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.5765569,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5edbf0ca-67d0-4950-969a-48be42d4f4d0.jpg"
   },
   {
    "id": "e7ba68e6-0e13-43c8-8c0c-17431ae5a911",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica ~The different story~"
+    "en": "Mahou Shoujo Madoka\u2605Magica ~The different story~"
    },
    "contentRating": "safe",
    "score": 0.4915485,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "543b6a80-e5d1-41c8-a60a-a198ac35bb14.jpg"
   },
   {
    "id": "b3031a63-32d3-4cd8-82e4-bc9b80736ece",
    "title": {
-    "en": "Black★Rock Shooter - Innocent Soul"
+    "en": "Black\u2605Rock Shooter - Innocent Soul"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c7ce1c8c-d1d0-4eae-8891-2b54daea810f.jpg"
   },
   {
    "id": "911025e8-ae47-499c-8eff-453d18b6459a",
@@ -49,19 +52,21 @@
    "score": 0.43423086,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bac72cf-4362-44bd-8dbe-5f29cd9c6c2c.jpg"
   },
   {
    "id": "b62659e0-fb91-4cf1-a62f-c4e058f9917a",
    "title": {
-    "en": "Mahou Shoujo Suzune★Magica"
+    "en": "Mahou Shoujo Suzune\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.40563202,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6dabc76f-0135-469a-ad42-a7bc3051f6d7.jpg"
   },
   {
    "id": "bb4adfba-37b6-4a90-a951-6d9459293b8d",
@@ -73,18 +78,20 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "8bcd067e-dbe7-4a0e-bddc-fe2eec5c13a2.jpg"
   },
   {
    "id": "3b943939-acf8-415f-853a-824b8f50fcc6",
    "title": {
-    "en": "Mahou Shoujo Kazumi★Magica ~The Innocent Malice~"
+    "en": "Mahou Shoujo Kazumi\u2605Magica ~The Innocent Malice~"
    },
    "contentRating": "safe",
    "score": 0.3977959,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "54135d05-76c1-4147-b46e-17cbf2cd2259.jpg"
   },
   {
    "id": "01194baf-f5c3-4258-9639-3f6b9c1b6678",
@@ -97,7 +104,8 @@
     "th",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "f504abc3-f2f3-48e2-8e94-483a0ce73568.jpg"
   },
   {
    "id": "c7d7cc98-1e9c-467d-892e-8cc4a2129ed5",
@@ -110,7 +118,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "dd8e3d53-e116-4375-ab99-bf440b2cf6d2.jpg"
   },
   {
    "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
@@ -125,7 +134,8 @@
     "pt-br",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "ea4d4898-3908-4ee6-ad6d-a06741dccdba.jpg"
   },
   {
    "id": "6a3181bb-27e0-464a-932b-5c32d59c91e5",
@@ -138,12 +148,13 @@
     "ru",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "812f7a2e-4021-4375-9f23-8e1433dd4aff.jpg"
   },
   {
    "id": "020dc431-58d2-4a31-9221-b26b2dce149d",
    "title": {
-    "en": "Gekijouban Madoka★Magica - [Shinpen] Hangyaku no Monogatari"
+    "en": "Gekijouban Madoka\u2605Magica - [Shinpen] Hangyaku no Monogatari"
    },
    "contentRating": "safe",
    "score": 0.3829614,
@@ -151,8 +162,10 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "28688318-5021-4bca-bc5e-efaea6e0580d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:25+00:00"
+ "updatedAt": "2021-07-18T06:29:25+00:00",
+ "coverFileName": "4987c4a3-9cd2-4332-82cb-42e5d94ab03c.jpg"
 }

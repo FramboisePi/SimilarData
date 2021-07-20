@@ -18,7 +18,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c61088df-245d-4c7a-b9d7-e8a7b40618a3.jpg"
   },
   {
    "id": "fbcd7f77-64c1-4844-a0e1-83ddbfccd1c2",
@@ -29,7 +30,8 @@
    "score": 0.52499086,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e7adeea-c7d9-45f9-8333-216b482dfd7b.jpg"
   },
   {
    "id": "b64488d2-a750-4b54-b9c1-ae352101378f",
@@ -41,7 +43,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "18882458-d02e-4258-8181-2e7e4ee72d76.png"
   },
   {
    "id": "6531ded5-4061-4746-b610-d8031a80191a",
@@ -52,7 +55,8 @@
    "score": 0.4826146,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46be3598-c080-4d17-985c-39558c5bbea7.jpg"
   },
   {
    "id": "f80b5ae8-5a17-4dea-9226-2c0e89e07808",
@@ -64,7 +68,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "22c245a1-8e65-4721-8fa9-d400750de30e.jpg"
   },
   {
    "id": "ec97e9ee-1d49-49d2-b185-89c01e62a9bd",
@@ -79,7 +84,8 @@
     "id",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "111397dd-3510-4c9c-bbf8-5d9a5cf67eb6.jpg"
   },
   {
    "id": "c1cf1700-3f87-4b29-89f2-d89d58307830",
@@ -90,7 +96,8 @@
    "score": 0.4712925,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "08024936-4379-4d4a-90e8-a8de2093270c.jpg"
   },
   {
    "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
@@ -105,7 +112,8 @@
     "ru",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d3f5321c-9c05-42ed-9801-1ccb3baf8542.jpg"
   },
   {
    "id": "71d9dccd-4f16-4ce6-beac-dc084706c735",
@@ -117,7 +125,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "92207fae-b1e6-4b45-b230-4d00ef4450b6.jpg"
   },
   {
    "id": "54c2de19-889c-4b04-b9f0-39e28a769a98",
@@ -128,18 +137,20 @@
    "score": 0.45814592,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b003512-3ac5-41e2-a503-e5bf80fc7aff.jpg"
   },
   {
    "id": "aaae6694-d9a0-44c2-abed-53141168e3d8",
    "title": {
-    "en": "e×COM Haruoka gakuen game joshibu"
+    "en": "e\u00d7COM Haruoka gakuen game joshibu"
    },
    "contentRating": "safe",
    "score": 0.45358738,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "06f6afda-69d5-4883-b03a-97caae38a8de.jpg"
   },
   {
    "id": "4c5b0bdb-85ce-48d0-af2c-79919729f837",
@@ -151,8 +162,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "1b668b72-c392-4ebf-8643-a744dc04b2bd.png"
   }
  ],
- "updatedAt": "2021-07-18T06:30:24+00:00"
+ "updatedAt": "2021-07-18T06:30:24+00:00",
+ "coverFileName": "1c3173b9-4937-4b73-ae79-39499c103ff8.jpg"
 }

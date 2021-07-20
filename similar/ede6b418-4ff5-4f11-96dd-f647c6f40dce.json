@@ -1,7 +1,7 @@
 {
  "id": "ede6b418-4ff5-4f11-96dd-f647c6f40dce",
  "title": {
-  "en": "Touhou — Sparkling Star Love"
+  "en": "Touhou \u2014 Sparkling Star Love"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "4b4cd99b-8485-4bb6-91e8-6ae797c3acfa.jpg"
   },
   {
    "id": "3103cb5f-3041-4ea7-a323-300fa426abaa",
@@ -26,7 +27,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c5f3200-eda9-490e-bae8-7be72aeaa223.png"
   },
   {
    "id": "708f077d-bf68-48be-8eb3-6440b0968590",
@@ -37,7 +39,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5ad4630f-d0b6-45f6-becb-0d14a154d75a.jpg"
   },
   {
    "id": "707f11bd-5e5f-4304-b6f3-8fbbdf8c9a31",
@@ -48,18 +51,20 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5fca89ad-b43c-4a7e-9e24-beeb79ddc129.png"
   },
   {
    "id": "e40f54d0-679d-4705-9cb4-e5699b95313a",
    "title": {
-    "en": "Pokémon Sun \u0026 Moon - Waiting Here (Doujinshi)"
+    "en": "Pok\u00e9mon Sun & Moon - Waiting Here (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1e4609d3-20f8-430d-9ba6-240a7a238aba.jpg"
   },
   {
    "id": "d8e84464-9e2b-42e8-acce-ef6db80f18b7",
@@ -70,18 +75,20 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19ca3e44-23b4-44a1-8e9b-16a2bbb8afb7.jpg"
   },
   {
    "id": "f5ae8eba-cc83-4554-a1a4-2a422176eded",
    "title": {
-    "en": "Pokémon - Chorimokki Yuumary (Doujinshi)"
+    "en": "Pok\u00e9mon - Chorimokki Yuumary (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "76e23e82-bd7b-4b80-85a7-888b2b32167b.jpg"
   },
   {
    "id": "34584426-6a04-45eb-baeb-067aeb1d5996",
@@ -92,7 +99,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2008b5af-cee5-4164-9bc1-7178fd13703a.jpg"
   },
   {
    "id": "a80749fa-a4e1-4ee8-bf87-5d73473d116f",
@@ -106,7 +114,8 @@
     "",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "eeec3db5-14da-4fc4-9aa0-bbfce8047c71.jpg"
   },
   {
    "id": "70bb2348-bdfd-41ad-a6e5-e9e495eb7f57",
@@ -117,7 +126,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "879a19dc-e8a7-459f-9800-1398bba7688a.jpg"
   },
   {
    "id": "e4907782-9257-46be-ab1e-9f69b929e9d3",
@@ -128,7 +138,8 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6a0521ca-55c7-469a-b1f8-63cbf544d336.jpg"
   },
   {
    "id": "4d4f508f-fd61-44bb-891b-30cf33e39599",
@@ -139,8 +150,10 @@
    "score": 0.44663545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f14273cf-0dde-48d5-83ae-06c9f4047e8b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:27+00:00"
+ "updatedAt": "2021-07-18T07:08:27+00:00",
+ "coverFileName": "26e27b95-a5c6-4f56-bd2c-36ec7fc24da3.jpg"
 }

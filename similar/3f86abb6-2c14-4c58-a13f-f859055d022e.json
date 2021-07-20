@@ -1,7 +1,7 @@
 {
  "id": "3f86abb6-2c14-4c58-a13f-f859055d022e",
  "title": {
-  "en": "Innocent☆Angel ~Yotsuba Masumi's Otoko no Ko Collection~"
+  "en": "Innocent\u2606Angel ~Yotsuba Masumi's Otoko no Ko Collection~"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -18,7 +18,8 @@
     "en",
     "it",
     "vi"
-   ]
+   ],
+   "coverFileName": "ccf5d0f3-fa75-4cd9-85e9-f9216d039d40.jpg"
   },
   {
    "id": "c3273c2b-4e5d-4261-b001-a99f622b82ea",
@@ -32,7 +33,8 @@
     "id",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6e7066bb-d52a-4400-b531-7e698efe4251.jpg"
   },
   {
    "id": "cdb166e1-f388-4f37-8c00-19f215e7aa5b",
@@ -45,7 +47,8 @@
     "th",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "91cf7c6f-f908-42d1-995b-f8de942c6b43.jpg"
   },
   {
    "id": "4280a53c-817d-4d5c-8276-55dfbd9e4a51",
@@ -60,7 +63,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "d389179e-0c65-4d91-b772-7dcc1662310e.jpg"
   },
   {
    "id": "d33c694d-4f72-4fca-8825-41f0a579d2c2",
@@ -72,7 +76,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b6b0003a-4c89-4c72-93cf-654d461f0c9a.jpg"
   },
   {
    "id": "5445d5ea-1719-4c7f-8251-ae411250f26d",
@@ -84,7 +89,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "58571a11-d855-42ea-b81e-c5bb1770bd7d.jpg"
   },
   {
    "id": "704168db-8ad7-4eee-a300-bdc7eb4c78ba",
@@ -100,7 +106,8 @@
     "fr",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "f6aa1f6a-e08b-42a2-ae5e-638bad3e330e.jpg"
   },
   {
    "id": "685db91e-a8ab-4de3-9738-9d3f883bd179",
@@ -117,7 +124,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "52be2667-7211-4252-9c1c-a61f4683ce9a.jpg"
   },
   {
    "id": "56b81ba8-e792-4ac9-8cda-d615659159ce",
@@ -131,7 +139,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d8e38c92-a1be-46b9-8024-5a309e5c2893.jpg"
   },
   {
    "id": "7240d8fc-1131-44ce-ae14-ebd1a6132e27",
@@ -145,7 +154,8 @@
     "fr",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "71bae7ea-4dce-43d3-ba54-013314f2eb7b.jpg"
   },
   {
    "id": "ebb6a74c-cf3e-488d-b038-aa8ffe5346f7",
@@ -159,7 +169,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "3a16a4e7-5ba3-464b-b267-c91f0d616439.jpg"
   },
   {
    "id": "f1ef98ca-8754-458c-9d87-954983b8caaa",
@@ -171,8 +182,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "04884cbf-7961-4178-baac-647a61a1de30.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:19+00:00"
+ "updatedAt": "2021-07-18T06:36:19+00:00",
+ "coverFileName": "4e438078-a0f0-4cea-9e68-627406ac0b83.jpg"
 }

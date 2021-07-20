@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6d0a5319-3ba3-4593-a8b2-269d5e3b4500.jpg"
   },
   {
    "id": "18fd28b5-5187-47aa-8bb7-9da42eeaf8bd",
@@ -26,7 +27,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bedf0a23-719c-457d-95fe-3b08bfb99012.jpg"
   },
   {
    "id": "f90c4398-8aad-4f51-8a1f-024ca09fdcbc",
@@ -40,7 +42,8 @@
     "en",
     "ca",
     "it"
-   ]
+   ],
+   "coverFileName": "af3c1690-1e06-4432-909e-3e0f9ee01f68.jpg"
   },
   {
    "id": "495b123a-ed4c-44ac-ac0d-cc857a2d6f93",
@@ -56,7 +59,8 @@
     "fr",
     "pt-br",
     "bg"
-   ]
+   ],
+   "coverFileName": "82f689ae-715c-4039-8b81-dbb24189f169.jpg"
   },
   {
    "id": "8f3f0cb3-14f4-462e-9a36-6592ad4ba9fa",
@@ -67,7 +71,8 @@
    "score": 0.36171064,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc50616f-7a73-4faa-af94-543348776801.jpg"
   },
   {
    "id": "a0a41e87-3cc0-4d49-9bad-848030a53dcc",
@@ -78,7 +83,8 @@
    "score": 0.35337552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8fbdcdb-eacb-4ab2-a1a8-5179537200db.jpg"
   },
   {
    "id": "7595bccd-85d8-4315-9f64-27d41f016e4b",
@@ -89,7 +95,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dcc7296b-01e0-488a-bed8-9caa17b25d65.jpg"
   },
   {
    "id": "d139f4b1-b782-4fdd-b006-35520f14a847",
@@ -100,7 +107,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "809bd702-b015-4e17-832b-fe0bfac7390c.jpg"
   },
   {
    "id": "1f43c858-c1a6-4dcd-8183-e017d4522949",
@@ -113,19 +121,21 @@
     "tr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "17dc0e49-80f1-447c-af84-4a42bb984f44.jpg"
   },
   {
    "id": "8880df7b-5d67-44b5-a79b-a9d6371c7253",
    "title": {
-    "en": "Kyuuyaku Märchen"
+    "en": "Kyuuyaku M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.34077206,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "8614d89e-406b-4078-a6f3-805fd8bbec9c.png"
   },
   {
    "id": "6009d9fe-4ad4-4576-a35a-528a670b7e33",
@@ -136,7 +146,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d4dedbc-2c5e-4c6d-a14b-0f0da70e1029.jpg"
   },
   {
    "id": "33f1397b-07d1-4dfc-b42a-a428a41fe55b",
@@ -147,8 +158,10 @@
    "score": 0.33956292,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae8936e0-b18e-4e3c-8d4e-607a0500be94.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:09+00:00"
+ "updatedAt": "2021-07-18T06:25:09+00:00",
+ "coverFileName": "15db1c12-f604-4ef9-830f-26700f42874f.jpg"
 }

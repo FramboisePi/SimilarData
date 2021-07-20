@@ -8,13 +8,14 @@
   {
    "id": "6dd5d20e-11ad-41c8-b64d-a2fc44c0c2cb",
    "title": {
-    "en": "Toshishita Danshi♥Share House"
+    "en": "Toshishita Danshi\u2665Share House"
    },
    "contentRating": "safe",
    "score": 0.40257564,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "12de21f8-7c4e-466c-af40-20399a5c9453.jpg"
   },
   {
    "id": "7e374a67-53ad-4a41-986c-7f65a020f20b",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "9186c529-ed5b-454c-aa86-fb3a90b1e5c9.jpg"
   },
   {
    "id": "14b692dc-5561-43e4-937a-312ab1f571da",
@@ -37,7 +39,8 @@
    "score": 0.38890874,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "73e1a76e-cb45-4da2-b5c3-b7385524ea1e.jpg"
   },
   {
    "id": "1f0f65be-2b3b-4b3e-9275-1c4e088cca04",
@@ -49,7 +52,8 @@
    "languages": [
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "31402715-0758-4968-b14b-eb593596ed7b.jpg"
   },
   {
    "id": "81ca38c8-a805-4608-9ce8-0c32c685b0da",
@@ -61,7 +65,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "25cad8e5-cd50-46fe-b268-8641cc11f3b9.jpg"
   },
   {
    "id": "75226848-a988-4d04-8536-46e49a7d1735",
@@ -80,7 +85,8 @@
     "pt-br",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "214424ad-3f31-41e7-9f1b-267e2ad1d834.jpg"
   },
   {
    "id": "aa0399ae-d9e8-44ce-9459-30763de36604",
@@ -93,7 +99,8 @@
     "tr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "505db339-32d9-4160-9419-574fa0c5e2e8.jpg"
   },
   {
    "id": "7cd48cb6-83b2-48ff-8e31-0efa388bc9cb",
@@ -107,7 +114,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "92e78c59-6d78-4c46-b499-9f057c3cda26.jpg"
   },
   {
    "id": "28425868-a1bf-4eda-be9c-3ad77ec37649",
@@ -119,7 +127,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "122fdc8b-4ed5-45d7-a54e-286bcad443bc.jpg"
   },
   {
    "id": "4a64f800-8260-4f50-9b89-095d1ad87146",
@@ -131,7 +140,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "efd412aa-43ba-4331-876f-098ffe432b9c.png"
   },
   {
    "id": "ae57a642-d589-4a0c-aa40-6b3d4498db40",
@@ -142,7 +152,8 @@
    "score": 0.30618623,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "033f3c0c-22e9-4169-a497-4d30a9031e5b.jpg"
   },
   {
    "id": "4ea25c92-c07f-43ff-a05a-3def92d15810",
@@ -155,8 +166,10 @@
     "fr",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ced6a441-fe39-46e3-972a-b032cc0e15fe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:36+00:00"
+ "updatedAt": "2021-07-18T06:34:36+00:00",
+ "coverFileName": "17148bca-6554-4b79-92a7-d6cc8320d5c6.jpg"
 }

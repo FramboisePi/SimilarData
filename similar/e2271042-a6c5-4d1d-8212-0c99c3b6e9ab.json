@@ -20,7 +20,8 @@
     "fr",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "2d98444f-ffc9-4b16-9acf-3aa68655fe79.jpg"
   },
   {
    "id": "43f2cb51-b4d5-4859-a768-848fe46c318a",
@@ -33,7 +34,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "885c6157-2ce1-4ebb-a888-a9d1c2f060a7.jpg"
   },
   {
    "id": "8d616f29-6d51-401c-b783-dc6d7c168b94",
@@ -45,7 +47,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "720611f7-98e2-4d42-8878-ec9abd44657d.jpg"
   },
   {
    "id": "d7d6829b-ceab-4346-a033-22387aeff297",
@@ -61,7 +64,8 @@
     "fr",
     "pt-br",
     "es"
-   ]
+   ],
+   "coverFileName": "166a835b-4ce1-418a-bfb3-8dbfb7aa7c9d.jpg"
   },
   {
    "id": "e8853450-bac4-45df-bea5-5b4c116f3a61",
@@ -73,12 +77,13 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b1f8a08d-5b5f-41f8-b82f-30155c6b4266.jpg"
   },
   {
    "id": "bcfa196d-d162-45f5-a224-61d26b04a077",
    "title": {
-    "en": "Konosuba: God’s Blessing on This Wonderful World!"
+    "en": "Konosuba: God\u2019s Blessing on This Wonderful World!"
    },
    "contentRating": "suggestive",
    "score": 0.42342818,
@@ -87,7 +92,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ef398ad1-8a0a-4a03-8df5-0f26018c52f5.jpg"
   },
   {
    "id": "ccb82067-e8e6-412e-83f4-2539b121bfc4",
@@ -99,7 +105,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ba0142da-8c6e-4553-957c-e91282fc5b6f.jpg"
   },
   {
    "id": "efabd1bf-c71f-4177-8c67-d95d29500943",
@@ -111,7 +118,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "2049f10a-c042-419b-ae8b-1778b0a63422.jpg"
   },
   {
    "id": "4dcd72f0-4cd4-463e-9c22-d97a628fa36e",
@@ -123,7 +131,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "6afbd7be-7848-4da5-96ad-de832f8523e5.jpg"
   },
   {
    "id": "69dcebee-7446-4eb2-8244-d903f12a6712",
@@ -141,7 +150,8 @@
     "pt-br",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "e0b88e92-a804-4220-9863-94bb4b7cc9f6.jpg"
   },
   {
    "id": "84f193ec-e731-4bd4-bcb5-09e85dca3ebc",
@@ -154,7 +164,8 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "ca6b52f4-fabb-4ed4-b69a-007223598c59.jpg"
   },
   {
    "id": "0dac60e0-1358-44dd-88cf-927a5fcff348",
@@ -168,8 +179,10 @@
     "fr",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2e354b9e-30fd-4368-b0bd-5ea04c0d4c66.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:20+00:00"
+ "updatedAt": "2021-07-18T07:06:20+00:00",
+ "coverFileName": "fe0cc759-a03a-4f00-838a-500294860da7.jpg"
 }

@@ -1,14 +1,14 @@
 {
  "id": "486441e9-e0d8-4ece-ae5a-a35c813620b2",
  "title": {
-  "en": "Yuru Camp △ Anthology Comic"
+  "en": "Yuru Camp \u25b3 Anthology Comic"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
    "title": {
-    "en": "Yurucamp △"
+    "en": "Yurucamp \u25b3"
    },
    "contentRating": "safe",
    "score": 0.43730292,
@@ -17,7 +17,8 @@
     "id",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "09b47ecd-0d7e-481d-920c-c4a5c20c44ba.jpg"
   },
   {
    "id": "8f542695-6d90-48a3-bee7-cc84175857ee",
@@ -28,7 +29,8 @@
    "score": 0.40558103,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82f7a465-4773-447e-9445-8d2d4f89693d.jpg"
   },
   {
    "id": "0ec795ca-bfeb-4592-831b-cc5bcd479fa1",
@@ -39,7 +41,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ba6fe2f-58e3-48c9-8b48-2a74e1b2db1a.jpg"
   },
   {
    "id": "f3104924-c0bf-4fea-be0c-d09c98bfde3f",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "81733cc9-5f40-4a13-ba8a-61526cf8c356.jpg"
   },
   {
    "id": "23ce48c7-cd21-43d2-b9b5-fe317f1f5c49",
@@ -63,7 +67,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "f17f01c0-3bec-47a0-9cfd-8ef8ecc19307.jpg"
   },
   {
    "id": "c98e66b6-1957-4f5e-bb38-3a023e96c6b0",
@@ -74,7 +79,8 @@
    "score": 0.3625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c77d55de-e814-46b1-90fe-9d18f54cf58d.jpg"
   },
   {
    "id": "8a806d41-31f1-4660-b808-5be3ed08908e",
@@ -85,7 +91,8 @@
    "score": 0.34774148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec2511a0-9894-4a5e-8184-d189c13b1bb1.jpg"
   },
   {
    "id": "a52fb557-f9c6-46fd-a460-0ccafa826f78",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "aaf90feb-99d6-4dd6-acba-8642ecd3bfb3.jpg"
   },
   {
    "id": "4dcf6de7-3973-47c5-893f-f226d574b1c0",
@@ -108,7 +116,8 @@
    "score": 0.3354102,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d16e1126-3d03-4fd6-a46e-17179f1bac77.jpg"
   },
   {
    "id": "65acce24-eff8-4821-9bc8-f3fbe0a67f3d",
@@ -119,7 +128,8 @@
    "score": 0.3319764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "797abe15-69ee-4789-8f06-7187c83cb3e9.jpg"
   },
   {
    "id": "d3055d5e-47bf-4fd2-a6f1-8761d00be223",
@@ -130,7 +140,8 @@
    "score": 0.3319764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0982cb89-8da6-4d14-bfe8-dbe3d7ebe9d5.png"
   },
   {
    "id": "fabfd1d5-6ddb-464f-a9dc-8a694ff464ab",
@@ -141,8 +152,10 @@
    "score": 0.3319764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae57a55a-d823-4e2b-9549-2cc214c57e48.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:56+00:00"
+ "updatedAt": "2021-07-18T06:37:56+00:00",
+ "coverFileName": "0ae12ada-b02b-4ef6-9157-9dc2102bc51a.jpg"
 }

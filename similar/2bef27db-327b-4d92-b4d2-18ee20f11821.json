@@ -1,7 +1,7 @@
 {
  "id": "2bef27db-327b-4d92-b4d2-18ee20f11821",
  "title": {
-  "en": "Mahou Shoujo Tart★Magica: The Legend of \"Jeanne d'Arc\""
+  "en": "Mahou Shoujo Tart\u2605Magica: The Legend of \"Jeanne d'Arc\""
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "pt-br",
     "es",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f2fc11a2-5c7f-42cb-9108-f63f430b165a.png"
   },
   {
    "id": "01e01102-53d1-4bdf-847b-90cfe5b6415d",
@@ -32,7 +33,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "a48d0514-88ea-4628-b197-56a1101fea7b.jpg"
   },
   {
    "id": "8efedcc7-dc18-417a-a32d-a37e111ddb6a",
@@ -45,7 +47,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3220564c-7d79-4ec6-8b6e-8a3f4c695230.jpg"
   },
   {
    "id": "25ea1233-217d-4d96-9fbd-f8b94a3f0506",
@@ -59,7 +62,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "607c0b52-270a-4e86-989a-780ee8f8c2b3.jpg"
   },
   {
    "id": "ef0f5191-c1ec-4b06-a063-d19708a4a50f",
@@ -73,7 +77,8 @@
     "es-la",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "59166a34-ec67-44c0-a89a-89b21731ff33.jpg"
   },
   {
    "id": "2115ffb9-064c-43b4-8938-d8217c02d9e8",
@@ -87,7 +92,8 @@
     "ru",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "3ed665f1-5b92-427d-a05c-a3a5bdd13972.jpg"
   },
   {
    "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
@@ -99,7 +105,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "310057f9-2619-47ed-a760-e77d794611d0.png"
   },
   {
    "id": "d7a3d410-3b96-477a-912b-d2476477f5b5",
@@ -111,7 +118,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "49816115-69af-4e0c-ae7e-08beaaaee13b.jpg"
   },
   {
    "id": "35561235-27de-48a9-89d2-5aa2161f676f",
@@ -122,7 +130,8 @@
    "score": 0.32515866,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "263ae585-d8d2-4c34-a80f-aec54dd22ee5.jpg"
   },
   {
    "id": "a24adea4-27fe-4caf-a673-183f6153f703",
@@ -133,7 +142,8 @@
    "score": 0.32515866,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "6eb95348-889a-4270-bbe1-387f5fa2660a.jpg"
   },
   {
    "id": "b30dfee3-9d1d-4e8d-bfbe-8fcabc3c96f6",
@@ -147,7 +157,8 @@
     "fr",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "82b5018e-6637-4a5b-8001-37c701372561.jpg"
   },
   {
    "id": "1ed367e0-7942-41c4-b63d-c81434db222d",
@@ -159,8 +170,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b1fccb79-cfff-4cf4-8479-5dc955dbf888.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:42+00:00"
+ "updatedAt": "2021-07-18T06:32:42+00:00",
+ "coverFileName": "7d072c84-4fe8-4232-8ea6-0c5f1d79f835.jpg"
 }

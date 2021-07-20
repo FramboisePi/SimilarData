@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "86639df0-be69-4c58-9ecf-6b68b0fae93c.jpg"
   },
   {
    "id": "66c9d803-6f9c-4476-9e38-ad3c2ea703a1",
@@ -29,7 +30,8 @@
     "ru",
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "8d720f5c-4c3d-4d91-8fec-d081944f06c7.jpg"
   },
   {
    "id": "01e01102-53d1-4bdf-847b-90cfe5b6415d",
@@ -44,12 +46,13 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "a48d0514-88ea-4628-b197-56a1101fea7b.jpg"
   },
   {
    "id": "7b59a2b3-fe70-46a5-8050-15a8a4a17d41",
    "title": {
-    "en": "Le Théâtre de B"
+    "en": "Le Th\u00e9\u00e2tre de B"
    },
    "contentRating": "safe",
    "score": 0.33536795,
@@ -60,7 +63,8 @@
     "bg",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "12c4e080-7f73-4f33-a2b7-ada90448044c.jpg"
   },
   {
    "id": "e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
@@ -76,7 +80,8 @@
     "es",
     "hu",
     "fr"
-   ]
+   ],
+   "coverFileName": "2441a0bf-c224-4e60-a3d5-9bb6113845a8.jpg"
   },
   {
    "id": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
@@ -93,7 +98,8 @@
     "tr",
     "bg",
     "ar"
-   ]
+   ],
+   "coverFileName": "bc033545-8c02-449e-b2f4-3c35a3dc2c12.jpg"
   },
   {
    "id": "b7ec82e5-6dfa-4e93-be33-ae1b1e137a5d",
@@ -107,7 +113,8 @@
     "es-la",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "e2e72d28-99d1-430f-b4c3-86f31b904311.jpg"
   },
   {
    "id": "addc1a5c-c1d7-440c-af13-59d8a2a78e7e",
@@ -118,7 +125,8 @@
    "score": 0.32056853,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "dbbe473c-c76d-4695-ac0e-5ffbb319b0e6.png"
   },
   {
    "id": "b12df16f-29a0-4753-a2c2-74cb5887eb2e",
@@ -131,7 +139,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "f92be1e9-2ded-451c-acf0-f169a765ba92.jpg"
   },
   {
    "id": "16fea29f-2511-47e0-bdc5-cf73e08c7143",
@@ -145,7 +154,8 @@
     "en",
     "bg",
     "tr"
-   ]
+   ],
+   "coverFileName": "c49f19a0-8def-4da9-8900-db1c4ec3a17e.jpg"
   },
   {
    "id": "cade38b7-64c4-4a29-8e3c-8c283291d6c6",
@@ -164,7 +174,8 @@
     "tr",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "5b8b01ef-ddf2-4348-a1fa-451536d44895.jpg"
   },
   {
    "id": "94abcf87-3ada-4eaa-9c64-38b7b2008588",
@@ -177,8 +188,10 @@
     "tr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1f3c3ac8-05dc-47ad-97da-1a34d3e87334.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:09+00:00"
+ "updatedAt": "2021-07-18T06:28:09+00:00",
+ "coverFileName": "e085d0a9-5140-4fb1-bab1-30bc79b1d14e.jpg"
 }

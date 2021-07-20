@@ -1,7 +1,7 @@
 {
  "id": "e1bb1273-da66-4682-bd58-cf6a0c5861a4",
  "title": {
-  "en": "DOUBLE DECKER! Doug \u0026 Kirill"
+  "en": "DOUBLE DECKER! Doug & Kirill"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "05af35f9-7c2d-4548-b5c7-47fcee717ce7.jpg"
   },
   {
    "id": "cb48732c-c607-4612-b6e8-46318051bcf1",
@@ -26,7 +27,8 @@
    "score": 0.3625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d7e9f45-1882-4228-b371-0100026133d0.jpg"
   },
   {
    "id": "00904334-01f1-4174-a81e-9170c9f54b97",
@@ -38,7 +40,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5fa1f009-64d6-45d9-a935-159b43018e41.jpg"
   },
   {
    "id": "6cae4162-3f71-4924-b279-76e44007096c",
@@ -52,7 +55,8 @@
     "id",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "01d58103-eba9-4d15-99df-b38abc62b89d.jpg"
   },
   {
    "id": "cf3bb838-1d8d-4767-9239-6061dbe4d811",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "b5bc8474-088f-4663-8390-1ed97347720c.png"
   },
   {
    "id": "bb1cb2cf-b733-4fa4-a327-05887ec1564d",
@@ -75,7 +80,8 @@
    "score": 0.31754264,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9010af29-0cfe-4eb3-a36e-29a1975c9be6.png"
   },
   {
    "id": "c9f79494-ffbb-4761-9157-e8267f8bb12c",
@@ -86,7 +92,8 @@
    "score": 0.31304953,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32cd3e44-51e7-4d6a-981d-6e9d7ea02864.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -97,7 +104,8 @@
    "score": 0.305762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "f4b6b7e4-6a8c-49ea-a338-e9199627d918",
@@ -108,18 +116,20 @@
    "score": 0.29127148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ce134392-118d-407f-a504-95bf6135ee84.jpg"
   },
   {
    "id": "4f4146f3-e4ea-4fc2-af7a-01dfe6b85639",
    "title": {
-    "en": "Gisèle Alain"
+    "en": "Gis\u00e8le Alain"
    },
    "contentRating": "safe",
    "score": 0.2875,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6cc10001-d5d2-4237-a2bb-104c60915476.jpg"
   },
   {
    "id": "ce4f4da2-848b-46ee-a356-53ec9291bfc8",
@@ -130,7 +140,8 @@
    "score": 0.2875,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19a24d01-401f-4d9e-b856-f593df320511.jpg"
   },
   {
    "id": "f5fe0a0a-52c3-4266-ae65-0f379861a2bc",
@@ -144,8 +155,10 @@
     "fr",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ee169291-adb1-4c4a-aab0-ca7b90066dcd.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:15+00:00"
+ "updatedAt": "2021-07-18T07:06:15+00:00",
+ "coverFileName": "1390beee-9f84-4c7d-b8cc-fcbd9e24c43f.png"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0599e23c-4b5c-4941-89d2-16c183f8ecaa.jpg"
   },
   {
    "id": "9937f7da-7913-49cb-a354-2e4ecd9cbd52",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "920b6573-c5cb-459a-9474-4c22f0075727.jpg"
   },
   {
    "id": "2ffebd60-0b19-4719-bb79-c47b82ac2234",
@@ -39,7 +41,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "db6f5dc9-4798-43b6-b2c4-1906065b93cd.jpg"
   },
   {
    "id": "9c4f1b25-c224-4346-990a-f18c77f4ab9e",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d4bdfc59-8774-4ac2-8b8e-6851a050268f.jpg"
   },
   {
    "id": "c63c5f01-2cbd-43fc-8668-544f0a6b148e",
@@ -64,7 +68,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "9f52f37c-d522-4584-a11f-284c13455fe9.jpg"
   },
   {
    "id": "babc3f06-f618-487b-be06-c213ea75f489",
@@ -79,18 +84,20 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "b866ec74-3899-4b13-812a-05cdc80453d0.jpg"
   },
   {
    "id": "f0a073ef-ab63-4ec0-9d50-b36dca4a41eb",
    "title": {
-    "en": "Isekai Ten’i-sha no My Pace Kouryaku-ki"
+    "en": "Isekai Ten\u2019i-sha no My Pace Kouryaku-ki"
    },
    "contentRating": "safe",
    "score": 0.3965874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1416783e-055a-43a6-a1dd-5040978d42ea.jpg"
   },
   {
    "id": "879af0bb-ce30-47e4-a74e-cd1ce874c6e3",
@@ -105,7 +112,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dc84f01d-6029-4cd4-893e-cd90de57947c.jpg"
   },
   {
    "id": "8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78",
@@ -121,12 +129,13 @@
     "hi",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "38360026-b5b9-4b64-84af-486173e65c65.jpg"
   },
   {
    "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
    "title": {
-    "en": "Ore wa Subete wo “Parry” Suru"
+    "en": "Ore wa Subete wo \u201cParry\u201d Suru"
    },
    "contentRating": "safe",
    "score": 0.3803874,
@@ -134,7 +143,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8b497b88-3a61-4b97-9d49-ff3671e156ec.jpg"
   },
   {
    "id": "fa3c24af-fea0-4d44-b8da-131c69646bb1",
@@ -147,7 +157,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4562ae44-d7e5-4593-8349-f080fde1f4af.jpg"
   },
   {
    "id": "030157c5-08d1-44c9-b0ed-9d9234f96dff",
@@ -158,8 +169,10 @@
    "score": 0.37617818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "59307cac-bca3-4bb0-ba33-cb99b5a7cb19.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:50+00:00"
+ "updatedAt": "2021-07-18T06:36:50+00:00",
+ "coverFileName": "45bafb53-6c83-4b7b-867a-4c2ad0607dd9.jpg"
 }

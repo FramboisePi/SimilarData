@@ -1,7 +1,7 @@
 {
  "id": "da9519ac-43ea-46e0-95c0-c457bd44cec5",
  "title": {
-  "en": "Salieri \u0026 Mozart"
+  "en": "Salieri & Mozart"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.87919503,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a510c1f6-0d70-4d1c-b15b-aacbadf85a55.jpg"
   },
   {
    "id": "d8ea47e9-0d6e-4fdd-b5b8-8198b24ec97f",
@@ -25,7 +26,8 @@
    "score": 0.4120261,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "947a674e-e711-42dc-afe5-383deb794e2f.png"
   },
   {
    "id": "e4cbc409-d540-48ef-a876-0b2a81e8a2ae",
@@ -37,7 +39,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "9a73122b-ef1d-4813-91ec-1e1f88e26e04.jpg"
   },
   {
    "id": "9b72abeb-b054-4db2-a871-a016bc59090c",
@@ -50,7 +53,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ef08ec14-5127-4030-b94c-5a86d8632824.jpg"
   },
   {
    "id": "4aa01495-a644-4f7d-8c99-9972d90d9bbf",
@@ -61,7 +65,8 @@
    "score": 0.349139,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ca8e4f8-6794-447d-ade3-2c25632cfe11.png"
   },
   {
    "id": "6d6cb3ab-4ded-4697-9e1b-df75b85a19d3",
@@ -72,7 +77,8 @@
    "score": 0.34699482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6851d73-2ab2-4c87-979e-248a4eaa95f3.jpg"
   },
   {
    "id": "c8e8c0ed-5ecc-4f49-b6d9-7a6488322441",
@@ -83,7 +89,8 @@
    "score": 0.34699482,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "967ed16a-6ab6-4fc1-b722-41ddb2136aa5.jpg"
   },
   {
    "id": "f7e61110-9403-4511-a39e-4313081540ff",
@@ -94,7 +101,8 @@
    "score": 0.3413726,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3507955b-fc7c-466c-a76b-c636220d7d8e.png"
   },
   {
    "id": "45e775a8-b9b8-4554-9ad3-e5135a602cda",
@@ -105,7 +113,8 @@
    "score": 0.33693135,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "67b8635e-0747-4e3c-8004-0fe1c1211742.jpg"
   },
   {
    "id": "c80f60d9-1a21-4d8f-b49e-e0025a9324e7",
@@ -116,7 +125,8 @@
    "score": 0.33693135,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "87e072ef-678f-447b-b9dd-bf17026e98a8.jpg"
   },
   {
    "id": "63e3e612-d767-4cb1-9a25-a6159812199d",
@@ -129,7 +139,8 @@
     "es-la",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e9563258-1968-460c-a407-3c33772da789.jpg"
   },
   {
    "id": "65f631d8-3965-435b-94c1-4c1808e36157",
@@ -142,8 +153,10 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2e286c35-58c1-416b-aa0a-ea5cd5849e26.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:01+00:00"
+ "updatedAt": "2021-07-18T07:05:01+00:00",
+ "coverFileName": "d3ead39b-560b-4a74-9a28-d4daa4a0c9d3.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "de03694b-a381-4cd8-9632-40ef40072285",
  "title": {
-  "en": "Strażnicy Servamp"
+  "en": "Stra\u017cnicy Servamp"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "cf0cf177-685a-4859-aadf-e45461fc1b36.jpg"
   },
   {
    "id": "a0839924-04d7-4c16-b88e-48c72133b6d1",
@@ -30,7 +31,8 @@
     "ru",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8b63e968-ff3a-42c6-ab41-6fbe06023413.png"
   },
   {
    "id": "04b138cd-fd73-4d6d-8552-8d1de84821d2",
@@ -46,7 +48,8 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "43ea7521-97e2-4e4c-b260-8d464fad98cf.jpg"
   },
   {
    "id": "ce1e86cf-fb51-476d-b0f0-59404d78ccd6",
@@ -58,7 +61,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "316f297c-1852-4ed4-b386-ac990f52476d.jpg"
   },
   {
    "id": "93bb38b2-8394-44b6-8aa6-34febe2b89e2",
@@ -70,7 +74,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "e6a69b87-073b-4619-a94a-029e322445b1.jpg"
   },
   {
    "id": "a4e30e56-bbde-4e2b-85e5-192e219cc823",
@@ -83,7 +88,8 @@
     "en",
     "de",
     "pl"
-   ]
+   ],
+   "coverFileName": "571c50f6-6f5d-440b-a150-0a9fee23029b.jpg"
   },
   {
    "id": "99d2bd0a-899f-4490-be26-c7ce12e34c7c",
@@ -97,7 +103,8 @@
     "en",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "69bf6e0b-03a9-4ffd-8a3b-708002be9d26.jpg"
   },
   {
    "id": "09ffee50-f5ad-4997-86a6-ac797b94b3e4",
@@ -111,7 +118,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "a4fc9aa3-d6bc-402f-8c30-dc98d3cff317.jpg"
   },
   {
    "id": "5eee3f85-e774-4a05-9e28-27ab06d1b002",
@@ -124,7 +132,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "3f95f6c5-3822-423b-a0a0-f3f44eaba5e0.jpg"
   },
   {
    "id": "a15ff3b1-cca6-435a-90ec-8516fc16e958",
@@ -137,7 +146,8 @@
     "ru",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "ebcc6d8c-b8dd-44f7-9c99-e19d3d9bb7c6.jpg"
   },
   {
    "id": "74dfbe87-ef41-4474-bb02-c18510c5d0a4",
@@ -151,7 +161,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "d5ff431b-bd40-4e82-82ff-517fe57d604c.jpg"
   },
   {
    "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
@@ -163,8 +174,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "fa3d581d-f3c0-428e-adf9-2e40562cc5e2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:37+00:00"
+ "updatedAt": "2021-07-18T07:05:37+00:00",
+ "coverFileName": "bff2eb07-e3b2-4358-92e5-ceb14375217b.png"
 }

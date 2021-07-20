@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10f77bd0-02c7-4954-b866-e7d52251dfa0.jpg"
   },
   {
    "id": "e4f3b7a5-f09c-4992-8280-faa0393a0d3a",
@@ -25,7 +26,8 @@
    "score": 0.41083223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "63427c03-83bf-41d1-8347-dab8e233f359.jpg"
   },
   {
    "id": "126299c1-9bdf-4b96-bad8-c1e24487175f",
@@ -36,7 +38,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c03e9fee-a058-4c54-8623-57c68038119c.jpg"
   },
   {
    "id": "2bab1cd3-8415-42c1-8054-8043281279bd",
@@ -48,18 +51,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1eee3833-2570-4464-b518-77e06b5de822.jpg"
   },
   {
    "id": "9b626116-ce75-445a-a63e-553f5e9d8937",
    "title": {
-    "en": "Girl's☆Complex"
+    "en": "Girl's\u2606Complex"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7634f07-cbff-416c-a4ed-719c4b4f3d86.png"
   },
   {
    "id": "b513a831-e785-41d3-9c3a-02144a62b7f3",
@@ -70,7 +75,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47ea1011-fbc9-4818-9925-a3cdbbe66fd8.png"
   },
   {
    "id": "bca1ae45-c5d7-4796-b7b3-57e83f771c6d",
@@ -81,7 +87,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5731b10d-92d9-482d-8e4d-b9d6d96dad89.jpg"
   },
   {
    "id": "42d2f924-2c49-4b8e-9fd8-c495f10d68d4",
@@ -92,7 +99,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "952a5fdb-fbf3-48a7-a201-75afb0685c42.jpg"
   },
   {
    "id": "bc178865-36da-4914-8a43-8978501ec91f",
@@ -103,7 +111,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b9f7cee-3dd0-4024-acea-3383b0e2ac6e.jpg"
   },
   {
    "id": "599672ca-1633-4d25-9045-88813d63d951",
@@ -115,19 +124,21 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d3287f3e-ca32-4dc3-98e3-224136e73e0a.jpg"
   },
   {
    "id": "e9d3412e-1681-4ba0-8792-594523e8ead4",
    "title": {
-    "en": "Ai★Kaimasse!"
+    "en": "Ai\u2605Kaimasse!"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "56f5a793-d5b7-4ac8-9f38-a985da8fc36c.jpg"
   },
   {
    "id": "8bc5c35e-38b2-4dc1-a926-584bd7b25a21",
@@ -139,8 +150,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "b37ab8cc-36ac-43a1-9191-68805038b8ef.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:31+00:00"
+ "updatedAt": "2021-07-18T07:10:31+00:00",
+ "coverFileName": "979bafd6-4304-45af-a7c2-e7df7f0faa54.jpg"
 }

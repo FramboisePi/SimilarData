@@ -14,7 +14,8 @@
    "score": 0.4315794,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24ba550d-aa89-454f-bd47-a2600d650fb4.jpg"
   },
   {
    "id": "dcce40f4-deb2-4be0-9888-835be0b3f3d7",
@@ -26,7 +27,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "24fa5522-c70c-4eaf-89ff-bfa0b45787a0.jpg"
   },
   {
    "id": "a74e5942-a770-41dc-a0ea-aae3d539cf20",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8259f155-0db0-4d3c-b3e5-b3604fd8cb35.jpg"
   },
   {
    "id": "678a2617-2c42-4f44-94c4-c1e9f755af77",
@@ -53,18 +56,20 @@
     "pl",
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "0cd80b13-2d8d-47b5-90aa-8a768a757f18.jpg"
   },
   {
    "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
    "title": {
-    "en": "Café Velomano"
+    "en": "Caf\u00e9 Velomano"
    },
    "contentRating": "safe",
    "score": 0.4195441,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "994afbcc-3661-496c-b1a6-52fac61ae643.jpg"
   },
   {
    "id": "96644848-f051-4459-bc80-461ffc00d19e",
@@ -75,7 +80,8 @@
    "score": 0.4184666,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9b66f63e-37f7-48e4-a478-87a3802cc31d.jpg"
   },
   {
    "id": "658eb912-1508-42a3-b3c1-a9838ebe7718",
@@ -87,7 +93,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3c47b2c9-f1e3-46e8-b49d-7dd82beb0a09.jpg"
   },
   {
    "id": "e89d5ce4-352f-4107-b325-36139eec1907",
@@ -98,7 +105,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1a1827cd-6c52-4ec6-8c2c-8cc6446014cd.jpg"
   },
   {
    "id": "23b67115-cac9-4e5e-ae57-af8eeb519fe9",
@@ -111,18 +119,20 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "605f5d7b-31e6-42c2-9c2c-5cafc4d3c7aa.jpg"
   },
   {
    "id": "793a65ef-068f-4547-b62b-a78ea7b649c9",
    "title": {
-    "en": "Teke Teke ★ Rendezvous"
+    "en": "Teke Teke \u2605 Rendezvous"
    },
    "contentRating": "safe",
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9e00f4f-ce16-45d1-9c76-6ff1a26c2b91.jpg"
   },
   {
    "id": "c207dd3e-82ea-4279-b331-aa9bead8479b",
@@ -133,7 +143,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "10d942c1-d15a-4360-b4f2-5e5da8aee30d.jpg"
   },
   {
    "id": "40a2f7ce-723b-4270-82c0-03d7b5c98ef1",
@@ -145,8 +156,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "308d412e-7ccd-4607-90fc-69e750acd373.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:13+00:00"
+ "updatedAt": "2021-07-18T06:31:13+00:00",
+ "coverFileName": "f1b5c911-7473-4a45-966c-cf10c5fb20da.jpg"
 }

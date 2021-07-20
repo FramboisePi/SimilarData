@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d4bdfc59-8774-4ac2-8b8e-6851a050268f.jpg"
   },
   {
    "id": "ed3131fd-0d45-4e6d-a9e1-a1947b24e3d9",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b6815639-6a40-4a95-8dc7-a388f2a7b45b.jpg"
   },
   {
    "id": "401a7769-588f-4ea1-ae70-d83aea7fd965",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0599e23c-4b5c-4941-89d2-16c183f8ecaa.jpg"
   },
   {
    "id": "1f5a94b3-08f9-4b58-8354-db5cf22043d6",
@@ -55,7 +58,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "525fcf19-1e8a-49ee-abb5-26e38ed916d3.jpg"
   },
   {
    "id": "5ad23128-34e8-408c-a08f-004be955e5e1",
@@ -66,7 +70,8 @@
    "score": 0.42515427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab2a1ba4-10b8-4b76-a340-e5b5f1b9e5f2.jpg"
   },
   {
    "id": "fefdc15e-47de-4f78-9acd-1102a1712513",
@@ -79,7 +84,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "d2ba3e89-d5d2-4849-b32e-ecdb6c49f337.jpg"
   },
   {
    "id": "3d3dda69-7387-4732-b114-e4bb3de67180",
@@ -90,7 +96,8 @@
    "score": 0.41231072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b538f15-b714-45e9-ae5a-5a7df6ea6ab6.jpg"
   },
   {
    "id": "4754fc66-6bcb-4cc3-98ec-10f585cc55f3",
@@ -105,7 +112,8 @@
     "id",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4208249e-e687-4775-8cdb-4c2f43b13168.jpg"
   },
   {
    "id": "879af0bb-ce30-47e4-a74e-cd1ce874c6e3",
@@ -120,7 +128,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dc84f01d-6029-4cd4-893e-cd90de57947c.jpg"
   },
   {
    "id": "f81026af-1b41-465c-932b-291ce4760c00",
@@ -136,7 +145,8 @@
     "pt-br",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "025c2f15-aaac-41b5-8143-57be86c5ed25.jpg"
   },
   {
    "id": "ca698df5-2de5-46a3-a171-8211d5bbcede",
@@ -149,19 +159,22 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7903cf0a-a748-41cc-a4ec-dd093115555a.png"
   },
   {
    "id": "84b2fad4-cd1a-4a37-831a-582e8137970f",
    "title": {
-    "en": "MÄR"
+    "en": "M\u00c4R"
    },
    "contentRating": "safe",
    "score": 0.3970003,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c23b49f-ef01-4e90-8fdd-245f33482816.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:45+00:00"
+ "updatedAt": "2021-07-18T06:56:45+00:00",
+ "coverFileName": "5b758788-0011-4915-9001-fcb6df486939.jpg"
 }

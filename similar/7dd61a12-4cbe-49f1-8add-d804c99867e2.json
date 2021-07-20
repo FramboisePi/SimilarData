@@ -17,7 +17,8 @@
     "ru",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "0faacba6-54e4-47d7-ab26-38771b31929e.png"
   },
   {
    "id": "632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
@@ -32,7 +33,8 @@
     "es-la",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "797fc185-074f-4aaa-b0bc-6bf52ff7f279.jpg"
   },
   {
    "id": "2b7d3405-3f01-481c-9309-1eb8203c6b2a",
@@ -45,7 +47,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4ec757c4-0554-4bf7-8111-a48ad1593f4d.jpg"
   },
   {
    "id": "6b818cc0-cad0-4cc7-9695-05b5c946efbc",
@@ -57,7 +60,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9c7a038a-cea1-461a-a88d-6340329b411f.jpg"
   },
   {
    "id": "3234c908-ae02-487a-a68a-7f8b2db8c78d",
@@ -72,7 +76,8 @@
     "vi",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "5016a0bb-69ba-4d37-a569-0736f2995d78.jpg"
   },
   {
    "id": "70cd5271-2980-4488-b445-31b9f61aefe7",
@@ -86,7 +91,8 @@
     "pt-br",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "548221d3-8bf1-43b3-b01d-ebd3037559bb.jpg"
   },
   {
    "id": "5ad21a6f-621d-4f97-a0ff-f2c1864ff3fb",
@@ -98,7 +104,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "c49fb8d6-dce4-494d-bcb3-f97e57b3df90.png"
   },
   {
    "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
@@ -109,7 +116,8 @@
    "score": 0.44004935,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46d41108-193a-444a-8655-321c1c6a38b8.png"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -127,7 +135,8 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   },
   {
    "id": "87ebb83f-4e9d-47cd-8a48-c9bb5fd9c42b",
@@ -139,19 +148,21 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "65312789-9e73-4cf4-9451-9a3bdabba088.jpg"
   },
   {
    "id": "a77b83dd-16d4-4d0f-b01b-86e98c67c243",
    "title": {
-    "en": "Tomoe Koga’s Birthday | 2020"
+    "en": "Tomoe Koga\u2019s Birthday | 2020"
    },
    "contentRating": "safe",
    "score": 0.4268927,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ba298992-ca4a-40fe-9ae1-413f418d7e96.jpg"
   },
   {
    "id": "9f39246a-8b05-4b19-b822-727e748723dc",
@@ -167,8 +178,10 @@
     "it",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "158f3420-f079-4fc3-b920-0ac94f8e9dd8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:50+00:00"
+ "updatedAt": "2021-07-18T06:47:50+00:00",
+ "coverFileName": "54812d45-739a-4468-9a12-76228d25fddb.png"
 }

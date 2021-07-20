@@ -14,7 +14,8 @@
    "score": 0.6398572,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6460f7cb-8c1b-42cc-8a6b-a285cd9e96a6.jpg"
   },
   {
    "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "48994da0-9683-41cc-8eeb-440fa140a75a.jpg"
   },
   {
    "id": "be685968-bda0-4c88-ab2f-c6e1345344cc",
@@ -37,7 +39,8 @@
    "score": 0.6042438,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b10be44-10d1-45f4-9f7d-638a2cac65c3.jpg"
   },
   {
    "id": "787c0327-c98e-4b18-a3f8-d2988904fdb1",
@@ -50,7 +53,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d70fff07-1b0a-438e-837b-e346c080bd28.jpg"
   },
   {
    "id": "1857b4ae-4ddf-45db-9296-f74c626a0e4c",
@@ -61,7 +65,8 @@
    "score": 0.56598645,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc0f74f0-8b8e-4b17-9d51-8bdcbf00b9f3.jpg"
   },
   {
    "id": "5af60d6c-8b8e-4ca3-bc10-3046543c1614",
@@ -73,7 +78,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "0acda85f-5b16-4622-a58e-fbd69b112b07.jpg"
   },
   {
    "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
@@ -84,7 +90,8 @@
    "score": 0.53426635,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6441aea1-b9bf-457d-b84a-ebbcff99f3f0.jpg"
   },
   {
    "id": "2e886d68-1fb5-423b-9d09-2af0d8e0de5d",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4d066557-082b-4e8a-ae8f-7a800f725b5b.jpg"
   },
   {
    "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
@@ -107,7 +115,8 @@
    "score": 0.53099066,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b05efa20-3408-4f72-b0ea-33f0e57d5561.jpg"
   },
   {
    "id": "85b51b37-0ce6-4144-a19b-6b064bc2c2ae",
@@ -123,7 +132,8 @@
     "it",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "9c678ce9-812e-43c3-9d66-c31a936d5d3b.jpg"
   },
   {
    "id": "b64a0204-24fe-4ee1-b5e7-5c737ed05497",
@@ -136,12 +146,13 @@
     "id",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "ea1d0d07-fd34-4d0a-9c45-5f48d2819ba7.jpg"
   },
   {
    "id": "b00ca6fd-4fab-4c8f-a981-4a89cefc5d89",
    "title": {
-    "en": "I’ll Just Live on as a Villainess"
+    "en": "I\u2019ll Just Live on as a Villainess"
    },
    "contentRating": "safe",
    "score": 0.50027174,
@@ -150,8 +161,10 @@
     "fa",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "d19bee61-1ce2-4828-9f2f-76ea25a44596.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:49+00:00"
+ "updatedAt": "2021-07-18T06:46:49+00:00",
+ "coverFileName": "c8d33c0d-1680-4a88-8450-cfad3f7dd0e2.jpg"
 }

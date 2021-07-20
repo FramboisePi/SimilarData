@@ -1,7 +1,7 @@
 {
  "id": "402cd859-464c-4731-8d16-86fefd3feecf",
  "title": {
-  "en": "Atsumori-kun no Oyome-san (←Mitei)"
+  "en": "Atsumori-kun no Oyome-san (\u2190Mitei)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.5800707,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b9684cc-a842-4903-be33-f07c433a4c42.jpg"
   },
   {
    "id": "1a5f6b2f-f85f-4a00-9445-0ff2d1b2fb35",
@@ -25,7 +26,8 @@
    "score": 0.5294044,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c14a2d4e-d822-4abe-b6b2-8342e5e3770b.png"
   },
   {
    "id": "ff17ec2e-0772-45d2-97c5-0dc8f1fc9c54",
@@ -40,7 +42,8 @@
     "hu",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "00baf44f-89f7-4868-89d9-e23e4df4ef18.jpg"
   },
   {
    "id": "42a40849-78b5-4e53-acfe-d5f235a7f48d",
@@ -51,7 +54,8 @@
    "score": 0.5212613,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "c5abe3ed-8a7e-4e10-a830-e8e8a2a3a4b1.jpg"
   },
   {
    "id": "83b69e82-a8e6-42e5-ad81-b265e5a3953d",
@@ -63,7 +67,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "233c7469-1a9a-4939-8833-c23557d96b9b.jpg"
   },
   {
    "id": "c6880400-a878-4cbc-8c37-845c295b1432",
@@ -75,7 +80,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "7131a3d7-1fd7-4fd4-b1f2-f04eeeeb6c2e.jpg"
   },
   {
    "id": "5576b745-5bfb-43a5-9be2-da929f741256",
@@ -86,7 +92,8 @@
    "score": 0.50946,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "625793da-f6da-4b8b-be96-ce6c55a688ef.jpg"
   },
   {
    "id": "1d68e358-7838-4484-aebf-19c0f40e9312",
@@ -97,7 +104,8 @@
    "score": 0.50819916,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc96c459-2a19-4697-bf9e-66b914b5bbaf.jpg"
   },
   {
    "id": "1d471302-deae-4554-a699-c26ae18c8740",
@@ -108,7 +116,8 @@
    "score": 0.5031594,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c90103a-5573-4051-9318-e2ee94b52877.jpg"
   },
   {
    "id": "d44b5f4f-f88c-4cf4-936f-2b17643b4a64",
@@ -120,7 +129,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "927d722c-3046-47c1-aff7-dd9ab60106bc.jpg"
   },
   {
    "id": "d6c10a5b-57f5-485d-9e40-e4c2eddb2ee0",
@@ -131,7 +141,8 @@
    "score": 0.5012688,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b321425d-1e05-484d-8187-73813df1e6d1.jpg"
   },
   {
    "id": "88706864-a794-4528-b9a8-b0f27a4326dd",
@@ -144,8 +155,10 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "79a82bee-ea94-4011-99f1-2fd2995fe9fe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:26+00:00"
+ "updatedAt": "2021-07-18T06:36:26+00:00",
+ "coverFileName": "b9b70a1f-e926-4759-b8bb-11437059c373.jpg"
 }

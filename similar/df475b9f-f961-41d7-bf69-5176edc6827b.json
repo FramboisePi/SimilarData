@@ -1,7 +1,7 @@
 {
  "id": "df475b9f-f961-41d7-bf69-5176edc6827b",
  "title": {
-  "en": "Front Mission - Dog Life \u0026 Dog Style"
+  "en": "Front Mission - Dog Life & Dog Style"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -21,7 +21,8 @@
     "hu",
     "ro",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ac8b7b97-dcdc-487a-b511-f0f5a5673db0.jpg"
   },
   {
    "id": "ef473f14-8c4d-435e-9015-b714512e69eb",
@@ -36,7 +37,8 @@
     "ru",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "e6951e5c-c42b-40cc-8cad-176badc83466.jpg"
   },
   {
    "id": "7b3a0882-9f3f-4c74-8661-1d8de4b5b461",
@@ -47,7 +49,8 @@
    "score": 0.30315933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "170dd14a-3637-42cf-906b-1071e868cb25.png"
   },
   {
    "id": "1421a9e8-fbf5-4e64-a72f-dbebdf570a1f",
@@ -58,7 +61,8 @@
    "score": 0.2969604,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c81bb1b-60f0-4be0-92e4-cb67dab35288.jpg"
   },
   {
    "id": "c890f0d2-1821-4ba6-8bf5-8088c2b9ec2a",
@@ -69,7 +73,8 @@
    "score": 0.28961673,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0d011d2-88cf-4f84-b592-6f63ee6576f3.png"
   },
   {
    "id": "c527f82a-7fef-45fa-931e-e93edc120612",
@@ -81,7 +86,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d7bc504d-37ae-4ba0-a249-6ee3ce58a61f.jpg"
   },
   {
    "id": "91b5911c-7112-4944-baa3-c53370da096d",
@@ -95,7 +101,8 @@
     "es-la",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "71689cb3-5d7b-4138-b156-7f51236935c3.jpg"
   },
   {
    "id": "0e1baf0f-0819-467d-9af0-011fbafbc5ab",
@@ -106,7 +113,8 @@
    "score": 0.27570224,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "793e22a8-9b71-422b-a6df-605ff4cf7099.jpg"
   },
   {
    "id": "f90bfb4f-a9e8-4579-8152-a7b224708285",
@@ -118,18 +126,20 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "d675c7b0-e8ae-42d3-a58f-01fee0ad2021.jpg"
   },
   {
    "id": "b694f311-9e91-45c8-b87e-6ee672c4e447",
    "title": {
-    "en": "Schäferhund"
+    "en": "Sch\u00e4ferhund"
    },
    "contentRating": "suggestive",
    "score": 0.26442268,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02b5fe39-6e8b-45a1-9ab3-24099583954c.png"
   },
   {
    "id": "33ee2df9-0085-47e6-8851-14eefcbd255f",
@@ -140,7 +150,8 @@
    "score": 0.26330358,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4205dd3f-7f37-4e58-9690-a6b1fd0602fc.jpg"
   },
   {
    "id": "94891715-a109-4f5e-81ef-2bed5fb5bb19",
@@ -153,8 +164,10 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "600573eb-81c7-4650-a8d6-e647a705cdc0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:50+00:00"
+ "updatedAt": "2021-07-18T07:05:50+00:00",
+ "coverFileName": "e6791353-eb9d-45b8-ad1f-899ecae79d3c.png"
 }

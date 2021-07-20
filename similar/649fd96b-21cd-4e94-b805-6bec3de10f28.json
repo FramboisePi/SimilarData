@@ -14,7 +14,8 @@
    "score": 0.4954171,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c29f3ee0-1e71-4533-907e-a08f1eb63d1b.jpg"
   },
   {
    "id": "2f8c3628-85f0-43fa-a396-8c52a14b8ad2",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "38790b54-a427-4873-affe-50d9d87c982a.png"
   },
   {
    "id": "0bbc5d7e-a0c9-4e56-83ca-017cc6bca891",
@@ -40,7 +42,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4aac552-ba86-4c54-ad37-c714df204ff0.jpg"
   },
   {
    "id": "52440af0-546a-4c83-9244-9c7da20ffd0e",
@@ -52,7 +55,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0ab876a8-876a-42ec-9c85-0e91f368ceef.jpg"
   },
   {
    "id": "8cd36d5e-e0f2-4a82-9f79-d979eb444cf2",
@@ -63,7 +67,8 @@
    "score": 0.38662153,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1534ab03-1852-4949-86c2-64deba36279b.jpg"
   },
   {
    "id": "8b3e2e12-6602-4c76-b2e3-16d8bb6d4546",
@@ -74,7 +79,8 @@
    "score": 0.3845153,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8d87f57-e3e7-4d9f-b41a-3d3c4490fb41.jpg"
   },
   {
    "id": "8cfb6113-99d3-4901-8f60-b5ed0b60acfc",
@@ -86,19 +92,21 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a3fe735f-dfa6-4f7c-86c1-32e9ebda18d5.jpg"
   },
   {
    "id": "3cd302f2-eb9a-4330-a36c-50f6c4a81438",
    "title": {
-    "en": "Don’t Say You Love Me"
+    "en": "Don\u2019t Say You Love Me"
    },
    "contentRating": "safe",
    "score": 0.37929398,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3bfa73ae-f08c-44ba-b73c-e86f26ca4c39.png"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -111,7 +119,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "2476fe38-d304-4f77-9e28-1a49af4b6f09",
@@ -122,18 +131,20 @@
    "score": 0.3780782,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0d161a01-855b-4693-b851-456568a6332f.png"
   },
   {
    "id": "3cba7dbf-f9a6-4f56-aa39-ef1e90d56027",
    "title": {
-    "en": "Suicidal Companyman \u0026 Vampire Schoolgirl"
+    "en": "Suicidal Companyman & Vampire Schoolgirl"
    },
    "contentRating": "safe",
    "score": 0.3736438,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba0f453e-c5fe-42d1-bd3b-688775a2bccf.jpg"
   },
   {
    "id": "53635cbb-f2ee-45d9-a0bb-4d713db85963",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "96a6e1d2-1aeb-403a-9631-451052e5289e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:09+00:00"
+ "updatedAt": "2021-07-18T06:43:09+00:00",
+ "coverFileName": "7d1f35b5-2a46-4e4c-b216-5f9d461f1b71.jpg"
 }

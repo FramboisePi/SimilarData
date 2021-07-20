@@ -1,7 +1,7 @@
 {
  "id": "68e3d422-8a61-4eda-8a46-b98f36b42b01",
  "title": {
-  "en": "Touhou — Kirai ni Nante (Doujinshi)"
+  "en": "Touhou \u2014 Kirai ni Nante (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.39574215,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "89e25c3d-2723-42f9-aaee-4669faaeb971.jpg"
   },
   {
    "id": "cea7bcce-3c29-461a-a443-720162d250dc",
@@ -27,19 +28,21 @@
     "es-la",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "8a2cd50b-4bab-4917-9e78-17dae90eb3a4.jpg"
   },
   {
    "id": "12fdf023-2a3c-4c05-a0d7-214c7df74540",
    "title": {
-    "en": "KiraKira☆PreCure A La Mode - PreAla One Draw (Doujinshi)"
+    "en": "KiraKira\u2606PreCure A La Mode - PreAla One Draw (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.39574215,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2419757d-c547-4368-a9c2-ab8b2b2e89d5.png"
   },
   {
    "id": "4ac27187-f6b1-4162-b3d0-def137a3683c",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4c8bbeef-faaf-4e06-81cc-ff3b0778ab03.png"
   },
   {
    "id": "82f00907-2805-4df4-8390-3fce45e1b1d3",
@@ -64,7 +68,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0380acb7-6466-4ea9-b7d8-0776a09820f8.jpg"
   },
   {
    "id": "31836d96-b2cb-4b09-8259-66ab61cac597",
@@ -76,7 +81,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "aa59ddaa-9ca0-4ceb-8e17-f2819db19d1f.jpg"
   },
   {
    "id": "4adb3cd5-e23d-4cda-b67f-b8a3806a9f44",
@@ -89,7 +95,8 @@
     "es-la",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "0d1c167a-1946-4981-91a1-f4f3c5bed001.jpg"
   },
   {
    "id": "04508712-07ef-4899-a6ca-b2a571d0719f",
@@ -101,7 +108,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "b1f90bc5-6c86-4243-956a-edcdf4c3f4ab.jpg"
   },
   {
    "id": "6e313446-2f25-4c13-abde-0701826b1a74",
@@ -112,7 +120,8 @@
    "score": 0.34272274,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "705ecd2e-6ce4-4846-a912-02f69fb0823d.jpg"
   },
   {
    "id": "b41213f6-def3-40b1-b6b4-d5331240f29a",
@@ -124,18 +133,20 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "3fc935ac-d5aa-4d89-b9fc-6ad8054ba362.jpg"
   },
   {
    "id": "5c61ac64-c412-49a2-8c63-54124e51df62",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - Concept of Dream (Doujinshi)"
+    "en": "Mahou Shoujo Madoka\u2605Magica - Concept of Dream (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.34272274,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "10a3df85-93e0-4d66-abe1-e58d827553b6.jpg"
   },
   {
    "id": "ec2fbac7-e0c2-4b2a-adbc-bd79ca6ed37f",
@@ -147,8 +158,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "50d84bcc-ce92-4fdb-98c7-9b4c3bdaf26b.png"
   }
  ],
- "updatedAt": "2021-07-18T06:43:56+00:00"
+ "updatedAt": "2021-07-18T06:43:56+00:00",
+ "coverFileName": "117cacf0-cb4f-4d4f-962e-2f22b7187019.jpg"
 }

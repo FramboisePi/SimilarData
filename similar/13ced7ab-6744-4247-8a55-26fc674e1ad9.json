@@ -1,20 +1,21 @@
 {
  "id": "13ced7ab-6744-4247-8a55-26fc674e1ad9",
  "title": {
-  "en": "Cucumber × Sandwich"
+  "en": "Cucumber \u00d7 Sandwich"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "484f7218-6d03-4072-814f-9654192352d1",
    "title": {
-    "en": "Kamakura Deco \u0026 Kofu Life"
+    "en": "Kamakura Deco & Kofu Life"
    },
    "contentRating": "safe",
    "score": 0.46430287,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df0c87bd-31c2-4cb3-9510-feece38791e6.jpg"
   },
   {
    "id": "600d0942-e672-41b4-8015-8cc037e7a512",
@@ -25,7 +26,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbf3161b-c90a-4168-a42e-078518acff4c.jpg"
   },
   {
    "id": "98fdfcfb-8248-40fe-92dc-2d4fedbcaf87",
@@ -37,7 +39,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "0946352b-2eb7-43f2-be13-e8d126b0f24f.png"
   },
   {
    "id": "88224f71-2927-4f47-bd8e-31de07ac0fac",
@@ -48,7 +51,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "deefcc6b-87e1-4029-93e6-dbbcecf69a41.jpg"
   },
   {
    "id": "5ebab464-509a-4c38-a4e5-e38fd1e83700",
@@ -59,7 +63,8 @@
    "score": 0.4476744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8cefc089-fa52-4ef8-b415-b2f6bf472c81.jpg"
   },
   {
    "id": "50d9f5b3-fc69-4742-bd72-1d652c337cf4",
@@ -71,7 +76,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "38221c1f-71a2-4eef-868b-8bbef1f605bd.jpg"
   },
   {
    "id": "57ca4245-6dd9-41e3-b61e-294ad7d5a8c1",
@@ -82,7 +88,8 @@
    "score": 0.38869247,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d2e6e017-b865-4043-acd3-89a202c9a4c9.jpg"
   },
   {
    "id": "18f16695-0662-4fb2-ac38-c085fc27169f",
@@ -95,7 +102,8 @@
     "en",
     "vi",
     "tr"
-   ]
+   ],
+   "coverFileName": "79354e9f-ddfa-41ab-a850-83d1419b7c9f.jpg"
   },
   {
    "id": "15d68f86-ae23-4ca4-92b0-327c7a2f7cb4",
@@ -107,18 +115,20 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "d8f02a5c-d8fa-4597-86d7-d9c56ad4269b.jpg"
   },
   {
    "id": "cf6a6afe-c79a-424c-97ac-aabb0e9562ec",
    "title": {
-    "en": "Seikimatsu★Darling"
+    "en": "Seikimatsu\u2605Darling"
    },
    "contentRating": "safe",
    "score": 0.3876974,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0e03b9c-5bd0-484b-9ca3-27d67c3a6468.jpg"
   },
   {
    "id": "65822893-64b9-4219-8404-a1af146cbaed",
@@ -129,7 +139,8 @@
    "score": 0.3876974,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c83c38a-fe6a-4acc-98f1-d1ae33223796.jpg"
   },
   {
    "id": "8299b191-1f4b-4463-9103-61604ab3c13b",
@@ -140,8 +151,10 @@
    "score": 0.3757817,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b862ab6-a18f-4b25-a1c1-167451757198.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:11+00:00"
+ "updatedAt": "2021-07-18T06:28:11+00:00",
+ "coverFileName": "f1e90dcf-c1ca-4194-826a-6ce7b5db713b.jpg"
 }

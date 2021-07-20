@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cc5dac55-f3c0-4e7a-8781-08ee8c55fefc.jpg"
   },
   {
    "id": "685408cf-b6eb-457e-841b-122b9780acca",
@@ -27,7 +28,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "aa386754-1834-4809-9e2a-e3ce17dd785e.jpg"
   },
   {
    "id": "82bf73a9-401b-4f07-9dd1-be9a720ccb19",
@@ -38,7 +40,8 @@
    "score": 0.3488515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea8a63a9-c28b-482c-8422-b95dfe8642f1.jpg"
   },
   {
    "id": "b7902d2f-6b51-4598-8f20-5d388b9cb202",
@@ -49,7 +52,8 @@
    "score": 0.3475274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eff98e03-ec7e-4577-9835-c81451469de3.jpg"
   },
   {
    "id": "569888e3-f82c-45eb-83c6-4ab8f2957ee9",
@@ -60,7 +64,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9cb3a930-9a22-45b7-b987-4e32d0485e75.jpg"
   },
   {
    "id": "791f67c3-bd14-423d-bb44-c5033895a5a7",
@@ -71,7 +76,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "985e41bb-e17e-4f40-9961-66fa748791ed.jpg"
   },
   {
    "id": "625c2c40-e685-424a-a4ab-a8f103d78e1c",
@@ -82,7 +88,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d974d4d-5ed0-434b-acb1-f829e2eb10dd.jpg"
   },
   {
    "id": "05634c01-7f94-464b-9672-0b13ad06e871",
@@ -94,7 +101,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "455cb34f-c098-4ef1-b32c-fd4e107733fc.jpg"
   },
   {
    "id": "8b1d7f2f-2c4c-4047-a394-6d5cbc56271a",
@@ -105,7 +113,8 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e2a41d9d-8319-4867-9579-6ffbfd517650.jpg"
   },
   {
    "id": "25803586-e40b-4eb9-b1c9-38f42b845433",
@@ -116,18 +125,20 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b186111-1d4f-472a-8e6e-dfa62048c638.jpg"
   },
   {
    "id": "d435de30-9bba-4018-9773-5a900c3a12c1",
    "title": {
-    "en": "Gunka no Baltzar Gaiden – Yuukoku no Liebknecht"
+    "en": "Gunka no Baltzar Gaiden \u2013 Yuukoku no Liebknecht"
    },
    "contentRating": "safe",
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7717689d-94ca-4402-a1b1-968e64aab51a.jpg"
   },
   {
    "id": "a4dd1270-a645-4cec-b104-315d85c51308",
@@ -138,8 +149,10 @@
    "score": 0.32858485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bba36902-c1ac-4400-bb42-1b2befcc3156.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:45+00:00"
+ "updatedAt": "2021-07-18T07:03:45+00:00",
+ "coverFileName": "4b44e58c-6932-4a96-a9e1-b32e3c5bbde3.jpg"
 }

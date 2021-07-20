@@ -17,7 +17,8 @@
     "id",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "24ae9f64-0a0d-4c05-bbdf-39adfb3d792e.jpg"
   },
   {
    "id": "3dd14f1b-e71a-4c9c-a660-bbf71127f785",
@@ -30,7 +31,8 @@
     "en",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "446c9ba0-e445-48e4-97d5-e62fc71035ae.jpg"
   },
   {
    "id": "1bfa9e48-a4c1-40d0-9008-1ac242e42764",
@@ -41,18 +43,20 @@
    "score": 0.4121612,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c78390cb-ca0e-4c24-af1a-2607d721a91a.jpg"
   },
   {
    "id": "70205c3e-4e70-4017-8e5c-45ebab2cea3e",
    "title": {
-    "en": "What has happened to me ～The story of an Uyghur man who now lives in Japan～"
+    "en": "What has happened to me \uff5eThe story of an Uyghur man who now lives in Japan\uff5e"
    },
    "contentRating": "safe",
    "score": 0.41196328,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "611279b9-6a66-4e2e-82ac-75651b8766ed.png"
   },
   {
    "id": "c36d7414-8f0e-4664-8b36-f11e554db506",
@@ -63,7 +67,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65f9ad50-a8ae-4695-8536-ca911aa33f43.jpg"
   },
   {
    "id": "541fd040-2db3-4b07-8136-7ea14fba858f",
@@ -76,7 +81,8 @@
     "en",
     "id",
     "vi"
-   ]
+   ],
+   "coverFileName": "7596b607-08ca-49c9-b2d7-a2ae53d67bd5.jpg"
   },
   {
    "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
@@ -87,7 +93,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62adaea8-c272-4179-a861-aedd9bfcc793.jpg"
   },
   {
    "id": "0fb01573-e3cb-4856-a8d1-4b971ff9cb07",
@@ -98,7 +105,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "92a196d2-0ca8-49fd-a2bb-9cc9dcdf7c4a.jpg"
   },
   {
    "id": "fde2059c-34bc-4ec7-8488-5d9f91497ac6",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3003c0c5-9154-4e5d-96b9-fb273fe0fd2e.jpg"
   },
   {
    "id": "6d43f1ae-cc83-4bec-8be4-4582702c67b8",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "486a4c9b-e6a0-4c5a-990e-ac0160d6ce0c.jpg"
   },
   {
    "id": "bd0985f2-daf9-468c-af1c-3752c19d7970",
@@ -134,7 +144,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "d70c1784-a883-4c94-b808-1d7b5062f031.jpg"
   },
   {
    "id": "edba4793-6c16-42ad-b437-82daceb52f30",
@@ -145,8 +156,10 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4ddc2bf-95c6-428c-8334-6fbf249e2fbe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:25+00:00"
+ "updatedAt": "2021-07-18T06:43:25+00:00",
+ "coverFileName": "0e89df05-d441-4c89-b1b6-8b8fdc400122.jpg"
 }

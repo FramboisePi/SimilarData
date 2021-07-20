@@ -8,7 +8,7 @@
   {
    "id": "994dfcd9-0449-47a7-ac1e-0efff9b0fe54",
    "title": {
-    "en": "Tyra \u0026 Cera"
+    "en": "Tyra & Cera"
    },
    "contentRating": "safe",
    "score": 0.37298238,
@@ -17,7 +17,8 @@
     "it",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7b496b62-d160-4979-a1c6-2c71f95a20f4.jpg"
   },
   {
    "id": "89fc8249-939e-4b37-b1a3-8a7d1a9288e8",
@@ -28,7 +29,8 @@
    "score": 0.37298238,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d6bee1e-5519-493b-9bd7-a7cc808baa1b.jpg"
   },
   {
    "id": "fad25040-473d-445c-8a00-9e97e7f91f48",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d63ab76b-697b-46ee-b896-682abae1dfc2.png"
   },
   {
    "id": "224e563b-a2a4-4ecf-bd6e-300b21063956",
@@ -53,7 +56,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "53304b92-1da9-4c8f-98fc-90a19e5e85fa.png"
   },
   {
    "id": "92fd3110-3367-44bf-94d8-236f1056f6db",
@@ -64,7 +68,8 @@
    "score": 0.3666946,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1621f7a-b5bb-402d-aa49-84a876b049df.jpg"
   },
   {
    "id": "3f4a567a-9c20-450b-a0e8-bc488e222e80",
@@ -75,7 +80,8 @@
    "score": 0.3444707,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3f643929-375a-4d59-b7ab-aeac422e12aa.jpg"
   },
   {
    "id": "373b0ed1-ddd5-4184-a67f-dbade77bc8dd",
@@ -87,7 +93,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "98603323-7554-4d07-978c-fa5cd0937822.jpg"
   },
   {
    "id": "023736fb-746c-4e7c-b093-f92700f49cd2",
@@ -102,7 +109,8 @@
     "es-la",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "72e1bf0a-084b-4f2a-a1b7-8594d38098e6.jpg"
   },
   {
    "id": "0a62c208-82ff-490d-bd2c-be01c66eeed8",
@@ -113,7 +121,8 @@
    "score": 0.33474484,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90695241-acca-4ec6-b7e7-ff7c53bd0b71.png"
   },
   {
    "id": "f16141c4-ec38-4d3f-8541-e827fac44541",
@@ -124,7 +133,8 @@
    "score": 0.33335873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "72c900d8-cf9f-4cb1-8075-3da59b1c00a7.jpg"
   },
   {
    "id": "f2ea9cf6-2756-499f-9dee-ea1c68f630a7",
@@ -135,7 +145,8 @@
    "score": 0.32994595,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bfc54cad-dbf8-449a-8567-c7b8b58c39f3.png"
   },
   {
    "id": "ed7ece09-aaf4-4b0b-b6ea-49021962398a",
@@ -146,8 +157,10 @@
    "score": 0.32994595,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af94c88c-3039-474a-ad4b-d655162b0526.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:27+00:00"
+ "updatedAt": "2021-07-18T06:49:27+00:00",
+ "coverFileName": "75300f95-0ad8-4d95-936f-1a1e8f59675b.png"
 }

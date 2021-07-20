@@ -14,7 +14,8 @@
    "score": 0.5764062,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "072c8d78-dc3e-4f43-be13-34d2b2bee843.jpg"
   },
   {
    "id": "31cd4e9b-a2eb-4a9c-b712-5b2fd467ae77",
@@ -28,7 +29,8 @@
     "tr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "74ccec1b-1645-49dc-b9c2-a4514afa23bc.jpg"
   },
   {
    "id": "c1899921-ecfb-4f2a-a997-9a1c41c2a41e",
@@ -39,7 +41,8 @@
    "score": 0.4792742,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "ba4c9f8c-907d-44a9-beac-921071dc3da3.png"
   },
   {
    "id": "313aa957-69c2-4102-8bd2-006398b91845",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "408e7a59-8c25-40e8-a48e-c3a297bb3dce.jpg"
   },
   {
    "id": "577075c2-8342-4971-92eb-3b527ee6fcd4",
@@ -62,12 +66,13 @@
    "score": 0.46614423,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "d75573e9-9277-402c-baf4-d40ddd2ad125.jpg"
   },
   {
    "id": "cdae359d-5fa9-4d4e-b11a-69dd32b09742",
    "title": {
-    "en": "Apotheosis – Ascension to Godhood"
+    "en": "Apotheosis \u2013 Ascension to Godhood"
    },
    "contentRating": "safe",
    "score": 0.44641122,
@@ -79,7 +84,8 @@
     "it",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "30dfb492-e0f1-48df-9634-d6252c6cf737.jpg"
   },
   {
    "id": "7fbc5a1b-2c77-40c2-9c07-986954337797",
@@ -90,7 +96,8 @@
    "score": 0.4404795,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8857dc3c-f5bf-4b2c-bc50-94633b3f1351.jpg"
   },
   {
    "id": "931fd4fd-6c22-485e-b717-2dce335500b1",
@@ -106,7 +113,8 @@
     "pt-br",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "6d6dcc4a-ae39-44f4-a6a5-2f0b997043b4.jpg"
   },
   {
    "id": "7b6ae4d6-81bf-423a-bcb4-3dae5c26b58b",
@@ -118,7 +126,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "296067bf-9762-47bb-8095-44f37b4b8e60.jpg"
   },
   {
    "id": "0de7b6a4-ca45-4b9b-9547-697128b0acec",
@@ -131,7 +140,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f76b7e0a-e4c9-43b1-af5f-9fb8a529c9e3.png"
   },
   {
    "id": "b3757c92-c07c-4f1a-96b4-4f4a12f79908",
@@ -143,7 +153,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "69d339f9-65bc-4f2d-8f48-36701796d667.png"
   },
   {
    "id": "246f2c0c-4c50-4ef4-b292-c17f0f68a17c",
@@ -158,8 +169,10 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6f1c6243-4540-4978-bbdd-7b73110922d8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:00:05+00:00"
+ "updatedAt": "2021-07-18T07:00:05+00:00",
+ "coverFileName": "2ccd260d-6ff4-442e-9e51-3084cbf1dcf4.png"
 }

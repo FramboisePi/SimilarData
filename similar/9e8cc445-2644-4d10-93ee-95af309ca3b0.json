@@ -1,33 +1,35 @@
 {
  "id": "9e8cc445-2644-4d10-93ee-95af309ca3b0",
  "title": {
-  "en": "Shoujo☆Kageki Revue Starlight - The LIVE - #2 Transition"
+  "en": "Shoujo\u2606Kageki Revue Starlight - The LIVE - #2 Transition"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "faf2ddad-55d4-4de8-8f77-e88c7a26ebb3",
    "title": {
-    "en": "Shoujo☆Kageki Revue Starlight Overture"
+    "en": "Shoujo\u2606Kageki Revue Starlight Overture"
    },
    "contentRating": "safe",
    "score": 0.96177197,
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "20207a00-229c-48e3-bdf5-f4254a20619b.jpg"
   },
   {
    "id": "b43a47f7-84f5-4dbd-b0d2-f657fdfa10bb",
    "title": {
-    "en": "Shoujo☆Kageki Revue Starlight - The LIVE - Show Must Go On"
+    "en": "Shoujo\u2606Kageki Revue Starlight - The LIVE - Show Must Go On"
    },
    "contentRating": "safe",
    "score": 0.7720891,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d63df140-1591-4116-b1e3-81fa87925807.png"
   },
   {
    "id": "c7ab1fac-1366-4ddc-a068-8f18946d7dca",
@@ -38,7 +40,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7f3e06dd-e416-466a-b2f1-74caef557646.jpg"
   },
   {
    "id": "7f1d35d0-cc97-4c0b-9ae2-54467bbf4e55",
@@ -49,7 +52,8 @@
    "score": 0.33225775,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a64666e1-c5a8-40f8-8769-1046720e2e86.png"
   },
   {
    "id": "21666dcf-1257-497d-9647-e4bb63411137",
@@ -60,7 +64,8 @@
    "score": 0.32869828,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "474f7465-4514-4bba-8c7e-aaee55f60071.jpg"
   },
   {
    "id": "d74a8591-a02f-4d43-b110-7b8a65cec6ca",
@@ -71,7 +76,8 @@
    "score": 0.32380658,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43808637-a714-4ad7-a32a-a5620015df9f.jpg"
   },
   {
    "id": "376478e6-587b-455f-babc-c4803e83453e",
@@ -84,7 +90,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "85f4bb07-7a34-4677-b4f9-c5258e4b9552.jpg"
   },
   {
    "id": "c5eb1982-4184-4728-95b9-11fec744f0ca",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "2d41d2c0-6037-4ae2-a91d-9322b34d56af.jpg"
   },
   {
    "id": "9c5eda08-09b5-4f52-85db-d8eb80000492",
@@ -108,7 +116,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "1ba33da3-2950-4c4a-b45a-94aa77f0c48b.png"
   },
   {
    "id": "414fd0ba-83c1-4aa2-ba4c-388481288150",
@@ -119,7 +128,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "691e0b47-5355-47b5-9c0a-ccd9f71c40ba.jpg"
   },
   {
    "id": "4f2a1c74-f2b8-4e4d-a094-959330674ee7",
@@ -130,7 +140,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e41ce3b-15db-4f5b-8d0d-4570601b7afd.jpg"
   },
   {
    "id": "42cf948c-37cb-4d0b-9851-a1ebd77f72d6",
@@ -141,8 +152,10 @@
    "score": 0.31819806,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "22a093db-cad9-40d3-bb15-232f9d5f5fa9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:58+00:00"
+ "updatedAt": "2021-07-18T06:53:58+00:00",
+ "coverFileName": "801f4632-4f3e-4988-af2e-d850b162c904.png"
 }

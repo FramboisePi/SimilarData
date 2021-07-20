@@ -14,7 +14,8 @@
    "score": 0.38074315,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4803a888-37e2-4a70-b32a-e6338aac0023.jpg"
   },
   {
    "id": "be956a5c-3d6d-4ca9-b518-6f1dccf6a6cb",
@@ -25,7 +26,8 @@
    "score": 0.34747002,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "361f6813-d8fd-4a6d-a329-104164d858a2.png"
   },
   {
    "id": "10c43ff9-c7b5-43ae-b20f-30aeab82508c",
@@ -36,7 +38,8 @@
    "score": 0.34747002,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ea701e4-4dab-49a3-aea3-c44b1910648f.jpg"
   },
   {
    "id": "03730769-f30b-4133-b2e2-afb1b4985f4a",
@@ -50,19 +53,21 @@
     "ru",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fd7b6ca3-e238-40ed-a812-5a0645eb28fe.jpg"
   },
   {
    "id": "f1517c9d-2191-4533-898a-e92618e88d2e",
    "title": {
-    "en": "Game of Doppelgänger"
+    "en": "Game of Doppelg\u00e4nger"
    },
    "contentRating": "safe",
    "score": 0.32047617,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "2b63756a-2f32-41b9-8da7-66f63b0a4751.jpg"
   },
   {
    "id": "51d8e9a5-de8e-4180-bd03-df5727da91f2",
@@ -73,7 +78,8 @@
    "score": 0.31936553,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c9d5128-955c-4989-ac98-0f630bbc6038.png"
   },
   {
    "id": "cea99594-b963-4431-bc93-7a4adeba9c54",
@@ -88,7 +94,8 @@
     "pt-br",
     "fa",
     "id"
-   ]
+   ],
+   "coverFileName": "7f983755-2ebf-4dba-b24d-6bcfd08ecc8a.jpg"
   },
   {
    "id": "93667e0c-bbb5-405e-8698-3539a3c994fc",
@@ -101,7 +108,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "ee735444-27d5-4299-937d-eb314d513f2d.jpg"
   },
   {
    "id": "e78ffac1-6f8b-43f9-bf75-3ed938e9ed03",
@@ -114,7 +122,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "98c4235f-9524-46bb-b29f-9473817d3f31.jpg"
   },
   {
    "id": "1116821f-0141-45ef-b91d-a8131343dd87",
@@ -127,7 +136,8 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8de468fa-7424-4381-8e18-690abf5c6d34.png"
   },
   {
    "id": "8779e730-e6bb-468e-ae64-d59d02c5c4c6",
@@ -141,7 +151,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9ef1c7e6-f649-4297-b790-816af2fd5e56.jpg"
   },
   {
    "id": "6fe379d1-98aa-4e86-80b8-4c74ed716cc8",
@@ -152,8 +163,10 @@
    "score": 0.31559083,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "afcc9bf2-50f4-44dc-a43c-89f46b499cc2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:46+00:00"
+ "updatedAt": "2021-07-18T06:24:46+00:00",
+ "coverFileName": "d3c4c125-5a11-45a9-a209-24ef3066770c.png"
 }

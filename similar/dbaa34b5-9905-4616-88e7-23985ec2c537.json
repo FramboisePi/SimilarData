@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "510c88e0-a031-4af3-9a42-f9dc0b3af900.jpg"
   },
   {
    "id": "77a92f95-7fe2-45e4-a449-72080ed4e3e3",
@@ -26,7 +27,8 @@
    "score": 0.45347074,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e26f1c2-2f1b-4ac0-a596-bff65d860131.jpg"
   },
   {
    "id": "f4676132-d3af-4027-8266-074c69035e98",
@@ -38,7 +40,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "38f15454-7abb-4ef5-8380-278ed8d125d4.jpg"
   },
   {
    "id": "951af052-3529-4e33-b3b6-0a97ea9726a4",
@@ -49,7 +52,8 @@
    "score": 0.444852,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51ba17c6-6856-436d-955f-c58d01f8c60c.jpg"
   },
   {
    "id": "d3b4bb3e-5912-4f42-af99-b0c907dbef02",
@@ -62,7 +66,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6effedc6-5b60-454a-8e03-0013784631ea.jpg"
   },
   {
    "id": "2f5252f9-671a-40b0-9182-f4135f284463",
@@ -73,7 +78,8 @@
    "score": 0.43621385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0194c8b5-97bf-4b4a-a140-3f72f41fc561.jpg"
   },
   {
    "id": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
@@ -84,18 +90,20 @@
    "score": 0.43474102,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1bb9f2e9-f208-4a05-8db1-17f42c666708.jpg"
   },
   {
    "id": "d16b55b3-f523-4e5e-9a1f-b8e0a1930285",
    "title": {
-    "en": "I Don’t Care. Let Me Go Home!"
+    "en": "I Don\u2019t Care. Let Me Go Home!"
    },
    "contentRating": "safe",
    "score": 0.4261396,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3b86ff0-b722-4ae3-a2ba-e3921f103665.jpg"
   },
   {
    "id": "42e056e1-b35a-4ddb-8d25-37033070d57c",
@@ -107,18 +115,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "49c9d678-705a-4352-b8e7-5072255dc019.jpg"
   },
   {
    "id": "2632dd4b-4005-44f9-8a5f-5e1b752e3e42",
    "title": {
-    "en": "The Struggle of Being Reincarnated as the Marquess's Daughter: I'll Deal with What’s Coming to Me!"
+    "en": "The Struggle of Being Reincarnated as the Marquess's Daughter: I'll Deal with What\u2019s Coming to Me!"
    },
    "contentRating": "safe",
    "score": 0.41839325,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2c25f0b-0a20-46fb-af1f-88e5e5d28ec3.jpg"
   },
   {
    "id": "ad098069-94ba-4c1f-8954-69f832234aab",
@@ -130,7 +140,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e296f66d-c352-4a9d-9057-8f2d54d6616a.png"
   },
   {
    "id": "8a74e736-3090-4ea5-8ec8-e3147f9ff318",
@@ -141,8 +152,10 @@
    "score": 0.41564187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ad4443a-4963-46c5-b69a-578d35adf10f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:12+00:00"
+ "updatedAt": "2021-07-18T07:05:12+00:00",
+ "coverFileName": "f7a49d2c-011e-485f-b28a-3de7dc46a37f.jpg"
 }

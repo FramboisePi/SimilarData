@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6207d393-ea60-4942-b91d-f033d1fb5502.jpg"
   },
   {
    "id": "126299c1-9bdf-4b96-bad8-c1e24487175f",
@@ -26,7 +27,8 @@
    "score": 0.44269416,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c03e9fee-a058-4c54-8623-57c68038119c.jpg"
   },
   {
    "id": "6aa5b2f0-d854-4e1d-b4e4-db35840189d1",
@@ -38,7 +40,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ca2b21eb-b6bb-4147-a613-12309c5c0437.jpg"
   },
   {
    "id": "2795980b-a9b6-43b2-8870-851efebd45d5",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "768cc932-fc85-414e-b0c5-aa5b23d81a70.jpg"
   },
   {
    "id": "e52d9403-3356-403b-b7bb-d7d6a420dd50",
@@ -69,7 +73,8 @@
     "es",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3fac63df-9127-4d48-8e14-75e1d08d8946.jpg"
   },
   {
    "id": "646759c8-5828-4bef-b1ce-665a8b03c86e",
@@ -80,7 +85,8 @@
    "score": 0.37493977,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a987343e-b386-4d80-a866-08419e589b95.jpg"
   },
   {
    "id": "727bda2a-d15f-456b-b34e-4daa43ab653c",
@@ -91,7 +97,8 @@
    "score": 0.37332854,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e49cbb61-4bc1-4463-a7a8-2f8ec8bea2ca.jpg"
   },
   {
    "id": "58924e7a-2de0-4f45-bc83-4e4cfd00de73",
@@ -102,7 +109,8 @@
    "score": 0.37265116,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "841f8873-3cc2-46fc-8f90-2eb2a80d29ea.jpg"
   },
   {
    "id": "13e39275-7b8b-4b70-a758-1314392e0e48",
@@ -113,7 +121,8 @@
    "score": 0.365163,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "174cc708-8ca8-43cb-a2bf-bbf7b22d8ede.jpg"
   },
   {
    "id": "f85f274c-9370-4d6a-a25a-54944a5c595e",
@@ -124,18 +133,20 @@
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab248693-183f-4f53-b827-5813cf5f05a0.png"
   },
   {
    "id": "2d4fdda0-cfb0-4bec-9417-08c6fac229e4",
    "title": {
-    "en": "ChäoS;HEAd - Blue Complex"
+    "en": "Ch\u00e4oS;HEAd - Blue Complex"
    },
    "contentRating": "safe",
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5eb1c658-051c-4b27-b06f-03d30150ab7a.jpg"
   },
   {
    "id": "ad7a3886-8029-4be4-87af-854f76cbfb4b",
@@ -147,8 +158,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "26e281ba-d5e9-4355-8433-6d814a4695b3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:59+00:00"
+ "updatedAt": "2021-07-18T06:41:59+00:00",
+ "coverFileName": "75b2de86-38bb-486b-a8c4-09f7e8e36823.jpg"
 }

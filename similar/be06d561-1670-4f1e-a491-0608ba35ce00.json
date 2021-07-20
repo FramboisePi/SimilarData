@@ -17,7 +17,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9de74b6-6522-4904-9773-f32e6c425378.png"
   },
   {
    "id": "102ed7d8-8db3-43cd-bfa8-db4e6370530a",
@@ -31,7 +32,8 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "3ead9618-81c3-4024-a13f-cd57d17dc657.jpg"
   },
   {
    "id": "0daead18-5af8-4a1c-bbd3-94692dd969f9",
@@ -43,7 +45,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "d57e2faf-697a-401d-8b1c-36aef66d45ba.jpg"
   },
   {
    "id": "c43e75ad-b61a-40fa-975e-95c779eaaecc",
@@ -56,7 +59,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7cda5786-d00d-49cf-acb7-b0ce7191cf69.jpg"
   },
   {
    "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
@@ -67,18 +71,20 @@
    "score": 0.3761747,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6da2c298-98b0-45df-b773-89d7a474f2cb.jpg"
   },
   {
    "id": "1ee2ccdc-6eb1-4488-8dd6-beea9e7b87d2",
    "title": {
-    "en": "The Black Dragon Emperor’s Redo Adventure"
+    "en": "The Black Dragon Emperor\u2019s Redo Adventure"
    },
    "contentRating": "safe",
    "score": 0.36937994,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df29e2b3-7bc8-4b9f-be3c-6b3f7d1b5d75.jpg"
   },
   {
    "id": "5ed2558b-66e8-4413-aff8-0ff317f9f1d0",
@@ -94,7 +100,8 @@
     "ru",
     "th",
     "id"
-   ]
+   ],
+   "coverFileName": "94b410d4-ebaf-45c2-aadc-5e3388e14a6a.jpg"
   },
   {
    "id": "10905b59-b3f0-4abe-ac90-8c0e5da64900",
@@ -105,18 +112,20 @@
    "score": 0.3616239,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65ae9805-71af-4dfe-8b38-915b822eb8f2.jpg"
   },
   {
    "id": "92477248-006e-46b5-b0cb-2aa84e565626",
    "title": {
-    "en": "The Legend of New World’s Boss"
+    "en": "The Legend of New World\u2019s Boss"
    },
    "contentRating": "safe",
    "score": 0.35868314,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f99c7a76-f4e0-45d7-9729-41f5f34a81cc.jpg"
   },
   {
    "id": "a80a7e0d-808a-4894-8ba2-1e47c85b5d1a",
@@ -130,7 +139,8 @@
     "fr",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "b7623c1a-df3d-4562-9605-70173b47d3cd.jpg"
   },
   {
    "id": "9b7d93da-69ad-4d58-991a-5ed77d60ce85",
@@ -142,7 +152,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "1c120b36-33b4-494b-9e2e-b05ec97b3874.jpg"
   },
   {
    "id": "f35a8c30-3f9c-4105-818d-63673ff2c1b6",
@@ -154,8 +165,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "bf4dd9aa-3278-4add-a2e7-73a0b022c859.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:45+00:00"
+ "updatedAt": "2021-07-18T06:59:45+00:00",
+ "coverFileName": "89d43c31-6341-4e0d-ad78-2d41df0cc65f.png"
 }

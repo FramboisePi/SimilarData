@@ -1,7 +1,7 @@
 {
  "id": "f5a90a3e-35a7-493c-82f0-0f98a83d6568",
  "title": {
-  "en": "Brothers Conflict feat. Tsubaki \u0026 Azusa"
+  "en": "Brothers Conflict feat. Tsubaki & Azusa"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.97822857,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e81be3b-c558-49c4-bc28-a19572e699fd.jpg"
   },
   {
    "id": "a22cf0ba-2612-48dc-8955-86491e1c871c",
@@ -25,7 +26,8 @@
    "score": 0.64601225,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "428b6a54-97ad-4311-b4d3-85d4c99517c3.jpg"
   },
   {
    "id": "25e8f469-8c71-43f3-a018-55b35a2bf31b",
@@ -36,7 +38,8 @@
    "score": 0.427379,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d2ab3b2-6b9a-4590-b49e-d0e48d9528da.jpg"
   },
   {
    "id": "582b73d9-790b-49cc-896d-33a6ccb9bbd9",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0154ad0f-11fa-4e92-bb26-9a7dd94f0626.png"
   },
   {
    "id": "b4f18eeb-eacf-4fe2-9e64-9d0e88482e35",
@@ -59,18 +63,20 @@
    "score": 0.42352304,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a7b350ea-e78a-4fb9-9759-8e78448e9749.jpg"
   },
   {
    "id": "bdc9db7e-c08a-44f1-a1b6-a01b067104c3",
    "title": {
-    "en": "Starry☆Sky~in Spring~"
+    "en": "Starry\u2606Sky~in Spring~"
    },
    "contentRating": "safe",
    "score": 0.42329177,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6ebcc50-576f-4638-8a8b-f67e1f7a3ced.jpg"
   },
   {
    "id": "48640e22-4ac3-486b-acf5-c46ba488ddfe",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2e7f36c9-62d0-40d9-afd7-16727f85aff7.jpg"
   },
   {
    "id": "5b63b5fc-f178-498c-80b2-bfac07f06108",
@@ -95,12 +102,13 @@
     "es-la",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "42bc62f6-df47-4c15-b8f9-497b9e0bfad9.jpg"
   },
   {
    "id": "11c0c5ea-ac3f-4d94-9df6-401f65ffb9a3",
    "title": {
-    "en": "Rockin' ★ Heaven"
+    "en": "Rockin' \u2605 Heaven"
    },
    "contentRating": "safe",
    "score": 0.41855302,
@@ -108,7 +116,8 @@
     "pl",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c3d88691-88d7-4329-9e16-8f85fe53ed2c.jpg"
   },
   {
    "id": "e96f6727-6f71-4850-be7c-d07eb69ebf65",
@@ -120,7 +129,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "84fcc0f7-8625-4396-a8ab-8fe9ef1b3258.jpg"
   },
   {
    "id": "1bb3c929-8f08-4304-ae03-3f4fafb6e0f1",
@@ -133,7 +143,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "6eb9120a-ea3f-49ec-9775-bd1aff12b329.jpg"
   },
   {
    "id": "e3c0ee60-1dc2-4d32-a38c-92d54b3bbb04",
@@ -144,8 +155,10 @@
    "score": 0.41524726,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f891717d-3877-4efc-a62d-81321da3eb9b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:52+00:00"
+ "updatedAt": "2021-07-18T07:09:52+00:00",
+ "coverFileName": "f0095885-edac-4e53-af22-ee8ff8fa520d.jpg"
 }

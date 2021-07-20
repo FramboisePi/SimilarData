@@ -14,7 +14,8 @@
    "score": 0.45900202,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51c3a2a5-23b6-4851-a631-6ded1b763805.jpg"
   },
   {
    "id": "90b4ac2b-77ea-4a61-a97d-3f6417bd7dfa",
@@ -27,12 +28,13 @@
     "es",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "62e84d21-a28e-4147-8a26-ec5acc29bff1.jpg"
   },
   {
    "id": "e0300b2d-9491-4ae3-9f4e-1997aace0dcf",
    "title": {
-    "en": "Noël la neige"
+    "en": "No\u00ebl la neige"
    },
    "contentRating": "safe",
    "score": 0.45,
@@ -42,7 +44,8 @@
     "de",
     "fr",
     "bg"
-   ]
+   ],
+   "coverFileName": "6eebbbe1-85bf-4324-9c59-b609d52db989.jpg"
   },
   {
    "id": "3d314469-87cd-4a31-923f-f0fe14ccd0e8",
@@ -54,7 +57,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9cc6b6ef-9e8a-4370-89fa-b7742783ff2a.jpg"
   },
   {
    "id": "ef2bf2ee-265d-461c-a30c-a3ec1782e2f0",
@@ -66,7 +70,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "6574d5a8-26e9-44c3-bbef-9449267c4bca.jpg"
   },
   {
    "id": "5b8bc4aa-470f-41a0-b316-149e0a5144b8",
@@ -78,18 +83,20 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "981685c5-0baa-4484-9ea4-3d68322b1f43.jpg"
   },
   {
    "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
    "title": {
-    "en": "Pokémon Diamond and Pearl"
+    "en": "Pok\u00e9mon Diamond and Pearl"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fadd3904-1289-4f3d-8653-fba818b255b4.png"
   },
   {
    "id": "2874635c-54c8-43a3-ad46-b901ce6714af",
@@ -100,7 +107,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31da4eb9-3765-4448-b435-9d9b461a353a.jpg"
   },
   {
    "id": "ba129667-91ae-414d-bca8-0d316e53b113",
@@ -111,7 +119,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "539fefd3-a667-4392-a189-79bebd88bd48.jpg"
   },
   {
    "id": "03c42f22-3397-47b5-86d6-43def0cd5e7c",
@@ -123,7 +132,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f06c5f1e-bba0-4ec8-9929-c285d3df8b92.jpg"
   },
   {
    "id": "308bffdc-3544-4faf-aa23-4281e0ba9b28",
@@ -134,7 +144,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97a44f55-bcf3-4970-b0c4-c264ef734d9c.jpg"
   },
   {
    "id": "cc76b063-dc2f-446f-b3eb-be3b56c1b8d6",
@@ -147,8 +158,10 @@
     "en",
     "ca",
     "ar"
-   ]
+   ],
+   "coverFileName": "a24a5922-e161-4ee9-89f9-8c788d1db4c9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:56+00:00"
+ "updatedAt": "2021-07-18T07:09:56+00:00",
+ "coverFileName": "2850df18-f515-4de8-a803-13f60cc714fa.jpg"
 }

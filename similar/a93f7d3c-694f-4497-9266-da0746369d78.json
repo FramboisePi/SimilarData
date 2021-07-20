@@ -14,7 +14,8 @@
    "score": 0.45555937,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e2bb536-b826-4b8e-a777-67a2aeecee42.jpg"
   },
   {
    "id": "288cf9b1-eaf1-40e5-aa47-5a098f58fc94",
@@ -25,7 +26,8 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5b60f16-7aa8-4126-afd9-41ac645b4b8c.jpg"
   },
   {
    "id": "c9f4dbdc-b393-4f4e-a2be-3e95923bc724",
@@ -36,7 +38,8 @@
    "score": 0.40668938,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fedffd70-ac29-4c1b-9376-1a0cf95b2d48.jpg"
   },
   {
    "id": "defe59e0-4993-4394-aa67-dde74bbd8423",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "f63ea39a-d130-4071-a304-4c1c1448ca9b.jpg"
   },
   {
    "id": "8b3e2e12-6602-4c76-b2e3-16d8bb6d4546",
@@ -59,18 +63,20 @@
    "score": 0.3998355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8d87f57-e3e7-4d9f-b41a-3d3c4490fb41.jpg"
   },
   {
    "id": "63f3414f-fe2d-4892-8b05-8bb887673ab0",
    "title": {
-    "en": "Yome ♂"
+    "en": "Yome \u2642"
    },
    "contentRating": "safe",
    "score": 0.3998355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2ed97911-690e-43b0-9980-136010a7ae1c.png"
   },
   {
    "id": "9123c699-c8af-4542-b642-1e226b2d5ee8",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "74291e9b-5f0f-4d44-82ed-fb14448f8025.jpg"
   },
   {
    "id": "90150234-3fe6-4fe7-8d3e-9b81bab13209",
@@ -93,7 +100,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6c4ce8c-2d88-4314-9f7d-8df2a40563ca.jpg"
   },
   {
    "id": "9e338cfd-85c1-4deb-8a3c-77f409a40806",
@@ -104,7 +112,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f8620d91-b6e8-42e6-bd76-20f4f5901e31.jpg"
   },
   {
    "id": "e0a328b3-d4b7-4dad-aba0-95c025fb6734",
@@ -116,7 +125,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "405a20f1-385e-4b0e-ad23-2a9f3fe7c44b.jpg"
   },
   {
    "id": "9a7e3c10-beff-4a58-8c67-9430f6ff88d4",
@@ -127,19 +137,22 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "82db1942-95a4-47bd-9419-b4e82c55c370.jpg"
   },
   {
    "id": "0704ce72-f28c-4a99-a431-d6b78252e691",
    "title": {
-    "en": "Brother★Shuffle!"
+    "en": "Brother\u2605Shuffle!"
    },
    "contentRating": "safe",
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c7887eb-952d-4820-8fb2-f2ce04a3bee7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:55+00:00"
+ "updatedAt": "2021-07-18T06:55:55+00:00",
+ "coverFileName": "9610353f-eefa-4ef8-b119-b46ea367ce62.png"
 }

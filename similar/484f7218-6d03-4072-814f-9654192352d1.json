@@ -1,7 +1,7 @@
 {
  "id": "484f7218-6d03-4072-814f-9654192352d1",
  "title": {
-  "en": "Kamakura Deco \u0026 Kofu Life"
+  "en": "Kamakura Deco & Kofu Life"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.46388835,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b862ab6-a18f-4b25-a1c1-167451757198.jpg"
   },
   {
    "id": "38e121fe-2a2e-40d8-8a0a-e91d79a99ca9",
@@ -25,7 +26,8 @@
    "score": 0.45916384,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4aa10de-fe63-435b-8fb5-a87865b3dd22.jpg"
   },
   {
    "id": "d8989c77-48a5-4c49-84c0-8bce5b9e58a1",
@@ -36,7 +38,8 @@
    "score": 0.45908976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16ab0197-34d2-444e-8d74-82abf713c6fb.jpg"
   },
   {
    "id": "8a8e1de3-aa39-422a-a1b6-002ef0886cb0",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
   },
   {
    "id": "b04c36ae-866b-410b-917e-932e958caaa9",
@@ -59,7 +63,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "747e5325-6cb1-431b-a0bb-f9fe4a66daad.jpg"
   },
   {
    "id": "917a7307-2da5-4c7e-be23-33982be0c561",
@@ -70,7 +75,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9a43f16-e2c9-4df0-adea-2a66329cc54c.png"
   },
   {
    "id": "9c64299a-5aa8-4da1-8cc0-7aa69f049709",
@@ -81,7 +87,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90bb784e-4b53-4332-be2d-8723b3f342c4.jpg"
   },
   {
    "id": "633a5e39-ed38-4c23-bc00-977acd681780",
@@ -92,7 +99,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab3107b9-a483-4859-9ef4-4331d9ba4f4d.jpg"
   },
   {
    "id": "1538e8ed-5765-4adf-b470-2e862ec139e5",
@@ -103,7 +111,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8bb9e903-99a3-43cc-8a97-3095e01e8b0f.png"
   },
   {
    "id": "5409c5b4-353b-41b7-bd06-3220e844d0ac",
@@ -114,7 +123,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "799ca24e-e056-4628-bbde-1b5282a05c7b.jpg"
   },
   {
    "id": "e3595c7b-fa10-4a64-92ce-764f3742bd7d",
@@ -125,7 +135,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "989b1914-32e1-4006-a20d-7c08a351d9f7.jpg"
   },
   {
    "id": "944f8f69-9a9c-4678-9e0d-c8202de70cb3",
@@ -138,8 +149,10 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d28ed404-6455-44c1-b7b8-cd2ff161c99f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:55+00:00"
+ "updatedAt": "2021-07-18T06:37:55+00:00",
+ "coverFileName": "df0c87bd-31c2-4cb3-9510-feece38791e6.jpg"
 }

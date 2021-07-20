@@ -16,7 +16,8 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8d0510c0-9499-4f34-a246-9224dd3433eb.jpg"
   },
   {
    "id": "f5b7d488-5136-4ed4-a44c-88eac9dc3e7c",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b6d6bbc8-753e-4928-8911-ac36394d43c3.jpg"
   },
   {
    "id": "1d353238-8d22-49a1-bd11-5dc566936be9",
@@ -39,7 +41,8 @@
    "score": 0.40890163,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c40e414d-d2ac-4ef1-9a36-79df7cc928fb.jpg"
   },
   {
    "id": "126988be-0662-4f7d-bbe5-fe9a04e32604",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "96763d8d-7533-494c-9eab-f0c098d065e8.jpg"
   },
   {
    "id": "e048956c-da50-47aa-afeb-f0545abe8020",
@@ -62,7 +66,8 @@
    "score": 0.40688112,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d01b1b67-9609-4caf-ac21-01693fcd4d25.jpg"
   },
   {
    "id": "bfa36f4a-f5e0-4d4a-bb8a-76deb2a2f7d7",
@@ -73,7 +78,8 @@
    "score": 0.40427542,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b401d697-6b64-45ad-aecc-a455fcc2ea9a.jpg"
   },
   {
    "id": "3e04e398-6145-49fe-b9b7-f6737687b127",
@@ -85,18 +91,20 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f9ec8697-2d11-48af-8eb8-baea4ba473f1.jpg"
   },
   {
    "id": "4cb3c803-6e2e-448d-8f89-2891528d2efc",
    "title": {
-    "en": "“Ou no Saien” no Kishi to, “Yasai” no Ojou-sama"
+    "en": "\u201cOu no Saien\u201d no Kishi to, \u201cYasai\u201d no Ojou-sama"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba51893f-7858-4a09-a7e3-1a2374182973.jpg"
   },
   {
    "id": "8822f93a-39a0-4624-9dfe-d50ec97a5c09",
@@ -107,7 +115,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9f0fd0c4-02db-4628-8b45-1bb38813ede2.jpg"
   },
   {
    "id": "db46e9b8-677e-4463-bbe5-2ba006a97528",
@@ -120,7 +129,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b6dad45b-8936-4253-86cc-ba4056083126.jpg"
   },
   {
    "id": "6e116b4b-2c53-4a4d-b6c3-7bc33e332ace",
@@ -131,7 +141,8 @@
    "score": 0.3894609,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0ca9eb8-c011-411e-a9d0-65541a2f532a.jpg"
   },
   {
    "id": "7520360b-6ac6-4c47-b34c-3418f22fa477",
@@ -144,8 +155,10 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "ec25e3f7-107a-477a-91e3-b3c52a1116d7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:29+00:00"
+ "updatedAt": "2021-07-18T06:40:29+00:00",
+ "coverFileName": "09da5e9f-a9b8-47c2-804c-036dc43eadfc.jpg"
 }

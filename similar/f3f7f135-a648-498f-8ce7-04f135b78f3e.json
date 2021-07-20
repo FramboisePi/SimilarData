@@ -16,7 +16,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "395c8422-a04f-4269-8a8b-74721d63ed84.jpg"
   },
   {
    "id": "3964ad51-a435-4bf4-a37d-650d19789edd",
@@ -31,7 +32,8 @@
     "ru",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "cc05bd21-1d54-4546-91da-c0d6c9411517.jpg"
   },
   {
    "id": "051ecde7-f728-4e4f-ab4d-5589a1f07d45",
@@ -42,7 +44,8 @@
    "score": 0.41923368,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "25909f1c-5ec6-4114-b0b9-2a1a46184d43.jpg"
   },
   {
    "id": "5ed8b0ba-a476-4674-a0b6-bca09e05c471",
@@ -53,7 +56,8 @@
    "score": 0.3928276,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91a721c0-009e-4302-b401-9c06b898ba53.jpg"
   },
   {
    "id": "6bc90344-8429-4c1b-82ef-f91c1bd91c6c",
@@ -64,7 +68,8 @@
    "score": 0.3852538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e6490da-6d82-485c-88ba-a1c84cd641b0.jpg"
   },
   {
    "id": "8c34ba91-9b2d-493b-a100-6504f5600317",
@@ -75,7 +80,8 @@
    "score": 0.3809989,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18b3183f-37ff-4b6e-beb5-c9f2f81beae3.jpg"
   },
   {
    "id": "db3271a2-e4e1-4c6b-b17a-0107f15ae876",
@@ -88,7 +94,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "9ab9d7fb-46b4-4bad-a26e-1e9828fc09b6.jpg"
   },
   {
    "id": "a9dd123c-6b19-4887-8960-817f4ec7dbdd",
@@ -101,7 +108,8 @@
     "en",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "a8008b21-1be6-4b84-8f41-890f6be78f5b.jpg"
   },
   {
    "id": "5923081c-ad82-4a8b-a509-89ebe752db01",
@@ -114,7 +122,8 @@
     "en",
     "uk",
     "ar"
-   ]
+   ],
+   "coverFileName": "4520936f-0b4c-4ce3-9b11-2996a6bdf71b.jpg"
   },
   {
    "id": "ffd16489-75ff-4a6e-8698-1f733887da76",
@@ -127,18 +136,20 @@
     "fr",
     "ca",
     "en"
-   ]
+   ],
+   "coverFileName": "ed6d027b-47d6-4a12-8207-6a2b880f0d27.jpg"
   },
   {
    "id": "6f3543ca-873b-463f-9a1d-47bc261d274a",
    "title": {
-    "en": "Pocket Monsters RéBURST"
+    "en": "Pocket Monsters R\u00e9BURST"
    },
    "contentRating": "safe",
    "score": 0.37386742,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ba10aae-2f05-42ee-a240-9756b845ec26.png"
   },
   {
    "id": "3186307b-fcef-425e-a677-1a8dd19be6b2",
@@ -152,8 +163,10 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "879f6c06-28de-4388-b4c4-d3f8da8c365b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:33+00:00"
+ "updatedAt": "2021-07-18T07:09:33+00:00",
+ "coverFileName": "6ed5aefb-2266-4231-9dd2-7ac298974821.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "07053359-746d-4217-82e5-add1e2c99239",
  "title": {
-  "en": "Litchi☆Hikari Club"
+  "en": "Litchi\u2606Hikari Club"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4e9c63b3-12fc-4f6a-a457-2707ab79a7f2.jpg"
   },
   {
    "id": "91b9f2f0-e63f-4444-b1b4-552e167e089a",
@@ -28,12 +29,13 @@
     "es-la",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "e8606d7c-456e-4ada-9807-977fe9187508.jpg"
   },
   {
    "id": "9704678d-9017-446f-a31a-afbd50cef808",
    "title": {
-    "en": "Anorexia – Shikabane Hanako wa Kyoshokushou"
+    "en": "Anorexia \u2013 Shikabane Hanako wa Kyoshokushou"
    },
    "contentRating": "safe",
    "score": 0.4121457,
@@ -41,7 +43,8 @@
     "en",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "c4c3d3d0-2442-4d34-9118-53e558182ae7.png"
   },
   {
    "id": "9bd3d624-b981-4dc9-aa13-c7f1b6f293c5",
@@ -54,7 +57,8 @@
     "fr",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "16486632-a4e3-4cee-8706-24a466875473.png"
   },
   {
    "id": "54f0f2f6-5a60-440b-9887-2387f80b5a04",
@@ -68,7 +72,8 @@
     "it",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "fd398397-f591-4dd3-a95d-c4f2b1958947.jpg"
   },
   {
    "id": "fb08edfc-1eb9-4443-a43d-8f358ff0ee8f",
@@ -81,7 +86,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "54648074-426b-4c10-bc7e-7b92a4a16e5d.jpg"
   },
   {
    "id": "c64b830b-9118-4525-a462-36b5f2f1a545",
@@ -92,7 +98,8 @@
    "score": 0.3937873,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aa297696-5a8d-4121-92d2-f07e46f9d548.jpg"
   },
   {
    "id": "e4de122a-286a-47f5-8a3c-0e23bea41e1f",
@@ -106,7 +113,8 @@
     "fr",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "e63a1123-9c6a-434a-8805-21d09f9863cd.jpg"
   },
   {
    "id": "ad76791b-e23c-4f9f-90dc-2500f3635637",
@@ -118,7 +126,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ce1d47ba-240f-4123-accb-7d7e4acd4a3e.jpg"
   },
   {
    "id": "15e4d8b9-2a1e-4db0-82a9-ecd92411a0b8",
@@ -129,7 +138,8 @@
    "score": 0.38918558,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "14e810c7-4cc3-48bf-bb12-4825d957eed2.jpg"
   },
   {
    "id": "8dfc163e-c7f8-431d-9afe-4bab4d568b31",
@@ -143,7 +153,8 @@
     "pt-br",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "10f0a3fd-3af7-475a-86c1-0317a3b6d018.jpg"
   },
   {
    "id": "ccf2d977-9d0d-4a6a-8f94-c218dd0578f3",
@@ -154,8 +165,10 @@
    "score": 0.38918558,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e5ec9fa-fdff-4725-883e-a2a362ef191b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:45+00:00"
+ "updatedAt": "2021-07-18T06:25:45+00:00",
+ "coverFileName": "0812206c-ad14-40b8-9188-7f658ffb48ee.jpg"
 }

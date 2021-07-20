@@ -1,7 +1,7 @@
 {
  "id": "30d246b2-8d97-43dc-92e7-da756684958e",
  "title": {
-  "en": "Boys \u0026 Girls"
+  "en": "Boys & Girls"
  },
  "contentRating": "safe",
  "matches": [
@@ -19,7 +19,8 @@
     "pl",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b2dc3c3a-0e6e-44c4-ba17-a1bd35982afd.jpg"
   },
   {
    "id": "704fa701-bef0-43c4-a7a0-0f16c0649507",
@@ -30,7 +31,8 @@
    "score": 0.37988812,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2996a367-8a57-4045-9a7e-7a6551ee0e16.jpg"
   },
   {
    "id": "4d3125ba-7588-4496-bda3-69cafb47f198",
@@ -41,18 +43,20 @@
    "score": 0.3774754,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d77d2418-6d45-42f2-8f06-b42f5b70c237.png"
   },
   {
    "id": "43ee3b89-580d-40f2-9714-58ab848291f3",
    "title": {
-    "en": "Sirius \u0026 Mayu"
+    "en": "Sirius & Mayu"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "816b49cd-a813-4454-a54f-44c6be8596b2.jpg"
   },
   {
    "id": "f1d809dc-f159-4b5f-81b4-6c865eb29c67",
@@ -63,7 +67,8 @@
    "score": 0.3612237,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90c894a5-a179-4fc3-bfdb-9163dc564061.jpg"
   },
   {
    "id": "3683783f-e481-4926-9b88-7d49bb087103",
@@ -74,7 +79,8 @@
    "score": 0.34873974,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "709b9149-10fe-447b-b5d9-5a78d8c408eb.jpg"
   },
   {
    "id": "84071882-5007-4004-a7dd-f7a051439b99",
@@ -88,7 +94,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "925b1be9-9c19-4ac2-bb72-4d1d723d6f67.jpg"
   },
   {
    "id": "1044d8df-d550-4c43-aab1-43441976199f",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "de9c7992-14db-4bd0-a52c-995e0d20afc4.jpg"
   },
   {
    "id": "dd971c06-5480-4a0e-bab1-5ef7b6bd4e98",
@@ -111,7 +119,8 @@
    "score": 0.32283098,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e5a543d-480d-46d2-b8dd-0690fe33dfeb.jpg"
   },
   {
    "id": "3671b0d9-ca3b-42d2-93b3-0e877bc48376",
@@ -124,7 +133,8 @@
     "it",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "72b9488f-9a8c-473e-8e6b-ad1aac2768ce.jpg"
   },
   {
    "id": "3ff18603-1357-4c5a-a901-18310f32bf27",
@@ -135,7 +145,8 @@
    "score": 0.31545654,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a1f17a24-8cba-45f3-af7e-272d3f2a918b.jpg"
   },
   {
    "id": "d3beab96-7574-4fa9-a1cd-8ac7e1dc4e5c",
@@ -146,8 +157,10 @@
    "score": 0.3151866,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4bc0fc54-0657-41a2-b228-26499b5f8b2c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:32+00:00"
+ "updatedAt": "2021-07-18T06:33:32+00:00",
+ "coverFileName": "f0401fec-eeb8-431c-ae14-d571af1482fa.png"
 }

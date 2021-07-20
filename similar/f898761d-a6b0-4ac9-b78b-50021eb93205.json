@@ -21,7 +21,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "11987a46-cceb-474b-a099-ed7a890cd2c9.jpg"
   },
   {
    "id": "cf16ea31-d883-4458-8eef-72c9651373b7",
@@ -33,7 +34,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2570191c-6576-421d-8d42-8eb32250c494.jpg"
   },
   {
    "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
@@ -47,7 +49,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f41c366a-bbd8-4a38-9b19-85f9d896e116.jpg"
   },
   {
    "id": "0684c20c-2b60-44fb-aa58-fd4b4e2800bf",
@@ -60,12 +63,13 @@
     "es",
     "ro",
     "en"
-   ]
+   ],
+   "coverFileName": "3a2e8d13-0a1d-4ff4-bad7-f4017cf097c1.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.3477041,
@@ -78,7 +82,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
@@ -89,7 +94,8 @@
    "score": 0.34433258,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b8f3a83-2767-418b-9fae-1df23c893b5c.jpg"
   },
   {
    "id": "823f0015-aa41-49f5-b893-01d48089882e",
@@ -102,7 +108,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "33ad7ebb-d94e-4f53-a643-f17d13129597.png"
   },
   {
    "id": "bfe0ab22-61fd-4ba1-8667-40c516c2dddd",
@@ -114,7 +121,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e3590478-f5c2-4d92-acaa-42544ed1b9dd.png"
   },
   {
    "id": "fdb14889-59ef-48dd-a883-7558f04c2060",
@@ -127,12 +135,13 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d52d9ec3-0b45-435f-8faa-1d57b8c665db.jpg"
   },
   {
    "id": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
    "title": {
-    "en": "Fate/Grand Order -turas réalta-"
+    "en": "Fate/Grand Order -turas r\u00e9alta-"
    },
    "contentRating": "safe",
    "score": 0.33495978,
@@ -142,7 +151,8 @@
     "vi",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "ebd56cc6-b3c0-4e5f-b87a-34fdeedc11d8.jpg"
   },
   {
    "id": "35f4aecc-beaa-4652-b4e2-e3337f1fb796",
@@ -154,7 +164,8 @@
    "languages": [
     "ar",
     "ru"
-   ]
+   ],
+   "coverFileName": "e88a10b2-7c69-4018-9614-71876f83c1db.jpg"
   },
   {
    "id": "dfffa880-4154-40d1-abd2-0dff94248908",
@@ -167,8 +178,10 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0877a985-6ebd-4ba6-8334-e67acb2449c6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:23+00:00"
+ "updatedAt": "2021-07-18T07:10:23+00:00",
+ "coverFileName": "d7090e68-bd24-472c-b33e-1f14f0ffee6a.jpg"
 }

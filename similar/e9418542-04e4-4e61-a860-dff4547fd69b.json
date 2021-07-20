@@ -14,7 +14,8 @@
    "score": 0.3990229,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a47fcbea-ef80-4b6c-af10-3fcdb06d44f0.jpg"
   },
   {
    "id": "5f9d6749-6a00-46f6-a6b0-4ec2c1ed4745",
@@ -25,7 +26,8 @@
    "score": 0.3945874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ee523073-3fa4-4049-ab95-551fed454bad.jpg"
   },
   {
    "id": "ef69d7b2-91fb-41cc-969a-69ef40f188fb",
@@ -39,7 +41,8 @@
     "vi",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "cff88d8f-f5c2-474d-990d-8f0aabe56b9a.jpg"
   },
   {
    "id": "ba89669d-a5ff-4c90-a0e5-b9e916d53b5f",
@@ -52,7 +55,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "7e319fe6-8e55-47a7-82f1-72a058a81586.jpg"
   },
   {
    "id": "ea57a5b2-f905-44cf-8ebc-76764fcd7ada",
@@ -65,7 +69,8 @@
     "vi",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "eaa52373-7509-40c9-b42e-2e84c4161e19.jpg"
   },
   {
    "id": "2192f823-cdeb-43a0-b42b-c876874f036a",
@@ -79,7 +84,8 @@
     "id",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7e16f9dc-7523-47a4-a401-2d831414a173.jpg"
   },
   {
    "id": "a7d900fa-9d6a-4562-ada0-4ae80b6bd23e",
@@ -90,18 +96,20 @@
    "score": 0.36384085,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "32c3430e-827b-4551-9b71-a9a1a7f5e130.png"
   },
   {
    "id": "bd9b2aa1-4397-4700-b658-e4a3ca8ebb26",
    "title": {
-    "en": "Bread \u0026 Butter"
+    "en": "Bread & Butter"
    },
    "contentRating": "safe",
    "score": 0.3576046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f041f891-a99a-4acb-b95f-5ba41eb8c7e8.jpg"
   },
   {
    "id": "18bfe440-2670-4b45-a264-1a3adbb65d01",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "a44383e2-ca3b-4ec5-97cb-1330bb2e078b.png"
   },
   {
    "id": "65263bf9-4f87-4513-b72f-ad6436b3911c",
@@ -129,7 +138,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "7e3553a0-97fe-45e9-8440-574297ed8fdb.png"
   },
   {
    "id": "1a1c044f-4cab-468f-ba97-5d53b5ab84c9",
@@ -140,7 +150,8 @@
    "score": 0.35100734,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38eebc77-5795-42e8-bfbe-d6ce7c0010bd.jpg"
   },
   {
    "id": "82142773-19a4-4d7a-a147-e4adb25cb2fc",
@@ -151,8 +162,10 @@
    "score": 0.34937567,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0fc29282-a7d6-4e18-81af-67b4c05e5ce1.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:40+00:00"
+ "updatedAt": "2021-07-18T07:07:40+00:00",
+ "coverFileName": "0bfd8646-2e0d-42c7-a63c-ca647e492eaa.jpg"
 }

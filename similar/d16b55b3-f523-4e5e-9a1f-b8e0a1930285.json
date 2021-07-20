@@ -1,7 +1,7 @@
 {
  "id": "d16b55b3-f523-4e5e-9a1f-b8e0a1930285",
  "title": {
-  "en": "I Don’t Care. Let Me Go Home!"
+  "en": "I Don\u2019t Care. Let Me Go Home!"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,18 +16,20 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92661c89-c07c-4cf7-a858-d08d4c482ad8.jpg"
   },
   {
    "id": "5f56da4a-339f-4a28-83f2-f47d5081e001",
    "title": {
-    "en": "The Earl's Daughter Was Suddenly Employed as the Crown Prince's Fiancée"
+    "en": "The Earl's Daughter Was Suddenly Employed as the Crown Prince's Fianc\u00e9e"
    },
    "contentRating": "safe",
    "score": 0.4896404,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39ca2f67-9c26-41ee-bda6-2b621fa3d79d.jpg"
   },
   {
    "id": "8fc689d0-6841-4994-b892-4aee83e3010a",
@@ -39,19 +41,21 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "510c88e0-a031-4af3-9a42-f9dc0b3af900.jpg"
   },
   {
    "id": "0039eb9b-f6ee-408f-875f-7c5380232861",
    "title": {
-    "en": "I’m the Grand Duke's Consort Candidate, However, I Believe I Can Certainly Surpass It!"
+    "en": "I\u2019m the Grand Duke's Consort Candidate, However, I Believe I Can Certainly Surpass It!"
    },
    "contentRating": "safe",
    "score": 0.4734473,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "5dfab596-33cb-4659-a5c8-66816e90d4b5.jpg"
   },
   {
    "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
@@ -62,7 +66,8 @@
    "score": 0.45514396,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a02a8658-1dda-487a-be47-48ba9b399a37.jpg"
   },
   {
    "id": "d032cdeb-1ced-4031-8b9e-45e6064c1781",
@@ -75,7 +80,8 @@
     "en",
     "pt-br",
     "vi"
-   ]
+   ],
+   "coverFileName": "87a4e530-04c0-4475-8921-cbffe6162fc1.jpg"
   },
   {
    "id": "fe8dcdb7-92df-4a27-92d3-7a0e2d1b98ea",
@@ -86,7 +92,8 @@
    "score": 0.44921762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5e7f367-34fe-4fb7-ab86-a66ccc4f8fd2.jpg"
   },
   {
    "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
@@ -98,7 +105,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "25eb803c-119f-4543-a807-9a4f6de39412.jpg"
   },
   {
    "id": "7b591c68-61a0-4402-af87-30a1ecb5a6c4",
@@ -109,7 +117,8 @@
    "score": 0.43902326,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1050f6e-d09d-494b-9cdb-3a79e9f172f1.jpg"
   },
   {
    "id": "eda7ada1-5f8d-4b85-bf89-73add83e8458",
@@ -120,7 +129,8 @@
    "score": 0.43159172,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "07fd78dd-88f6-4429-b22b-cc03779297b9.jpg"
   },
   {
    "id": "f7a892a2-6036-42e1-bbc3-097ef5dddf95",
@@ -133,7 +143,8 @@
     "id",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "6b18f7ba-0b90-4400-9073-f2fc7d24177c.jpg"
   },
   {
    "id": "fd4f1147-c090-4a28-923e-eb4918f94d5a",
@@ -144,8 +155,10 @@
    "score": 0.43102875,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6460f7cb-8c1b-42cc-8a6b-a285cd9e96a6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:16+00:00"
+ "updatedAt": "2021-07-18T07:03:16+00:00",
+ "coverFileName": "c3b86ff0-b722-4ae3-a2ba-e3921f103665.jpg"
 }

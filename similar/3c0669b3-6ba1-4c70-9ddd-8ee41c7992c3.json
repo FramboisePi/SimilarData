@@ -8,13 +8,14 @@
   {
    "id": "370a3362-b3ea-4ba0-85bc-6f22bef01bd8",
    "title": {
-    "en": "Yuri☆Kome"
+    "en": "Yuri\u2606Kome"
    },
    "contentRating": "suggestive",
    "score": 0.39809307,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6b446c61-ad72-4395-b1c3-b00ade01d4fb.jpg"
   },
   {
    "id": "a1d13709-5206-4c71-8638-b936a4e560a5",
@@ -25,7 +26,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2287a3f5-cc21-4f68-be5a-cc9b3a2acd62.jpg"
   },
   {
    "id": "10f9112a-704b-4063-a4fe-f5727eefe013",
@@ -38,7 +40,8 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a6a7e9cd-721d-449c-8169-0e492dfefd39.jpg"
   },
   {
    "id": "7e4fc772-50b2-40c4-aff9-141182d9b9eb",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "06b95404-690a-4209-a640-5eb950b9de5a.png"
   },
   {
    "id": "428079a5-ff71-47b5-a734-cfd00b43c7d4",
@@ -61,7 +65,8 @@
    "score": 0.35641083,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8bcf2da9-8f6f-4c87-a3c7-a39a2ecc1ac7.jpg"
   },
   {
    "id": "676fdcea-1f57-4555-b341-78e4e1fd65d0",
@@ -74,7 +79,8 @@
     "ru",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "1c717043-f6b9-460d-99f7-5bfb1e007dd7.jpg"
   },
   {
    "id": "51affee0-928f-4f40-afeb-3ee6da9f1863",
@@ -85,7 +91,8 @@
    "score": 0.34272274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58e8f067-3f5a-4402-b130-02347107a018.png"
   },
   {
    "id": "56bee3bb-50f2-4c96-af1f-433866336b70",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "64baada7-9ee1-451b-ad52-f1653dec696f.jpg"
   },
   {
    "id": "e876a3d9-2ab7-4b83-bdcd-4e3700a7fab6",
@@ -108,7 +116,8 @@
    "score": 0.34272274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8358fbeb-3b2a-49b3-a939-8ea7014e6249.jpg"
   },
   {
    "id": "42127f23-904b-4e95-a872-dcfade9fdd25",
@@ -119,7 +128,8 @@
    "score": 0.34272274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f90c784d-a601-46df-b0bb-7ccfab9a41f6.png"
   },
   {
    "id": "c2622f4a-7fb0-4954-9a0f-daa1daee982e",
@@ -130,7 +140,8 @@
    "score": 0.34272274,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "84bc295d-b076-4443-b685-a56715479b59.jpg"
   },
   {
    "id": "830c9367-8ebf-4cfd-a14b-268a881da7cb",
@@ -141,8 +152,10 @@
    "score": 0.3371709,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b23fafe8-e370-4c9d-afef-37a79f0bbe1b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:38+00:00"
+ "updatedAt": "2021-07-18T06:35:38+00:00",
+ "coverFileName": "f64fcf12-2341-45cd-b415-a2057bcaf4ce.png"
 }

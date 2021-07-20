@@ -1,7 +1,7 @@
 {
  "id": "d3467ec5-45d5-4bd4-b2d1-47467b64026d",
  "title": {
-  "en": "Woman’s Hundred Faces"
+  "en": "Woman\u2019s Hundred Faces"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.49360478,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7f1f9e9b-2c83-4a8a-90f3-597d9a8328bd.jpg"
   },
   {
    "id": "90516253-b33f-4418-9cf5-1444e6ba5b86",
@@ -25,7 +26,8 @@
    "score": 0.48790613,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "920a5618-33bb-4fc4-915e-7bf1dce43d6e.jpg"
   },
   {
    "id": "bb3f8e06-9049-4b3d-9654-30bf11d65338",
@@ -36,7 +38,8 @@
    "score": 0.487434,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c98e00e-fe39-4d5a-ba6e-6959edb5d873.jpg"
   },
   {
    "id": "bfa23abe-21d3-4f3a-b3a1-20ed8b4cd539",
@@ -48,7 +51,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "8bbd3dce-8412-457d-8bd0-96dddbf7407e.jpg"
   },
   {
    "id": "aad29ac7-a9b7-4e24-80f9-accf039a5cdc",
@@ -59,7 +63,8 @@
    "score": 0.48310858,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "92950667-e13a-4b7c-b59f-f83d309ac906.jpg"
   },
   {
    "id": "642801ac-7f6e-41f1-9438-c2730c816101",
@@ -70,7 +75,8 @@
    "score": 0.48177642,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "76cdc317-af5c-4a1f-a94f-c32adb97e6a7.jpg"
   },
   {
    "id": "9d216339-2b1a-46db-a956-bb4899562010",
@@ -81,7 +87,8 @@
    "score": 0.48017824,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1819d0fc-e9bc-4e56-bec6-2419f56e007b.jpg"
   },
   {
    "id": "9fe74929-fc7c-442a-bef2-93059db87cc2",
@@ -92,7 +99,8 @@
    "score": 0.47875577,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "49d7ef3c-c12d-4524-a693-4b8041820035.jpg"
   },
   {
    "id": "f2176ac2-007e-47be-902c-6d56642eb05b",
@@ -104,7 +112,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e2f4625a-f645-4069-8c1a-700f4cfd4afd.jpg"
   },
   {
    "id": "b50425e2-fb8c-421c-b7c8-8358a400b6c8",
@@ -116,7 +125,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b1ca4318-59c7-49cc-a38b-8bab8487b946.png"
   },
   {
    "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
@@ -130,12 +140,13 @@
     "fr",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "dba5b95e-627b-45fa-bbb2-df4a273ceef9.jpg"
   },
   {
    "id": "a944aace-6f03-4298-b864-aee895acab28",
    "title": {
-    "en": "Endo and Kobayashi’s Live Commentary on the Villainess"
+    "en": "Endo and Kobayashi\u2019s Live Commentary on the Villainess"
    },
    "contentRating": "safe",
    "score": 0.4753215,
@@ -143,8 +154,10 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7a82251a-017a-4367-af90-3c0935e1b602.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:36+00:00"
+ "updatedAt": "2021-07-18T07:03:36+00:00",
+ "coverFileName": "33036228-6b30-4e3f-83b9-47e8ddee990d.jpg"
 }

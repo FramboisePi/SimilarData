@@ -1,7 +1,7 @@
 {
  "id": "f5912053-d5aa-406b-8b69-74c88cc6cd5b",
  "title": {
-  "en": "Escha \u0026 Logy no Atelier - Tasogare no Sora no Renkinjutsushi"
+  "en": "Escha & Logy no Atelier - Tasogare no Sora no Renkinjutsushi"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "280d2b5e-3ac5-40c0-b8a6-af091579445e.jpg"
   },
   {
    "id": "e8731b17-e3c1-4075-b042-bca03a9791e6",
@@ -25,7 +26,8 @@
    "score": 0.4119316,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51292641-354a-4d85-bb47-17591638c301.jpg"
   },
   {
    "id": "659637d1-1538-4068-8641-6933ffe29b77",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c1741c27-8591-4a3d-a3b0-bc969930fa4c.jpg"
   },
   {
    "id": "987a1829-f6af-47ed-9851-da48ece5b83e",
@@ -48,7 +51,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "92c0403f-7864-4eb1-948a-914043e5a580.jpg"
   },
   {
    "id": "77fb7600-bd44-401d-830c-c2af362785a6",
@@ -61,7 +65,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2b85e66a-f822-47ed-8e85-954788b4feb6.jpg"
   },
   {
    "id": "a7c5b5d5-17ce-4d08-8126-2f69a2bd9a9c",
@@ -75,7 +80,8 @@
     "es-la",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "6e66bc46-52d1-4771-8122-2fb555a7bd29.jpg"
   },
   {
    "id": "5b10c1f1-85eb-48c8-8411-ff188c14d917",
@@ -88,7 +94,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "c6225b5d-7afc-4f39-9d41-16f6870d80bf.jpg"
   },
   {
    "id": "94f85fd7-e6cf-498c-844d-3fbd55a81331",
@@ -99,7 +106,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5d7985da-8e2f-40bd-aa19-c9bbe5cad112.jpg"
   },
   {
    "id": "aa83d404-8039-4122-8677-9b2235392d37",
@@ -110,7 +118,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f62b876-093d-4e07-b272-38139275c196.jpg"
   },
   {
    "id": "8b5c31a3-9ca8-4284-ac7f-6ed30cd3e504",
@@ -121,7 +130,8 @@
    "score": 0.3485685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a65002ac-0a4d-440d-9363-d76644f7c10a.jpg"
   },
   {
    "id": "e1cb49f7-935b-4cb6-b575-ebd8e90e4566",
@@ -134,7 +144,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "98336c31-b6fd-4bf7-83d5-3fc8af79e6f0.jpg"
   },
   {
    "id": "647d7ed0-5d25-476a-84ff-5e8991af82ee",
@@ -145,8 +156,10 @@
    "score": 0.34486964,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef86e707-1a39-4c71-954a-f4f851d34a8e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:51+00:00"
+ "updatedAt": "2021-07-18T07:09:51+00:00",
+ "coverFileName": "0244170b-24a0-4b13-b348-243200e0e513.jpg"
 }

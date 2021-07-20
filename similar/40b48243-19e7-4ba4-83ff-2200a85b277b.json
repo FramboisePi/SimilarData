@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "84a89a3f-cc80-42b0-b46c-51eba4a241f7.jpg"
   },
   {
    "id": "02dfdfbf-8b72-48c8-9854-5d44ae1ddb25",
@@ -29,7 +30,8 @@
     "en",
     "de",
     "tr"
-   ]
+   ],
+   "coverFileName": "2c9e4d3a-9607-4b63-b46e-490cd0e11fca.png"
   },
   {
    "id": "fb0037e3-7b79-450a-8627-256aa7f78537",
@@ -41,7 +43,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "cc7f5424-92d5-4f55-a5ec-d3761f02da2c.jpg"
   },
   {
    "id": "beb25ef5-a947-423c-948c-2a43c038f3b4",
@@ -52,7 +55,8 @@
    "score": 0.4274552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d7ed84d-5ed5-46d3-98d1-beba5f1f28e4.jpg"
   },
   {
    "id": "7fd6f611-692e-4163-a5f8-510715c31c8d",
@@ -66,7 +70,8 @@
     "tr",
     "de",
     "it"
-   ]
+   ],
+   "coverFileName": "26fb12a0-d2d3-43e7-b1da-a71cac314ccd.png"
   },
   {
    "id": "781dee86-5fab-48da-a1e8-c45023c8d0ee",
@@ -79,7 +84,8 @@
     "tr",
     "en",
     "ro"
-   ]
+   ],
+   "coverFileName": "d2246b26-1325-4edf-86f7-4b25eb98bcf6.jpg"
   },
   {
    "id": "7f649889-6649-4305-b333-5156d647d697",
@@ -93,7 +99,8 @@
     "fr",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "1da9bd2d-95a3-4caa-8110-2e559e852df6.jpg"
   },
   {
    "id": "c1885445-1ff6-4272-8f4a-f476da937115",
@@ -105,7 +112,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b1aab975-5650-4a17-9996-f43f2be9cbf5.jpg"
   },
   {
    "id": "01e1c180-7fb3-4715-999c-5f197bd27a8c",
@@ -117,18 +125,20 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "9437193d-fd19-480c-9041-e11ffbe661df.jpg"
   },
   {
    "id": "15812a3c-0cc8-4b73-adf0-eeb1ff7792cf",
    "title": {
-    "en": "Caterpillar \u0026 Butterfly"
+    "en": "Caterpillar & Butterfly"
    },
    "contentRating": "safe",
    "score": 0.40020826,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d105e8d-d1e1-44de-b22b-8fd88a733663.jpg"
   },
   {
    "id": "a1f390cc-5eac-49b3-9a08-e2fefe4252a5",
@@ -140,7 +150,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6c842310-b19e-43f8-b500-4ae6caf6d691.jpg"
   },
   {
    "id": "da8b413c-41a7-45ee-be5d-fb01ad997b4d",
@@ -152,8 +163,10 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "fce0e5aa-e891-4a30-9fa2-97184e371c74.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:32+00:00"
+ "updatedAt": "2021-07-18T06:36:32+00:00",
+ "coverFileName": "deb77a5f-c008-42a3-802c-7852fc4a3894.jpg"
 }

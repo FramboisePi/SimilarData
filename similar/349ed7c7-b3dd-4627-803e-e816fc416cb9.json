@@ -19,7 +19,8 @@
     "fr",
     "en",
     "ms"
-   ]
+   ],
+   "coverFileName": "4cae7449-7784-4ffd-aaf7-c1f6bd58a830.jpg"
   },
   {
    "id": "4a0e8517-749c-4f86-b31c-3fbb32ed1c84",
@@ -30,7 +31,8 @@
    "score": 0.38890874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e973ff1-7696-41f0-913e-9b69abab7a5a.jpg"
   },
   {
    "id": "92cb0bb2-daca-41fc-a731-37fce4d9d69e",
@@ -42,7 +44,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "53e23e93-84f8-4e76-ae20-b360ac283e82.jpg"
   },
   {
    "id": "4c909df0-09c3-4462-8e88-614cdf52018c",
@@ -53,7 +56,8 @@
    "score": 0.38890874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fb348c05-20e5-45f2-b35e-adc1ca47de91.jpg"
   },
   {
    "id": "6fcc7e27-f51c-4b28-9acd-7f5b808769d7",
@@ -66,7 +70,8 @@
     "tr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "510f8820-0b26-4be7-9477-71576100e905.jpg"
   },
   {
    "id": "10fc6d27-79b2-45de-ac5c-142bdb8fe74b",
@@ -77,18 +82,20 @@
    "score": 0.38890874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e56d941-db59-48ce-9a93-fdc78a9301cc.jpg"
   },
   {
    "id": "b1714556-86b0-4f7b-aa5f-9fb2da10e1e7",
    "title": {
-    "en": "The Baby \u0026 Snakes"
+    "en": "The Baby & Snakes"
    },
    "contentRating": "safe",
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "354ec8fe-3bb9-4ca9-8d98-48c5527726d7.jpg"
   },
   {
    "id": "d21b4d4e-feec-4388-85ee-8d9789e08b8a",
@@ -99,7 +106,8 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90af108b-9497-401c-8f60-2d86c333936c.jpg"
   },
   {
    "id": "f4acaf90-ce56-415e-98a1-a409fac70978",
@@ -113,7 +121,8 @@
     "pl",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "e33d13b1-3383-4ff4-a299-9b020a1e0f24.png"
   },
   {
    "id": "cc19f865-c7e3-4b0a-94ee-099a817ce818",
@@ -125,7 +134,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "549a8be8-369a-409f-91e4-5d478d979c3a.jpg"
   },
   {
    "id": "570b5b99-02a2-4f0f-84d6-1251aa5ad12f",
@@ -138,7 +148,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c5e33fa6-e641-4739-97a9-c27e97838a88.png"
   },
   {
    "id": "129d2724-2604-4b60-a762-eea533cd110c",
@@ -149,8 +160,10 @@
    "score": 0.375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "875336a0-6e96-4f9b-a39f-18b3d6f90a81.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:15+00:00"
+ "updatedAt": "2021-07-18T06:34:15+00:00",
+ "coverFileName": "123156b1-39a2-45aa-8886-ed1407669665.jpg"
 }

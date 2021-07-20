@@ -16,7 +16,8 @@
     "fr",
     "ms",
     "en"
-   ]
+   ],
+   "coverFileName": "03797c37-9baf-47c0-bef8-51afdf8b7cab.jpg"
   },
   {
    "id": "749205c3-3fd8-450c-a0cc-b3b705d86078",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "ms"
-   ]
+   ],
+   "coverFileName": "28b74f47-b355-43e4-91ff-6e224e04d585.jpg"
   },
   {
    "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
@@ -45,12 +47,13 @@
     "ms",
     "ar",
     "es-la"
-   ]
+   ],
+   "coverFileName": "24a2aaa3-53fb-4c89-8785-692a2883f3b5.jpg"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.2755676,
@@ -61,7 +64,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "c875bebb-8d03-4c8e-89dd-a3235f28df62",
@@ -81,7 +85,8 @@
     "th",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "be26a716-1985-4238-964b-820a295be2c4.png"
   },
   {
    "id": "f5e3baad-3cd4-427c-a2ec-ad7d776b370d",
@@ -100,8 +105,10 @@
     "ru",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "d9b6d8f6-00d8-4eff-8dfc-d81495741ba7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:32+00:00"
+ "updatedAt": "2021-07-18T06:26:32+00:00",
+ "coverFileName": "8f00f94b-2efe-4f22-9c6d-1a0deb791873.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "e66b7390-a7f1-40df-8ed9-b7eb46b0a634",
  "title": {
-  "en": "Hirunaka Shikkaku \u0026 Heroine no Ryuusei"
+  "en": "Hirunaka Shikkaku & Heroine no Ryuusei"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "fr",
     "hu"
-   ]
+   ],
+   "coverFileName": "79f16c4f-92dd-4f60-ba4d-581f4b51b20b.jpg"
   },
   {
    "id": "b6e9a4e9-41da-427a-9073-4081b8613159",
@@ -28,7 +29,8 @@
    "score": 0.8841122,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b1c7227-e23c-444e-9f8f-365bf9c77c35.jpg"
   },
   {
    "id": "0703613c-5508-425b-9094-12d72ee5628d",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "7d34653f-503a-4fdb-9ab3-7a91eea230c8.png"
   },
   {
    "id": "3660766f-d3c6-47e1-b72d-d8ca51cc2820",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "dd7880b3-2208-4db0-b585-846281f59f7a.jpg"
   },
   {
    "id": "7f420e0f-4ee0-45fc-a772-22734ab958de",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "5ef242f9-c2a3-421c-96e0-f106712fbb8e.jpg"
   },
   {
    "id": "7058d8ae-8b21-4528-8799-11c76ff1d73c",
@@ -76,7 +81,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2b51b324-89e5-4cef-ad88-e9f64d98d206.jpg"
   },
   {
    "id": "184a6d41-c35e-4ea8-82af-36ff463a5c58",
@@ -89,7 +95,8 @@
     "es-la",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "8fff6ba0-8734-434c-af85-ec40f1362f59.jpg"
   },
   {
    "id": "639e1bd7-a9a4-46ff-9713-63268497ce43",
@@ -102,7 +109,8 @@
     "tr",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "883d6d19-47e5-4d4b-9918-5f467b4018e1.jpg"
   },
   {
    "id": "d785280c-04d2-4194-87d7-857fb72f1038",
@@ -113,7 +121,8 @@
    "score": 0.54338557,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "526e1ab3-ae96-40d0-bf9a-b64170c474fb.jpg"
   },
   {
    "id": "00148825-e802-456c-8cfd-e10ab05d58c6",
@@ -125,7 +134,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0c57fe03-1283-46ed-a91b-aec8c9952c55.jpg"
   },
   {
    "id": "90b88312-18b2-4a87-99fd-ccca64288e7b",
@@ -138,7 +148,8 @@
     "en",
     "es",
     "ru"
-   ]
+   ],
+   "coverFileName": "c5101e7a-488c-40ff-8278-a7e3658992aa.png"
   },
   {
    "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
@@ -149,8 +160,10 @@
    "score": 0.5309013,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b05efa20-3408-4f72-b0ea-33f0e57d5561.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:08+00:00"
+ "updatedAt": "2021-07-18T07:07:08+00:00",
+ "coverFileName": "77abcdc9-0e14-449e-a8ec-f666effb32b7.jpg"
 }

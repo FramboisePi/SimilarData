@@ -1,7 +1,7 @@
 {
  "id": "5b3c1545-f63a-4ae6-9827-6591a2212e3f",
  "title": {
-  "en": "Bokurano \u0026 Higurashi no Naku Koro ni - Okirakugaki (Doujinshi)"
+  "en": "Bokurano & Higurashi no Naku Koro ni - Okirakugaki (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 1.0865263,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd6fb1fd-7bf3-49a5-8d0e-ddf608b08f91.jpg"
   },
   {
    "id": "8942bc75-a6d3-4cc4-bbd5-b52b71f2f39a",
@@ -25,7 +26,8 @@
    "score": 1.0824351,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "42fd3fe2-4636-4a92-b42d-19857a6a453d.jpg"
   },
   {
    "id": "017136ad-ca5e-4b50-881a-fd276610d171",
@@ -36,7 +38,8 @@
    "score": 1.0804398,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fb61850d-d461-4ccb-91b9-c7a0ceb73db8.jpg"
   },
   {
    "id": "07e43a60-e0f7-494f-b7ed-cab185254731",
@@ -47,7 +50,8 @@
    "score": 1.0727744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "66740235-a464-41fb-9115-ea9d05f6a1a1.jpg"
   },
   {
    "id": "695c44bd-2ffa-46a6-8a3c-b4bf3c81e9db",
@@ -58,7 +62,8 @@
    "score": 1.0712634,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc3f120f-60d2-4ea1-b49d-e4c09805278d.jpg"
   },
   {
    "id": "853378e5-b801-4cb0-ade4-2d5f22fe2862",
@@ -70,7 +75,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5d50d83d-e2b2-4745-969d-3155f73b6bf2.jpg"
   },
   {
    "id": "199a2b5c-2eae-467a-9f6d-219ca4e9450d",
@@ -84,7 +90,8 @@
     "fr",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "14c38751-98a1-43ff-b8ba-da77c1b1b450.jpg"
   },
   {
    "id": "a65a5a0b-ba50-4a71-9645-1bcfebce1d6b",
@@ -97,7 +104,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8e66b2da-8032-4234-afad-31d422c882c7.jpg"
   },
   {
    "id": "e54b20ef-8db2-4e9a-ba6c-e7e226eded35",
@@ -108,7 +116,8 @@
    "score": 1.0676394,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "057edc60-f06c-490c-bf3d-fcad69eabd31.jpg"
   },
   {
    "id": "b7764e53-3395-41cf-b042-36e5d35a4e33",
@@ -123,7 +132,8 @@
     "en",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "ebb15f19-d992-4dbe-a68d-73c1924ba8e4.jpg"
   },
   {
    "id": "12dca5e5-de97-4213-995f-7f0ff1e6ecce",
@@ -135,7 +145,8 @@
    "languages": [
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "c312fc0d-e87c-4d81-a954-f3b318412403.jpg"
   },
   {
    "id": "f35f0ce0-1be7-402e-8d7a-132c81956f6d",
@@ -146,8 +157,10 @@
    "score": 1.0589331,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "34f4d6a8-5647-416e-984f-a064d24e5e99.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:27+00:00"
+ "updatedAt": "2021-07-18T06:41:27+00:00",
+ "coverFileName": "1fa4e29c-258b-4f52-bcd4-247d280dad9e.jpg"
 }

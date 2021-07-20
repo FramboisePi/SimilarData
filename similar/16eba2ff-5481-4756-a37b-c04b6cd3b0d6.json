@@ -1,7 +1,7 @@
 {
  "id": "16eba2ff-5481-4756-a37b-c04b6cd3b0d6",
  "title": {
-  "en": "Touhou - H₂O: Hell \u0026 Heaven Orchestra (Doujinshi)"
+  "en": "Touhou - H\u2082O: Hell & Heaven Orchestra (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.6643754,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af0bc1c7-9dae-4e7f-95f6-7029fc082f14.jpg"
   },
   {
    "id": "cc30dfd5-05f9-4a0b-b6ab-9898774bf18d",
@@ -25,7 +26,8 @@
    "score": 0.47026175,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7292b40d-49b0-469c-88af-bb16c6c7834d.jpg"
   },
   {
    "id": "83963f15-d12b-4b22-9198-00772ed745d4",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "0699b1f1-c183-485c-aa44-584e4402aa0b.jpg"
   },
   {
    "id": "377dfd53-29c3-4c9f-9453-6ef320b23f6a",
@@ -48,7 +51,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "73d42258-c943-4347-b04b-a0ff0d8316d4.jpg"
   },
   {
    "id": "9e26282b-d66e-4da9-8e4f-3d16c1cba4ed",
@@ -59,7 +63,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02d31a78-ee19-49c7-8aab-fe758a853a9a.jpg"
   },
   {
    "id": "29af099c-bde1-49ff-a89f-ef6bd6da107b",
@@ -70,7 +75,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4205fdd1-3045-4ac1-a0aa-4724e898256b.jpg"
   },
   {
    "id": "eed0c431-2ad6-4115-8397-c1923b5b1e41",
@@ -83,7 +89,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "bed9fcf2-e44e-45eb-ab64-ec661ef49856.jpg"
   },
   {
    "id": "1552bb34-9c22-4f12-b28f-044da1727e00",
@@ -94,7 +101,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eac1a7ab-a81d-48c7-b38f-99f872f42b74.jpg"
   },
   {
    "id": "42ea091a-03af-45f1-9365-ca80fd607ddd",
@@ -105,7 +113,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ccfd3a6f-6968-44ea-8ffe-9e085c0602b9.jpg"
   },
   {
    "id": "188c3844-4f6e-4c74-a418-fddf7ab56996",
@@ -116,7 +125,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ffcf080e-5441-4df1-9498-2b057cafaf7e.jpg"
   },
   {
    "id": "086dbe99-f556-4555-b6f3-44a4f6b34d76",
@@ -127,7 +137,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d92597c5-4f64-4d00-b6de-fbce0044c3f4.jpg"
   },
   {
    "id": "5f431fa4-ee68-47ac-8d04-3279a8f2b463",
@@ -142,8 +153,10 @@
     "pt-br",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "3436d120-6357-4b85-a037-69f2e24f266c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:46+00:00"
+ "updatedAt": "2021-07-18T06:28:46+00:00",
+ "coverFileName": "4e507d0f-8137-4078-88eb-18d43c250741.jpg"
 }

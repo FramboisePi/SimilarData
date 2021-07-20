@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "9530ac5f-0d79-4e78-adfc-6e42c35db4f3.jpg"
   },
   {
    "id": "09c3e582-02b0-4c5d-8693-5c89099677d1",
@@ -27,7 +28,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "4cc2eea6-7f0c-4321-aa5d-7247a7f8740a.jpg"
   },
   {
    "id": "e4dce395-e3fd-429d-b138-d017fff8797e",
@@ -43,7 +45,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "0679efce-1c89-42b2-b69e-9d31c2cbeb30.jpg"
   },
   {
    "id": "617f648f-1000-4c4e-b1a3-42862f929dfd",
@@ -57,7 +60,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1e1f437-cb3d-4bde-b703-359993eb563a.jpg"
   },
   {
    "id": "7ab1372a-fee2-4e4b-b82a-a2c8affdac35",
@@ -69,7 +73,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "d843f4ce-60e2-468a-b71c-c84081a9b3f8.jpg"
   },
   {
    "id": "9fb4859e-1833-43ac-afcf-131f2e2916c2",
@@ -82,7 +87,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c35b1bf1-449f-420d-96e4-ff5943ab94c1.jpg"
   },
   {
    "id": "4a251ad9-abfe-456e-9b3b-5f68725d32ad",
@@ -97,7 +103,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "42b9bfa3-a621-408a-afba-53e10d880ac0.jpg"
   },
   {
    "id": "dc5a908c-ddf9-4a0d-94f3-1f1c4cb368bd",
@@ -108,18 +115,20 @@
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c540496f-e68a-4c0f-b981-811dfc851912.jpg"
   },
   {
    "id": "b7077310-757a-47d0-ae86-ac7ae70c2974",
    "title": {
-    "en": "Aisareru yori ￮ Saretai"
+    "en": "Aisareru yori \uffee Saretai"
    },
    "contentRating": "safe",
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94571e82-66b7-4e7d-b4a1-973d376dbf7e.jpg"
   },
   {
    "id": "356dfa2b-05e3-45c2-91d6-eb02da8907c6",
@@ -130,7 +139,8 @@
    "score": 0.32703075,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ccbe839e-ac1b-4d41-85f1-da2a07e31736.jpg"
   },
   {
    "id": "82e39111-8b42-4531-bd75-a439f05fd044",
@@ -142,7 +152,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "7e31a925-e44b-4141-9d6d-32130e80e9ba.jpg"
   },
   {
    "id": "71b8f96b-c34d-4e09-8086-d2d409d4e75d",
@@ -154,8 +165,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "65a3ec3a-395b-4257-b3f5-c4d8ebbf88de.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:21+00:00"
+ "updatedAt": "2021-07-18T07:11:21+00:00",
+ "coverFileName": "d88f7e56-6db3-4382-98a8-74354cea3cf3.jpg"
 }

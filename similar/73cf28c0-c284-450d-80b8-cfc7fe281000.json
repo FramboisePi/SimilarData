@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "2270c9e9-9a39-4698-9bb7-d373ca72b4c4.jpg"
   },
   {
    "id": "4c0c0075-f700-41a8-b794-84669715c011",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3be2f4f2-0145-4e32-9315-397dbedf0b6a.png"
   },
   {
    "id": "ae4bfc08-7a09-4806-a605-cee938be01f5",
@@ -41,18 +43,20 @@
     "it",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1ebf6ea8-da17-48ba-808c-73a570f89a53.jpg"
   },
   {
    "id": "9c94322b-0565-413b-b862-58706cbcd26b",
    "title": {
-    "en": "Trompe-l'œil no Yubisaki"
+    "en": "Trompe-l'\u0153il no Yubisaki"
    },
    "contentRating": "safe",
    "score": 0.46786878,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0da62f3e-3171-421c-8c2a-d87aa6512d42.jpg"
   },
   {
    "id": "63607e82-881b-4c15-8cb0-3af102d071c8",
@@ -65,7 +69,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "1f54d67e-914e-4f7d-a176-58fb67f0633b.jpg"
   },
   {
    "id": "542332d3-2643-4045-b180-0cbf1140c572",
@@ -77,7 +82,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "64ccf334-a87e-4269-bc08-4198f15f8663.png"
   },
   {
    "id": "ac72bdad-df12-4c1f-a28c-8bb1053ecc34",
@@ -88,7 +94,8 @@
    "score": 0.46502537,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1daf5776-25de-4c0b-89ae-ad1755963ba0.jpg"
   },
   {
    "id": "29742229-9b01-436b-ab62-a84ebf8c6f26",
@@ -99,7 +106,8 @@
    "score": 0.46439782,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5923478f-f654-4768-814b-9992287a22f5.jpg"
   },
   {
    "id": "49d2d88c-64d4-43a3-a2ad-e77af3728f14",
@@ -110,7 +118,8 @@
    "score": 0.46282178,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "beddf1e8-005a-4fd9-a3aa-38ca56326837.jpg"
   },
   {
    "id": "5db47a11-9db5-4675-a3f8-2b4b8b83fa95",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "24ea363c-73cc-496d-9e0f-297bf52193c9.jpg"
   },
   {
    "id": "40a94020-ca90-413f-9e5c-8b33ba90a838",
@@ -133,7 +143,8 @@
    "score": 0.4585931,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ec03c8c-71af-4eb0-a273-1939db500bb4.jpg"
   },
   {
    "id": "b25ef2f6-95f4-4f79-9f73-fed2317319f4",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "3f2c5160-ed63-438e-bc94-f0c1aa98c5e6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:54+00:00"
+ "updatedAt": "2021-07-18T06:45:54+00:00",
+ "coverFileName": "5edc999d-08f9-4b45-bd4b-5951b561d55d.jpg"
 }

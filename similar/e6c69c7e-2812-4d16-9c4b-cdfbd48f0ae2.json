@@ -1,20 +1,21 @@
 {
  "id": "e6c69c7e-2812-4d16-9c4b-cdfbd48f0ae2",
  "title": {
-  "en": "Fate/stay night \u0026 Fate/hollow ataraxia - Kore demo Watashi no Goshujin-sama (Doujinshi)"
+  "en": "Fate/stay night & Fate/hollow ataraxia - Kore demo Watashi no Goshujin-sama (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "effc7592-6cbc-4e34-b859-d51f330aeac4",
    "title": {
-    "en": "Touhou - U.S.C. Yuka’s Flower Shop (Doujinshi)"
+    "en": "Touhou - U.S.C. Yuka\u2019s Flower Shop (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.46195444,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "596d5ce0-6484-40da-82ac-34efa2241ef4.jpg"
   },
   {
    "id": "0ab72ab7-7efc-4082-8a7d-533d22c39902",
@@ -26,18 +27,20 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c7ddd149-71ad-4f11-b486-c95c99800f31.jpg"
   },
   {
    "id": "a17670db-7494-431f-ae0a-064d1650290a",
    "title": {
-    "en": "Uta no☆Prince-sama♪ - Suite Prince-sama (Doujinshi)"
+    "en": "Uta no\u2606Prince-sama\u266a - Suite Prince-sama (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1384fcb9-2472-4774-8d00-d7ded39c35e4.png"
   },
   {
    "id": "5e747ca4-ebb8-409b-ab7b-9473680278e9",
@@ -48,7 +51,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "131811e8-d717-4db2-bc1f-23afea62e53e.jpg"
   },
   {
    "id": "2e088d1f-34f5-4fd4-8e7a-5085c172a91d",
@@ -59,7 +63,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "22da97a5-4d05-4183-9aef-38629a67b9aa.jpg"
   },
   {
    "id": "4ce34ec1-2f44-44e8-a6ab-2a2323c3ea42",
@@ -70,7 +75,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c7431662-2e6b-4ea7-b4c7-c130814d34f7.jpg"
   },
   {
    "id": "fb942da2-79e8-488f-9976-8bb9efa9d405",
@@ -81,7 +87,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8da0f78a-3d12-4c00-9b77-4c96084944c8.jpg"
   },
   {
    "id": "6f8be3f5-fee4-4ef8-9bdd-30bd3cbdb5af",
@@ -92,7 +99,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3fa20d5b-33db-4127-be83-361df19b3604.jpg"
   },
   {
    "id": "cd31bcda-2b9d-412e-9139-48d817ae5a60",
@@ -103,7 +111,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47d82166-2ea6-45ae-89e5-d2c3d06bd68e.jpg"
   },
   {
    "id": "13b95f83-160c-4612-b76d-4f11a5cb08a5",
@@ -114,18 +123,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16e56359-1589-426e-9d36-e10fae48b5d1.jpg"
   },
   {
    "id": "0c7cdcfd-69db-4b16-8a85-5a8bd7b02dce",
    "title": {
-    "en": "Shingeki no Kyojin - Hey Corporal, Don’t Think You’ve Won (Doujinshi)"
+    "en": "Shingeki no Kyojin - Hey Corporal, Don\u2019t Think You\u2019ve Won (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "509130d3-89a9-4336-8429-b41f63bf202e.jpg"
   },
   {
    "id": "fbc3b9da-13c2-473d-aa54-e0066d00140d",
@@ -136,8 +147,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7af3c4c0-7511-4da7-9dc7-0bc3f8512842.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:12+00:00"
+ "updatedAt": "2021-07-18T07:07:12+00:00",
+ "coverFileName": "047e2167-1919-4e6f-8283-98e763a443c3.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "76d5aead-ebc8-4eb5-ba0a-3e404aa10210",
  "title": {
-  "en": "Togainu no Chi – Maximum Impulse"
+  "en": "Togainu no Chi \u2013 Maximum Impulse"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "7e5d925b-36f2-42fe-b027-7ff7835feffe.jpg"
   },
   {
    "id": "36eeac92-5ba2-4db3-89d5-a0d947d96ce3",
@@ -26,29 +27,32 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "c8539089-7dee-4cbf-b7fa-b835f43e17b7.jpg"
   },
   {
    "id": "d4f3f65e-4b71-4228-b613-48bee18c65b6",
    "title": {
-    "en": "Togainu no Chi – Acid Color"
+    "en": "Togainu no Chi \u2013 Acid Color"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "3f878da1-5df0-4f20-9b23-23ddda108e92.jpg"
   },
   {
    "id": "5c740a42-b2bd-4df4-b9ae-ed1da5efdd5c",
    "title": {
-    "en": "Togainu no Chi – Mekakushi Oni"
+    "en": "Togainu no Chi \u2013 Mekakushi Oni"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "b7ab17a6-2daa-461c-9640-3d4eeff77519.jpg"
   },
   {
    "id": "7f698377-e110-4860-807b-340f2e2f7d1e",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "bb03421b-dec9-44a3-bb35-c9b989b9ab4d.jpg"
   },
   {
    "id": "f1c0267f-1812-4dd7-988b-da46a43ffce6",
@@ -71,7 +76,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "e569edd2-4b77-49d1-83aa-3f4a0382dccb.png"
   },
   {
    "id": "6c8de433-54d7-4eaf-92d1-f2186464665b",
@@ -82,51 +88,56 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "3a6bd811-d8a1-43af-ad8b-37b21f5d15df.jpg"
   },
   {
    "id": "d2b92655-768f-48a0-a974-f31f5b4df156",
    "title": {
-    "en": "Togainu no Chi – Blip Noise"
+    "en": "Togainu no Chi \u2013 Blip Noise"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "250ec3a3-b7d8-4518-a5fd-31e7ee3ba4f1.jpg"
   },
   {
    "id": "7b1d603e-f5bb-4894-86f8-ba49271d2ab3",
    "title": {
-    "en": "Psycho-Pass – Platonic Garden"
+    "en": "Psycho-Pass \u2013 Platonic Garden"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "34f16328-00a4-4371-b8e0-54849b89c49e.jpg"
   },
   {
    "id": "e39b29e1-5b03-48f6-a7ca-e1a203288c5a",
    "title": {
-    "en": "Lamento – Overflow"
+    "en": "Lamento \u2013 Overflow"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "fbd4d9e4-56af-4615-8877-71ef7a2f15cc.png"
   },
   {
    "id": "27db706f-0a8b-400f-928e-60ee1e544eb9",
    "title": {
-    "en": "Lamento – Come into Blossom"
+    "en": "Lamento \u2013 Come into Blossom"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "eb961da1-09d2-4a31-8ecd-4a4577f13283.jpg"
   },
   {
    "id": "c0ef621c-97fd-442e-b44f-62318f5913b1",
@@ -137,8 +148,10 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "03ba5be1-c104-473c-af6c-3b3680fe5a65.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:28+00:00"
+ "updatedAt": "2021-07-18T06:46:28+00:00",
+ "coverFileName": "94d90c4a-730f-4dbf-b902-3517b6e47177.jpg"
 }

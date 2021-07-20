@@ -19,7 +19,8 @@
     "ru",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "b28a187e-b622-411c-96e8-086308e7b9ab.jpg"
   },
   {
    "id": "04a2b91d-1aa8-4db6-85a7-6bbc99919670",
@@ -32,7 +33,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "11e55ffd-9982-4515-a1e9-8a5b139e1cfa.jpg"
   },
   {
    "id": "db2f4896-31ce-4447-ac4c-9a1e66593919",
@@ -43,7 +45,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b21405a-1626-45b0-be57-b378cff5f37f.jpg"
   },
   {
    "id": "41bd408e-e78a-46b8-bcce-43f3157c7106",
@@ -54,7 +57,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2a20543-2529-4ddc-b8be-6128cd9ea569.jpg"
   },
   {
    "id": "513ad1c7-8277-4fb8-a83c-a946514e319f",
@@ -66,18 +70,20 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "a7bfafd7-8ea3-43a5-8374-d248009465a7.png"
   },
   {
    "id": "b82e89ce-5ed7-440a-ba9f-3dd27f2f1921",
    "title": {
-    "en": "Saishu \u0026 Roido Meru!!"
+    "en": "Saishu & Roido Meru!!"
    },
    "contentRating": "suggestive",
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a47da09b-4578-4e8d-b826-dd049bdf0c82.jpg"
   },
   {
    "id": "86c977b7-91de-4754-b5f8-ad775c485b9c",
@@ -88,7 +94,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3cf1c433-2600-4919-b4aa-c6beb32eeda9.jpg"
   },
   {
    "id": "dd3eb9d8-f4c1-47fa-a23b-cf135b917262",
@@ -99,7 +106,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bd7756ef-d1e2-494c-85f9-571cf4580b79.jpg"
   },
   {
    "id": "c25b4e0e-d1c8-4c8e-ad5c-225676f72cfc",
@@ -110,7 +118,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b708b4a-4656-4e87-b0cd-ad14d24b07b4.jpg"
   },
   {
    "id": "4162b06b-3f7e-4e6e-b27b-1e48b88c5204",
@@ -122,7 +131,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4ec3eebd-da3e-4378-902e-d89ee9086456.jpg"
   },
   {
    "id": "4d152145-da86-45eb-bc4b-9e328cb55a6e",
@@ -134,7 +144,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "0ab547ff-e96d-4e16-96f7-df591fa7dddc.jpg"
   },
   {
    "id": "c9292a30-f04a-4621-b45b-cfc5a1868cb7",
@@ -149,8 +160,10 @@
     "tr",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "bf1dac81-8c7b-40d0-855c-1d3c4b4644d7.png"
   }
  ],
- "updatedAt": "2021-07-18T06:50:17+00:00"
+ "updatedAt": "2021-07-18T06:50:17+00:00",
+ "coverFileName": "5a011564-c82b-44db-a312-51d7753cda5e.jpg"
 }

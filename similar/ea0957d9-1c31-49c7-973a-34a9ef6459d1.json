@@ -14,7 +14,8 @@
    "score": 0.43242103,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a0fee7ff-b680-4f8a-a319-d3c75cac2b29.jpg"
   },
   {
    "id": "34bcb857-920f-4751-b113-a324157621d7",
@@ -27,7 +28,8 @@
     "en",
     "ru",
     "ms"
-   ]
+   ],
+   "coverFileName": "1c777b02-7f1f-4046-a313-6bd78aa4fb0b.jpg"
   },
   {
    "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
@@ -40,7 +42,8 @@
     "en",
     "hu",
     "tr"
-   ]
+   ],
+   "coverFileName": "ca8f730c-fa84-4c7a-9420-7cc0547f71dd.jpg"
   },
   {
    "id": "83681018-2b22-4ea0-ab05-43749e73035b",
@@ -56,7 +59,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "66930f45-88a2-481b-b33a-a2d417319904.jpg"
   },
   {
    "id": "c3a4f78b-a2c1-490a-9ec0-cdffe21f8f70",
@@ -69,7 +73,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b454c07c-e433-4ee7-9ab0-4faff7078639.jpg"
   },
   {
    "id": "4a76bf77-f757-46bd-9d82-f2a579bb1c63",
@@ -81,7 +86,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "3223a428-945e-484e-a3c5-9b8252df9fce.png"
   },
   {
    "id": "16c41b90-c9be-49eb-be31-b02648598202",
@@ -92,7 +98,8 @@
    "score": 0.36685777,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f41dadf-2f9e-402f-8111-a64ddbffe741.jpg"
   },
   {
    "id": "13f5054b-045d-48fe-bc5b-fe146c4c9733",
@@ -103,7 +110,8 @@
    "score": 0.3580134,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4cb31e1-3a2a-485d-9bf8-79c6a9c9ca90.jpg"
   },
   {
    "id": "50165dc6-d7d8-4d66-811f-bb079641d772",
@@ -114,7 +122,8 @@
    "score": 0.3558359,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b8233563-cdce-411b-b12f-dd8ba58c1911.jpg"
   },
   {
    "id": "e96b9209-2f0f-423b-9736-0c5d3a9788ba",
@@ -127,18 +136,20 @@
     "pt-br",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "a0cbc3c0-1f12-4b5f-b467-be3d0c638b13.jpg"
   },
   {
    "id": "cf6700ad-b431-4d58-b6b1-cd0543e472be",
    "title": {
-    "en": "Taishou Roman Seiyou Ga ̄ru"
+    "en": "Taishou Roman Seiyou Ga \u0304ru"
    },
    "contentRating": "safe",
    "score": 0.353499,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0fc9331-b062-4bdf-bbf8-64cae6f99b81.jpg"
   },
   {
    "id": "9a0525d0-6320-4c38-a527-7084177a754c",
@@ -149,8 +160,10 @@
    "score": 0.35319287,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5040a2ad-0eff-49b9-9098-6939eeacab18.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:07:48+00:00"
+ "updatedAt": "2021-07-18T07:07:48+00:00",
+ "coverFileName": "863de3c5-568a-4a7b-952c-88df0c431bd1.jpg"
 }

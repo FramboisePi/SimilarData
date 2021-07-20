@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "34c2a874-205d-4e52-b2b1-c442330c8956.jpg"
   },
   {
    "id": "a6cae56a-1be3-4a8f-8737-a3f3d24e17e3",
@@ -28,7 +29,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "40824bef-11a3-4555-9dbf-fb865e08e972.jpg"
   },
   {
    "id": "8a63f910-2d6e-43bb-9c5d-fd8ab2d1264b",
@@ -39,7 +41,8 @@
    "score": 0.4655828,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28074f96-83d7-4046-b509-d37a36104916.jpg"
   },
   {
    "id": "401a7769-588f-4ea1-ae70-d83aea7fd965",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "0599e23c-4b5c-4941-89d2-16c183f8ecaa.jpg"
   },
   {
    "id": "1f40b922-6abb-418e-a7e9-cc4d25b21439",
@@ -65,7 +69,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "2adbc5b5-37f8-42d0-ba40-04f5aed2d539.jpg"
   },
   {
    "id": "1c83c0e9-c74f-491c-97d8-db0e4e7dc707",
@@ -79,7 +84,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "37b4faf6-56f8-4b9d-82fb-b5ca7377b2c1.png"
   },
   {
    "id": "cbb22826-963e-4602-a5cd-a50c75723d59",
@@ -94,7 +100,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f26a64b7-169e-4692-b252-4defc74d7b89.jpg"
   },
   {
    "id": "70fe972b-3c88-4165-b9a5-3db96d6d2c14",
@@ -110,7 +117,8 @@
     "pt-br",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "93ee98a6-9415-4a46-b430-de6aa2de781c.jpg"
   },
   {
    "id": "b00f5d5f-0801-4ad5-b343-1f229a7bd404",
@@ -121,7 +129,8 @@
    "score": 0.4452558,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c29289a7-dcad-4392-861e-5008cd050b51.jpg"
   },
   {
    "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
@@ -141,12 +150,13 @@
     "fr",
     "vi",
     "ar"
-   ]
+   ],
+   "coverFileName": "d5b67cf3-f614-4754-b785-6b5d231c535b.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.4429452,
@@ -159,7 +169,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "f7901d23-e934-468e-88de-f407f478cd24",
@@ -171,8 +182,10 @@
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "f4ea1dbd-c16b-4f03-83fc-0f30c69e6e07.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:03+00:00"
+ "updatedAt": "2021-07-18T06:34:03+00:00",
+ "coverFileName": "6e197cdf-c390-4a64-92cf-4a070d707459.jpg"
 }

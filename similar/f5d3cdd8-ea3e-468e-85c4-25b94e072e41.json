@@ -1,7 +1,7 @@
 {
  "id": "f5d3cdd8-ea3e-468e-85c4-25b94e072e41",
  "title": {
-  "en": "バキ外伝 烈海王は異世界転生しても一向にかまわんッッ"
+  "en": "\u30d0\u30ad\u5916\u4f1d \u70c8\u6d77\u738b\u306f\u7570\u4e16\u754c\u8ee2\u751f\u3057\u3066\u3082\u4e00\u5411\u306b\u304b\u307e\u308f\u3093\u30c3\u30c3"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "7f2ca59d-6566-4ef3-8dd2-564bba80c24f.jpg"
   },
   {
    "id": "ff5bbffe-abd3-44b2-b3aa-8c9c4c56ba94",
@@ -29,7 +30,8 @@
     "fr",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "be1f1e2a-2829-41ba-9dc6-56055b507206.png"
   },
   {
    "id": "eba602f3-5e5d-48ff-b054-d7776181e27c",
@@ -42,7 +44,8 @@
     "en",
     "ru",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "6f7ba042-5475-4046-8c63-5e91f683099e.jpg"
   },
   {
    "id": "34ff0e60-f22f-48c9-8cb3-4b3ea6d86afa",
@@ -54,12 +57,13 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "af3e6886-b9d0-4649-9077-0f82dd4ce3bb.jpg"
   },
   {
    "id": "6b958848-c885-4735-9201-12ee77abcb3c",
    "title": {
-    "en": "SPY×FAMILY"
+    "en": "SPY\u00d7FAMILY"
    },
    "contentRating": "safe",
    "score": 0.30186918,
@@ -74,7 +78,8 @@
     "lt",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "f28f1354-a78a-4d81-9a3c-645dd1290eb3.jpg"
   },
   {
    "id": "55487d3f-bb46-4c48-933e-80e707a4f3dc",
@@ -88,7 +93,8 @@
     "pt-br",
     "zh-hk",
     "fr"
-   ]
+   ],
+   "coverFileName": "82ef1325-7854-4585-bb12-818d2acf687a.jpg"
   },
   {
    "id": "f25a8b44-0ee1-4025-8c81-f996d887649c",
@@ -103,7 +109,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1a4ab53-e4fb-4a5f-8b09-1ede7052a3df.jpg"
   },
   {
    "id": "d31d0aee-c7df-481f-ac60-bce111cdd8b0",
@@ -119,7 +126,8 @@
     "en",
     "vi",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a34d4872-6ebf-41da-be93-8086cbab1cae.jpg"
   },
   {
    "id": "f3f7f135-a648-498f-8ce7-04f135b78f3e",
@@ -132,7 +140,8 @@
     "zh-hk",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6ed5aefb-2266-4231-9dd2-7ac298974821.jpg"
   },
   {
    "id": "359441d4-63f7-426c-b914-c636578ddcb0",
@@ -144,7 +153,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "6ee0afdd-a2b5-445b-9d29-8df7e560b42f.jpg"
   },
   {
    "id": "789642f8-ca89-4e4e-8f7b-eee4d17ea08b",
@@ -163,7 +173,8 @@
     "zh-hk",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "10f7def1-e8b4-47c2-a1a2-f7cf0936bca5.jpg"
   },
   {
    "id": "4801f266-cc4e-4c3b-8d1d-f50f08b25b62",
@@ -177,8 +188,10 @@
     "pt-br",
     "ru",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "15dd62e2-b40e-4b8c-b5c9-21f4b6d3ce66.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:55+00:00"
+ "updatedAt": "2021-07-18T07:09:55+00:00",
+ "coverFileName": "2a840135-46f1-4e03-96cb-158efd479a57.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "2f3b222f-7bcf-46a5-ad5f-002eb0dab04d",
  "title": {
-  "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - There’s No Way I’m a Little Sister! (Doujinshi)"
+  "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - There\u2019s No Way I\u2019m a Little Sister! (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c408f001-a311-4fd0-8781-e39fd7a5e728.png"
   },
   {
    "id": "46f34163-f932-488a-9c4a-b7e3cae2bd9d",
@@ -25,7 +26,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6621e54e-9631-4e4d-9ac7-a4a8f14973ef.jpg"
   },
   {
    "id": "16b4b0ef-5794-4c4a-9372-64b5eb8b6cbe",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b66b472b-dc43-4f26-9338-82cd2b279108.png"
   },
   {
    "id": "07c1eeab-3185-4932-a975-132f2115d6bd",
@@ -50,7 +53,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f3357984-1792-489d-a4d7-e6287c957c4b.png"
   },
   {
    "id": "3aaedce3-59a1-411f-a692-8df091100a51",
@@ -61,7 +65,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fbec6bf-2c3a-4004-842f-3cabed691610.jpg"
   },
   {
    "id": "8f87fc03-a238-4f56-841d-1998f735b49d",
@@ -72,7 +77,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f60eef8-afd6-4c9d-bb1d-63467013f78a.jpg"
   },
   {
    "id": "23c74d18-3dca-4fe8-9e54-0cb55b7b0dcd",
@@ -84,7 +90,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "cd2f4135-864d-417a-8869-a09386ed391e.jpg"
   },
   {
    "id": "714860b6-67ec-4b26-98c6-3decd1227ba7",
@@ -95,7 +102,8 @@
    "score": 0.37560377,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "96314ed1-5e41-4a7c-9bb5-d891b0db0198.jpg"
   },
   {
    "id": "c52a7231-87ef-4b73-acab-9d3421fb956b",
@@ -106,7 +114,8 @@
    "score": 0.37560377,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81b661b2-f446-47ef-b614-72d6a8423440.jpg"
   },
   {
    "id": "1cf824ec-78d4-481f-bd8c-a6a8cc62300b",
@@ -117,7 +126,8 @@
    "score": 0.37560377,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f336984f-1644-4177-9e7c-ed95f88affe5.jpg"
   },
   {
    "id": "98eda515-a8a8-4072-8234-8693221beccb",
@@ -128,7 +138,8 @@
    "score": 0.37560377,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dc4a8f6b-054c-4595-a98e-275ad4367089.jpg"
   },
   {
    "id": "50cd1057-69b7-47cf-a063-ac283c5fe41e",
@@ -139,8 +150,10 @@
    "score": 0.37560377,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f18ff5e9-4e24-488f-9942-9acbf5f0d7c4.png"
   }
  ],
- "updatedAt": "2021-07-18T06:33:15+00:00"
+ "updatedAt": "2021-07-18T06:33:15+00:00",
+ "coverFileName": "018421f4-8527-4571-8c44-3a183013b5be.jpg"
 }

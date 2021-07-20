@@ -29,7 +29,8 @@
     "zh-hk",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "9e506691-e36a-4eac-955a-a89ebba931dd.jpg"
   },
   {
    "id": "c9146d61-80d0-48f6-a794-de56d728171b",
@@ -43,12 +44,13 @@
     "id",
     "ms",
     "vi"
-   ]
+   ],
+   "coverFileName": "163cdf25-3cd7-48d4-81b1-f673ecd54c03.jpg"
   },
   {
    "id": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
    "title": {
-    "en": "Nan Hao \u0026 Shang Feng"
+    "en": "Nan Hao & Shang Feng"
    },
    "contentRating": "safe",
    "score": 0.31754264,
@@ -65,7 +67,8 @@
     "en",
     "pl",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dee49d8b-ff54-48b0-9e55-d8a9604c9086.png"
   },
   {
    "id": "8a7c02b8-7ac1-41e6-8961-760e92648dd1",
@@ -79,7 +82,8 @@
     "en",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "a385afad-22f0-4932-b009-9b5340f87b1c.jpg"
   },
   {
    "id": "f5e3baad-3cd4-427c-a2ec-ad7d776b370d",
@@ -98,7 +102,8 @@
     "ru",
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "d9b6d8f6-00d8-4eff-8dfc-d81495741ba7.jpg"
   },
   {
    "id": "749205c3-3fd8-450c-a0cc-b3b705d86078",
@@ -110,7 +115,8 @@
    "languages": [
     "en",
     "ms"
-   ]
+   ],
+   "coverFileName": "28b74f47-b355-43e4-91ff-6e224e04d585.jpg"
   },
   {
    "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
@@ -127,7 +133,8 @@
     "ms",
     "ar",
     "es-la"
-   ]
+   ],
+   "coverFileName": "24a2aaa3-53fb-4c89-8785-692a2883f3b5.jpg"
   },
   {
    "id": "c875bebb-8d03-4c8e-89dd-a3235f28df62",
@@ -147,12 +154,13 @@
     "th",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "be26a716-1985-4238-964b-820a295be2c4.png"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.101036295,
@@ -163,7 +171,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "f9c33607-9180-4ba6-b85c-e4b5faee7192",
@@ -191,8 +200,10 @@
     "nl",
     "my",
     "zh"
-   ]
+   ],
+   "coverFileName": "c18da525-e34f-4128-a696-4477b6ce6827.png"
   }
  ],
- "updatedAt": "2021-07-18T06:55:00+00:00"
+ "updatedAt": "2021-07-18T06:55:00+00:00",
+ "coverFileName": "2ede999a-9730-445e-9e1a-ca286af10687.jpg"
 }

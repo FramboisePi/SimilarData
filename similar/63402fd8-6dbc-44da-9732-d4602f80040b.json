@@ -1,7 +1,7 @@
 {
  "id": "63402fd8-6dbc-44da-9732-d4602f80040b",
  "title": {
-  "en": "Senpai! Let's Have an Office Romance ♪"
+  "en": "Senpai! Let's Have an Office Romance \u266a"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6bf01570-c3bf-427c-9fba-fad323bd31ec.jpg"
   },
   {
    "id": "9736f957-fe18-47cc-92ea-7826b575945e",
@@ -29,7 +30,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "a6fd8e8a-8132-4b15-af19-04ee0953ef12.jpg"
   },
   {
    "id": "98bee7a0-4af1-4ecf-ad0b-3dcc7d4e1e47",
@@ -44,7 +46,8 @@
     "id",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "b72949f9-dedf-434d-a7ec-cc175c30caae.jpg"
   },
   {
    "id": "30c14305-2149-4b86-bee8-e0a036bafd5d",
@@ -57,7 +60,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "715c7274-4969-4453-a0f9-4bfcfaf82aff.jpg"
   },
   {
    "id": "e2666e73-8823-403a-87c3-f89f556bc2c9",
@@ -70,7 +74,8 @@
     "pt-br",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "9c4b0f6a-26ac-497e-99a4-a39db79453b9.jpg"
   },
   {
    "id": "c0f23875-10e3-4490-ae6d-5b48eeac662c",
@@ -82,7 +87,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "51db3c08-6397-4c90-9045-651bfdfddcf5.jpg"
   },
   {
    "id": "e7ab9322-d2e1-4219-b96a-8a715f520f08",
@@ -95,7 +101,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f8716622-0863-4c72-b4ee-c2ebece479e3.jpg"
   },
   {
    "id": "52697573-3d2b-4487-bb56-272b000bd7e1",
@@ -110,7 +117,8 @@
     "es-la",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "88b19cb3-f37d-412d-a723-43995e37c75f.jpg"
   },
   {
    "id": "a55b591e-6278-4e31-9aa9-5d6a8c5ad2c1",
@@ -121,7 +129,8 @@
    "score": 0.38029248,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5d81476-52c3-441b-8dbc-724983751c61.jpg"
   },
   {
    "id": "da181bc3-7f98-431f-8e2c-2fff71e4b63e",
@@ -135,7 +144,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ccb4637f-a7f1-438e-8dfb-d764024cde60.jpg"
   },
   {
    "id": "e00b6bd7-d64f-4e20-947d-727127fc1f84",
@@ -147,7 +157,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "d5a0b94c-8acc-449c-bf2c-9b3d6437bcee.jpg"
   },
   {
    "id": "d2a2ea0c-5bad-4a37-90ec-24cc2aa3bfd2",
@@ -161,8 +172,10 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c4b6a1c1-fddf-4c42-a0c9-0223eb5ba80e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:55+00:00"
+ "updatedAt": "2021-07-18T06:42:55+00:00",
+ "coverFileName": "cf441af9-ebaf-4eab-a3e1-552366e44904.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "25357fc2-9f57-4e7d-8332-e038ee7c4ec4",
  "title": {
-  "en": "Lamento – My Wish"
+  "en": "Lamento \u2013 My Wish"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "c8539089-7dee-4cbf-b7fa-b835f43e17b7.jpg"
   },
   {
    "id": "27db706f-0a8b-400f-928e-60ee1e544eb9",
    "title": {
-    "en": "Lamento – Come into Blossom"
+    "en": "Lamento \u2013 Come into Blossom"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "eb961da1-09d2-4a31-8ecd-4a4577f13283.jpg"
   },
   {
    "id": "f1c0267f-1812-4dd7-988b-da46a43ffce6",
@@ -36,40 +38,44 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "e569edd2-4b77-49d1-83aa-3f4a0382dccb.png"
   },
   {
    "id": "d4f3f65e-4b71-4228-b613-48bee18c65b6",
    "title": {
-    "en": "Togainu no Chi – Acid Color"
+    "en": "Togainu no Chi \u2013 Acid Color"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "3f878da1-5df0-4f20-9b23-23ddda108e92.jpg"
   },
   {
    "id": "e39b29e1-5b03-48f6-a7ca-e1a203288c5a",
    "title": {
-    "en": "Lamento – Overflow"
+    "en": "Lamento \u2013 Overflow"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "fbd4d9e4-56af-4615-8877-71ef7a2f15cc.png"
   },
   {
    "id": "cfca339a-8053-459b-85ab-047e094a06c5",
    "title": {
-    "en": "Lamento – Nobody Knows"
+    "en": "Lamento \u2013 Nobody Knows"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "91b5bb88-c237-4183-8a38-0dea3bdc36dc.png"
   },
   {
    "id": "97e797ff-724f-4515-99b7-ee72505a47f7",
@@ -80,18 +86,20 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "2fa9a97a-d99a-4cc7-b699-547300632fab.jpg"
   },
   {
    "id": "510b6556-40cb-4611-8483-f89e317fec26",
    "title": {
-    "en": "Togainu no Chi – Domestic Vermillion"
+    "en": "Togainu no Chi \u2013 Domestic Vermillion"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "302bbd3a-5660-4607-89f9-2d9e63446b13.jpg"
   },
   {
    "id": "f0600194-5833-4ed8-aef4-aff0c5f394b2",
@@ -102,18 +110,20 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "87e691ed-9d19-4fd4-a030-51356cf16c42.jpg"
   },
   {
    "id": "b2c2e81d-1096-4c69-a3c5-68e67d7156fc",
    "title": {
-    "en": "Togainu no Chi – Babelist"
+    "en": "Togainu no Chi \u2013 Babelist"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "1ad50d2b-5149-42ed-8d27-a1c308a9c47e.png"
   },
   {
    "id": "c0ef621c-97fd-442e-b44f-62318f5913b1",
@@ -124,7 +134,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "03ba5be1-c104-473c-af6c-3b3680fe5a65.jpg"
   },
   {
    "id": "b31b5a81-3c8c-4c5f-8104-05299656c946",
@@ -136,8 +147,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f933516b-93b6-4b0a-a2c4-1ebfd7e692df.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:26+00:00"
+ "updatedAt": "2021-07-18T06:31:26+00:00",
+ "coverFileName": "09d13da3-62df-454d-9c8d-695fd03e89be.jpg"
 }

@@ -14,7 +14,8 @@
    "score": 0.37168992,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7733fe63-7c00-48e7-8c13-c5532370ee3b.jpg"
   },
   {
    "id": "0b811ac8-5898-4cc8-812d-60d2d38334ec",
@@ -25,7 +26,8 @@
    "score": 0.35495126,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "976eadfe-4a64-4919-b60b-2d84989fd123.jpg"
   },
   {
    "id": "4a251ad9-abfe-456e-9b3b-5f68725d32ad",
@@ -40,7 +42,8 @@
     "pl",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "42b9bfa3-a621-408a-afba-53e10d880ac0.jpg"
   },
   {
    "id": "9fb4859e-1833-43ac-afcf-131f2e2916c2",
@@ -53,7 +56,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c35b1bf1-449f-420d-96e4-ff5943ab94c1.jpg"
   },
   {
    "id": "dc34064e-3cd4-48c4-9ec5-550845b96ffb",
@@ -71,7 +75,8 @@
     "ca",
     "it",
     "cs"
-   ]
+   ],
+   "coverFileName": "f437064a-9fa0-44d5-91b3-e00749542515.jpg"
   },
   {
    "id": "617f648f-1000-4c4e-b1a3-42862f929dfd",
@@ -85,7 +90,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1e1f437-cb3d-4bde-b703-359993eb563a.jpg"
   },
   {
    "id": "27c8319e-72d6-444e-9d5c-c2c5ba5ec84a",
@@ -97,7 +103,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4c73c599-62b6-4a92-9b48-804f30561024.jpg"
   },
   {
    "id": "e61725ac-2f53-4038-b887-a1e852f81a5f",
@@ -111,7 +118,8 @@
     "en",
     "es-la",
     "ca"
-   ]
+   ],
+   "coverFileName": "a1f7b0f4-9913-48ca-909b-92e46ffe6f40.jpg"
   },
   {
    "id": "7778980c-8635-4a95-a1ae-a12569f267a1",
@@ -123,7 +131,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ec568731-631e-4e72-b8d6-abfb612b5e4f.jpg"
   },
   {
    "id": "c8ae1a87-fdd9-477f-977f-6d4b2aedcd58",
@@ -137,18 +146,20 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "47f2d97c-0cc9-4185-993b-5907233c631f.jpg"
   },
   {
    "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
    "title": {
-    "en": "She’s Coming Tonight"
+    "en": "She\u2019s Coming Tonight"
    },
    "contentRating": "safe",
    "score": 0.3090687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52d6cedd-713a-47b8-ad15-4bf9fe0c79cc.jpg"
   },
   {
    "id": "0be7131f-ff71-4b2a-9412-aabf47cc5a36",
@@ -159,8 +170,10 @@
    "score": 0.3090687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f8ca635-dc95-49b7-8bbf-f0d01bee7c7e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:02+00:00"
+ "updatedAt": "2021-07-18T07:04:02+00:00",
+ "coverFileName": "319a5d4a-9a2e-4fc6-8f78-f934c164af7f.jpg"
 }

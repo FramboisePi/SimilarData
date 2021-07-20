@@ -1,7 +1,7 @@
 {
  "id": "1e03d257-f014-4f96-bc42-d28ed874ff1b",
  "title": {
-  "en": "Knight's \u0026 Magic"
+  "en": "Knight's & Magic"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "en",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "db669d9f-1596-416d-98c5-54b7b0c4d233.jpg"
   },
   {
    "id": "c491f3c5-5fea-4229-a098-52440e0b67c7",
@@ -31,7 +32,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "46a40863-f3fc-4feb-b066-f858f7843046.jpg"
   },
   {
    "id": "69b96982-259f-46e9-a558-438d616b7996",
@@ -43,7 +45,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6dc490e1-307c-4c83-a6a8-589802902084.jpg"
   },
   {
    "id": "5e856938-7ca8-40b5-8186-fc344258a612",
@@ -55,7 +58,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "98efc6f6-6b09-4aea-b74b-cc87048cfb7c.jpg"
   },
   {
    "id": "2b5c2f34-6de4-4a81-8671-bca8c9409f79",
@@ -70,7 +74,8 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "044cf087-ad78-4379-98a9-2587a08148f1.jpg"
   },
   {
    "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
@@ -90,7 +95,8 @@
     "fr",
     "vi",
     "ar"
-   ]
+   ],
+   "coverFileName": "d5b67cf3-f614-4754-b785-6b5d231c535b.jpg"
   },
   {
    "id": "54202943-b55d-45a1-830f-44c9a8a691f0",
@@ -102,7 +108,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "e23a2d65-eee7-4491-bcc7-0ff7508f6ae9.jpg"
   },
   {
    "id": "c1de44c5-0efc-4eb5-9117-c791774eb8a8",
@@ -115,7 +122,8 @@
     "es",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "19410a00-c393-4f54-a6cc-832c7570a76d.jpg"
   },
   {
    "id": "d1781652-404b-4ba9-83cf-b53a8dcd9dbd",
@@ -128,7 +136,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "9f24f8b8-37fc-468f-bd69-593d01f66037.jpg"
   },
   {
    "id": "8ca097bf-8680-4295-902d-69ebc36841b1",
@@ -140,7 +149,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "6f5e284f-6f77-41ee-8f62-d9daaf5b0f86.jpg"
   },
   {
    "id": "5137687f-a925-4b18-a474-b143f9e3ec01",
@@ -155,7 +165,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5e3f4301-d4f5-4035-a5ee-a622483993b4.jpg"
   },
   {
    "id": "cb50b2d1-aa11-4b63-bff0-2c51094ad541",
@@ -167,8 +178,10 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b2248774-85b5-4f05-8e18-17c4d4b6300e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:06+00:00"
+ "updatedAt": "2021-07-18T06:30:06+00:00",
+ "coverFileName": "39ca932d-065f-4cd2-a392-b8307168265b.jpg"
 }

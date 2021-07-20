@@ -1,7 +1,7 @@
 {
  "id": "dba7c6eb-8b09-4f83-a0f5-7a4cdf1af49f",
  "title": {
-  "en": "Moto Shоgun no Undead Knight"
+  "en": "Moto Sh\u043egun no Undead Knight"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "34c2a874-205d-4e52-b2b1-c442330c8956.jpg"
   },
   {
    "id": "14a75df9-07d2-4181-acc0-5693be1aeb3e",
@@ -35,7 +36,8 @@
     "id",
     "pl",
     "vi"
-   ]
+   ],
+   "coverFileName": "8d73f54f-c54d-4e2f-b568-16e7145ee25a.jpg"
   },
   {
    "id": "fefdc15e-47de-4f78-9acd-1102a1712513",
@@ -48,7 +50,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "d2ba3e89-d5d2-4849-b32e-ecdb6c49f337.jpg"
   },
   {
    "id": "b00f5d5f-0801-4ad5-b343-1f229a7bd404",
@@ -59,7 +62,8 @@
    "score": 0.3579383,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c29289a7-dcad-4392-861e-5008cd050b51.jpg"
   },
   {
    "id": "b2514af7-dd1e-41e2-b6e1-c4adfc860bcf",
@@ -71,7 +75,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "1783bfd0-19e0-490e-abd7-c16841896a66.jpg"
   },
   {
    "id": "1f40b922-6abb-418e-a7e9-cc4d25b21439",
@@ -85,7 +90,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "2adbc5b5-37f8-42d0-ba40-04f5aed2d539.jpg"
   },
   {
    "id": "d1173b5a-7c10-4762-8890-f7f7e3986c98",
@@ -96,7 +102,8 @@
    "score": 0.34343004,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ca0a6d0e-4338-4c3f-8361-527bc72ae274.jpg"
   },
   {
    "id": "b7f18fdb-ac58-41c9-b8a0-9cbd13580241",
@@ -108,7 +115,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "dd174b72-dd69-48e4-8e1d-33ee07fb6c1e.jpg"
   },
   {
    "id": "d320eeff-08d2-424d-9513-77b17b219354",
@@ -119,7 +127,8 @@
    "score": 0.32852146,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "426b7485-5a9d-428c-be18-7bb449ae0416.jpg"
   },
   {
    "id": "37346398-d9ff-40e8-bc14-6c9847d559e5",
@@ -132,7 +141,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "3003ba54-efc7-43eb-945a-31040cb6d639.jpg"
   },
   {
    "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
@@ -147,7 +157,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ece972fd-3406-4f16-8f83-681974865076.jpg"
   },
   {
    "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
@@ -161,8 +172,10 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "14f185d6-7782-473c-97ea-9c2ddfedbde9.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:12+00:00"
+ "updatedAt": "2021-07-18T07:05:12+00:00",
+ "coverFileName": "e2064808-837c-40b6-b686-3194b9a47a2c.jpg"
 }

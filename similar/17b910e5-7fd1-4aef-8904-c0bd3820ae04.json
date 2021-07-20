@@ -8,13 +8,14 @@
   {
    "id": "d022a2b1-a142-419c-8682-f501dd76d260",
    "title": {
-    "en": "∀ Gundam - Tsuki no Kaze"
+    "en": "\u2200 Gundam - Tsuki no Kaze"
    },
    "contentRating": "safe",
    "score": 0.3934723,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40d2bba7-21ca-4fc6-9c97-dcf9c4b1cb47.jpg"
   },
   {
    "id": "cc70ba46-e0d4-4240-98ba-adb86c82ff6b",
@@ -27,7 +28,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "314b6b9d-e22d-4490-9c28-c2b449ef7f33.jpg"
   },
   {
    "id": "877b6ccb-fd76-4210-9768-1f12614a1337",
@@ -38,7 +40,8 @@
    "score": 0.35196182,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c27e5e9-f296-4504-8222-0cbc00e29d54.jpg"
   },
   {
    "id": "c338da62-8241-4eec-9f5b-e6370520fbc0",
@@ -51,7 +54,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "22548686-e0ef-41ba-a2f7-65c8a882681a.jpg"
   },
   {
    "id": "ac51a29d-eb99-4858-93c4-e8a3714c206d",
@@ -62,7 +66,8 @@
    "score": 0.34467375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c0d10ca-6c9c-4718-9ab2-6bf0836e9bc7.jpg"
   },
   {
    "id": "7bc4426d-8e4c-418e-a5b5-e982ee46c7cd",
@@ -73,7 +78,8 @@
    "score": 0.34467375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18d55f7d-dcf5-4e9b-aea9-34702092d6d8.jpg"
   },
   {
    "id": "4d34e5e5-2526-4d46-96cf-782b09988ab1",
@@ -85,7 +91,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "6e60f0c9-e0f9-4cf0-83ec-55fc0d45754f.jpg"
   },
   {
    "id": "858cc4f1-882a-4ef5-abd3-30c424ef536b",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "88d15219-aa6e-4249-9bb0-c870ad7df810.jpg"
   },
   {
    "id": "37136be1-6737-4bf6-bdbb-6a784e05f76e",
@@ -109,7 +117,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "902e2e0e-072d-4379-8725-89c404defa50.png"
   },
   {
    "id": "380da759-e87a-420a-8e03-35ef771a11b3",
@@ -120,7 +129,8 @@
    "score": 0.3312805,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38249424-110b-4011-bdcb-dafb5833828e.jpg"
   },
   {
    "id": "78cbfb65-2681-48a4-92ca-8c7dd63737a7",
@@ -131,7 +141,8 @@
    "score": 0.32900676,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "768ad761-9876-4251-aaa6-db647177e262.jpg"
   },
   {
    "id": "bf0f49ba-6c61-4ccc-ae72-3dd9d3c79aee",
@@ -142,8 +153,10 @@
    "score": 0.32848698,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c1f8201-1ded-4954-93c6-b4f8da516b7f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:55+00:00"
+ "updatedAt": "2021-07-18T06:28:55+00:00",
+ "coverFileName": "58bcaac2-cc02-4724-a72d-8fd9c8a9b8c8.jpg"
 }

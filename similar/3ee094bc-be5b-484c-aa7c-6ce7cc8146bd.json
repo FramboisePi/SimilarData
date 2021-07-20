@@ -1,7 +1,7 @@
 {
  "id": "3ee094bc-be5b-484c-aa7c-6ce7cc8146bd",
  "title": {
-  "en": "Eisen Flügel"
+  "en": "Eisen Fl\u00fcgel"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cff372bb-0fdd-4a9b-a440-71203d922839.jpg"
   },
   {
    "id": "c4a3ec6e-900b-4ef3-a636-71e031692a50",
@@ -28,7 +29,8 @@
    "score": 0.37939373,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1740b0b2-b606-44aa-8c84-27507ff14ac5.jpg"
   },
   {
    "id": "c49feee4-126f-48d0-9a6c-418d7da05265",
@@ -42,7 +44,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "cf54c018-bd5c-42a6-ab8a-2fb6c3e266e0.jpg"
   },
   {
    "id": "cc395e7a-c220-4057-b53f-ecd54fdd76e7",
@@ -53,7 +56,8 @@
    "score": 0.36,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c5a9829-0543-4f27-9cc9-f3f11fd5002d.jpg"
   },
   {
    "id": "6a3181bb-27e0-464a-932b-5c32d59c91e5",
@@ -66,7 +70,8 @@
     "ru",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "812f7a2e-4021-4375-9f23-8e1433dd4aff.jpg"
   },
   {
    "id": "6d5a6e24-b1f1-40be-b1e1-dd97767da628",
@@ -78,7 +83,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "b5745639-f45f-4a53-a614-dfe67689d1fb.jpg"
   },
   {
    "id": "b9959adb-c7bc-4303-84c7-c4b6b2828c46",
@@ -89,31 +95,34 @@
    "score": 0.35107046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2ab27c63-f9ef-492f-92c5-e577e1ad01b1.jpg"
   },
   {
    "id": "b3031a63-32d3-4cd8-82e4-bc9b80736ece",
    "title": {
-    "en": "Black★Rock Shooter - Innocent Soul"
+    "en": "Black\u2605Rock Shooter - Innocent Soul"
    },
    "contentRating": "safe",
    "score": 0.3485685,
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c7ce1c8c-d1d0-4eae-8891-2b54daea810f.jpg"
   },
   {
    "id": "1a5e7c73-e707-4e4b-879e-a3da39ab2e6d",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - [Majuu Hen]"
+    "en": "Mahou Shoujo Madoka\u2605Magica - [Majuu Hen]"
    },
    "contentRating": "safe",
    "score": 0.3485685,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4987c4a3-9cd2-4332-82cb-42e5d94ab03c.jpg"
   },
   {
    "id": "05ccee57-de43-4e77-8381-253ff81f6cd5",
@@ -128,7 +137,8 @@
     "ar",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "d011a119-2c6a-4028-a540-0a3292ac9e7f.jpg"
   },
   {
    "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
@@ -139,7 +149,8 @@
    "score": 0.3420562,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "930d2662-59dc-40c2-a23c-9fe5d61021db.jpg"
   },
   {
    "id": "6db24539-e3a0-47c3-9115-1cc72d4142f0",
@@ -153,8 +164,10 @@
     "th",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "2836e85c-9e0c-4eff-8819-d584ce27090d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:11+00:00"
+ "updatedAt": "2021-07-18T06:36:11+00:00",
+ "coverFileName": "06977c8b-38c0-421b-87fb-ccd9ecba2f0f.jpg"
 }

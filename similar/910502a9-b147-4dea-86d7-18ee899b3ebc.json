@@ -1,7 +1,7 @@
 {
  "id": "910502a9-b147-4dea-86d7-18ee899b3ebc",
  "title": {
-  "en": "Cat \u0026 Master Dog"
+  "en": "Cat & Master Dog"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4275251,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45a781c7-3e16-4e4e-8064-b84814c0eb3b.jpg"
   },
   {
    "id": "3fd2dc99-5a5a-4b84-a0bb-7d02ca69a2e6",
@@ -25,7 +26,8 @@
    "score": 0.39897108,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a55c564b-6c66-4e36-ac2b-a983b91d4ff6.jpg"
   },
   {
    "id": "f90983c1-02b4-42e0-be57-75488b061583",
@@ -39,7 +41,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4112fe03-2b74-4037-8cce-0c64fbb574c8.png"
   },
   {
    "id": "316391c1-de84-4d38-84e9-7f4d27219e30",
@@ -50,7 +53,8 @@
    "score": 0.38723874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40c7bbed-162d-427b-9c48-a956a42f1318.jpg"
   },
   {
    "id": "158bd1fc-da64-467b-952a-87803a2325cc",
@@ -62,18 +66,20 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "926e1f68-208f-4ef7-8762-60548b67647f.png"
   },
   {
    "id": "77066dd5-83a3-423c-8568-ef38340672ba",
    "title": {
-    "en": "Punch ↑ + Jinan Joutou"
+    "en": "Punch \u2191 + Jinan Joutou"
    },
    "contentRating": "safe",
    "score": 0.38723874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "064608d9-2926-4683-949c-b7569ef08007.jpg"
   },
   {
    "id": "2f0978eb-1e77-40da-ace6-30e1a04a0b7b",
@@ -84,7 +90,8 @@
    "score": 0.38723874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a62abcea-1122-4251-8181-b09749d1589d.jpg"
   },
   {
    "id": "6a9ed377-7f56-475f-b475-14b76e843797",
@@ -95,7 +102,8 @@
    "score": 0.38723874,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e469c8d-5da3-4502-b67a-ac93f115b5f5.jpg"
   },
   {
    "id": "ca43fb34-e8f2-4950-bd18-6a996ab5a4c7",
@@ -106,7 +114,8 @@
    "score": 0.38722545,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f43ea5b9-935c-47a5-90a9-09434186982b.jpg"
   },
   {
    "id": "a7af8655-f969-44dd-a66c-ee15aedc616d",
@@ -118,7 +127,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "69ac9fda-ee87-41ed-aeb2-ab14086bb778.jpg"
   },
   {
    "id": "fd21278a-1709-48b1-92d3-547895c100ef",
@@ -129,7 +139,8 @@
    "score": 0.38054577,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e500344-91af-4fae-9b71-aeb005b8fb8f.jpg"
   },
   {
    "id": "93b624a6-b772-4fcd-a221-f061afacd443",
@@ -140,8 +151,10 @@
    "score": 0.37943515,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7170ed5c-306d-4770-923b-bb1c839ec60b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:29+00:00"
+ "updatedAt": "2021-07-18T06:51:29+00:00",
+ "coverFileName": "c00f6cab-5c77-4c25-a134-2634dcb51ebc.jpg"
 }

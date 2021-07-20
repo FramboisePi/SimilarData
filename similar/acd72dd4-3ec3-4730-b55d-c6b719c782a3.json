@@ -1,7 +1,7 @@
 {
  "id": "acd72dd4-3ec3-4730-b55d-c6b719c782a3",
  "title": {
-  "en": "World Teacher – Other World Style Education \u0026 Agent"
+  "en": "World Teacher \u2013 Other World Style Education & Agent"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "4562ae44-d7e5-4593-8349-f080fde1f4af.jpg"
   },
   {
    "id": "e0589f47-72f9-4e9a-ac31-5b88bcad6220",
@@ -31,7 +32,8 @@
     "ru",
     "id",
     "ar"
-   ]
+   ],
+   "coverFileName": "b372955a-521c-484d-ae36-5af7a24f68e9.jpg"
   },
   {
    "id": "5f73422e-e47c-41a1-8b5d-96ba13498cfe",
@@ -45,7 +47,8 @@
     "ru",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "e94687df-b173-41bc-b1f5-87391cc0d445.jpg"
   },
   {
    "id": "28c77530-dfa1-4b05-8ec3-998960ba24d4",
@@ -63,7 +66,8 @@
     "it",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ed90ff27-653c-4e6b-ae22-e09f828e0a24.jpg"
   },
   {
    "id": "1e0b5482-fc3e-421d-9985-cb33fd561e3d",
@@ -76,7 +80,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5aade390-cc12-413b-a71e-91367835b4eb.jpg"
   },
   {
    "id": "3d3dda69-7387-4732-b114-e4bb3de67180",
@@ -87,7 +92,8 @@
    "score": 0.47794434,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3b538f15-b714-45e9-ae5a-5a7df6ea6ab6.jpg"
   },
   {
    "id": "1c83c0e9-c74f-491c-97d8-db0e4e7dc707",
@@ -101,7 +107,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "37b4faf6-56f8-4b9d-82fb-b5ca7377b2c1.png"
   },
   {
    "id": "fe0ca912-db5a-4073-a8b6-e303a1d30459",
@@ -115,7 +122,8 @@
     "tr",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "a1af9473-b786-47d4-bd93-9e6bb6ca727e.jpg"
   },
   {
    "id": "44f84cc1-819c-47a6-a59f-43d016f72b43",
@@ -131,7 +139,8 @@
     "id",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ea77ba8d-a4a7-47cb-a0c9-f08fafba9778.jpg"
   },
   {
    "id": "6a769300-091e-49ab-8cd3-cc32c360ecc0",
@@ -146,7 +155,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fd0715f4-2c50-41d9-9cce-a2e369415cd1.jpg"
   },
   {
    "id": "2e3d0203-e1d2-4142-b6ab-69a70643d7a1",
@@ -163,7 +173,8 @@
     "en",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "f18b6716-1425-45d9-ba62-88e04c18a6c4.jpg"
   },
   {
    "id": "10a8f059-fd50-4dfb-bc56-b58f9f3bb4e4",
@@ -176,8 +187,10 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "efd02641-5c31-4f96-97a6-3cf4550679b7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:35+00:00"
+ "updatedAt": "2021-07-18T06:56:35+00:00",
+ "coverFileName": "75d98604-5a4e-4087-b361-b54e2ac67085.jpg"
 }

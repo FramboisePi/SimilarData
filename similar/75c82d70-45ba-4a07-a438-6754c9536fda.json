@@ -1,7 +1,7 @@
 {
  "id": "75c82d70-45ba-4a07-a438-6754c9536fda",
  "title": {
-  "en": "Re:Zero Kara Hajimeru Isekai Seikatsu – Hyouketsu no Kizuna"
+  "en": "Re:Zero Kara Hajimeru Isekai Seikatsu \u2013 Hyouketsu no Kizuna"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b6815639-6a40-4a95-8dc7-a388f2a7b45b.jpg"
   },
   {
    "id": "1ace2f44-33a2-462e-9991-fb6be7417ecb",
@@ -28,12 +29,13 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "389152f2-3c88-4bf2-8e98-5ac761253f08.jpg"
   },
   {
    "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "The Swordsman Called the Countless Swords’ Sorcerer"
+    "en": "The Swordsman Called the Countless Swords\u2019 Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.37613547,
@@ -46,7 +48,8 @@
     "zh-hk",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "c9bd9cc8-a15d-48e6-8452-8d874ee80338.jpg"
   },
   {
    "id": "fa7e1e08-44dc-4ef3-bf31-8ed7ae981c04",
@@ -60,7 +63,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "aa0ea215-7834-4a1a-bbde-92ad8bdfd7f8.jpg"
   },
   {
    "id": "26c6bf0d-036e-4bf8-b336-edf13f93dd1d",
@@ -73,7 +77,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "c323cab0-71cf-4197-b785-af5c066d3e10.jpg"
   },
   {
    "id": "04db6969-ad71-45f9-85e8-5bcbef10c029",
@@ -84,7 +89,8 @@
    "score": 0.37485132,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5dc53058-b3c9-419c-92ad-e2ae626c9edd.jpg"
   },
   {
    "id": "8bf5248e-70d0-49aa-a722-697df5fb40f0",
@@ -95,7 +101,8 @@
    "score": 0.3670775,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fb43cf12-1ddf-4962-98aa-7f2c818cbe9f.jpg"
   },
   {
    "id": "de3f1db5-8de4-4f19-b218-0c62f0a63ea7",
@@ -109,7 +116,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "0088cb05-315e-4d72-abb0-54cff40b016f.jpg"
   },
   {
    "id": "bfe0ab22-61fd-4ba1-8667-40c516c2dddd",
@@ -121,7 +129,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e3590478-f5c2-4d92-acaa-42544ed1b9dd.png"
   },
   {
    "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
@@ -133,7 +142,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "8e8b8dda-16ba-4035-b324-47a98e2988d0.jpg"
   },
   {
    "id": "45a4f34b-ed6e-49d2-9ba2-d60b471dcefe",
@@ -146,7 +156,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92c3e1a0-1c11-4f7c-8c32-6c5c9731a939.jpg"
   },
   {
    "id": "61e5cfcb-aff4-4916-ac20-132f4542e451",
@@ -159,8 +170,10 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1d014de-040b-4ad3-b714-72887f6a5a73.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:16+00:00"
+ "updatedAt": "2021-07-18T06:46:16+00:00",
+ "coverFileName": "0e37f337-cf77-4c13-96d3-873e10de63cc.jpg"
 }

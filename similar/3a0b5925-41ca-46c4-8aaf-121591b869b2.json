@@ -8,7 +8,7 @@
   {
    "id": "188e4f34-a80c-4a91-b54e-69572e8ed4d5",
    "title": {
-    "en": "Saint Cecilia \u0026 Pastor Lawrence"
+    "en": "Saint Cecilia & Pastor Lawrence"
    },
    "contentRating": "safe",
    "score": 0.44919953,
@@ -18,7 +18,8 @@
     "en",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "55fb4443-2b04-4872-9cb5-7ddc83aa2ca4.jpg"
   },
   {
    "id": "b4320039-9b91-44a7-a60d-c7ba8c0684e7",
@@ -32,7 +33,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ed566a45-c9f2-4f7e-84f8-ae7fc328ab15.jpg"
   },
   {
    "id": "2e75b854-6a72-412e-9668-5bd2bc0791ef",
@@ -45,7 +47,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "840fadef-87fb-4ca5-9d1a-2177ed6368aa.jpg"
   },
   {
    "id": "28c3b97b-6d2f-4a6c-9f97-a826f0b16f05",
@@ -58,7 +61,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "f74bb2d5-a3a4-4e14-8a59-3de25a669342.jpg"
   },
   {
    "id": "f6fda5b9-7146-459d-91a9-e30b744c075f",
@@ -70,7 +74,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "23663299-e7e0-4adf-9773-d784c9da9898.jpg"
   },
   {
    "id": "261f62d7-6a82-4215-a6b7-ffd19c937100",
@@ -81,7 +86,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "50d26c86-6c1c-4ad2-beee-dc677e29a40c.jpg"
   },
   {
    "id": "b26eb029-0165-4959-8c74-2a76b39b97db",
@@ -96,7 +102,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9d4e31d8-e0bc-4b21-b77e-a32ed97c8ca0.jpg"
   },
   {
    "id": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
@@ -113,7 +120,8 @@
     "it",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6b61bb69-25bb-4f8f-9e46-9791901bb5ad.jpg"
   },
   {
    "id": "dcc1a514-8d48-44a7-a38b-d48e3cac4335",
@@ -124,19 +132,21 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c80f5994-991c-4b58-afea-2f19c1722a55.jpg"
   },
   {
    "id": "e5674f2f-7185-414d-ba94-609d20256d0f",
    "title": {
-    "en": "Black★Rock Shooter Chan"
+    "en": "Black\u2605Rock Shooter Chan"
    },
    "contentRating": "safe",
    "score": 0.39348966,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "66667e37-7044-4665-a53e-c2ffa3a1373c.jpg"
   },
   {
    "id": "079e07bb-92e7-477c-85c0-cdb0a2116ef9",
@@ -149,7 +159,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "b503acd1-e775-4fd6-b866-0114db461fde.jpg"
   },
   {
    "id": "64897926-3836-4307-a89d-86fb4d4ae4af",
@@ -160,8 +171,10 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2527d034-62c9-41f2-bb71-0568a5251c04.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:17+00:00"
+ "updatedAt": "2021-07-18T06:35:17+00:00",
+ "coverFileName": "fc66de9e-3f31-4d73-aa45-800e54b72541.jpg"
 }

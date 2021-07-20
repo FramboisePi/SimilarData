@@ -17,7 +17,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c7642acb-632f-4aa4-b255-b654d1f368cb.png"
   },
   {
    "id": "c5d2eec8-7ed0-4d7d-b54c-b686f30cdcd5",
@@ -29,7 +30,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "fc927584-f19c-49b4-8681-59e9bcf3fb0b.png"
   },
   {
    "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
@@ -44,7 +46,8 @@
     "es",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "c1793aa4-2089-4842-881e-3d9f26d26472.jpg"
   },
   {
    "id": "65cc4012-d604-4783-9222-016794869cb7",
@@ -56,7 +59,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6ecd4402-961f-424c-932a-f682dd51fc4a.png"
   },
   {
    "id": "ea109e5d-c4cc-4b8e-a35d-1ae8e3d9d191",
@@ -68,7 +72,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9ea1cca5-426e-4951-8a1b-5c9a147162be.jpg"
   },
   {
    "id": "e8a758da-6eea-4493-83b5-a283f29bdc3d",
@@ -79,7 +84,8 @@
    "score": 0.3400749,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8028e8b6-7747-4c16-ad7b-637533ab3cc6.jpg"
   },
   {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
@@ -98,7 +104,8 @@
     "ru",
     "es-la",
     "th"
-   ]
+   ],
+   "coverFileName": "a3beca8c-977d-4e88-b978-5ee7beebfb44.jpg"
   },
   {
    "id": "4df53e93-a5c8-4fb5-8b2a-5c22b96979df",
@@ -110,7 +117,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "6531a9b6-84eb-47d7-a6eb-d6761ef1e3bd.jpg"
   },
   {
    "id": "b85055fe-cfc1-4804-a6d4-930be3131b6c",
@@ -121,7 +129,8 @@
    "score": 0.33253336,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5954ff43-dad1-4c40-808a-507661c8ca0f.jpg"
   },
   {
    "id": "218a0922-f7ef-4f9c-a308-c8ff938f326f",
@@ -133,12 +142,13 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "caf1c0a5-b1ea-40a6-95d9-c67f1cfe0a14.jpg"
   },
   {
    "id": "9c4dd55b-e222-4964-951d-ed90593584c2",
    "title": {
-    "en": "CØDE:BREAKER"
+    "en": "C\u00d8DE:BREAKER"
    },
    "contentRating": "safe",
    "score": 0.32916188,
@@ -146,7 +156,8 @@
     "en",
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "a17b9c21-ac4f-4f9b-8fe6-d4f351720e12.jpg"
   },
   {
    "id": "2a1cd0b4-6139-4154-8968-6312a88e048d",
@@ -158,8 +169,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6f8e273b-5a18-438c-b757-0e6c2ee66d10.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:43+00:00"
+ "updatedAt": "2021-07-18T06:36:43+00:00",
+ "coverFileName": "f00aa3d6-32b2-47d0-a34f-26a6cb68e599.jpg"
 }

@@ -18,7 +18,8 @@
     "ca",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "c3a42417-c8c0-4e7e-a917-0720eac7bd20.jpg"
   },
   {
    "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
@@ -31,7 +32,8 @@
     "en",
     "ca",
     "it"
-   ]
+   ],
+   "coverFileName": "b2385195-2397-473e-ac1f-235f0958dc1d.jpg"
   },
   {
    "id": "fcb5111f-be88-4f5a-b456-22135f3eda49",
@@ -45,7 +47,8 @@
     "en",
     "ru",
     "ca"
-   ]
+   ],
+   "coverFileName": "5919a775-29dc-42b9-b3dd-8bee6fa83414.jpg"
   },
   {
    "id": "ace62c1e-2d70-4517-b2f4-baa147db82f7",
@@ -59,7 +62,8 @@
     "en",
     "es",
     "ca"
-   ]
+   ],
+   "coverFileName": "5324039b-ea7e-408f-8eff-50a20ce1ba7e.jpg"
   },
   {
    "id": "f90983c1-02b4-42e0-be57-75488b061583",
@@ -73,7 +77,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4112fe03-2b74-4037-8cce-0c64fbb574c8.png"
   },
   {
    "id": "ee62b84c-e94e-48aa-95aa-7bc18e6df75c",
@@ -85,7 +90,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "3bcc3c0b-a9e0-4dd5-881f-5cbc0558f65d.jpg"
   },
   {
    "id": "19b0bde7-eb48-46ce-ba77-5f0101ed680c",
@@ -99,19 +105,21 @@
     "id",
     "en",
     "ca"
-   ]
+   ],
+   "coverFileName": "71c801e0-3cb1-4fc8-a176-b6fcc0ffed30.jpg"
   },
   {
    "id": "34d2b318-999d-42d2-aee7-10a12c80eb5e",
    "title": {
-    "en": "Pokémon Diamond and Pearl: Regigigas"
+    "en": "Pok\u00e9mon Diamond and Pearl: Regigigas"
    },
    "contentRating": "safe",
    "score": 0.38971144,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cab2289c-01c8-4d25-9fec-d4126ea548a1.jpg"
   },
   {
    "id": "23a6c600-ee04-4836-8015-465f809ade19",
@@ -124,7 +132,8 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "12f4dd3b-9acb-4b43-a882-10c89c7f4656.jpg"
   },
   {
    "id": "aab94c3a-34b4-4051-84ff-7ba9cbab0da8",
@@ -137,7 +146,8 @@
     "en",
     "ca",
     "pl"
-   ]
+   ],
+   "coverFileName": "38b625cb-898b-4035-a96a-3bd0bddfd272.png"
   },
   {
    "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
@@ -149,7 +159,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "4942638d-7438-43ea-8aff-482cdea4e4d0.jpg"
   },
   {
    "id": "79dd7cb9-f078-4d64-b0b4-5599c3c3c378",
@@ -160,8 +171,10 @@
    "score": 0.35846084,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "c8aac7d1-e258-48c6-ab02-75e82c7461f4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:16+00:00"
+ "updatedAt": "2021-07-18T07:03:16+00:00",
+ "coverFileName": "b966a11f-096c-450f-a8b4-dc9d19cf483e.jpg"
 }

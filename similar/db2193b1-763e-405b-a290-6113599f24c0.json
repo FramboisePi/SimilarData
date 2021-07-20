@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "71fa82e6-976c-4d4b-9be2-213c024cd540.jpg"
   },
   {
    "id": "bca2166c-0cb4-4b55-a99c-defacebc24ef",
@@ -26,7 +27,8 @@
    "score": 0.4104648,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23069ecc-ff85-4615-ae49-098525f1d23e.jpg"
   },
   {
    "id": "52925883-c86a-4f3c-a315-877a01258e14",
@@ -38,7 +40,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "89424e1b-1163-4452-af7e-603192651fa7.jpg"
   },
   {
    "id": "711efa93-ec5c-46d0-8514-df9974443d4e",
@@ -49,7 +52,8 @@
    "score": 0.38653642,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f58779b-79b7-4366-8037-d5d36e0a24bd.jpg"
   },
   {
    "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
@@ -61,7 +65,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "310057f9-2619-47ed-a760-e77d794611d0.png"
   },
   {
    "id": "5c865add-2f78-4903-aa2b-4270690aca34",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "890806be-d40f-4300-965a-b29ada52c87b.jpg"
   },
   {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
@@ -84,7 +90,8 @@
    "score": 0.37688798,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "795ffd4e-9ea1-4f70-9763-cc9f31de5c7d.jpg"
   },
   {
    "id": "c7d7cc98-1e9c-467d-892e-8cc4a2129ed5",
@@ -97,19 +104,21 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "dd8e3d53-e116-4375-ab99-bf440b2cf6d2.jpg"
   },
   {
    "id": "e7ba68e6-0e13-43c8-8c0c-17431ae5a911",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica ~The different story~"
+    "en": "Mahou Shoujo Madoka\u2605Magica ~The different story~"
    },
    "contentRating": "safe",
    "score": 0.37226656,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "543b6a80-e5d1-41c8-a60a-a198ac35bb14.jpg"
   },
   {
    "id": "390009ac-c723-43d6-a146-84129eeddb93",
@@ -120,7 +129,8 @@
    "score": 0.36911583,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1620a81b-1b2b-4f82-8fa6-0e5a3a744f96.jpg"
   },
   {
    "id": "6b9c97a4-215a-42c8-b0cc-7f7417e511ed",
@@ -133,7 +143,8 @@
     "it",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "99f5a468-6e7f-4db6-86b7-95ee4b612b97.jpg"
   },
   {
    "id": "cee1a059-dc4e-42d6-b96a-fa0253b7accd",
@@ -149,8 +160,10 @@
     "pl",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "be5aeeba-d8f9-482a-82b2-51dc4244f7d8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:05+00:00"
+ "updatedAt": "2021-07-18T07:05:05+00:00",
+ "coverFileName": "02d9824b-e663-4aa7-8d92-0c19d579eb50.jpg"
 }

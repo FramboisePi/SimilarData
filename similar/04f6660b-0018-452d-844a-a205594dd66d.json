@@ -8,7 +8,7 @@
   {
    "id": "bcfa196d-d162-45f5-a224-61d26b04a077",
    "title": {
-    "en": "Konosuba: God’s Blessing on This Wonderful World!"
+    "en": "Konosuba: God\u2019s Blessing on This Wonderful World!"
    },
    "contentRating": "suggestive",
    "score": 0.36344042,
@@ -17,7 +17,8 @@
     "ru",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ef398ad1-8a0a-4a03-8df5-0f26018c52f5.jpg"
   },
   {
    "id": "55e910f2-8ba5-427b-ae7e-a815d2d6bd71",
@@ -32,7 +33,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2c8c3560-9f41-4e81-9cf1-8d0672f44577.jpg"
   },
   {
    "id": "06aa99db-35ef-4da9-8f03-883f02c7837b",
@@ -45,7 +47,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9495906e-0b2e-4d97-b8b2-5ada7d5d82c7.jpg"
   },
   {
    "id": "84f193ec-e731-4bd4-bcb5-09e85dca3ebc",
@@ -58,7 +61,8 @@
     "en",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "ca6b52f4-fabb-4ed4-b69a-007223598c59.jpg"
   },
   {
    "id": "0eefe0f3-ecd6-4766-8ad5-55efd0bee50b",
@@ -73,7 +77,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "d78d1a96-92e7-4033-916f-d9abbc060618.jpg"
   },
   {
    "id": "ede31cbb-dbd1-4c92-bd27-a21e31275c6b",
@@ -86,18 +91,20 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7b7dc50c-f8e9-4a7a-801c-dfd0ce3bad44.jpg"
   },
   {
    "id": "8c9c7307-a21e-4e90-aac9-f6cd91cb6b18",
    "title": {
-    "en": "RPG W(・∀・)RLD - Roleplay World"
+    "en": "RPG W(\u30fb\u2200\u30fb)RLD - Roleplay World"
    },
    "contentRating": "suggestive",
    "score": 0.35104764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c42eca06-6474-41cb-b4f2-f60b743e7b42.png"
   },
   {
    "id": "14ee6a1f-fa8f-4b32-82e5-6648a2825c34",
@@ -113,7 +120,8 @@
     "en",
     "th",
     "ru"
-   ]
+   ],
+   "coverFileName": "0cdc0534-3644-4c04-bc68-929eb28ed594.jpg"
   },
   {
    "id": "bae4c826-73e0-40f1-875e-73f00c815968",
@@ -128,7 +136,8 @@
     "pt-br",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "b541c627-f70d-414b-8ba6-c4d4f90bf746.jpg"
   },
   {
    "id": "4022b517-658e-4dc8-978c-bc84d5fc3457",
@@ -144,7 +153,8 @@
     "id",
     "it",
     "ru"
-   ]
+   ],
+   "coverFileName": "6ebf424a-a4de-49f0-a2b1-5cccacdcb760.jpg"
   },
   {
    "id": "f3e472f1-ea9b-4a4a-8a7b-7732ea307d47",
@@ -155,7 +165,8 @@
    "score": 0.33010772,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f283cd4c-eae6-4e55-a58a-db6d30196cd3.jpg"
   },
   {
    "id": "957d9031-897c-466f-a626-cc9085899f47",
@@ -169,8 +180,10 @@
     "es-la",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "9a31b332-3058-44d1-a20d-d0a9646ecd22.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:23+00:00"
+ "updatedAt": "2021-07-18T06:25:23+00:00",
+ "coverFileName": "9dc209e1-3e50-4cce-8600-31bb92882f79.jpg"
 }

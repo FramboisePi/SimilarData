@@ -20,7 +20,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "8f17fed1-839e-4a92-b0db-bce6acca6d8e.jpg"
   },
   {
    "id": "fc11ea88-56c1-403f-8ab2-39f74bad100b",
@@ -31,12 +32,13 @@
    "score": 0.31819806,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "78655777-67af-43ce-8bc1-0bf1c5b2f4eb.jpg"
   },
   {
    "id": "91843e85-5611-4f16-9181-c209265ff112",
    "title": {
-    "en": "Grün Bæla"
+    "en": "Gr\u00fcn B\u00e6la"
    },
    "contentRating": "safe",
    "score": 0.31819806,
@@ -44,7 +46,8 @@
     "zh-hk",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "1db5cd33-1804-4422-80bb-a338a2885af4.png"
   },
   {
    "id": "a7544b9c-54bf-4413-928e-cee02f5e3d5e",
@@ -55,7 +58,8 @@
    "score": 0.31819806,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "563717de-11d4-4b09-a6e6-8db03b512c8d.jpg"
   },
   {
    "id": "da74b047-f5ae-480c-9646-a28f7435c32d",
@@ -66,7 +70,8 @@
    "score": 0.31819806,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "5b40b64f-3a03-423f-a1fa-c2d304692c51.jpg"
   },
   {
    "id": "7c418a1c-9241-451e-995a-31f673b4340a",
@@ -80,7 +85,8 @@
     "zh-hk",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "beaf8b75-facb-470e-8981-505fd1ab4a9a.jpg"
   },
   {
    "id": "55ace2fb-e157-4d76-9e72-67c6bd762a39",
@@ -98,7 +104,8 @@
     "zh-hk",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "af6c85d9-0891-40da-a0a9-1b9ccc6bc2fd.jpg"
   },
   {
    "id": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
@@ -111,7 +118,8 @@
     "fr",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "b1fd5d31-c253-4833-9684-1012a1121bed.jpg"
   },
   {
    "id": "f9d80f7c-a5a1-4632-8a7a-39105086aa1f",
@@ -122,7 +130,8 @@
    "score": 0.225,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "0ef97963-ab45-4f4e-b8bd-1843bd284c76.jpg"
   },
   {
    "id": "322773cb-d279-412c-82e1-708a4dfca6f8",
@@ -134,18 +143,20 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "fd2e2597-fdc9-43d7-ada1-8d6956304ced.jpg"
   },
   {
    "id": "2f4b1dea-3720-49d3-9cca-262c76dd665f",
    "title": {
-    "en": "Boku to chōrui hyakka-ten"
+    "en": "Boku to ch\u014drui hyakka-ten"
    },
    "contentRating": "safe",
    "score": 0.225,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "7ab2a84e-bed5-4bcf-8871-8532c5b9258d.jpg"
   },
   {
    "id": "55487d3f-bb46-4c48-933e-80e707a4f3dc",
@@ -159,8 +170,10 @@
     "pt-br",
     "zh-hk",
     "fr"
-   ]
+   ],
+   "coverFileName": "82ef1325-7854-4585-bb12-818d2acf687a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:54+00:00"
+ "updatedAt": "2021-07-18T07:04:54+00:00",
+ "coverFileName": "04f98572-79e1-4edb-b248-2b43b2649986.jpg"
 }

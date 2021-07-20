@@ -15,7 +15,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "1d06be7c-adaf-4619-ac3d-d7cdfc62deaa.jpg"
   },
   {
    "id": "a95f521e-b307-487c-83c9-311c7cf953c3",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "cd946c10-021b-4304-b8ea-cac77c13a6f7.jpg"
   },
   {
    "id": "05c29e85-71c1-4f78-95cd-a03e68d9523c",
@@ -40,7 +42,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "7f001ff4-69c3-4292-a7b6-3c332c8a6787.jpg"
   },
   {
    "id": "13785f54-007b-485d-8997-be0f0523e189",
@@ -54,12 +57,13 @@
     "es",
     "mn",
     "it"
-   ]
+   ],
+   "coverFileName": "64081f3d-68f8-4225-8de8-13c7998f3a5e.png"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.45403293,
@@ -70,7 +74,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "e2949aaa-1054-41c5-a727-30b4d7c9967d",
@@ -82,7 +87,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "7c5de08c-6221-46c4-b613-9ae715e9cbd9.jpg"
   },
   {
    "id": "8593d61d-5393-4037-ad2c-75cbb40de49b",
@@ -94,7 +100,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "610b96eb-a9f7-42e2-8364-ae3dc55cdd5b.jpg"
   },
   {
    "id": "d514b8ae-fd3f-448f-b448-806b8d973af6",
@@ -105,7 +112,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c4f1fbdb-b423-42a3-9653-44e38f96fc46.jpg"
   },
   {
    "id": "cf43b9e3-396a-41bc-ab72-715f66cdb7e1",
@@ -119,7 +127,8 @@
     "fr",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "5adfcbca-5226-46c0-9863-6a317409edd4.jpg"
   },
   {
    "id": "aaa467a6-3565-4197-8827-681375020c68",
@@ -130,7 +139,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1dd1eb68-7af9-4249-a4c0-3198a25da47f.jpg"
   },
   {
    "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
@@ -141,7 +151,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56e57e6e-d72b-4241-906c-40e7ad60fca9.jpg"
   },
   {
    "id": "cff67ddb-91c8-4a5a-b5dc-edb0b5fadc37",
@@ -152,8 +163,10 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e32af96a-70b0-4d3c-89d7-cff360c27261.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:01+00:00"
+ "updatedAt": "2021-07-18T06:50:01+00:00",
+ "coverFileName": "4e95edb7-5b19-40af-bfed-0c2fe7879693.jpg"
 }

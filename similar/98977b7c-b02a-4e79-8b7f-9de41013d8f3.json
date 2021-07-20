@@ -1,21 +1,22 @@
 {
  "id": "98977b7c-b02a-4e79-8b7f-9de41013d8f3",
  "title": {
-  "en": "Hoshi no Kirby - KiraKira★Pupupu World"
+  "en": "Hoshi no Kirby - KiraKira\u2605Pupupu World"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "0bb17e2f-77ba-434c-aa6b-45bb0fe39f48",
    "title": {
-    "en": "We Love ♡ Pocket Monsters"
+    "en": "We Love \u2661 Pocket Monsters"
    },
    "contentRating": "safe",
    "score": 0.34418976,
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "56a1c7ca-b472-490c-8927-2d25cc551f6a.jpg"
   },
   {
    "id": "4772b75c-1813-447d-8d0e-d30d80b960af",
@@ -26,7 +27,8 @@
    "score": 0.3073196,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a96d5899-c717-41b0-9c42-25cac63cab2d.jpg"
   },
   {
    "id": "08af1135-b321-4cb2-9d29-e9e17a9458aa",
@@ -37,7 +39,8 @@
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6c3d591-513f-45f4-a65e-1746b7a9b790.jpg"
   },
   {
    "id": "ed288fbc-1ee4-460f-b86d-7ee60ac904c3",
@@ -48,7 +51,8 @@
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6176f3fd-920a-4de9-9e5d-8ce2dc33de26.jpg"
   },
   {
    "id": "dc87c101-a3aa-42ce-9000-c7dc3c4d0591",
@@ -59,7 +63,8 @@
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "922939cd-7b0d-4ec4-8532-f7046fd536d9.jpg"
   },
   {
    "id": "911f37bb-78a2-4910-8628-3568904c00bb",
@@ -70,18 +75,20 @@
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3927b308-04cc-4761-aaed-de595fc47b1d.jpg"
   },
   {
    "id": "4d221eb0-9831-4efe-af16-3e6ce0936171",
    "title": {
-    "en": "Asuka²"
+    "en": "Asuka\u00b2"
    },
    "contentRating": "safe",
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "27fba68d-d277-435e-84c6-ab08f576307f.jpg"
   },
   {
    "id": "80bba71d-079c-4187-9058-6f06bee2311e",
@@ -92,7 +99,8 @@
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "707fb2a7-f704-4be3-84f3-71825d0ee1d8.jpg"
   },
   {
    "id": "089c7fb5-aa32-4f5d-89eb-69d90ea0188d",
@@ -103,7 +111,8 @@
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e8e6d82f-7c95-46d8-a4ca-e5805bb94eb7.jpg"
   },
   {
    "id": "9103a1c9-e6f8-42f6-9055-ae06c5834028",
@@ -114,7 +123,8 @@
    "score": 0.2834504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81eb430a-912e-4480-9941-e080011d1fba.png"
   },
   {
    "id": "b13dceb8-3b68-45a2-92eb-5a54cd667faa",
@@ -126,7 +136,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "b63d9be4-7182-4c58-a58a-fa5878779a39.jpg"
   },
   {
    "id": "c12666d1-b489-49c0-af7e-6086d36e4a3a",
@@ -137,8 +148,10 @@
    "score": 0.28102976,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3d3fb81d-5255-459d-921b-f7a5cd95e4b8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:53+00:00"
+ "updatedAt": "2021-07-18T06:52:53+00:00",
+ "coverFileName": "4438d60b-08cc-4f59-b0d1-9ee7f23ac9f3.jpg"
 }

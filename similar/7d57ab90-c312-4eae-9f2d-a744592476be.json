@@ -16,7 +16,8 @@
     "en",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "0487d933-72db-4091-a775-a6654046c85a.jpg"
   },
   {
    "id": "2f6abdb5-5743-44e1-af11-dd8d52e24191",
@@ -31,7 +32,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "16e1fe25-3f9f-494d-8f8b-2b058ac2c954.jpg"
   },
   {
    "id": "d8779116-f000-446a-af46-cc221c0e7fc9",
@@ -45,7 +47,8 @@
     "es-la",
     "he",
     "id"
-   ]
+   ],
+   "coverFileName": "1252da88-86ac-45fa-88f3-b3fe73deb5f9.jpg"
   },
   {
    "id": "cb43f574-ccd1-41ff-ba72-bc74d57ba78a",
@@ -57,7 +60,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "af05c7a9-c10f-40e2-8221-42390117862b.jpg"
   },
   {
    "id": "6db24539-e3a0-47c3-9115-1cc72d4142f0",
@@ -71,7 +75,8 @@
     "th",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "2836e85c-9e0c-4eff-8819-d584ce27090d.jpg"
   },
   {
    "id": "babc3f06-f618-487b-be06-c213ea75f489",
@@ -86,7 +91,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "b866ec74-3899-4b13-812a-05cdc80453d0.jpg"
   },
   {
    "id": "441071c4-8c17-49a2-8e1b-55e6901c0da4",
@@ -97,7 +103,8 @@
    "score": 0.39031485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4b0d571e-5b36-498a-a898-ca2ee8f98715.jpg"
   },
   {
    "id": "2b5c2f34-6de4-4a81-8671-bca8c9409f79",
@@ -112,18 +119,20 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "044cf087-ad78-4379-98a9-2587a08148f1.jpg"
   },
   {
    "id": "d16b55b3-f523-4e5e-9a1f-b8e0a1930285",
    "title": {
-    "en": "I Don’t Care. Let Me Go Home!"
+    "en": "I Don\u2019t Care. Let Me Go Home!"
    },
    "contentRating": "safe",
    "score": 0.38967705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3b86ff0-b722-4ae3-a2ba-e3921f103665.jpg"
   },
   {
    "id": "2598241b-1b99-4a58-bf15-ce5a64014d16",
@@ -135,19 +144,21 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "060c1abd-0a2f-4449-83e1-57eeea59891f.jpg"
   },
   {
    "id": "81988958-a9bf-44c3-839f-0835312a6577",
    "title": {
-    "en": "Brave Star ☆ Romantics"
+    "en": "Brave Star \u2606 Romantics"
    },
    "contentRating": "safe",
    "score": 0.38630354,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "81ca6438-ec19-48a9-b76a-4d5e855cd7d3.jpg"
   },
   {
    "id": "dc877a4e-ce68-43fc-b7c1-9ca64966ccd9",
@@ -161,8 +172,10 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "70de8e7b-73cc-4df3-8848-438d79b6ad48.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:44+00:00"
+ "updatedAt": "2021-07-18T06:47:44+00:00",
+ "coverFileName": "60bed109-efa1-417c-b18a-467f3b879da1.png"
 }

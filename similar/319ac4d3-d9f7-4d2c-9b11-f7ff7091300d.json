@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "c8e83ae3-9a70-4edb-8d94-9f1c5538fcff.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -26,23 +27,25 @@
    "score": 0.4800028,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.47711128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "53c628b3-d1f5-43aa-8df3-080034285cb4",
    "title": {
-    "en": "Junji Ito’s Cat Diary: Yon \u0026 Mu"
+    "en": "Junji Ito\u2019s Cat Diary: Yon & Mu"
    },
    "contentRating": "safe",
    "score": 0.4490731,
@@ -50,7 +53,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "886b532b-388e-4b58-86c9-2fdc537c9706.jpg"
   },
   {
    "id": "7e9f8bc7-72c7-4f7a-9ef8-ffda7b1a968c",
@@ -61,7 +65,8 @@
    "score": 0.40053606,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f19cc31-dc70-4993-9c6a-7a95d7195bb9.jpg"
   },
   {
    "id": "ce2fe5b4-8b18-426b-9dbf-c2f216c8a82e",
@@ -72,7 +77,8 @@
    "score": 0.39698705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0347b189-c970-42c3-a6c0-ec879add2ab8.jpg"
   },
   {
    "id": "1e1432fb-2687-4444-8a51-d6ea23259071",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b8d30b17-028e-41ed-ad8d-d895be75297d.jpg"
   },
   {
    "id": "ad0e3186-34c9-40a3-af0b-c413e5f0a122",
@@ -95,7 +102,8 @@
    "score": 0.3923261,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bbc05a1-163e-471a-9000-92e6ef58473a.jpg"
   },
   {
    "id": "54317b3c-db20-4236-b6e1-09e98c20e6c2",
@@ -108,7 +116,8 @@
     "en",
     "tr",
     "ru"
-   ]
+   ],
+   "coverFileName": "9042dc1c-e8ab-42ad-b1f3-730fa4bc77af.png"
   },
   {
    "id": "08038488-a64f-44a4-8b88-7dae11dcf2d5",
@@ -125,7 +134,8 @@
     "en",
     "tr",
     "vi"
-   ]
+   ],
+   "coverFileName": "87333cac-a5ba-468f-8bf4-1259fdf7fb05.jpg"
   },
   {
    "id": "8e6b0382-49d7-4131-8f4b-2e4df8a38102",
@@ -137,7 +147,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "e0e1c1d1-d429-49e1-9f8e-80359751295f.jpg"
   },
   {
    "id": "a4a1609f-ab1f-45a4-998c-c80d14fe593e",
@@ -151,8 +162,10 @@
     "es-la",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "d30655c7-e4d7-4541-96eb-df8dd062e2d5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:41+00:00"
+ "updatedAt": "2021-07-18T06:33:41+00:00",
+ "coverFileName": "7539ddbf-09f5-43f3-897b-02b358e9945f.jpg"
 }

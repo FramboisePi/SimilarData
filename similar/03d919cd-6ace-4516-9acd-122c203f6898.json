@@ -1,7 +1,7 @@
 {
  "id": "03d919cd-6ace-4516-9acd-122c203f6898",
  "title": {
-  "en": "Change☆Idol"
+  "en": "Change\u2606Idol"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.4490033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "247f7c81-1eab-49f2-916d-b61549d6b5a4.png"
   },
   {
    "id": "27fc5273-f856-4079-9449-fcbdbfed7cb6",
@@ -25,7 +26,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c841524c-6173-4488-af4f-21feb9ec7237.jpg"
   },
   {
    "id": "d17a891f-bc2c-4b5d-ac17-a03383d4270b",
@@ -36,7 +38,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6017be31-13de-4b7c-9c3f-3c0a3eac2cfc.jpg"
   },
   {
    "id": "ca8eed36-3e16-40cf-bfec-fc5f18fa5883",
@@ -48,18 +51,20 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "9a8e31ae-dba8-4e1a-afba-8873ba39dbaa.jpg"
   },
   {
    "id": "ffeb61d1-40cc-4af3-9ef6-b6fac2988315",
    "title": {
-    "en": "The Transformation of a Shut-in NEET Boy ♡"
+    "en": "The Transformation of a Shut-in NEET Boy \u2661"
    },
    "contentRating": "safe",
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ffbc04ff-3890-4140-a823-402cda56e1f4.jpg"
   },
   {
    "id": "9b70a9fb-1fa4-4fcf-8c59-290e7d17d712",
@@ -70,7 +75,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ba5ad21e-6629-453d-a1ba-757c2d6bfc9b.jpg"
   },
   {
    "id": "23c74d18-3dca-4fe8-9e54-0cb55b7b0dcd",
@@ -82,7 +88,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "cd2f4135-864d-417a-8869-a09386ed391e.jpg"
   },
   {
    "id": "07c1eeab-3185-4932-a975-132f2115d6bd",
@@ -95,7 +102,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f3357984-1792-489d-a4d7-e6287c957c4b.png"
   },
   {
    "id": "0dd31f51-2386-4cd4-8a95-09ff4b426128",
@@ -106,7 +114,8 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "002076d0-61ea-472e-954d-c5f4f0f889f4.jpg"
   },
   {
    "id": "23d6e974-c01f-4d12-af58-54f9053b9106",
@@ -118,7 +127,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "66725115-1cb9-4891-be95-44ac93f4c82a.png"
   },
   {
    "id": "893199b9-b5a4-4748-a363-da50e4121687",
@@ -130,7 +140,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "72ce2f24-57fd-4e9f-8c7e-240177ac3ed4.jpg"
   },
   {
    "id": "376231b2-e7f7-4d6b-b8e8-7ce2b933fd3b",
@@ -141,8 +152,10 @@
    "score": 0.36660966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5139cef9-441f-481e-ad36-1223a488811b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:11+00:00"
+ "updatedAt": "2021-07-18T06:25:11+00:00",
+ "coverFileName": "bb1721ea-c0fe-4f30-b9dd-e326c7ee0896.png"
 }

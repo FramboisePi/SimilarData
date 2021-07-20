@@ -1,7 +1,7 @@
 {
  "id": "bd9e8641-aaad-497b-b5ff-fd0dc5f12f05",
  "title": {
-  "en": "No. 6 dj - I’ll Become the Wind"
+  "en": "No. 6 dj - I\u2019ll Become the Wind"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.5160733,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "aa78c761-b57f-4a5a-a2d2-01e1d4c1341e.jpg"
   },
   {
    "id": "31eb0c0c-05e1-4507-9778-4e0873289c07",
@@ -26,7 +27,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "2e7a3954-49b6-469a-8e76-120e119d71fd.png"
   },
   {
    "id": "93eec60f-0232-4fd6-accf-cea698345c22",
@@ -37,7 +39,8 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "e57788e0-10f4-4312-820a-f98a46bf00f2.jpg"
   },
   {
    "id": "9ff02236-1746-4340-abf9-fda4cabf9724",
@@ -48,7 +51,8 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "09b0d3d5-8e77-4891-98bd-731a7fc7a5e1.png"
   },
   {
    "id": "338ad5bd-c7dd-4150-9568-a534aacf56a6",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "c28fd01e-ae3b-45c8-970a-d6f58e4dd079.png"
   },
   {
    "id": "19df5b19-b070-4080-b446-7ba4cc26ac28",
@@ -71,7 +76,8 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "163f0954-6e89-482a-944a-85163a6f9db6.png"
   },
   {
    "id": "90b352e6-5a17-4a79-aacb-66e2d3c2117b",
@@ -82,7 +88,8 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "c57a0093-79ab-48a4-8928-26a888035fa4.png"
   },
   {
    "id": "eff36872-67a1-4d0a-873a-5defe3fea19e",
@@ -95,7 +102,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "c84a28c9-49d6-4eb5-872e-6d00de79bdd0.png"
   },
   {
    "id": "3829f042-231c-40ef-b4ac-5da35f970d3a",
@@ -106,7 +114,8 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "4e3e7f47-8b91-49a4-a665-f2161d8acea7.jpg"
   },
   {
    "id": "58cb729a-76ed-4295-ad8e-e712a8ff3495",
@@ -117,7 +126,8 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "223ca98e-77a3-4de5-94b8-62e601dac871.png"
   },
   {
    "id": "2aef4d51-a3ad-4b04-a5fc-2b2711331d4e",
@@ -129,7 +139,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7aadc3ed-8fc3-493c-a090-4308da506ee2.png"
   },
   {
    "id": "57919e93-4b09-4ff9-bcc5-c0b0b0bd607b",
@@ -140,8 +151,10 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "b5349021-50b2-40ca-8e77-68996b83bf09.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:40+00:00"
+ "updatedAt": "2021-07-18T06:59:40+00:00",
+ "coverFileName": "43565ead-b4de-4b28-bb1f-58c045b79a40.png"
 }

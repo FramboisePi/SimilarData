@@ -1,7 +1,7 @@
 {
  "id": "2211b153-a31d-419c-b940-c33aa31ede75",
  "title": {
-  "en": "Ebisu Yoshikazu Collection SF \u0026 Mystery Hen - Utsukushiki Shitai"
+  "en": "Ebisu Yoshikazu Collection SF & Mystery Hen - Utsukushiki Shitai"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "588c9fb3-6b05-42c4-a052-41decb46ccba.jpg"
   },
   {
    "id": "ca41dac5-08ca-46a6-8b84-ebdec6baa75d",
@@ -25,7 +26,8 @@
    "score": 0.38971144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b33acda4-cfee-4c75-b805-17112bc26b47.jpg"
   },
   {
    "id": "4702058d-c553-4966-ab09-1deab6328384",
@@ -40,7 +42,8 @@
     "hu",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "896f2bf8-cb41-4baa-a084-12f3ebcb81df.jpg"
   },
   {
    "id": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "019b2049-93e2-4bfb-85ed-dc52d1be4d93.jpg"
   },
   {
    "id": "2fe33419-7c62-431d-a137-058dd0a8d998",
@@ -66,7 +70,8 @@
     "es-la",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "658d2e3b-e7e4-4661-8a63-e3adbf1de25d.jpg"
   },
   {
    "id": "1046e7cc-70f8-4acf-84e1-919848ef960f",
@@ -77,7 +82,8 @@
    "score": 0.34805083,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "671e3100-3c4c-44d6-8ddf-df3bde17a415.jpg"
   },
   {
    "id": "67068fbd-0d07-48a5-a5e6-82e2b53d5c26",
@@ -89,7 +95,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "77b3e02d-feb3-457f-8f73-aaff16dc34b2.jpg"
   },
   {
    "id": "db66c890-3447-4fdf-b4b3-57d4b8ea63ea",
@@ -100,7 +107,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4545a625-07de-461e-b85f-4c09c706f167.jpg"
   },
   {
    "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
@@ -112,7 +120,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "2f4adb74-7bcf-42cf-82dd-59e5194407b1.jpg"
   },
   {
    "id": "c5932a29-9f66-4761-add6-40778301289b",
@@ -123,7 +132,8 @@
    "score": 0.33130682,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a1e56cf-0f99-4b55-8b09-559eea32106d.jpg"
   },
   {
    "id": "60846bad-6ab6-449f-98f8-6bd615e99974",
@@ -134,7 +144,8 @@
    "score": 0.3306427,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bbc4961-7091-4267-9d40-e76ec8f70c35.jpg"
   },
   {
    "id": "fb6759ae-dbd9-4583-9e56-cf5aae58d6ad",
@@ -145,8 +156,10 @@
    "score": 0.32920152,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81f668e9-ca3e-474e-977f-cdd30c3eb0e6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:50+00:00"
+ "updatedAt": "2021-07-18T06:30:50+00:00",
+ "coverFileName": "f4e8b6c2-d539-4b7a-bc6b-dd0fae6f1113.jpg"
 }

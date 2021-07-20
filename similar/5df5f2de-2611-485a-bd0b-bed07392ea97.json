@@ -1,7 +1,7 @@
 {
  "id": "5df5f2de-2611-485a-bd0b-bed07392ea97",
  "title": {
-  "en": "Macross Δ Gaiden: Macross E"
+  "en": "Macross \u0394 Gaiden: Macross E"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.62121046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c1f8201-1ded-4954-93c6-b4f8da516b7f.jpg"
   },
   {
    "id": "b1305dd2-66dc-4c00-aba4-6a2b6abee867",
@@ -25,7 +26,8 @@
    "score": 0.41227496,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e846449-c200-4121-b9a8-5278049a7028.jpg"
   },
   {
    "id": "741e98c5-5a0c-4afe-bef8-a73434e3605a",
@@ -36,7 +38,8 @@
    "score": 0.40466332,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "081f9099-a4e1-4339-8fb5-639d4424f274.jpg"
   },
   {
    "id": "5e7fe470-f024-4cfd-a179-77c7fd06c285",
@@ -47,7 +50,8 @@
    "score": 0.3808902,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18f34f14-fa1a-4581-9656-e4f587bba7da.jpg"
   },
   {
    "id": "f7e6f8c8-8c77-40e0-b44d-0402e04d40e6",
@@ -58,7 +62,8 @@
    "score": 0.37846708,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "be840241-60ba-4f4b-91f9-d17d509c89f7.jpg"
   },
   {
    "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
@@ -69,18 +74,20 @@
    "score": 0.37022167,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6bb2af0-14b0-4de2-8117-094014373a25.jpg"
   },
   {
    "id": "305a0da3-0a8b-4c3e-8b78-d854ed0a54d4",
    "title": {
-    "en": "Advance of Ζ - Titans no Hata no Moto ni"
+    "en": "Advance of \u0396 - Titans no Hata no Moto ni"
    },
    "contentRating": "safe",
    "score": 0.36552933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "55a102c2-9a31-4bd5-92f6-d7a01bd032b7.png"
   },
   {
    "id": "3c2cf97e-0c2e-47ac-a4ed-9bd97f710fdc",
@@ -91,18 +98,20 @@
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "883fd3a1-77ba-49d4-a9b1-d26723d19707.jpg"
   },
   {
    "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
    "title": {
-    "en": "Kidou Senshi Gundam: École du Ciel"
+    "en": "Kidou Senshi Gundam: \u00c9cole du Ciel"
    },
    "contentRating": "safe",
    "score": 0.36194187,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "07c5c4c5-e5ad-45d3-8e8e-a0c55f5552bb.jpg"
   },
   {
    "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
@@ -113,7 +122,8 @@
    "score": 0.337275,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a3fc00cb-20ee-48b1-b520-c346e72c4a7f.jpg"
   },
   {
    "id": "877b6ccb-fd76-4210-9768-1f12614a1337",
@@ -124,7 +134,8 @@
    "score": 0.33539656,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c27e5e9-f296-4504-8222-0cbc00e29d54.jpg"
   },
   {
    "id": "c2ec155f-67db-4010-990d-ec8c0914ab0e",
@@ -136,8 +147,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a87327d4-fd02-42c1-9f8e-d6cb40149afa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:58+00:00"
+ "updatedAt": "2021-07-18T06:41:58+00:00",
+ "coverFileName": "fa7edc54-f9f1-41fb-ba13-6ce003697a89.jpg"
 }

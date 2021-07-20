@@ -1,7 +1,7 @@
 {
  "id": "e4631dc7-87b9-4d6a-8b3b-5594664ecc27",
  "title": {
-  "en": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!"
+  "en": "Fate/kaleid liner PRISMA\u2606ILLYA 3rei!!"
  },
  "contentRating": "suggestive",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.3694916,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8976c817-95d5-4621-a1a3-235d7b910cf0.jpg"
   },
   {
    "id": "0a2cd82d-6dab-4d38-8c93-da86343f51a1",
@@ -25,7 +26,8 @@
    "score": 0.3678241,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3ecf678-ab62-46b8-886a-7f6fbaf2fee9.jpg"
   },
   {
    "id": "20218877-6574-42f2-b595-928e40dbb85c",
@@ -39,7 +41,8 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "5f4745af-84a3-446b-bb0c-158f10c3e761.jpg"
   },
   {
    "id": "087ca0c7-33e8-4c71-b8eb-64bf27aedb11",
@@ -52,7 +55,8 @@
     "en",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "83b44c98-faef-4f32-8088-fadbe1d32bbb.jpg"
   },
   {
    "id": "c178430f-2f26-4c22-bb02-a6b0196a17c3",
@@ -65,7 +69,8 @@
     "en",
     "zh-hk",
     "pl"
-   ]
+   ],
+   "coverFileName": "77e96cfd-6394-4b16-88ea-63d3891f50ad.jpg"
   },
   {
    "id": "8b493efc-6b1f-4e0c-b714-10fbaf54f7cd",
@@ -76,7 +81,8 @@
    "score": 0.33665746,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c890032b-2629-4063-82a9-8592b6c671c6.png"
   },
   {
    "id": "1c447c27-bff0-4795-99fc-5a286c0b0eb0",
@@ -88,7 +94,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "2c5608f2-5993-40f4-b9c0-f74648de5d3b.jpg"
   },
   {
    "id": "1df840e9-e112-4503-9c99-2fa93a5cb764",
@@ -103,7 +110,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "63963472-dd66-480d-8f97-0020ffeee92c.jpg"
   },
   {
    "id": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
@@ -114,7 +122,8 @@
    "score": 0.3238657,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8a400044-dcc7-4d36-81c9-10c6f23d78cd.jpg"
   },
   {
    "id": "6607171a-7d84-4776-9fc4-3bfee8794e8c",
@@ -127,7 +136,8 @@
     "ru",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e1694386-3a06-4d88-8c70-97f38ec2868a.jpg"
   },
   {
    "id": "9879d6be-3b5e-46f4-86bf-41341ec30a7e",
@@ -143,7 +153,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "8969a6c7-720c-4ecd-9f2a-aa83dc7b4b32.jpg"
   },
   {
    "id": "0051e50a-e30c-4bb2-b378-c3da82463ee1",
@@ -159,8 +170,10 @@
     "fr",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4df0ae83-f2fc-4ee3-ace9-900b732cfa66.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:46+00:00"
+ "updatedAt": "2021-07-18T07:06:46+00:00",
+ "coverFileName": "8ae97b52-cece-4f4c-84f3-610e347f43d0.jpg"
 }

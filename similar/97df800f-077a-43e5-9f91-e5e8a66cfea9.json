@@ -1,7 +1,7 @@
 {
  "id": "97df800f-077a-43e5-9f91-e5e8a66cfea9",
  "title": {
-  "en": "Henai Café"
+  "en": "Henai Caf\u00e9"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.44161415,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8541464d-646a-404c-98dc-0c77133f997d.jpg"
   },
   {
    "id": "6528f6fe-914d-4dab-85d6-93a86aba5a49",
@@ -27,7 +28,8 @@
     "uk",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "ce9ae07c-3ebb-45c4-a6ca-ebf8ad43e13b.jpg"
   },
   {
    "id": "dbe15246-3721-450c-9c91-cebcb6f6f15b",
@@ -38,7 +40,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "804c4100-ecf1-441c-b6a2-5e451497ab3a.png"
   },
   {
    "id": "4539cb6c-762a-42d3-9cfd-847dff6f2101",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "abd841ee-eb46-4a01-8b5c-93489129ba9c.jpg"
   },
   {
    "id": "98a3bdf6-ad37-4ec5-83ab-e8257d02b0b5",
@@ -61,7 +65,8 @@
    "score": 0.4017226,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2815e35d-6afd-44aa-a8ee-128a87172300.jpg"
   },
   {
    "id": "5347a38a-591a-4df8-a6ff-89a8b2112eab",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f68cee45-5358-4d54-8afd-cb94a055832d.jpg"
   },
   {
    "id": "8ee6b9e5-848a-4123-8272-c1dc3173f24b",
@@ -87,7 +93,8 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "7d1e2368-1667-441d-9ca8-741a73189062.jpg"
   },
   {
    "id": "42093ce6-b64b-43da-91c6-b1e0eaaae0ff",
@@ -99,18 +106,20 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "2032e041-cacc-480b-8e09-73d50df2500d.jpg"
   },
   {
    "id": "2f5d59fe-6d90-4484-b5b8-46496a4cd96e",
    "title": {
-    "en": "Ja Ja Uma Grooming★UP!"
+    "en": "Ja Ja Uma Grooming\u2605UP!"
    },
    "contentRating": "safe",
    "score": 0.39471823,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9218b854-d86b-4bee-bfec-2ffda19e5d70.jpg"
   },
   {
    "id": "c10fe821-75be-4fcc-9e01-0a4d596477db",
@@ -122,7 +131,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "00e29394-c30e-4f0d-b011-298ce38e35b3.jpg"
   },
   {
    "id": "8ae4d0f6-152a-4956-8664-4405758d26ae",
@@ -138,7 +148,8 @@
     "ru",
     "zh",
     "id"
-   ]
+   ],
+   "coverFileName": "317141fa-31be-4550-ab35-a0a7417d1d1b.jpg"
   },
   {
    "id": "957a2d3f-0283-472d-b3a4-59133febe0ab",
@@ -149,8 +160,10 @@
    "score": 0.3838715,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "88a59200-39d1-44c5-a458-2a34b2302537.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:45+00:00"
+ "updatedAt": "2021-07-18T06:52:45+00:00",
+ "coverFileName": "a6a9c5ff-8385-4400-a791-593f52dd1542.jpg"
 }

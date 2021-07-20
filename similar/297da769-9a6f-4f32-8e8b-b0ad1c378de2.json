@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "bb213637-d155-420a-b142-57d596aaa74e.jpg"
   },
   {
    "id": "60596604-eb6c-4c71-816c-7230ad62de14",
@@ -27,7 +28,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "69edb701-1656-4c6a-afac-411b63e5f0ba.png"
   },
   {
    "id": "46f059bd-a690-4c4d-ace7-0a16f89d0179",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "23bd8390-3e0b-4a21-85d3-d854db4e4ef8.jpg"
   },
   {
    "id": "acb9c9bc-63cf-46be-9f2c-95197344b693",
@@ -52,7 +55,8 @@
     "es",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "5344922f-d5a2-44d5-894d-e32a753e3e8c.jpg"
   },
   {
    "id": "96478e7c-452b-4731-93d7-95a089535d17",
@@ -64,7 +68,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cf8bf718-8f73-457b-b712-a6e5eaf5a425.jpg"
   },
   {
    "id": "0375994e-445d-4c7c-aa05-888996ad11a7",
@@ -81,7 +86,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a465f1dd-d83d-4f30-8801-8c852451e835.jpg"
   },
   {
    "id": "9a360b5f-06b5-44c5-894f-60ac99214a1d",
@@ -92,18 +98,20 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bbfc6330-513b-48ff-9e27-3c5d79f72b3d.png"
   },
   {
    "id": "a4c2cbad-0706-4ab7-b959-66c9140b39b6",
    "title": {
-    "en": "Shoujo²"
+    "en": "Shoujo\u00b2"
    },
    "contentRating": "safe",
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0300cdc7-d420-4ad4-945a-94a5a3bb20eb.jpg"
   },
   {
    "id": "19ae1fe0-0ca0-42f2-a4e9-6f0164154fe2",
@@ -114,7 +122,8 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae35f7e4-8eed-4a57-903e-a7cdaaccb522.jpg"
   },
   {
    "id": "7e375967-e709-46aa-8fe4-2fb83a017451",
@@ -126,7 +135,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a4709cb3-d5b2-4bbe-beb0-19228511184b.png"
   },
   {
    "id": "328c75df-3eb5-4880-acc5-a0330f17ed76",
@@ -137,7 +147,8 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23b98efb-2731-492d-9f5d-991c40c06457.jpg"
   },
   {
    "id": "3d6a76cc-6a45-4212-9e44-af59140ef2ea",
@@ -148,8 +159,10 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7cbb337a-d3e8-4550-b0d0-ce72c296bc88.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:13+00:00"
+ "updatedAt": "2021-07-18T06:32:13+00:00",
+ "coverFileName": "e365a272-3c84-454d-8bce-3b25c862f695.png"
 }

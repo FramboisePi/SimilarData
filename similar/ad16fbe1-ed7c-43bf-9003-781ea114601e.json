@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "5ea9a89a-885f-488e-addb-5565707a55d2.jpg"
   },
   {
    "id": "11101340-f122-40e6-a5e6-a0feffa120da",
@@ -30,7 +31,8 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "880507c5-375f-48b2-a0f0-dc769547bd26.jpg"
   },
   {
    "id": "3a7c6775-58cc-47d5-9ecd-777e25799994",
@@ -41,7 +43,8 @@
    "score": 0.4447352,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d8937418-bc41-4109-aafe-6134f514dbbd.jpg"
   },
   {
    "id": "60ad2b1c-9dd6-44a3-aed9-dba2823472b6",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2ce265ed-ee9e-4da8-8e46-d7e3381e1179.jpg"
   },
   {
    "id": "afa0770f-4648-4c12-94c6-78cb96da3cb3",
@@ -67,18 +71,20 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cf8c3659-8fd0-4e12-8505-6b453c3266e6.jpg"
   },
   {
    "id": "6fc4f9d5-ac9b-4f04-822d-343dde6ff755",
    "title": {
-    "en": "Hiiragi Shougakkou Ren’ai Club"
+    "en": "Hiiragi Shougakkou Ren\u2019ai Club"
    },
    "contentRating": "suggestive",
    "score": 0.40534484,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91b94a08-0c99-43db-ae86-a358b2fbd144.jpg"
   },
   {
    "id": "a821e1b2-eea8-463b-b1ba-3f49478c4aaa",
@@ -89,7 +95,8 @@
    "score": 0.40004355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b84e4fba-0409-4d07-8e06-510aaff9ea51.jpg"
   },
   {
    "id": "5088c719-4e36-4da1-972c-a6f085859243",
@@ -100,7 +107,8 @@
    "score": 0.39984754,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f924bef3-e98e-4ddf-b087-96fc98b8ef09.jpg"
   },
   {
    "id": "f4385480-57a5-4590-b731-9d233c96cf7e",
@@ -115,7 +123,8 @@
     "pt-br",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "45dadd2f-7961-445b-852a-d6152381c380.png"
   },
   {
    "id": "579fa652-addd-4b8b-9fa3-fd730a17dd86",
@@ -126,7 +135,8 @@
    "score": 0.39011538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f0df5c45-ef59-42b9-961a-587941613aff.jpg"
   },
   {
    "id": "305c5759-4e7e-43d3-9d99-5360c6d9d6e1",
@@ -139,7 +149,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "0c08906b-5cd1-4ea1-a8cc-66d283061396.jpg"
   },
   {
    "id": "0b5a7adc-182e-4ee5-8432-d0b8ef65a60d",
@@ -153,8 +164,10 @@
     "ru",
     "fr",
     "de"
-   ]
+   ],
+   "coverFileName": "99e88502-6e90-4274-ae65-08908540dc01.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:38+00:00"
+ "updatedAt": "2021-07-18T06:56:38+00:00",
+ "coverFileName": "c948eb4a-752d-4534-b69d-a53cc8376ab7.jpg"
 }

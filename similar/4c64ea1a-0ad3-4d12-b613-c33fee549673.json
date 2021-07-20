@@ -14,7 +14,8 @@
    "score": 0.47798216,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f713e55-8d7b-4ef8-915c-c9d42d8ee755.png"
   },
   {
    "id": "e97cbd9b-53dd-4499-968b-6c1e71f226b0",
@@ -26,7 +27,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "92278cf1-89f7-4080-aeb9-c7f9aacfa1a3.jpg"
   },
   {
    "id": "48bc1e2c-2f94-4742-9452-6b8209e9512f",
@@ -37,7 +39,8 @@
    "score": 0.45222935,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ebf49760-2675-4f46-93aa-bcef18e5b4e3.jpg"
   },
   {
    "id": "23f3f747-71fa-4658-bdd9-32941a1ed83d",
@@ -49,7 +52,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "22c144f4-687b-43b0-8c02-5852a64bf1dc.jpg"
   },
   {
    "id": "fb0974dd-b7f2-4418-92af-2f553d296b80",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ff6fed91-b249-44db-8ec5-9ca9d2027a6f.jpg"
   },
   {
    "id": "c615dd55-dbfd-4416-b631-01232984aa71",
@@ -74,7 +79,8 @@
     "id",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5d85a10b-3f94-4c09-b166-a9d10fd8e32b.png"
   },
   {
    "id": "24aec77b-d8e5-4d7f-bc5f-9c06371c11e6",
@@ -85,7 +91,8 @@
    "score": 0.4404592,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b27a9a3-daa2-4cac-a92c-59c5ce0d5fa8.jpg"
   },
   {
    "id": "cba06302-a30b-48fa-9000-c5e5c0a2d9a5",
@@ -96,7 +103,8 @@
    "score": 0.43898734,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc411e13-fc1d-4a69-9993-2cd8b63ef206.jpg"
   },
   {
    "id": "58523531-d36d-44bc-b06c-a3eb35d9e7b1",
@@ -108,7 +116,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "aa3595a3-7151-4652-98ec-166ef4e45296.jpg"
   },
   {
    "id": "1e604865-cc19-4e3f-8663-89ea46f544b8",
@@ -119,19 +128,21 @@
    "score": 0.42579523,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ac11494d-0b53-4d15-b65b-f63d0af39f34.jpg"
   },
   {
    "id": "36bad9cb-6310-4048-a48e-a1ab7b7dcb3e",
    "title": {
-    "en": "Demon X Angel, Can’t Get Along!"
+    "en": "Demon X Angel, Can\u2019t Get Along!"
    },
    "contentRating": "safe",
    "score": 0.4225245,
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "f9b2bc85-6938-477c-8507-1f654ccae743.jpg"
   },
   {
    "id": "91c941ac-8f2e-466c-ab53-bd1471980c24",
@@ -143,8 +154,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "24c1390c-0e2a-44f3-95b8-45a9a1588096.png"
   }
  ],
- "updatedAt": "2021-07-18T06:38:41+00:00"
+ "updatedAt": "2021-07-18T06:38:41+00:00",
+ "coverFileName": "d91e73c7-0f01-4009-8512-869224dcd135.png"
 }

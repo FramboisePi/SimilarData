@@ -1,7 +1,7 @@
 {
  "id": "e40ac685-e7ef-4dd6-98d2-486a30187f62",
  "title": {
-  "en": "Forbidden City · Impurrial Cat Room"
+  "en": "Forbidden City \u00b7 Impurrial Cat Room"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b93d84e0-e25f-4e37-8d7a-377d72d5d9a7.jpg"
   },
   {
    "id": "b692e50e-6a5e-4afa-a85f-7d233d871bc0",
@@ -26,7 +27,8 @@
    "score": 0.38884786,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e49d9adf-d903-4ecf-bd33-2d5168382c10.png"
   },
   {
    "id": "8a8e1de3-aa39-422a-a1b6-002ef0886cb0",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
   },
   {
    "id": "7adb7f61-926e-44af-aed8-05c150357ba7",
@@ -49,7 +52,8 @@
    "score": 0.3880694,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5789e070-042e-4438-b22a-3655b2cad585.jpg"
   },
   {
    "id": "7e544761-7d3d-4fce-8137-719814d7d138",
@@ -64,7 +68,8 @@
     "ru",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "fb6c4bd5-f800-41f5-beaf-a0a0bba43bad.jpg"
   },
   {
    "id": "37f6ed0c-effe-4542-a98a-0594aa3d46f3",
@@ -77,7 +82,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ec44647d-05db-4d02-8317-5b632e7804cf.jpg"
   },
   {
    "id": "f59ec379-06c5-41b5-94b5-70d9d76a00d1",
@@ -89,7 +95,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f1774176-f51d-4b7b-8de9-f885c1f9fa63.jpg"
   },
   {
    "id": "89c37252-b871-42fc-8043-9bca82c6a340",
@@ -105,7 +112,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "67f0ba8a-5ef8-48fc-a777-ee9baf27f160.png"
   },
   {
    "id": "4e5a0434-b2af-4f96-84bf-320441eef2b9",
@@ -116,7 +124,8 @@
    "score": 0.36627352,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bf2aba7-0f84-48fe-9a83-9f56566638cc.png"
   },
   {
    "id": "0a9ceb91-70b4-40e5-beff-b47edb0dc518",
@@ -128,7 +137,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "35dd3d1e-0e68-47bb-994b-b22e36c27611.jpg"
   },
   {
    "id": "97171bdf-dc27-44ca-a6f3-6bb455fe84c7",
@@ -141,7 +151,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "c5333f6f-af1f-42b3-958b-1dabefbbad46.jpg"
   },
   {
    "id": "5936f8c3-115a-4b73-ae30-ed314cbe9aeb",
@@ -153,8 +164,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "9b24cb8d-ac30-4528-a2a1-7315ad398c85.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:42+00:00"
+ "updatedAt": "2021-07-18T07:06:42+00:00",
+ "coverFileName": "75ec4af7-9180-4e54-84c6-cbb1d5ef529e.jpg"
 }

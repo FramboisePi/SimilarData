@@ -14,7 +14,8 @@
    "score": 0.46535796,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e5face86-3b89-428f-af2e-b717c7e9f15c.jpg"
   },
   {
    "id": "aac30e6b-d856-4b71-ae4d-af979cd9d3ef",
@@ -27,7 +28,8 @@
     "en",
     "ru",
     "es"
-   ]
+   ],
+   "coverFileName": "dc222376-7c59-4941-8ec3-e78c7f2f45e4.jpg"
   },
   {
    "id": "785d894c-1f6c-429e-b0a2-7ea584643fe4",
@@ -38,19 +40,21 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c6ecb21-d63e-4be7-8359-8eef0f502ea7.jpg"
   },
   {
    "id": "06a027d2-c225-410b-ad7f-a894c904b883",
    "title": {
-    "en": "Skyhigh [hévәn]"
+    "en": "Skyhigh [h\u00e9v\u04d9n]"
    },
    "contentRating": "safe",
    "score": 0.4490731,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "32099455-8ae0-4d4e-89b0-0decf4db46c5.jpg"
   },
   {
    "id": "18303616-5df6-449d-8466-21b67cbdfe17",
@@ -61,7 +65,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2de6f5d9-933a-4c35-b5b8-5ad1d0afa042.jpg"
   },
   {
    "id": "2de6c723-c98f-4ae3-a4df-3cecde1578e0",
@@ -75,7 +80,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "ff7245f9-c157-4572-91a2-4cf5663f04bd.jpg"
   },
   {
    "id": "88af9957-ca28-4159-bc3a-27d3af317e4c",
@@ -88,7 +94,8 @@
     "es",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0a266d59-38b0-47c0-8d1a-e49205608064.jpg"
   },
   {
    "id": "41833997-4ce8-4154-808b-7b1602569e80",
@@ -100,7 +107,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "883c7ab3-e561-4e95-9ee1-a96317de0a11.jpg"
   },
   {
    "id": "498e95c9-292f-4c19-994d-7281b2253a02",
@@ -111,7 +119,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e082301c-5351-4042-8715-b8c1487ef148.jpg"
   },
   {
    "id": "59b0f38e-20bc-47d3-811d-64daea3f1e09",
@@ -124,7 +133,8 @@
     "hu",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5502f532-d5a6-4c0b-a1fc-387259be0654.jpg"
   },
   {
    "id": "1957dc19-d829-4c49-a57f-69b2c2de45bb",
@@ -136,7 +146,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "5550365c-e676-4ffb-a14d-84f4def48c1b.jpg"
   },
   {
    "id": "f106852e-41ac-438e-9979-561c5b100d43",
@@ -149,8 +160,10 @@
     "en",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "6483f2f4-d6e2-400d-9fdd-523ab63db166.png"
   }
  ],
- "updatedAt": "2021-07-18T07:06:00+00:00"
+ "updatedAt": "2021-07-18T07:06:00+00:00",
+ "coverFileName": "d23abe77-935f-441e-889f-379d235e0c59.jpg"
 }

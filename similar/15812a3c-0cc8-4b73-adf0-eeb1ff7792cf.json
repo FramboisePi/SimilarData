@@ -1,7 +1,7 @@
 {
  "id": "15812a3c-0cc8-4b73-adf0-eeb1ff7792cf",
  "title": {
-  "en": "Caterpillar \u0026 Butterfly"
+  "en": "Caterpillar & Butterfly"
  },
  "contentRating": "safe",
  "matches": [
@@ -17,7 +17,8 @@
     "pt-br",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "cb99e4ae-d18f-4b3f-8229-c59c517acbee.jpg"
   },
   {
    "id": "9bf2768a-0d27-48ee-b4e9-efba19a3fbf1",
@@ -28,7 +29,8 @@
    "score": 0.3650882,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "70c92965-533b-467b-b544-cfd07c4dce61.png"
   },
   {
    "id": "7e9ea5e7-7dc0-4907-b79c-5b66605ef955",
@@ -41,7 +43,8 @@
     "en",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "8d046af3-2206-4452-844b-5310f16d1b10.jpg"
   },
   {
    "id": "07a84388-65bb-435d-86c0-c2d06857be1a",
@@ -53,7 +56,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "604eb068-dd69-4ea6-a00b-d1c3ec4bb262.jpg"
   },
   {
    "id": "ca5024a5-0f1e-4ad7-8412-6780265e3d07",
@@ -64,7 +68,8 @@
    "score": 0.3650882,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc2ccaf5-c8b1-4ad5-b9fb-5f7516a7b3ac.jpg"
   },
   {
    "id": "9959a6e4-0602-4573-b40e-06fc9a4c4a6c",
@@ -75,7 +80,8 @@
    "score": 0.36499822,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa9affa9-2ab6-4105-a8dd-528fe4f6b186.jpg"
   },
   {
    "id": "367cd170-2528-47b3-89d5-e61e2f630d05",
@@ -86,7 +92,8 @@
    "score": 0.36489818,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "36a9cbe1-90f1-4171-94a7-b66409d92bfa.jpg"
   },
   {
    "id": "3c8cce29-530d-4de2-b66d-15773876e6a2",
@@ -98,7 +105,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "7eac78f9-674f-4e3a-8ad3-d30b411a9a8a.png"
   },
   {
    "id": "01e1c180-7fb3-4715-999c-5f197bd27a8c",
@@ -110,7 +118,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "9437193d-fd19-480c-9041-e11ffbe661df.jpg"
   },
   {
    "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
@@ -123,7 +132,8 @@
     "it",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "aed49af7-c5aa-4029-8ac3-acc3c147414a.png"
   },
   {
    "id": "42e8facc-00b0-4eff-bb8e-f01af83c6c0b",
@@ -134,7 +144,8 @@
    "score": 0.35429472,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea2e3e13-e925-4ade-a485-58938783d505.jpg"
   },
   {
    "id": "84e1e9b6-30a8-4c19-a513-b06619777d2b",
@@ -145,8 +156,10 @@
    "score": 0.34878373,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "37a126a3-fd60-4472-ae66-1fdeeb5d0bb8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:30+00:00"
+ "updatedAt": "2021-07-18T06:28:30+00:00",
+ "coverFileName": "2d105e8d-d1e1-44de-b22b-8fd88a733663.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "d5cc4b0e-d28d-4ff5-9a69-fd4c54bb5e1d",
  "title": {
-  "en": "Magical★Travel Boy"
+  "en": "Magical\u2605Travel Boy"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.41368282,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "596223df-218b-4f3c-9630-9413f948556f.jpg"
   },
   {
    "id": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
@@ -26,7 +27,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "30675e6e-e7de-4916-8cef-4175d5606196.png"
   },
   {
    "id": "0453c4ab-ba0e-4146-841c-96fe83cb2790",
@@ -38,7 +40,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f94766e5-b608-43d5-9ee7-d82056d62751.png"
   },
   {
    "id": "2ecd6f04-4b48-4c1f-8c4e-9807be2aa616",
@@ -49,7 +52,8 @@
    "score": 0.3894732,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9d86e208-90b8-4457-a8a6-e6a0b7726997.jpg"
   },
   {
    "id": "b2c8cb26-ae43-4ef4-aeb9-beac741ae30b",
@@ -60,7 +64,8 @@
    "score": 0.38858038,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ca0a9aec-f0b1-4d6c-818f-477ff8074cf8.jpg"
   },
   {
    "id": "360339c3-baa0-4178-a8cf-1813a7c84ad6",
@@ -72,7 +77,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "02df9a6b-7dbc-4f75-9223-826740358541.jpg"
   },
   {
    "id": "558c2122-7342-4649-85e9-a866727bb2e8",
@@ -88,7 +94,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "cbe549cf-e55d-4330-9b14-2f1f21974cdb.jpg"
   },
   {
    "id": "e60eb8ec-b038-4362-a0cb-49575b71d51e",
@@ -99,7 +106,8 @@
    "score": 0.38039273,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2606ba33-cf4e-481f-9edb-7d555efad03d.jpg"
   },
   {
    "id": "2833780e-e2a9-41e1-9a3e-951983002d30",
@@ -111,7 +119,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "28c5780f-5db5-4898-8480-7dd9475168cb.jpg"
   },
   {
    "id": "e7babb89-96ba-40b1-b380-53f7e6ef4acf",
@@ -123,7 +132,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "97d5e9e4-7997-4e2c-ac4c-4c09e8f3b551.jpg"
   },
   {
    "id": "1fc1f0f8-7d18-4da0-aeba-8da43bbb9a03",
@@ -136,7 +146,8 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "6664048b-1874-450f-89a6-e39ac02608f0.jpg"
   },
   {
    "id": "b2d45a52-dc2f-4473-9bda-ef52252dee2e",
@@ -147,8 +158,10 @@
    "score": 0.37475505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "855ee6d5-a1d0-417c-9838-21108908afd7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:06+00:00"
+ "updatedAt": "2021-07-18T07:04:06+00:00",
+ "coverFileName": "dfd6ebbb-292e-4243-a3ee-427a9eb55b17.jpg"
 }

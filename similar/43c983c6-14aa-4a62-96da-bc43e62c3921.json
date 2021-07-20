@@ -16,7 +16,8 @@
     "ru",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "78734fd7-1120-4c05-90d0-bd6e8814df1b.jpg"
   },
   {
    "id": "244b12d9-8495-48d8-aa56-a4c03105297d",
@@ -29,7 +30,8 @@
     "tr",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "4019257d-732e-447f-b823-1a0f47ed9137.jpg"
   },
   {
    "id": "5162d7e1-dcd4-4a3f-980f-83ca6c2a6957",
@@ -41,7 +43,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "edc500dc-34a9-4211-9451-d6875a4a4318.jpg"
   },
   {
    "id": "e1cb49f7-935b-4cb6-b575-ebd8e90e4566",
@@ -54,7 +57,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "98336c31-b6fd-4bf7-83d5-3fc8af79e6f0.jpg"
   },
   {
    "id": "61ed2b2d-2df7-481c-b45d-4a5ad3c2cb96",
@@ -66,12 +70,13 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "0ae20b49-944d-4486-ab6b-3c0d65d409d6.jpg"
   },
   {
    "id": "5353e8c5-8a6c-402a-895b-0d09feec17d4",
    "title": {
-    "en": "The Savior's Book Café in Another World"
+    "en": "The Savior's Book Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.3895296,
@@ -80,7 +85,8 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "36d955f3-56fb-4a77-9d26-eff42d3dffbd.jpg"
   },
   {
    "id": "638b92a8-b686-4168-9087-973c40eeea01",
@@ -91,7 +97,8 @@
    "score": 0.3888161,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3ffbd9b-413d-453f-90d0-16542e6411c1.jpg"
   },
   {
    "id": "0b09df33-d3cd-4c32-ba46-ce0415b1fa2c",
@@ -105,7 +112,8 @@
     "fr",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "a4ea5f32-f99c-4b63-8990-54d69e21115b.jpg"
   },
   {
    "id": "29a480b7-573f-45cf-967a-9c68e95356ea",
@@ -117,18 +125,20 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "5deb7b8e-be78-48f4-9ada-a27fc5037017.jpg"
   },
   {
    "id": "966b23af-d339-4c3e-935b-3c3af1431727",
    "title": {
-    "en": "In an Otome Game World, I’m a Villain?! I Can’t Accept This!"
+    "en": "In an Otome Game World, I\u2019m a Villain?! I Can\u2019t Accept This!"
    },
    "contentRating": "safe",
    "score": 0.38048536,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7af2bc6d-b471-4a6f-b0c5-2554e9c1bfaa.jpg"
   },
   {
    "id": "1d6f3dd6-f222-40d4-aefb-f1b5b949b635",
@@ -142,7 +152,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f2123b99-8c7d-40d1-ac52-962f1ac4a06b.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -155,8 +166,10 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:37:07+00:00"
+ "updatedAt": "2021-07-18T06:37:07+00:00",
+ "coverFileName": "17eb2cd8-32fc-45b3-9d7f-60d2e2bf0b50.jpg"
 }

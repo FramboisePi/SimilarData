@@ -19,7 +19,8 @@
     "fr",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "c9be5e48-ea5b-4cee-a72c-d12c6d3b4d0e.jpg"
   },
   {
    "id": "2f1a2700-662e-4f6f-b0f8-24aeb274d839",
@@ -31,7 +32,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0cd79ae7-1fb5-4293-8289-7cb24409b3a0.jpg"
   },
   {
    "id": "63faa32e-3d40-4b58-bfe3-ec4dbfe93efb",
@@ -42,7 +44,8 @@
    "score": 0.4371956,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ec4db94-f57f-41be-b2b9-af0ecd151a88.jpg"
   },
   {
    "id": "9903ac5f-b7ef-44ec-a7fd-a971c23473fd",
@@ -58,7 +61,8 @@
     "tr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7cb6b00c-cebc-4111-857b-e362b6c10a8d.jpg"
   },
   {
    "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
@@ -71,7 +75,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1f62c44c-a24c-42ad-b667-3f363527b5d6.jpg"
   },
   {
    "id": "f8d085b9-8a5f-4a1f-be1f-8686b132ded9",
@@ -83,7 +88,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "abbf2e0d-0a5e-4cb8-886d-5a5d5e27f3c8.jpg"
   },
   {
    "id": "54c2de19-889c-4b04-b9f0-39e28a769a98",
@@ -94,12 +100,13 @@
    "score": 0.41694036,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b003512-3ac5-41e2-a503-e5bf80fc7aff.jpg"
   },
   {
    "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
    "title": {
-    "en": "Lucky☆Star"
+    "en": "Lucky\u2606Star"
    },
    "contentRating": "safe",
    "score": 0.4158137,
@@ -107,18 +114,20 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "fa5cc460-3d33-4085-b8a1-cbc8eb3f434c.png"
   },
   {
    "id": "48c3f749-c37a-4e13-ac61-94ef19dce6bc",
    "title": {
-    "en": "Masamune-kun no Re ○○○"
+    "en": "Masamune-kun no Re \u25cb\u25cb\u25cb"
    },
    "contentRating": "safe",
    "score": 0.41502264,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2a994570-364a-4dcb-b3be-e269d63599a6.jpg"
   },
   {
    "id": "1104caa6-505c-4a28-876d-8ce6adb14e5b",
@@ -129,7 +138,8 @@
    "score": 0.41470498,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "11373c5d-1852-4a3a-b58f-ebd09ab993d8.png"
   },
   {
    "id": "5aa5fb6a-42b2-431c-bfef-a2d8e0abb6fa",
@@ -140,7 +150,8 @@
    "score": 0.4127675,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0dfd24af-9df9-4f81-8b82-7a71e38e9cfc.jpg"
   },
   {
    "id": "c4613b7d-7a6e-48f9-82f0-bce3dd33383a",
@@ -154,8 +165,10 @@
     "en",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "e117cee8-e034-4d6d-98c8-572a968be80b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:40+00:00"
+ "updatedAt": "2021-07-18T06:30:40+00:00",
+ "coverFileName": "8cf166a0-87c0-4ffe-9b76-f5c5b2327397.png"
 }

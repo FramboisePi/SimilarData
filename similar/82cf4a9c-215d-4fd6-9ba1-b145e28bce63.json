@@ -1,7 +1,7 @@
 {
  "id": "82cf4a9c-215d-4fd6-9ba1-b145e28bce63",
  "title": {
-  "en": "Gun Dragon Σ"
+  "en": "Gun Dragon \u03a3"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.7458287,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6d912ae-ca01-479e-91f8-bba3283537a9.jpg"
   },
   {
    "id": "c49feee4-126f-48d0-9a6c-418d7da05265",
@@ -28,7 +29,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "cf54c018-bd5c-42a6-ab8a-2fb6c3e266e0.jpg"
   },
   {
    "id": "e6d56c42-c77d-414b-9ddb-6186c610ba0a",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "7f1f172a-8824-4d21-9282-32db356966aa.jpg"
   },
   {
    "id": "e418cdec-172c-4247-8663-18b4c6bb0913",
@@ -51,7 +54,8 @@
    "score": 0.6722475,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6bcc2c3a-5187-4e6b-9d9f-bcfe20296654.jpg"
   },
   {
    "id": "647d7ed0-5d25-476a-84ff-5e8991af82ee",
@@ -62,7 +66,8 @@
    "score": 0.6578386,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef86e707-1a39-4c71-954a-f4f851d34a8e.jpg"
   },
   {
    "id": "0b25b09c-1ee8-49a4-b863-78beef1c98ea",
@@ -75,7 +80,8 @@
     "id",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "bc1154c9-013c-4d94-8aac-b73a08922879.jpg"
   },
   {
    "id": "6a3181bb-27e0-464a-932b-5c32d59c91e5",
@@ -88,7 +94,8 @@
     "ru",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "812f7a2e-4021-4375-9f23-8e1433dd4aff.jpg"
   },
   {
    "id": "af9248b9-b812-4991-bee8-44003b7176ad",
@@ -99,7 +106,8 @@
    "score": 0.6147379,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "adea8648-c638-49dd-93e3-dfedd3e90e56.jpg"
   },
   {
    "id": "5978095b-6009-40f6-b352-70cfcb6226ae",
@@ -110,7 +118,8 @@
    "score": 0.60381335,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c79a38c-6724-4c40-bd60-511c49868275.jpg"
   },
   {
    "id": "3c48f4af-7d64-422c-8d04-e61de1676333",
@@ -123,7 +132,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "5083c390-bf4b-4011-b8d7-d28e4a25ad3d.jpg"
   },
   {
    "id": "e3668b69-6122-4f69-b3a5-dcf1927159d8",
@@ -134,12 +144,13 @@
    "score": 0.561418,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ce9597f0-981d-4f69-b1ff-18561b5c3251.jpg"
   },
   {
    "id": "2dab66cc-f819-4ac4-8566-717331348f4b",
    "title": {
-    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn’t Too Much of a Hassle"
+    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn\u2019t Too Much of a Hassle"
    },
    "contentRating": "safe",
    "score": 0.55836576,
@@ -148,8 +159,10 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "5cfe0c26-0ba4-4d2d-857c-69d6bddc978b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:44+00:00"
+ "updatedAt": "2021-07-18T06:48:44+00:00",
+ "coverFileName": "9cc07afa-1fce-42a3-b005-1b807d54448b.jpg"
 }

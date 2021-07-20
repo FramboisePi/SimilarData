@@ -1,7 +1,7 @@
 {
  "id": "1c82cef7-54f8-411d-ac62-7f364aaeaa7c",
  "title": {
-  "en": "Sunshine \u0026 Bright Stars"
+  "en": "Sunshine & Bright Stars"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "f91079bc-8a5f-439e-9350-bc3a4de6b409.jpg"
   },
   {
    "id": "b87173bb-4565-40f9-8c7a-ce0879dea78f",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "84d01f4e-9fc1-46ca-ae20-165f8a13753e.jpg"
   },
   {
    "id": "555d293c-be85-4f46-b101-26e8057cf10c",
@@ -38,7 +40,8 @@
    "score": 0.39524007,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "deac179b-c8f1-40d7-9bf4-7be51381b312.jpg"
   },
   {
    "id": "73b3d656-6a1f-4657-8ffe-338e9f441466",
@@ -50,7 +53,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "4f362725-5bba-4964-bd0e-f4bf4de65022.jpg"
   },
   {
    "id": "f2b0ed8c-4cfc-4d31-bce1-4b17f5548204",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6f6fb5f9-924a-473c-b8cf-2716edacefcc.png"
   },
   {
    "id": "5dadb496-4cf9-408d-ba01-29cbee945091",
@@ -73,7 +78,8 @@
    "score": 0.39181834,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5f1a377c-2503-49d8-8eae-7cf786f34e88.jpg"
   },
   {
    "id": "83d91f2a-4e67-4deb-88f4-728c44a3ec92",
@@ -84,7 +90,8 @@
    "score": 0.3864707,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b6dc9599-e363-4ad6-8686-8820d9f29565.jpg"
   },
   {
    "id": "0f9e54ab-ded8-40ba-8740-db987cd064f4",
@@ -95,7 +102,8 @@
    "score": 0.38596237,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8320882f-9f2c-42f1-bea5-e7b9fb9558ae.jpg"
   },
   {
    "id": "87676c53-5380-4e4e-9c90-53e9090d867e",
@@ -106,7 +114,8 @@
    "score": 0.3824494,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "42d09be3-e907-4bf5-92cb-fd1967f006e7.jpg"
   },
   {
    "id": "b302073b-86fd-428f-849d-6bb1fe2cf677",
@@ -117,7 +126,8 @@
    "score": 0.38228387,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "53bdcecf-1a13-418c-a64f-1df904f53a6e.jpg"
   },
   {
    "id": "90d53cf3-7184-46fa-b293-c15d4d0da937",
@@ -131,7 +141,8 @@
     "uk",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "ff4d5de1-f1e0-4324-ab88-6c59b240bad8.jpg"
   },
   {
    "id": "f9998a87-0274-42e9-81a0-b67963784ec8",
@@ -143,8 +154,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "8fb80703-2280-4e2c-8b91-3b84e3da645b.png"
   }
  ],
- "updatedAt": "2021-07-18T06:29:48+00:00"
+ "updatedAt": "2021-07-18T06:29:48+00:00",
+ "coverFileName": "7fa91408-0ac1-4c52-87fe-70c4c753406b.jpg"
 }

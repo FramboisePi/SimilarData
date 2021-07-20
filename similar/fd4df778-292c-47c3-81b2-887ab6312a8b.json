@@ -17,7 +17,8 @@
     "th",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6251f3e3-5d5b-4436-9db3-f3b9f6ba56c3.jpg"
   },
   {
    "id": "ecc0c9a8-20e8-4614-9c33-9ad1bc192d0e",
@@ -28,7 +29,8 @@
    "score": 0.20691915,
    "languages": [
     "th"
-   ]
+   ],
+   "coverFileName": "fe7ea075-3d68-434d-83c4-97380dff4544.jpg"
   },
   {
    "id": "878634d2-ea39-4001-a4bf-31458020d16a",
@@ -43,7 +45,8 @@
     "en",
     "fr",
     "th"
-   ]
+   ],
+   "coverFileName": "ec2e2fb2-9923-4aa4-9713-52efcdcfc23b.jpg"
   },
   {
    "id": "fdaa7d42-29bb-4cf2-b635-96d57732f1be",
@@ -61,7 +64,8 @@
     "es-la",
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "8fd444e3-2c1a-453d-abdf-3a1c67e52668.jpg"
   },
   {
    "id": "0856403f-7519-4c2d-ab44-83b5eef48472",
@@ -74,12 +78,13 @@
     "th",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "67f9cc47-e8e6-4601-8f87-74700b1be163.jpg"
   },
   {
    "id": "5379b2fb-d5a2-42d0-bfa9-11c4ab738086",
    "title": {
-    "en": "Oji-san ga Joshi●sei ni Warui Koto wo Oshieru Hanashi"
+    "en": "Oji-san ga Joshi\u25cfsei ni Warui Koto wo Oshieru Hanashi"
    },
    "contentRating": "safe",
    "score": 0.16027889,
@@ -89,7 +94,8 @@
     "th",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "9928ecad-d078-477a-9e46-0d723926999d.jpg"
   },
   {
    "id": "a5fe1bd9-3e02-40f9-be4f-8852b69cabf7",
@@ -102,8 +108,10 @@
     "fr",
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "2360286d-cafb-4af5-9cd2-e0477a55f41f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:11:17+00:00"
+ "updatedAt": "2021-07-18T07:11:17+00:00",
+ "coverFileName": "2266f650-fa18-4a25-9181-a1c6fcb22d4d.jpg"
 }

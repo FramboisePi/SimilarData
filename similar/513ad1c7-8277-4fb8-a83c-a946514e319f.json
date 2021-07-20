@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "05065e86-1c27-4871-b204-6280a4f04cca.jpg"
   },
   {
    "id": "140b811d-11a7-4991-ad03-2c6bdd3d2bcb",
@@ -30,7 +31,8 @@
     "en",
     "pl",
     "de"
-   ]
+   ],
+   "coverFileName": "8026978b-ef6d-4e77-b415-1b31d712d7a9.jpg"
   },
   {
    "id": "1884a3b4-422b-44bb-9bc4-5dafea260467",
@@ -42,7 +44,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "e30312ac-0020-482d-8845-fc4ee0ed5c1f.jpg"
   },
   {
    "id": "06aa99db-35ef-4da9-8f03-883f02c7837b",
@@ -55,7 +58,8 @@
     "id",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9495906e-0b2e-4d97-b8b2-5ada7d5d82c7.jpg"
   },
   {
    "id": "15857c5a-785f-4a12-aec3-55b461e5eb07",
@@ -67,7 +71,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "8b38b15d-933e-471b-b773-46f2964cdf64.jpg"
   },
   {
    "id": "828ba59f-0e99-44f3-8c30-2f5a9cf015eb",
@@ -78,7 +83,8 @@
    "score": 0.4912938,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3e22ec71-48e1-4571-b199-99e1d8d5bf29.jpg"
   },
   {
    "id": "808d707b-5d41-4436-8db4-cabf81fdd78c",
@@ -89,7 +95,8 @@
    "score": 0.4897424,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "123de88a-6a74-478a-bbfa-73d9f3327f58.jpg"
   },
   {
    "id": "c01c5a86-70f9-429b-bcd9-793cda6291b1",
@@ -100,7 +107,8 @@
    "score": 0.48914114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9f40d648-ccd0-4cb5-9050-c046addedd25.jpg"
   },
   {
    "id": "8d616f29-6d51-401c-b783-dc6d7c168b94",
@@ -112,7 +120,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "720611f7-98e2-4d42-8878-ec9abd44657d.jpg"
   },
   {
    "id": "4d152145-da86-45eb-bc4b-9e328cb55a6e",
@@ -124,7 +133,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "0ab547ff-e96d-4e16-96f7-df591fa7dddc.jpg"
   },
   {
    "id": "9dba8d1f-9fe7-48e7-9c1b-868ca4144068",
@@ -137,12 +147,13 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e3f91d2c-03ed-445b-a81d-eef7c74f253d.jpg"
   },
   {
    "id": "2d50d5c2-4124-44c6-9ef9-bae36dda3796",
    "title": {
-    "en": "Anti-Magic Academy “The 35th Test Platoon”"
+    "en": "Anti-Magic Academy \u201cThe 35th Test Platoon\u201d"
    },
    "contentRating": "suggestive",
    "score": 0.4825067,
@@ -150,8 +161,10 @@
     "en",
     "es",
     "de"
-   ]
+   ],
+   "coverFileName": "1a5bfc87-813f-468f-b395-8a6185f1df88.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:33+00:00"
+ "updatedAt": "2021-07-18T06:39:33+00:00",
+ "coverFileName": "a7bfafd7-8ea3-43a5-8374-d248009465a7.png"
 }

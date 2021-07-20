@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "eae011c8-1b30-4c3c-b4c4-2f380596e3a1.png"
   },
   {
    "id": "0d600eb1-396d-489b-bae0-bb244f772443",
@@ -27,7 +28,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b93d84e0-e25f-4e37-8d7a-377d72d5d9a7.jpg"
   },
   {
    "id": "6515cc43-70b2-4a8e-9514-61c2d05383c2",
@@ -38,7 +40,8 @@
    "score": 0.53191584,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0521e292-b4d6-49d2-9994-15586bd2c49b.png"
   },
   {
    "id": "c7687add-1863-4e64-a2a4-f5afdb4f667f",
@@ -50,7 +53,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "91a37de8-5068-4aa2-8db3-32e3676dc26c.jpg"
   },
   {
    "id": "4e5a0434-b2af-4f96-84bf-320441eef2b9",
@@ -61,7 +65,8 @@
    "score": 0.50362587,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bf2aba7-0f84-48fe-9a83-9f56566638cc.png"
   },
   {
    "id": "79725e28-8deb-4c57-b3b4-2296b7af5e77",
@@ -73,18 +78,20 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "ace87f02-fa18-4c86-83f8-3aff54381809.jpg"
   },
   {
    "id": "484f7218-6d03-4072-814f-9654192352d1",
    "title": {
-    "en": "Kamakura Deco \u0026 Kofu Life"
+    "en": "Kamakura Deco & Kofu Life"
    },
    "contentRating": "safe",
    "score": 0.4668318,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df0c87bd-31c2-4cb3-9510-feece38791e6.jpg"
   },
   {
    "id": "4a848b5f-4039-493e-a709-5677a804af65",
@@ -95,7 +102,8 @@
    "score": 0.46234378,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6100b1d9-f57a-4cd4-ae25-3303b6780368.jpg"
   },
   {
    "id": "e6477b27-6c4b-410f-9a29-fa60be616446",
@@ -108,7 +116,8 @@
     "es-la",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c4c8f152-584a-4e8e-b905-714196aa47b0.jpg"
   },
   {
    "id": "677b6ebf-181f-4241-9f20-3211c9e058a4",
@@ -120,18 +129,20 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "bfe217c4-e4c6-4050-83ed-f992df73cabf.jpg"
   },
   {
    "id": "584dc44c-62af-4ab2-adb6-efcf7eee77da",
    "title": {
-    "en": "Café Café"
+    "en": "Caf\u00e9 Caf\u00e9"
    },
    "contentRating": "safe",
    "score": 0.44948295,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f71275b7-b289-45d2-bbd8-f10a377a3513.jpg"
   },
   {
    "id": "d55b059b-090d-4694-9ef0-ffacfd34d816",
@@ -142,8 +153,10 @@
    "score": 0.4418646,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "660dbc90-52bf-467b-a0ab-08c83dbc48d0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:15+00:00"
+ "updatedAt": "2021-07-18T06:50:15+00:00",
+ "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
 }

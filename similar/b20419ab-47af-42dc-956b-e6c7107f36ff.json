@@ -1,7 +1,7 @@
 {
  "id": "b20419ab-47af-42dc-956b-e6c7107f36ff",
  "title": {
-  "en": "VÍA LÁCTEA 1ra. AVENIDA"
+  "en": "V\u00cdA L\u00c1CTEA 1ra. AVENIDA"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,18 +14,20 @@
    "score": 0.34503454,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "8ed6eb77-e1ad-4abd-8f9b-ccc149aa5632.jpg"
   },
   {
    "id": "a08d7e30-b98d-4a95-ba5b-4c5c75184850",
    "title": {
-    "en": "Shinkai shōnen"
+    "en": "Shinkai sh\u014dnen"
    },
    "contentRating": "safe",
    "score": 0.31574088,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "858bbada-a4ee-4d7b-920c-881f06ce7f8f.png"
   },
   {
    "id": "820653a2-4b2e-4350-b650-f046c55ad35e",
@@ -37,7 +39,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "d4df2832-6e4b-4851-9ec5-5dbf6025bdfb.png"
   },
   {
    "id": "f09b0089-6247-4bc9-aad2-943d0855baee",
@@ -48,7 +51,8 @@
    "score": 0.28240722,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "698dc677-5dbb-4c5d-928d-78fd87abc94e.jpg"
   },
   {
    "id": "c27cac0a-c88a-4dfd-9060-05b277616e5c",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "36d4d347-7560-49bf-9c0b-1387b6e24741.jpg"
   },
   {
    "id": "1b245941-dfa8-4c0d-b747-0ad3d7fa0853",
@@ -72,7 +77,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b1a80974-7e9b-4aed-8325-c5cf1390cccc.jpg"
   },
   {
    "id": "4344e8f2-eb56-4ff9-983b-9568d05ad08d",
@@ -83,7 +89,8 @@
    "score": 0.25780135,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "970cd0fa-d12c-4e8d-8d47-5e0771ee451f.jpg"
   },
   {
    "id": "eddd395a-b13f-436c-814b-42dee418025b",
@@ -94,7 +101,8 @@
    "score": 0.25780135,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "1aabc8fa-107e-423a-838e-469c1dc1a84a.jpg"
   },
   {
    "id": "f305c77d-4e40-41c8-a70b-4b1b64eeb152",
@@ -105,7 +113,8 @@
    "score": 0.25117034,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "1afb815f-47ec-4f38-8368-9b626682e8bd.jpg"
   },
   {
    "id": "b397f21e-9f8a-42ed-854e-2b81e7b35f51",
@@ -116,7 +125,8 @@
    "score": 0.23867768,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "925b8dd9-5fe9-4fa7-b9d9-97c218f4d8c7.jpg"
   },
   {
    "id": "c5717beb-574b-458c-9581-811671e3ceee",
@@ -127,7 +137,8 @@
    "score": 0.22326252,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "cfdfbc63-efee-47f5-923a-915db79c28fe.jpg"
   },
   {
    "id": "d14a86d6-73a6-443c-90c4-aa3e0c7a90c1",
@@ -138,8 +149,10 @@
    "score": 0.20507972,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "89419ffd-d68a-42e3-963c-a916e1e675a8.png"
   }
  ],
- "updatedAt": "2021-07-18T06:57:32+00:00"
+ "updatedAt": "2021-07-18T06:57:32+00:00",
+ "coverFileName": "3a6b2dd6-4d22-47bd-b04f-b70fa5acc5b3.jpg"
 }

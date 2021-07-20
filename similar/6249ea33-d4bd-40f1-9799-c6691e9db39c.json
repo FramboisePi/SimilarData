@@ -14,7 +14,8 @@
    "score": 0.4313005,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "27e28968-a9e9-4517-be05-7bc7f2fb17d7.jpg"
   },
   {
    "id": "1be5941a-4a4a-4f89-b48d-2f32624cd7d8",
@@ -25,7 +26,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e5693523-0754-4851-8bf3-cb8f1f7c3dd7.png"
   },
   {
    "id": "423f2abe-0f7c-4bf5-9c10-b86b6ee839f5",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "28a6997d-4784-4d49-8c0c-5633db05a89c.png"
   },
   {
    "id": "b53aaddd-0dcb-4c24-9191-4d9ba0593008",
@@ -49,7 +52,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "11bfda97-e222-4e16-a6ec-7172221e5455.jpg"
   },
   {
    "id": "a0d76ebd-99d5-4702-b35b-349be10c6af3",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "c98d60cc-f410-4abf-be51-424bf6548256.jpg"
   },
   {
    "id": "850c2342-6ec4-45cb-8702-a6b28e90200c",
@@ -72,7 +77,8 @@
    "score": 0.38731816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b0e17a61-30f3-4897-a528-6036fa54aa17.png"
   },
   {
    "id": "005051e7-5e35-472f-b266-d3a37ce61ea6",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "2b754e58-29bf-493e-b9d7-f8b6ef6b88ed.jpg"
   },
   {
    "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
@@ -98,7 +105,8 @@
     "en",
     "es",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "645449e1-ad9f-417a-8f23-6b21008bbc68.jpg"
   },
   {
    "id": "a4e5418c-18d9-468a-8cac-8daa78617f83",
@@ -110,7 +118,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3de71bb8-5149-4135-b39f-62410093947b.jpg"
   },
   {
    "id": "2335e925-6bd2-4af3-b978-d4efc1f8beef",
@@ -122,19 +131,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ecb825da-63d0-48c5-a615-4f24e1facdf0.jpg"
   },
   {
    "id": "a77b83dd-16d4-4d0f-b01b-86e98c67c243",
    "title": {
-    "en": "Tomoe Koga’s Birthday | 2020"
+    "en": "Tomoe Koga\u2019s Birthday | 2020"
    },
    "contentRating": "safe",
    "score": 0.34647295,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "ba298992-ca4a-40fe-9ae1-413f418d7e96.jpg"
   },
   {
    "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
@@ -148,8 +159,10 @@
     "pt-br",
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "0b05caab-842a-447d-aed5-5fd0c7ea6526.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:45+00:00"
+ "updatedAt": "2021-07-18T06:42:45+00:00",
+ "coverFileName": "d70b240b-59cb-47d0-b03f-5c4a57d378f2.jpg"
 }

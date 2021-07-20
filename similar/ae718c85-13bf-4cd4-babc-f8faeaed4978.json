@@ -14,7 +14,8 @@
    "score": 0.3,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe77517b-a166-45ac-b50b-53f7dd72abcc.jpg"
   },
   {
    "id": "077de7b6-ea9d-4e41-a4be-6b9eb73e308e",
@@ -25,7 +26,8 @@
    "score": 0.3,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b2fcc5e4-590a-4db2-a819-d79af6604c49.jpg"
   },
   {
    "id": "34a9c294-6991-4124-bd56-dd117411bf91",
@@ -36,7 +38,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8cc3bfb2-be3e-4d37-9d43-7b70025bdd1e.jpg"
   },
   {
    "id": "20a5847b-1279-4bc6-8665-ee9af2c9f03b",
@@ -50,7 +53,8 @@
     "tr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "96289b16-f4c1-49a8-be66-0e2747cc6b79.jpg"
   },
   {
    "id": "5125534b-b758-46cb-a133-b990b94ae39b",
@@ -61,7 +65,8 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "456513f1-931f-4c0a-b6c3-a5c0de5efe9c.png"
   },
   {
    "id": "520ab39b-ddfe-4f20-bcf4-0eb20c5bed63",
@@ -72,19 +77,21 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5bc820df-f57a-456f-a63a-4e2af2643547.jpg"
   },
   {
    "id": "39ec041f-5bc7-46f5-a2e7-4af04fc35869",
    "title": {
-    "en": "「Kore ageru kara sa, onee-san to asonde kureru?」"
+    "en": "\u300cKore ageru kara sa, onee-san to asonde kureru?\u300d"
    },
    "contentRating": "suggestive",
    "score": 0.25980762,
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "1e2dbec8-32ce-4469-948e-39f18cc91254.jpg"
   },
   {
    "id": "36f4fef3-29ed-4edc-bcb2-832c38b9abab",
@@ -99,7 +106,8 @@
     "vi",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "ebc2525a-34ea-46dd-960b-5ec13254b7a7.png"
   },
   {
    "id": "25f672c7-2ebe-494a-800a-9a8b2fb7cb98",
@@ -111,7 +119,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "01b06586-9122-4f89-a00f-ad4f3cbd1550.jpg"
   },
   {
    "id": "863cbc29-ef61-489f-81fa-5f5f2e831cce",
@@ -122,7 +131,8 @@
    "score": 0.21213204,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9c598c25-1857-4faa-9d18-70202925ed01.jpg"
   },
   {
    "id": "afc1e385-dbca-467e-a0c5-6b6e5c961f08",
@@ -133,7 +143,8 @@
    "score": 0.21213204,
    "languages": [
     "id"
-   ]
+   ],
+   "coverFileName": "264f7889-130a-4b1e-951f-4667e30fa8e5.png"
   },
   {
    "id": "83a8f432-c4e8-4eba-879e-7fe47f788eeb",
@@ -149,8 +160,10 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "56f07d89-ca4d-44eb-ab03-69a95941db6e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:53+00:00"
+ "updatedAt": "2021-07-18T06:56:53+00:00",
+ "coverFileName": "bc95ef0a-cb75-49c2-a71b-bd1ff4f3346f.jpg"
 }

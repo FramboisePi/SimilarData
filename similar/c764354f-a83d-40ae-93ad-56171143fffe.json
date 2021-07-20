@@ -1,7 +1,7 @@
 {
  "id": "c764354f-a83d-40ae-93ad-56171143fffe",
  "title": {
-  "en": "Lemon Soda \u0026 Coffee"
+  "en": "Lemon Soda & Coffee"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.36194187,
    "languages": [
     "uk"
-   ]
+   ],
+   "coverFileName": "935b29a6-f633-4f03-bc00-34d5549cf55f.jpg"
   },
   {
    "id": "c0ea9e95-b436-42f3-8c76-412acfcae73e",
@@ -28,7 +29,8 @@
     "uk",
     "es",
     "th"
-   ]
+   ],
+   "coverFileName": "4926cfa1-87bb-432b-9e86-c8e3ee3f32d1.jpg"
   },
   {
    "id": "8a2e20cc-bdc8-47f1-80fd-b6da4b2703df",
@@ -43,7 +45,8 @@
     "ru",
     "pl",
     "id"
-   ]
+   ],
+   "coverFileName": "7910d1d2-7dac-479c-bf66-a2b91eb8034b.jpg"
   },
   {
    "id": "79eb00db-ca63-46e6-8041-36f808146aaa",
@@ -56,7 +59,8 @@
     "uk",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "0d2e1623-c0b5-4b55-b597-6b6fd33fbea5.jpg"
   },
   {
    "id": "a75fd897-83bf-4825-a4ea-0632071e000e",
@@ -72,7 +76,8 @@
     "es-la",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "9b6f616d-f8a7-45b7-b418-df357ffbb7e2.jpg"
   },
   {
    "id": "92d9c903-6038-4767-94ac-a7a0ec3d3d99",
@@ -84,7 +89,8 @@
    "languages": [
     "en",
     "uk"
-   ]
+   ],
+   "coverFileName": "c64a277f-19e0-411b-ad13-8ca9e46d21f9.png"
   },
   {
    "id": "81c198cc-3863-4428-9e0c-b366feea734a",
@@ -97,7 +103,8 @@
     "pt-br",
     "en",
     "uk"
-   ]
+   ],
+   "coverFileName": "7493f012-bad8-4eb6-adc0-0a33bedf0ad4.jpg"
   },
   {
    "id": "7e776aca-92ae-43f5-8b0d-b6350c41c2dd",
@@ -111,7 +118,8 @@
     "tr",
     "fr",
     "uk"
-   ]
+   ],
+   "coverFileName": "1d0ea1e1-d4bf-4516-a614-076ebc18c5e7.jpg"
   },
   {
    "id": "04ad4f43-70bb-49b1-9235-054a9c365a65",
@@ -124,7 +132,8 @@
     "en",
     "uk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fc77b9ca-fdd7-4e22-a26e-9ed85232d88f.jpg"
   },
   {
    "id": "adaa939c-c164-4aec-9b10-5cbccfae681d",
@@ -142,7 +151,8 @@
     "tr",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f5731b26-97a8-4e20-a2e3-9f86cff0ae92.jpg"
   },
   {
    "id": "14569f2f-f66a-4c67-ac7f-a37823a0fa23",
@@ -163,7 +173,8 @@
     "tr",
     "de",
     "uk"
-   ]
+   ],
+   "coverFileName": "430b8c1b-c79e-4433-b657-9e6a6748f5ae.jpg"
   },
   {
    "id": "d2df017b-c003-4de6-9625-4f1fba7aef97",
@@ -181,8 +192,10 @@
     "uk",
     "ro",
     "en"
-   ]
+   ],
+   "coverFileName": "4de979c2-c6e0-438f-b7e7-3a226324a416.png"
   }
  ],
- "updatedAt": "2021-07-18T07:01:24+00:00"
+ "updatedAt": "2021-07-18T07:01:24+00:00",
+ "coverFileName": "ce12c739-2001-4da7-941c-fd29554471f1.png"
 }

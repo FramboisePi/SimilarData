@@ -16,7 +16,8 @@
     "fr",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "28151ef5-af51-468f-a78e-263b7695bbb5.png"
   },
   {
    "id": "befdc96e-3254-4564-bcd4-1fc3ac5801f9",
@@ -29,7 +30,8 @@
     "id",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "dc6e720d-dbbe-4faa-b1b7-c22e49641a64.jpg"
   },
   {
    "id": "194b6647-6f74-4783-b262-9815502f0c9f",
@@ -42,12 +44,13 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "63706448-66b5-4665-b549-b6ad6d568afc",
    "title": {
-    "en": "The Reborn Little Girl Won’t Give Up"
+    "en": "The Reborn Little Girl Won\u2019t Give Up"
    },
    "contentRating": "safe",
    "score": 0.36562768,
@@ -56,7 +59,8 @@
     "en",
     "es-la",
     "th"
-   ]
+   ],
+   "coverFileName": "0fcd6dec-713c-4e3a-a239-50aea65848b5.jpg"
   },
   {
    "id": "c55672b8-4618-4b85-a84b-739a1f3232de",
@@ -68,7 +72,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "30275d45-123f-416b-bff3-2a9751df7ea7.jpg"
   },
   {
    "id": "11ace508-aa11-4bef-86dc-654dab3b585b",
@@ -89,7 +94,8 @@
     "hi",
     "pl",
     "it"
-   ]
+   ],
+   "coverFileName": "0d2ca45e-284e-4722-9327-9b2194d65f44.png"
   },
   {
    "id": "1be38692-c92d-4d9e-81f5-105112a4ad1c",
@@ -100,7 +106,8 @@
    "score": 0.33981958,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e44e944d-49ee-4978-8a01-06472cc7d960.jpg"
   },
   {
    "id": "8d052607-3f52-41ed-a6b7-c7c5c9bfbf72",
@@ -113,7 +120,8 @@
     "fr",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "58a50892-185a-432a-bf58-460bc0c5e72c.jpg"
   },
   {
    "id": "9e27b55a-8227-42b0-ad92-7a0f661038a6",
@@ -130,7 +138,8 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7564879d-d293-4e6f-9909-67a2f727f0b2.jpg"
   },
   {
    "id": "78842fd7-6204-42ce-8cba-91b7949a381e",
@@ -144,7 +153,8 @@
     "id",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "186889d3-3cb4-438f-9bd2-1e263078d52f.png"
   },
   {
    "id": "7c5674c9-1128-4f8a-b241-b13b0ca0f4e4",
@@ -160,7 +170,8 @@
     "ru",
     "en",
     "tl"
-   ]
+   ],
+   "coverFileName": "b46a15f0-a835-48ee-9d75-e37167127f79.jpg"
   },
   {
    "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
@@ -175,8 +186,10 @@
     "fr",
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "56b76750-67bf-45cd-a623-a0681b3da782.png"
   }
  ],
- "updatedAt": "2021-07-18T07:02:49+00:00"
+ "updatedAt": "2021-07-18T07:02:49+00:00",
+ "coverFileName": "4298541b-30fa-41e8-b5a6-3b7cd708a5f0.png"
 }

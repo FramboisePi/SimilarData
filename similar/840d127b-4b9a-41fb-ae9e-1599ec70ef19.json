@@ -1,7 +1,7 @@
 {
  "id": "840d127b-4b9a-41fb-ae9e-1599ec70ef19",
  "title": {
-  "en": "Beauty’s online game"
+  "en": "Beauty\u2019s online game"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.46082836,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "72d9ae1a-2c34-4823-bff5-2aff5661aeda.png"
   },
   {
    "id": "a3850522-6640-4743-9fbc-acc725714459",
@@ -26,7 +27,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "747bdb66-0633-45ef-896b-12efeb4e8599.jpg"
   },
   {
    "id": "8819e95e-7f29-4a37-a340-4d67400f8508",
@@ -39,7 +41,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "b847f99c-d99e-49f6-848b-b8f8bc4666b7.jpg"
   },
   {
    "id": "0054ee53-da9a-496e-bbff-e5945c72db12",
@@ -50,7 +53,8 @@
    "score": 0.41829842,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b4dd751b-9b2a-4cf8-aeab-3535632d3fda.jpg"
   },
   {
    "id": "b2bd840d-4995-4694-8a55-72adeead3b4c",
@@ -66,7 +70,8 @@
     "tr",
     "id",
     "vi"
-   ]
+   ],
+   "coverFileName": "0e8899d7-ae6b-4402-8e06-6df7357816d7.jpg"
   },
   {
    "id": "a01b7dd2-57e8-4f43-9df2-2e9c7ff7d8d6",
@@ -81,7 +86,8 @@
     "es-la",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "7f59eaac-fb18-4a27-9433-eaeaf588e279.png"
   },
   {
    "id": "5b562999-86ae-48ea-9698-5e52534bbb65",
@@ -92,7 +98,8 @@
    "score": 0.40433753,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da1d22ae-d2e8-4f43-b1dd-e26cfcfbeb88.png"
   },
   {
    "id": "2d305864-8641-440c-9870-8ae68ea045b4",
@@ -105,7 +112,8 @@
     "en",
     "es",
     "fr"
-   ]
+   ],
+   "coverFileName": "dd0661a7-c8cd-4c3a-9dde-e61e10e3e6e3.jpg"
   },
   {
    "id": "df767b5e-ae89-4a40-9373-dad0cdfc0819",
@@ -116,7 +124,8 @@
    "score": 0.39957127,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e04d808a-ebc6-48b9-aba0-e931afed633c.jpg"
   },
   {
    "id": "9edfccfa-082e-45f4-b02f-69ae5f0397f0",
@@ -127,7 +136,8 @@
    "score": 0.39506233,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c81cb3cf-ec49-4181-8b76-ab796ada5538.jpg"
   },
   {
    "id": "11f0fbf7-b857-4817-9756-26c5b2e23087",
@@ -138,7 +148,8 @@
    "score": 0.39033005,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e60e2f5e-3111-4704-afeb-c342768d1517.jpg"
   },
   {
    "id": "a7bbb7f3-ddd2-4076-b33b-7ae1a9dafea8",
@@ -151,8 +162,10 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "69b522c1-620a-43a1-89f0-76afc66f10fe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:57+00:00"
+ "updatedAt": "2021-07-18T06:48:57+00:00",
+ "coverFileName": "f5958935-c6c1-447b-8bd6-03db14130e0f.jpg"
 }

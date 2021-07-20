@@ -16,7 +16,8 @@
     "en",
     "ru",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "83822512-3606-4ef1-bd8e-4f4ca058f5c0.jpg"
   },
   {
    "id": "3a3db59a-aafd-452e-8282-8b61ae60b012",
@@ -32,7 +33,8 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d2f9b4b5-9dbd-45d1-ab3a-75b58b08dc2c.jpg"
   },
   {
    "id": "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
@@ -50,7 +52,8 @@
     "pt-br",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "efb258fa-271a-405d-ac25-5197453de0cb.jpg"
   },
   {
    "id": "8b58f452-4d8a-4aad-a050-349e83fecccb",
@@ -68,7 +71,8 @@
     "zh-hk",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "b0fbfe37-9af8-47de-81a9-aaee31801321.jpg"
   },
   {
    "id": "f0a83c26-d7f9-49f5-826c-79dc5e0cede7",
@@ -79,7 +83,8 @@
    "score": 0.11838425,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "4b9015ec-c0ca-415f-8676-b87fec4dcc9c.jpg"
   },
   {
    "id": "f3f7f135-a648-498f-8ce7-04f135b78f3e",
@@ -92,7 +97,8 @@
     "zh-hk",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6ed5aefb-2266-4231-9dd2-7ac298974821.jpg"
   },
   {
    "id": "bf2fed23-7174-408c-972a-af6d0179fe8e",
@@ -112,7 +118,8 @@
     "en",
     "zh-hk",
     "tr"
-   ]
+   ],
+   "coverFileName": "36de243a-20df-45f5-aa10-99a5728cb792.jpg"
   },
   {
    "id": "34fc83a4-01f5-431b-ad9c-64b8e6ff1662",
@@ -128,7 +135,8 @@
     "pt-br",
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "57aab057-298a-4fba-b64e-7c88b21aa2ed.jpg"
   },
   {
    "id": "f25a8b44-0ee1-4025-8c81-f996d887649c",
@@ -143,7 +151,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e1a4ab53-e4fb-4a5f-8b09-1ede7052a3df.jpg"
   },
   {
    "id": "789642f8-ca89-4e4e-8f7b-eee4d17ea08b",
@@ -162,12 +171,13 @@
     "zh-hk",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "10f7def1-e8b4-47c2-a1a2-f7cf0936bca5.jpg"
   },
   {
    "id": "59b36734-f2d6-46d7-97c0-06cfd2380852",
    "title": {
-    "en": "Tokyo卍Revengers"
+    "en": "Tokyo\u534dRevengers"
    },
    "contentRating": "safe",
    "score": 0.083710305,
@@ -183,7 +193,8 @@
     "id",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "57f3e550-e0f0-4078-b248-5bc0707fcd51.jpg"
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -201,8 +212,10 @@
     "tr",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0ade84a3-5efc-4def-8362-3226b5fe5614.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:27+00:00"
+ "updatedAt": "2021-07-18T06:31:27+00:00",
+ "coverFileName": "ab8feeaa-f98e-4c2b-b486-b87ca993d531.jpg"
 }

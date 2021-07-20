@@ -1,7 +1,7 @@
 {
  "id": "ec23b6a0-2800-4121-a4a4-606d7145f23c",
  "title": {
-  "en": "I Swear I Won’t Bother You Again!"
+  "en": "I Swear I Won\u2019t Bother You Again!"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.42255744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "08788ad6-4447-4285-8894-c9140987457d.jpg"
   },
   {
    "id": "5ce9b650-fa46-4851-909d-4aacf2e1df1f",
@@ -26,18 +27,20 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a66169b1-7b2a-469b-bad9-56ff2c4748d8.jpg"
   },
   {
    "id": "4c3fc172-fab6-4477-9dfc-57dd95bad19c",
    "title": {
-    "en": "The Reincarnated Villainess Doesn’t Want Revenge"
+    "en": "The Reincarnated Villainess Doesn\u2019t Want Revenge"
    },
    "contentRating": "safe",
    "score": 0.4056969,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "508e6e04-e10d-4305-91d8-86912f31fd22.jpg"
   },
   {
    "id": "adaa939c-c164-4aec-9b10-5cbccfae681d",
@@ -55,7 +58,8 @@
     "tr",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "f5731b26-97a8-4e20-a2e3-9f86cff0ae92.jpg"
   },
   {
    "id": "1857b4ae-4ddf-45db-9296-f74c626a0e4c",
@@ -66,7 +70,8 @@
    "score": 0.3885742,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc0f74f0-8b8e-4b17-9d51-8bdcbf00b9f3.jpg"
   },
   {
    "id": "5c762221-7e9d-40bd-99a6-76a5a6a94d10",
@@ -78,7 +83,8 @@
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "d57f2d6e-dec0-41f5-840c-769ae2676088.jpg"
   },
   {
    "id": "da45f161-d568-4b32-bac1-5eda0cdecaea",
@@ -90,7 +96,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e9c3a63d-ce21-4c8b-b43e-bf132b330e3e.png"
   },
   {
    "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
@@ -101,18 +108,20 @@
    "score": 0.3615703,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6441aea1-b9bf-457d-b84a-ebbcff99f3f0.jpg"
   },
   {
    "id": "d58b3f3c-d732-4105-8484-782576a1cb61",
    "title": {
-    "en": "I Am Troubled That My Fiancé Is a Villain"
+    "en": "I Am Troubled That My Fianc\u00e9 Is a Villain"
    },
    "contentRating": "safe",
    "score": 0.35622594,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d9a500cb-e60a-47b9-95bd-642a5e7a3d90.jpg"
   },
   {
    "id": "3521c5e8-a737-43a3-97b6-c25d2f23d24e",
@@ -123,7 +132,8 @@
    "score": 0.3558816,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eb1d0e15-b0c1-4796-bcab-125c158f8847.jpg"
   },
   {
    "id": "8a74e736-3090-4ea5-8ec8-e3147f9ff318",
@@ -134,7 +144,8 @@
    "score": 0.35210067,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ad4443a-4963-46c5-b69a-578d35adf10f.jpg"
   },
   {
    "id": "47f1436c-cb88-4645-bbf7-605873c567f3",
@@ -146,8 +157,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "fdda0e20-bbd9-4205-a94b-5acb4145bdaa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:08:09+00:00"
+ "updatedAt": "2021-07-18T07:08:09+00:00",
+ "coverFileName": "9efebdf7-9597-4d8c-b3fc-1bfa6bd6bda7.jpg"
 }

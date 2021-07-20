@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b93d84e0-e25f-4e37-8d7a-377d72d5d9a7.jpg"
   },
   {
    "id": "5a0faf43-02be-4b58-ab02-0c05381920a1",
@@ -26,7 +27,8 @@
    "score": 0.5597296,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8df4f66e-8ac4-4ae4-8d9c-f3a12e2ce14e.png"
   },
   {
    "id": "8a8e1de3-aa39-422a-a1b6-002ef0886cb0",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b83436d7-614b-4b8c-b205-ee8756eed2c8.jpg"
   },
   {
    "id": "881d3673-f101-4848-a56d-f2dd08a3383d",
@@ -50,7 +53,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "fb5c3fed-f856-46a4-bf6e-947cb7adbdfa.jpg"
   },
   {
    "id": "6515cc43-70b2-4a8e-9514-61c2d05383c2",
@@ -61,7 +65,8 @@
    "score": 0.5120228,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0521e292-b4d6-49d2-9994-15586bd2c49b.png"
   },
   {
    "id": "c7687add-1863-4e64-a2a4-f5afdb4f667f",
@@ -73,7 +78,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "91a37de8-5068-4aa2-8db3-32e3676dc26c.jpg"
   },
   {
    "id": "1ad0d86e-3ee6-4cf2-81a8-fe713701d001",
@@ -87,7 +93,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9de74b6-6522-4904-9773-f32e6c425378.png"
   },
   {
    "id": "7eaf74b7-e3cd-42b3-98b5-0a6affdbbbbb",
@@ -99,7 +106,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "25e67fcc-57e4-4bfa-96c4-da4023e7d2a8.jpg"
   },
   {
    "id": "70d69267-b7ea-4a6d-9561-f5112e62de0a",
@@ -111,7 +119,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "568f620d-44f2-4e6b-a885-dfebe26f4604.jpg"
   },
   {
    "id": "dd11c4b3-6758-436b-a05c-ab52dc403f32",
@@ -123,19 +132,21 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "122ac629-18ae-448f-b1a3-32b5bef1bb18.jpg"
   },
   {
    "id": "3e75643e-4942-4ca0-8d96-c7f4b127286c",
    "title": {
-    "en": "Diphylleia’s Coup Is Being Planned"
+    "en": "Diphylleia\u2019s Coup Is Being Planned"
    },
    "contentRating": "safe",
    "score": 0.47000948,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "51c97954-0b60-4cba-9944-6cb00bde03af.png"
   },
   {
    "id": "0a27e8b6-f353-4b3e-afb1-6787560d0b96",
@@ -149,8 +160,10 @@
     "en",
     "fr",
     "vi"
-   ]
+   ],
+   "coverFileName": "000bbdb6-6ee6-491c-819e-3dd0a59f2c65.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:42+00:00"
+ "updatedAt": "2021-07-18T06:55:42+00:00",
+ "coverFileName": "a9027004-ebf5-4d7b-a105-9bcd85dbb277.jpg"
 }

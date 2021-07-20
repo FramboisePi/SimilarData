@@ -14,7 +14,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cab7af1e-7639-460d-a321-36fa6c88ccd5.jpg"
   },
   {
    "id": "4f72424e-9bc9-4ed8-9241-3ad8e81de7a0",
@@ -25,7 +26,8 @@
    "score": 0.37810373,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4f4cc1f3-0dd1-4227-894b-4fabce88a60b.jpg"
   },
   {
    "id": "a3e7e9d8-a955-4236-a511-6de20f8b8874",
@@ -36,7 +38,8 @@
    "score": 0.37754166,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc377cdb-70f2-4cc9-a125-24e2f51e0547.jpg"
   },
   {
    "id": "f981d2b1-1f56-47df-af1a-2c3db7f9e42b",
@@ -47,7 +50,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6a69b32-f2cf-4973-9c25-a73cf733f284.jpg"
   },
   {
    "id": "c01e79b5-e2ca-4a9c-a424-4cae6b97d532",
@@ -58,7 +62,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23a7dd81-1792-4c53-a1e2-049e9e1058f2.jpg"
   },
   {
    "id": "10ab7de4-c6ed-474c-b669-49a71d271294",
@@ -70,7 +75,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "a8a6ff5d-eb8c-4ad6-bbc5-3027370e6995.jpg"
   },
   {
    "id": "ab74139e-6872-4eb6-8c83-bceb2b7e5f5a",
@@ -81,7 +87,8 @@
    "score": 0.344249,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ca5d06ac-0a64-4a0f-9004-d88dc791686a.jpg"
   },
   {
    "id": "0453c4ab-ba0e-4146-841c-96fe83cb2790",
@@ -93,12 +100,13 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f94766e5-b608-43d5-9ee7-d82056d62751.png"
   },
   {
    "id": "5fa08e64-ceee-41d9-b48e-39e848bedb82",
    "title": {
-    "en": "Arcana 09 - Transformation☆Personification"
+    "en": "Arcana 09 - Transformation\u2606Personification"
    },
    "contentRating": "safe",
    "score": 0.3398686,
@@ -107,7 +115,8 @@
     "hu",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0b4b7637-7f58-4027-9704-c5cd7f8568fb.jpg"
   },
   {
    "id": "6a885c00-c135-485c-9635-379619e917a6",
@@ -121,7 +130,8 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "43b3ffab-440d-47ee-87bb-c4aba8c4fcc1.png"
   },
   {
    "id": "2c4f6295-c63f-468d-a8fb-db88d226522c",
@@ -132,7 +142,8 @@
    "score": 0.33008114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1704b22d-f494-4c12-a1fb-8591304abc46.jpg"
   },
   {
    "id": "2a7ccd70-60e7-4ce6-820b-9adf4a9a0e40",
@@ -143,8 +154,10 @@
    "score": 0.32165623,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "913f902c-3669-4522-b098-fcbf17406a81.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:59+00:00"
+ "updatedAt": "2021-07-18T06:45:59+00:00",
+ "coverFileName": "ef62c79c-6be5-4d45-9597-3118e364bf2b.png"
 }

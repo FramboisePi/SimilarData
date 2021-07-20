@@ -14,7 +14,8 @@
    "score": 0.40816152,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "280887f7-3724-4b18-87fa-3cc6b7fec236.png"
   },
   {
    "id": "2c3dfd45-b67d-4cbe-a20a-a884a4d04440",
@@ -26,7 +27,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "55a858ae-34d8-4af7-a88d-bf770f7a4dfc.jpg"
   },
   {
    "id": "77428268-16b7-429f-b028-14793e93bf26",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c9cff21c-696a-446d-95ab-3558f6fd9b04.jpg"
   },
   {
    "id": "52db9d61-30a7-46f3-a42d-a71b73fa3cf3",
@@ -51,7 +54,8 @@
     "id",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "f613274a-c478-4b0a-8961-9e54ed914397.jpg"
   },
   {
    "id": "5a728f9b-9e6b-480c-b33d-75deb7f3dcb9",
@@ -62,7 +66,8 @@
    "score": 0.3951746,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "72d9ae1a-2c34-4823-bff5-2aff5661aeda.png"
   },
   {
    "id": "209d5199-08f0-4957-8e0a-db2af53c269c",
@@ -73,7 +78,8 @@
    "score": 0.39482504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "df61eabd-d961-442e-9150-d6380cb882f0.jpg"
   },
   {
    "id": "c41ebcf6-afd0-4755-a1af-14c3f044b0b6",
@@ -84,7 +90,8 @@
    "score": 0.39432442,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "66069a62-c31b-428a-ad09-78da7cd2d722.jpg"
   },
   {
    "id": "f2f550f1-766b-4547-8680-a1372ec03fde",
@@ -96,7 +103,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "89e79b94-92f8-47c6-b33d-64791d144206.png"
   },
   {
    "id": "565f18bc-9c79-45a5-a9c6-2755c6e7f8fa",
@@ -109,7 +117,8 @@
     "es",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "a30a45bb-7114-4b4a-ba60-3fdc26bf58ca.jpg"
   },
   {
    "id": "7642ae5a-57c8-41d2-aa88-c13dbab8e862",
@@ -121,12 +130,13 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "f158d45e-dc38-4fa8-9f53-aa12a193181e.png"
   },
   {
    "id": "73886188-f459-4b80-8781-66a60520b420",
    "title": {
-    "en": "A Stepmother's Märchen"
+    "en": "A Stepmother's M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.38941056,
@@ -136,7 +146,8 @@
     "en",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "3fb8618f-8e43-4b1b-9bf5-67c3e2e465e4.jpg"
   },
   {
    "id": "2d0a472e-94fb-4bab-8dd7-81a875fd6839",
@@ -147,8 +158,10 @@
    "score": 0.3832031,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9bfeb058-fc5e-4820-b990-131d0d893bce.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:48:02+00:00"
+ "updatedAt": "2021-07-18T06:48:02+00:00",
+ "coverFileName": "f0b32a1e-1c44-40e8-b00f-a18810407b06.png"
 }

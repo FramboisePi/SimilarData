@@ -14,7 +14,8 @@
    "score": 0.5759983,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58aa95c5-ea50-486f-8a88-bef24e9715d3.jpg"
   },
   {
    "id": "e20c85cf-4d82-432d-b417-d778afc40cf9",
@@ -25,7 +26,8 @@
    "score": 0.54374015,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6fb644a7-3c75-447f-bc1c-a62908174300.jpg"
   },
   {
    "id": "8eabc51f-d734-4a5d-a434-e67ea65a9a92",
@@ -36,7 +38,8 @@
    "score": 0.52770615,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5538c93-440b-4478-9ed1-362cc12fab13.jpg"
   },
   {
    "id": "a0ad6069-9dce-4281-b8f4-57e697666796",
@@ -47,7 +50,8 @@
    "score": 0.5256477,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ffc47cd3-afe5-482c-a5b7-aab6ba0fe45d.jpg"
   },
   {
    "id": "73793519-1885-412a-8d84-8dacae155c16",
@@ -58,7 +62,8 @@
    "score": 0.5108483,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6e8566a0-724e-4be1-a2b5-ef98d8a40bc1.jpg"
   },
   {
    "id": "0922721c-62c9-48eb-934b-7158301d439d",
@@ -73,7 +78,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "5be75fb5-385c-4762-b8bf-5eeaa835f235.jpg"
   },
   {
    "id": "c523f589-3fd4-4b6a-bf2c-acd52a86df8e",
@@ -84,7 +90,8 @@
    "score": 0.5070172,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7bef409d-9c79-40bb-95e4-562d62fdb440.jpg"
   },
   {
    "id": "95ecb170-3fb7-4298-b601-174cc8904bcd",
@@ -95,7 +102,8 @@
    "score": 0.5066077,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e55417fc-b628-447a-9023-e98a180c3536.png"
   },
   {
    "id": "d25043d2-f9c8-4772-928a-f61cb1021891",
@@ -107,7 +115,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "d8131799-26f1-43e7-9e71-c55debbab1c8.png"
   },
   {
    "id": "96fff049-eb7d-472e-888f-e48bba81d1b0",
@@ -118,18 +127,20 @@
    "score": 0.498895,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6d27437e-8b88-4198-9f57-9f30d647ca3b.jpg"
   },
   {
    "id": "fb89fa17-5674-4ad6-ad3c-1c7b50830aeb",
    "title": {
-    "en": "H³ School!"
+    "en": "H\u00b3 School!"
    },
    "contentRating": "safe",
    "score": 0.49848345,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9cf7d705-a775-4402-921f-497f453f54fd.jpg"
   },
   {
    "id": "041086e4-5120-4e3c-a811-f21938a2402a",
@@ -141,8 +152,10 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "dd9f74a4-b980-49d2-8066-f3aff2b3006f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:33:24+00:00"
+ "updatedAt": "2021-07-18T06:33:24+00:00",
+ "coverFileName": "bd1b97b9-7ec4-40c1-bd37-9689c6406f66.jpg"
 }

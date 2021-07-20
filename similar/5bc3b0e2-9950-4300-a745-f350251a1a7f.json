@@ -1,7 +1,7 @@
 {
  "id": "5bc3b0e2-9950-4300-a745-f350251a1a7f",
  "title": {
-  "en": "Golden tips \u0026 Silver tips"
+  "en": "Golden tips & Silver tips"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,12 +14,13 @@
    "score": 0.77625793,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "57edaddb-da85-4a1c-87ee-9d39e2f5dedc.jpg"
   },
   {
    "id": "47e5c76d-1420-4bfa-a973-90524c9d6f13",
    "title": {
-    "en": "Pokémon Special"
+    "en": "Pok\u00e9mon Special"
    },
    "contentRating": "safe",
    "score": 0.70794,
@@ -30,7 +31,8 @@
     "tr",
     "ms",
     "it"
-   ]
+   ],
+   "coverFileName": "b8bb8ad5-ff87-4048-b595-5c1924dd2a71.jpg"
   },
   {
    "id": "fcd11e14-3551-4dec-a780-0b5241fe87e2",
@@ -41,7 +43,8 @@
    "score": 0.7029075,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "67decc6f-246f-42b1-8e00-c6779d87fa65.png"
   },
   {
    "id": "f9bfc73a-d017-424c-92ed-bb79d67fa881",
@@ -56,7 +59,8 @@
     "es",
     "en",
     "zh"
-   ]
+   ],
+   "coverFileName": "ee5f36c6-dcd3-4476-89f9-83e1fc4bd85a.jpg"
   },
   {
    "id": "7f9e1a94-81a5-4df9-b803-fa084939e0f5",
@@ -68,7 +72,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "d5dee4f1-6a1a-4c20-a9db-3ec7871378e0.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -79,7 +84,8 @@
    "score": 0.6400351,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "81cf5e6e-09d0-43df-9ddc-f38acfbf970d",
@@ -91,7 +97,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "4522f3ff-fd83-4e81-b797-5985bf05c7ab.jpg"
   },
   {
    "id": "d785280c-04d2-4194-87d7-857fb72f1038",
@@ -102,7 +109,8 @@
    "score": 0.61732143,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "526e1ab3-ae96-40d0-bf9a-b64170c474fb.jpg"
   },
   {
    "id": "295fae10-1905-4064-bde9-21faef922471",
@@ -113,7 +121,8 @@
    "score": 0.6134501,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7be44237-6a23-43e7-88c6-a2f55cea7d91.jpg"
   },
   {
    "id": "d33dbce5-c373-4b1f-8a64-2ed362dbeb37",
@@ -124,7 +133,8 @@
    "score": 0.6127342,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f49b4fb-4dc6-4776-8c19-2a2b33b03e46.jpg"
   },
   {
    "id": "099c3128-55e1-47af-b6b2-60e109509b4b",
@@ -135,7 +145,8 @@
    "score": 0.61220556,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cd347aef-0397-4871-a606-1fe934a88cbd.jpg"
   },
   {
    "id": "ca131ef8-e35d-4afc-9b8e-8aac806895f3",
@@ -146,8 +157,10 @@
    "score": 0.60624677,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dda70d64-8311-42b5-be02-3c694789ad7e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:34+00:00"
+ "updatedAt": "2021-07-18T06:41:34+00:00",
+ "coverFileName": "39bca052-daad-4bec-a980-3b6f2939a408.jpg"
 }

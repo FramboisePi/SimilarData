@@ -15,7 +15,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "af7af866-9795-4e26-8f35-10e785e6a2e5.jpg"
   },
   {
    "id": "5cc956f2-5033-41f9-8e0d-91e2cfe3a733",
@@ -27,7 +28,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "4a5579ee-a591-414c-aacc-d388becc9761.jpg"
   },
   {
    "id": "849c9251-01ad-4088-bc71-b85c722822bb",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c0db1a77-41fa-44cf-8eb0-bcba663ff757.jpg"
   },
   {
    "id": "4ba98cc2-ed57-4e6c-a96f-f62d99219042",
@@ -50,7 +53,8 @@
    "score": 0.41661903,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "167d1c4e-7e4d-4b1e-b44f-ed4d7b5266f0.jpg"
   },
   {
    "id": "2f5681bf-e167-4cb6-8be1-7b1563050d9b",
@@ -61,7 +65,8 @@
    "score": 0.41661903,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "06ba95ba-a5cd-438b-bbc8-69a3322f0c85.jpg"
   },
   {
    "id": "cc319245-ea7f-4506-8c65-f466d325109c",
@@ -72,7 +77,8 @@
    "score": 0.41358042,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e1fd5b7-4684-459a-8307-9742f1c43b07.jpg"
   },
   {
    "id": "93b1870f-1655-45ce-b762-159d13aa7753",
@@ -84,7 +90,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "d2955274-2dd8-4fce-a02b-6f17f064ffc5.jpg"
   },
   {
    "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "994bb3ec-b169-4c0b-92a1-08a5dfe7cebb.jpg"
   },
   {
    "id": "5ac5e2ec-9a36-4857-b648-824ee67b7092",
@@ -107,7 +115,8 @@
    "score": 0.40435386,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9537e66-7bd5-46b6-8374-f51d7dab97f7.jpg"
   },
   {
    "id": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
@@ -124,18 +133,20 @@
     "tr",
     "bg",
     "ar"
-   ]
+   ],
+   "coverFileName": "bc033545-8c02-449e-b2f4-3c35a3dc2c12.jpg"
   },
   {
    "id": "ac3e127d-609e-4746-a5eb-4834954727f7",
    "title": {
-    "en": "Magical☆Change"
+    "en": "Magical\u2606Change"
    },
    "contentRating": "safe",
    "score": 0.3981556,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aa9aaeee-7a46-4457-bafe-a6e49873e0d5.jpg"
   },
   {
    "id": "5fa35c9b-7795-4461-965e-04cfea0c2b7b",
@@ -146,8 +157,10 @@
    "score": 0.39606595,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0bb41641-ab9f-494d-9070-9d168b5ca5aa.png"
   }
  ],
- "updatedAt": "2021-07-18T06:40:03+00:00"
+ "updatedAt": "2021-07-18T06:40:03+00:00",
+ "coverFileName": "08520eb0-ebae-4880-ba7b-e8e68a0c36ab.jpg"
 }

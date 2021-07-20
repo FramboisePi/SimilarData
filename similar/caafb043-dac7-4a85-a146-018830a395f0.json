@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "abec2b51-de0a-44d6-8b2b-7e7c975ef152.jpg"
   },
   {
    "id": "7c9cca8e-6bbf-41f2-9c4b-ad11f6385f25",
@@ -26,7 +27,8 @@
    "score": 0.56058174,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "4d612f11-0d7c-44e1-af8e-70203f4f7046.jpg"
   },
   {
    "id": "4344e8f2-eb56-4ff9-983b-9568d05ad08d",
@@ -37,7 +39,8 @@
    "score": 0.5255775,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "970cd0fa-d12c-4e8d-8d47-5e0771ee451f.jpg"
   },
   {
    "id": "b1cf4e3f-018b-4a50-95a2-43e498ba6c30",
@@ -48,7 +51,8 @@
    "score": 0.5198866,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "6418fe97-1a5c-4bd1-bab1-b3fd0596f01d.jpg"
   },
   {
    "id": "443bd42e-e12f-41b5-83d3-5996dd8362f7",
@@ -60,7 +64,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "2ae77fb3-290a-4394-aa7b-a49e90fcb0a1.png"
   },
   {
    "id": "00e07ecc-5afe-45c2-807e-bbcdea4e161b",
@@ -71,7 +76,8 @@
    "score": 0.5041475,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "e4912013-cac0-4b4b-9b2f-33d858f0f12d.jpg"
   },
   {
    "id": "6f7ef629-4f01-4a95-b0ad-b5c3fdf9a4d1",
@@ -83,7 +89,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a670db2c-6239-4345-ab3e-a10754622a53.jpg"
   },
   {
    "id": "1b245941-dfa8-4c0d-b747-0ad3d7fa0853",
@@ -95,7 +102,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b1a80974-7e9b-4aed-8325-c5cf1390cccc.jpg"
   },
   {
    "id": "b49bb16c-bcc9-48d0-b7fd-c382c57a9c00",
@@ -107,7 +115,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "021637d8-3238-4300-948d-627694f5fc5c.jpg"
   },
   {
    "id": "8a5ad8b3-26e6-440b-8ea0-f9cf6af54fdc",
@@ -119,19 +128,21 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "c572db7f-000d-4da1-a1d8-44a1450a5ef5.jpg"
   },
   {
    "id": "3f194fd0-ef43-4087-8ba3-4b238017bd7e",
    "title": {
-    "en": "Bound by One’s Heart"
+    "en": "Bound by One\u2019s Heart"
    },
    "contentRating": "safe",
    "score": 0.49391517,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b42ad4fd-a622-4a6d-9ad3-edf210135fbc.png"
   },
   {
    "id": "19b43f8d-57a9-41bc-a055-0a761712ea17",
@@ -142,8 +153,10 @@
    "score": 0.48196933,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "a959bf14-4694-46f1-84d2-74ab9fdf777b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:00+00:00"
+ "updatedAt": "2021-07-18T07:02:00+00:00",
+ "coverFileName": "a458529f-f16a-41a7-8c13-39b1fe2a268b.jpg"
 }

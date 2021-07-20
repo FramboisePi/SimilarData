@@ -1,7 +1,7 @@
 {
  "id": "f2c7f3fc-b1bc-4d53-ac4c-95f4a3c1325b",
  "title": {
-  "en": "My Boyfriend​ is a​ Vampire"
+  "en": "My Boyfriend\u200b is a\u200b Vampire"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.48153782,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3d35b473-ade7-4fa7-9978-7a2b0580c34b.jpg"
   },
   {
    "id": "f2f0756e-4bf4-422e-80b0-0c3cbbc09fe8",
@@ -27,7 +28,8 @@
     "pl",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "c07248dd-4ded-460f-b1b1-289011f3d0cb.jpg"
   },
   {
    "id": "3402b7f4-63f6-4c4f-b1c2-0e1872edbfdc",
@@ -39,7 +41,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "35d2282a-eb08-4be5-baf2-cc12cbd4b257.jpg"
   },
   {
    "id": "4524f400-5a23-4b87-8d0d-51da3e9e7ef9",
@@ -50,7 +53,8 @@
    "score": 0.45441824,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "88b23750-2e32-4f60-8d4d-1d194b1c06d6.jpg"
   },
   {
    "id": "8689738b-6ff1-4a56-a80b-1cba9dd5e2b1",
@@ -61,7 +65,8 @@
    "score": 0.42644075,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec2f4a32-919e-48c9-8638-c345ad94b707.jpg"
   },
   {
    "id": "06393a20-e247-4e4d-9f12-2a160f464f87",
@@ -74,7 +79,8 @@
     "pt-br",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "4a8f73fd-2f06-40d0-b9c9-e7df13c7eaf5.jpg"
   },
   {
    "id": "3abf6c69-9a68-4a41-a71c-679835341120",
@@ -86,7 +92,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "ddf3e0c5-b47a-4edb-8568-46e94e56a3ae.jpg"
   },
   {
    "id": "38221d4a-687d-49bc-a2f4-44ce42fab8d9",
@@ -97,7 +104,8 @@
    "score": 0.41337147,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b56cfaad-5993-4284-af0d-60c7e46f5a34.jpg"
   },
   {
    "id": "048a257f-9c44-40f3-b6fc-5cbe2042c31d",
@@ -108,7 +116,8 @@
    "score": 0.40982145,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bc165770-6182-42c9-bc60-bdab36ddd586.jpg"
   },
   {
    "id": "c092269e-af44-4665-9e0c-71c34194b18e",
@@ -121,7 +130,8 @@
     "es-la",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "61589d3e-a824-4a4d-b380-aa6c8e506d48.jpg"
   },
   {
    "id": "c82f0b00-c581-4e84-b03b-72d36990ddff",
@@ -133,7 +143,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "7ab3a4e8-f921-40d3-a78b-41c90a77545c.jpg"
   },
   {
    "id": "7cb45410-a586-4ac8-8280-069c162df7ac",
@@ -146,8 +157,10 @@
     "pl",
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "a9bef9bb-ee46-4566-af6b-aebf4880b481.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:20+00:00"
+ "updatedAt": "2021-07-18T07:09:20+00:00",
+ "coverFileName": "6914bb08-b564-402d-bb9c-5c6823286441.png"
 }

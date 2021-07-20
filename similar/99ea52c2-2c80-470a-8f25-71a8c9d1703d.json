@@ -16,7 +16,8 @@
     "bg",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "aa783635-2e91-4407-adc6-24a635f779ac.png"
   },
   {
    "id": "d8f7ffd5-8ad8-4d17-a40c-12fe7e032674",
@@ -28,7 +29,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "8453e762-13ff-490e-852e-34d9e1ed5f01.jpg"
   },
   {
    "id": "d5e71314-00df-4a6c-9fd9-9f72fc3201d8",
@@ -42,7 +44,8 @@
     "es-la",
     "es",
     "it"
-   ]
+   ],
+   "coverFileName": "1877a982-1901-4970-8e46-d8255cd9bb2f.jpg"
   },
   {
    "id": "b6a4b905-537a-4719-8759-dc470779796e",
@@ -53,7 +56,8 @@
    "score": 0.37250718,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "54d2f2ea-feb7-4f87-807c-b5f1ef166a42.jpg"
   },
   {
    "id": "f768e93a-2637-4b97-b707-e4aad26466f7",
@@ -65,19 +69,21 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "6b1a4e49-64f5-4754-b5d3-26d4ea68734c.jpg"
   },
   {
    "id": "d87dd658-2741-493c-905b-fd3fae4fda0c",
    "title": {
-    "en": "Kimi ni Todoke Special ～Soulmate～"
+    "en": "Kimi ni Todoke Special \uff5eSoulmate\uff5e"
    },
    "contentRating": "safe",
    "score": 0.3515963,
    "languages": [
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "65b7bf3b-546e-4720-ba4e-2fffbfc4abaa.jpg"
   },
   {
    "id": "dd396eb3-801b-4945-9542-710488a0eb0c",
@@ -88,7 +94,8 @@
    "score": 0.34959793,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fef586d9-e31c-4591-99a2-c049b81cbfc6.jpg"
   },
   {
    "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
@@ -101,7 +108,8 @@
     "en",
     "ru",
     "ko"
-   ]
+   ],
+   "coverFileName": "fe1f585b-81d9-49ba-8773-d6251bd2c244.jpg"
   },
   {
    "id": "8bb1f8e3-bf0a-44ac-9630-cfb1f35c689c",
@@ -113,7 +121,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "81c98f4d-440c-46a7-8467-868e521d5ea3.jpg"
   },
   {
    "id": "d5fc7365-f202-44c6-a029-08ea04896dcc",
@@ -124,7 +133,8 @@
    "score": 0.33681476,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c1229af-7a07-4c09-811c-36a02d6b07ae.jpg"
   },
   {
    "id": "aa949328-5511-47c8-b291-b65d04959c85",
@@ -138,7 +148,8 @@
     "es-la",
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "4ea2ef84-9eb8-4e23-b7e9-ad8fbfb3f596.jpg"
   },
   {
    "id": "e438eebb-6623-4564-a332-8c2060ee6573",
@@ -149,8 +160,10 @@
    "score": 0.3366034,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0b89dec-d029-4ffd-abc6-9bfff28bb74f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:07+00:00"
+ "updatedAt": "2021-07-18T06:53:07+00:00",
+ "coverFileName": "02f96ddd-d19f-416a-8882-01f987acdac4.jpg"
 }

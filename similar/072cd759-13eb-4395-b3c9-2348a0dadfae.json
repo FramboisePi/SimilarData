@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "728bafa1-092d-46e0-aebf-7083387aadf3.jpg"
   },
   {
    "id": "937961e2-6bea-45d2-9d99-f5b263c44b14",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "83d8f3c4-17ab-49f5-9cfe-ce6af690968f.png"
   },
   {
    "id": "7ace7a3b-31b3-44ea-b160-bcb66cbcc55b",
@@ -38,18 +40,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d271351-716b-4ea5-8442-aa05804eff26.jpg"
   },
   {
    "id": "f0ac48d3-c7e3-42af-8b7e-81d7f441ec97",
    "title": {
-    "en": "Shin☆Daa! Daa! Daa!"
+    "en": "Shin\u2606Daa! Daa! Daa!"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02ff32b6-cc10-4ced-921e-9eea61e019d5.jpg"
   },
   {
    "id": "d63030c1-63eb-4fc0-8aef-8f165f6587b1",
@@ -60,7 +64,8 @@
    "score": 0.44168118,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e0d8d8cd-a88e-44c5-8589-e3eb98ee65e7.jpg"
   },
   {
    "id": "4ab50336-69b0-4214-8289-28b09a7bb5c2",
@@ -73,7 +78,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "134ad86f-bd57-4462-b702-287c8d754d68.jpg"
   },
   {
    "id": "595f11c4-b902-4b45-82bf-b3e2998d196d",
@@ -84,7 +90,8 @@
    "score": 0.43886316,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58aa95c5-ea50-486f-8a88-bef24e9715d3.jpg"
   },
   {
    "id": "66423d09-3170-47aa-a642-a35bae804518",
@@ -95,7 +102,8 @@
    "score": 0.43802115,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b9691554-902a-44fd-9263-42f3f60ddf11.jpg"
   },
   {
    "id": "fe8dcdb7-92df-4a27-92d3-7a0e2d1b98ea",
@@ -106,7 +114,8 @@
    "score": 0.43253553,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5e7f367-34fe-4fb7-ab86-a66ccc4f8fd2.jpg"
   },
   {
    "id": "7b591c68-61a0-4402-af87-30a1ecb5a6c4",
@@ -117,18 +126,20 @@
    "score": 0.4325351,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1050f6e-d09d-494b-9cdb-3a79e9f172f1.jpg"
   },
   {
    "id": "1ef231aa-cb37-4d58-9a93-c113d8388707",
    "title": {
-    "en": "Magical Pokémon Journey"
+    "en": "Magical Pok\u00e9mon Journey"
    },
    "contentRating": "safe",
    "score": 0.42228687,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aef06042-b08b-4263-8a65-9b0471f48958.jpg"
   },
   {
    "id": "a38f9b93-8e18-4832-985a-bfb384644b75",
@@ -139,8 +150,10 @@
    "score": 0.422059,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3be39f92-10fe-4a3a-898f-74443b8c1612.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:47+00:00"
+ "updatedAt": "2021-07-18T06:25:47+00:00",
+ "coverFileName": "1e266c0a-9f71-4c40-bc96-08446ebd10ae.jpg"
 }

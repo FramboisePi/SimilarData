@@ -14,7 +14,8 @@
    "score": 0.5242152,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ab3b1444-24d0-4789-946c-529c3fdb0472.jpg"
   },
   {
    "id": "40a94020-ca90-413f-9e5c-8b33ba90a838",
@@ -25,7 +26,8 @@
    "score": 0.4948685,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ec03c8c-71af-4eb0-a273-1939db500bb4.jpg"
   },
   {
    "id": "fa563d74-8a38-47a8-b16d-b481342acda3",
@@ -37,7 +39,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "532c0f3f-cba8-4afc-96df-bf72c3f236b1.jpg"
   },
   {
    "id": "af4c26dc-a257-4033-9ed0-3c65091872bf",
@@ -48,7 +51,8 @@
    "score": 0.4494971,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e15eba9-217c-4eba-b066-cc7103e9dd92.jpg"
   },
   {
    "id": "8f0ba5ea-452f-482a-afc8-25e1973eb34c",
@@ -59,7 +63,8 @@
    "score": 0.44861773,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "816ca652-6075-4265-817f-4bf9efd65f95.jpg"
   },
   {
    "id": "ac0f757e-4ef9-404e-a45e-470cd58f7dbc",
@@ -70,7 +75,8 @@
    "score": 0.4402382,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "42797b75-7f3b-4b7e-bd35-a9775e100e71.jpg"
   },
   {
    "id": "58299582-8544-4d2c-a28f-4669357e59aa",
@@ -82,7 +88,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4c4cd18e-d8d1-4543-bf7e-84d66a534394.jpg"
   },
   {
    "id": "5db47a11-9db5-4675-a3f8-2b4b8b83fa95",
@@ -94,7 +101,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "24ea363c-73cc-496d-9e0f-297bf52193c9.jpg"
   },
   {
    "id": "46b52a02-a7d8-474c-a6f7-c3a2652ef213",
@@ -107,7 +115,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "77366cd9-1502-4a01-bd95-fc5e66520e5e.jpg"
   },
   {
    "id": "18b85a34-4337-4051-aa53-f8f46d4ec28b",
@@ -118,18 +127,20 @@
    "score": 0.42259535,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1dd2253b-73c5-4408-bd3c-53e4e8fddb3a.jpg"
   },
   {
    "id": "9c94322b-0565-413b-b862-58706cbcd26b",
    "title": {
-    "en": "Trompe-l'œil no Yubisaki"
+    "en": "Trompe-l'\u0153il no Yubisaki"
    },
    "contentRating": "safe",
    "score": 0.4199935,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0da62f3e-3171-421c-8c2a-d87aa6512d42.jpg"
   },
   {
    "id": "4c0c0075-f700-41a8-b794-84669715c011",
@@ -141,8 +152,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "3be2f4f2-0145-4e32-9315-397dbedf0b6a.png"
   }
  ],
- "updatedAt": "2021-07-18T06:48:43+00:00"
+ "updatedAt": "2021-07-18T06:48:43+00:00",
+ "coverFileName": "ec5d1562-fc05-4606-b55d-537aa6b4e583.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "633efa03-dc62-4543-be42-a8de0a7a8d11",
  "title": {
-  "en": "ChäoS;Child  ～Children's Collapse～"
+  "en": "Ch\u00e4oS;Child  \uff5eChildren's Collapse\uff5e"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "91190d4b-1125-4d9a-a04a-09c53e572501.png"
   },
   {
    "id": "b92dd7c5-de9c-47f5-98c6-7b958c63aa82",
@@ -26,7 +27,8 @@
    "score": 0.34946114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1f99e78-0175-44c5-a522-778efa773e1d.jpg"
   },
   {
    "id": "ac2638c5-9aa7-4283-ab51-d2a85c1b8109",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "422b52fb-01bb-4db4-85fa-6dbaadd957f0.jpg"
   },
   {
    "id": "3bc77d0c-7500-48f3-8b81-92f8ccda225c",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "63786c1d-7169-443a-9fc9-417bbc1a87c1.jpg"
   },
   {
    "id": "2b4b4e2f-229a-4547-bd4f-f61d8ff20082",
@@ -62,7 +66,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "b22a391f-717c-4de2-9ec1-1ddcda2cc0b0.jpg"
   },
   {
    "id": "3ec63e7d-789d-4e6e-bd25-29cc4491e478",
@@ -73,7 +78,8 @@
    "score": 0.31688085,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1de21a95-a980-4926-bc28-72dd9a7f7f59.jpg"
   },
   {
    "id": "ce0f19ab-de21-4199-994a-1831978b1c54",
@@ -84,18 +90,20 @@
    "score": 0.31254596,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fbfe0bba-3873-401d-8d77-9f0fd9d4b116.jpg"
   },
   {
    "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
    "title": {
-    "en": "Sekai de Ichiban, Ore ga ◯◯"
+    "en": "Sekai de Ichiban, Ore ga \u25ef\u25ef"
    },
    "contentRating": "safe",
    "score": 0.30536672,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6345010e-399d-4ff0-a2ce-42bf7d46bd77.jpg"
   },
   {
    "id": "9a1ce2bc-d968-42e0-bbad-488310cd69f5",
@@ -106,7 +114,8 @@
    "score": 0.30336472,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "17dc0c70-ca46-47f9-8627-696e38f5e54b.jpg"
   },
   {
    "id": "65179b4d-329e-44b3-8848-975c7a99d294",
@@ -118,7 +127,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "37c6bd40-594f-4b3c-8333-f6706ac03270.jpg"
   },
   {
    "id": "f097daac-4e51-4e8f-b8b8-e27f6373bb43",
@@ -131,7 +141,8 @@
     "en",
     "it",
     "tr"
-   ]
+   ],
+   "coverFileName": "4d7a8a03-cdba-4d8c-b9f1-e63a21df8ca7.png"
   },
   {
    "id": "e79a290b-a9c9-4c8c-9e01-5cea2cf30337",
@@ -142,8 +153,10 @@
    "score": 0.29534855,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ecf06df-0954-4fa8-bdd4-397f8ded1331.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:42:55+00:00"
+ "updatedAt": "2021-07-18T06:42:55+00:00",
+ "coverFileName": "bdec893c-d28e-4161-9dee-1eeafa6058b5.jpg"
 }

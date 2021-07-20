@@ -14,7 +14,8 @@
    "score": 0.5425467,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d6a657be-db6a-40c6-89bb-d0ff6a7b6927.png"
   },
   {
    "id": "56bae67b-3063-45cc-9be1-a876b1af72cd",
@@ -25,7 +26,8 @@
    "score": 0.51334375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e8629f5-8431-4f26-851c-5ba6774d0659.jpg"
   },
   {
    "id": "cd9924db-359a-4b9c-a3e2-106ae8e2b963",
@@ -37,7 +39,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "6239d65a-bbf6-4f9f-8eee-bcbf43154a42.jpg"
   },
   {
    "id": "056cde6f-0ed1-45ff-90db-920416595f0d",
@@ -48,7 +51,8 @@
    "score": 0.44702968,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "88f567f0-7e88-4229-b950-10a51b8fe52f.jpg"
   },
   {
    "id": "69c40065-df1d-46ec-a2e4-c2c43df66947",
@@ -59,7 +63,8 @@
    "score": 0.41732466,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "57c39aeb-eafa-4d32-85da-35d0c8e10803.jpg"
   },
   {
    "id": "c3b709d3-dd58-4d4a-9bdf-b900da9e0065",
@@ -71,7 +76,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "840e6ab4-8ba9-4706-afd8-ac39fb828daf.jpg"
   },
   {
    "id": "6a2ca903-08ca-4c06-b004-d92a89240d80",
@@ -83,31 +89,34 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "b42b47ac-a4bb-4d46-8284-e69d6afcb444.jpg"
   },
   {
    "id": "10f9c390-b0c2-4dff-8287-226e20b27400",
    "title": {
-    "en": "Childhood Friend \u0026 Me"
+    "en": "Childhood Friend & Me"
    },
    "contentRating": "safe",
    "score": 0.3998355,
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "b553ab87-dd69-42cb-9c3b-78f78207500b.jpg"
   },
   {
    "id": "a785d9d8-2563-4a16-b61d-c4c62251f6fd",
    "title": {
-    "en": "Are ← Nochi Kareshi"
+    "en": "Are \u2190 Nochi Kareshi"
    },
    "contentRating": "safe",
    "score": 0.3998316,
    "languages": [
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "b8c34aae-7a2a-4427-8722-4d32002e2aaa.jpg"
   },
   {
    "id": "9ac3251a-15b9-4de2-98a3-60a4a91187a5",
@@ -119,7 +128,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "6828e72f-1ec0-4046-9ed5-cfc2937d4d07.jpg"
   },
   {
    "id": "595f11c4-b902-4b45-82bf-b3e2998d196d",
@@ -130,7 +140,8 @@
    "score": 0.39047456,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58aa95c5-ea50-486f-8a88-bef24e9715d3.jpg"
   },
   {
    "id": "c3b09648-8c69-4e84-a687-d9bf50b9c27d",
@@ -142,8 +153,10 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "b9c4b994-f52b-493a-affa-86464be12620.png"
   }
  ],
- "updatedAt": "2021-07-18T07:00:18+00:00"
+ "updatedAt": "2021-07-18T07:00:18+00:00",
+ "coverFileName": "d8044e93-1979-4e7f-a8bb-6f2ea0394462.jpg"
 }

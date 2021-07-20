@@ -16,7 +16,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "7d730e26-3719-4784-b195-e5528940cc9a.jpg"
   },
   {
    "id": "b5d90c42-204a-40ef-9f61-d6620e2b6162",
@@ -28,7 +29,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "a71f3d20-846a-459e-bae4-281d144be5d7.jpg"
   },
   {
    "id": "5abbb183-aab9-4da3-8c70-b64486b72a83",
@@ -41,7 +43,8 @@
     "es-la",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "5a71b415-950d-4222-8dd7-e86e251238ba.jpg"
   },
   {
    "id": "4e8f9100-1a9d-493d-b6ef-9cfaed991594",
@@ -56,7 +59,8 @@
     "en",
     "it",
     "id"
-   ]
+   ],
+   "coverFileName": "4fef9326-139e-471c-9579-8a7824fe413f.jpg"
   },
   {
    "id": "3d198ed0-1ed1-404c-962d-d95d00ddbb99",
@@ -67,7 +71,8 @@
    "score": 0.47074765,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3cd61a4f-99fd-41a6-b2c0-23b3f76c736f.jpg"
   },
   {
    "id": "bbe5c43f-05de-4b3e-b385-865b7377b757",
@@ -80,7 +85,8 @@
     "th",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7bf24e12-38fc-4da6-bef9-aafb83513ebe.jpg"
   },
   {
    "id": "6746ec9a-4bfe-4815-98db-cfc11bccaa68",
@@ -92,7 +98,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "e3d402ec-4b04-4928-8394-ef0364763119.jpg"
   },
   {
    "id": "3536695a-12f0-4cac-b319-91c83deb932f",
@@ -104,19 +111,21 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "20e73d7c-3481-4b1c-8262-628b7aefee36.jpg"
   },
   {
    "id": "d42d0e05-2a04-4a1e-ba09-3cb020676279",
    "title": {
-    "en": "I Don’t Want the Obsession of a Twisted Archduke"
+    "en": "I Don\u2019t Want the Obsession of a Twisted Archduke"
    },
    "contentRating": "safe",
    "score": 0.44997132,
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "622eb1f5-c26a-48ab-8eeb-3af59dd3172c.jpg"
   },
   {
    "id": "762429b2-5210-4121-ad5a-833c9635e9f5",
@@ -128,7 +137,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ad7e1b23-a635-4685-a640-1413945c327b.jpg"
   },
   {
    "id": "d30f84bd-c129-4da9-bbd2-3675712a3191",
@@ -142,7 +152,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5a8e201a-13c3-4001-9b49-db62dab1674b.jpg"
   },
   {
    "id": "beab7f00-ac83-4dc6-8861-6a49ecb6db05",
@@ -154,8 +165,10 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "e1f357e3-2c0a-4e32-b526-ac44b8fe8e3f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:52:05+00:00"
+ "updatedAt": "2021-07-18T06:52:05+00:00",
+ "coverFileName": "01e513c4-d620-4e86-8070-fd6432b3b8d4.jpg"
 }

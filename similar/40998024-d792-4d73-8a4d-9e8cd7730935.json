@@ -14,7 +14,8 @@
    "score": 0.90359426,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8cb40f9d-283b-4b85-a120-093771387222.png"
   },
   {
    "id": "243df6fe-475c-491c-90f6-ce74e64cce0a",
@@ -26,7 +27,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a99b8aad-591a-401d-b69f-fbb0c3e0605f.jpg"
   },
   {
    "id": "97de144d-dce2-4b40-9aa8-06692bd83253",
@@ -38,7 +40,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "0d49a2e1-cfcc-498b-aad1-9d2a8930b288.png"
   },
   {
    "id": "ac90b190-956f-4415-b1ef-5f94291bac4d",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "918517c7-d241-45fb-9770-4ff5b1dedde1.png"
   },
   {
    "id": "8b079a3a-c3fe-4157-b7ab-1faa8f837179",
@@ -61,7 +65,8 @@
    "score": 0.5377933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d290bbf-b6db-4d8f-b988-9baeedcf556a.png"
   },
   {
    "id": "fec1cb3f-5a4f-4e54-9ab2-689422b61527",
@@ -72,7 +77,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "950ab082-8f5c-4ec5-906f-64747f4576c9.png"
   },
   {
    "id": "3ea3ec9a-c78b-4a2e-a3d0-52b3b4daf278",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "b8b3a4f6-9415-440d-b3d8-7531b9f8d9b5.png"
   },
   {
    "id": "1f59e268-ed84-4938-9d8a-273126bbf8cd",
@@ -96,7 +103,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "673b762c-268f-470e-996b-4c91301598ea.jpg"
   },
   {
    "id": "1f90019b-9b61-4eab-b35e-67c498a1afbc",
@@ -107,7 +115,8 @@
    "score": 0.44652504,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "7d7d4be6-997e-4053-9415-b8d62798f308.jpg"
   },
   {
    "id": "c1affd3f-d2f7-4b55-b426-fd3450921ad2",
@@ -119,12 +128,13 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e9047356-e909-4bb3-9540-94542deb412f.png"
   },
   {
    "id": "80b0581b-898e-407e-998c-b96444c3ab6d",
    "title": {
-    "en": "High☆Speed!"
+    "en": "High\u2606Speed!"
    },
    "contentRating": "safe",
    "score": 0.4310526,
@@ -132,7 +142,8 @@
     "pt-br",
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "6f3c9f2b-72c9-45d1-99bd-c7a31c42c2c7.png"
   },
   {
    "id": "ad842170-2b60-4a27-a934-9227fda33da3",
@@ -143,8 +154,10 @@
    "score": 0.42285082,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2dab81bb-b498-4915-8c6d-b3517b29172d.png"
   }
  ],
- "updatedAt": "2021-07-18T06:36:30+00:00"
+ "updatedAt": "2021-07-18T06:36:30+00:00",
+ "coverFileName": "9bf2eb48-7ab4-4f6b-8e41-0f788fedcf2c.png"
 }

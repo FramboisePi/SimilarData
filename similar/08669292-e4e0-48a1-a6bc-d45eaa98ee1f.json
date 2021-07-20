@@ -17,7 +17,8 @@
     "zh-hk",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "e5bd7b66-2daf-43c9-8ab2-7af4fed0a054.jpg"
   },
   {
    "id": "d1277965-6bd9-457a-9a33-2879832b6d32",
@@ -30,7 +31,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "04b3f0c7-e55f-42df-aeb6-e21da5c4539f.jpg"
   },
   {
    "id": "474f4e95-7731-4d92-badb-bfd52e601df0",
@@ -41,7 +43,8 @@
    "score": 0.4052022,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "16cd6d44-403e-4702-974f-74e785457c63.jpg"
   },
   {
    "id": "060d1dcc-6cd6-42a9-90ef-97ca507270e6",
@@ -52,7 +55,8 @@
    "score": 0.3844608,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6bc7e2f3-5476-49b1-9ab4-2655ac50c6e7.jpg"
   },
   {
    "id": "62608082-d81d-4513-af7d-ae3ffe2423d2",
@@ -66,7 +70,8 @@
     "ru",
     "de",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cfec1b03-c993-49df-8fd8-887b54f7f9bd.jpg"
   },
   {
    "id": "db8453d1-16a3-41da-8ff9-4411676fb1af",
@@ -77,7 +82,8 @@
    "score": 0.37709132,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5dc9d346-93be-49ca-b0cd-3479f16471e0.jpg"
   },
   {
    "id": "949caaa5-37e0-4f92-a110-bc6ce8080814",
@@ -88,19 +94,21 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4104f2a3-b352-476e-b549-4008775be1b1.jpg"
   },
   {
    "id": "626f9a68-21fe-44f4-80e9-f11ecc092700",
    "title": {
-    "en": "Ryuu Majin Hime Valalice no Haiboku ～ Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai"
+    "en": "Ryuu Majin Hime Valalice no Haiboku \uff5e Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai"
    },
    "contentRating": "safe",
    "score": 0.3475654,
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "1a73bd45-09c7-4fb7-966d-ac7a4507fa96.jpg"
   },
   {
    "id": "ede48b14-8d83-41cb-9559-c7d859fd23fc",
@@ -114,7 +122,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "c6ef5c15-56a8-4258-a8d5-1d03f15ad18b.jpg"
   },
   {
    "id": "b66a6d2f-72cf-4334-9a5a-22d1f1ad8513",
@@ -125,7 +134,8 @@
    "score": 0.3283275,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd95e3c9-c60b-43e2-a7d9-0235c2747af2.jpg"
   },
   {
    "id": "26c4a83f-4078-431b-b862-820c452bb278",
@@ -138,7 +148,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9467b41b-a57d-46e0-9007-0338282715ba.jpg"
   },
   {
    "id": "7c08f074-2951-4ad0-b3a1-fbb5a3c6efd3",
@@ -149,8 +160,10 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "674470a2-7916-4a23-9ff5-c085f48c24c9.png"
   }
  ],
- "updatedAt": "2021-07-18T06:26:00+00:00"
+ "updatedAt": "2021-07-18T06:26:00+00:00",
+ "coverFileName": "81484e4e-ef83-4f1c-be3c-2d83ce23a031.jpg"
 }

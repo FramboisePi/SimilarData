@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "50e08ad9-0fe2-4f60-b744-f93379d90fa1.png"
   },
   {
    "id": "2969ee5a-746c-4a63-93e2-8c16b3f47a77",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "460bb12a-280c-47eb-a84e-bacf496739c6.jpg"
   },
   {
    "id": "15d1d70d-d6f0-4551-bf7b-037c211335d6",
@@ -40,7 +42,8 @@
     "en",
     "it",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7d2dea09-6363-4106-b60f-41ea1d6e7080.jpg"
   },
   {
    "id": "d9113bdf-f911-457e-8e57-1a5c806fd970",
@@ -51,7 +54,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "998be15a-4d86-400e-94d8-0e1d1ac3b272.jpg"
   },
   {
    "id": "2119aa41-c0db-4866-9e61-b9f21b322b40",
@@ -63,7 +67,8 @@
    "languages": [
     "en",
     "tl"
-   ]
+   ],
+   "coverFileName": "8329264a-f88c-47c3-9d35-99c24e1eedf4.jpg"
   },
   {
    "id": "054fa10a-395f-4fa1-a052-9481ebff2302",
@@ -74,7 +79,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58179810-5d3f-4d00-878e-ad87c93617dd.jpg"
   },
   {
    "id": "0b0cf9fe-fb33-495f-9151-994968de8421",
@@ -92,7 +98,8 @@
     "pt-br",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "faab21d2-82c3-461c-bea3-148ba203bac9.png"
   },
   {
    "id": "6e4e7b85-185d-4c68-8b07-b0454d9bc86a",
@@ -103,7 +110,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c1954804-dcfa-4efa-859d-472ace6965f6.jpg"
   },
   {
    "id": "4b0bc169-ce30-43c5-b053-c8978c477134",
@@ -114,7 +122,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47a7f38b-0e18-48c0-9290-3626479726ed.jpg"
   },
   {
    "id": "84ed3efe-f9ce-46a3-8bd6-0cc4e13996e0",
@@ -125,12 +134,13 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9234bf6-07ad-4a5c-9bd5-f4e0133cca6a.png"
   },
   {
    "id": "44e60bff-ca42-4f5d-9730-b556854a0077",
    "title": {
-    "en": "Kininaru Danshi ni 〇〇 Suru Onnanoko."
+    "en": "Kininaru Danshi ni \u3007\u3007 Suru Onnanoko."
    },
    "contentRating": "suggestive",
    "score": 0.31819806,
@@ -141,7 +151,8 @@
     "es-la",
     "ru",
     "tr"
-   ]
+   ],
+   "coverFileName": "8138b029-82e8-46a1-97c5-e91a5e05ae7c.jpg"
   },
   {
    "id": "d6f7ac60-9478-461a-9369-e723d1c0c3c3",
@@ -152,8 +163,10 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f405ab3d-fe37-456d-9a93-95aedd5df6dd.png"
   }
  ],
- "updatedAt": "2021-07-18T06:32:05+00:00"
+ "updatedAt": "2021-07-18T06:32:05+00:00",
+ "coverFileName": "7a7c36a1-7a08-49d5-ab43-4a90ff12f0e7.png"
 }

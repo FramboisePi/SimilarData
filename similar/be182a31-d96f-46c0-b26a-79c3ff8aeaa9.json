@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "dd876c72-137e-431b-9938-08ba7d87e9ce.jpg"
   },
   {
    "id": "f267da6a-f2c2-4245-b766-82f7bae9bed9",
@@ -26,7 +27,8 @@
    "score": 0.45897982,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "58497efc-272d-4851-8c02-73c902e804c8.jpg"
   },
   {
    "id": "eed216e3-72b5-4e2f-9505-44b2340bdfb5",
@@ -37,7 +39,8 @@
    "score": 0.42174867,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c927dbd1-622f-48b5-90c8-67b4b7ac0097.jpg"
   },
   {
    "id": "dde2d8d4-1910-4d97-8e30-a222a970638a",
@@ -48,7 +51,8 @@
    "score": 0.41040343,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bf28918a-5f15-4e84-b97f-e16da5725dac.jpg"
   },
   {
    "id": "8e343c66-adef-42ee-b6bf-ecc3d9b862d0",
@@ -59,7 +63,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "13ea9424-e185-4558-a6f3-c5ad4bdf728d.jpg"
   },
   {
    "id": "6ce20e88-e84f-474b-9c60-02ab44a56ab9",
@@ -70,7 +75,8 @@
    "score": 0.3937686,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ef5630ba-bbc1-4a94-88d7-5dcf03485e4b.png"
   },
   {
    "id": "b8b1cb65-a784-4044-a39c-6cbb4fc0db90",
@@ -81,7 +87,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd9bcb00-7a60-4333-9e24-044ad8557f17.jpg"
   },
   {
    "id": "28bf0885-ab72-4455-b278-f77b5ae6ef54",
@@ -94,12 +101,13 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "2b6f8803-739e-4ebf-92af-08d8217dae58.jpg"
   },
   {
    "id": "7ef92903-9df3-4040-9b52-45e6b57c1613",
    "title": {
-    "en": "Sensei de ○○ shicha Ikemasen!"
+    "en": "Sensei de \u25cb\u25cb shicha Ikemasen!"
    },
    "contentRating": "suggestive",
    "score": 0.39348966,
@@ -107,7 +115,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e1d1804e-18e5-4552-bdb3-7efa0e5a17b5.jpg"
   },
   {
    "id": "6124f23c-3982-4386-85f5-b1596e5a1fa5",
@@ -118,7 +127,8 @@
    "score": 0.39125478,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bde6baa4-2a10-4cec-ace4-d47c911e7c78.png"
   },
   {
    "id": "db2f4896-31ce-4447-ac4c-9a1e66593919",
@@ -129,7 +139,8 @@
    "score": 0.3898962,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5b21405a-1626-45b0-be57-b378cff5f37f.jpg"
   },
   {
    "id": "f0d9f917-b263-4654-aa4f-743a76b09009",
@@ -141,8 +152,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d9d2203d-1824-481f-ab92-6fe52330b249.png"
   }
  ],
- "updatedAt": "2021-07-18T06:59:46+00:00"
+ "updatedAt": "2021-07-18T06:59:46+00:00",
+ "coverFileName": "578abc43-1f59-471b-87ef-7efe48dc2dba.png"
 }

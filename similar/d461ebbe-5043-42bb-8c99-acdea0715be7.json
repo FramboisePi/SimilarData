@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "aedba063-c327-4634-96d6-2b7903bf9e04.png"
   },
   {
    "id": "f55f2007-f23a-4559-af5e-704f710aceb1",
@@ -26,7 +27,8 @@
    "score": 0.44957024,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e7ec65c-0384-444c-b58a-6e50680a7463.png"
   },
   {
    "id": "9269fa20-3cbc-4657-ba7b-94358aa5b1d0",
@@ -38,7 +40,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "4eb18177-bab7-4da6-9845-ce082b43bb46.jpg"
   },
   {
    "id": "3336a968-c5ec-4568-8ce2-4123a4fcad8b",
@@ -50,7 +53,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b6432f14-5c88-43bc-9a58-8a5fb0ec14ef.jpg"
   },
   {
    "id": "e3c20402-ab95-473b-943f-9c474a1bda14",
@@ -63,7 +67,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1b0ec381-9ac3-4fbd-8681-9356a002bbd2.png"
   },
   {
    "id": "4820f83a-4775-4975-a0e4-c07ef6deb0f9",
@@ -74,7 +79,8 @@
    "score": 0.44073343,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae7d8ab9-d28e-4ad6-9329-a8e34c17c290.jpg"
   },
   {
    "id": "48eba9eb-7ac6-492c-9e45-fa91ef9708da",
@@ -85,7 +91,8 @@
    "score": 0.43803906,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7d384905-c08d-4a81-9b49-6f8775a75ab7.jpg"
   },
   {
    "id": "acff51bd-b55b-4e59-8a7f-6c9718f5bb40",
@@ -97,7 +104,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "8570434c-f328-4b0c-a0ce-ff5d1a696697.png"
   },
   {
    "id": "3f006635-2222-458c-998b-89fc29f2088c",
@@ -108,7 +116,8 @@
    "score": 0.4138908,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "80c95335-e2df-40d1-845e-f6a19840cf77.jpg"
   },
   {
    "id": "1846864f-0899-4250-b040-59e811f884b3",
@@ -123,18 +132,20 @@
     "ru",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "b8d67282-46b1-4bb9-8bd6-db287bb3ca52.jpg"
   },
   {
    "id": "4ccff42d-c02a-4908-aa15-04c5ff119d11",
    "title": {
-    "en": "Sex=Love²"
+    "en": "Sex=Love\u00b2"
    },
    "contentRating": "erotica",
    "score": 0.40543422,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "443cb98a-3e24-4ae5-8274-1bb45732ea1b.png"
   },
   {
    "id": "fc6c25f5-afe1-49ab-a066-7ca18e460cb7",
@@ -145,8 +156,10 @@
    "score": 0.40066588,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a251b85d-a669-483b-8aa2-723d3353b506.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:48+00:00"
+ "updatedAt": "2021-07-18T07:03:48+00:00",
+ "coverFileName": "a175a942-fda6-4616-846b-a3b63666dbd1.jpg"
 }

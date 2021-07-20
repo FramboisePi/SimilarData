@@ -8,14 +8,15 @@
   {
    "id": "c10a6f2f-dd44-4be4-94b3-9cb447c4fa39",
    "title": {
-    "en": "Missy’s Geek Raising Plan"
+    "en": "Missy\u2019s Geek Raising Plan"
    },
    "contentRating": "safe",
    "score": 0.39181712,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7355107f-a6d6-450e-b1e1-f7be7c9db71a.jpg"
   },
   {
    "id": "447d339f-ed8e-4094-a6c9-5e3abe6f8669",
@@ -27,7 +28,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "1cefca27-23ff-41d6-9a35-5718b76f0c89.jpg"
   },
   {
    "id": "0c60a44d-c793-4a7d-8269-66afbdb2c517",
@@ -40,7 +42,8 @@
     "ro",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e60066a6-cbb4-4d89-9624-169650a42ab2.jpg"
   },
   {
    "id": "4e1a9a5a-b902-4d89-91ab-507c097feaf8",
@@ -51,7 +54,8 @@
    "score": 0.37483945,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23a6e327-11da-4532-8e39-693f77221238.png"
   },
   {
    "id": "1a8b20f2-5791-4d31-bcf4-1bc61fd17e80",
@@ -62,7 +66,8 @@
    "score": 0.3687903,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9db18d4-39c7-4a7d-aeb7-40c2acbacc32.jpg"
   },
   {
    "id": "56b1e70a-b06a-4ed5-8ccb-df362a7336e9",
@@ -75,7 +80,8 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "21c20e14-986e-4314-a63c-b0472812a854.png"
   },
   {
    "id": "a7df9e5f-671e-45f8-8d2e-bf7b39019579",
@@ -86,7 +92,8 @@
    "score": 0.36357984,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28b4660c-e723-4ed5-9148-9c8a5b724c28.jpg"
   },
   {
    "id": "9586c218-be00-4420-b89b-ce2dae18aac5",
@@ -97,7 +104,8 @@
    "score": 0.35704356,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b0b0e5f-7350-4287-b7f9-d5e29faa4203.jpg"
   },
   {
    "id": "e4d2763f-5f53-414f-a15e-743b2c602300",
@@ -108,7 +116,8 @@
    "score": 0.35547575,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "63f7c42a-805c-44f1-b684-43192e752e7b.jpg"
   },
   {
    "id": "c5a4bab0-87f0-4843-b49a-603ca52f9ef5",
@@ -124,7 +133,8 @@
     "fr",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "09a6fd88-8921-4647-b864-30336e91f0c5.png"
   },
   {
    "id": "958ea02d-bda3-457e-a45b-e0cc3dd161ff",
@@ -136,7 +146,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "f135dbbc-096e-402b-958e-f159747c87b1.jpg"
   },
   {
    "id": "6e63bac5-44f4-4677-bc15-1ed676697fe2",
@@ -150,8 +161,10 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d156fe7a-c23e-4c57-993b-c88d3b72ee11.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:10:34+00:00"
+ "updatedAt": "2021-07-18T07:10:34+00:00",
+ "coverFileName": "c78346bc-6710-4dfd-ad48-7e4373692904.jpg"
 }

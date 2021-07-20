@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b097ce97-0485-46ce-b6d6-452233129592.jpg"
   },
   {
    "id": "b25b8089-152f-43d7-845e-bcf3a4c26209",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0c0a788b-de46-4d29-87ec-74f456f0c6af.jpg"
   },
   {
    "id": "9963e676-b9ae-4882-8115-9798849065e4",
@@ -38,7 +40,8 @@
    "score": 0.4120038,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19a4477d-6fb7-49b2-8234-fbcbd5d635dd.png"
   },
   {
    "id": "4f127c41-bd56-4161-aee5-2c55746993f8",
@@ -50,7 +53,8 @@
    "languages": [
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "28047a86-0f8b-47e0-a51b-993ca35ef37a.jpg"
   },
   {
    "id": "6b954e8c-3b97-49ad-bd39-2731d46a0aa5",
@@ -64,7 +68,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "fb30be35-aa31-4890-a550-cf674351c7d6.jpg"
   },
   {
    "id": "68d9a231-8968-4c88-b257-c8ec877ed233",
@@ -75,7 +80,8 @@
    "score": 0.3874451,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d1e362bf-c42c-464b-9839-77e28fe5ddb9.jpg"
   },
   {
    "id": "fb881573-0fad-4fac-83bf-a1bc7a17637c",
@@ -87,7 +93,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "845945d7-9f99-4290-94e1-7e3701753529.jpg"
   },
   {
    "id": "de34e04a-a9a4-4d9b-b434-f13ad275230c",
@@ -101,7 +108,8 @@
     "pt-br",
     "pl",
     "hu"
-   ]
+   ],
+   "coverFileName": "729f090e-c1f8-4c38-a406-32b080e970ae.jpg"
   },
   {
    "id": "67818389-67b0-496f-9432-551d62f96667",
@@ -113,7 +121,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "2e4c6ed1-d609-4153-8638-5477fc750655.jpg"
   },
   {
    "id": "c60708de-bb4a-4baf-8a80-7713e4551909",
@@ -126,18 +135,20 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "151f1ba6-7a4a-4ce4-9a24-ef12435f07db.jpg"
   },
   {
    "id": "09ae9968-ebd8-4cdd-8df3-a81f398537f3",
    "title": {
-    "en": "Young Emperor’s Story"
+    "en": "Young Emperor\u2019s Story"
    },
    "contentRating": "safe",
    "score": 0.3716814,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e27811c-a67b-437a-be64-6f39df03e297.jpg"
   },
   {
    "id": "b2d1eae5-7d72-419f-9363-a028ad4f8355",
@@ -149,8 +160,10 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "0031d375-3707-4a60-9fcd-760e181f4c5f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:33+00:00"
+ "updatedAt": "2021-07-18T07:03:33+00:00",
+ "coverFileName": "503c0007-6d94-40e3-8a61-6a44920ffb13.jpg"
 }

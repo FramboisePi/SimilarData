@@ -8,13 +8,14 @@
   {
    "id": "bd91dbde-cd44-457e-978b-145e8a77dcb4",
    "title": {
-    "en": "Escape of the Duke’s Heartbroken Daughter"
+    "en": "Escape of the Duke\u2019s Heartbroken Daughter"
    },
    "contentRating": "safe",
    "score": 0.85589385,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb3a3d61-ba02-4ae0-98cd-33f6f60300a5.jpg"
   },
   {
    "id": "987b1f44-852e-42e3-b4e7-dd433abdc724",
@@ -25,7 +26,8 @@
    "score": 0.37356004,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "48c5be67-5c2e-4d6f-ad64-c21b92bb26bd.jpg"
   },
   {
    "id": "95fe6e1e-9dc0-4557-a18a-ad1f612b36b9",
@@ -36,7 +38,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4248e1aa-6c68-420b-9d45-fd3550555d04.jpg"
   },
   {
    "id": "7da3a22b-151c-43c6-97df-0e86a71ea2ce",
@@ -48,7 +51,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6c557c57-538a-453d-93aa-a4297b2c093a.jpg"
   },
   {
    "id": "0c812160-d5c9-4cb4-804f-94f10595c9fa",
@@ -59,7 +63,8 @@
    "score": 0.34124163,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d967ecc7-86de-45e0-945e-bcf139f4dda1.jpg"
   },
   {
    "id": "6b294b60-a9b3-4793-ae1e-2a25cd11ad62",
@@ -70,7 +75,8 @@
    "score": 0.33965424,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af0bc1c7-9dae-4e7f-95f6-7029fc082f14.jpg"
   },
   {
    "id": "cc30dfd5-05f9-4a0b-b6ab-9898774bf18d",
@@ -81,7 +87,8 @@
    "score": 0.33581853,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7292b40d-49b0-469c-88af-bb16c6c7834d.jpg"
   },
   {
    "id": "c36c6a0d-8982-4ac8-ae20-0b5371949e2d",
@@ -94,7 +101,8 @@
     "en",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "f955c3cd-68c1-45fa-ab55-bdb269ae5d17.jpg"
   },
   {
    "id": "b5b1e0da-763a-465a-85e8-d2e4a213ebac",
@@ -105,7 +113,8 @@
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f0aae39-3c0a-4e1e-a942-1d83576cf7b4.png"
   },
   {
    "id": "1c497519-b491-4b56-b23f-1f72f5f12a6a",
@@ -116,7 +125,8 @@
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cdc557b8-5ecc-4dd4-aab6-3fd6fb4e8f44.jpg"
   },
   {
    "id": "4aff4159-4efe-4a7d-8dde-f47c677f5c6d",
@@ -129,7 +139,8 @@
     "it",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "fd256006-8ef5-4e08-8d86-602b2d16464a.jpg"
   },
   {
    "id": "65d3c0ba-fb09-4c0e-89f3-8f1e9664fa5e",
@@ -140,8 +151,10 @@
    "score": 0.32863355,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd01ca7e-2cf3-41ee-8e1a-7711f31c100e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:39:30+00:00"
+ "updatedAt": "2021-07-18T06:39:30+00:00",
+ "coverFileName": "5b7920f2-60da-4d09-8866-3a05aedf7c88.png"
 }

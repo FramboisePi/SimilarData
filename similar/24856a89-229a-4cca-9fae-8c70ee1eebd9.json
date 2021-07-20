@@ -15,7 +15,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "9ff3584e-3542-4d3a-95a1-2b2b8de5345b.png"
   },
   {
    "id": "5a9c1a30-e0d2-4c69-a319-6a3a22001ff6",
@@ -28,7 +29,8 @@
     "pl",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "ad835a1e-5757-41e5-932b-dea35c7ded74.jpg"
   },
   {
    "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
@@ -40,18 +42,20 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "15db1c12-f604-4ef9-830f-26700f42874f.jpg"
   },
   {
    "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
    "title": {
-    "en": "She’s Coming Tonight"
+    "en": "She\u2019s Coming Tonight"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52d6cedd-713a-47b8-ad15-4bf9fe0c79cc.jpg"
   },
   {
    "id": "195991a7-68c9-4130-8a27-1f64114de8d2",
@@ -65,7 +69,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "86bd4444-7e51-4ab0-93aa-3cabd2872454.jpg"
   },
   {
    "id": "495b123a-ed4c-44ac-ac0d-cc857a2d6f93",
@@ -81,7 +86,8 @@
     "fr",
     "pt-br",
     "bg"
-   ]
+   ],
+   "coverFileName": "82f689ae-715c-4039-8b81-dbb24189f169.jpg"
   },
   {
    "id": "c5c6f53d-5e50-42c6-84cf-08f494ef4c05",
@@ -92,7 +98,8 @@
    "score": 0.34016803,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6d2124f2-eec2-4752-bbe1-bf5cbfbca8ae.jpg"
   },
   {
    "id": "5481ccfb-b44a-4fb1-b3f8-b419e6350435",
@@ -108,7 +115,8 @@
     "id",
     "it",
     "pl"
-   ]
+   ],
+   "coverFileName": "66be14b9-8512-4f2c-96d2-bc89c720a3f0.jpg"
   },
   {
    "id": "1d0068f1-c17c-4b82-bc2f-11e529898838",
@@ -122,7 +130,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "88f1d79d-4a29-48ff-a73d-4f34653dd1d5.jpg"
   },
   {
    "id": "45464d2c-d83e-463c-a917-ecae7e5c3523",
@@ -133,7 +142,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "edac1fe9-716d-4987-95cb-b3d225553d1b.jpg"
   },
   {
    "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
@@ -150,7 +160,8 @@
     "tr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "2235bc7a-f297-4c93-b836-58f4e7b9b60a.jpg"
   },
   {
    "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
@@ -163,8 +174,10 @@
     "pl",
     "en",
     "ro"
-   ]
+   ],
+   "coverFileName": "b87fa4af-826e-4020-8311-dd55d1adb7b6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:31:18+00:00"
+ "updatedAt": "2021-07-18T06:31:18+00:00",
+ "coverFileName": "1f4a7d29-56bc-4142-bb64-b9ae13c28658.jpg"
 }

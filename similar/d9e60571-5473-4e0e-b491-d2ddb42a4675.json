@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "bc744953-2d16-49b2-a115-fa560a846220.jpg"
   },
   {
    "id": "f4676132-d3af-4027-8266-074c69035e98",
@@ -27,7 +28,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "38f15454-7abb-4ef5-8380-278ed8d125d4.jpg"
   },
   {
    "id": "fd4f1147-c090-4a28-923e-eb4918f94d5a",
@@ -38,7 +40,8 @@
    "score": 0.42029557,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6460f7cb-8c1b-42cc-8a6b-a285cd9e96a6.jpg"
   },
   {
    "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "48994da0-9683-41cc-8eeb-440fa140a75a.jpg"
   },
   {
    "id": "8fc689d0-6841-4994-b892-4aee83e3010a",
@@ -62,7 +66,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "510c88e0-a031-4af3-9a42-f9dc0b3af900.jpg"
   },
   {
    "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
@@ -73,7 +78,8 @@
    "score": 0.41295406,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6441aea1-b9bf-457d-b84a-ebbcff99f3f0.jpg"
   },
   {
    "id": "1d6f3dd6-f222-40d4-aefb-f1b5b949b635",
@@ -87,7 +93,8 @@
     "fr",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f2123b99-8c7d-40d1-ac52-962f1ac4a06b.jpg"
   },
   {
    "id": "99786169-6285-45d2-b3c7-3290a9f38315",
@@ -101,18 +108,20 @@
     "ru",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3db13d65-6c23-4d84-9fc6-552ced64e05b.jpg"
   },
   {
    "id": "6b216ef0-30bd-4135-85d7-e53aab1240e1",
    "title": {
-    "en": "I’m a Banished Villainess, but I’m Accompanied by a Fluffy Creature?! My Peaceful Life Starts"
+    "en": "I\u2019m a Banished Villainess, but I\u2019m Accompanied by a Fluffy Creature?! My Peaceful Life Starts"
    },
    "contentRating": "safe",
    "score": 0.401812,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fca58b0d-7804-43c0-85f5-59b2d32cf21b.jpg"
   },
   {
    "id": "8a74e736-3090-4ea5-8ec8-e3147f9ff318",
@@ -123,7 +132,8 @@
    "score": 0.3918246,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0ad4443a-4963-46c5-b69a-578d35adf10f.jpg"
   },
   {
    "id": "638b92a8-b686-4168-9087-973c40eeea01",
@@ -134,7 +144,8 @@
    "score": 0.38955766,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c3ffbd9b-413d-453f-90d0-16542e6411c1.jpg"
   },
   {
    "id": "d6203314-9b0a-44ab-8c94-1368a9891ef2",
@@ -147,8 +158,10 @@
     "id",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "25b59526-3406-4ae9-b5d1-c80c922e4568.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:54+00:00"
+ "updatedAt": "2021-07-18T07:04:54+00:00",
+ "coverFileName": "24e6d197-300b-45d3-b2fe-8d199df893c1.jpg"
 }

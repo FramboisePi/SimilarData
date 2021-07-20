@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "11b847d8-b086-4cb1-85b6-1ad544f1a575.png"
   },
   {
    "id": "48496326-c504-459a-9f95-1c97d25edb68",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "3e3b04ba-c5ef-48bb-b3d5-28ff8223433f.jpg"
   },
   {
    "id": "cfeb5c6c-8202-4106-891f-d2ac74431f0a",
@@ -41,7 +43,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "da11b2ff-919e-4688-a444-49a7cb0103a9.jpg"
   },
   {
    "id": "858cae86-3766-47fd-b68c-f37fcb538740",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "c8e83ae3-9a70-4edb-8d94-9f1c5538fcff.jpg"
   },
   {
    "id": "c5e951db-57fa-4caf-abea-6624b98c4716",
@@ -65,7 +69,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "63f7d93d-2ebc-4675-bda4-d0db004afce5.jpg"
   },
   {
    "id": "c9a52848-be81-4bf6-803e-274328380884",
@@ -76,18 +81,20 @@
    "score": 0.35601708,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8effde46-2dc8-4b8c-97cb-55ea7862a2b0.jpg"
   },
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "Coffee \u0026 Cat"
+    "en": "Coffee & Cat"
    },
    "contentRating": "safe",
    "score": 0.3548239,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec32216a-e622-48d6-ba6e-8c45fcf4c05b.jpg"
   },
   {
    "id": "ce90786d-477d-4914-89de-7f6785b812be",
@@ -98,7 +105,8 @@
    "score": 0.35427445,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19f2a7cf-533b-4d1e-b395-a334b4b0737b.png"
   },
   {
    "id": "5599ba3e-ce69-4fcc-8738-6a76fc898cd3",
@@ -109,7 +117,8 @@
    "score": 0.3279944,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7817f52f-b228-4db6-a1a8-7b52c76478f9.jpg"
   },
   {
    "id": "a72fbf33-f895-4537-90b0-343a2bb55533",
@@ -120,7 +129,8 @@
    "score": 0.3279944,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c772e5c-2f27-4c00-a123-a5a26317302f.png"
   },
   {
    "id": "1e1432fb-2687-4444-8a51-d6ea23259071",
@@ -132,7 +142,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b8d30b17-028e-41ed-ad8d-d895be75297d.jpg"
   },
   {
    "id": "cf01b43c-8749-40a6-a055-8dd05a3ca08e",
@@ -143,8 +154,10 @@
    "score": 0.32116652,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7c1f7cb-70b6-4f5a-bc30-fb65a3a7c761.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:27+00:00"
+ "updatedAt": "2021-07-18T06:41:27+00:00",
+ "coverFileName": "624c4dec-2bce-4f3d-974d-61d0154f0abc.jpg"
 }

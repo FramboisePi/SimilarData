@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "fae7c482-be56-49a7-9335-cb6510141658.jpg"
   },
   {
    "id": "0c07c7aa-0169-4b96-bb25-8642e10ec136",
@@ -26,7 +27,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d84401d-44b2-4c77-a3f2-6bff7b5b2c53.png"
   },
   {
    "id": "96478e7c-452b-4731-93d7-95a089535d17",
@@ -38,7 +40,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "cf8bf718-8f73-457b-b712-a6e5eaf5a425.jpg"
   },
   {
    "id": "46f059bd-a690-4c4d-ace7-0a16f89d0179",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "23bd8390-3e0b-4a21-85d3-d854db4e4ef8.jpg"
   },
   {
    "id": "297da769-9a6f-4f32-8e8b-b0ad1c378de2",
@@ -61,7 +65,8 @@
    "score": 0.365533,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e365a272-3c84-454d-8bce-3b25c862f695.png"
   },
   {
    "id": "60596604-eb6c-4c71-816c-7230ad62de14",
@@ -73,7 +78,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "69edb701-1656-4c6a-afac-411b63e5f0ba.png"
   },
   {
    "id": "19ae1fe0-0ca0-42f2-a4e9-6f0164154fe2",
@@ -84,7 +90,8 @@
    "score": 0.365533,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ae35f7e4-8eed-4a57-903e-a7cdaaccb522.jpg"
   },
   {
    "id": "37d4c617-c19e-459b-8bc6-de8af323e4a8",
@@ -95,18 +102,20 @@
    "score": 0.365533,
    "languages": [
     "it"
-   ]
+   ],
+   "coverFileName": "6019ed93-ee6f-4c09-8596-a2a15035cc22.jpg"
   },
   {
    "id": "a4c2cbad-0706-4ab7-b959-66c9140b39b6",
    "title": {
-    "en": "Shoujo²"
+    "en": "Shoujo\u00b2"
    },
    "contentRating": "safe",
    "score": 0.365533,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0300cdc7-d420-4ad4-945a-94a5a3bb20eb.jpg"
   },
   {
    "id": "0375994e-445d-4c7c-aa05-888996ad11a7",
@@ -123,7 +132,8 @@
     "pt-br",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "a465f1dd-d83d-4f30-8801-8c852451e835.jpg"
   },
   {
    "id": "acb9c9bc-63cf-46be-9f2c-95197344b693",
@@ -136,7 +146,8 @@
     "es",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "5344922f-d5a2-44d5-894d-e32a753e3e8c.jpg"
   },
   {
    "id": "d70c0e14-1732-426a-8a51-439dfdff08c4",
@@ -148,8 +159,10 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7b685d0f-e786-40c4-8ee7-8271fc0f0bbc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:27+00:00"
+ "updatedAt": "2021-07-18T06:57:27+00:00",
+ "coverFileName": "17c74c6a-eeaa-4d5a-a89a-db2bfd21df25.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ef45cfc6-2d7f-430e-895c-89314246eda4.jpg"
   },
   {
    "id": "c43e34f8-3935-4add-bfe0-a148a78ceab9",
@@ -26,18 +27,20 @@
    "score": 0.47714034,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3def65b2-5a21-425f-998f-736df9111489.jpg"
   },
   {
    "id": "1ef231aa-cb37-4d58-9a93-c113d8388707",
    "title": {
-    "en": "Magical Pokémon Journey"
+    "en": "Magical Pok\u00e9mon Journey"
    },
    "contentRating": "safe",
    "score": 0.45837802,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aef06042-b08b-4263-8a65-9b0471f48958.jpg"
   },
   {
    "id": "8536360b-a527-4c3c-88ff-7c52a0f212ab",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "f08e563f-b89e-4a48-bf51-63b3f0ad7879.jpg"
   },
   {
    "id": "412ab8fe-eca9-47c9-8f5c-f6deb75622e9",
@@ -63,7 +67,8 @@
     "en",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "dc6371af-bf39-410e-a508-35421c3aa97c.jpg"
   },
   {
    "id": "45558639-a5d1-4790-a26d-de1a83ab2d16",
@@ -76,7 +81,8 @@
     "en",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "6b548020-61a0-4c44-89a4-fe0b3b797c05.jpg"
   },
   {
    "id": "7b2fd6d4-1bf1-43d5-99bf-73fff7410bdc",
@@ -90,7 +96,8 @@
     "tr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "f7943f5f-cb1a-4151-9789-a2294264e8fa.jpg"
   },
   {
    "id": "b1e12f2e-0545-4878-8ca6-d83359935745",
@@ -105,7 +112,8 @@
     "en",
     "tr",
     "hu"
-   ]
+   ],
+   "coverFileName": "0b560e3d-1eda-4c15-b4f6-7513d27f1995.jpg"
   },
   {
    "id": "1e47d142-c38a-4479-a519-b45c81f5a4a0",
@@ -118,7 +126,8 @@
     "fr",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "f6f3f655-954d-431b-9822-30fc10b79762.png"
   },
   {
    "id": "991bf3c9-75cf-4a77-b69d-2a981e5615ec",
@@ -130,7 +139,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "6b577bf8-4bd0-4d3f-8925-fda5d638e04c.jpg"
   },
   {
    "id": "1663c017-fbcc-4b75-a437-87904a530d8f",
@@ -143,7 +153,8 @@
     "en",
     "tr",
     "th"
-   ]
+   ],
+   "coverFileName": "be47d4d3-6929-448b-8610-9f86275bb280.jpg"
   },
   {
    "id": "0a27e8b6-f353-4b3e-afb1-6787560d0b96",
@@ -157,8 +168,10 @@
     "en",
     "fr",
     "vi"
-   ]
+   ],
+   "coverFileName": "000bbdb6-6ee6-491c-819e-3dd0a59f2c65.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:25:14+00:00"
+ "updatedAt": "2021-07-18T06:25:14+00:00",
+ "coverFileName": "038400ec-c1f6-4703-8048-c954be7e4834.jpg"
 }

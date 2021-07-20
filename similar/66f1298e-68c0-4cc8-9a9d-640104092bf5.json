@@ -15,7 +15,8 @@
    "languages": [
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "63bb14c8-a04e-4e66-9348-bc0971f5e532.jpg"
   },
   {
    "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
@@ -32,7 +33,8 @@
     "en",
     "es",
     "ar"
-   ]
+   ],
+   "coverFileName": "0ddaffac-52f4-45a3-be61-b6be1920b7c8.jpg"
   },
   {
    "id": "e8853450-bac4-45df-bea5-5b4c116f3a61",
@@ -44,7 +46,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b1f8a08d-5b5f-41f8-b82f-30155c6b4266.jpg"
   },
   {
    "id": "8d616f29-6d51-401c-b783-dc6d7c168b94",
@@ -56,7 +59,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "720611f7-98e2-4d42-8878-ec9abd44657d.jpg"
   },
   {
    "id": "181aaf33-b664-4038-af3d-e0a25f5ede64",
@@ -67,7 +71,8 @@
    "score": 0.39175057,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "643eec18-7f1f-44af-bcc2-5378992b7c30.jpg"
   },
   {
    "id": "f3b6f305-1dac-4484-96d2-8d1e055723e0",
@@ -79,7 +84,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8d484fdb-9d5c-432f-80b4-8e74e93e7c44.jpg"
   },
   {
    "id": "e035eb7c-9258-4f02-ac09-fbce556454ec",
@@ -90,7 +96,8 @@
    "score": 0.38031942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c85abfcc-3a6a-4155-996e-14e475cd4200.jpg"
   },
   {
    "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
@@ -103,7 +110,8 @@
     "en",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5d1277cc-1712-49ff-b70a-bc67c168432a.jpg"
   },
   {
    "id": "d2dec3b1-aed8-42a1-bae9-27601ac6626b",
@@ -116,7 +124,8 @@
     "en",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "ef873a89-dd0c-4b23-9022-ac8f515aa107.jpg"
   },
   {
    "id": "43f2cb51-b4d5-4859-a768-848fe46c318a",
@@ -129,7 +138,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "885c6157-2ce1-4ebb-a888-a9d1c2f060a7.jpg"
   },
   {
    "id": "e2271042-a6c5-4d1d-8212-0c99c3b6e9ab",
@@ -144,19 +154,22 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "fe0cc759-a03a-4f00-838a-500294860da7.jpg"
   },
   {
    "id": "dc728906-9c33-4794-aba7-8f9361ef5f25",
    "title": {
-    "en": "Ragnarök: Into the Abyss"
+    "en": "Ragnar\u00f6k: Into the Abyss"
    },
    "contentRating": "suggestive",
    "score": 0.3744402,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "69550581-ab3b-4b56-bd6b-6ef06ef08180.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:43:35+00:00"
+ "updatedAt": "2021-07-18T06:43:35+00:00",
+ "coverFileName": "04c06e8f-c095-4bf4-8b9f-8e1185bc1255.jpg"
 }

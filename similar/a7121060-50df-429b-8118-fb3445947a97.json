@@ -17,7 +17,8 @@
     "id",
     "ar",
     "en"
-   ]
+   ],
+   "coverFileName": "5097bda0-0ba5-4ca7-980d-82c9bbed0ff2.jpg"
   },
   {
    "id": "46a3cbef-0960-4c8c-a216-7304d19706c8",
@@ -29,7 +30,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "d613c40c-7d54-4293-b03b-dd198799fa62.png"
   },
   {
    "id": "dcbe56a5-d154-4709-8b00-bf263b083f7c",
@@ -40,7 +42,8 @@
    "score": 0.43850392,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a990d76d-1ede-4efc-8b6c-1580eb8d0ca9.jpg"
   },
   {
    "id": "18a8da6a-0656-4cd8-b968-612e4e357488",
@@ -54,7 +57,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "a1a1ee21-bfa2-4dbc-aadb-0c1126011b50.jpg"
   },
   {
    "id": "31bc387c-b58b-49c2-a32d-d0d8ba900c8e",
@@ -65,7 +69,8 @@
    "score": 0.42271277,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f94c1578-d206-42d3-b71d-7305f0047693.jpg"
   },
   {
    "id": "c1de44c5-0efc-4eb5-9117-c791774eb8a8",
@@ -78,12 +83,13 @@
     "es",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "19410a00-c393-4f54-a6cc-832c7570a76d.jpg"
   },
   {
    "id": "2a5be63f-a85c-4626-bb54-435dab4167f7",
    "title": {
-    "en": "Endeavor’s Cross"
+    "en": "Endeavor\u2019s Cross"
    },
    "contentRating": "safe",
    "score": 0.41661903,
@@ -91,7 +97,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "a5dc4504-3776-40fc-a071-33229ada7232.jpg"
   },
   {
    "id": "758ce66b-8e9f-4a3b-88ee-6c0dbb154cc6",
@@ -103,7 +110,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "1bf34cec-98b5-4485-8146-0e8eac60e1d8.jpg"
   },
   {
    "id": "f27d2f93-577f-497d-8e96-80278bf93618",
@@ -115,7 +123,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "0e914b4a-47ac-4411-8ca7-e392887f033e.jpg"
   },
   {
    "id": "33dd7bb4-6209-4002-b8fb-5c739e0f0308",
@@ -128,7 +137,8 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "5ca5547d-618d-4f4b-ad4d-8ba3860595bb.jpg"
   },
   {
    "id": "e4334def-5bbd-4fbe-88fc-7f7f89dc553d",
@@ -139,7 +149,8 @@
    "score": 0.4023997,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0a62cce2-2aa3-4cd8-9c5c-b9627a50727c.jpg"
   },
   {
    "id": "801d53ed-e940-477c-92ef-f32e672989f6",
@@ -152,8 +163,10 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "f4d69de8-963f-48d1-b0da-39a99936c109.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:31+00:00"
+ "updatedAt": "2021-07-18T06:55:31+00:00",
+ "coverFileName": "0c4712c1-11ae-4744-a7eb-f4258e1c3cde.png"
 }

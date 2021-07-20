@@ -1,7 +1,7 @@
 {
  "id": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
  "title": {
-  "en": "Fate/Grand Order -turas réalta-"
+  "en": "Fate/Grand Order -turas r\u00e9alta-"
  },
  "contentRating": "safe",
  "matches": [
@@ -21,7 +21,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "11987a46-cceb-474b-a099-ed7a890cd2c9.jpg"
   },
   {
    "id": "f898761d-a6b0-4ac9-b78b-50021eb93205",
@@ -35,7 +36,8 @@
     "fr",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "d7090e68-bd24-472c-b33e-1f14f0ffee6a.jpg"
   },
   {
    "id": "882e338e-0105-4305-a380-655bc303036b",
@@ -46,7 +48,8 @@
    "score": 0.32611072,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7534555a-c7f0-491f-88d8-5416541b63d3.jpg"
   },
   {
    "id": "0684c20c-2b60-44fb-aa58-fd4b4e2800bf",
@@ -59,7 +62,8 @@
     "es",
     "ro",
     "en"
-   ]
+   ],
+   "coverFileName": "3a2e8d13-0a1d-4ff4-bad7-f4017cf097c1.jpg"
   },
   {
    "id": "8de2456c-95ef-4958-8f27-af7a4cc275b7",
@@ -72,7 +76,8 @@
     "es-la",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "05f29439-8ca6-4862-84dc-a26bc858fd3b.jpg"
   },
   {
    "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
@@ -92,7 +97,8 @@
     "ru",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "fbaa0267-65be-4ec7-baa2-2bbd75904f64.jpg"
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -110,7 +116,8 @@
     "tr",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0ade84a3-5efc-4def-8362-3226b5fe5614.jpg"
   },
   {
    "id": "7643e9f6-8455-4a58-b7e8-bf6cd00f5251",
@@ -124,7 +131,8 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "ae9e7cb7-f91d-428c-8b0e-919beb55cc71.jpg"
   },
   {
    "id": "8f270e6d-b9c8-47e1-bcec-988af2235b6c",
@@ -137,7 +145,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b34fc500-73be-4c66-95e1-3a850178fc9c.jpg"
   },
   {
    "id": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
@@ -154,7 +163,8 @@
     "en",
     "es-la",
     "it"
-   ]
+   ],
+   "coverFileName": "106a87ab-21ce-4d7b-980e-ecc03d0584bf.png"
   },
   {
    "id": "e9ca9181-42de-4584-a9e4-7e6b05a581a0",
@@ -167,7 +177,8 @@
     "pt-br",
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "3941873a-f406-41f1-84cc-63b81823d643.jpg"
   },
   {
    "id": "8046acb6-47f7-4954-805f-21bec5253c34",
@@ -179,8 +190,10 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "de7abfba-49c3-4fd6-9b0b-d48db5e3d6a3.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:10+00:00"
+ "updatedAt": "2021-07-18T06:50:10+00:00",
+ "coverFileName": "ebd56cc6-b3c0-4e5f-b87a-34fdeedc11d8.jpg"
 }

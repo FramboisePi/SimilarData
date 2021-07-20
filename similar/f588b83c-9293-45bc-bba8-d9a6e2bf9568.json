@@ -1,20 +1,21 @@
 {
  "id": "f588b83c-9293-45bc-bba8-d9a6e2bf9568",
  "title": {
-  "en": "Mahou Shoujo Madoka★Magica - You Can Only Luminous Once a Day! (Doujinshi)"
+  "en": "Mahou Shoujo Madoka\u2605Magica - You Can Only Luminous Once a Day! (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "f92e0740-0212-4fa3-afcd-7decf083edff",
    "title": {
-    "en": "Mahou Shoujo Lyrical Nanoha - めきめき王国 - 猫き下ろし　前編 (Doujinshi)"
+    "en": "Mahou Shoujo Lyrical Nanoha - \u3081\u304d\u3081\u304d\u738b\u56fd - \u732b\u304d\u4e0b\u308d\u3057\u3000\u524d\u7de8 (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.6145014,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6ccd4fc0-dda5-43d0-8078-ca9b97621789.jpg"
   },
   {
    "id": "7be2c3e1-638b-43b5-a6f3-860bf46ebdbd",
@@ -25,7 +26,8 @@
    "score": 0.5594912,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc5660ea-901e-4efa-b304-7340416467ce.jpg"
   },
   {
    "id": "827b10a6-81bf-4d36-8e5d-334004fd64af",
@@ -37,18 +39,20 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "21844d67-b390-474b-a572-d56b2a99843e.jpg"
   },
   {
    "id": "92411cfa-3364-471c-a23b-dea74218a105",
    "title": {
-    "en": "Heartcatch Precure - ∞ Lily Time"
+    "en": "Heartcatch Precure - \u221e Lily Time"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "662a00c6-a194-43eb-ae72-03d206f0d7e1.jpg"
   },
   {
    "id": "f0d0c67b-f70b-4da5-87a1-97d4fcca38dc",
@@ -59,7 +63,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7783e1fc-3c07-4330-b984-6956d8c33909.jpg"
   },
   {
    "id": "37c025b2-19e2-4c2f-8c7f-19caa3266cd2",
@@ -70,7 +75,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "13968633-89b7-4c19-a02a-59adcc4c8a84.jpg"
   },
   {
    "id": "bea6bda8-0bbd-49ae-9e3c-7c337bb603fe",
@@ -81,7 +87,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "eabe1342-9a2a-4927-b0f4-0257f48e9267.jpg"
   },
   {
    "id": "b64f1fc5-714d-4f4d-8fd7-e79005a28160",
@@ -92,7 +99,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "813316cd-b9da-49da-a795-d262dbc316ef.jpg"
   },
   {
    "id": "e5c4f805-40a3-474a-9e8f-b7fff4abcf2b",
@@ -103,7 +111,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "265dacb5-9839-409e-94d1-d8351da4d723.jpg"
   },
   {
    "id": "0bfaccce-f100-42bd-a890-c83ad044ded4",
@@ -115,7 +124,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "4abe54ab-fcf9-44e3-b021-6204f170fccc.jpg"
   },
   {
    "id": "44d06832-9248-4e47-8943-02410f694ddd",
@@ -126,7 +136,8 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7c3fd151-ad48-46f0-adb1-84e1d07c612a.jpg"
   },
   {
    "id": "2e96f223-fa91-4a0f-a00e-b90a8809291b",
@@ -137,8 +148,10 @@
    "score": 0.44652504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a19fd0c6-daca-4463-a0d7-79e729d79c3d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:51+00:00"
+ "updatedAt": "2021-07-18T07:09:51+00:00",
+ "coverFileName": "4657f1e0-f9da-462e-bd34-5e0160f41278.jpg"
 }

@@ -1,7 +1,7 @@
 {
  "id": "404e766f-0a63-4aa9-b1d4-e2b3b75cf7e9",
  "title": {
-  "en": "Ten☆kai☆Riku☆jou!"
+  "en": "Ten\u2606kai\u2606Riku\u2606jou!"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.6873497,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f5017b19-f7b3-4db0-92db-c2bfacfa3a05.jpg"
   },
   {
    "id": "e655a7d2-fd95-4183-8bb5-f0095eaaa492",
@@ -25,7 +26,8 @@
    "score": 0.66073745,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f64bc0d7-6c7c-419f-b799-4a1f439988ae.jpg"
   },
   {
    "id": "0305dfa7-352d-4ead-9d80-6af61ed6cc94",
@@ -36,7 +38,8 @@
    "score": 0.6446521,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d3e946a1-8244-42bd-80a2-f295da523d87.jpg"
   },
   {
    "id": "33d8b4d3-8fbd-4572-8bbb-c2f9a191f37a",
@@ -47,7 +50,8 @@
    "score": 0.6131136,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e4eb2d8-91fb-4acc-890b-0f6ebdf0b14a.jpg"
   },
   {
    "id": "6d8fa202-711e-4f82-816d-1f347f0c5e47",
@@ -58,7 +62,8 @@
    "score": 0.60447425,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9d9c6793-98c0-457c-939f-d1222300a04a.jpg"
   },
   {
    "id": "d67b60a7-3fbf-468d-80e4-a6a9d3929324",
@@ -69,7 +74,8 @@
    "score": 0.5861921,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0aabab50-ea21-4c54-a3ca-1fdba04715df.jpg"
   },
   {
    "id": "237c31d7-ef4d-4caf-b5c3-58089d3c1783",
@@ -80,7 +86,8 @@
    "score": 0.5812484,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a0de04a0-aaea-4c99-9ab2-c0d1653ac5e1.jpg"
   },
   {
    "id": "0c7766db-3849-4c51-bf57-9d7b086b8a40",
@@ -91,7 +98,8 @@
    "score": 0.57515305,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19662d9c-32fa-417b-8b36-cc9756b0d9fb.jpg"
   },
   {
    "id": "694424a3-55de-4b79-bc44-3ffe74a61914",
@@ -102,7 +110,8 @@
    "score": 0.56673133,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "05a13c44-9f1c-4b87-a089-764aade510db.jpg"
   },
   {
    "id": "b13ab8e4-0fbc-43b9-b140-385bb63cf76f",
@@ -113,7 +122,8 @@
    "score": 0.56115144,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fc06bbbf-bbe2-4dca-9a08-fb01fa226b0a.jpg"
   },
   {
    "id": "04d899da-c6ae-4bc5-b73b-7f621a48d32e",
@@ -125,7 +135,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "7d10acfb-57aa-4ce6-9d66-88ff23503972.jpg"
   },
   {
    "id": "d8c86e55-7d0a-465c-a7ad-b21fe3af35d0",
@@ -136,8 +147,10 @@
    "score": 0.5516128,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "94970305-f12d-4948-9c85-3b19d26a7882.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:28+00:00"
+ "updatedAt": "2021-07-18T06:36:28+00:00",
+ "coverFileName": "fab9058f-64bd-441a-9206-fe2a05df7f5d.jpg"
 }

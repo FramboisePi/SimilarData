@@ -16,7 +16,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "3a98c012-8ca3-44cc-810e-a5e3aa495c09.jpg"
   },
   {
    "id": "ec0c3270-4dff-43a7-a545-02f9af2c87f4",
@@ -27,7 +28,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1fcfe6fd-8875-4819-a980-8f579128248b.jpg"
   },
   {
    "id": "00eab497-5360-4a3f-b616-093c79b809c4",
@@ -38,7 +40,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0f86bbda-761b-42ef-8bb2-f5a76b0244de.jpg"
   },
   {
    "id": "48ab5c2b-baa1-4c93-ba28-f72b550f96c6",
@@ -49,7 +52,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "03ce6866-7b38-4ce2-bc90-fdf850296d67.jpg"
   },
   {
    "id": "7001fbe2-bb36-4ed5-bfe0-be57e847cc56",
@@ -65,19 +69,21 @@
     "ru",
     "tr",
     "it"
-   ]
+   ],
+   "coverFileName": "d2a402dc-cbcc-4f5c-b4c5-2eb81d2ee029.jpg"
   },
   {
    "id": "8e5f7fcf-18d8-4da8-ae6c-f771cbd274b1",
    "title": {
-    "en": "Sunny \u0026 Rainy"
+    "en": "Sunny & Rainy"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "4576d98d-dd73-45b5-846b-3a12d8296942.jpg"
   },
   {
    "id": "e96547cd-039c-4a0b-9f98-31e0996569c6",
@@ -88,7 +94,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "29172ba5-9498-49b9-aae2-7a7730297553.jpg"
   },
   {
    "id": "1a58c498-a6fd-411a-bbda-67c611298c3c",
@@ -99,7 +106,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "596a8523-b8eb-4de8-8a93-6721c03e3e82.png"
   },
   {
    "id": "bdd79874-d2cd-427f-aac7-41667c0e7b8d",
@@ -110,7 +118,8 @@
    "score": 0.45,
    "languages": [
     "fr"
-   ]
+   ],
+   "coverFileName": "d7460ede-2570-45b0-8239-97703c17cdab.jpg"
   },
   {
    "id": "7a735fa0-a782-48d9-9d1b-f259064f18ca",
@@ -122,7 +131,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "4e03c6cb-dec9-4c44-9cb8-891c9a3f3e1e.png"
   },
   {
    "id": "41b6d340-2a06-4d30-9a53-c98a693396f4",
@@ -133,7 +143,8 @@
    "score": 0.42101616,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5caddd7f-e5ea-42fc-b1ba-13765c7f84a6.jpg"
   },
   {
    "id": "ace62c1e-2d70-4517-b2f4-baa147db82f7",
@@ -147,8 +158,10 @@
     "en",
     "es",
     "ca"
-   ]
+   ],
+   "coverFileName": "5324039b-ea7e-408f-8eff-50a20ce1ba7e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:02:43+00:00"
+ "updatedAt": "2021-07-18T07:02:43+00:00",
+ "coverFileName": "372dd032-5ddf-4968-a9ec-992727f16fc4.png"
 }

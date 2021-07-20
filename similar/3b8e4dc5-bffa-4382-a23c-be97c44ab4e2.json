@@ -18,7 +18,8 @@
     "pl",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "ad00419e-a27d-4dab-bde3-f64ebc4bd3b0.jpg"
   },
   {
    "id": "eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
@@ -34,7 +35,8 @@
     "de",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "2836e61d-60e3-498a-a0c6-7911f05ef3c9.jpg"
   },
   {
    "id": "ef473f14-8c4d-435e-9015-b714512e69eb",
@@ -49,7 +51,8 @@
     "ru",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "e6951e5c-c42b-40cc-8cad-176badc83466.jpg"
   },
   {
    "id": "ac4e2459-d995-45ae-8421-4c4cf4a87770",
@@ -64,7 +67,8 @@
     "ar",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2a36c1b1-1d52-49a1-8c6d-47fafe165e9e.jpg"
   },
   {
    "id": "c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a",
@@ -77,7 +81,8 @@
     "en",
     "ru",
     "fr"
-   ]
+   ],
+   "coverFileName": "97bbcc76-23f1-4a20-93fc-634eb0a65953.jpg"
   },
   {
    "id": "ead008ec-98cf-434b-a86b-f3945b329d9d",
@@ -90,7 +95,8 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "5de9b15c-e0ad-4e48-9a92-6577098bdc0c.jpg"
   },
   {
    "id": "ec8f26f4-bc9f-43b6-93ec-60a05638fca0",
@@ -105,7 +111,8 @@
     "id",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5c77e94a-c951-4be2-833d-70bbc100a926.jpg"
   },
   {
    "id": "b3fd63a7-a226-403c-ad2c-4c0d1942d186",
@@ -122,7 +129,8 @@
     "tr",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8b7ee733-c764-4c78-a103-d0bfb1412fce.jpg"
   },
   {
    "id": "e7e950c1-bbc3-4579-a659-ac9ffacc4ab2",
@@ -136,7 +144,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e8471bd3-aa8c-4489-8a11-4aa83e7776ef.jpg"
   },
   {
    "id": "125a4bc0-500b-4aaf-9299-e3aa44d0fd38",
@@ -148,18 +157,20 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "5b513b55-b2a1-40ea-b187-f9248208771b.jpg"
   },
   {
    "id": "b694f311-9e91-45c8-b87e-6ee672c4e447",
    "title": {
-    "en": "Schäferhund"
+    "en": "Sch\u00e4ferhund"
    },
    "contentRating": "suggestive",
    "score": 0.34447983,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02b5fe39-6e8b-45a1-9ab3-24099583954c.png"
   },
   {
    "id": "5dd2b3f4-b3aa-40c5-8920-64643b144f1e",
@@ -171,8 +182,10 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e88a401e-3f00-451a-9cd0-c3b42bd8749e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:35:34+00:00"
+ "updatedAt": "2021-07-18T06:35:34+00:00",
+ "coverFileName": "099cea2c-0c10-4de2-92df-88e6517ec425.jpg"
 }

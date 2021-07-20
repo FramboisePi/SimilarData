@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "7ce8d0b9-37e7-44a8-a2d1-29b6e35464ef.png"
   },
   {
    "id": "73e44d8f-fd9f-49b5-851b-7b3a9a20c62b",
@@ -26,12 +27,13 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "38996d4a-148c-4eac-b243-0b5c8d2f36be.jpg"
   },
   {
    "id": "1c822298-a591-4971-b53d-c5a2d138c1fd",
    "title": {
-    "en": "Kuroha \u0026 Nijisuke"
+    "en": "Kuroha & Nijisuke"
    },
    "contentRating": "safe",
    "score": 0.45,
@@ -43,7 +45,8 @@
     "it",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "621e21bf-389b-4dd5-9df7-8837107f1b8f.jpg"
   },
   {
    "id": "00fc664e-edfd-42e8-b117-28300e2b1517",
@@ -55,7 +58,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "82e9a466-771f-4a77-bf1c-345050b904ec.jpg"
   },
   {
    "id": "f3626de0-f3f5-4b65-957a-a417f8b087df",
@@ -70,7 +74,8 @@
     "pl",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "6a5af3ee-95a0-4931-a39a-731ac4f8c55a.jpg"
   },
   {
    "id": "ebac6feb-1256-4aca-8d6f-9cfde3583843",
@@ -81,7 +86,8 @@
    "score": 0.42844877,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "04ca5584-6628-42e4-af8a-be84fe5e105e.jpg"
   },
   {
    "id": "a96b8f4c-a59c-45ed-a053-db3927e1d552",
@@ -93,7 +99,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e5078e92-d591-413c-9960-b74ba10c995d.jpg"
   },
   {
    "id": "5b585d5a-95ce-427e-bd02-054cab289bdc",
@@ -104,7 +111,8 @@
    "score": 0.42277524,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a365e91c-d0dd-463d-b167-9f55953c340b.jpg"
   },
   {
    "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
@@ -115,7 +123,8 @@
    "score": 0.42123026,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a4797b31-f6bd-40db-8462-5f1debb5bdf5.jpg"
   },
   {
    "id": "60491490-017a-4571-bd03-778bb81d92d8",
@@ -128,7 +137,8 @@
     "es-la",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ffd0da38-cf5c-4b8c-971a-ca7b57012d67.png"
   },
   {
    "id": "4cc3324e-f15b-4684-8b99-bc4d0ab495aa",
@@ -142,7 +152,8 @@
     "zh-hk",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "923970c9-c473-48f3-84a5-a3773a092af4.jpg"
   },
   {
    "id": "0721494e-b8ee-4d8d-b7d1-06767451b44d",
@@ -154,8 +165,10 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "dda875af-4e41-4df6-9a60-dbba49eb6ba5.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:29+00:00"
+ "updatedAt": "2021-07-18T06:47:29+00:00",
+ "coverFileName": "63a808e7-e9e8-4478-a559-8781972b830a.jpg"
 }

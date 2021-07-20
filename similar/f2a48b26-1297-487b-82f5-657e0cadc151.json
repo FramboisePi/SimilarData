@@ -16,7 +16,8 @@
     "en",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "3a98c012-8ca3-44cc-810e-a5e3aa495c09.jpg"
   },
   {
    "id": "a904cdb7-4ba1-43fa-9fea-b7ed17d45f64",
@@ -29,7 +30,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "ab0e345b-cf47-4503-a0dc-652b260e1410.jpg"
   },
   {
    "id": "e09ab95f-4758-491c-aa38-a95bbedd3087",
@@ -40,7 +42,8 @@
    "score": 0.3824626,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6a655b5-f2c3-426f-a61d-c23766cf6a0b.jpg"
   },
   {
    "id": "2c2315bf-8674-4dfb-9870-18d4194cf1cc",
@@ -51,7 +54,8 @@
    "score": 0.3824626,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f0f6e426-9c09-48b6-8c49-c4a7af414f13.jpg"
   },
   {
    "id": "74961c84-318c-4327-8360-8168aa12f91e",
@@ -62,7 +66,8 @@
    "score": 0.3824626,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "87c9ddf2-3898-4418-9a47-0a6b6709e36c.jpg"
   },
   {
    "id": "79695cca-66d9-4d2b-831b-37ff9fdde6c1",
@@ -73,7 +78,8 @@
    "score": 0.3824626,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4d1deded-1a9e-45f9-8ab3-766d86dbf204.jpg"
   },
   {
    "id": "4dbf66fe-1713-444b-aa26-68a0e46806e4",
@@ -85,19 +91,21 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "ad01ab03-7aa6-4676-8a0b-99d5d3501034.jpg"
   },
   {
    "id": "71d24a7f-b7ae-49a1-a5e4-f74169ce1f87",
    "title": {
-    "en": "Touhou - Huajiaoniang – Sichuan Girl (Doujinshi)"
+    "en": "Touhou - Huajiaoniang \u2013 Sichuan Girl (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.35911438,
    "languages": [
     "th",
     "en"
-   ]
+   ],
+   "coverFileName": "6b0c0b9b-4da7-4134-b150-e0ae4c4d3244.jpg"
   },
   {
    "id": "ae197bf7-6e9c-4e4a-9b37-07371e655a63",
@@ -110,7 +118,8 @@
     "vi",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5ecb6a07-3d58-43a5-83b3-58eee7bc40f5.jpg"
   },
   {
    "id": "d2265ef0-0539-4bbd-86c4-d6fd069a2d7f",
@@ -121,7 +130,8 @@
    "score": 0.35593763,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aea96e79-b884-4ca5-af6d-e03252a4af66.png"
   },
   {
    "id": "d9e0ab43-4e0d-4006-8bcc-ca610421e8c9",
@@ -132,7 +142,8 @@
    "score": 0.35409155,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "26c3f860-6783-4583-8892-1ca387a30446.jpg"
   },
   {
    "id": "d1e296ac-d4ac-481a-93d6-89ec12bc9ea8",
@@ -143,8 +154,10 @@
    "score": 0.349139,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e17ec863-0755-41e2-82ce-6d571c5fa4cf.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:18+00:00"
+ "updatedAt": "2021-07-18T07:09:18+00:00",
+ "coverFileName": "b0be57a9-a0fd-458e-8c02-cad6911d35f5.jpg"
 }

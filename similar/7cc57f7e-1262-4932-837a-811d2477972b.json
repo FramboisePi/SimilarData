@@ -1,20 +1,21 @@
 {
  "id": "7cc57f7e-1262-4932-837a-811d2477972b",
  "title": {
-  "en": "MangaTR ve Ekipler ile Söyleşi"
+  "en": "MangaTR ve Ekipler ile S\u00f6yle\u015fi"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "4289c2a7-d9ca-458c-a014-583d141170d5",
    "title": {
-    "en": "MangaTR ile Nasıl Yapılır"
+    "en": "MangaTR ile Nas\u0131l Yap\u0131l\u0131r"
    },
    "contentRating": "safe",
    "score": 0.6252908,
    "languages": [
     "tr"
-   ]
+   ],
+   "coverFileName": "18860cac-3986-4ec5-a626-0b35925e5e81.jpg"
   },
   {
    "id": "4ad70bf0-369a-4720-8d06-7bf53f0c7d22",
@@ -28,7 +29,8 @@
     "tr",
     "en",
     "hi"
-   ]
+   ],
+   "coverFileName": "84a4ece9-bb17-415e-915a-72613d78cdcf.jpg"
   },
   {
    "id": "e41d954d-7f04-4811-aacf-c27cbd71fb96",
@@ -40,7 +42,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "8b92b40d-d623-4bec-bae8-9fc1416fdd57.jpg"
   },
   {
    "id": "7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8",
@@ -56,7 +59,8 @@
     "es-la",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "87437304-f82c-484c-8cd6-03385578eb5d.jpg"
   },
   {
    "id": "ce2a6178-ee49-4830-b205-aee7df847933",
@@ -69,7 +73,8 @@
     "mn",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7c45b7a4-14f2-47f6-a29c-9ca1e554e448.png"
   },
   {
    "id": "1873d8af-59bf-467c-843e-47032d6888c8",
@@ -84,7 +89,8 @@
     "ru",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e233fffc-6c82-4775-80eb-9d3c180c6f2a.jpg"
   },
   {
    "id": "47c46dcc-7266-4cd6-852b-d8619ca1dd6b",
@@ -102,7 +108,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "bb11026f-a238-44ea-9dee-574402ab8823.jpg"
   },
   {
    "id": "7aaaded7-9057-4e34-8dda-deeb69b1e400",
@@ -114,7 +121,8 @@
    "languages": [
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a17cc098-d84e-4d07-9bef-c1abdecf4492.jpg"
   },
   {
    "id": "c6c30be6-3ded-428b-8bcf-be81ab8f7d33",
@@ -128,7 +136,8 @@
     "pt-br",
     "fr",
     "tr"
-   ]
+   ],
+   "coverFileName": "3eb0d3de-0479-44fb-8120-7d61c1d78536.jpg"
   },
   {
    "id": "2dfeb1aa-14c4-4acf-96d5-86334584bf94",
@@ -146,7 +155,8 @@
     "es-la",
     "id",
     "it"
-   ]
+   ],
+   "coverFileName": "f2aa67f2-06f7-4de7-9fdf-d4540de4c333.jpg"
   },
   {
    "id": "7433b48f-0bb1-4b72-b88d-07b2939db1ff",
@@ -162,7 +172,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "6243cd90-c469-4c10-8e89-459bbc867465.jpg"
   },
   {
    "id": "7d81d3c8-da3e-4af0-b275-657641198335",
@@ -175,8 +186,10 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "c8727ea7-a75b-4e46-9bcd-07b93c6c5b21.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:47:39+00:00"
+ "updatedAt": "2021-07-18T06:47:39+00:00",
+ "coverFileName": "bbe4a429-798b-4b61-9238-91967f6b4607.jpg"
 }

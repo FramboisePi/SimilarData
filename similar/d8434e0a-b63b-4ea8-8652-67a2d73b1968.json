@@ -1,31 +1,33 @@
 {
  "id": "d8434e0a-b63b-4ea8-8652-67a2d73b1968",
  "title": {
-  "en": "Phantom Thief Pokémon 7"
+  "en": "Phantom Thief Pok\u00e9mon 7"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "8442b87a-ebbc-4b31-be90-7962fbda5876",
    "title": {
-    "en": "W Mission Story: Pokémon Ranger - the Comic"
+    "en": "W Mission Story: Pok\u00e9mon Ranger - the Comic"
    },
    "contentRating": "safe",
    "score": 0.6841601,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "777107eb-2077-4565-bc4f-888abc37c034.jpg"
   },
   {
    "id": "f8e63ded-8ed8-4f56-bfd2-0d3f5b69e2fc",
    "title": {
-    "en": "Pokémon Gold \u0026 Silver: The Golden Boys"
+    "en": "Pok\u00e9mon Gold & Silver: The Golden Boys"
    },
    "contentRating": "safe",
    "score": 0.676067,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4bf07127-355a-46c9-9208-7f15ad3236b5.jpg"
   },
   {
    "id": "3647fc63-dafc-4ac7-a98f-cecf34ff839e",
@@ -36,51 +38,56 @@
    "score": 0.63643426,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "aab0ea8c-6fc0-4865-8ce2-7ad8cf4293e4.jpg"
   },
   {
    "id": "e3e3076a-bee7-40e0-87db-f9c79e4ac9d5",
    "title": {
-    "en": "Pokémon SPECIAL Sun \u0026 Moon"
+    "en": "Pok\u00e9mon SPECIAL Sun & Moon"
    },
    "contentRating": "safe",
    "score": 0.6278666,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "880eeb50-64d6-4438-88f9-abd860af2e1a.png"
   },
   {
    "id": "33c4f4da-2106-4254-a36f-e2432116d29f",
    "title": {
-    "en": "Pokémon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
+    "en": "Pok\u00e9mon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.62607944,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "650e8f25-e06f-49d6-8467-d6ff9c5c41da.jpg"
   },
   {
    "id": "f3bb3623-3068-4743-b9fc-f53450fed621",
    "title": {
-    "en": "Darkrai Mission Story: Pokémon Ranger Vatonage - the Comic"
+    "en": "Darkrai Mission Story: Pok\u00e9mon Ranger Vatonage - the Comic"
    },
    "contentRating": "safe",
    "score": 0.60730594,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43ea503e-d57b-4ef1-89ad-58d45dc62eb8.jpg"
   },
   {
    "id": "6f3543ca-873b-463f-9a1d-47bc261d274a",
    "title": {
-    "en": "Pocket Monsters RéBURST"
+    "en": "Pocket Monsters R\u00e9BURST"
    },
    "contentRating": "safe",
    "score": 0.59161294,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ba10aae-2f05-42ee-a240-9756b845ec26.png"
   },
   {
    "id": "ffd16489-75ff-4a6e-8698-1f733887da76",
@@ -93,7 +100,8 @@
     "fr",
     "ca",
     "en"
-   ]
+   ],
+   "coverFileName": "ed6d027b-47d6-4a12-8207-6a2b880f0d27.jpg"
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -111,7 +119,8 @@
     "tr",
     "zh-hk",
     "es-la"
-   ]
+   ],
+   "coverFileName": "0ade84a3-5efc-4def-8362-3226b5fe5614.jpg"
   },
   {
    "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
@@ -124,18 +133,20 @@
     "id",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1f95231d-3c10-47e3-a8d6-d0ce47c5d9e9.jpg"
   },
   {
    "id": "882b1e22-ac83-4613-b8f1-7c48138fa584",
    "title": {
-    "en": "Pokémon SPECIAL XY"
+    "en": "Pok\u00e9mon SPECIAL XY"
    },
    "contentRating": "safe",
    "score": 0.53324544,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "939b9dda-215c-4673-921f-98f719ac2669.png"
   },
   {
    "id": "d959fc77-f296-4ca5-99c6-1b64ac050ec3",
@@ -146,8 +157,10 @@
    "score": 0.5320694,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c50981e-f231-4426-be59-24e82bd9da10.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:33+00:00"
+ "updatedAt": "2021-07-18T07:04:33+00:00",
+ "coverFileName": "1f55ed10-2bf7-469e-aa4b-bb96c28b2d3d.jpg"
 }

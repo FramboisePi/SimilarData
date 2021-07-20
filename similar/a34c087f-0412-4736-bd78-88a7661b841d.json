@@ -17,7 +17,8 @@
     "zh",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "941a64e2-8d1b-4f3c-9b10-566016646cc8.jpg"
   },
   {
    "id": "f5db01b6-e4c3-4a2b-83e9-2d989e44406d",
@@ -31,7 +32,8 @@
     "en",
     "zh",
     "es-la"
-   ]
+   ],
+   "coverFileName": "47349d8a-e9be-45ad-8850-cedfda129a82.jpg"
   },
   {
    "id": "2763aff8-876e-4403-b96f-f9a7decc4991",
@@ -43,7 +45,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "3f72c4fc-b9b8-47a3-8ab3-18268b3ffe88.png"
   },
   {
    "id": "45247e36-2420-42d6-bff7-d446a2635e36",
@@ -57,7 +60,8 @@
     "en",
     "fr",
     "vi"
-   ]
+   ],
+   "coverFileName": "4c1f7936-53a1-4429-aa7f-fb9a49b0d1a1.jpg"
   },
   {
    "id": "241b615a-aa9d-494a-b922-ceaf731503e9",
@@ -70,7 +74,8 @@
     "pt-br",
     "zh",
     "en"
-   ]
+   ],
+   "coverFileName": "87d729a2-0f4f-4ae9-a767-d3907d291ed2.jpg"
   },
   {
    "id": "eee6663d-8f44-43de-bc3a-faff58d8db32",
@@ -82,7 +87,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "1cf546f1-cffe-40a8-8d84-7355426943d3.jpg"
   },
   {
    "id": "a37ce6c8-3758-4c2c-9a3d-08f2be623cd0",
@@ -94,12 +100,13 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "55544064-c9a5-4225-ae8d-bde2c1570aae.png"
   },
   {
    "id": "f24b0bae-74f8-4773-8ec7-79c9f09540ca",
    "title": {
-    "en": "Ōkami-kun wa Hayakawa-san ni katenai"
+    "en": "\u014ckami-kun wa Hayakawa-san ni katenai"
    },
    "contentRating": "safe",
    "score": 0.48030987,
@@ -109,7 +116,8 @@
     "pt-br",
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "885479e2-9b92-4d89-9727-aab62eb615c1.jpg"
   },
   {
    "id": "648c56e0-a879-4409-af45-f21620d2d02d",
@@ -123,7 +131,8 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "d259ea3e-dafa-4ea4-bda2-5e61a7c6d128.jpg"
   },
   {
    "id": "677fb60b-2deb-46db-9ece-704f6144faf0",
@@ -137,7 +146,8 @@
     "fr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "5003967e-c8ea-4793-ad8a-168d2a319b3a.jpg"
   },
   {
    "id": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
@@ -152,7 +162,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "e6abc3e7-2ce7-4af9-88c7-503a516b666e.png"
   },
   {
    "id": "b26027b5-8723-4889-b939-d35311aeee9a",
@@ -163,8 +174,10 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e6f5c3c9-25f8-4b05-8c07-bb956d584378.png"
   }
  ],
- "updatedAt": "2021-07-18T06:54:50+00:00"
+ "updatedAt": "2021-07-18T06:54:50+00:00",
+ "coverFileName": "64a98a86-641c-486b-b5c6-757cd64a7811.jpg"
 }

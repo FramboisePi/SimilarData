@@ -16,7 +16,8 @@
     "id",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "4706ed83-068a-4fdd-81c7-b88b57924850.jpg"
   },
   {
    "id": "b9bdb52b-3998-4041-bd06-2d25690eaaee",
@@ -27,7 +28,8 @@
    "score": 0.49375376,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6d198c86-a19f-47b1-a9b0-f03b89aecbed.jpg"
   },
   {
    "id": "661eaad1-3de3-4685-ae43-f534294b6d8d",
@@ -39,7 +41,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "f54ad818-5ffa-41c8-8a3e-63211074089f.jpg"
   },
   {
    "id": "da4b8b86-f486-4082-8134-e553c53c689e",
@@ -50,7 +53,8 @@
    "score": 0.48888746,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d764d4f8-d01b-418b-ac10-9fa045007d25.jpg"
   },
   {
    "id": "9f43419d-f8a8-4856-8547-3b7053466393",
@@ -61,7 +65,8 @@
    "score": 0.4763014,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "341ea5ba-ac16-4c9d-a903-8e9d65baf184.jpg"
   },
   {
    "id": "cf2ee5a0-f2fd-4b2c-b7d1-bafb57a63dbb",
@@ -72,7 +77,8 @@
    "score": 0.47318465,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "186e1ec8-e5e3-4600-86f4-c1d3dfd90b3f.jpg"
   },
   {
    "id": "776b892e-8b3b-4300-a27d-b81e24599931",
@@ -84,7 +90,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "d1561c09-3843-48cc-9895-a015c4581062.jpg"
   },
   {
    "id": "42e8facc-00b0-4eff-bb8e-f01af83c6c0b",
@@ -95,7 +102,8 @@
    "score": 0.4664574,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ea2e3e13-e925-4ade-a485-58938783d505.jpg"
   },
   {
    "id": "aa7847fb-5570-4aaa-a6d1-25746dec4f5f",
@@ -106,7 +114,8 @@
    "score": 0.4626146,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2774ac18-b5be-45b3-abb4-77224ef97465.jpg"
   },
   {
    "id": "a59ec084-aed4-4a49-abc1-ae08cf7a9aa7",
@@ -119,7 +128,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e77bd4a6-3cae-4951-ac99-13e7576d1042.jpg"
   },
   {
    "id": "9959a6e4-0602-4573-b40e-06fc9a4c4a6c",
@@ -130,7 +140,8 @@
    "score": 0.4490731,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fa9affa9-2ab6-4105-a8dd-528fe4f6b186.jpg"
   },
   {
    "id": "672ed210-28a4-439c-971e-0073d1dba509",
@@ -142,8 +153,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "8e29f02c-fcda-4204-af27-50035d85ed4c.png"
   }
  ],
- "updatedAt": "2021-07-18T06:55:08+00:00"
+ "updatedAt": "2021-07-18T06:55:08+00:00",
+ "coverFileName": "abf184f5-8226-49ef-9800-bc2733a815ff.jpg"
 }

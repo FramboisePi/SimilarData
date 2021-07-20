@@ -16,7 +16,8 @@
     "it",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "4da781ee-db30-40e8-8981-f38da35baf41.jpg"
   },
   {
    "id": "d255c24d-cbed-4e27-b472-5cb8962f37b3",
@@ -27,7 +28,8 @@
    "score": 0.57124114,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d30f38c7-69ed-4511-9335-f3083d1c5164.jpg"
   },
   {
    "id": "08c2fd15-7a8c-4c8e-8011-f467b5acfa62",
@@ -40,7 +42,8 @@
     "tr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "6f61e2ca-ac02-4d98-ad50-869131dc783d.jpg"
   },
   {
    "id": "740be0f3-8462-4c95-891e-0333a5cb4431",
@@ -52,7 +55,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ed7db989-3bbb-4301-935c-258c8db1128f.jpg"
   },
   {
    "id": "1a8ac62b-c801-4283-9cd5-fa71ffabaf80",
@@ -63,7 +67,8 @@
    "score": 0.5155445,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9cd5daf-64db-4735-ab75-6aa5f8fb752d.jpg"
   },
   {
    "id": "f9d937ce-0722-4a8e-af26-23a7124fda30",
@@ -74,7 +79,8 @@
    "score": 0.5092849,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9b8b96ce-f955-4d5f-9841-0ded53509796.jpg"
   },
   {
    "id": "d0ed06a7-a163-4ad4-a1d2-ea9f29f7a1e9",
@@ -85,7 +91,8 @@
    "score": 0.49261594,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4c3f709-6c5f-41da-965f-4a93881169e1.jpg"
   },
   {
    "id": "b0fad197-23ed-4a47-af9a-2c8fd47cdd8f",
@@ -96,7 +103,8 @@
    "score": 0.4893649,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45b7420b-2271-4ba7-9659-c6c3211916fc.jpg"
   },
   {
    "id": "e5a9e282-3028-402c-8684-06a875b362f3",
@@ -109,7 +117,8 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "f9dfde59-c4d8-4961-b113-691faaea5040.jpg"
   },
   {
    "id": "5bff2974-327a-4aef-9bcd-1921fdc17780",
@@ -120,7 +129,8 @@
    "score": 0.48578948,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a2dc87a9-bbb2-4abc-9da0-890c39647ecf.jpg"
   },
   {
    "id": "ab900901-fe70-4b92-82db-c745e068843a",
@@ -131,12 +141,13 @@
    "score": 0.48432764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2cd2425-a969-4348-b57d-ec26e2c72410.jpg"
   },
   {
    "id": "18ef5b8d-4d47-4c05-92a8-ecf08cb67347",
    "title": {
-    "en": "Umibe no Étranger"
+    "en": "Umibe no \u00c9tranger"
    },
    "contentRating": "safe",
    "score": 0.48418596,
@@ -144,8 +155,10 @@
     "en",
     "pt-br",
     "tr"
-   ]
+   ],
+   "coverFileName": "8475d541-8b54-4637-8774-5141a37212aa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:36+00:00"
+ "updatedAt": "2021-07-18T06:58:36+00:00",
+ "coverFileName": "108cd189-8982-4f51-b1f2-a83608c793af.jpg"
 }

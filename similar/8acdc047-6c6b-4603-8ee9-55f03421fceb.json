@@ -1,7 +1,7 @@
 {
  "id": "8acdc047-6c6b-4603-8ee9-55f03421fceb",
  "title": {
-  "en": "Doctor’s Rebirth"
+  "en": "Doctor\u2019s Rebirth"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "5efc7219-1f46-4b87-8173-121c318b7639.jpg"
   },
   {
    "id": "6166c08e-cca6-4a25-9233-14be0d0ab9d2",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "b9528243-3b77-438f-a0ee-d7011884578b.jpg"
   },
   {
    "id": "10eb6e2a-2311-408b-9816-5dea992b59bf",
@@ -40,7 +42,8 @@
     "tr",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "386fe9cb-1bc6-42e9-b0a0-6136e6588ede.jpg"
   },
   {
    "id": "e8d707b4-298d-48ee-91de-d3371de5aa22",
@@ -53,7 +56,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "a93ea5f3-836b-40fa-95c8-117055a787ea.png"
   },
   {
    "id": "bdf9539e-c5f0-4ac1-b893-d862f1e83a53",
@@ -67,7 +71,8 @@
     "pt-br",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "80405e33-93fa-4689-b5c7-86fd9e5264ea.jpg"
   },
   {
    "id": "1873d8af-59bf-467c-843e-47032d6888c8",
@@ -82,7 +87,8 @@
     "ru",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e233fffc-6c82-4775-80eb-9d3c180c6f2a.jpg"
   },
   {
    "id": "01aada03-59e2-4f3f-9302-4655ec2e7016",
@@ -94,7 +100,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "6e5fe54b-d7dd-4732-91cf-2b0834aadf1a.jpg"
   },
   {
    "id": "cab9bbbf-5acd-4bc0-83b5-f803bec4a37e",
@@ -107,7 +114,8 @@
     "en",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "bb63cc79-8872-4e01-801e-95e05b914c97.png"
   },
   {
    "id": "5d1c5f11-f531-4405-ac12-77293af855bd",
@@ -121,7 +129,8 @@
     "pl",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "8ea4a3ac-405b-4bcc-8085-70039a626f40.jpg"
   },
   {
    "id": "64773610-ab68-4ba2-949a-cbba391d7bac",
@@ -137,7 +146,8 @@
     "fr",
     "pl",
     "ru"
-   ]
+   ],
+   "coverFileName": "7b43aff5-e087-4975-afc4-e75c2e64dd5b.jpg"
   },
   {
    "id": "387e920f-566d-4bcb-bdb8-c133db073885",
@@ -150,7 +160,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "856e228b-91ec-4822-9637-ac01c2ba56cf.png"
   },
   {
    "id": "4ffd1f8f-ab82-4de4-9dea-e0608c043d7b",
@@ -166,8 +177,10 @@
     "pt-br",
     "id",
     "tr"
-   ]
+   ],
+   "coverFileName": "d7bccc84-a283-4993-91e8-992090623f3f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:50:18+00:00"
+ "updatedAt": "2021-07-18T06:50:18+00:00",
+ "coverFileName": "37ed2675-ca5a-4669-8abf-e2d324e6057e.jpg"
 }

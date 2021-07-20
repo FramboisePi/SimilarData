@@ -15,7 +15,8 @@
    "languages": [
     "de",
     "en"
-   ]
+   ],
+   "coverFileName": "92531008-de5b-4807-a39f-4f47e5c77e65.jpg"
   },
   {
    "id": "ff581dd8-000e-4584-8ee3-d852c5f325ce",
@@ -26,7 +27,8 @@
    "score": 0.40261188,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7600e854-cb8f-46bb-a7e1-6b9a67357329.jpg"
   },
   {
    "id": "36c80cf3-0d1c-463a-b0bb-df6ebb0e3ec0",
@@ -37,19 +39,21 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b059fac8-b94b-4b81-8f61-0c0f7db4d5af.jpg"
   },
   {
    "id": "5804ee77-488c-441d-ba14-273325fa85c5",
    "title": {
-    "en": "Jacarandá"
+    "en": "Jacarand\u00e1"
    },
    "contentRating": "safe",
    "score": 0.39348966,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "1ff96aba-c86f-4062-b42d-05c01a4b75f3.jpg"
   },
   {
    "id": "c40bf165-81fa-499f-b368-48b353a968df",
@@ -64,7 +68,8 @@
     "hu",
     "",
     "en"
-   ]
+   ],
+   "coverFileName": "b5664a58-f1ec-4120-b3e1-56d0db5fb058.jpg"
   },
   {
    "id": "540a9c85-aefe-4263-bcef-68441b13ea35",
@@ -75,7 +80,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e9a614e7-54e8-4e35-937a-9872d3de70d1.jpg"
   },
   {
    "id": "c3de0857-f146-4f66-9ec6-a1a0d481487e",
@@ -86,7 +92,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9b4c2314-43a0-4c3d-9197-d761c467915c.jpg"
   },
   {
    "id": "16927774-48d5-4acf-bdf2-55b0031bd991",
@@ -98,7 +105,8 @@
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "d9537776-eca5-484b-a7eb-526a169a8e44.jpg"
   },
   {
    "id": "801ee691-afbb-4a60-ab5c-624a7f622e76",
@@ -109,7 +117,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c2f9de93-17af-4920-bcc8-5a366fc52cf6.jpg"
   },
   {
    "id": "84097126-06f6-40e4-b6ee-07db6ee6dcdb",
@@ -121,7 +130,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "214103ef-3263-40fd-a081-ce312bebb46d.jpg"
   },
   {
    "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
@@ -132,7 +142,8 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d33d1c2-5376-43a2-8d91-699088900b44.jpg"
   },
   {
    "id": "63a331ae-80a2-4b75-ab22-d10380bdcf67",
@@ -143,8 +154,10 @@
    "score": 0.34077206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d93004f-ec39-4d24-a9e5-15949c522e7d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:06:11+00:00"
+ "updatedAt": "2021-07-18T07:06:11+00:00",
+ "coverFileName": "cdce396b-8ff8-4f5d-ad50-a370cbcba9a9.jpg"
 }

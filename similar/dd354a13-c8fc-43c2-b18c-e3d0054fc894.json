@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "d9ca198a-5a5b-4a06-b408-2e6a7cbe7877.jpg"
   },
   {
    "id": "a3039352-4f68-4477-b0e7-842fb82dcc4e",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "0010aae2-0cda-4a16-993b-6a87532c4954.jpg"
   },
   {
    "id": "012e8a2a-6a01-4733-9fde-ba1926d5b7fb",
@@ -38,7 +40,8 @@
    "score": 0.43196118,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "14744c2e-1d51-4a61-8951-3e5efe469016.png"
   },
   {
    "id": "4be81834-703d-4e66-8f45-61328baa3e67",
@@ -49,7 +52,8 @@
    "score": 0.41234633,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0cb839f4-ce9a-4a41-905e-a635a7220abe.jpg"
   },
   {
    "id": "a2564326-f5b1-4d3d-a795-3b82bb423a28",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "60bb8e74-03c8-408d-b107-38ba3efeb82f.jpg"
   },
   {
    "id": "21a8efa7-8b64-41de-b61c-b4f94e2aed62",
@@ -72,7 +77,8 @@
    "score": 0.4063046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b49e49c1-fe84-4f26-aae2-676ae5f907d5.jpg"
   },
   {
    "id": "563bfe88-4a62-4a4f-968d-ccfe60b3f876",
@@ -83,7 +89,8 @@
    "score": 0.40177628,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f4a1ffc3-3234-425f-b199-7d3e2b5bdaed.jpg"
   },
   {
    "id": "39b52c6d-d65a-46a3-a49f-afd6c4947277",
@@ -94,7 +101,8 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "507c60c9-9d1e-4755-bd8e-8d3652f3a635.jpg"
   },
   {
    "id": "5de2a027-12b5-4106-9c3d-497bd23d3b6f",
@@ -106,7 +114,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "0e194774-f496-4fed-9546-bfa134d2f770.jpg"
   },
   {
    "id": "39cb5817-e559-425b-bba3-cea656a6fd87",
@@ -117,18 +126,20 @@
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9049e55-0ccb-4eeb-a451-51d1ead7ce84.jpg"
   },
   {
    "id": "31bb2015-cce9-4c26-9c2e-f4152cfe7c8d",
    "title": {
-    "en": "Café Kichijoji de"
+    "en": "Caf\u00e9 Kichijoji de"
    },
    "contentRating": "safe",
    "score": 0.39348966,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "774c136f-1866-4232-91e8-ed96064329d3.jpg"
   },
   {
    "id": "846e05cd-ff87-41cb-95f2-7f47c0664db6",
@@ -140,8 +151,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "e97d8e26-ee6c-4d93-921e-93f4a8bc717c.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:29+00:00"
+ "updatedAt": "2021-07-18T07:05:29+00:00",
+ "coverFileName": "7aba2151-fb02-49fa-978f-4a01c1884aac.jpg"
 }

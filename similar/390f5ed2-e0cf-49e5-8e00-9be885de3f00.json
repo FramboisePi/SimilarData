@@ -16,7 +16,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "399a3903-14b8-40d5-a4b4-f9d65c173fad.jpg"
   },
   {
    "id": "5d4f3566-e87f-4065-9549-c529346f5f85",
@@ -27,7 +28,8 @@
    "score": 0.44915175,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3faadf1a-5d84-4af5-b60a-ca2f7a705c73.jpg"
   },
   {
    "id": "00904334-01f1-4174-a81e-9170c9f54b97",
@@ -39,7 +41,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5fa1f009-64d6-45d9-a935-159b43018e41.jpg"
   },
   {
    "id": "786d15be-2ed3-486d-8550-6c07a1436c55",
@@ -51,7 +54,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "26750a90-925a-465e-b026-6005c4493a2c.jpg"
   },
   {
    "id": "f5fe0a0a-52c3-4266-ae65-0f379861a2bc",
@@ -65,18 +69,20 @@
     "fr",
     "vi",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "ee169291-adb1-4c4a-aab0-ca7b90066dcd.jpg"
   },
   {
    "id": "4f4146f3-e4ea-4fc2-af7a-01dfe6b85639",
    "title": {
-    "en": "Gisèle Alain"
+    "en": "Gis\u00e8le Alain"
    },
    "contentRating": "safe",
    "score": 0.3889768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6cc10001-d5d2-4237-a2bb-104c60915476.jpg"
   },
   {
    "id": "54850b13-2084-4d60-9e6b-22245350b617",
@@ -88,7 +94,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b1358a11-56b8-4579-84a0-a644ff358189.jpg"
   },
   {
    "id": "772d01aa-845b-4d2f-82fb-2abd1b908a07",
@@ -99,7 +106,8 @@
    "score": 0.3889768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1756f569-b201-46b5-963d-7be500055a4f.jpg"
   },
   {
    "id": "2c4527e1-a95d-425e-a911-584f3276f4fd",
@@ -110,7 +118,8 @@
    "score": 0.3889768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d7c5482-e026-4679-8d5c-5fe2c97e8cf8.jpg"
   },
   {
    "id": "61283061-392c-465b-a3b5-ce16c1c23a55",
@@ -121,7 +130,8 @@
    "score": 0.3889768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e2d56a4-2c32-434a-a800-9e81a3663393.png"
   },
   {
    "id": "b97ee580-2d32-48b3-bc84-36a957823818",
@@ -135,7 +145,8 @@
     "tr",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "04be97bc-dbb1-4254-b73a-b7185401ecd7.jpg"
   },
   {
    "id": "d422e9ea-a847-4084-9fa5-b6dea42a26cf",
@@ -150,8 +161,10 @@
     "fr",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "d4a6b9f8-4938-4443-bab4-6e8e8c4e2990.png"
   }
  ],
- "updatedAt": "2021-07-18T06:35:05+00:00"
+ "updatedAt": "2021-07-18T06:35:05+00:00",
+ "coverFileName": "f260d497-f48f-4dbf-99a8-bed46b5289f8.jpg"
 }

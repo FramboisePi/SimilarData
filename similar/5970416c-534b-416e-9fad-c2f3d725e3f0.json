@@ -8,13 +8,14 @@
   {
    "id": "a750513b-d088-495b-9ccc-fc4b01af6263",
    "title": {
-    "en": "Boy \u0026 Cool"
+    "en": "Boy & Cool"
    },
    "contentRating": "safe",
    "score": 0.527061,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "7dd64c33-0c6d-4b8c-aaf8-3af7a965e144.jpg"
   },
   {
    "id": "a3431853-9d5e-4e6e-a2ad-427de76e5247",
@@ -25,7 +26,8 @@
    "score": 0.5179851,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a82e4bb9-07a2-4081-861f-57f67267380f.jpg"
   },
   {
    "id": "1fec680f-b416-4f46-b6a0-a27470871572",
@@ -36,7 +38,8 @@
    "score": 0.50980186,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "978a12db-abe2-4146-917f-9355a092c67d.jpg"
   },
   {
    "id": "a2320582-0ccd-4d38-825e-770df2b0fd92",
@@ -47,7 +50,8 @@
    "score": 0.50200915,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cb48c402-1046-4892-8c94-a4e52308d403.jpg"
   },
   {
    "id": "69c40065-df1d-46ec-a2e4-c2c43df66947",
@@ -58,7 +62,8 @@
    "score": 0.5001031,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "57c39aeb-eafa-4d32-85da-35d0c8e10803.jpg"
   },
   {
    "id": "577a0751-c1aa-43a8-8166-88adbf31d158",
@@ -70,7 +75,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1748a82d-1262-48bc-bcd8-dad536f4b4aa.jpg"
   },
   {
    "id": "8648dcf9-09e8-4487-8ac0-2cc171b93803",
@@ -82,7 +88,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "77c7b9ec-3c69-496e-94c9-0c7215b5732a.png"
   },
   {
    "id": "13e214c3-965b-4e05-9f68-e53a62c9be62",
@@ -93,7 +100,8 @@
    "score": 0.49153587,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f7744cd9-73f1-436e-8bee-d8172ae14368.jpg"
   },
   {
    "id": "a985f6c8-e021-41c8-91b9-b3bbd2f60502",
@@ -105,7 +113,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "7f8186b0-66ec-4dc5-bb1b-fed8b2f441fd.png"
   },
   {
    "id": "190529d7-cd7a-412c-8fd2-aeae7e333bb2",
@@ -116,7 +125,8 @@
    "score": 0.48793215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e4db4343-0c8e-407e-a652-5ca02394e5ed.jpg"
   },
   {
    "id": "f5d8e2c9-21ab-49bb-9b7f-830f6474aef8",
@@ -127,7 +137,8 @@
    "score": 0.48786804,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5f25b5e-df26-494a-8a9b-192a81d5456a.jpg"
   },
   {
    "id": "eb54eb4d-fa42-4243-b7b4-bccaba5add89",
@@ -138,8 +149,10 @@
    "score": 0.48102152,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e2120c5-e63b-46aa-baa2-ac98ce5051a0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:41:07+00:00"
+ "updatedAt": "2021-07-18T06:41:07+00:00",
+ "coverFileName": "3987f90f-7029-4e62-9b9a-f8c16d19ade4.jpg"
 }

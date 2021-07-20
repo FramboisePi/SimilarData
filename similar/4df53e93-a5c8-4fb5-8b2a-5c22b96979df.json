@@ -8,7 +8,7 @@
   {
    "id": "1c822298-a591-4971-b53d-c5a2d138c1fd",
    "title": {
-    "en": "Kuroha \u0026 Nijisuke"
+    "en": "Kuroha & Nijisuke"
    },
    "contentRating": "safe",
    "score": 0.4947892,
@@ -20,7 +20,8 @@
     "it",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "621e21bf-389b-4dd5-9df7-8837107f1b8f.jpg"
   },
   {
    "id": "044990d2-4b23-47bd-a25d-dce9c141cd34",
@@ -36,7 +37,8 @@
     "fr",
     "tr",
     "de"
-   ]
+   ],
+   "coverFileName": "55c8fa32-c672-4903-b234-1090f5d0176b.png"
   },
   {
    "id": "052b1d84-519f-4174-980c-9e4cbcb5e366",
@@ -47,7 +49,8 @@
    "score": 0.41105375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "25bede80-56dc-47b9-9dc0-92d642dcaf03.jpg"
   },
   {
    "id": "ad0bfa6a-6c07-4d51-979c-fa91186a6684",
@@ -61,7 +64,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "c7642acb-632f-4aa4-b255-b654d1f368cb.png"
   },
   {
    "id": "bb865d49-0dd4-49b2-b2a8-6b609e3bba4a",
@@ -75,7 +79,8 @@
     "it",
     "es-la",
     "es"
-   ]
+   ],
+   "coverFileName": "31e1bd6b-b343-4147-96f9-edc966643251.jpg"
   },
   {
    "id": "79128fe4-ae34-4c98-994d-99b779431675",
@@ -86,7 +91,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0b39e46-a46d-4927-9d9a-277b29771489.png"
   },
   {
    "id": "3decf5fa-efaa-4b7a-bdb8-d34eaf5567f9",
@@ -97,7 +103,8 @@
    "score": 0.40249223,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "c833b7f3-f634-472d-b7eb-e61c976d1d56.jpg"
   },
   {
    "id": "495cba68-8eb6-44bf-a351-5c106c0724fe",
@@ -108,7 +115,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e64b7777-4aa2-4f62-ac5e-faa9cb18a894.jpg"
   },
   {
    "id": "28153424-d86d-4629-8661-e0232acb525d",
@@ -119,7 +127,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d305c63a-1543-4c3a-814f-bf4e795131c5.jpg"
   },
   {
    "id": "2eb953ff-80a1-4cec-83d2-e7910dcbb96a",
@@ -130,18 +139,20 @@
    "score": 0.4000289,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3313bfc4-5e74-4785-8e6b-a24d065002ce.jpg"
   },
   {
    "id": "04bd11c5-64e0-4c06-ae8e-bae2d2f9072d",
    "title": {
-    "en": "À la Carte"
+    "en": "\u00c0 la Carte"
    },
    "contentRating": "safe",
    "score": 0.39353696,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "40144551-6152-4667-9040-545b9c388e14.jpg"
   },
   {
    "id": "e16dc19d-9f6a-4529-8d33-cd7998477074",
@@ -154,8 +165,10 @@
     "es",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f9f79abb-ae4b-4aab-93f1-163b98982c87.png"
   }
  ],
- "updatedAt": "2021-07-18T06:38:57+00:00"
+ "updatedAt": "2021-07-18T06:38:57+00:00",
+ "coverFileName": "6531a9b6-84eb-47d7-a6eb-d6761ef1e3bd.jpg"
 }

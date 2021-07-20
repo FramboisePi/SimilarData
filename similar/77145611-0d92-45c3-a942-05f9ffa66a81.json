@@ -8,13 +8,14 @@
   {
    "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
    "title": {
-    "en": "Café Velomano"
+    "en": "Caf\u00e9 Velomano"
    },
    "contentRating": "safe",
    "score": 0.5274913,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "994afbcc-3661-496c-b1a6-52fac61ae643.jpg"
   },
   {
    "id": "f9575495-11ee-446d-9708-6e5fa831d8d6",
@@ -25,7 +26,8 @@
    "score": 0.5038858,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e75df928-57f1-4a29-b9c1-b1161c33f020.jpg"
   },
   {
    "id": "b92c3d1c-155a-4be5-b87a-e0a28cb48ebf",
@@ -36,7 +38,8 @@
    "score": 0.49258307,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f34de66b-3c15-4f4c-8611-f4fa6685c2b2.jpg"
   },
   {
    "id": "ad1f78e9-33cd-466c-b170-486d7edaeda9",
@@ -48,7 +51,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "7a542418-3931-463b-8bec-12e6dd35cf03.jpg"
   },
   {
    "id": "658eb912-1508-42a3-b3c1-a9838ebe7718",
@@ -60,7 +64,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "3c47b2c9-f1e3-46e8-b49d-7dd82beb0a09.jpg"
   },
   {
    "id": "dcce40f4-deb2-4be0-9888-835be0b3f3d7",
@@ -72,7 +77,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "24fa5522-c70c-4eaf-89ff-bfa0b45787a0.jpg"
   },
   {
    "id": "7e0dcfbc-501c-487a-b08b-9d6150196d63",
@@ -83,7 +89,8 @@
    "score": 0.46772957,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "946ab9cd-1de2-4f2e-8033-b12210518144.jpg"
   },
   {
    "id": "678a2617-2c42-4f44-94c4-c1e9f755af77",
@@ -98,7 +105,8 @@
     "pl",
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "0cd80b13-2d8d-47b5-90aa-8a768a757f18.jpg"
   },
   {
    "id": "c56c65b5-9b3f-41fd-81e0-79abedd461a1",
@@ -111,18 +119,20 @@
     "es-la",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "be952036-f41b-43f2-87f8-a5c0ddda8288.jpg"
   },
   {
    "id": "793a65ef-068f-4547-b62b-a78ea7b649c9",
    "title": {
-    "en": "Teke Teke ★ Rendezvous"
+    "en": "Teke Teke \u2605 Rendezvous"
    },
    "contentRating": "safe",
    "score": 0.46477807,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c9e00f4f-ce16-45d1-9c76-6ff1a26c2b91.jpg"
   },
   {
    "id": "e92bd489-d5c1-4ed0-b2f9-7e1514fc01f4",
@@ -133,7 +143,8 @@
    "score": 0.4644819,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7f82eb55-2518-4c93-8542-eeadbad0cfa8.jpg"
   },
   {
    "id": "c9b037c8-af78-48b9-b494-c5e2148818a7",
@@ -144,8 +155,10 @@
    "score": 0.46286198,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24ba550d-aa89-454f-bd47-a2600d650fb4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:31+00:00"
+ "updatedAt": "2021-07-18T06:46:31+00:00",
+ "coverFileName": "d6e3ab3d-4ba9-4c01-9a1d-326f5192582c.jpg"
 }

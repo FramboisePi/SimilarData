@@ -1,7 +1,7 @@
 {
  "id": "2dff1a7b-3a8d-4bb3-a95f-efc73a9b5429",
  "title": {
-  "en": "Yu Yu Hakusho - Yuhaku + Kareshi"
+  "en": "Yu Yu Hakusho -\u00a0Yuhaku + Kareshi"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.3866878,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ec5b1d8c-42f0-483a-8dac-80f293bee066.jpg"
   },
   {
    "id": "95ffc72e-35e0-4575-b4f3-391a82a68d65",
@@ -25,7 +26,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28cd3346-0028-4011-a91c-198d148068a0.png"
   },
   {
    "id": "5c5f2da6-52e7-47b7-b6de-97e21b74a741",
@@ -36,7 +38,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a938820f-ccd6-42c6-9aa3-a5d3a46dc47b.jpg"
   },
   {
    "id": "4ffe7198-745b-4344-8d48-625949352674",
@@ -47,7 +50,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4cd6899f-05b3-4770-8bce-97daf1729dbd.jpg"
   },
   {
    "id": "ff1c018b-0d5c-47a5-ba82-6716ecf33c80",
@@ -58,7 +62,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "83c3758b-b7f5-4c8f-9f25-580fc3fd502d.jpg"
   },
   {
    "id": "8deb081e-a154-4234-910a-03e86f69f342",
@@ -69,7 +74,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bb856071-7c2f-4425-8153-cc6fa251c185.jpg"
   },
   {
    "id": "16d3c25c-2985-445a-ab01-469dd29d143d",
@@ -80,7 +86,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5177a858-0111-44d8-bb04-0fc52293ed87.jpg"
   },
   {
    "id": "01d46dd5-a8d7-4b27-af77-3c32155e4a77",
@@ -93,7 +100,8 @@
     "en",
     "pl",
     "de"
-   ]
+   ],
+   "coverFileName": "f0a035df-5809-45a1-8d7e-b686fff0a990.jpg"
   },
   {
    "id": "0a0ed0df-ed61-497b-85c9-6f44a7200cad",
@@ -104,7 +112,8 @@
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1912dd10-25aa-43af-a57d-a55483864a28.jpg"
   },
   {
    "id": "da11149d-ebbd-4cd6-a0a6-ad87bd77c9cb",
@@ -116,18 +125,20 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "50160f04-72ed-43b1-a00a-543e3a3afc20.jpg"
   },
   {
    "id": "0adbee2d-40c1-4eaa-bc32-0210d0aa76f3",
    "title": {
-    "en": "Toaru Majutsu no Index - Kamijou \u0026 Mikoto Are a Little Embarrassed (Doujinshi)"
+    "en": "Toaru Majutsu no Index - Kamijou & Mikoto Are a Little Embarrassed (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.36742347,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4361a16b-4849-47a9-86f1-96f5be352cd2.jpg"
   },
   {
    "id": "b665537b-e806-4ed7-91d6-5856c149816d",
@@ -139,8 +150,10 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "9aa04592-ef6e-420f-8422-e3f11461895f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:33:03+00:00"
+ "updatedAt": "2021-07-18T06:33:03+00:00",
+ "coverFileName": "7a84451e-9a61-47d4-9d09-1799ab1e6f70.jpg"
 }

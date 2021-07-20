@@ -17,7 +17,8 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "f45688a7-de59-46d6-8073-0466ab17386d.jpg"
   },
   {
    "id": "ba5b290a-cb91-4891-8fa0-50ee8748f5ad",
@@ -28,7 +29,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ccf77b20-5fd1-49f6-8ec3-32bd9064d10f.jpg"
   },
   {
    "id": "3935f730-ecbd-4c65-b537-e20aa6a4125d",
@@ -39,7 +41,8 @@
    "score": 0.44994298,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "14d92fdc-18df-405c-9c8f-240261f6c69e.jpg"
   },
   {
    "id": "672468c2-ee08-4c73-83d4-5d0035cb226c",
@@ -50,7 +53,8 @@
    "score": 0.4480148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "90110f92-12ab-40c2-880c-b176b11ab141.jpg"
   },
   {
    "id": "36b5f1da-6cc6-4149-a97c-1f8de890d303",
@@ -61,7 +65,8 @@
    "score": 0.4322102,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c87c42d-92d7-4c06-9ea6-2658ffcba5ec.jpg"
   },
   {
    "id": "46e8b193-1d34-4a5a-b92e-336e9869f931",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "a25917e6-5b3e-4cd4-82de-9e32fe1154f8.jpg"
   },
   {
    "id": "0cd2268e-1c75-419e-8e6a-31a7339d72c9",
@@ -84,7 +90,8 @@
    "score": 0.40904537,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0eb1f482-e22f-40e3-9b07-c1d11b0976f0.jpg"
   },
   {
    "id": "cd37dec0-2a85-48d2-b7a5-a092161965b6",
@@ -95,7 +102,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c19d2171-a5ba-4deb-a8c5-8da69441c3f5.png"
   },
   {
    "id": "f2a0df11-6705-4748-b035-4e4e0724ed2f",
@@ -106,18 +114,20 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fe6b71df-45eb-461f-929c-cada81044c7f.jpg"
   },
   {
    "id": "b5420fd6-8a2c-422d-b617-0371ecf5e005",
    "title": {
-    "en": "Watashi to Kare to Mou Hitori♡"
+    "en": "Watashi to Kare to Mou Hitori\u2661"
    },
    "contentRating": "safe",
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f06be06-e501-4ee1-8ccc-601217b00438.jpg"
   },
   {
    "id": "1055dced-6eb0-42a8-8f82-cd9f52b4de36",
@@ -130,7 +140,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "81048854-0aba-438c-bf0f-471080fc9b8b.jpg"
   },
   {
    "id": "7c75bea5-e4d2-41dc-a13e-f65f8d279f92",
@@ -141,8 +152,10 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "52aa4ee1-97d1-4042-842f-c4eb38f6cfa6.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:38:23+00:00"
+ "updatedAt": "2021-07-18T06:38:23+00:00",
+ "coverFileName": "afdb41b5-81f7-4c68-b2c7-2060b9940299.png"
 }

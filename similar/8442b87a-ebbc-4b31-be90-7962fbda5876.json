@@ -1,64 +1,69 @@
 {
  "id": "8442b87a-ebbc-4b31-be90-7962fbda5876",
  "title": {
-  "en": "W Mission Story: Pokémon Ranger - the Comic"
+  "en": "W Mission Story: Pok\u00e9mon Ranger - the Comic"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "f3bb3623-3068-4743-b9fc-f53450fed621",
    "title": {
-    "en": "Darkrai Mission Story: Pokémon Ranger Vatonage - the Comic"
+    "en": "Darkrai Mission Story: Pok\u00e9mon Ranger Vatonage - the Comic"
    },
    "contentRating": "safe",
    "score": 0.9317835,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "43ea503e-d57b-4ef1-89ad-58d45dc62eb8.jpg"
   },
   {
    "id": "f8e63ded-8ed8-4f56-bfd2-0d3f5b69e2fc",
    "title": {
-    "en": "Pokémon Gold \u0026 Silver: The Golden Boys"
+    "en": "Pok\u00e9mon Gold & Silver: The Golden Boys"
    },
    "contentRating": "safe",
    "score": 0.7119125,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4bf07127-355a-46c9-9208-7f15ad3236b5.jpg"
   },
   {
    "id": "6f3543ca-873b-463f-9a1d-47bc261d274a",
    "title": {
-    "en": "Pocket Monsters RéBURST"
+    "en": "Pocket Monsters R\u00e9BURST"
    },
    "contentRating": "safe",
    "score": 0.6500041,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ba10aae-2f05-42ee-a240-9756b845ec26.png"
   },
   {
    "id": "33c4f4da-2106-4254-a36f-e2432116d29f",
    "title": {
-    "en": "Pokémon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
+    "en": "Pok\u00e9mon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.58518803,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "650e8f25-e06f-49d6-8467-d6ff9c5c41da.jpg"
   },
   {
    "id": "882b1e22-ac83-4613-b8f1-7c48138fa584",
    "title": {
-    "en": "Pokémon SPECIAL XY"
+    "en": "Pok\u00e9mon SPECIAL XY"
    },
    "contentRating": "safe",
    "score": 0.545283,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "939b9dda-215c-4673-921f-98f719ac2669.png"
   },
   {
    "id": "c6b0b72f-4601-40d7-9b1c-ee7ab1552a52",
@@ -69,7 +74,8 @@
    "score": 0.4823446,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56bfac35-fad1-4ec1-8267-821388ed2c47.png"
   },
   {
    "id": "5ed8b0ba-a476-4674-a0b6-bca09e05c471",
@@ -80,7 +86,8 @@
    "score": 0.48216242,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "91a721c0-009e-4302-b401-9c06b898ba53.jpg"
   },
   {
    "id": "7174cd6d-9c69-4130-bc20-a84f61ae8f9d",
@@ -91,7 +98,8 @@
    "score": 0.4778022,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "548515e4-9058-42a8-9e69-58513b17ebd8.png"
   },
   {
    "id": "c6d279e2-b977-4b29-be6d-2b4e0b299ba1",
@@ -102,7 +110,8 @@
    "score": 0.4753227,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "162a6969-6d8f-4a46-8034-9bf2569aa82e.jpg"
   },
   {
    "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
@@ -113,7 +122,8 @@
    "score": 0.47415036,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "23765825-6baf-479d-b2cd-d6c0c37f1471.jpg"
   },
   {
    "id": "a9dd123c-6b19-4887-8960-817f4ec7dbdd",
@@ -126,7 +136,8 @@
     "en",
     "pt-br",
     "de"
-   ]
+   ],
+   "coverFileName": "a8008b21-1be6-4b84-8f41-890f6be78f5b.jpg"
   },
   {
    "id": "49ae6f0a-a2b0-4cae-93c4-0d377a10163d",
@@ -138,8 +149,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "a60ef8e4-170b-4f8e-8c52-e0a8d58414aa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:49:00+00:00"
+ "updatedAt": "2021-07-18T06:49:00+00:00",
+ "coverFileName": "777107eb-2077-4565-bc4f-888abc37c034.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "de"
-   ]
+   ],
+   "coverFileName": "d000caa8-3129-4361-9963-2e17cf08464b.jpg"
   },
   {
    "id": "315d7358-1a25-4c7a-a886-cfafcc1d3f9b",
@@ -26,7 +27,8 @@
    "score": 0.37566543,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "81a9b882-1792-486d-a1a6-3bfde38cdcee.png"
   },
   {
    "id": "7e2933d2-8587-4c0f-b69c-4233864b96a8",
@@ -37,7 +39,8 @@
    "score": 0.36618006,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a9c53159-1cb5-45a8-a64b-9680f03cc28b.jpg"
   },
   {
    "id": "54a098b5-0681-4202-ac0a-1241ecc19fc9",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "31b7a7c9-80d0-4b2a-906c-1dbda4c41547.jpg"
   },
   {
    "id": "3c9db26b-f0a7-4500-b448-352488f32339",
@@ -61,7 +65,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1b793cb5-4afa-4808-93fe-660d52b9d9e3.jpg"
   },
   {
    "id": "6c565627-35ab-460a-9b83-22d1fa5d9475",
@@ -72,18 +77,20 @@
    "score": 0.36242428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "704b6382-cab4-45af-a833-265e1b34dc96.jpg"
   },
   {
    "id": "d701d37a-cefa-4f9e-9359-078bc057cfd2",
    "title": {
-    "en": "Zero no Chukaima - Yo–chien Nano!"
+    "en": "Zero no Chukaima - Yo\u2013chien Nano!"
    },
    "contentRating": "safe",
    "score": 0.36242428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "370cb185-19bd-45f4-ae46-da385a4d43bf.jpg"
   },
   {
    "id": "0fa88d82-6e71-4b74-bb1a-4b2347aed980",
@@ -94,7 +101,8 @@
    "score": 0.36242428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "28d2d0d2-7721-4d2a-b37f-ca57dd56ded1.jpg"
   },
   {
    "id": "b5adc1ca-34d9-4f1f-b1cf-f5dfc8f498bf",
@@ -107,7 +115,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "7aba2058-6414-49c9-b765-a70206f3e43f.png"
   },
   {
    "id": "f07638e9-8392-4ade-8bbd-2952304aa3a8",
@@ -118,7 +127,8 @@
    "score": 0.36242428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e1691801-75e9-4538-b7bd-21fce2b39bfd.jpg"
   },
   {
    "id": "373b0ed1-ddd5-4184-a67f-dbade77bc8dd",
@@ -130,7 +140,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "98603323-7554-4d07-978c-fa5cd0937822.jpg"
   },
   {
    "id": "6da90888-01b7-43ec-8a72-93c7b5077838",
@@ -141,8 +152,10 @@
    "score": 0.36242428,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2402fd0a-52b6-4a82-a49d-7182aff4ebfa.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:08+00:00"
+ "updatedAt": "2021-07-18T06:59:08+00:00",
+ "coverFileName": "8663c5a6-ac92-4e55-a75d-c54acf80bb5d.png"
 }

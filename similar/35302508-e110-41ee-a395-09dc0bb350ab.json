@@ -17,7 +17,8 @@
     "es-la",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "04f30439-e201-4dfa-9b84-184d840ccdde.jpg"
   },
   {
    "id": "0bfdb3ec-79bb-4c1d-b25a-1e2b0eabe677",
@@ -28,7 +29,8 @@
    "score": 0.38971144,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "7301749f-ca97-4597-867a-c9fd5838075b.jpg"
   },
   {
    "id": "1441243e-c028-4ae0-b21f-b875a754e7f5",
@@ -42,7 +44,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "d2c37ebd-9c29-4bc2-8da8-efdef3c996bd.jpg"
   },
   {
    "id": "2c1bc7f4-0ee1-4960-822d-13761dc9dce8",
@@ -54,7 +57,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "8667cf50-a66d-43b9-982f-4977b151923a.jpg"
   },
   {
    "id": "3cce451f-23bb-4d2a-95fe-d765349216ea",
@@ -66,19 +70,21 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "91c4351b-a029-441b-918b-590c3c407dbd.jpg"
   },
   {
    "id": "1a5e7c73-e707-4e4b-879e-a3da39ab2e6d",
    "title": {
-    "en": "Mahou Shoujo Madoka★Magica - [Majuu Hen]"
+    "en": "Mahou Shoujo Madoka\u2605Magica - [Majuu Hen]"
    },
    "contentRating": "safe",
    "score": 0.3,
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "4987c4a3-9cd2-4332-82cb-42e5d94ab03c.jpg"
   },
   {
    "id": "8fe61dfd-ca48-4aba-94fc-dbe8d3cb490a",
@@ -96,7 +102,8 @@
     "de",
     "ru",
     "it"
-   ]
+   ],
+   "coverFileName": "0e8d3cea-10cf-45ff-8437-3e0a3c745a24.jpg"
   },
   {
    "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
@@ -111,7 +118,8 @@
     "pt-br",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "ea4d4898-3908-4ee6-ad6d-a06741dccdba.jpg"
   },
   {
    "id": "20e1a522-4623-4d7f-a561-7207ceb4143e",
@@ -122,7 +130,8 @@
    "score": 0.29490077,
    "languages": [
     "es-la"
-   ]
+   ],
+   "coverFileName": "fb0225f5-2725-4142-a7ee-b63345a75de1.jpg"
   },
   {
    "id": "5fa86843-9bd4-45e8-bc8d-3e5a89535ec7",
@@ -136,7 +145,8 @@
     "es-la",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7c1dea4f-d76b-4123-a750-6997d07f62f3.jpg"
   },
   {
    "id": "a3ba9898-06cd-443c-915e-96e39669c73e",
@@ -153,7 +163,8 @@
     "es-la",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "1b60433b-dd61-4288-9abf-01753f69c13e.jpg"
   },
   {
    "id": "b7358ffa-4c04-49d4-b2f7-d10bbcc5ec44",
@@ -165,8 +176,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "af34fe2a-fb1f-49c5-a180-64ca1a6f5eac.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:34:22+00:00"
+ "updatedAt": "2021-07-18T06:34:22+00:00",
+ "coverFileName": "23f61834-2d25-402c-b299-c11c495c2988.jpg"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "vi",
     "en"
-   ]
+   ],
+   "coverFileName": "38221c1f-71a2-4eef-868b-8bbef1f605bd.jpg"
   },
   {
    "id": "cb945ce8-b7a8-4e84-bd06-bbe0d2b170f9",
@@ -28,7 +29,8 @@
     "en",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "2bf2d6aa-f155-4fe0-a367-4b27aa7504c8.jpg"
   },
   {
    "id": "2486f416-7f14-4abe-9319-8f2e02aef339",
@@ -39,7 +41,8 @@
    "score": 0.37655485,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "460ecd06-3031-4431-b290-10322a476f77.jpg"
   },
   {
    "id": "54850b13-2084-4d60-9e6b-22245350b617",
@@ -51,7 +54,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "b1358a11-56b8-4579-84a0-a644ff358189.jpg"
   },
   {
    "id": "02d1de9e-cdca-4726-b6fd-3008ee65eb83",
@@ -62,7 +66,8 @@
    "score": 0.36563125,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b27d5115-fc80-40c3-b790-0fabc4f0701b.jpg"
   },
   {
    "id": "65822893-64b9-4219-8404-a1af146cbaed",
@@ -73,7 +78,8 @@
    "score": 0.36212397,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c83c38a-fe6a-4acc-98f1-d1ae33223796.jpg"
   },
   {
    "id": "07f88c39-5c73-49ca-b406-f63136441963",
@@ -84,7 +90,8 @@
    "score": 0.35310993,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd919acd-5c03-452d-9a8a-23dbfcdfe97a.jpg"
   },
   {
    "id": "38db3d60-a240-45af-a319-bdd0458dccf6",
@@ -95,7 +102,8 @@
    "score": 0.35044253,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6b3bb31-9785-414e-ac6d-8c7cd07aea25.jpg"
   },
   {
    "id": "2c4527e1-a95d-425e-a911-584f3276f4fd",
@@ -106,7 +114,8 @@
    "score": 0.35044253,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d7c5482-e026-4679-8d5c-5fe2c97e8cf8.jpg"
   },
   {
    "id": "8423e386-a2ca-4623-81ec-b8e7493abf92",
@@ -117,18 +126,20 @@
    "score": 0.35044253,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4e45566a-0bed-4830-83ce-245fa17e2746.jpg"
   },
   {
    "id": "13ced7ab-6744-4247-8a55-26fc674e1ad9",
    "title": {
-    "en": "Cucumber × Sandwich"
+    "en": "Cucumber \u00d7 Sandwich"
    },
    "contentRating": "safe",
    "score": 0.3375379,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f1e90dcf-c1ca-4194-826a-6ce7b5db713b.jpg"
   },
   {
    "id": "d5fc7365-f202-44c6-a029-08ea04896dcc",
@@ -139,8 +150,10 @@
    "score": 0.33381206,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c1229af-7a07-4c09-811c-36a02d6b07ae.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:00+00:00"
+ "updatedAt": "2021-07-18T06:30:00+00:00",
+ "coverFileName": "e1c391e9-32a1-483e-a9c5-4fd04b936baa.jpg"
 }

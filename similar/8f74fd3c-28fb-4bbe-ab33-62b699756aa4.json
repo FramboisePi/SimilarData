@@ -1,7 +1,7 @@
 {
  "id": "8f74fd3c-28fb-4bbe-ab33-62b699756aa4",
  "title": {
-  "en": "Final Fantasy VII - Let’s go to School (Doujinshi)"
+  "en": "Final Fantasy VII - Let\u2019s go to School (Doujinshi)"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.6022899,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d5d7cc27-3680-4952-87ac-aa87ecc8a3ba.jpg"
   },
   {
    "id": "50cd1057-69b7-47cf-a063-ac283c5fe41e",
@@ -25,7 +26,8 @@
    "score": 0.5348645,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f18ff5e9-4e24-488f-9942-9acbf5f0d7c4.png"
   },
   {
    "id": "98ba80bd-b9ca-41d3-9e7f-09e7016ede2e",
@@ -36,7 +38,8 @@
    "score": 0.4980462,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f66a857-4538-45c6-b470-7a5727e31921.jpg"
   },
   {
    "id": "3e5ea610-0708-4088-bb1c-1a7b2b2d81fb",
@@ -47,7 +50,8 @@
    "score": 0.4884486,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b8830c5f-aac6-4ce6-9f08-18b38bb02a21.jpg"
   },
   {
    "id": "7cbbd1f8-e67e-41a1-a5d7-7c994b862ee7",
@@ -62,7 +66,8 @@
     "uk",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d4c452d7-c561-4f36-811f-86de04705aa6.png"
   },
   {
    "id": "14be08b9-5e93-4b23-b51a-a26265bb944d",
@@ -74,7 +79,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "41403007-2b76-49ac-a9ef-8f9281d3a673.jpg"
   },
   {
    "id": "6fc9dc88-3ce8-4e64-a40a-39ed516a483a",
@@ -86,7 +92,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "988063c1-5986-4564-8598-193d44fb4738.jpg"
   },
   {
    "id": "61fb76aa-443b-4e0a-a446-212334103879",
@@ -97,7 +104,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7cf89394-8be1-4cbe-ad26-0e487ed0bdac.jpg"
   },
   {
    "id": "781e8d91-adce-4d33-a431-a4072864988f",
@@ -108,7 +116,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "46cf6f15-381d-4e7f-870e-05b97b4ee6dc.jpg"
   },
   {
    "id": "533115c2-5c4a-496d-bf6e-1ec83d3bcb67",
@@ -119,7 +128,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "defb25ee-2161-44e7-a131-8d4528981113.png"
   },
   {
    "id": "7e4f40c2-0012-4740-b439-984a923166c5",
@@ -130,7 +140,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b5d813c6-0927-4268-bfaa-86adeb51e166.jpg"
   },
   {
    "id": "763ec21a-83bf-4ca1-a4fc-f7f1b0d91c42",
@@ -142,8 +153,10 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "b0957508-5ca1-449e-8a65-222141e304bf.png"
   }
  ],
- "updatedAt": "2021-07-18T06:51:11+00:00"
+ "updatedAt": "2021-07-18T06:51:11+00:00",
+ "coverFileName": "c0298f24-63a6-4122-8eba-d0d83ab616c6.jpg"
 }

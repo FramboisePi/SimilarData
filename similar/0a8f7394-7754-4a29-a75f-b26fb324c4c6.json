@@ -8,13 +8,14 @@
   {
    "id": "5715958f-4f5d-49c2-b563-8bccc34c5979",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Beginning"
+    "en": "Tiger & Bunny - The Beginning"
    },
    "contentRating": "safe",
    "score": 0.45104313,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18dfd05f-97ac-431c-bc79-64be8905a609.png"
   },
   {
    "id": "02c072ca-05d9-4c38-8c9f-0464f75e62a6",
@@ -27,7 +28,8 @@
     "pt-br",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "12bff76f-d9c6-4420-bfd1-c804adc09cf5.jpg"
   },
   {
    "id": "1876e4e5-d989-416e-8344-bb1e900bd21b",
@@ -38,7 +40,8 @@
    "score": 0.40249223,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "007bb4a0-96cb-4237-a07f-4d5823c51d79.jpg"
   },
   {
    "id": "bb4adfba-37b6-4a90-a951-6d9459293b8d",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "8bcd067e-dbe7-4a0e-bddc-fe2eec5c13a2.jpg"
   },
   {
    "id": "d94ea5b6-8a0a-43bb-9fe6-ec101bced381",
@@ -61,7 +65,8 @@
    "score": 0.39978623,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5643a5d6-b823-4d94-a6a1-2b14425e9da8.jpg"
   },
   {
    "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
@@ -73,7 +78,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "ec821882-4d73-4550-aef0-db1eac3c32c0.png"
   },
   {
    "id": "a6be8fe2-df38-4450-b9f3-78bd6cdcaebf",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "943abd0e-41c7-4951-aa31-c0947a85f694.jpg"
   },
   {
    "id": "61cb55bb-03e1-4496-9bd4-460c2c7143b4",
@@ -99,7 +106,8 @@
     "pt-br",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "9ec61c1f-1826-416f-8489-f37eb9689ec4.jpg"
   },
   {
    "id": "911025e8-ae47-499c-8eff-453d18b6459a",
@@ -110,7 +118,8 @@
    "score": 0.3697826,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bac72cf-4362-44bd-8dbe-5f29cd9c6c2c.jpg"
   },
   {
    "id": "e8b3afad-96d5-48d0-9be4-5760d4672c45",
@@ -121,19 +130,21 @@
    "score": 0.36848164,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8b5d166f-e8ab-4dd8-952e-7d9de1d921aa.jpg"
   },
   {
    "id": "9a1a2636-9854-4bf3-966c-6135d574c4c6",
    "title": {
-    "en": "Tokoshie × Bullet - Shin Minato Koubou-sen"
+    "en": "Tokoshie \u00d7 Bullet - Shin Minato Koubou-sen"
    },
    "contentRating": "safe",
    "score": 0.36392012,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "11ef4938-44a4-48b2-a242-4486a4d1fbe5.jpg"
   },
   {
    "id": "9d2d9c67-0e46-4cb9-89c0-7945f8b50ce0",
@@ -145,8 +156,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e7f32896-df49-49ea-9f5f-5eaedd6b6120.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:26:26+00:00"
+ "updatedAt": "2021-07-18T06:26:26+00:00",
+ "coverFileName": "8143afba-2cbe-4117-a31d-0bb86eb5d3ba.jpg"
 }

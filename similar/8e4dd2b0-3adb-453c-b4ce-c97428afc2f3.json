@@ -1,7 +1,7 @@
 {
  "id": "8e4dd2b0-3adb-453c-b4ce-c97428afc2f3",
  "title": {
-  "en": "Kyou, Aitsu (♂) ni Kyunto Shite Shimaimashita...!!"
+  "en": "Kyou, Aitsu (\u2642) ni Kyunto Shite Shimaimashita...!!"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.45405033,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "388c3c0f-46eb-4acf-a32a-eb392451dab8.jpg"
   },
   {
    "id": "53549b45-6aa8-48fc-97c0-525c15906c29",
@@ -27,7 +28,8 @@
     "th",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "d2506d89-97e7-4c05-9643-78312f0071bc.jpg"
   },
   {
    "id": "a304e97d-dbcb-4f64-bd55-8b8717e8671d",
@@ -40,7 +42,8 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "5d33d592-5589-49f5-8e23-5158af30280d.jpg"
   },
   {
    "id": "2ac9f4cf-22d5-474f-90a7-0517e750d6ae",
@@ -51,7 +54,8 @@
    "score": 0.4247688,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6c48d238-8616-47e8-9608-d726d282631f.png"
   },
   {
    "id": "5563d1a0-6034-4566-bcee-ed53ee7cb6be",
@@ -62,7 +66,8 @@
    "score": 0.41969904,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bfe9f173-c10a-48a2-bb9e-adf4a96beece.jpg"
   },
   {
    "id": "667e3932-a3cc-4953-99b6-522b789d3570",
@@ -73,7 +78,8 @@
    "score": 0.41763505,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d37b9529-37d6-4933-9fa4-cd0c352832b7.jpg"
   },
   {
    "id": "fd8a1186-0edc-41da-9e03-032b4fd6784d",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "c3a81936-dac1-4da1-992d-d2408a6f1a4c.jpg"
   },
   {
    "id": "d12b88c7-7ea4-4de1-af10-3c29401be124",
@@ -96,7 +103,8 @@
    "score": 0.41207138,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "af120a3b-0592-4174-ad36-ef9aa888169c.jpg"
   },
   {
    "id": "85f89743-8390-4e79-8945-eecee2d87ffa",
@@ -107,7 +115,8 @@
    "score": 0.408181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ccb2e4e-1c97-4795-88b6-896ca90ecaee.jpg"
   },
   {
    "id": "0485fbf8-943c-4397-b59f-ed97e500d0b7",
@@ -119,7 +128,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "f3e30fac-e9a9-4b66-991f-b819a497c838.jpg"
   },
   {
    "id": "12e8b758-770c-4469-88a3-e54cde2d72ed",
@@ -130,7 +140,8 @@
    "score": 0.408181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6f0a640-dd3d-42c5-8e18-705de9431a7b.jpg"
   },
   {
    "id": "1ba2acfb-3f10-46f4-acef-eebd652d7eda",
@@ -141,8 +152,10 @@
    "score": 0.408181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b7f979a-2b2a-4ac3-8cc0-36aa4b67b3e8.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:57+00:00"
+ "updatedAt": "2021-07-18T06:50:57+00:00",
+ "coverFileName": "1c2004c0-7d7f-4db7-82b2-63c40994d7f6.png"
 }

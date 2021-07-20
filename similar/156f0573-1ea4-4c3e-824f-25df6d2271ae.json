@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "49c9d678-705a-4352-b8e7-5072255dc019.jpg"
   },
   {
    "id": "32e2f867-a26a-4dc4-a3f5-00ce1515805b",
@@ -26,7 +27,8 @@
    "score": 0.4775876,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e401802-4d8f-40e4-b9ec-6dbad09ca988.png"
   },
   {
    "id": "85439285-2536-4e0b-aed6-5019662c40ae",
@@ -37,7 +39,8 @@
    "score": 0.44946098,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f11a7a96-381b-4716-a879-c35d6798fe8c.png"
   },
   {
    "id": "813e1105-49c2-4853-9f59-34df06fcb80c",
@@ -49,7 +52,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d1f85ec9-beaa-4fb2-9122-e6ef0d49f91e.png"
   },
   {
    "id": "1693697a-783c-4d3c-a2d3-dc069e137a23",
@@ -61,7 +65,8 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "cbbd73ae-954e-4af1-9080-b7258601dc67.jpg"
   },
   {
    "id": "dacfcc51-9ebe-48af-b1a8-77233c1d6e4b",
@@ -72,7 +77,8 @@
    "score": 0.41750705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd84cd32-a0bf-449c-a798-891a43403b3e.png"
   },
   {
    "id": "c60d3609-a0d2-400f-808b-3b70e42b36e1",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "e0daa386-1220-4efa-a977-3c157f0973d9.jpg"
   },
   {
    "id": "e0e09970-35ff-41ed-a9b1-4f8e4be8d0eb",
@@ -95,7 +102,8 @@
    "score": 0.41750705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "abe588e5-9f90-4f02-a9a8-2eac3630f8d8.jpg"
   },
   {
    "id": "6f2a2474-6b38-4e85-9efe-4a4a8ac50103",
@@ -106,7 +114,8 @@
    "score": 0.41750705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b296356b-ec4e-4a6b-86d9-59e5b2ea8993.jpg"
   },
   {
    "id": "575c6f8b-02bc-4300-b808-16e35c2bc2e2",
@@ -121,7 +130,8 @@
     "it",
     "id",
     "hu"
-   ]
+   ],
+   "coverFileName": "d9c778df-a3ba-47da-b410-bbe431264bef.jpg"
   },
   {
    "id": "67c03443-8b06-44e1-9784-55b33bc3428d",
@@ -132,19 +142,22 @@
    "score": 0.41750705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "88b8027d-41c5-4931-a8af-57ad7527ef02.jpg"
   },
   {
    "id": "c7ab2ddd-5899-4d44-9c84-1958f2ea3858",
    "title": {
-    "en": "Welcome to Cafe Schrödinger"
+    "en": "Welcome to Cafe Schr\u00f6dinger"
    },
    "contentRating": "safe",
    "score": 0.41750705,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d62abe63-5ad9-4242-b1bd-a09f03ea316a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:28:29+00:00"
+ "updatedAt": "2021-07-18T06:28:29+00:00",
+ "coverFileName": "d41f02f2-2847-4466-ac02-aa0b96d47232.jpg"
 }

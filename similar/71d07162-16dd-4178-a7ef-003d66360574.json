@@ -19,7 +19,8 @@
     "fr",
     "hu",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0d064c12-8230-4c7b-9092-1303927dac56.jpg"
   },
   {
    "id": "8c3e808e-4e39-456d-a8e3-0b38da01bbd0",
@@ -33,7 +34,8 @@
     "pt-br",
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "bfb635d0-d671-429f-b278-c37072a8ff28.jpg"
   },
   {
    "id": "fd45ce54-7992-46e0-b816-0743cd76275e",
@@ -45,7 +47,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6ef4ef4a-5f6c-491f-a955-4c8f801cacd5.jpg"
   },
   {
    "id": "c727d921-4294-455b-9bcc-2f0c7d29cd9a",
@@ -58,7 +61,8 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "94d40a54-9507-4dfd-8f37-adf6ae64a43d.jpg"
   },
   {
    "id": "11c2560b-7777-4741-86cb-efcc34fd5778",
@@ -72,7 +76,8 @@
     "es-la",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "72070c5e-8dd3-40b1-b68e-0a8fb45294a1.png"
   },
   {
    "id": "4f22cbf6-8676-4a44-a4f0-9d0cf5c403ca",
@@ -83,7 +88,8 @@
    "score": 0.4097365,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f01c311d-7ef9-4ab6-afca-0531a43399fe.jpg"
   },
   {
    "id": "23c2820c-a236-43ac-a0b3-1e575eae9828",
@@ -94,7 +100,8 @@
    "score": 0.40628475,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f180059f-7f7f-4ace-8dc8-77f73ddbd203.jpg"
   },
   {
    "id": "39a61e86-ae7f-45eb-aedf-7af311a3b78a",
@@ -108,18 +115,20 @@
     "en",
     "it",
     "ar"
-   ]
+   ],
+   "coverFileName": "519ef0c4-6157-412b-861f-02a8966e8a17.jpg"
   },
   {
    "id": "aaae6694-d9a0-44c2-abed-53141168e3d8",
    "title": {
-    "en": "e×COM Haruoka gakuen game joshibu"
+    "en": "e\u00d7COM Haruoka gakuen game joshibu"
    },
    "contentRating": "safe",
    "score": 0.39810035,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "06f6afda-69d5-4883-b03a-97caae38a8de.jpg"
   },
   {
    "id": "e33137df-99e1-4a8e-af5b-ef1c546a5409",
@@ -130,7 +139,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "25502bc9-270d-4f9a-9871-85d643028827.jpg"
   },
   {
    "id": "e83dfbfc-8043-4bcf-811b-ac3f0c886d45",
@@ -141,7 +151,8 @@
    "score": 0.39574215,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7b2a3aeb-7c19-43c6-b26c-ac4c8b03e0f2.jpg"
   },
   {
    "id": "4ef96c2c-25e5-4e1a-bb21-90a36c25096a",
@@ -152,8 +163,10 @@
    "score": 0.38521954,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e9c850b-b020-4478-9604-550f442ea049.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:45:33+00:00"
+ "updatedAt": "2021-07-18T06:45:33+00:00",
+ "coverFileName": "2b616b0c-7f98-440d-b862-08437f4afca3.jpg"
 }

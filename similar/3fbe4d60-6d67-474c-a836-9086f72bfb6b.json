@@ -1,7 +1,7 @@
 {
  "id": "3fbe4d60-6d67-474c-a836-9086f72bfb6b",
  "title": {
-  "en": "Palpal \u0026 Rocketta"
+  "en": "Palpal & Rocketta"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "bf41f99d-c1c4-496c-a3e1-cadcf2833ae2.jpg"
   },
   {
    "id": "5137687f-a925-4b18-a474-b143f9e3ec01",
@@ -30,7 +31,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5e3f4301-d4f5-4035-a5ee-a622483993b4.jpg"
   },
   {
    "id": "e0c6cde1-232e-45de-8e0d-b6902c1453d0",
@@ -45,7 +47,8 @@
     "zh-hk",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "272c5213-e94e-44b5-870e-8cf01f63bf3b.jpg"
   },
   {
    "id": "25a0ad4d-3962-4933-b88c-8fa5c25ed4eb",
@@ -57,7 +60,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "c5cc21d7-fa6a-459b-9cbc-256953677b03.png"
   },
   {
    "id": "2b5c2f34-6de4-4a81-8671-bca8c9409f79",
@@ -72,12 +76,13 @@
     "pt-br",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "044cf087-ad78-4379-98a9-2587a08148f1.jpg"
   },
   {
    "id": "2dab66cc-f819-4ac4-8566-717331348f4b",
    "title": {
-    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn’t Too Much of a Hassle"
+    "en": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn\u2019t Too Much of a Hassle"
    },
    "contentRating": "safe",
    "score": 0.3214789,
@@ -86,7 +91,8 @@
     "en",
     "es-la",
     "ru"
-   ]
+   ],
+   "coverFileName": "5cfe0c26-0ba4-4d2d-857c-69d6bddc978b.jpg"
   },
   {
    "id": "cb50b2d1-aa11-4b63-bff0-2c51094ad541",
@@ -98,7 +104,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "b2248774-85b5-4f05-8e18-17c4d4b6300e.jpg"
   },
   {
    "id": "fb66e1ee-e780-4ba1-8cdf-6035198b536d",
@@ -109,7 +116,8 @@
    "score": 0.31819806,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "57117c12-1a40-455e-a2ca-43c75f6747d5.jpg"
   },
   {
    "id": "b41bef1e-7df9-4255-bd82-ecf570fec566",
@@ -128,7 +136,8 @@
     "id",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "f93abdea-70c0-4d70-a5c5-800310bf185c.jpg"
   },
   {
    "id": "735eb543-4207-487d-8a64-9083c3eeb2e5",
@@ -143,7 +152,8 @@
     "pt-br",
     "fr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "87b721dc-a333-4232-aad8-847bf81502c9.jpg"
   },
   {
    "id": "233c84de-8b65-4b1e-af45-6860e5304141",
@@ -156,7 +166,8 @@
     "ru",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "ff8da332-5543-4732-8cda-9ec44b5ea0a9.jpg"
   },
   {
    "id": "b6b9c02d-67c2-4f8f-adcd-ef880637964d",
@@ -169,8 +180,10 @@
     "en",
     "ru",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b9419198-19e6-469d-bedb-8a67fbf90796.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:21+00:00"
+ "updatedAt": "2021-07-18T06:36:21+00:00",
+ "coverFileName": "04b2778c-9336-4260-bea8-1ec0747ec727.jpg"
 }

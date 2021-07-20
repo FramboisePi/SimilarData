@@ -8,7 +8,7 @@
   {
    "id": "5353e8c5-8a6c-402a-895b-0d09feec17d4",
    "title": {
-    "en": "The Savior's Book Café in Another World"
+    "en": "The Savior's Book Caf\u00e9 in Another World"
    },
    "contentRating": "safe",
    "score": 0.4213447,
@@ -17,7 +17,8 @@
     "it",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "36d955f3-56fb-4a77-9d26-eff42d3dffbd.jpg"
   },
   {
    "id": "acf31122-946f-4738-8b18-eed1df481012",
@@ -28,7 +29,8 @@
    "score": 0.41552547,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "08434e27-c708-454a-917d-2a0285dc1ead.jpg"
   },
   {
    "id": "d3b4bb3e-5912-4f42-af99-b0c907dbef02",
@@ -41,7 +43,8 @@
     "pt-br",
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6effedc6-5b60-454a-8e03-0013784631ea.jpg"
   },
   {
    "id": "6f3408d0-645d-4515-ade1-fccf4e2da04f",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "177bd604-bd04-4545-8dc8-cee36ad31b17.jpg"
   },
   {
    "id": "754b8ca9-4b3b-48f1-8d64-e107c030c1f6",
@@ -66,7 +70,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "67b80905-3d7a-4724-96dc-8c9858b9b589.jpg"
   },
   {
    "id": "8d525be8-f9c6-4231-9f35-5c67787a1ad3",
@@ -77,7 +82,8 @@
    "score": 0.3807702,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65162860-429a-479c-9c20-3da1c2efff12.jpg"
   },
   {
    "id": "ba210374-7967-4c3e-972d-891a530c992a",
@@ -89,7 +95,8 @@
    "languages": [
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "unknown"
   },
   {
    "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
@@ -102,7 +109,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "d259656a-57b5-4199-94f1-cb579da1e9ed.jpg"
   },
   {
    "id": "3e222bda-4091-43df-9491-e1c552b357aa",
@@ -114,7 +122,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "9e825a85-6f5e-439c-a587-9bdd57e0fd05.jpg"
   },
   {
    "id": "276351e5-0e6f-4143-847d-824a3f11983f",
@@ -125,19 +134,21 @@
    "score": 0.37338272,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "41ab05fe-3e22-4ae1-b574-813e175e3d8c.jpg"
   },
   {
    "id": "f1311d54-99bc-49ed-b12f-099b9a40c104",
    "title": {
-    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 2-bu 「Hon no Tamenara Miko ni Naru!」"
+    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 2-bu \u300cHon no Tamenara Miko ni Naru!\u300d"
    },
    "contentRating": "safe",
    "score": 0.3681856,
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "d9057ad2-e80a-4687-9aa2-088acdc83fe5.jpg"
   },
   {
    "id": "27ea199f-a993-4a0a-a571-cb254bed72af",
@@ -149,8 +160,10 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9bb6e051-e370-451d-b157-965676dec505.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:50:30+00:00"
+ "updatedAt": "2021-07-18T06:50:30+00:00",
+ "coverFileName": "4f18ea56-a81c-488c-8069-88d1d23fdcc8.jpg"
 }

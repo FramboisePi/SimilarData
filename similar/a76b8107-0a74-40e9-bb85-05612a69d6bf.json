@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "408e7a59-8c25-40e8-a48e-c3a297bb3dce.jpg"
   },
   {
    "id": "98df5987-adac-4232-be58-8718b43aa5e8",
@@ -27,7 +28,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "21c352ec-090b-41f4-9413-892b265d4099.jpg"
   },
   {
    "id": "366e544c-9474-4042-b767-d222fc51f001",
@@ -42,7 +44,8 @@
     "ru",
     "id",
     "fr"
-   ]
+   ],
+   "coverFileName": "9bb53a3d-dc55-4197-b3ee-7e5801b83cae.png"
   },
   {
    "id": "abf5d327-b4b7-41a6-8341-5df72bae3064",
@@ -53,7 +56,8 @@
    "score": 0.4759111,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1408dbd7-7ec8-4fec-a906-977603545fdd.png"
   },
   {
    "id": "7b214a16-ef4e-4cde-92b0-557bdc41f36b",
@@ -67,7 +71,8 @@
     "es",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "cda0928c-c96a-4752-ba72-b5dd801f10b2.png"
   },
   {
    "id": "023ff19e-782b-4fa5-afd3-3e9d695294f8",
@@ -78,7 +83,8 @@
    "score": 0.45997,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "072c8d78-dc3e-4f43-be13-34d2b2bee843.jpg"
   },
   {
    "id": "77b1fb34-f891-4c8e-b48b-2d425a304c37",
@@ -93,7 +99,8 @@
     "fr",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "864325e1-1bdd-4252-b748-e9d750680979.jpg"
   },
   {
    "id": "c60708de-bb4a-4baf-8a80-7713e4551909",
@@ -106,7 +113,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "151f1ba6-7a4a-4ce4-9a24-ef12435f07db.jpg"
   },
   {
    "id": "87e4d7e4-5ed8-4c21-91f3-d732f34abe6b",
@@ -117,7 +125,8 @@
    "score": 0.44065526,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3daae941-3c5f-4d04-a852-c39f287e1294.jpg"
   },
   {
    "id": "4ec3fe20-f21a-4c6c-b76b-f94abbc62e8b",
@@ -129,12 +138,13 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "c97f0ec2-d3ef-4223-b7b4-09791e9d0102.jpg"
   },
   {
    "id": "cdae359d-5fa9-4d4e-b11a-69dd32b09742",
    "title": {
-    "en": "Apotheosis – Ascension to Godhood"
+    "en": "Apotheosis \u2013 Ascension to Godhood"
    },
    "contentRating": "safe",
    "score": 0.4285356,
@@ -146,7 +156,8 @@
     "it",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "30dfb492-e0f1-48df-9634-d6252c6cf737.jpg"
   },
   {
    "id": "31cd4e9b-a2eb-4a9c-b712-5b2fd467ae77",
@@ -160,8 +171,10 @@
     "tr",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "74ccec1b-1645-49dc-b9c2-a4514afa23bc.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:35+00:00"
+ "updatedAt": "2021-07-18T06:55:35+00:00",
+ "coverFileName": "70779a88-eb99-4f82-83eb-d78e8408c894.jpg"
 }

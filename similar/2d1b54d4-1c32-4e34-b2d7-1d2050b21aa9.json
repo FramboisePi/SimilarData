@@ -1,43 +1,46 @@
 {
  "id": "2d1b54d4-1c32-4e34-b2d7-1d2050b21aa9",
  "title": {
-  "en": "Tiger \u0026 Bunny - In Unity There Is Strength"
+  "en": "Tiger & Bunny - In Unity There Is Strength"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "5715958f-4f5d-49c2-b563-8bccc34c5979",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Beginning"
+    "en": "Tiger & Bunny - The Beginning"
    },
    "contentRating": "safe",
    "score": 0.8950878,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18dfd05f-97ac-431c-bc79-64be8905a609.png"
   },
   {
    "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Tiger & Bunny"
    },
    "contentRating": "safe",
    "score": 0.8824524,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "43583370-710b-43d6-94b4-92acd892f9b0.jpg"
   },
   {
    "id": "7231545b-39ce-4d51-a825-b905b16691a3",
    "title": {
-    "en": "Tiger \u0026 Bunny - The Comic"
+    "en": "Tiger & Bunny - The Comic"
    },
    "contentRating": "safe",
    "score": 0.87008905,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "628c2146-e792-4fd8-9962-77f90386d227.jpg"
   },
   {
    "id": "639e6e0c-bc8d-4bfa-b490-fa9d1bab4c17",
@@ -48,7 +51,8 @@
    "score": 0.4767806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b172b58f-c718-48c5-ac7c-b9915d941d6c.jpg"
   },
   {
    "id": "756fc7c9-8e7d-4e71-8033-982f1205e950",
@@ -62,7 +66,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "50b8968c-5b31-404c-bd34-e97fad06d5a9.jpg"
   },
   {
    "id": "12439cc4-7da0-4c90-a04c-68769e2864bd",
@@ -73,7 +78,8 @@
    "score": 0.4244198,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "51e5afdf-dde1-4e5b-b90d-a5da4a061c7b.jpg"
   },
   {
    "id": "9e7fc7da-6edf-4eb6-9009-427e46e57d05",
@@ -84,7 +90,8 @@
    "score": 0.4226753,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "62d45411-2bbc-4955-b61d-155584131c1e.jpg"
   },
   {
    "id": "7511b858-06e5-414d-b343-467ea468efdf",
@@ -95,7 +102,8 @@
    "score": 0.41917804,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "13ea9e35-71d7-45c2-8158-0c0360af69ec.jpg"
   },
   {
    "id": "d3f46464-f190-463f-9941-15d5a3fded49",
@@ -108,7 +116,8 @@
     "ru",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "736b253d-b4e2-4831-ac59-4d7dbde09796.jpg"
   },
   {
    "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
@@ -119,7 +128,8 @@
    "score": 0.4054551,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56e57e6e-d72b-4241-906c-40e7ad60fca9.jpg"
   },
   {
    "id": "871dd58b-3fe1-40b1-a479-81a490598ed4",
@@ -130,7 +140,8 @@
    "score": 0.40377286,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4bd8254-faf5-4824-abdd-83c2b1d0f551.jpg"
   },
   {
    "id": "d57bf3e8-a834-436b-8a96-b46c0a7b27fc",
@@ -141,8 +152,10 @@
    "score": 0.4000991,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "490e34c5-f00c-46b5-97b2-47b490e808de.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:53+00:00"
+ "updatedAt": "2021-07-18T06:32:53+00:00",
+ "coverFileName": "3bf2c940-d24b-4588-b7b5-1431ec320dc6.jpg"
 }

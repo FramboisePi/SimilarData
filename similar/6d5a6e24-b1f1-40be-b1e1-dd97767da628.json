@@ -15,7 +15,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6dc490e1-307c-4c83-a6a8-589802902084.jpg"
   },
   {
    "id": "dd0f93de-1b3a-4b31-aaef-496d8220af71",
@@ -28,7 +29,8 @@
     "vi",
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "d06a0f85-e655-4208-8e3c-e80c1c832e84.jpg"
   },
   {
    "id": "1c842052-23d8-45f7-a3eb-6bfc5e8ad4de",
@@ -39,7 +41,8 @@
    "score": 0.3680798,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a6a79fd1-4bf9-4d26-beb6-bce46ebf431a.jpg"
   },
   {
    "id": "c4a3ec6e-900b-4ef3-a636-71e031692a50",
@@ -50,7 +53,8 @@
    "score": 0.3667948,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1740b0b2-b606-44aa-8c84-27507ff14ac5.jpg"
   },
   {
    "id": "34144247-0c21-43d9-a62f-f4143adface0",
@@ -63,7 +67,8 @@
     "en",
     "pl",
     "fr"
-   ]
+   ],
+   "coverFileName": "db669d9f-1596-416d-98c5-54b7b0c4d233.jpg"
   },
   {
    "id": "199991fd-19d7-4500-b212-7b6346420bc2",
@@ -74,7 +79,8 @@
    "score": 0.36080268,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45a69608-5892-4656-8c7b-a87caaa8e0b9.jpg"
   },
   {
    "id": "2b7795ce-36d7-4c5d-bf19-5578776c9145",
@@ -87,7 +93,8 @@
     "en",
     "pl",
     "de"
-   ]
+   ],
+   "coverFileName": "84df3be7-afb4-4a0f-9923-ce703f4aefed.jpg"
   },
   {
    "id": "7145da84-8be7-4a82-8d91-4b3d872ac9d1",
@@ -98,7 +105,8 @@
    "score": 0.35575622,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "17020409-685e-4171-b8cd-bfa9e9428445.jpg"
   },
   {
    "id": "0a204821-d845-4eb6-8ffa-5cdc807bb0b4",
@@ -109,7 +117,8 @@
    "score": 0.35575622,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0e1ee984-2f07-4363-a571-ad5ffa918867.jpg"
   },
   {
    "id": "5b10c1f1-85eb-48c8-8411-ff188c14d917",
@@ -122,19 +131,21 @@
     "ru",
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "c6225b5d-7afc-4f39-9d41-16f6870d80bf.jpg"
   },
   {
    "id": "3ee094bc-be5b-484c-aa7c-6ce7cc8146bd",
    "title": {
-    "en": "Eisen Flügel"
+    "en": "Eisen Fl\u00fcgel"
    },
    "contentRating": "safe",
    "score": 0.35575622,
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "06977c8b-38c0-421b-87fb-ccd9ecba2f0f.jpg"
   },
   {
    "id": "aea5ddc9-6552-4b3a-8398-a3c96235f138",
@@ -147,8 +158,10 @@
     "es",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "021c23da-1f56-4746-b59b-55dc2181f1b7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:44:44+00:00"
+ "updatedAt": "2021-07-18T06:44:44+00:00",
+ "coverFileName": "b5745639-f45f-4a53-a614-dfe67689d1fb.jpg"
 }

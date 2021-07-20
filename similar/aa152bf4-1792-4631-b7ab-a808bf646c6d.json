@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "dd41d5aa-5ed0-4fab-987b-30cbbac1b8a2.jpg"
   },
   {
    "id": "8a333456-6740-4e84-9991-f77d8a845b4e",
@@ -26,7 +27,8 @@
    "score": 0.547815,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8ba2edbd-40e0-4807-b87c-3b0940d799e5.jpg"
   },
   {
    "id": "ce148ded-c378-4e10-9e7d-83059969b4c3",
@@ -38,7 +40,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0703ec6d-bf1d-433e-85a3-7d1d5ec2a14b.jpg"
   },
   {
    "id": "13f190ab-32ad-4f2b-8f7f-5ccaa25c41b5",
@@ -50,7 +53,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "c8121823-2d3f-4920-9cc2-729a2de60f41.jpg"
   },
   {
    "id": "cdbbda38-1972-42a3-af69-286c54ca9dd6",
@@ -62,18 +66,20 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "30cf66f9-73a1-4853-8ff1-02ba566119fb.jpg"
   },
   {
    "id": "f579acdc-84ba-44da-a544-a1185a98ff13",
    "title": {
-    "en": "SPREE★KILLER"
+    "en": "SPREE\u2605KILLER"
    },
    "contentRating": "safe",
    "score": 0.4971882,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "31dc458a-15e9-4f40-a4f7-34c4f0514ff5.jpg"
   },
   {
    "id": "68fe459a-3475-4aaf-aefe-6ede66081f85",
@@ -85,7 +91,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "aa231b92-5ea2-4c79-b082-9a7cb109a854.jpg"
   },
   {
    "id": "4e03d445-02ca-4322-8027-7326ec118e73",
@@ -98,7 +105,8 @@
     "ru",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "21040746-6a23-4fa3-8766-32132e8167c6.jpg"
   },
   {
    "id": "6e4ec889-af10-4f4b-a067-db90d0bed86e",
@@ -109,7 +117,8 @@
    "score": 0.49071082,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd9f613f-949b-431c-9196-5aaa00065661.jpg"
   },
   {
    "id": "e71ecebb-39cf-4794-8e11-33c07ac42261",
@@ -121,7 +130,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "d1f61d12-9c3a-4f04-b596-216b3151166b.png"
   },
   {
    "id": "b1392f5d-ef2e-489d-98e2-35c3ec82cb40",
@@ -132,7 +142,8 @@
    "score": 0.48989987,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e5c34e31-4afb-4939-a380-cb1d57fb5e56.jpg"
   },
   {
    "id": "49650a04-d0d7-4526-b460-8203ae223586",
@@ -147,8 +158,10 @@
     "ru",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d3f55bc3-ffda-4795-93d3-ff8a90c0130f.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:56:04+00:00"
+ "updatedAt": "2021-07-18T06:56:04+00:00",
+ "coverFileName": "0e62816c-7bb2-4349-bc52-d10ed5669e89.jpg"
 }

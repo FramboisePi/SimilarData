@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "76e58185-1472-43db-984d-b7dd84588ddf.jpg"
   },
   {
    "id": "b97ee580-2d32-48b3-bc84-36a957823818",
@@ -29,7 +30,8 @@
     "tr",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "04be97bc-dbb1-4254-b73a-b7185401ecd7.jpg"
   },
   {
    "id": "afacbdbb-8e0b-4f05-855c-c322218940c2",
@@ -40,7 +42,8 @@
    "score": 0.3292691,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dd5a279a-07db-43f9-9764-9b73fc362cb1.jpg"
   },
   {
    "id": "c3a4f78b-a2c1-490a-9ec0-cdffe21f8f70",
@@ -53,7 +56,8 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b454c07c-e433-4ee7-9ab0-4faff7078639.jpg"
   },
   {
    "id": "b54c0dd8-66b8-41fb-9cb1-469ea2cbbc5b",
@@ -67,7 +71,8 @@
     "pt-br",
     "it",
     "fr"
-   ]
+   ],
+   "coverFileName": "4c0bfc62-970a-4a42-afab-ec7a571dd0d2.jpg"
   },
   {
    "id": "6b17751a-f0e2-46a2-9c39-8cae0cb69d39",
@@ -79,7 +84,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "6a2b33f6-e0f5-45fc-82b2-f60991a6f49e.png"
   },
   {
    "id": "6c69132a-8367-43e8-a153-6237a8832b72",
@@ -90,7 +96,8 @@
    "score": 0.3292691,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6581be93-1706-4f14-b6b0-3cf8d636a220.jpg"
   },
   {
    "id": "d0c9ee26-5b00-4326-bb1c-170f2a5b0ff7",
@@ -105,7 +112,8 @@
     "es-la",
     "fr",
     "id"
-   ]
+   ],
+   "coverFileName": "aa7b81d1-d2c8-4600-8f30-efd0ad543c78.jpg"
   },
   {
    "id": "fbcd7f77-64c1-4844-a0e1-83ddbfccd1c2",
@@ -116,18 +124,20 @@
    "score": 0.3174933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e7adeea-c7d9-45f9-8333-216b482dfd7b.jpg"
   },
   {
    "id": "3b7ab0cf-0735-497e-abb9-34c2a64c6d9b",
    "title": {
-    "en": "Anata wo Otona ni Suru ○ tsu no Koto"
+    "en": "Anata wo Otona ni Suru \u25cb tsu no Koto"
    },
    "contentRating": "safe",
    "score": 0.3174933,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1ab34f90-fa95-4742-94dc-f98b8479140d.jpg"
   },
   {
    "id": "54791531-d62c-4041-9eaa-c2c7f20495cd",
@@ -139,7 +149,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "2f546813-0e53-4c41-8bd2-c057a9e4722b.jpg"
   },
   {
    "id": "df5821b1-4000-4d5f-a444-f1c1f6e7abf6",
@@ -152,8 +163,10 @@
     "fr",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "9abe6495-b24d-4263-bb26-7a217655510b.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:46+00:00"
+ "updatedAt": "2021-07-18T07:03:46+00:00",
+ "coverFileName": "d4a6b9f8-4938-4443-bab4-6e8e8c4e2990.png"
 }

@@ -15,7 +15,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "e35ce1a3-72ca-4521-9c00-d0a24099ce28.jpg"
   },
   {
    "id": "4b0bc169-ce30-43c5-b053-c8978c477134",
@@ -26,7 +27,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "47a7f38b-0e18-48c0-9290-3626479726ed.jpg"
   },
   {
    "id": "8ec115ea-7b61-4d28-b954-a4f36ab93f8a",
@@ -37,7 +39,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "80627f07-6e70-4711-8e6a-0e59948cc0fa.jpg"
   },
   {
    "id": "cc8c6049-aa75-45e7-a7fc-74bc58720ff6",
@@ -53,7 +56,8 @@
     "ru",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "c4c1d374-1f20-4b01-a57b-6d7dafa3132d.jpg"
   },
   {
    "id": "ce068526-df38-45b9-899f-a2a672b4442a",
@@ -64,19 +68,21 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "00263160-50a5-4e3b-a34f-587eb5050320.jpg"
   },
   {
    "id": "27ba3720-2c22-42d2-a168-79ed716fbf2d",
    "title": {
-    "en": "Marshmallow♥Ecchi"
+    "en": "Marshmallow\u2665Ecchi"
    },
    "contentRating": "suggestive",
    "score": 0.31819806,
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "204cdd52-d968-47ce-8024-4349fea4a819.jpg"
   },
   {
    "id": "3bbe3367-b6e1-4c50-b48e-f87fda44e4d4",
@@ -91,7 +97,8 @@
     "fr",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "834983ca-27b1-462d-b5b7-c1460f6bc55c.png"
   },
   {
    "id": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
@@ -102,7 +109,8 @@
    "score": 0.31819806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "276449ee-16d4-4d68-bb7f-d9e0f150c341.jpg"
   },
   {
    "id": "010abcb5-c705-4dcb-a51d-49b2c518b673",
@@ -114,7 +122,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "be050028-1145-4c7d-b724-da6d5e30baa2.png"
   },
   {
    "id": "0e390d0b-aed4-4f06-9f32-9999be1acf88",
@@ -125,7 +134,8 @@
    "score": 0.284605,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f2cd70cb-07d7-4282-b64b-20fbc2571376.jpg"
   },
   {
    "id": "705741ec-021e-421e-8422-96f5d1409258",
@@ -143,7 +153,8 @@
     "pl",
     "it",
     "es-la"
-   ]
+   ],
+   "coverFileName": "32d7045a-2df4-41fd-a815-ede933e17c9d.jpg"
   },
   {
    "id": "3a3bfdbe-0238-4bd1-81e5-bf1bc87b8e20",
@@ -154,8 +165,10 @@
    "score": 0.25980762,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6fa2e10c-2cca-4fc7-bcd0-6aea1a35b3f3.png"
   }
  ],
- "updatedAt": "2021-07-18T06:56:44+00:00"
+ "updatedAt": "2021-07-18T06:56:44+00:00",
+ "coverFileName": "139fa69a-193b-4e2a-9439-affdfe3e8a4d.png"
 }

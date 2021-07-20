@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ffd10199-ae39-4395-b2cb-9d47ba3c2cff.jpg"
   },
   {
    "id": "ca8297db-bf28-4f82-9a21-33c977692b53",
@@ -27,7 +28,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "2348c5d7-78aa-4330-940a-22c65073dfc7.jpg"
   },
   {
    "id": "48571b7d-e0c2-4b71-bce2-6c51749b7d3d",
@@ -38,7 +40,8 @@
    "score": 0.48096037,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e4593ca-612b-4c35-8474-9244db43a859.jpg"
   },
   {
    "id": "17559a18-9ce7-464e-aee1-10ba43c291b8",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "6baeb17c-ada2-4974-98b8-65f61a3e4148.jpg"
   },
   {
    "id": "af415ec1-af38-4cdd-b447-2a832528a0fa",
@@ -61,7 +65,8 @@
    "score": 0.4759984,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e37f8232-03b6-43ba-a3a0-2c5a88f01cff.jpg"
   },
   {
    "id": "5e8308ca-5c5e-4e4d-9a7e-bf91ed65cfae",
@@ -73,7 +78,8 @@
    "languages": [
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "ec046bb1-a396-498b-ba53-a41cfb37e9a1.jpg"
   },
   {
    "id": "4c304cd0-dd8e-49c1-aa47-f6b56ebf1d16",
@@ -84,7 +90,8 @@
    "score": 0.47316456,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "627c2b8d-4699-433d-8396-43c46096bbc7.jpg"
   },
   {
    "id": "64d554d2-1ae8-49ea-8136-896eff558ac1",
@@ -96,7 +103,8 @@
    "languages": [
     "en",
     "hu"
-   ]
+   ],
+   "coverFileName": "acaaf029-46ef-4666-9b89-1af3f7db9fe6.jpg"
   },
   {
    "id": "0ce96a27-1c3b-4a90-ae33-3c5696e96703",
@@ -107,7 +115,8 @@
    "score": 0.47119546,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c72f8d21-35ef-4f0a-8240-f5aa43c4fe90.jpg"
   },
   {
    "id": "7bc46e10-d86d-4789-84cb-d44e538d5484",
@@ -119,19 +128,21 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "7395d932-a8ae-4b1d-ba13-80e647566c13.jpg"
   },
   {
    "id": "fe3447fb-cb75-462b-882b-88e12b69c6bd",
    "title": {
-    "en": "Happy \u0026 Murphy"
+    "en": "Happy & Murphy"
    },
    "contentRating": "safe",
    "score": 0.4706056,
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "698b7852-9d31-4c7e-8a4c-add711d57e4a.jpg"
   },
   {
    "id": "fa327407-4843-44db-9bba-4c4e6d0271a3",
@@ -142,8 +153,10 @@
    "score": 0.46526504,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "59a7e4fa-abf3-4bd0-85af-28950251d78d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:30:22+00:00"
+ "updatedAt": "2021-07-18T06:30:22+00:00",
+ "coverFileName": "0c01f152-dad1-44b1-ab32-5b738a2a9a79.jpg"
 }

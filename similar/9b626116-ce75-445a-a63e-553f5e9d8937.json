@@ -1,7 +1,7 @@
 {
  "id": "9b626116-ce75-445a-a63e-553f5e9d8937",
  "title": {
-  "en": "Girl's☆Complex"
+  "en": "Girl's\u2606Complex"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.50725245,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "71ea833c-3eb4-4693-980e-922c30d97cb9.jpg"
   },
   {
    "id": "1fec680f-b416-4f46-b6a0-a27470871572",
@@ -25,7 +26,8 @@
    "score": 0.4981216,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "978a12db-abe2-4146-917f-9355a092c67d.jpg"
   },
   {
    "id": "36b5f1da-6cc6-4149-a97c-1f8de890d303",
@@ -36,7 +38,8 @@
    "score": 0.4890552,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c87c42d-92d7-4c06-9ea6-2658ffcba5ec.jpg"
   },
   {
    "id": "f12f3563-356d-4a19-879a-8c88d70104ce",
@@ -48,7 +51,8 @@
    "languages": [
     "bg",
     "en"
-   ]
+   ],
+   "coverFileName": "67a46cfa-10e8-4afe-a7f3-9afdf560e559.png"
   },
   {
    "id": "0cc9358f-d0f3-42ed-a146-95604b01c7f0",
@@ -61,7 +65,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "59ad7c3f-f805-4fed-86ca-b3aca39c6bfa.png"
   },
   {
    "id": "2bab1cd3-8415-42c1-8054-8043281279bd",
@@ -73,7 +78,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1eee3833-2570-4464-b518-77e06b5de822.jpg"
   },
   {
    "id": "a901d310-ae15-41a6-80d6-b341fd010e08",
@@ -84,7 +90,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0bc3c64e-8ab9-45aa-91d3-4ba7bc5725fc.jpg"
   },
   {
    "id": "bca1ae45-c5d7-4796-b7b3-57e83f771c6d",
@@ -95,7 +102,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5731b10d-92d9-482d-8e4d-b9d6d96dad89.jpg"
   },
   {
    "id": "e83050bd-99e4-47f6-a764-3469d8088054",
@@ -106,7 +114,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8d477f74-d607-4d5a-923f-ef4f3cce191c.jpg"
   },
   {
    "id": "bc178865-36da-4914-8a43-8978501ec91f",
@@ -117,7 +126,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2b9f7cee-3dd0-4024-acea-3383b0e2ac6e.jpg"
   },
   {
    "id": "4558aaa1-1816-4113-b6d5-b6744524b4c0",
@@ -131,7 +141,8 @@
     "en",
     "tr",
     "pl"
-   ]
+   ],
+   "coverFileName": "72b71131-f758-4a38-87bb-81f094ab4050.jpg"
   },
   {
    "id": "dbb7e0fe-b970-416f-be32-5440f805bf1c",
@@ -143,8 +154,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "f6972325-9556-4544-ad59-3f12d3df9233.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:53:24+00:00"
+ "updatedAt": "2021-07-18T06:53:24+00:00",
+ "coverFileName": "b7634f07-cbff-416c-a4ed-719c4b4f3d86.png"
 }

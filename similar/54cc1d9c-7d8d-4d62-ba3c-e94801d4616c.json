@@ -1,7 +1,7 @@
 {
  "id": "54cc1d9c-7d8d-4d62-ba3c-e94801d4616c",
  "title": {
-  "en": "Shoujo à la Carte"
+  "en": "Shoujo \u00e0 la Carte"
  },
  "contentRating": "safe",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "f425777a-d12b-49a4-9e2a-fc1bec62086f.jpg"
   },
   {
    "id": "077370c8-1bba-4922-aa0a-de65489ce7a2",
@@ -26,7 +27,8 @@
    "score": 0.50558764,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e2c72c47-f9ec-4009-8491-f3316f4c0549.jpg"
   },
   {
    "id": "6a3ec62c-14c6-45a1-8ba2-e6a644795752",
@@ -39,7 +41,8 @@
     "tr",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "0fdffd1c-e472-42ee-a47e-5d116b5cfdc4.jpg"
   },
   {
    "id": "c1c07f2a-bbc0-4609-9747-2f3b3e29b91d",
@@ -51,7 +54,8 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "11a1a14c-c752-4c8c-8e2b-294f9ed8d53c.jpg"
   },
   {
    "id": "c308588c-5bdc-474e-8acc-d4f29f150488",
@@ -69,7 +73,8 @@
     "pt-br",
     "es-la",
     "vi"
-   ]
+   ],
+   "coverFileName": "93c8cafd-32c9-4a6b-b08c-a3694d890ae7.png"
   },
   {
    "id": "d8f3dffd-ef94-4f66-9f39-9d3c01aec232",
@@ -82,7 +87,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "96797428-b0cc-4073-9ecb-e540371fa547.jpg"
   },
   {
    "id": "466d6d09-381b-493e-ab5d-c632b0124c5a",
@@ -93,7 +99,8 @@
    "score": 0.4895213,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8e85c32a-7a9b-4e85-a2df-516b09f799a9.jpg"
   },
   {
    "id": "c3a0a73f-646e-4b46-9aac-7cd080b7ab03",
@@ -111,7 +118,8 @@
     "tr",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "1b8a3dd7-0338-4115-adc0-6648bbb0881d.jpg"
   },
   {
    "id": "ae1eef35-94fd-4b24-8789-fb5013648b12",
@@ -123,7 +131,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "63e8844d-b2d4-4f75-9e09-bd7429a12450.png"
   },
   {
    "id": "706e6421-08e7-4281-adac-9dbc1710f0dc",
@@ -134,7 +143,8 @@
    "score": 0.48900488,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "124892af-b654-4603-8e15-d54cede3d051.jpg"
   },
   {
    "id": "84ba0efc-c404-4d3f-b614-68e3d6ab44b8",
@@ -146,7 +156,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "4d42ac79-a8db-4e72-b488-62ead71ce46f.jpg"
   },
   {
    "id": "002835a6-c7e5-4ec2-a907-dbe32117b104",
@@ -158,8 +169,10 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5d9f9cef-b159-4304-8b36-3e0cfd8b5ce2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:40:15+00:00"
+ "updatedAt": "2021-07-18T06:40:15+00:00",
+ "coverFileName": "8647dc0d-c73e-465b-9c09-c6bdd5f3e9de.jpg"
 }

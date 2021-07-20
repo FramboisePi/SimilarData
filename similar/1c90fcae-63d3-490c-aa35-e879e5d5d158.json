@@ -18,7 +18,8 @@
     "pt-br",
     "ar",
     "ru"
-   ]
+   ],
+   "coverFileName": "e3453336-b67c-4edd-a09f-601ea96d8e5e.jpg"
   },
   {
    "id": "e6a41c45-8715-4db9-82b0-bfd0e1bab5d5",
@@ -29,7 +30,8 @@
    "score": 0.34832668,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "90b7f2ca-699c-49ec-8a81-3e95d3293e31.jpg"
   },
   {
    "id": "40f9bdff-86c7-491a-832f-8ac064dacf09",
@@ -41,7 +43,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "42eda26b-3c3d-46e5-8ba2-e1cd5e233bf4.jpg"
   },
   {
    "id": "2be829dc-af2d-4071-89e2-23627a741f30",
@@ -56,7 +59,8 @@
     "id",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "e7160d7e-01db-4b2c-b21d-e410e833febf.jpg"
   },
   {
    "id": "fb0e2bb0-63ed-4a89-a7a5-c89bb542da43",
@@ -68,19 +72,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "33a4910e-7f6f-43fc-bc91-97e9cb55b633.jpg"
   },
   {
    "id": "5804ee77-488c-441d-ba14-273325fa85c5",
    "title": {
-    "en": "Jacarandá"
+    "en": "Jacarand\u00e1"
    },
    "contentRating": "safe",
    "score": 0.32515866,
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "1ff96aba-c86f-4062-b42d-05c01a4b75f3.jpg"
   },
   {
    "id": "2c252b92-92dc-48f7-987d-8a3078087c0e",
@@ -91,7 +97,8 @@
    "score": 0.32515866,
    "languages": [
     "ru"
-   ]
+   ],
+   "coverFileName": "4b3766ef-d59e-4f76-a27b-663586c615c1.jpg"
   },
   {
    "id": "cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
@@ -106,7 +113,8 @@
     "es-la",
     "id",
     "ru"
-   ]
+   ],
+   "coverFileName": "a64c01f2-de63-4cb1-9352-0b419a26762d.jpg"
   },
   {
    "id": "67ec57a5-84aa-4d07-9c1f-abbc5a0a1bbe",
@@ -120,7 +128,8 @@
     "pt-br",
     "en",
     "ar"
-   ]
+   ],
+   "coverFileName": "f4976f4d-057b-4fad-a288-2af1f46b682f.jpg"
   },
   {
    "id": "a4edc11f-50d6-4fdd-a8b6-c44f6398979c",
@@ -134,7 +143,8 @@
     "id",
     "ru",
     "pl"
-   ]
+   ],
+   "coverFileName": "443a9725-f90a-4bbe-aa9a-2e80d6d82516.png"
   },
   {
    "id": "d3c3e7fd-4456-42b4-86fc-166184832277",
@@ -148,7 +158,8 @@
     "en",
     "tr",
     "fr"
-   ]
+   ],
+   "coverFileName": "a8f29344-4bbe-48c8-a1d3-c0d957b0a80e.jpg"
   },
   {
    "id": "785e7c8f-73e8-44b2-b18c-eba0b083b4f7",
@@ -161,8 +172,10 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "1a75aff1-a455-4a37-93a8-1531110b6b64.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:29:49+00:00"
+ "updatedAt": "2021-07-18T06:29:49+00:00",
+ "coverFileName": "eb5dfd94-ac70-42b6-b92b-0eb3d6781af8.png"
 }

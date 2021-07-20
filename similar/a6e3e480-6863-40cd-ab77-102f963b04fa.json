@@ -15,18 +15,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "264ab632-85b7-4e75-832e-d10da0a03689.jpg"
   },
   {
    "id": "4aae6db2-e828-4775-9bda-6b48639508f8",
    "title": {
-    "en": "Drug \u0026 Drop"
+    "en": "Drug & Drop"
    },
    "contentRating": "safe",
    "score": 0.3085774,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a8c86ffa-f505-4ad5-8ee5-b651b27ba301.jpg"
   },
   {
    "id": "1d972cba-f029-4cb6-bd7b-fb568943746d",
@@ -38,7 +40,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "cec81324-e57c-47d2-bddc-0526eecefcb9.png"
   },
   {
    "id": "8b530af3-b431-48ff-8d37-32b304765503",
@@ -50,7 +53,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d5992df2-9dc7-4d13-be4a-a5ec82271d94.jpg"
   },
   {
    "id": "aec39b35-04a1-41a3-8cd8-99a30626c609",
@@ -61,7 +65,8 @@
    "score": 0.3085774,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3dff20dd-7f54-4479-9b06-64c77c5c5dfe.jpg"
   },
   {
    "id": "1c1dd76d-32ff-4a2d-b52a-0fd8cf7a262a",
@@ -73,7 +78,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "14925332-3ffa-4f2f-84e7-6ffcf491a6ad.jpg"
   },
   {
    "id": "fc8b92b9-b1cd-4a4f-b584-73435547f36c",
@@ -86,7 +92,8 @@
     "en",
     "de",
     "bg"
-   ]
+   ],
+   "coverFileName": "2c8f13b9-ee34-456d-980c-d195063e590b.jpg"
   },
   {
    "id": "dc7a4b2c-d715-481b-8975-5417281852de",
@@ -97,7 +104,8 @@
    "score": 0.28489196,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b81fa2fa-dce4-4e74-9025-6de84482cad6.jpg"
   },
   {
    "id": "f87d443e-0f2e-49bd-8161-6bd2bfd27503",
@@ -109,19 +117,21 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "96946ac3-3f00-4a6c-8150-1e271d60023a.jpg"
   },
   {
    "id": "1f40c364-87ab-4f8e-aa2d-d909ac403c60",
    "title": {
-    "en": "Hakoniwa no Fräulein"
+    "en": "Hakoniwa no Fr\u00e4ulein"
    },
    "contentRating": "safe",
    "score": 0.28174457,
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "4bddc42c-4f45-4e80-ad1e-2122fba894f9.jpg"
   },
   {
    "id": "2a5d5bb8-32a2-4c8e-ad78-4007a189d50c",
@@ -133,7 +143,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "91190d4b-1125-4d9a-a04a-09c53e572501.png"
   },
   {
    "id": "f8acee1f-4aa1-4090-b3fc-9d2b56aafb4d",
@@ -146,8 +157,10 @@
     "hu",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "88bb5366-e2e0-4355-a14e-795c05d41f9e.png"
   }
  ],
- "updatedAt": "2021-07-18T06:55:29+00:00"
+ "updatedAt": "2021-07-18T06:55:29+00:00",
+ "coverFileName": "1b673d36-c3bc-46b0-adfd-a0f033cc33a7.jpg"
 }

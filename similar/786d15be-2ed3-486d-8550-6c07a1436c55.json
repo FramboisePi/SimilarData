@@ -17,7 +17,8 @@
     "id",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "fe111acd-f474-40e7-9650-ee104b98bc90.jpg"
   },
   {
    "id": "05d59e44-d571-4507-8022-b429a4f97c25",
@@ -28,7 +29,8 @@
    "score": 0.50334036,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ca0abb5-2cfd-467c-9102-5f83f46e3a6c.png"
   },
   {
    "id": "b145f724-fe5d-4a59-a48f-e0426db401b7",
@@ -41,7 +43,8 @@
     "th",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "53ae2af8-1fd3-4086-b4b1-19ed342ae5e4.jpg"
   },
   {
    "id": "5d4f3566-e87f-4065-9549-c529346f5f85",
@@ -52,7 +55,8 @@
    "score": 0.44915175,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3faadf1a-5d84-4af5-b60a-ca2f7a705c73.jpg"
   },
   {
    "id": "00904334-01f1-4174-a81e-9170c9f54b97",
@@ -64,7 +68,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "5fa1f009-64d6-45d9-a935-159b43018e41.jpg"
   },
   {
    "id": "fee628c8-f6cb-4137-a649-d7e9f47651c5",
@@ -77,7 +82,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "399a3903-14b8-40d5-a4b4-f9d65c173fad.jpg"
   },
   {
    "id": "390f5ed2-e0cf-49e5-8e00-9be885de3f00",
@@ -88,7 +94,8 @@
    "score": 0.44915175,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f260d497-f48f-4dbf-99a8-bed46b5289f8.jpg"
   },
   {
    "id": "531e5da4-f2fb-49d4-b5db-7b3c97aeecfb",
@@ -99,7 +106,8 @@
    "score": 0.444584,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4ac7080f-9a1c-4f7e-8355-2afab91b9fed.jpg"
   },
   {
    "id": "7e1247a0-551e-452f-bc88-114fbd15c75f",
@@ -110,7 +118,8 @@
    "score": 0.44145617,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "92615e20-cac3-4462-94e3-452bff64b32d.jpg"
   },
   {
    "id": "fbcd7f77-64c1-4844-a0e1-83ddbfccd1c2",
@@ -121,18 +130,20 @@
    "score": 0.43442672,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e7adeea-c7d9-45f9-8333-216b482dfd7b.jpg"
   },
   {
    "id": "4f4146f3-e4ea-4fc2-af7a-01dfe6b85639",
    "title": {
-    "en": "Gisèle Alain"
+    "en": "Gis\u00e8le Alain"
    },
    "contentRating": "safe",
    "score": 0.4240755,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6cc10001-d5d2-4237-a2bb-104c60915476.jpg"
   },
   {
    "id": "3a274463-c15f-4270-a255-b7d20e2a9e19",
@@ -143,8 +154,10 @@
    "score": 0.42150524,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9ce35593-cbba-41e3-9018-b12b17cc97af.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:46:47+00:00"
+ "updatedAt": "2021-07-18T06:46:47+00:00",
+ "coverFileName": "26750a90-925a-465e-b026-6005c4493a2c.jpg"
 }

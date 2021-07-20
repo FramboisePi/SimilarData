@@ -14,7 +14,8 @@
    "score": 0.37771744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3499d259-d7fb-4c30-8dc0-c454deb49384.jpg"
   },
   {
    "id": "46ad0815-0a6e-4e04-9a00-e12f6dc269e1",
@@ -25,7 +26,8 @@
    "score": 0.34862962,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f23b962-52b3-4608-ad7b-750bc797c12e.jpg"
   },
   {
    "id": "1ad0d86e-3ee6-4cf2-81a8-fe713701d001",
@@ -39,7 +41,8 @@
     "id",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "d9de74b6-6522-4904-9773-f32e6c425378.png"
   },
   {
    "id": "a0964720-4cfd-4252-908a-142153e89e98",
@@ -50,7 +53,8 @@
    "score": 0.32739642,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b8762e40-7732-4961-ba60-738956e63ef5.png"
   },
   {
    "id": "e94f42aa-559b-4524-b793-38cf05974ede",
@@ -61,7 +65,8 @@
    "score": 0.32359555,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "97b39442-b31e-4476-9b18-c9e239f838ab.jpg"
   },
   {
    "id": "5e0b8b54-def9-429e-aa12-82beab02b6df",
@@ -72,7 +77,8 @@
    "score": 0.32359555,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6f109d83-8dfa-4357-8299-2e69137b3bfa.jpg"
   },
   {
    "id": "88b11337-ea88-4775-86d7-2255fb25ebe4",
@@ -85,7 +91,8 @@
     "pl",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "851e5ee8-3f65-4b92-b4ac-7a95755cae1e.png"
   },
   {
    "id": "394d416e-d480-4119-8ddb-b5455abcd8cc",
@@ -97,7 +104,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "4a9e43c7-265a-43fd-ad0f-3f53e6b49a8f.jpg"
   },
   {
    "id": "2f46b87a-00dd-4cd3-bf47-68126fb05793",
@@ -108,7 +116,8 @@
    "score": 0.31604457,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d4a4adba-e870-4363-86e0-1ad0bd696ac1.jpg"
   },
   {
    "id": "3dda2717-822f-45a8-95ac-53445c2659cf",
@@ -120,18 +129,20 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "e2590a4d-f4eb-4092-9d38-3c1bfc9bfb2f.jpg"
   },
   {
    "id": "9e502aaa-aa7e-4bef-928d-5f2f1623552a",
    "title": {
-    "en": "Daydream★Nightmare"
+    "en": "Daydream\u2605Nightmare"
    },
    "contentRating": "safe",
    "score": 0.3138279,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "821cc6e5-85c5-4d10-9b09-61effb9cb121.jpg"
   },
   {
    "id": "745e0257-dd6a-457c-bca1-ca25e077a5d1",
@@ -143,8 +154,10 @@
    "languages": [
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "495c9843-0837-4854-b1d2-f2df896bafe4.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:57:36+00:00"
+ "updatedAt": "2021-07-18T06:57:36+00:00",
+ "coverFileName": "b933710d-1dc0-47a6-92db-ee6d9d1093a3.jpg"
 }

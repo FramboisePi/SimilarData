@@ -8,7 +8,7 @@
   {
    "id": "d08deb4f-7915-426b-91b4-df50a51e9fce",
    "title": {
-    "en": "Shitai no ♡ Karen-san!!"
+    "en": "Shitai no \u2661 Karen-san!!"
    },
    "contentRating": "suggestive",
    "score": 0.28183067,
@@ -16,7 +16,8 @@
     "en",
     "es-la",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "24c2e9a6-3f98-4e43-be1c-7583096d109a.jpg"
   },
   {
    "id": "3a3bfdbe-0238-4bd1-81e5-bf1bc87b8e20",
@@ -27,7 +28,8 @@
    "score": 0.2809859,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "6fa2e10c-2cca-4fc7-bcd0-6aea1a35b3f3.png"
   },
   {
    "id": "a2465ec2-0c0d-4789-a10f-416405f96894",
@@ -40,7 +42,8 @@
     "fr",
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "99468bae-f6db-4b06-a8b2-85eebed41708.jpg"
   },
   {
    "id": "02224f3d-1927-4738-ab43-6948b5b0e966",
@@ -51,7 +54,8 @@
    "score": 0.24334091,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3f79f662-b2f4-477d-9fb9-29bf47f8291b.jpg"
   },
   {
    "id": "8c670b31-21fc-487c-89fb-93d8c53b899c",
@@ -62,7 +66,8 @@
    "score": 0.2428397,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "cc6c1b75-7a16-4aee-8635-91b569fc7bd3.jpg"
   },
   {
    "id": "e8e8eda2-308c-4fb1-882b-519804c1c81d",
@@ -73,7 +78,8 @@
    "score": 0.23940359,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5cd1eb68-b328-4899-949b-c7a02b5b1a2e.jpg"
   },
   {
    "id": "2da64063-0eec-4bd7-9ee0-052240e33535",
@@ -84,7 +90,8 @@
    "score": 0.23940359,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "45effd5d-87b7-4cfc-8127-13f8e897f35a.jpg"
   },
   {
    "id": "a9cfa101-8924-4dab-8e38-9516d921f3b8",
@@ -97,7 +104,8 @@
     "es",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "4ec4fe20-29e8-44c2-853b-8e65df4cbd7d.jpg"
   },
   {
    "id": "43826df4-7367-4326-a039-e7fa2639b7f0",
@@ -108,7 +116,8 @@
    "score": 0.23180152,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1039bcde-e067-4b21-ab85-09ef8fc4e508.jpg"
   },
   {
    "id": "97a9d64c-7e16-4484-b3a4-cb1b5e2b1c29",
@@ -121,7 +130,8 @@
     "en",
     "id",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "5b8655f3-ecb8-4893-9f57-ffef99528200.jpg"
   },
   {
    "id": "23666ee3-fe24-4728-b52d-dc808dfe19b0",
@@ -136,7 +146,8 @@
     "ru",
     "de",
     "pl"
-   ]
+   ],
+   "coverFileName": "843b1f57-4e89-44ac-bd87-89c4ffe13519.png"
   },
   {
    "id": "a271a9bd-eb46-4c40-b773-a2b0070b3b63",
@@ -148,8 +159,10 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "fd508f75-2ed6-483c-aa06-059ba04f75bf.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:32:20+00:00"
+ "updatedAt": "2021-07-18T06:32:20+00:00",
+ "coverFileName": "df7fcae3-560f-4192-b7eb-d64a9179e550.jpg"
 }

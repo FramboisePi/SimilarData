@@ -17,7 +17,8 @@
     "fr",
     "es-la",
     "pl"
-   ]
+   ],
+   "coverFileName": "e1ee8283-a2d1-4991-bdf9-715d52ad3203.png"
   },
   {
    "id": "14b15353-6b05-4b79-abb7-474dc4281547",
@@ -28,7 +29,8 @@
    "score": 0.41673744,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4c0c7e7c-84f7-4d0f-8af2-ac1d1fc0bea0.jpg"
   },
   {
    "id": "3dcfa2f1-439b-451e-ac42-4d01a9feea93",
@@ -40,7 +42,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "96abae29-98c1-4ea0-a24b-29716d7775dd.jpg"
   },
   {
    "id": "6e4ab519-495f-4dc9-9f8a-00f18de96fe8",
@@ -54,7 +57,8 @@
     "pl",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "afd51888-3e45-4101-8993-e0afc677c52e.jpg"
   },
   {
    "id": "e8d707b4-298d-48ee-91de-d3371de5aa22",
@@ -67,7 +71,8 @@
     "en",
     "es-la",
     "fr"
-   ]
+   ],
+   "coverFileName": "a93ea5f3-836b-40fa-95c8-117055a787ea.png"
   },
   {
    "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
@@ -80,7 +85,8 @@
     "fr",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "3e4df766-5e0d-4600-8d80-cd5fef9fe601.png"
   },
   {
    "id": "404ac9b4-ee09-42cc-b582-b611ee88731f",
@@ -96,7 +102,8 @@
     "id",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "c71cab8b-2951-4951-bc83-93324c269ac8.jpg"
   },
   {
    "id": "83328446-ba9b-467d-83d1-37241f1ab4d2",
@@ -110,7 +117,8 @@
     "pt-br",
     "fr",
     "ru"
-   ]
+   ],
+   "coverFileName": "1abbd1ca-4a2c-4f89-9066-af9ae0b4713c.jpg"
   },
   {
    "id": "267db3f7-fd9c-4395-ac36-9ffacd772473",
@@ -126,7 +134,8 @@
     "pl",
     "fr",
     "es"
-   ]
+   ],
+   "coverFileName": "35441289-0b92-478d-b85e-eff93b8f65ff.jpg"
   },
   {
    "id": "46e530ce-0766-4cbd-b005-5e6fb0ba5e71",
@@ -142,12 +151,13 @@
     "en",
     "ar",
     "de"
-   ]
+   ],
+   "coverFileName": "de50cf90-2b2b-4388-8880-070e9ba44732.jpg"
   },
   {
    "id": "8acdc047-6c6b-4603-8ee9-55f03421fceb",
    "title": {
-    "en": "Doctor’s Rebirth"
+    "en": "Doctor\u2019s Rebirth"
    },
    "contentRating": "safe",
    "score": 0.37147707,
@@ -156,7 +166,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "37ed2675-ca5a-4669-8abf-e2d324e6057e.jpg"
   },
   {
    "id": "1873d8af-59bf-467c-843e-47032d6888c8",
@@ -171,8 +182,10 @@
     "ru",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "e233fffc-6c82-4775-80eb-9d3c180c6f2a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:24:47+00:00"
+ "updatedAt": "2021-07-18T06:24:47+00:00",
+ "coverFileName": "6e5fe54b-d7dd-4732-91cf-2b0834aadf1a.jpg"
 }

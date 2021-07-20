@@ -14,7 +14,8 @@
    "score": 0.6699418,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0b280572-752c-493a-a68f-c1192165b2f3.jpg"
   },
   {
    "id": "8afdf4c6-af1e-435b-b411-6b4c63d1c127",
@@ -25,7 +26,8 @@
    "score": 0.5894853,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e60257e-b1b2-484d-96af-8375240b8f5e.jpg"
   },
   {
    "id": "140b811d-11a7-4991-ad03-2c6bdd3d2bcb",
@@ -40,7 +42,8 @@
     "en",
     "pl",
     "de"
-   ]
+   ],
+   "coverFileName": "8026978b-ef6d-4e77-b415-1b31d712d7a9.jpg"
   },
   {
    "id": "cf2c3dad-c588-4b48-bdb5-6f85b2774b4e",
@@ -51,7 +54,8 @@
    "score": 0.43335536,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a16eace-482c-4f2f-a487-d6c9197a648e.png"
   },
   {
    "id": "6e7cf54c-beea-45db-8996-45263a778e91",
@@ -62,7 +66,8 @@
    "score": 0.43303692,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1f624eb3-c54e-425e-918f-52ba0fcfe8f2.jpg"
   },
   {
    "id": "65b12cd1-023f-424d-a0df-e93eea8c8e76",
@@ -73,7 +78,8 @@
    "score": 0.42186728,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "e53bd1c1-998a-4aa0-9d0a-3294d5d18243.jpg"
   },
   {
    "id": "78df8df7-0886-4d37-8da6-ef4fa0877d8a",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "002522f6-ae26-4f9f-b544-f20fc8a53bd6.jpg"
   },
   {
    "id": "f2c1b1f6-4878-4ce9-a206-bd930d9a4a1c",
@@ -96,7 +103,8 @@
    "score": 0.4085348,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4a67f4cd-92f3-46f1-84ac-7073a28b6443.jpg"
   },
   {
    "id": "7e50dec3-4e8e-4702-9468-d12dfe897f81",
@@ -108,7 +116,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "840db785-4a8b-4e9e-a0b7-43c4751bac00.png"
   },
   {
    "id": "89b4167b-e511-4979-b8fd-bb77c094f222",
@@ -119,18 +128,20 @@
    "score": 0.408181,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b430d47f-3907-4e26-b151-c6121ead5325.png"
   },
   {
    "id": "35a904af-c213-46e9-8b3f-de5f78d182a8",
    "title": {
-    "en": "Iincho wa ♂"
+    "en": "Iincho wa \u2642"
    },
    "contentRating": "suggestive",
    "score": 0.40548423,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "57f87e78-0e38-45f5-a1df-6b68036ec299.png"
   },
   {
    "id": "08b161a1-38b2-4fe5-9f80-04cc64fd23b0",
@@ -141,8 +152,10 @@
    "score": 0.40439045,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "78a62653-25ab-4c99-ba57-5fe85a194aff.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:51:12+00:00"
+ "updatedAt": "2021-07-18T06:51:12+00:00",
+ "coverFileName": "72fababa-4517-47b4-990f-fea48557d1b8.png"
 }

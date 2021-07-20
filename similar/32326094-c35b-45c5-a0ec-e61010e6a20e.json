@@ -16,7 +16,8 @@
     "en",
     "pl",
     "es"
-   ]
+   ],
+   "coverFileName": "1ac7428d-44e3-4c21-8a17-ff51c2d3f6f3.jpg"
   },
   {
    "id": "4cb24b33-59db-4726-ac1f-3dc4835aeac5",
@@ -28,7 +29,8 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "daddb25c-6b11-42a3-8ea8-0e8d4e0b1193.jpg"
   },
   {
    "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
@@ -40,7 +42,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "2f20ecb0-b731-4d83-abbd-d1ea399c553d.jpg"
   },
   {
    "id": "2e49632c-c3c6-443a-a86d-f588f331eef2",
@@ -54,7 +57,8 @@
     "es",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "0cc919b3-c5be-44b6-9e6f-4b89f49bc1a1.jpg"
   },
   {
    "id": "cbcf5051-74a0-4b93-b99c-1a6975f1bef9",
@@ -69,7 +73,8 @@
     "pt-br",
     "en",
     "th"
-   ]
+   ],
+   "coverFileName": "a9eb949b-b86a-484a-8aa6-a4fd97fdd8ab.jpg"
   },
   {
    "id": "f89ed64d-e0ce-4aba-802c-f45e83cec306",
@@ -80,7 +85,8 @@
    "score": 0.38031942,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5e6ab1aa-d577-4f25-807e-17f041e50379.jpg"
   },
   {
    "id": "8d8adda7-c3a6-468a-9cee-96f4f7398e28",
@@ -92,7 +98,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "a59c97f9-0591-4228-80ef-bfd496d4eaba.jpg"
   },
   {
    "id": "cfc66fdf-bb7e-4980-8117-bfa8391e64c0",
@@ -103,7 +110,8 @@
    "score": 0.37726453,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9320232d-a54d-4a99-b232-a476d414c479.jpg"
   },
   {
    "id": "78132cfa-1b13-4efb-8e76-8a4eeefc4586",
@@ -115,7 +123,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "958a29e0-0177-4d27-8aa4-56868fa3de27.jpg"
   },
   {
    "id": "ce9be7a2-721a-4710-a76d-b7c4af970bd1",
@@ -130,12 +139,13 @@
     "pt-br",
     "fr",
     "it"
-   ]
+   ],
+   "coverFileName": "68d45ba8-837d-4218-859b-78e04c72c5cb.jpg"
   },
   {
    "id": "cbce49c7-6311-4955-8b10-1005775d5cee",
    "title": {
-    "en": "The Strongest Dull Prince’s Secret Battle for the Throne"
+    "en": "The Strongest Dull Prince\u2019s Secret Battle for the Throne"
    },
    "contentRating": "suggestive",
    "score": 0.3619446,
@@ -146,7 +156,8 @@
     "fr",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "e721705f-31f1-4938-b9f0-06de52121d42.jpg"
   },
   {
    "id": "0e5dc0f1-d7d7-4b1b-93a9-698c48703bb1",
@@ -157,8 +168,10 @@
    "score": 0.36002162,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b31a9b34-a4ae-4311-8af6-596a4981ed60.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:33:49+00:00"
+ "updatedAt": "2021-07-18T06:33:49+00:00",
+ "coverFileName": "901bb56d-cfba-476a-9fe9-867793293eb4.jpg"
 }

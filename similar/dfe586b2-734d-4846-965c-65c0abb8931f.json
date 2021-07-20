@@ -1,7 +1,7 @@
 {
  "id": "dfe586b2-734d-4846-965c-65c0abb8931f",
  "title": {
-  "en": "Don't Mind ★ Count Fruit Punch Sensei!!"
+  "en": "Don't Mind \u2605 Count Fruit Punch Sensei!!"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.41755617,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "24ee735d-eeee-4ace-b9ac-67189a886d04.jpg"
   },
   {
    "id": "e460e77b-c73a-4e7c-8240-4ee20288e928",
@@ -27,7 +28,8 @@
     "tr",
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "1d8d5795-b3d3-4ae2-b1e0-9e23271e10c1.jpg"
   },
   {
    "id": "9fecbee0-370c-4c20-a54b-32fe40854b14",
@@ -40,7 +42,8 @@
     "en",
     "pt-br",
     "id"
-   ]
+   ],
+   "coverFileName": "57a3c8db-4d19-4a00-8820-d514765a2b3a.jpg"
   },
   {
    "id": "fdca13c4-fc7f-4c3d-8860-ad991aa3297c",
@@ -51,7 +54,8 @@
    "score": 0.4161647,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "19d9a5a6-64a1-41d6-ab9a-aad92a6cb768.jpg"
   },
   {
    "id": "7a75494f-6936-47c3-b9b8-a2e44e526de0",
@@ -62,7 +66,8 @@
    "score": 0.40001768,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "bd8f35fc-626e-4ae0-9f62-193d79f7cf3e.jpg"
   },
   {
    "id": "48905e2d-4fe6-4f4d-90bc-bfe6e60b82c1",
@@ -79,7 +84,8 @@
     "pt-br",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "636e136f-d9b0-4e25-a942-4c0ef9068918.jpg"
   },
   {
    "id": "07a5b8a8-5452-4751-bbad-d93b703122e6",
@@ -92,7 +98,8 @@
     "fr",
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "63e38e32-4e45-4de9-8a09-05adea08830f.jpg"
   },
   {
    "id": "ee055a12-7927-4f26-b1c1-f626cd12de89",
@@ -104,7 +111,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "09397dd5-5ebb-49d2-aa1e-3c42bfae9e40.jpg"
   },
   {
    "id": "0ce96a27-1c3b-4a90-ae33-3c5696e96703",
@@ -115,7 +123,8 @@
    "score": 0.3871974,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c72f8d21-35ef-4f0a-8240-f5aa43c4fe90.jpg"
   },
   {
    "id": "3041720b-1f13-4aee-942c-d747ef0e2666",
@@ -126,7 +135,8 @@
    "score": 0.3866931,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "dbc30cb7-b901-4ac0-9066-6b003e83eec5.jpg"
   },
   {
    "id": "1a1f671e-4611-4807-bf8a-e4e62d8cd5a5",
@@ -139,7 +149,8 @@
     "pl",
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "036bf01d-3f1f-46f0-9ad7-20613f75ba0c.jpg"
   },
   {
    "id": "4a3f3a66-85bb-4c9d-9b10-5c4d80206b1d",
@@ -151,8 +162,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "c69a0679-9b60-4fde-95e0-6f97ffba5c82.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:05:57+00:00"
+ "updatedAt": "2021-07-18T07:05:57+00:00",
+ "coverFileName": "cdf4bf42-24b9-4958-8f8e-ecc7384bcf7f.jpg"
 }

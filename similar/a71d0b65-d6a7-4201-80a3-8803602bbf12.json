@@ -1,7 +1,7 @@
 {
  "id": "a71d0b65-d6a7-4201-80a3-8803602bbf12",
  "title": {
-  "en": "Charlotte’s Letter"
+  "en": "Charlotte\u2019s Letter"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "fr",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "5ab17d5a-8460-4839-9ef1-1b4e16f7aec2.jpg"
   },
   {
    "id": "a3ba9898-06cd-443c-915e-96e39669c73e",
@@ -33,7 +34,8 @@
     "es-la",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "1b60433b-dd61-4288-9abf-01753f69c13e.jpg"
   },
   {
    "id": "3b0906ef-7c17-485d-be0c-d39b7900763c",
@@ -46,7 +48,8 @@
     "en",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "cf9c1871-7290-44db-a12e-1461c5d07652.jpg"
   },
   {
    "id": "3ecdc4ed-aabf-4abc-8504-9eabe5afd2ac",
@@ -66,7 +69,8 @@
     "tr",
     "pt-br",
     "es-la"
-   ]
+   ],
+   "coverFileName": "fdb69ea8-a295-40ae-8d1b-b624427198bf.jpg"
   },
   {
    "id": "39e55355-dfb4-44e9-bd0b-df1fc3a0e33e",
@@ -84,12 +88,13 @@
     "es",
     "id",
     "hu"
-   ]
+   ],
+   "coverFileName": "cef2729e-ce62-4ce3-ad29-6cb3f00c95c1.jpg"
   },
   {
    "id": "73886188-f459-4b80-8781-66a60520b420",
    "title": {
-    "en": "A Stepmother's Märchen"
+    "en": "A Stepmother's M\u00e4rchen"
    },
    "contentRating": "safe",
    "score": 0.3441984,
@@ -99,7 +104,8 @@
     "en",
     "vi",
     "id"
-   ]
+   ],
+   "coverFileName": "3fb8618f-8e43-4b1b-9bf5-67c3e2e465e4.jpg"
   },
   {
    "id": "b62971df-0e2b-4d37-bc82-821efa10e2e1",
@@ -113,7 +119,8 @@
     "id",
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "5be73020-4e67-44f3-96d7-ae6178a7ef9b.jpg"
   },
   {
    "id": "77428268-16b7-429f-b028-14793e93bf26",
@@ -125,7 +132,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "c9cff21c-696a-446d-95ab-3558f6fd9b04.jpg"
   },
   {
    "id": "2c3dfd45-b67d-4cbe-a20a-a884a4d04440",
@@ -137,7 +145,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "55a858ae-34d8-4af7-a88d-bf770f7a4dfc.jpg"
   },
   {
    "id": "66558622-370b-473b-a968-fa9f71696f7b",
@@ -152,7 +161,8 @@
     "es-la",
     "id",
     "mn"
-   ]
+   ],
+   "coverFileName": "c3994629-e7e9-4ef0-bc57-de3dd440785b.jpg"
   },
   {
    "id": "7f26490a-c2ab-4a50-b653-d6f555f07ed6",
@@ -164,7 +174,8 @@
    "languages": [
     "en",
     "es-la"
-   ]
+   ],
+   "coverFileName": "5c15ef82-7cc3-46bd-875f-3fb87d68b740.jpg"
   },
   {
    "id": "b9170530-88ff-4e39-8f68-e11a17a89770",
@@ -180,8 +191,10 @@
     "mn",
     "pt-br",
     "it"
-   ]
+   ],
+   "coverFileName": "0443d4f5-c24c-43c2-b3a4-554e5ba67fb0.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:31+00:00"
+ "updatedAt": "2021-07-18T06:55:31+00:00",
+ "coverFileName": "f36bed94-3be9-4649-abe0-db8bb94c2205.jpg"
 }

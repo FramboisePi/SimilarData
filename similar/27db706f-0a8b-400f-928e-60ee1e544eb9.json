@@ -1,31 +1,33 @@
 {
  "id": "27db706f-0a8b-400f-928e-60ee1e544eb9",
  "title": {
-  "en": "Lamento – Come into Blossom"
+  "en": "Lamento \u2013 Come into Blossom"
  },
  "contentRating": "safe",
  "matches": [
   {
    "id": "68cb28da-ea56-458c-9b34-b39cfde2b974",
    "title": {
-    "en": "Lamento – Magnolia"
+    "en": "Lamento \u2013 Magnolia"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "97a6c9cc-e3fd-4d1f-86ff-9bb1657c9b2d.png"
   },
   {
    "id": "76d5aead-ebc8-4eb5-ba0a-3e404aa10210",
    "title": {
-    "en": "Togainu no Chi – Maximum Impulse"
+    "en": "Togainu no Chi \u2013 Maximum Impulse"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "94d90c4a-730f-4dbf-b902-3517b6e47177.jpg"
   },
   {
    "id": "f1c0267f-1812-4dd7-988b-da46a43ffce6",
@@ -36,18 +38,20 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "e569edd2-4b77-49d1-83aa-3f4a0382dccb.png"
   },
   {
    "id": "510b6556-40cb-4611-8483-f89e317fec26",
    "title": {
-    "en": "Togainu no Chi – Domestic Vermillion"
+    "en": "Togainu no Chi \u2013 Domestic Vermillion"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "302bbd3a-5660-4607-89f9-2d9e63446b13.jpg"
   },
   {
    "id": "f0600194-5833-4ed8-aef4-aff0c5f394b2",
@@ -58,18 +62,20 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "87e691ed-9d19-4fd4-a030-51356cf16c42.jpg"
   },
   {
    "id": "b62e7568-ebab-4441-b5cf-25c22754015d",
    "title": {
-    "en": "Lamento – Scraps"
+    "en": "Lamento \u2013 Scraps"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "4b850f35-9c68-41c1-bff2-2b771680761e.jpg"
   },
   {
    "id": "09f7eab5-9595-436f-86cc-df48fa0e5ca7",
@@ -81,40 +87,44 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "9b4749d8-3077-459e-8a67-75a0ff9f58fa.jpg"
   },
   {
    "id": "e39b29e1-5b03-48f6-a7ca-e1a203288c5a",
    "title": {
-    "en": "Lamento – Overflow"
+    "en": "Lamento \u2013 Overflow"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "fbd4d9e4-56af-4615-8877-71ef7a2f15cc.png"
   },
   {
    "id": "5c740a42-b2bd-4df4-b9ae-ed1da5efdd5c",
    "title": {
-    "en": "Togainu no Chi – Mekakushi Oni"
+    "en": "Togainu no Chi \u2013 Mekakushi Oni"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "b7ab17a6-2daa-461c-9640-3d4eeff77519.jpg"
   },
   {
    "id": "7b1d603e-f5bb-4894-86f8-ba49271d2ab3",
    "title": {
-    "en": "Psycho-Pass – Platonic Garden"
+    "en": "Psycho-Pass \u2013 Platonic Garden"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "34f16328-00a4-4371-b8e0-54849b89c49e.jpg"
   },
   {
    "id": "97e797ff-724f-4515-99b7-ee72505a47f7",
@@ -125,7 +135,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "2fa9a97a-d99a-4cc7-b699-547300632fab.jpg"
   },
   {
    "id": "3ba371da-486b-48e5-993c-1d6916005491",
@@ -136,8 +147,10 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "e5416034-0b13-4ae6-82ff-1d93dd62b2b0.png"
   }
  ],
- "updatedAt": "2021-07-18T06:31:55+00:00"
+ "updatedAt": "2021-07-18T06:31:55+00:00",
+ "coverFileName": "eb961da1-09d2-4a31-8ecd-4a4577f13283.jpg"
 }

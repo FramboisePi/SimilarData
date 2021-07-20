@@ -1,7 +1,7 @@
 {
  "id": "1b8d80df-9475-4505-9c6d-bdced924558f",
  "title": {
-  "en": "Heaven \u0026 Hell Roman Company"
+  "en": "Heaven & Hell Roman Company"
  },
  "contentRating": "safe",
  "matches": [
@@ -16,7 +16,8 @@
     "pt-br",
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "3b104d69-1544-4eeb-8510-8b7b65d1790e.jpg"
   },
   {
    "id": "eeb3e14e-512b-4b0a-b2a7-b65e01e0c075",
@@ -29,7 +30,8 @@
     "en",
     "tr",
     "es-la"
-   ]
+   ],
+   "coverFileName": "b79fc519-97df-4d2c-9c7f-c7ce8a936aa3.jpg"
   },
   {
    "id": "875a914c-2198-4a99-9d03-5d5bd979312b",
@@ -41,7 +43,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1d4b4afb-d9a1-446b-a415-d93cce996bdc.png"
   },
   {
    "id": "22dff274-8ea6-4d6b-b0e9-6c400d588ed1",
@@ -53,7 +56,8 @@
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3e61e5e0-35d2-4bd8-bc90-f29a94ff0db8.jpg"
   },
   {
    "id": "7eecac8a-1002-4ab9-9de3-40eb47655fa8",
@@ -65,7 +69,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "fde65b28-b818-44be-a964-056bc282294c.png"
   },
   {
    "id": "70320653-2796-4de0-824b-4c0f631a9013",
@@ -78,7 +83,8 @@
     "ru",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "cfff1eb5-4feb-4619-a695-f05a45c220b8.jpg"
   },
   {
    "id": "82cf0018-d918-46e6-9a61-9893d97b09ac",
@@ -93,7 +99,8 @@
     "fr",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "c41cc205-eb70-4fbf-acb3-4035effb52ed.png"
   },
   {
    "id": "fb0974dd-b7f2-4418-92af-2f553d296b80",
@@ -105,7 +112,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "ff6fed91-b249-44db-8ec5-9ca9d2027a6f.jpg"
   },
   {
    "id": "993faace-9dad-4cb2-93ec-3d83c0628b46",
@@ -119,7 +127,8 @@
     "en",
     "es-la",
     "id"
-   ]
+   ],
+   "coverFileName": "67fd120d-baac-4487-bb24-57a2a458febb.jpg"
   },
   {
    "id": "6702b8fd-2b11-466c-9fd7-1d96361b874d",
@@ -132,7 +141,8 @@
     "pl",
     "en",
     "it"
-   ]
+   ],
+   "coverFileName": "18bace5c-f69a-4f87-905f-90e3e6190192.png"
   },
   {
    "id": "153a87d3-7c9c-4d3e-8855-ddc53d101f8c",
@@ -144,7 +154,8 @@
    "languages": [
     "en",
     "tr"
-   ]
+   ],
+   "coverFileName": "d1c2f252-8521-482c-9782-0ff62e79c279.jpg"
   },
   {
    "id": "4c64ea1a-0ad3-4d12-b613-c33fee549673",
@@ -156,8 +167,10 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "d91e73c7-0f01-4009-8512-869224dcd135.png"
   }
  ],
- "updatedAt": "2021-07-18T06:29:37+00:00"
+ "updatedAt": "2021-07-18T06:29:37+00:00",
+ "coverFileName": "e87b4a76-3d2f-43af-a9aa-604b6f0d39d6.jpg"
 }

@@ -8,14 +8,15 @@
   {
    "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
    "title": {
-    "en": "Dogs / Bullets \u0026 Carnage"
+    "en": "Dogs / Bullets & Carnage"
    },
    "contentRating": "safe",
    "score": 0.377361,
    "languages": [
     "en",
     "bg"
-   ]
+   ],
+   "coverFileName": "37bbdee6-8ec1-4bbd-ab98-f2315637ac14.jpg"
   },
   {
    "id": "89c37252-b871-42fc-8043-9bca82c6a340",
@@ -31,7 +32,8 @@
     "pl",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "67f0ba8a-5ef8-48fc-a777-ee9baf27f160.png"
   },
   {
    "id": "d9452808-1c18-49f2-8575-682ed8531aaa",
@@ -42,7 +44,8 @@
    "score": 0.3539573,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "068461e4-abd3-45f1-9d20-fa31e9137f98.jpg"
   },
   {
    "id": "db2193b1-763e-405b-a290-6113599f24c0",
@@ -53,7 +56,8 @@
    "score": 0.35188794,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "02d9824b-e663-4aa7-8d92-0c19d579eb50.jpg"
   },
   {
    "id": "12516ba2-94b0-4a20-abff-f1e488e0da39",
@@ -69,7 +73,8 @@
     "en",
     "tr",
     "id"
-   ]
+   ],
+   "coverFileName": "7a87d701-9113-4c5c-9afe-0a7cb6c57ed8.png"
   },
   {
    "id": "2615295b-f643-45b2-970f-443c9455918e",
@@ -84,7 +89,8 @@
     "es-la",
     "tr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "b9e31c1e-c747-4367-8eac-9c2bc4c8a0ae.png"
   },
   {
    "id": "dcb9341c-ecb1-4086-aad8-c62ac7b9ab7e",
@@ -95,7 +101,8 @@
    "score": 0.3297927,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ac9a556-5ba9-4bde-90bf-4b6d015b21b1.jpg"
   },
   {
    "id": "feae68c5-11cd-4b88-a220-39d7fa653c11",
@@ -111,7 +118,8 @@
     "pt-br",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "3fdf0e0f-5741-439c-b087-8891a8308741.jpg"
   },
   {
    "id": "37f6ed0c-effe-4542-a98a-0594aa3d46f3",
@@ -124,7 +132,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ec44647d-05db-4d02-8317-5b632e7804cf.jpg"
   },
   {
    "id": "8bcdbfe3-3424-4978-a48d-17d1b968ddd7",
@@ -135,7 +144,8 @@
    "score": 0.31887585,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3ee748e1-eb94-4d14-ba0e-b89be1f14e62.jpg"
   },
   {
    "id": "8e781047-93b5-45ee-89ff-c84ca401df4f",
@@ -147,7 +157,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "04d3f4f4-546b-4e52-a21b-c3a4919ffd8b.jpg"
   },
   {
    "id": "77a39772-0dda-442d-adb8-d6b36bc0901b",
@@ -159,8 +170,10 @@
    "languages": [
     "id",
     "en"
-   ]
+   ],
+   "coverFileName": "7ea361a6-3163-4bca-9c5f-e549172dbebe.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:09:52+00:00"
+ "updatedAt": "2021-07-18T07:09:52+00:00",
+ "coverFileName": "f1774176-f51d-4b7b-8de9-f885c1f9fa63.jpg"
 }

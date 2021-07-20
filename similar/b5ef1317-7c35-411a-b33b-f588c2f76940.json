@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "81ea5051-8d75-4ba3-916f-1fa5cd09c7eb.jpg"
   },
   {
    "id": "85c7d0d1-cd6f-47c0-a2be-64154df87d1a",
@@ -30,7 +31,8 @@
     "ca",
     "es",
     "id"
-   ]
+   ],
+   "coverFileName": "c3a42417-c8c0-4e7e-a917-0720eac7bd20.jpg"
   },
   {
    "id": "badbd694-cde2-410f-b12d-45f3eadfea9c",
@@ -43,7 +45,8 @@
     "pt-br",
     "fr",
     "en"
-   ]
+   ],
+   "coverFileName": "1c30b1a2-62f6-4647-8167-d8293fed5d3b.jpg"
   },
   {
    "id": "18d4293c-bd6a-4d60-9178-9888e4cd7cbe",
@@ -54,7 +57,8 @@
    "score": 0.35931924,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d0cf8f06-bc65-45db-ac8a-4476c2dc86c5.png"
   },
   {
    "id": "fbf95c63-dc64-4518-9ed8-362805165fd6",
@@ -70,7 +74,8 @@
     "fr",
     "id",
     "pl"
-   ]
+   ],
+   "coverFileName": "1ea0f3ca-af53-4ca2-98c2-145b094213cf.jpg"
   },
   {
    "id": "4f2a1c74-f2b8-4e4d-a094-959330674ee7",
@@ -81,7 +86,8 @@
    "score": 0.3409278,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "9e41ce3b-15db-4f5b-8d0d-4570601b7afd.jpg"
   },
   {
    "id": "1c914312-1c6a-4b6d-89b5-ad77904caa70",
@@ -92,7 +98,8 @@
    "score": 0.33981603,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3aec6a38-5362-42d5-b58d-37bc9ce39073.jpg"
   },
   {
    "id": "9158f0fe-e78b-4781-a7a0-c894fe22a62b",
@@ -103,7 +110,8 @@
    "score": 0.33948478,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "763e9c4f-4ef7-4919-aa29-575b6f722419.jpg"
   },
   {
    "id": "f0fd2156-8ad6-4ba5-9ded-de62f93b2712",
@@ -115,7 +123,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "9031802d-199a-476e-bd90-2c74143c2268.png"
   },
   {
    "id": "08a8e772-e878-40e8-951a-c49d99ee6291",
@@ -126,7 +135,8 @@
    "score": 0.3375,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "39870833-221e-4d76-9b88-a6bdfc1d9ed7.jpg"
   },
   {
    "id": "3786081c-6006-47c6-b5d6-7127121461d9",
@@ -139,19 +149,22 @@
     "en",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "43ad6f61-df38-4d0e-9f94-01f4b5fdfa3a.jpg"
   },
   {
    "id": "92e93403-a22f-4488-bb40-f7388c781ef9",
    "title": {
-    "en": "MÄR Omega"
+    "en": "M\u00c4R Omega"
    },
    "contentRating": "safe",
    "score": 0.33483627,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "d1544476-7d01-4fce-9d96-55fff2e5081d.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:58:17+00:00"
+ "updatedAt": "2021-07-18T06:58:17+00:00",
+ "coverFileName": "288d96d0-06fa-4608-8b08-d628c346ccb7.jpg"
 }

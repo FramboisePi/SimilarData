@@ -20,7 +20,8 @@
     "it",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "31616f14-95a8-41e5-bf42-0292087c4158.jpg"
   },
   {
    "id": "5affa94f-687a-4a08-90fe-99b113a5f6c2",
@@ -32,7 +33,8 @@
    "languages": [
     "en",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "7f2ca59d-6566-4ef3-8dd2-564bba80c24f.jpg"
   },
   {
    "id": "eba602f3-5e5d-48ff-b054-d7776181e27c",
@@ -45,7 +47,8 @@
     "en",
     "ru",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "6f7ba042-5475-4046-8c63-5e91f683099e.jpg"
   },
   {
    "id": "be8fe64b-37da-4fba-b14d-603aba19be1f",
@@ -61,7 +64,8 @@
     "es",
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "f0ddd3d1-8dd0-45fc-ac0f-d0c223969d80.jpg"
   },
   {
    "id": "f0a83c26-d7f9-49f5-826c-79dc5e0cede7",
@@ -72,12 +76,13 @@
    "score": 0.46978918,
    "languages": [
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "4b9015ec-c0ca-415f-8676-b87fec4dcc9c.jpg"
   },
   {
    "id": "59b36734-f2d6-46d7-97c0-06cfd2380852",
    "title": {
-    "en": "Tokyo卍Revengers"
+    "en": "Tokyo\u534dRevengers"
    },
    "contentRating": "safe",
    "score": 0.46738797,
@@ -93,7 +98,8 @@
     "id",
     "pl",
     "tr"
-   ]
+   ],
+   "coverFileName": "57f3e550-e0f0-4078-b248-5bc0707fcd51.jpg"
   },
   {
    "id": "4cc3324e-f15b-4684-8b99-bc4d0ab495aa",
@@ -107,19 +113,21 @@
     "zh-hk",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "923970c9-c473-48f3-84a5-a3773a092af4.jpg"
   },
   {
    "id": "3ae3f179-c579-43ca-908f-9d6e20e8aee1",
    "title": {
-    "en": "Kiss \u0026 Cry"
+    "en": "Kiss & Cry"
    },
    "contentRating": "safe",
    "score": 0.4638254,
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "d5f20d9d-40c6-4aac-a518-2eabcf355802.jpg"
   },
   {
    "id": "359441d4-63f7-426c-b914-c636578ddcb0",
@@ -131,7 +139,8 @@
    "languages": [
     "zh-hk",
     "en"
-   ]
+   ],
+   "coverFileName": "6ee0afdd-a2b5-445b-9d29-8df7e560b42f.jpg"
   },
   {
    "id": "7c418a1c-9241-451e-995a-31f673b4340a",
@@ -145,7 +154,8 @@
     "zh-hk",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "beaf8b75-facb-470e-8981-505fd1ab4a9a.jpg"
   },
   {
    "id": "b5f2912d-3f27-4445-a594-5d523684fd3b",
@@ -158,7 +168,8 @@
     "en",
     "zh-hk",
     "ru"
-   ]
+   ],
+   "coverFileName": "dea0646a-119d-4ecc-83ed-0817727060d1.jpg"
   },
   {
    "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
@@ -172,8 +183,10 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "391f012f-07bb-4b28-8492-5a34f50e955e.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:59:22+00:00"
+ "updatedAt": "2021-07-18T06:59:22+00:00",
+ "coverFileName": "c5752166-850b-4166-93f7-1dc24f384c3f.jpg"
 }

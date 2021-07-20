@@ -1,7 +1,7 @@
 {
  "id": "003a8935-fb27-495f-82de-17203c2aeb27",
  "title": {
-  "en": "Love \u0026 Sex"
+  "en": "Love & Sex"
  },
  "contentRating": "erotica",
  "matches": [
@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "e1ab2d92-d966-4fca-8832-77a5d4b50684.jpg"
   },
   {
    "id": "6674a533-298d-47a6-831f-056323456e5a",
@@ -26,7 +27,8 @@
    "score": 0.41581464,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "950a7f28-8be5-43b9-8a42-54c03640a7a2.jpg"
   },
   {
    "id": "2df4578c-f275-4fe5-823e-35fcdb4a2f6b",
@@ -37,7 +39,8 @@
    "score": 0.40527555,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "a5666ae1-83fc-4b06-828c-4ca9877a85b4.jpg"
   },
   {
    "id": "ea26289b-c42e-4534-a864-90f42467d401",
@@ -48,7 +51,8 @@
    "score": 0.39856806,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "ff9b382c-6756-4b1c-888f-f3bdda08ae16.jpg"
   },
   {
    "id": "c5f42ad9-ad34-4f69-b0f1-153509fda7b6",
@@ -59,7 +63,8 @@
    "score": 0.3837613,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2d64164e-02b5-4ea2-9dff-7619ae8a1f5f.jpg"
   },
   {
    "id": "687a30d5-ad4e-4299-a949-16a6aaafcbd2",
@@ -72,7 +77,8 @@
     "en",
     "tr",
     "bg"
-   ]
+   ],
+   "coverFileName": "42ece705-69cb-4278-8f33-0940ba603cba.jpg"
   },
   {
    "id": "d026c21b-1f60-4213-b339-ac133ba5a693",
@@ -83,7 +89,8 @@
    "score": 0.38338846,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "8946b54d-e37d-4de3-badb-5869b7c5eaf8.jpg"
   },
   {
    "id": "418d1579-df53-489e-a5aa-f70ebd2fd449",
@@ -94,7 +101,8 @@
    "score": 0.3698046,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3a02e8d5-298d-449f-8c04-16f736cdb1d1.jpg"
   },
   {
    "id": "642ab4ce-23d7-4f69-bb4a-df0a8bca255c",
@@ -105,7 +113,8 @@
    "score": 0.36507413,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "f9732569-f4e9-44c1-8504-e0efd03ac5d7.jpg"
   },
   {
    "id": "995542bc-9e30-4c24-a9f8-edee2b5db960",
@@ -116,7 +125,8 @@
    "score": 0.36182937,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "65fc7109-4290-4a59-b20e-1404d8cc491b.jpg"
   },
   {
    "id": "85d656da-dcfd-4a46-bb4c-68fde5810f60",
@@ -127,7 +137,8 @@
    "score": 0.36109605,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "b7546c58-03d5-4422-b33b-efee4803bdc2.png"
   },
   {
    "id": "d74bacca-34ec-4e3d-9a01-733f3b2e3b80",
@@ -139,8 +150,10 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "51b7d15e-2567-4ae9-9625-a36f15abfb2f.png"
   }
  ],
- "updatedAt": "2021-07-18T06:24:32+00:00"
+ "updatedAt": "2021-07-18T06:24:32+00:00",
+ "coverFileName": "af3a714a-5a2f-4cf9-b37e-8f1e3590dda3.jpg"
 }

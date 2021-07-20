@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "vi"
-   ]
+   ],
+   "coverFileName": "279cc46b-9424-465f-844d-5dcd838ce3e6.jpg"
   },
   {
    "id": "ae27e48e-bfa2-4fce-84cf-97688f3b370c",
@@ -26,7 +27,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0968fac1-5ca7-40c8-9f7c-e9a72106ecea.jpg"
   },
   {
    "id": "cad2cda2-3eee-4185-8a12-712760f4f746",
@@ -37,7 +39,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1d54006d-87a4-4e62-9bb7-a02d7942dd36.jpg"
   },
   {
    "id": "aa80d14e-7d70-458f-b0e6-b8d87e2a5d4a",
@@ -49,7 +52,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "02251812-bcf3-4476-a8f5-8956fe76a82c.jpg"
   },
   {
    "id": "6a0d3c6e-a5d4-4f61-ae5c-fcff2a789145",
@@ -62,7 +66,8 @@
     "en",
     "ar",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "00471416-1316-44a7-8822-64bf1f25fa3d.jpg"
   },
   {
    "id": "05e21132-17da-4bed-8b46-19a329211338",
@@ -73,7 +78,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "18c0f824-3353-4af8-bed0-b1f8eba535c8.jpg"
   },
   {
    "id": "e6622f32-bba2-4dd1-9902-d88db9ec85bd",
@@ -85,7 +91,8 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "1ba4d223-df39-4b9f-b049-1cd9e33b5bc6.jpg"
   },
   {
    "id": "8fe35785-803d-461d-abad-73cf2f81ca4b",
@@ -96,7 +103,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "babbeae8-a76b-4899-bd6a-f98075a597ed.jpg"
   },
   {
    "id": "a373c624-cac2-48a2-b7aa-f49d99e3a219",
@@ -107,7 +115,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "da0a7794-d947-4f99-8728-eb868d42eaf3.jpg"
   },
   {
    "id": "c6b0b72f-4601-40d7-9b1c-ee7ab1552a52",
@@ -118,18 +127,20 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "56bfac35-fad1-4ec1-8267-821388ed2c47.png"
   },
   {
    "id": "f8e63ded-8ed8-4f56-bfd2-0d3f5b69e2fc",
    "title": {
-    "en": "Pokémon Gold \u0026 Silver: The Golden Boys"
+    "en": "Pok\u00e9mon Gold & Silver: The Golden Boys"
    },
    "contentRating": "safe",
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4bf07127-355a-46c9-9208-7f15ad3236b5.jpg"
   },
   {
    "id": "9465fdb7-d903-4e42-af12-edac150baf2e",
@@ -141,8 +152,10 @@
    "languages": [
     "it",
     "en"
-   ]
+   ],
+   "coverFileName": "76f3f0db-10a2-4963-84e4-3e2de22c8680.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:55:19+00:00"
+ "updatedAt": "2021-07-18T06:55:19+00:00",
+ "coverFileName": "b2c3bb70-d2b6-40b7-8e34-cc6c3cca6142.jpg"
 }

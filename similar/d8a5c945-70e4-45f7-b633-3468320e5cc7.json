@@ -21,7 +21,8 @@
     "it",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "ed90ff27-653c-4e6b-ae22-e09f828e0a24.jpg"
   },
   {
    "id": "c3bd16ff-f5f8-4e30-8204-7bc0f0138afc",
@@ -32,7 +33,8 @@
    "score": 0.3848919,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2c5b9adc-679c-4fd7-9247-3f196765bb50.jpg"
   },
   {
    "id": "0721494e-b8ee-4d8d-b7d1-06767451b44d",
@@ -44,7 +46,8 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "dda875af-4e41-4df6-9a60-dbba49eb6ba5.jpg"
   },
   {
    "id": "91e2e469-8d67-49d6-b810-c9a465431eba",
@@ -55,18 +58,20 @@
    "score": 0.35016662,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "7601bc22-b8dd-4682-8d1e-5d9aaf00eee1.png"
   },
   {
    "id": "9dadd209-53ac-4043-92cb-774ada1b18b4",
    "title": {
-    "en": "Harukaze BITTER★BOP"
+    "en": "Harukaze BITTER\u2605BOP"
    },
    "contentRating": "safe",
    "score": 0.349139,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "3c932e3f-ce6f-4973-b5cd-c5d936e005a4.jpg"
   },
   {
    "id": "80ac2c7c-c438-489c-8b95-bea3837316b1",
@@ -78,7 +83,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "8ff3e71b-804e-4421-a17e-9621579c393d.jpg"
   },
   {
    "id": "10ac3ce4-de88-49c6-b9f9-001a5bf08351",
@@ -91,7 +97,8 @@
     "en",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "0e748c08-6d8f-426c-957f-ec78eb4c8898.jpg"
   },
   {
    "id": "5989eac7-79f0-4e62-9163-ee5b2f7b44c2",
@@ -102,7 +109,8 @@
    "score": 0.34128782,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2e519689-5cdf-4135-930a-8fc17b104790.jpg"
   },
   {
    "id": "93bb38b2-8394-44b6-8aa6-34febe2b89e2",
@@ -114,7 +122,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "e6a69b87-073b-4619-a94a-029e322445b1.jpg"
   },
   {
    "id": "9dfad826-ec2d-4e74-9ff1-71e5347507c8",
@@ -125,7 +134,8 @@
    "score": 0.33988148,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "4150e4fc-9f51-44c2-ba4d-58fd731d8432.jpg"
   },
   {
    "id": "a4e30e56-bbde-4e2b-85e5-192e219cc823",
@@ -138,7 +148,8 @@
     "en",
     "de",
     "pl"
-   ]
+   ],
+   "coverFileName": "571c50f6-6f5d-440b-a150-0a9fee23029b.jpg"
   },
   {
    "id": "3dd0b814-23f4-4342-b75b-f206598534f6",
@@ -150,8 +161,10 @@
    "languages": [
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "6e22abf3-f66b-479f-a5f2-7a18512cbd10.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:04:38+00:00"
+ "updatedAt": "2021-07-18T07:04:38+00:00",
+ "coverFileName": "7376adb5-324f-4e59-9a05-6ee3085593d4.jpg"
 }

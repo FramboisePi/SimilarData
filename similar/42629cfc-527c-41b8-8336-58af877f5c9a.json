@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "4109c636-62a9-4027-a5bd-c63a817ac679.jpg"
   },
   {
    "id": "e4e154ba-cf32-4966-b0b2-2c3eaafe0f6d",
@@ -30,7 +31,8 @@
     "ru",
     "fr",
     "pl"
-   ]
+   ],
+   "coverFileName": "36be371d-1a2e-4e9b-ab3b-724fd20399b5.jpg"
   },
   {
    "id": "67f7d17a-d448-411d-ab6a-5649b3ebe7f0",
@@ -41,7 +43,8 @@
    "score": 0.325078,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "347ca1fd-1b24-4a34-a38a-3ff88a1113bb.jpg"
   },
   {
    "id": "1784f612-9a81-4ed6-a596-ef3e2d2e814f",
@@ -53,7 +56,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "9c665cca-3278-4117-a46a-516d9df1312f.jpg"
   },
   {
    "id": "a9a125c7-7090-4a1e-8a87-9b63227b651f",
@@ -67,7 +71,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "cfe7b629-09f0-4d88-b673-918ca01fbd86.jpg"
   },
   {
    "id": "c4d29e36-7cc6-475c-a7ef-3956f517f64f",
@@ -78,7 +83,8 @@
    "score": 0.32235616,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "42ad2f01-159a-4f6f-81c7-cfbb250d2b1b.png"
   },
   {
    "id": "0684c20c-2b60-44fb-aa58-fd4b4e2800bf",
@@ -91,7 +97,8 @@
     "es",
     "ro",
     "en"
-   ]
+   ],
+   "coverFileName": "3a2e8d13-0a1d-4ff4-bad7-f4017cf097c1.jpg"
   },
   {
    "id": "236cd85c-049a-49fb-9380-98ae130532ab",
@@ -102,7 +109,8 @@
    "score": 0.31945586,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "fd54ed1b-86dc-4827-b5e0-a3ccebb1748d.jpg"
   },
   {
    "id": "9af20a3c-dd01-45ff-a23a-29aa5f573f6e",
@@ -120,7 +128,8 @@
     "de",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "f562b8b2-9254-4136-8ad1-4237a21927b6.png"
   },
   {
    "id": "0a6d21d6-73ca-4d68-843d-711e6c7e6418",
@@ -133,18 +142,20 @@
     "id",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "6eca02a0-0b22-45b1-a4f4-02ca7f03b2bc.png"
   },
   {
    "id": "44e34db3-4a19-4a7e-96a2-4f662e1b65b1",
    "title": {
-    "en": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc \u0026 Despair Arc Comic Anthology  (Dengeki Comics EX)"
+    "en": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc & Despair Arc Comic Anthology  (Dengeki Comics EX)"
    },
    "contentRating": "safe",
    "score": 0.30569625,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "5c53142f-ee8c-42e9-8c6e-0c5bcb2a3539.jpg"
   },
   {
    "id": "6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5",
@@ -157,8 +168,10 @@
     "en",
     "pt-br",
     "ru"
-   ]
+   ],
+   "coverFileName": "6a001e75-1745-4d20-8351-496c728f1e2a.jpg"
   }
  ],
- "updatedAt": "2021-07-18T06:36:50+00:00"
+ "updatedAt": "2021-07-18T06:36:50+00:00",
+ "coverFileName": "dd7dc17c-2da0-4ad1-80ec-43a589a7fe78.jpg"
 }

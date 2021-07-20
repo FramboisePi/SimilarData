@@ -15,7 +15,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "1d256948-2bd3-4937-87ec-6cdb832a0aa2.jpg"
   },
   {
    "id": "786d3943-a0af-494e-b417-60cf57934e3b",
@@ -26,7 +27,8 @@
    "score": 0.56045234,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "87ae018f-5f9d-49dc-8e1a-81ecfe108b74.jpg"
   },
   {
    "id": "3bf0a697-e7f3-4b7a-aae9-e98c1fa31c43",
@@ -37,19 +39,21 @@
    "score": 0.5533807,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "67db0c40-7e64-436f-80f5-5f122650f925.jpg"
   },
   {
    "id": "fe3447fb-cb75-462b-882b-88e12b69c6bd",
    "title": {
-    "en": "Happy \u0026 Murphy"
+    "en": "Happy & Murphy"
    },
    "contentRating": "safe",
    "score": 0.4906361,
    "languages": [
     "hu",
     "en"
-   ]
+   ],
+   "coverFileName": "698b7852-9d31-4c7e-8a4c-add711d57e4a.jpg"
   },
   {
    "id": "1f765927-3f8b-4ad6-a5e2-d71ffd590feb",
@@ -60,7 +64,8 @@
    "score": 0.4872538,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "0c01f152-dad1-44b1-ab32-5b738a2a9a79.jpg"
   },
   {
    "id": "9989cb9e-1492-4255-a9b1-d7a181b3ec13",
@@ -72,7 +77,8 @@
    "languages": [
     "es-la",
     "en"
-   ]
+   ],
+   "coverFileName": "a9103c30-6d8f-400c-bad0-e1ae9f87dce9.png"
   },
   {
    "id": "9356fa3f-9ecd-4ff7-a7fe-241884680079",
@@ -84,7 +90,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "ffd10199-ae39-4395-b2cb-9d47ba3c2cff.jpg"
   },
   {
    "id": "4c304cd0-dd8e-49c1-aa47-f6b56ebf1d16",
@@ -95,7 +102,8 @@
    "score": 0.47214353,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "627c2b8d-4699-433d-8396-43c46096bbc7.jpg"
   },
   {
    "id": "d2442b78-f30a-4623-8e46-bd32a5667bea",
@@ -107,7 +115,8 @@
    "languages": [
     "en",
     "pl"
-   ]
+   ],
+   "coverFileName": "d5e4afac-df48-48e3-a664-1438bbd3aefa.jpg"
   },
   {
    "id": "0ce96a27-1c3b-4a90-ae33-3c5696e96703",
@@ -118,7 +127,8 @@
    "score": 0.46112978,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "c72f8d21-35ef-4f0a-8240-f5aa43c4fe90.jpg"
   },
   {
    "id": "911a12ae-1022-448e-9219-b7b294d7fb3e",
@@ -132,7 +142,8 @@
     "pl",
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "07481590-a698-4a36-bbdb-9c45ecde8bdd.jpg"
   },
   {
    "id": "3896f600-f24b-4649-a246-7120de77b6de",
@@ -144,8 +155,10 @@
    "languages": [
     "en",
     "es"
-   ]
+   ],
+   "coverFileName": "d1a9d240-04ef-469b-95a2-88c9e3a798e2.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:57+00:00"
+ "updatedAt": "2021-07-18T07:01:57+00:00",
+ "coverFileName": "2348c5d7-78aa-4330-940a-22c65073dfc7.jpg"
 }

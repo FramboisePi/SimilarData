@@ -15,7 +15,8 @@
    "languages": [
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "89424e1b-1163-4452-af7e-603192651fa7.jpg"
   },
   {
    "id": "d326d556-57d3-445a-993d-68ba401dc6f0",
@@ -31,7 +32,8 @@
     "pt-br",
     "es",
     "en"
-   ]
+   ],
+   "coverFileName": "be4b00c8-f45e-421b-bff1-4a0fe4a4acfd.jpg"
   },
   {
    "id": "67b27d92-42d5-44c0-989e-9fcd33a2fae1",
@@ -46,7 +48,8 @@
     "vi",
     "pt-br",
     "pl"
-   ]
+   ],
+   "coverFileName": "835df747-a102-45d6-a252-4227bca21eb0.jpg"
   },
   {
    "id": "2e5cbfe5-bd49-4a26-b425-1854e2e117b1",
@@ -60,7 +63,8 @@
     "fr",
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7aca0d1d-5a8f-4356-9b21-c9071f1dc094.jpg"
   },
   {
    "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
@@ -74,7 +78,8 @@
     "pt-br",
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "54306c50-f441-493e-a1e4-dd51d78ca99f.jpg"
   },
   {
    "id": "4b1d628d-ed91-486a-b5fa-0bed5b01030c",
@@ -85,19 +90,21 @@
    "score": 0.47711477,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "1367f4fa-03ab-44be-aa8a-0e17661520bf.jpg"
   },
   {
    "id": "b62659e0-fb91-4cf1-a62f-c4e058f9917a",
    "title": {
-    "en": "Mahou Shoujo Suzune★Magica"
+    "en": "Mahou Shoujo Suzune\u2605Magica"
    },
    "contentRating": "safe",
    "score": 0.464481,
    "languages": [
     "tr",
     "en"
-   ]
+   ],
+   "coverFileName": "6dabc76f-0135-469a-ad42-a7bc3051f6d7.jpg"
   },
   {
    "id": "aafb046c-9de4-4c3d-990c-6d75b079c0b9",
@@ -115,7 +122,8 @@
     "es-la",
     "id",
     "uk"
-   ]
+   ],
+   "coverFileName": "4cc71a8f-8a3d-4b15-8968-3a1092a0b31e.jpg"
   },
   {
    "id": "911025e8-ae47-499c-8eff-453d18b6459a",
@@ -126,7 +134,8 @@
    "score": 0.45,
    "languages": [
     "en"
-   ]
+   ],
+   "coverFileName": "2bac72cf-4362-44bd-8dbe-5f29cd9c6c2c.jpg"
   },
   {
    "id": "cee1a059-dc4e-42d6-b96a-fa0253b7accd",
@@ -142,7 +151,8 @@
     "pl",
     "pt-br",
     "fr"
-   ]
+   ],
+   "coverFileName": "be5aeeba-d8f9-482a-82b2-51dc4244f7d8.jpg"
   },
   {
    "id": "b9ec8d51-f28e-481b-944e-af128aae42d2",
@@ -155,7 +165,8 @@
     "en",
     "es-la",
     "zh-hk"
-   ]
+   ],
+   "coverFileName": "1ac86b38-4dcd-4567-a50c-6e550a0ff285.jpg"
   },
   {
    "id": "907ccba0-6f9f-4ab3-9d71-ff5a91c2a7b8",
@@ -169,8 +180,10 @@
     "en",
     "fr",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "0ac2a816-511d-4e89-9c76-c2e66252c8d7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:01:28+00:00"
+ "updatedAt": "2021-07-18T07:01:28+00:00",
+ "coverFileName": "dd8e3d53-e116-4375-ab99-bf440b2cf6d2.jpg"
 }

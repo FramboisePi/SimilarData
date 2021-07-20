@@ -16,7 +16,8 @@
     "es-la",
     "ru",
     "en"
-   ]
+   ],
+   "coverFileName": "c37ff55c-3853-437d-8a1a-22f27e76eda5.jpg"
   },
   {
    "id": "ffe69cc2-3f9e-4eab-a7f7-c963cea9ec25",
@@ -31,7 +32,8 @@
     "pt-br",
     "ru",
     "id"
-   ]
+   ],
+   "coverFileName": "71ab1b28-4765-4816-be1e-526969f1df08.jpg"
   },
   {
    "id": "d68ceffd-ac56-45db-9129-3413dd0d7063",
@@ -43,7 +45,8 @@
    "languages": [
     "en",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "7c6ea9a0-3373-47a7-881e-cd26b588c0a6.jpg"
   },
   {
    "id": "9c4f1b25-c224-4346-990a-f18c77f4ab9e",
@@ -55,7 +58,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "d4bdfc59-8774-4ac2-8b8e-6851a050268f.jpg"
   },
   {
    "id": "5f0ac9d3-ea89-4ebe-a66f-4fd4774c8b1a",
@@ -67,7 +71,8 @@
    "languages": [
     "pt-br",
     "en"
-   ]
+   ],
+   "coverFileName": "e42bf9a0-4c2d-4e4b-ab74-d3631e9b4821.jpg"
   },
   {
    "id": "6033535e-ea6a-4f52-9d81-17101a739c33",
@@ -80,7 +85,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8ba2d2f0-91a3-4e6a-bc0a-d415b495adb0.jpg"
   },
   {
    "id": "f7e793d0-0f08-445d-87ac-3c2bde81242f",
@@ -92,7 +98,8 @@
    "languages": [
     "en",
     "fr"
-   ]
+   ],
+   "coverFileName": "cc3d5259-3e46-49e5-abf1-2b1b1b425cff.png"
   },
   {
    "id": "5127bc3e-6b87-4fa2-82eb-fd363cd4c10a",
@@ -104,7 +111,8 @@
    "languages": [
     "en",
     "ru"
-   ]
+   ],
+   "coverFileName": "814f6d39-caf7-44cb-aec1-fef5c8be5e62.jpg"
   },
   {
    "id": "9a26c98f-ce6d-4809-b69e-d8e23924ec1c",
@@ -118,7 +126,8 @@
     "en",
     "pt-br",
     "th"
-   ]
+   ],
+   "coverFileName": "14378106-9d60-413b-aee2-58faa1798e33.jpg"
   },
   {
    "id": "18cee764-9066-4fc5-a30f-8cee54788c3a",
@@ -132,12 +141,13 @@
     "pt-br",
     "id",
     "es-la"
-   ]
+   ],
+   "coverFileName": "95ef7058-fe9e-4704-a26b-ef28eea5bfa5.jpg"
   },
   {
    "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
    "title": {
-    "en": "Ore wa Subete wo “Parry” Suru"
+    "en": "Ore wa Subete wo \u201cParry\u201d Suru"
    },
    "contentRating": "safe",
    "score": 0.41463894,
@@ -145,7 +155,8 @@
     "ru",
     "en",
     "id"
-   ]
+   ],
+   "coverFileName": "8b497b88-3a61-4b97-9d49-ff3671e156ec.jpg"
   },
   {
    "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
@@ -158,8 +169,10 @@
     "en",
     "ru",
     "pt-br"
-   ]
+   ],
+   "coverFileName": "2f5e8b9e-e8fd-472c-a990-819c2a1f371a.png"
   }
  ],
- "updatedAt": "2021-07-18T07:04:33+00:00"
+ "updatedAt": "2021-07-18T07:04:33+00:00",
+ "coverFileName": "240db096-0868-4387-8956-d341aec6bf87.jpg"
 }

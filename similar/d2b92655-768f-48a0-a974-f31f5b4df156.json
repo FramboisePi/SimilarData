@@ -1,7 +1,7 @@
 {
  "id": "d2b92655-768f-48a0-a974-f31f5b4df156",
  "title": {
-  "en": "Togainu no Chi – Blip Noise"
+  "en": "Togainu no Chi \u2013 Blip Noise"
  },
  "contentRating": "safe",
  "matches": [
@@ -14,7 +14,8 @@
    "score": 0.50082344,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "ad04491e-7fd0-4bdd-b613-45f7bfd8f921.jpg"
   },
   {
    "id": "09f7eab5-9595-436f-86cc-df48fa0e5ca7",
@@ -26,29 +27,32 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "9b4749d8-3077-459e-8a67-75a0ff9f58fa.jpg"
   },
   {
    "id": "68cb28da-ea56-458c-9b34-b39cfde2b974",
    "title": {
-    "en": "Lamento – Magnolia"
+    "en": "Lamento \u2013 Magnolia"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "97a6c9cc-e3fd-4d1f-86ff-9bb1657c9b2d.png"
   },
   {
    "id": "53adbd7f-a28b-40e9-b68e-193f5d10225b",
    "title": {
-    "en": "Touken Ranbu – Koi te Kurushii"
+    "en": "Touken Ranbu \u2013 Koi te Kurushii"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "5f25e8c6-8ade-4a3e-a497-cef64fa302db.png"
   },
   {
    "id": "1b4c13c6-5a8c-4351-87ce-c336e296026a",
@@ -60,7 +64,8 @@
    "languages": [
     "pl",
     "en"
-   ]
+   ],
+   "coverFileName": "ba5fb354-23cb-47c4-84f0-2488f8245262.jpg"
   },
   {
    "id": "1b5dfd90-031a-4462-bf24-ddcabdc478c6",
@@ -71,18 +76,20 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "d9c2ea71-b869-4190-867c-3503f3a9bae9.jpg"
   },
   {
    "id": "5c740a42-b2bd-4df4-b9ae-ed1da5efdd5c",
    "title": {
-    "en": "Togainu no Chi – Mekakushi Oni"
+    "en": "Togainu no Chi \u2013 Mekakushi Oni"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "b7ab17a6-2daa-461c-9640-3d4eeff77519.jpg"
   },
   {
    "id": "c0ef621c-97fd-442e-b44f-62318f5913b1",
@@ -93,29 +100,32 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "03ba5be1-c104-473c-af6c-3b3680fe5a65.jpg"
   },
   {
    "id": "e39b29e1-5b03-48f6-a7ca-e1a203288c5a",
    "title": {
-    "en": "Lamento – Overflow"
+    "en": "Lamento \u2013 Overflow"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "fbd4d9e4-56af-4615-8877-71ef7a2f15cc.png"
   },
   {
    "id": "44fb9289-7e48-4c32-9b71-4cf0fef775b4",
    "title": {
-    "en": "Lamento – Flawed"
+    "en": "Lamento \u2013 Flawed"
    },
    "contentRating": "safe",
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "5eac7aac-fd5e-4751-a234-e1d5fcec4955.png"
   },
   {
    "id": "97e797ff-724f-4515-99b7-ee72505a47f7",
@@ -126,7 +136,8 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "2fa9a97a-d99a-4cc7-b699-547300632fab.jpg"
   },
   {
    "id": "36eeac92-5ba2-4db3-89d5-a0d947d96ce3",
@@ -137,8 +148,10 @@
    "score": 0.44652504,
    "languages": [
     "pl"
-   ]
+   ],
+   "coverFileName": "c8539089-7dee-4cbf-b7fa-b835f43e17b7.jpg"
   }
  ],
- "updatedAt": "2021-07-18T07:03:30+00:00"
+ "updatedAt": "2021-07-18T07:03:30+00:00",
+ "coverFileName": "250ec3a3-b7d8-4518-a5fd-31e7ee3ba4f1.jpg"
 }
